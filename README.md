@@ -2,10 +2,14 @@
 &#x1F34E; **TOPIC = "Oprah"**
 
 ## AUTOMATED RESEARCH SUMMARY
+<div class="alert alert-warning alert-dismissible fade show">
+    <strong>Warning!</strong> Please enter a valid value in all the required fields before proceeding.
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+</div>
 
 ![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
 <br></br>
-<div class="alert alert-success">This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</div>
+<div class="alert alert-success"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
 
 
 
