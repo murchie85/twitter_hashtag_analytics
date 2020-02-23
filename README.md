@@ -52,19 +52,19 @@ The most popular user is: **Dee_Cheddah**
 VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
-Random value picked from array: 
-
-<div class="alert alert-block alert-info">RT @BhadmusAkeem: This fight is happening! 
+| Random value picked from array |
+| ------------- |
+|RT @BhadmusAkeem: This fight is happening! 
 Who is winning this? 
 
 Like = Tyson Fury Wins
-RT = Anthony Joshua Wins https://t.co/IDIFQSQpoF</div>
+RT = Anthony Joshua Wins https://t.co/IDIFQSQpoF |
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **Dee_Cheddah**
-
-<div class="alert alert-block alert-danger"> RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli…</div>
+| The most retweeted user is: **Dee_Cheddah**  |
+| ------------- |
+| RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
