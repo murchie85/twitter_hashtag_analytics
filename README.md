@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "Marlies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,19 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @SteveDavidMike2: @lifeinromania @Lamborghini @Jumpman23 @tonyhawk @brucelee @steveaoki @JerrySeinfeld @ofctimallen @jayleno @DaneCook @…</div> <div class="alert alert-block alert-success">@brother_chui What if [they] are trying to kill off as many people as possible, anyhow [they] can, while [they] sti… https://t.co/HdhKNaCO5S</div> <div class="alert alert-block alert-info">@BillGates@melindagates[6]VISION:The realization of Leading Mini Vehicles Sector as Millennial Public Favorite… https://t.co/EteXDgLmAh</div> |
-The most popular user is: **KristinLauter**
-<div class="alert alert-block alert-danger"> RT @BillGates: When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to…</div>
+| <div class="alert alert-block alert-warning">Is it possible to send the entire roster down and bring the Marlies roster up</div> <div class="alert alert-block alert-success">It's the first time in my life I am turning away from a #Habs' game to watch #Leafs. I am told that the Marlies' Za… https://t.co/GwYTUzR6w9</div> <div class="alert alert-block alert-info">RT @NathanGraviteh: Emergency goalie David Ayres making his NHL debut.He faces of against the Leafs in FULL Marlies gear. 😂 https://t.co/…</div> |
+The most popular user is: **jodiferg**
+<div class="alert alert-block alert-danger"> RT @hockeynight: The emergency backup goalie is in!
+
+David Ayres, a Toronto Marlies Zamboni driver, makes his @NHL debut 👏👏 https://t.co/Mq…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **JeffBezos** |
-| #3 Most tweeted to  | **justinbieber** |
-| NewProfiles (less than 10 days) | 2.0%  |
-| Tweeters with < 10 followers  | 13.0%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Canes** |
+| #2 Most tweeted to  | **NHL** |
+| #3 Most tweeted to  | **hockeynight** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.9%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -36,28 +38,30 @@ The most popular user is: **KristinLauter**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **@ARIANAGRANDE**  |
-| third  | **@MELISSABENOIST** |
-| fourth  | **@SALMAHAYEK**  |
-| fifth  | **@DUALIPA**  |
+| first  | **AYRES**  |
+| second  | **GOALIE**  |
+| third  | **MARLIES** |
+| fourth  | **EMERGENCY**  |
+| fifth  | **ZAMBONI**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @SteveDavidMike2: @lifeinromania @Lamborghini @Jumpman23 @tonyhawk @brucelee @steveaoki @JerrySeinfeld @ofctimallen @jayleno @DaneCook @…</div>
+<div class="alert alert-block alert-info">Is it possible to send the entire roster down and bring the Marlies roster up</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **KristinLauter**
+The most retweeted user is: **jodiferg**
 
-<div class="alert alert-block alert-danger"> RT @BillGates: When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to…</div>
+<div class="alert alert-block alert-danger"> RT @hockeynight: The emergency backup goalie is in!
+
+David Ayres, a Toronto Marlies Zamboni driver, makes his @NHL debut 👏👏 https://t.co/Mq…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
