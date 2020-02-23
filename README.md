@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "POTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,19 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @canarytrap: Maybe next time the same moron can write on how 9/11 was a false flag op by American Deep State and Neocons and let's see i…</div> <div class="alert alert-block alert-success">RT @AshaRangappa_: No one tells him about Russian interference because his own staff tells offficials in charge of it not to bring it up in…</div> <div class="alert alert-block alert-info">RT @PramilaJayapal: We were trying to tell y’all about our winning movement.... https://t.co/ok1BCABUFn</div> |
-The most popular user is: **martetanto**
-<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
+| <div class="alert alert-block alert-warning">RT @ConservaMomUSA: #TrumpRallyPhoenixWhen José’s peers ask how he can support @realDonaldTrump as a Hispanic, this brave young man says:…</div> <div class="alert alert-block alert-success">RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. It is an honour that he will be with us tomorrow, starting wi…</div> <div class="alert alert-block alert-info">@samuel_lasky @JosephineCuevas @iheartmindy @ewarren Who cares..🤷🏻‍♀️ Hes doing a great job as @POTUS  I couldn’t c… https://t.co/yMYRlfqYVG</div> |
+The most popular user is: **potus_johnny**
+<div class="alert alert-block alert-danger"> RT @NCTsmtown_127: NCT 127 '꿈 (Boom)' Track Video #3
+
+🏆'Neo Zone' Chart Page ➫ https://t.co/FoHQE4w1ci
+
+#NeoZone_Boom #NeoZone_꿈
+#NeoZone_T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **Iyervval** |
-| #3 Most tweeted to  | **AsteadWesley** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 3.76%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **narendramodi** |
+| NewProfiles (less than 10 days) | 1.9%  |
+| Tweeters with < 10 followers  | 4.14%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -36,28 +41,34 @@ The most popular user is: **martetanto**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **@NYTIMES**  |
-| third  | **SANDERS** |
-| fourth  | **BERNIE**  |
-| fifth  | **NEVADA**  |
+| first  | **@POTUS**  |
+| second  | **@REALDONALDTRUMP**  |
+| third  | **INDIA** |
+| fourth  | **US**  |
+| fifth  | **WELCOMING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @canarytrap: Maybe next time the same moron can write on how 9/11 was a false flag op by American Deep State and Neocons and let's see i…</div>
+<div class="alert alert-block alert-info">RT @ConservaMomUSA: #TrumpRallyPhoenix
+When José’s peers ask how he can support @realDonaldTrump as a Hispanic, this brave young man says:…</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **martetanto**
+The most retweeted user is: **potus_johnny**
 
-<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
+<div class="alert alert-block alert-danger"> RT @NCTsmtown_127: NCT 127 '꿈 (Boom)' Track Video #3
+
+🏆'Neo Zone' Chart Page ➫ https://t.co/FoHQE4w1ci
+
+#NeoZone_Boom #NeoZone_꿈
+#NeoZone_T…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
