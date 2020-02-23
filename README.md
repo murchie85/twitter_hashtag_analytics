@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,19 +15,18 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">Lewis Alfonso - 2Xplain [~ mix] https://t.co/PMqBjVU3mw via @YouTube</div> <div class="alert alert-block alert-success">RT @bts_bighit: Thank you for your support, @youtubemusic! https://t.co/2a6YwusuIF https://t.co/04wJMAOpJC</div> <div class="alert alert-block alert-info">RT @joonikii: Uhh... so I actually bought another MOTS: 7 album... and turns out there's 7 JIN PHOTO CARDS IN THIS ONE ALBUM WTF??I'm goi…</div> |
-The most popular user is: **AreebaMoazma**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
-(https://t.co/HygA9U4gOq)</div>
+| <div class="alert alert-block alert-warning">RT @SteveDavidMike2: @lifeinromania @Lamborghini @Jumpman23 @tonyhawk @brucelee @steveaoki @JerrySeinfeld @ofctimallen @jayleno @DaneCook @…</div> <div class="alert alert-block alert-success">@brother_chui What if [they] are trying to kill off as many people as possible, anyhow [they] can, while [they] sti… https://t.co/HdhKNaCO5S</div> <div class="alert alert-block alert-info">@BillGates@melindagates[6]VISION:The realization of Leading Mini Vehicles Sector as Millennial Public Favorite… https://t.co/EteXDgLmAh</div> |
+The most popular user is: **KristinLauter**
+<div class="alert alert-block alert-danger"> RT @BillGates: When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **bts_bighit** |
-| #3 Most tweeted to  | **BTS_twt** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 8.0%|
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **JeffBezos** |
+| #3 Most tweeted to  | **justinbieber** |
+| NewProfiles (less than 10 days) | 2.0%  |
+| Tweeters with < 10 followers  | 13.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -37,29 +36,28 @@ The most popular user is: **AreebaMoazma**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUTUBE**  |
-| second  | **VIA**  |
-| third  | **1** |
-| fourth  | **WATCH**  |
-| fifth  | **LIVE**  |
+| first  | **@BILLGATES**  |
+| second  | **@ARIANAGRANDE**  |
+| third  | **@MELISSABENOIST** |
+| fourth  | **@SALMAHAYEK**  |
+| fifth  | **@DUALIPA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (71.43%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">Lewis Alfonso - 2Xplain [~ mix] https://t.co/PMqBjVU3mw via @YouTube</div>
+<div class="alert alert-block alert-info">RT @SteveDavidMike2: @lifeinromania @Lamborghini @Jumpman23 @tonyhawk @brucelee @steveaoki @JerrySeinfeld @ofctimallen @jayleno @DaneCook @…</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **AreebaMoazma**
+The most retweeted user is: **KristinLauter**
 
-<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
-(https://t.co/HygA9U4gOq)</div>
+<div class="alert alert-block alert-danger"> RT @BillGates: When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
