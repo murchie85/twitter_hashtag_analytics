@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MansplainingIn5Words"**
+&#x1F34E; **TOPIC = "#MUNWAT"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #Alexa is like Simon says #MansplainingIn5Words |
-| RT @shawnsasoliman: Me: scientifically, water can help your skin with—‘Supportive’ guy: just stick to your makeup, babe #mansplainingin5wo… |
-| RT @FlindersEmma: #MansplainingIn5WordsI man hear me roar https://t.co/aeHqyHY0Ab |
+| RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
+| RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
+| Bruno Fernandes scores his first United goal, what a penalty, this guy's confidence is amazing #MUFC #MUNWAT |
 
-The most popular user is: **digweeg**
-<div class="alert alert-block alert-danger"> RT @VanessaFiji: “Women are hard to read” #MansplainingIn5Words https://t.co/oYKn7EF2XW</div>
+The most popular user is: **yobranic_kim**
+<div class="alert alert-block alert-danger"> RT @ManUtd: 🕐 Time for some team news!
+
+▪️ Six changes in total for #MUFC
+▪️ @MasonGreenwood starts
+▪️ @McTominay10 returns to the bench
+
+#…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **VanessaFiji** |
-| #2 Most tweeted to  | **tokyosensui** |
-| #3 Most tweeted to  | **JonnyGeller** |
-| NewProfiles (less than 10 days) | 1.28%  |
-| Tweeters with < 10 followers  | 7.75%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ManUtd** |
+| #2 Most tweeted to  | **premierleague** |
+| #3 Most tweeted to  | **OfficialFPL** |
+| NewProfiles (less than 10 days) | 0.98%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **digweeg**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MANSPLAININGIN5WORDS**  |
-| second  | **MANSPLAININGIN5WORDSRT**  |
-| third  | **MEN** |
-| fourth  | **WORDS**  |
-| fifth  | **WOMEN**  |
+| first  | **MUNWAT**  |
+| second  | **MUFC**  |
+| third  | **@MANUTD:** |
+| fourth  | **OPEN**  |
+| fifth  | **🔓**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Is it mansplaining if you correct someone who is wrong just because they're female or is that just the other person… https://t.co/eCLA6fPl5i |
+|RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **digweeg**  |
+| The most retweeted user is: **yobranic_kim**  |
 | ------------- |
-| RT @VanessaFiji: “Women are hard to read” #MansplainingIn5Words https://t.co/oYKn7EF2XW |
+| RT @ManUtd: 🕐 Time for some team news!▪️ Six changes in total for #MUFC▪️ @MasonGreenwood starts▪️ @McTominay10 returns to the bench#… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
