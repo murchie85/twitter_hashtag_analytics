@@ -54,11 +54,7 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BhadmusAkeem: This fight is happening! 
-Who is winning this? 
-
-Like = Tyson Fury Wins
-RT = Anthony Joshua Wins https://t.co/IDIFQSQpoF |
+|RT @MichaelBensonn: ⏰ Crazy how quickly things change in boxing. Three months ago PBC had all four heavyweight world titles under their con… |
 
 ### MOST RETWEETED 
 
