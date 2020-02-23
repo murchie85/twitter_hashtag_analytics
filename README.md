@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "SportsCenter"**
+&#x1F34E; **TOPIC = "#ItsAllFunUntil"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SportsCenter: "Kobe said the most important thing is to try to inspire others so they can be great in whatever they choose to do. I hop… |
-| RT @SEHSBEACON: BUZZER BEATER w/ 0.2 left on the clock at Judson U... Tromon Weston (3) &amp; Indiana University-Northwest beats the Eagles to… |
-| RT @SportsCenter: We'll always remember the time Steve Irwin wrestled a Gator in a This is SportsCenter commercial.Today would have been… |
+| RT @julcasagrande: #ItsAllFunUntil some idiot ruins it |
+| RT @NeverThatRobin2: #ItsAllFunUntil you piss off mom.And I'm mom. |
+| RT @Mytquinn69: #ItsAllFunUntil there's only room for one on the freaking door! https://t.co/X6Mx3eQoYw |
 
-The most popular user is: **KeaniRoxane**
-<div class="alert alert-block alert-danger"> RT @SportsCenter: This teacher drew a Kobe mural on his classroom white board 👏
-
-(via jcoreyartist/Instagram) https://t.co/xB9xA8ugpk</div>
+The most popular user is: **RidingTheBull01**
+<div class="alert alert-block alert-danger"> RT @julcasagrande: #ItsAllFunUntil some idiot ruins it</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SportsCenter** |
-| #2 Most tweeted to  | **BronzeBomber** |
-| #3 Most tweeted to  | **lwproductions4** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 4.22%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **TheTrueDocLove** |
+| #2 Most tweeted to  | **ChampneyLisa** |
+| #3 Most tweeted to  | **julcasagrande** |
+| NewProfiles (less than 10 days) | 1.32%  |
+| Tweeters with < 10 followers  | 1.98%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **KeaniRoxane**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@SPORTSCENTER:**  |
-| second  | **WILDERFURY2**  |
-| third  | **(VIA** |
-| fourth  | **MAT**  |
-| fifth  | **WHOLE**  |
+| first  | **ITSALLFUNUNTIL**  |
+| second  | **SOMEONE**  |
+| third  | **GETS** |
+| fourth  | **SOME**  |
+| fifth  | **MORNING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ShowtimeForum: "Kobe said the most important thing is to try to inspire others so they can be great in whatever they choose to do. I ho… |
+|RT @DanielAshley13: #ItsAllFunUntil You realize that your tweet with 300 "likes" and 100 RTs has a spelling error. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeaniRoxane**  |
+| The most retweeted user is: **RidingTheBull01**  |
 | ------------- |
-| RT @SportsCenter: This teacher drew a Kobe mural on his classroom white board 👏(via jcoreyartist/Instagram) https://t.co/xB9xA8ugpk |
+| RT @julcasagrande: #ItsAllFunUntil some idiot ruins it |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
