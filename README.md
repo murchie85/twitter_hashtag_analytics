@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "YouTube"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,20 +15,19 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @theangiestanton: I gave birth in chains while serving time in an American prison. @realDonaldTrump made it illegal to chain women durin…</div> <div class="alert alert-block alert-success">RT @JosephJFlynn1: Thank you @CharlieDaniels and @TJHproject  for this wonderful gift to @GenFlynn and for all you do for our awesome Veter…</div> <div class="alert alert-block alert-info">RT @BernieSanders: Don't tell @realDonaldTrump this because he'll get very nervous—we're going to beat him in Texas.</div> |
-The most popular user is: **lauriejacobs16**
-<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
-
-”The only thing Americans despise more than…</div>
+| <div class="alert alert-block alert-warning">Lewis Alfonso - 2Xplain [~ mix] https://t.co/PMqBjVU3mw via @YouTube</div> <div class="alert alert-block alert-success">RT @bts_bighit: Thank you for your support, @youtubemusic! https://t.co/2a6YwusuIF https://t.co/04wJMAOpJC</div> <div class="alert alert-block alert-info">RT @joonikii: Uhh... so I actually bought another MOTS: 7 album... and turns out there's 7 JIN PHOTO CARDS IN THIS ONE ALBUM WTF??I'm goi…</div> |
+The most popular user is: **AreebaMoazma**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
+(https://t.co/HygA9U4gOq)</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **BernieSanders** |
-| #3 Most tweeted to  | **RepAdamSchiff** |
+| #1 Most tweeted to  | **YouTube** |
+| #2 Most tweeted to  | **bts_bighit** |
+| #3 Most tweeted to  | **BTS_twt** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with < 10 followers  | 8.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -38,30 +37,29 @@ The most popular user is: **lauriejacobs16**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **VERY**  |
-| third  | **"DONT"** |
-| fourth  | **TRUMP**  |
-| fifth  | **@BERNIESANDERS:**  |
+| first  | **YOUTUBE**  |
+| second  | **VIA**  |
+| third  | **1** |
+| fourth  | **WATCH**  |
+| fifth  | **LIVE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (71.43%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @theangiestanton: I gave birth in chains while serving time in an American prison. @realDonaldTrump made it illegal to chain women durin…</div>
+<div class="alert alert-block alert-info">Lewis Alfonso - 2Xplain [~ mix] https://t.co/PMqBjVU3mw via @YouTube</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **lauriejacobs16**
+The most retweeted user is: **AreebaMoazma**
 
-<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
-
-”The only thing Americans despise more than…</div>
+<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
+(https://t.co/HygA9U4gOq)</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
