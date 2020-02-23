@@ -2,10 +2,11 @@
 &#x1F34E; **TOPIC = "Oprah"**
 
 ## AUTOMATED RESEARCH SUMMARY
-<div class="alert alert-warning alert-dismissible fade show">
-    <strong>Warning!</strong> Please enter a valid value in all the required fields before proceeding.
-    <button type="button" class="close" data-dismiss="alert">&times;</button>
-</div>
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
 <br></br>
