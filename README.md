@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "D Smoke"**
+&#x1F34E; **TOPIC = "Anthony Joshua"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,29 +15,19 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @rapcds: Deontay Wilder had D Smoke, but couldn’t handle THE SMOKE https://t.co/z0TMg44RMo</div> <div class="alert alert-block alert-success">@ComplexSports Yoh D Smoke Rhythm and Flow winner opening for Deontay wilder who just lost to Tyson https://t.co/EoHq9BISGc Damned</div> <div class="alert alert-block alert-info">RT @1EntreProNegro: Okay Deontay and D Smoke I see y’all on the black history black excellence tip!! 🔥🔥🔥🔥🔥 #WilderFury2 https://t.co/9k4E0W…</div> |
-The most popular user is: **d_efkk**
-<div class="alert alert-block alert-danger"> RT @HotFreestyle: Rest in Peace 🙏🏽
-
-- Pop Smoke
-- Kobe Bryant
-- Juice WRLD
-- Mac Miller
-- Nipsey
-- Fredo Santana
-- XXXTentacion
-- Peep
-- Pr…</div>
+| <div class="alert alert-block alert-warning">RT @BhadmusAkeem: This fight is happening! Who is winning this? Like = Tyson Fury WinsRT = Anthony Joshua Wins https://t.co/IDIFQSQpoF</div> <div class="alert alert-block alert-success">RT @BoxingKingdom14: RT If you want Tyson Fury vs Anthony Joshua next! https://t.co/1LTr23Jaln</div> <div class="alert alert-block alert-info">RT @MichaelBensonn: 🌍👑 List of current heavyweight boxing world champions:🇬🇧 WBA - Anthony Joshua 🇬🇧 IBF - Anthony Joshua🇬🇧 WBO - Antho…</div> |
+The most popular user is: **Dee_Cheddah**
+<div class="alert alert-block alert-danger"> RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **1EntreProNegro** |
-| #2 Most tweeted to  | **JuiceMan3x** |
-| #3 Most tweeted to  | **__nae_nae** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 1.94%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **_omoissy** |
+| #2 Most tweeted to  | **MichaelBensonn** |
+| #3 Most tweeted to  | **BoxingKingdom14** |
+| NewProfiles (less than 10 days) | 0.7%  |
+| Tweeters with < 10 followers  | 2.4%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -46,38 +36,32 @@ The most popular user is: **d_efkk**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SMOKE**  |
-| second  | **D**  |
-| third  | **BLACK** |
-| fourth  | **DEONTAY**  |
-| fifth  | **HISTORY**  |
+| first  | **ANTHONY**  |
+| second  | **JOSHUA**  |
+| third  | **FURY** |
+| fourth  | **TYSON**  |
+| fifth  | **🇬🇧**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @rapcds: Deontay Wilder had D Smoke, but couldn’t handle THE SMOKE https://t.co/z0TMg44RMo</div>
+<div class="alert alert-block alert-info">RT @BhadmusAkeem: This fight is happening! 
+Who is winning this? 
+
+Like = Tyson Fury Wins
+RT = Anthony Joshua Wins https://t.co/IDIFQSQpoF</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **d_efkk**
+The most retweeted user is: **Dee_Cheddah**
 
-<div class="alert alert-block alert-danger"> RT @HotFreestyle: Rest in Peace 🙏🏽
-
-- Pop Smoke
-- Kobe Bryant
-- Juice WRLD
-- Mac Miller
-- Nipsey
-- Fredo Santana
-- XXXTentacion
-- Peep
-- Pr…</div>
+<div class="alert alert-block alert-danger"> RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
