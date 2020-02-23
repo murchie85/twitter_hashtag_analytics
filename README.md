@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "realDonaldTrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,18 +15,20 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">@TheEllenShow Luv it. Cant stop watching. Sooooo cute</div> <div class="alert alert-block alert-success">RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div> <div class="alert alert-block alert-info">.@TheEllenShow Watching you &amp; listening to .@ladygaga are the only things that make me smile, &amp; I’m so proud to be… https://t.co/hlslABRtY4</div> |
-The most popular user is: **AlanN20457069**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
+| <div class="alert alert-block alert-warning">@k_ovfefe2 @realDonaldTrump @FoxNews Human spies to protect all involved.</div> <div class="alert alert-block alert-success">Lol we live in a simulation https://t.co/sLk0f7Zwf7</div> <div class="alert alert-block alert-info">RT @oneLOVE10053967: 😂🤣😂🤣😂🤣😂(:17 Timestamp) https://t.co/hFoWmkhQRE</div> |
+The most popular user is: **OFahrityLora**
+<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+
+”The only thing Americans despise more than…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **PeteButtigieg** |
-| #3 Most tweeted to  | **astridsingsjazz** |
-| NewProfiles (less than 10 days) | 3.0%  |
-| Tweeters with < 10 followers  | 15.0%|
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **FoxNews** |
+| #3 Most tweeted to  | **Cernovich** |
+| NewProfiles (less than 10 days) | 2.0%  |
+| Tweeters with < 10 followers  | 4.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -35,30 +37,31 @@ The most popular user is: **AlanN20457069**
 
 
 | Popularity Rank  | Term |
-
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW:**  |
-| second  | **FRIENDSREUNION**  |
-| third  | **WE’RE** |
-| fourth  | **BACK!**  |
-| fifth  | **@THEELLENSHOW**  |
+| first  | **@REALDONALDTRUMP**  |
+| second  | **@FOXNEWS**  |
+| third  | **BERNIE** |
+| fourth  | **TRUMP**  |
+| fifth  | **PRESIDENT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">@TheEllenShow Luv it. Cant stop watching. Sooooo cute</div>
+<div class="alert alert-block alert-info">@k_ovfefe2 @realDonaldTrump @FoxNews Human spies to protect all involved.</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **AlanN20457069**
+The most retweeted user is: **OFahrityLora**
 
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
+<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+
+”The only thing Americans despise more than…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
