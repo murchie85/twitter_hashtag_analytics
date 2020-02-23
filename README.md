@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Clifford"**
+&#x1F34E; **TOPIC = "Ayers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,20 +15,30 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">Says a Leafs fan. Naturally.Those who know Clifford better KNOW it was intentional. https://t.co/tSK728RVzP</div> <div class="alert alert-block alert-success">RT @CardiacCane: Clifford gets a 5 minute major for charging#LetsGoCanes #CARvsTOR</div> <div class="alert alert-block alert-info">We sent F to London for the break- THANK YOU to @smwark and @lucythornett for hosting our oldest and @mckenziewark… https://t.co/eCDq3cszJf</div> |
-The most popular user is: **clifford_mbb**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
-(https://t.co/HygA9U4gOq)</div>
+| <div class="alert alert-block alert-warning">@SNkylebukauskas @BizNasty2point0 Loved your interview post game with Ayers.    It was just perfect!</div> <div class="alert alert-block alert-success">@JeremyWGR @MapleLeafs If Jack Eichel couldn't carry Austin Matthews' skates, what did David Ayers just make Matthews carry!?</div> <div class="alert alert-block alert-info">RT @barstoolsports: David Ayers, the 42 year old zamboni driver emergency goalie and STONE WALL https://t.co/qfEtzwRM1W</div> |
+The most popular user is: **Virgini25568889**
+<div class="alert alert-block alert-danger"> RT @C_3C_3: Invited to Obamas White House:
+
+Soros
+Weinstein 
+Podesta
+BLM
+Jeremiah Wright
+Bill Ayers
+M. Moore
+Bob Creamer
+
+Does it all make…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **odognine2** |
-| #2 Most tweeted to  | **BradyTrett** |
-| #3 Most tweeted to  | **Mickcliff** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 4.12%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **barstoolsports** |
+| #2 Most tweeted to  | **Canes** |
+| #3 Most tweeted to  | **odognine2** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 3.3%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -37,31 +47,39 @@ The most popular user is: **clifford_mbb**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLIFFORD**  |
-| second  | **MRAZEK**  |
-| third  | **KYLE** |
-| fourth  | **PUCK**  |
-| fifth  | **PENALTY**  |
+| first  | **AYERS**  |
+| second  | **DAVID**  |
+| third  | **ZAMBONI** |
+| fourth  | **GOALIE**  |
+| fifth  | **DRIVER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">Says a Leafs fan. Naturally.
-
-Those who know Clifford better KNOW it was intentional. https://t.co/tSK728RVzP</div>
+<div class="alert alert-block alert-info">@SNkylebukauskas @BizNasty2point0 Loved your interview post game with Ayers.    It was just perfect!</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **clifford_mbb**
+The most retweeted user is: **Virgini25568889**
 
-<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
-(https://t.co/HygA9U4gOq)</div>
+<div class="alert alert-block alert-danger"> RT @C_3C_3: Invited to Obamas White House:
+
+Soros
+Weinstein 
+Podesta
+BLM
+Jeremiah Wright
+Bill Ayers
+M. Moore
+Bob Creamer
+
+Does it all make…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
