@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Trident"**
+&#x1F34E; **TOPIC = "Russia"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,17 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @GreenPartyMolly: Pentagon reveals deal with Britain to replace Trident before MPs are consulted or even informedThis is how it feels…</div> <div class="alert alert-block alert-success">RT @NatashaJahnse: When was this agreed to?We really are America's lapdog now. So much for being in control!🙄#BrexitRealityPentagon rev…</div> <div class="alert alert-block alert-info">RT @GreenPartyMolly: Pentagon reveals deal with Britain to replace Trident before MPs are consulted or even informedThis is how it feels…</div> |
-The most popular user is: **TinaWight2**
-<div class="alert alert-block alert-danger"> RT @Mandoline_Blue: Pentagon officials are saying that Trident is to be replaced with a new generation of nuclear warheads using US technol…</div>
+| <div class="alert alert-block alert-warning">RT @BEVHOWARD40: Nunes vows to sue over report on briefing https://t.co/z6LiddCwTf</div> <div class="alert alert-block alert-success">Who loves to "RUSSIA RUSSIA RUSSIA"???They are the communists. They are the traitors. Who gives a F 'bout russia.… https://t.co/Gj73kBpjKB</div> <div class="alert alert-block alert-info">Russia Working To Boost Bernie Sanders’ Campaign, According To Sanders’ ... https://t.co/4agTRjBG8S via @YouTube</div> |
+The most popular user is: **H47Steven**
+<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
+
+Russia donated over $145,000,000 to the Clinton Foundation
+
+Hillary Clinton sold 20% America’s Uranium to…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Mandoline_Blue** |
-| #2 Most tweeted to  | **ShoebridgeC** |
-| #3 Most tweeted to  | **GreenPartyMolly** |
-| NewProfiles (less than 10 days) | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **charliekirk11** |
+| #3 Most tweeted to  | **DevinNunes** |
+| NewProfiles (less than 10 days) | 1.0%  |
 | Tweeters with < 10 followers  | 3.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
@@ -34,30 +38,32 @@ The most popular user is: **TinaWight2**
 <br>
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRIDENT**  |
-| second  | **PENTAGON**  |
-| third  | **US** |
-| fourth  | **REVEALS**  |
-| fifth  | **NUCLEAR**  |
+| first  | **RUSSIA**  |
+| second  | **BERNIE**  |
+| third  | **TRUMP** |
+| fourth  | **SANDERS**  |
+| fifth  | **AMERICAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @GreenPartyMolly: Pentagon reveals deal with Britain to replace Trident before MPs are consulted or even informed
-
-This is how it feels…</div>
+<div class="alert alert-block alert-info">RT @BEVHOWARD40: Nunes vows to sue over report on briefing https://t.co/z6LiddCwTf</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **TinaWight2**
+The most retweeted user is: **H47Steven**
 
-<div class="alert alert-block alert-danger"> RT @Mandoline_Blue: Pentagon officials are saying that Trident is to be replaced with a new generation of nuclear warheads using US technol…</div>
+<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
+
+Russia donated over $145,000,000 to the Clinton Foundation
+
+Hillary Clinton sold 20% America’s Uranium to…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
