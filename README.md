@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MUNWAT"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
-| RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
-| Bruno Fernandes scores his first United goal, what a penalty, this guy's confidence is amazing #MUFC #MUNWAT |
+| RT @ChrisDJackson: Just gonna put this out there. I love @BarackObama. I openly backed him in 2008 as a 22 year old elected official in rub… |
+| RT @BarackObama: Happy birthday to one of my heroes — someone who believed our right to vote was more important than his own life. Thanks f… |
+| RT @BarackObama: Happy birthday to one of my heroes — someone who believed our right to vote was more important than his own life. Thanks f… |
 
-The most popular user is: **yobranic_kim**
-<div class="alert alert-block alert-danger"> RT @ManUtd: 🕐 Time for some team news!
-
-▪️ Six changes in total for #MUFC
-▪️ @MasonGreenwood starts
-▪️ @McTominay10 returns to the bench
-
-#…</div>
+The most popular user is: **imNBiswas**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ManUtd** |
-| #2 Most tweeted to  | **premierleague** |
-| #3 Most tweeted to  | **OfficialFPL** |
-| NewProfiles (less than 10 days) | 0.98%  |
-| Tweeters with < 10 followers  | 3.18%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **HillaryClinton** |
+| #3 Most tweeted to  | **SpeakerPelosi** |
+| NewProfiles (less than 10 days) | 1.42%  |
+| Tweeters with < 10 followers  | 6.28%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -45,28 +39,28 @@ The most popular user is: **yobranic_kim**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MUNWAT**  |
-| second  | **MUFC**  |
-| third  | **@MANUTD:** |
-| fourth  | **OPEN**  |
-| fifth  | **🔓**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **@HILLARYCLINTON**  |
+| third  | **@SPEAKERPELOSI** |
+| fourth  | **@SENSCHUMER**  |
+| fifth  | **@LEADERHOYER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ManUtd: Account: open 🔓#MUFC #MUNWAT https://t.co/xh7r1b8xX4 |
+|@BarackObama Nope. Arsonists.Wrong again Barry, as usual. https://t.co/9IN8EHLjSp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **yobranic_kim**  |
+| The most retweeted user is: **imNBiswas**  |
 | ------------- |
-| RT @ManUtd: 🕐 Time for some team news!▪️ Six changes in total for #MUFC▪️ @MasonGreenwood starts▪️ @McTominay10 returns to the bench#… |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
