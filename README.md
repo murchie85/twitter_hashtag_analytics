@@ -15,23 +15,18 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @AFunnyValentine: ☑ ANOTHER Accomplishment👊TRUMP has flipped the '9th CIRCUS' Court appointing 10 JUDGES.⚡Causing the intended 'shock…</div> <div class="alert alert-block alert-success">RT @DonaldJTrumpJr: Solid point! Why was Bernie briefed about Russian interference with his campaign but we weren’t?We were much further…</div> <div class="alert alert-block alert-info">RT @SevereAnon: @Solmemes1 congrats!!This is YUGE!!</div> |
-The most popular user is: **RonHatcher8**
-<div class="alert alert-block alert-danger"> RT @DavidJHarrisJr: Look at who I ran into last night! 
-
-And @AGwilliamBarr watches my show? 
-
-Are you kidding me!!! 🙌🏽🇺🇸💪🏽
-@realDonaldTrum…</div>
+| <div class="alert alert-block alert-warning">RT @IsraelUSAforevr: @realDonaldTrump God bless you President Trump https://t.co/2XU6Np0Aim</div> <div class="alert alert-block alert-success">@realDonaldTrump "If a free society cannot help the many who are poor, it cannot save the few who are rich". Think… https://t.co/IKPq2Y2fOW</div> <div class="alert alert-block alert-info">@realDonaldTrump This tweet is as obvious as a kid denying he ate all the choclate. https://t.co/aecNUuMpjC</div> |
+The most popular user is: **EmeraldFire1967**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: The Democrat party is the party of high taxes, high crime, open borders, late-term abortion, socialism, blatant corrup…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **realDonaldTrump** |
 | #2 Most tweeted to  | **FoxNews** |
-| #3 Most tweeted to  | **DonaldJTrumpJr** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 8.0%|
+| #3 Most tweeted to  | **michaelbeatty3** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 7.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -43,34 +38,26 @@ Are you kidding me!!! 🙌🏽🇺🇸💪🏽
 | ------------- | ------------- |
 | first  | **@REALDONALDTRUMP**  |
 | second  | **@FOXNEWS**  |
-| third  | **TRUMP** |
-| fourth  | **PRESIDENT**  |
-| fifth  | **DAY**  |
+| third  | **BERNIE** |
+| fourth  | **TRUMP**  |
+| fifth  | **MOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @AFunnyValentine: ☑ ANOTHER Accomplishment
-👊TRUMP has flipped the '9th CIRCUS' Court appointing 10 JUDGES.
-
-⚡Causing the intended 'shock…</div>
+<div class="alert alert-block alert-info">RT @IsraelUSAforevr: @realDonaldTrump God bless you President Trump https://t.co/2XU6Np0Aim</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **RonHatcher8**
+The most retweeted user is: **EmeraldFire1967**
 
-<div class="alert alert-block alert-danger"> RT @DavidJHarrisJr: Look at who I ran into last night! 
-
-And @AGwilliamBarr watches my show? 
-
-Are you kidding me!!! 🙌🏽🇺🇸💪🏽
-@realDonaldTrum…</div>
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: The Democrat party is the party of high taxes, high crime, open borders, late-term abortion, socialism, blatant corrup…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
