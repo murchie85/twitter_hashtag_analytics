@@ -1,12 +1,8 @@
+{::options parse_block_html="true" /}.
 # MURCHIE85 TWITTER PROCESSING 
 &#x1F34E; **TOPIC = "Oprah"**
 
 ## AUTOMATED RESEARCH SUMMARY
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 ![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
 <br></br>
