@@ -1,4 +1,4 @@
-{::options parse_block_html="true" /}.
+{::options parse_block_html="true" /}
 # MURCHIE85 TWITTER PROCESSING 
 &#x1F34E; **TOPIC = "Oprah"**
 
@@ -8,6 +8,10 @@
 <br></br>
 <div class="alert alert-success"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
 
+! This is an info message.
+!v This is a success message.
+!! Consider this a warning.
+!x This is an error message.
 
 
 ![image](TWEETS.png)
