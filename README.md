@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ayers"**
+&#x1F34E; **TOPIC = "nytimes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,30 +15,19 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">@SNkylebukauskas @BizNasty2point0 Loved your interview post game with Ayers.    It was just perfect!</div> <div class="alert alert-block alert-success">@JeremyWGR @MapleLeafs If Jack Eichel couldn't carry Austin Matthews' skates, what did David Ayers just make Matthews carry!?</div> <div class="alert alert-block alert-info">RT @barstoolsports: David Ayers, the 42 year old zamboni driver emergency goalie and STONE WALL https://t.co/qfEtzwRM1W</div> |
-The most popular user is: **Virgini25568889**
-<div class="alert alert-block alert-danger"> RT @C_3C_3: Invited to Obamas White House:
-
-Soros
-Weinstein 
-Podesta
-BLM
-Jeremiah Wright
-Bill Ayers
-M. Moore
-Bob Creamer
-
-Does it all make…</div>
+| <div class="alert alert-block alert-warning">RT @canarytrap: Maybe next time the same moron can write on how 9/11 was a false flag op by American Deep State and Neocons and let's see i…</div> <div class="alert alert-block alert-success">RT @AshaRangappa_: No one tells him about Russian interference because his own staff tells offficials in charge of it not to bring it up in…</div> <div class="alert alert-block alert-info">RT @PramilaJayapal: We were trying to tell y’all about our winning movement.... https://t.co/ok1BCABUFn</div> |
+The most popular user is: **martetanto**
+<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **barstoolsports** |
-| #2 Most tweeted to  | **Canes** |
-| #3 Most tweeted to  | **odognine2** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 3.3%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **nytimes** |
+| #2 Most tweeted to  | **Iyervval** |
+| #3 Most tweeted to  | **AsteadWesley** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 3.76%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -47,39 +36,28 @@ Does it all make…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AYERS**  |
-| second  | **DAVID**  |
-| third  | **ZAMBONI** |
-| fourth  | **GOALIE**  |
-| fifth  | **DRIVER**  |
+| first  | **TRUMP**  |
+| second  | **@NYTIMES**  |
+| third  | **SANDERS** |
+| fourth  | **BERNIE**  |
+| fifth  | **NEVADA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">@SNkylebukauskas @BizNasty2point0 Loved your interview post game with Ayers.    It was just perfect!</div>
+<div class="alert alert-block alert-info">RT @canarytrap: Maybe next time the same moron can write on how 9/11 was a false flag op by American Deep State and Neocons and let's see i…</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **Virgini25568889**
+The most retweeted user is: **martetanto**
 
-<div class="alert alert-block alert-danger"> RT @C_3C_3: Invited to Obamas White House:
-
-Soros
-Weinstein 
-Podesta
-BLM
-Jeremiah Wright
-Bill Ayers
-M. Moore
-Bob Creamer
-
-Does it all make…</div>
+<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
