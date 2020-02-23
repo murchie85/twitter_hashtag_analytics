@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Oprah"**
+&#x1F34E; **TOPIC = "Wilder"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChaseCenter: Thank you @oprah for an amazing, transformative day 👏 https://t.co/A9Ndw75zSo |
-| It’s Real every Sunday! Tune in Tomorrow 5:30 am and 6am CST for #RealTalk-the interview with Gayle King… https://t.co/gQtxKcvfxC |
-| Successful marriage is directly linked to Oprah Winfrey's love for Danny Phantom |
+| RT @Tommyskizy: Tyson Fury wore this gumshield tonight in his match with Wilder. A message to Anthony Joshua?#Naija2ThaWorld https://t.co… |
+| RT @ElTelBoxing: Tyson Fury embarrassed Deontay Wilder by handing him a brutal beating for the duration of the fight.Please don't waste o… |
+| RT @kevinsylvestar: 😰😢😭 Jesus who I b! Who I b na! Who b me wey no go thank and praise You for wetin you don do for me 😭🙌🙏😥Fury Wilder Jo… |
 
-The most popular user is: **DorkyEvil**
-<div class="alert alert-block alert-danger"> RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables…</div>
+The most popular user is: **ryangoIdy8**
+<div class="alert alert-block alert-danger"> RT @BTSportBoxing: Tyson Fury spotted Deontay Wilder watching the same weigh-ins feed as him and mocked him 😂 #WilderFury2 https://t.co/muH…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Oprah** |
-| #2 Most tweeted to  | **JustinKey101** |
-| #3 Most tweeted to  | **TalbertSwan** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 4.68%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **KingOfContacts** |
+| #2 Most tweeted to  | **espn** |
+| #3 Most tweeted to  | **Tyson_Fury** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.24%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DorkyEvil**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OPRAH**  |
-| second  | **GOT**  |
-| third  | **MAJOR** |
-| fourth  | **@OPRAH**  |
-| fifth  | **BLACK**  |
+| first  | **WILDER**  |
+| second  | **FURY**  |
+| third  | **TYSON** |
+| fourth  | **DEONTAY**  |
+| fifth  | **FIGHT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @michelebolgla: Congratulations to @PreetBharara  on making Oprah’s list of best political podcasts! https://t.co/j9Hi3ygDpa |
+|RT @MichaelBensonn: 🤜 How the boxing world reacted to Tyson Fury stopping Deontay Wilder… https://t.co/8OgeloHtzC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DorkyEvil**  |
+| The most retweeted user is: **ryangoIdy8**  |
 | ------------- |
-| RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables… |
+| RT @BTSportBoxing: Tyson Fury spotted Deontay Wilder watching the same weigh-ins feed as him and mocked him 😂 #WilderFury2 https://t.co/muH… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
