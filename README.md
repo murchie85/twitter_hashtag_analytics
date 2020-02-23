@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Wilder"**
+&#x1F34E; **TOPIC = "realmadrid"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Tommyskizy: Tyson Fury wore this gumshield tonight in his match with Wilder. A message to Anthony Joshua?#Naija2ThaWorld https://t.co… |
-| RT @ElTelBoxing: Tyson Fury embarrassed Deontay Wilder by handing him a brutal beating for the duration of the fight.Please don't waste o… |
-| RT @kevinsylvestar: 😰😢😭 Jesus who I b! Who I b na! Who b me wey no go thank and praise You for wetin you don do for me 😭🙌🙏😥Fury Wilder Jo… |
+| RT @realmadriden: 🇧🇷🎁🇧🇷 Happy birthday to @Casemiro who turns 28 today!2⃣8⃣ Parabéns craque!#RealMadrid https://t.co/M9FL5mazEQ |
+| @realmadrid Zedan out |
+| @realmadrid @FC_Barcalona we love you 🤣🤣🤣🤣 |
 
-The most popular user is: **ryangoIdy8**
-<div class="alert alert-block alert-danger"> RT @BTSportBoxing: Tyson Fury spotted Deontay Wilder watching the same weigh-ins feed as him and mocked him 😂 #WilderFury2 https://t.co/muH…</div>
+The most popular user is: **realmadrid_wwe**
+<div class="alert alert-block alert-danger"> RT @ogug8: Apparently Michael Jackson isn't dead he's a wrestler in Brazil https://t.co/BJUDh1sbGT</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KingOfContacts** |
-| #2 Most tweeted to  | **espn** |
-| #3 Most tweeted to  | **Tyson_Fury** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.24%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **realmadrid** |
+| #2 Most tweeted to  | **LevanteUD** |
+| #3 Most tweeted to  | **realmadriden** |
+| NewProfiles (less than 10 days) | 1.78%  |
+| Tweeters with < 10 followers  | 6.6%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ryangoIdy8**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WILDER**  |
-| second  | **FURY**  |
-| third  | **TYSON** |
-| fourth  | **DEONTAY**  |
-| fifth  | **FIGHT**  |
+| first  | **VS**  |
+| second  | **@REALMADRID**  |
+| third  | **GOAL** |
+| fourth  | **1**  |
+| fifth  | **GOALS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MichaelBensonn: 🤜 How the boxing world reacted to Tyson Fury stopping Deontay Wilder… https://t.co/8OgeloHtzC |
+|RT @BarcaWorldwide: We went back to the top of the table 🔵🔴 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ryangoIdy8**  |
+| The most retweeted user is: **realmadrid_wwe**  |
 | ------------- |
-| RT @BTSportBoxing: Tyson Fury spotted Deontay Wilder watching the same weigh-ins feed as him and mocked him 😂 #WilderFury2 https://t.co/muH… |
+| RT @ogug8: Apparently Michael Jackson isn't dead he's a wrestler in Brazil https://t.co/BJUDh1sbGT |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
