@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Marlies"**
+&#x1F34E; **TOPIC = "Clifford"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,20 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">Is it possible to send the entire roster down and bring the Marlies roster up</div> <div class="alert alert-block alert-success">It's the first time in my life I am turning away from a #Habs' game to watch #Leafs. I am told that the Marlies' Za… https://t.co/GwYTUzR6w9</div> <div class="alert alert-block alert-info">RT @NathanGraviteh: Emergency goalie David Ayres making his NHL debut.He faces of against the Leafs in FULL Marlies gear. 😂 https://t.co/…</div> |
-The most popular user is: **jodiferg**
-<div class="alert alert-block alert-danger"> RT @hockeynight: The emergency backup goalie is in!
-
-David Ayres, a Toronto Marlies Zamboni driver, makes his @NHL debut 👏👏 https://t.co/Mq…</div>
+| <div class="alert alert-block alert-warning">Says a Leafs fan. Naturally.Those who know Clifford better KNOW it was intentional. https://t.co/tSK728RVzP</div> <div class="alert alert-block alert-success">RT @CardiacCane: Clifford gets a 5 minute major for charging#LetsGoCanes #CARvsTOR</div> <div class="alert alert-block alert-info">We sent F to London for the break- THANK YOU to @smwark and @lucythornett for hosting our oldest and @mckenziewark… https://t.co/eCDq3cszJf</div> |
+The most popular user is: **clifford_mbb**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
+(https://t.co/HygA9U4gOq)</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Canes** |
-| #2 Most tweeted to  | **NHL** |
-| #3 Most tweeted to  | **hockeynight** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 1.9%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **odognine2** |
+| #2 Most tweeted to  | **BradyTrett** |
+| #3 Most tweeted to  | **Mickcliff** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 4.12%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -38,30 +37,31 @@ David Ayres, a Toronto Marlies Zamboni driver, makes his @NHL debut 👏👏 htt
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AYRES**  |
-| second  | **GOALIE**  |
-| third  | **MARLIES** |
-| fourth  | **EMERGENCY**  |
-| fifth  | **ZAMBONI**  |
+| first  | **CLIFFORD**  |
+| second  | **MRAZEK**  |
+| third  | **KYLE** |
+| fourth  | **PUCK**  |
+| fifth  | **PENALTY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">Is it possible to send the entire roster down and bring the Marlies roster up</div>
+<div class="alert alert-block alert-info">Says a Leafs fan. Naturally.
+
+Those who know Clifford better KNOW it was intentional. https://t.co/tSK728RVzP</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **jodiferg**
+The most retweeted user is: **clifford_mbb**
 
-<div class="alert alert-block alert-danger"> RT @hockeynight: The emergency backup goalie is in!
-
-David Ayres, a Toronto Marlies Zamboni driver, makes his @NHL debut 👏👏 https://t.co/Mq…</div>
+<div class="alert alert-block alert-danger"> RT @bts_bighit: [#방탄밤] [#방밤캠] ‘#ON' Kinetic Manifesto Film 단체 Focus ver.
+(https://t.co/HygA9U4gOq)</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
