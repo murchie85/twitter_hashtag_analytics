@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realmadrid"**
+&#x1F34E; **TOPIC = "#AskJhene"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,18 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @FOXSportsAsia: With @Cristiano marking his 1000th senior football appearance on Saturday, let's take a quick look at his top 10 goals!…</div> <div class="alert alert-block alert-success">@_JLDT_ @realmadrid Why? Why ? Vraiment ! Why? Tchr</div> <div class="alert alert-block alert-info">I can't even sleep well all cos of Realmadrid. Ah</div> |
-The most popular user is: **GARYPAG30534930**
-<div class="alert alert-block alert-danger"> RT @LevanteUD: ¡¡¡¡¡¡FINAAAAAAAAAAAAAAAAAAAAAAAAAAAL!!!!!!
-
-#LevanteUD 1-0 @realmadrid 
-
-🎉🎉🎉🎉🎉🎉🎉
-
-#110AñosDeResistencia #OrgullGranota http…</div>
+| <div class="alert alert-block alert-warning">what's your favorite ariana album? #AskJhene https://t.co/a43nv1HhHZ</div> <div class="alert alert-block alert-success">RT @JheneAiko: let's chat #AskJhene ✨</div> <div class="alert alert-block alert-info">will twenty88 ever be released😭  #AskJhene</div> |
+The most popular user is: **Un_DefinedSoul**
+<div class="alert alert-block alert-danger"> RT @JheneAiko: let's chat #AskJhene ✨</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realmadrid** |
-| #2 Most tweeted to  | **LevanteUD** |
-| #3 Most tweeted to  | **DrTahha** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 6.0%|
+| #1 Most tweeted to  | **JheneAiko** |
+| #2 Most tweeted to  | **theresigoess** |
+| #3 Most tweeted to  | **Mayberrykush** |
+| NewProfiles (less than 10 days) | 2.0%  |
+| Tweeters with < 10 followers  | 3.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -42,34 +36,28 @@ The most popular user is: **GARYPAG30534930**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VS**  |
-| second  | **@REALMADRID**  |
-| third  | **GOAL** |
-| fourth  | **1**  |
-| fifth  | **GOALS**  |
+| first  | **ASKJHENE**  |
+| second  | **ASKJHENE@JHENEAIKO**  |
+| third  | **@JHENEAIKO** |
+| fourth  | **LOVE**  |
+| fifth  | **COLLAB**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @FOXSportsAsia: With @Cristiano marking his 1000th senior football appearance on Saturday, let's take a quick look at his top 10 goals!…</div>
+<div class="alert alert-block alert-info">what's your favorite ariana album? #AskJhene https://t.co/a43nv1HhHZ</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **GARYPAG30534930**
+The most retweeted user is: **Un_DefinedSoul**
 
-<div class="alert alert-block alert-danger"> RT @LevanteUD: ¡¡¡¡¡¡FINAAAAAAAAAAAAAAAAAAAAAAAAAAAL!!!!!!
-
-#LevanteUD 1-0 @realmadrid 
-
-🎉🎉🎉🎉🎉🎉🎉
-
-#110AñosDeResistencia #OrgullGranota http…</div>
+<div class="alert alert-block alert-danger"> RT @JheneAiko: let's chat #AskJhene ✨</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
