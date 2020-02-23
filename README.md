@@ -1,17 +1,12 @@
-{::options parse_block_html="true" /}
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Oprah"**
+&#x1F34E; **TOPIC = "D Smoke"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
 ![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
 <br></br>
-<div class="alert alert-success"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
+<div class="alert alert-block alert-danger"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
 
-! This is an info message.
-!v This is a success message.
-!! Consider this a warning.
-!x This is an error message.
 
 
 ![image](TWEETS.png)
@@ -20,19 +15,29 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @squirrelslapper: Give away when i have 10 consecutive viewers! YOU GET A PRIZE, YOU GET A PRIZE.  https://t.co/2PxkRS36eO @MixerRetweet…</div> <div class="alert alert-block alert-success">RT @TalbertSwan: If #HarveyWeinstein were Black:Major television networks would be covering the trialMajor newspaper would have oped’s…</div> <div class="alert alert-block alert-info">@PreetBharara Preset and Oprah!  Perfect couple!</div> |
-The most popular user is: **DorkyEvil**
-<div class="alert alert-block alert-danger"> RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables…</div>
+| <div class="alert alert-block alert-warning">RT @rapcds: Deontay Wilder had D Smoke, but couldn’t handle THE SMOKE https://t.co/z0TMg44RMo</div> <div class="alert alert-block alert-success">@ComplexSports Yoh D Smoke Rhythm and Flow winner opening for Deontay wilder who just lost to Tyson https://t.co/EoHq9BISGc Damned</div> <div class="alert alert-block alert-info">RT @1EntreProNegro: Okay Deontay and D Smoke I see y’all on the black history black excellence tip!! 🔥🔥🔥🔥🔥 #WilderFury2 https://t.co/9k4E0W…</div> |
+The most popular user is: **d_efkk**
+<div class="alert alert-block alert-danger"> RT @HotFreestyle: Rest in Peace 🙏🏽
+
+- Pop Smoke
+- Kobe Bryant
+- Juice WRLD
+- Mac Miller
+- Nipsey
+- Fredo Santana
+- XXXTentacion
+- Peep
+- Pr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Oprah** |
-| #2 Most tweeted to  | **JustinKey101** |
-| #3 Most tweeted to  | **TalbertSwan** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 4.7%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **1EntreProNegro** |
+| #2 Most tweeted to  | **JuiceMan3x** |
+| #3 Most tweeted to  | **__nae_nae** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 1.94%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +46,38 @@ The most popular user is: **DorkyEvil**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OPRAH**  |
-| second  | **GOT**  |
-| third  | **MAJOR** |
-| fourth  | **BLACK**  |
-| fifth  | **@OPRAH**  |
+| first  | **SMOKE**  |
+| second  | **D**  |
+| third  | **BLACK** |
+| fourth  | **DEONTAY**  |
+| fifth  | **HISTORY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @squirrelslapper: Give away when i have 10 consecutive viewers! YOU GET A PRIZE, YOU GET A PRIZE.  https://t.co/2PxkRS36eO @MixerRetweet…</div>
+<div class="alert alert-block alert-info">RT @rapcds: Deontay Wilder had D Smoke, but couldn’t handle THE SMOKE https://t.co/z0TMg44RMo</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **DorkyEvil**
+The most retweeted user is: **d_efkk**
 
-<div class="alert alert-block alert-danger"> RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables…</div>
+<div class="alert alert-block alert-danger"> RT @HotFreestyle: Rest in Peace 🙏🏽
+
+- Pop Smoke
+- Kobe Bryant
+- Juice WRLD
+- Mac Miller
+- Nipsey
+- Fredo Santana
+- XXXTentacion
+- Peep
+- Pr…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
