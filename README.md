@@ -15,20 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">@k_ovfefe2 @realDonaldTrump @FoxNews Human spies to protect all involved.</div> <div class="alert alert-block alert-success">Lol we live in a simulation https://t.co/sLk0f7Zwf7</div> <div class="alert alert-block alert-info">RT @oneLOVE10053967: 😂🤣😂🤣😂🤣😂(:17 Timestamp) https://t.co/hFoWmkhQRE</div> |
-The most popular user is: **OFahrityLora**
-<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+| <div class="alert alert-block alert-warning">RT @AFunnyValentine: ☑ ANOTHER Accomplishment👊TRUMP has flipped the '9th CIRCUS' Court appointing 10 JUDGES.⚡Causing the intended 'shock…</div> <div class="alert alert-block alert-success">RT @DonaldJTrumpJr: Solid point! Why was Bernie briefed about Russian interference with his campaign but we weren’t?We were much further…</div> <div class="alert alert-block alert-info">RT @SevereAnon: @Solmemes1 congrats!!This is YUGE!!</div> |
+The most popular user is: **RonHatcher8**
+<div class="alert alert-block alert-danger"> RT @DavidJHarrisJr: Look at who I ran into last night! 
 
-”The only thing Americans despise more than…</div>
+And @AGwilliamBarr watches my show? 
+
+Are you kidding me!!! 🙌🏽🇺🇸💪🏽
+@realDonaldTrum…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **realDonaldTrump** |
 | #2 Most tweeted to  | **FoxNews** |
-| #3 Most tweeted to  | **Cernovich** |
-| NewProfiles (less than 10 days) | 2.0%  |
-| Tweeters with < 10 followers  | 4.0%|
+| #3 Most tweeted to  | **DonaldJTrumpJr** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 8.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -40,28 +43,34 @@ The most popular user is: **OFahrityLora**
 | ------------- | ------------- |
 | first  | **@REALDONALDTRUMP**  |
 | second  | **@FOXNEWS**  |
-| third  | **BERNIE** |
-| fourth  | **TRUMP**  |
-| fifth  | **PRESIDENT**  |
+| third  | **TRUMP** |
+| fourth  | **PRESIDENT**  |
+| fifth  | **DAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">@k_ovfefe2 @realDonaldTrump @FoxNews Human spies to protect all involved.</div>
+<div class="alert alert-block alert-info">RT @AFunnyValentine: ☑ ANOTHER Accomplishment
+👊TRUMP has flipped the '9th CIRCUS' Court appointing 10 JUDGES.
+
+⚡Causing the intended 'shock…</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **OFahrityLora**
+The most retweeted user is: **RonHatcher8**
 
-<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+<div class="alert alert-block alert-danger"> RT @DavidJHarrisJr: Look at who I ran into last night! 
 
-”The only thing Americans despise more than…</div>
+And @AGwilliamBarr watches my show? 
+
+Are you kidding me!!! 🙌🏽🇺🇸💪🏽
+@realDonaldTrum…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
