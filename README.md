@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "#Jackets50"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,17 +15,17 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @TheEllenShow: The entire internet is doing a dance called The Renegade, and the 14-year-old who invented it is here today. Please welco…</div> <div class="alert alert-block alert-success">RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div> <div class="alert alert-block alert-info">@TheEllenShow Girl power https://t.co/EgKN7rA57A</div> |
-The most popular user is: **jesscrumpetcake**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
+| <div class="alert alert-block alert-warning">#Jackets50 Robinson 50</div> <div class="alert alert-block alert-success">@BlueJacketsNHL @PapaJohnsCbus Nyquist #CBJ #Jackets50</div> <div class="alert alert-block alert-info">@BlueJacketsNHL @PapaJohnsCbus David Savard #Jackets50</div> |
+The most popular user is: **NickSarfaty500**
+<div class="alert alert-block alert-danger"> RT @BlueJacketsNHL: Don't miss your chance to win FREE @PapaJohnsCbus pizza! Tweet who you think will score the second #CBJ goal with #Jack…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **Diddy** |
-| #3 Most tweeted to  | **Oprah** |
-| NewProfiles (less than 10 days) | 3.0%  |
+| #1 Most tweeted to  | **BlueJacketsNHL** |
+| #2 Most tweeted to  | **PapaJohnsCbus** |
+| #3 Most tweeted to  | **BluelineOnline** |
+| NewProfiles (less than 10 days) | 0.0%  |
 | Tweeters with < 10 followers  | 11.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
@@ -36,28 +36,28 @@ The most popular user is: **jesscrumpetcake**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW:**  |
-| second  | **@THEELLENSHOW**  |
-| third  | **WE’RE** |
-| fourth  | **BACK!**  |
-| fifth  | **FRIENDSREUNION**  |
+| first  | **@PAPAJOHNSCBUS**  |
+| second  | **JACKETS50@BLUEJACKETSNHL**  |
+| third  | **JACKETS50** |
+| fourth  | **CBJ**  |
+| fifth  | **GOAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @TheEllenShow: The entire internet is doing a dance called The Renegade, and the 14-year-old who invented it is here today. Please welco…</div>
+<div class="alert alert-block alert-info">#Jackets50 Robinson 50</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **jesscrumpetcake**
+The most retweeted user is: **NickSarfaty500**
 
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
+<div class="alert alert-block alert-danger"> RT @BlueJacketsNHL: Don't miss your chance to win FREE @PapaJohnsCbus pizza! Tweet who you think will score the second #CBJ goal with #Jack…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
