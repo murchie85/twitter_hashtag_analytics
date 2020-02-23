@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Jackets50"**
+&#x1F34E; **TOPIC = "realDonaldTrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,18 +15,20 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">#Jackets50 Robinson 50</div> <div class="alert alert-block alert-success">@BlueJacketsNHL @PapaJohnsCbus Nyquist #CBJ #Jackets50</div> <div class="alert alert-block alert-info">@BlueJacketsNHL @PapaJohnsCbus David Savard #Jackets50</div> |
-The most popular user is: **NickSarfaty500**
-<div class="alert alert-block alert-danger"> RT @BlueJacketsNHL: Don't miss your chance to win FREE @PapaJohnsCbus pizza! Tweet who you think will score the second #CBJ goal with #Jack…</div>
+| <div class="alert alert-block alert-warning">RT @theangiestanton: I gave birth in chains while serving time in an American prison. @realDonaldTrump made it illegal to chain women durin…</div> <div class="alert alert-block alert-success">RT @JosephJFlynn1: Thank you @CharlieDaniels and @TJHproject  for this wonderful gift to @GenFlynn and for all you do for our awesome Veter…</div> <div class="alert alert-block alert-info">RT @BernieSanders: Don't tell @realDonaldTrump this because he'll get very nervous—we're going to beat him in Texas.</div> |
+The most popular user is: **lauriejacobs16**
+<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+
+”The only thing Americans despise more than…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BlueJacketsNHL** |
-| #2 Most tweeted to  | **PapaJohnsCbus** |
-| #3 Most tweeted to  | **BluelineOnline** |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **BernieSanders** |
+| #3 Most tweeted to  | **RepAdamSchiff** |
 | NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 11.0%|
+| Tweeters with < 10 followers  | 4.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -36,28 +38,30 @@ The most popular user is: **NickSarfaty500**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@PAPAJOHNSCBUS**  |
-| second  | **JACKETS50@BLUEJACKETSNHL**  |
-| third  | **JACKETS50** |
-| fourth  | **CBJ**  |
-| fifth  | **GOAL**  |
+| first  | **@REALDONALDTRUMP**  |
+| second  | **VERY**  |
+| third  | **"DONT"** |
+| fourth  | **TRUMP**  |
+| fifth  | **@BERNIESANDERS:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">#Jackets50 Robinson 50</div>
+<div class="alert alert-block alert-info">RT @theangiestanton: I gave birth in chains while serving time in an American prison. @realDonaldTrump made it illegal to chain women durin…</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **NickSarfaty500**
+The most retweeted user is: **lauriejacobs16**
 
-<div class="alert alert-block alert-danger"> RT @BlueJacketsNHL: Don't miss your chance to win FREE @PapaJohnsCbus pizza! Tweet who you think will score the second #CBJ goal with #Jack…</div>
+<div class="alert alert-block alert-danger"> RT @RepAdamSchiff: Mr. President, I didn’t say that. But if you wish to quote me, quote this:
+
+”The only thing Americans despise more than…</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
