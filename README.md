@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Russia"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,55 +15,50 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| <div class="alert alert-block alert-warning">RT @BEVHOWARD40: Nunes vows to sue over report on briefing https://t.co/z6LiddCwTf</div> <div class="alert alert-block alert-success">Who loves to "RUSSIA RUSSIA RUSSIA"???They are the communists. They are the traitors. Who gives a F 'bout russia.… https://t.co/Gj73kBpjKB</div> <div class="alert alert-block alert-info">Russia Working To Boost Bernie Sanders’ Campaign, According To Sanders’ ... https://t.co/4agTRjBG8S via @YouTube</div> |
-The most popular user is: **H47Steven**
-<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
-
-Russia donated over $145,000,000 to the Clinton Foundation
-
-Hillary Clinton sold 20% America’s Uranium to…</div>
+| <div class="alert alert-block alert-warning">@TheEllenShow Luv it. Cant stop watching. Sooooo cute</div> <div class="alert alert-block alert-success">RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div> <div class="alert alert-block alert-info">.@TheEllenShow Watching you &amp; listening to .@ladygaga are the only things that make me smile, &amp; I’m so proud to be… https://t.co/hlslABRtY4</div> |
+The most popular user is: **AlanN20457069**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **charliekirk11** |
-| #3 Most tweeted to  | **DevinNunes** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 3.0%|
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **PeteButtigieg** |
+| #3 Most tweeted to  | **astridsingsjazz** |
+| NewProfiles (less than 10 days) | 3.0%  |
+| Tweeters with < 10 followers  | 15.0%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
-<br>
+
+
 ## MOST POPULAR TWEET TERMS 
-<br>
+
+
 | Popularity Rank  | Term |
+
 | ------------- | ------------- |
-| first  | **RUSSIA**  |
-| second  | **BERNIE**  |
-| third  | **TRUMP** |
-| fourth  | **SANDERS**  |
-| fifth  | **AMERICAN**  |
+| first  | **@THEELLENSHOW:**  |
+| second  | **FRIENDSREUNION**  |
+| third  | **WE’RE** |
+| fourth  | **BACK!**  |
+| fifth  | **@THEELLENSHOW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 Random value picked from array: 
 
-<div class="alert alert-block alert-info">RT @BEVHOWARD40: Nunes vows to sue over report on briefing https://t.co/z6LiddCwTf</div>
+<div class="alert alert-block alert-info">@TheEllenShow Luv it. Cant stop watching. Sooooo cute</div>
 
 ### MOST RETWEETED 
 
-The most retweeted user is: **H47Steven**
+The most retweeted user is: **AlanN20457069**
 
-<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
-
-Russia donated over $145,000,000 to the Clinton Foundation
-
-Hillary Clinton sold 20% America’s Uranium to…</div>
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: We’re back! #FriendsReunion https://t.co/kzUrMsACMe</div>
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
