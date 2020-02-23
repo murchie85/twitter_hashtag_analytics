@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Anthony Joshua"**
+&#x1F34E; **TOPIC = "Tyson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BhadmusAkeem: This fight is happening! Who is winning this? Like = Tyson Fury WinsRT = Anthony Joshua Wins https://t.co/IDIFQSQpoF |
-| RT @BoxingKingdom14: RT If you want Tyson Fury vs Anthony Joshua next! https://t.co/1LTr23Jaln |
-| RT @MichaelBensonn: 🌍👑 List of current heavyweight boxing world champions:🇬🇧 WBA - Anthony Joshua 🇬🇧 IBF - Anthony Joshua🇬🇧 WBO - Antho… |
+| RT @LiamPaulCanning: I can’t express the love I have for Tyson Fury. Absolute legend. |
+| RT @BraunStrowman: Well we’ll well @Tyson_Fury night nighted @BronzeBomber not like I’m surprised!!!!! #GetTheseHands |
+| RT @MichaelBensonn: ⏰ Tyson Fury sent Deontay Wilder this message as he started on the comeback trail in 2017. Tonight they rematch for the… |
 
-The most popular user is: **Dee_Cheddah**
-<div class="alert alert-block alert-danger"> RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli…</div>
+The most popular user is: **missyportia**
+<div class="alert alert-block alert-danger"> RT @anthonyfjoshua: &amp; @Tyson_Fury get fit you fat fuck</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_omoissy** |
-| #2 Most tweeted to  | **MichaelBensonn** |
-| #3 Most tweeted to  | **BoxingKingdom14** |
-| NewProfiles (less than 10 days) | 0.7%  |
-| Tweeters with < 10 followers  | 2.4%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **Tyson_Fury** |
+| #2 Most tweeted to  | **FootyAccums** |
+| #3 Most tweeted to  | **BronzeBomber** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.44%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Dee_Cheddah**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ANTHONY**  |
-| second  | **JOSHUA**  |
-| third  | **FURY** |
-| fourth  | **TYSON**  |
-| fifth  | **🇬🇧**  |
+| first  | **TYSON**  |
+| second  | **FURY**  |
+| third  | **WILDER** |
+| fourth  | **@TYSON_FURY**  |
+| fifth  | **DEONTAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MichaelBensonn: ⏰ Crazy how quickly things change in boxing. Three months ago PBC had all four heavyweight world titles under their con… |
+|@sadaplays @Tyson_Fury absolute masterclass from fury there https://t.co/2Ypp9jrHJZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Dee_Cheddah**  |
+| The most retweeted user is: **missyportia**  |
 | ------------- |
-| RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli… |
+| RT @anthonyfjoshua: &amp; @Tyson_Fury get fit you fat fuck |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
