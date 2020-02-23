@@ -15,9 +15,9 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-RT @BhadmusAkeem: This fight is happening! Who is winning this? Like = Tyson Fury WinsRT = Anthony Joshua Wins https://t.co/IDIFQSQpoF
-RT @BoxingKingdom14: RT If you want Tyson Fury vs Anthony Joshua next! https://t.co/1LTr23Jaln
-RT @MichaelBensonn: 🌍👑 List of current heavyweight boxing world champions:🇬🇧 WBA - Anthony Joshua 🇬🇧 IBF - Anthony Joshua🇬🇧 WBO - Antho…
+|RT @BhadmusAkeem: This fight is happening! Who is winning this? Like = Tyson Fury WinsRT = Anthony Joshua Wins https://t.co/IDIFQSQpoF|
+|RT @BoxingKingdom14: RT If you want Tyson Fury vs Anthony Joshua next! https://t.co/1LTr23Jaln|
+|RT @MichaelBensonn: 🌍👑 List of current heavyweight boxing world champions:🇬🇧 WBA - Anthony Joshua 🇬🇧 IBF - Anthony Joshua🇬🇧 WBO - Antho…|
 The most popular user is: **Dee_Cheddah**
 <div class="alert alert-block alert-danger"> RT @femiadebimpe: Almost every time there is an Anthony Joshua fight, those who have become overnight heavyweight experts from watching cli…</div>
 
