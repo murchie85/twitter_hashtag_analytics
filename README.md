@@ -5,7 +5,7 @@
 
 ![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
 <br></br>
-<div class="alert alert-block alert-danger"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
+<div class="alert alert-success"><b> This repo is for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b></div>
 
 
 
