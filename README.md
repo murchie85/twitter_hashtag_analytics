@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ItsAllFunUntil"**
+&#x1F34E; **TOPIC = "#MansplainingIn5Words"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @julcasagrande: #ItsAllFunUntil some idiot ruins it |
-| RT @NeverThatRobin2: #ItsAllFunUntil you piss off mom.And I'm mom. |
-| RT @Mytquinn69: #ItsAllFunUntil there's only room for one on the freaking door! https://t.co/X6Mx3eQoYw |
+| #Alexa is like Simon says #MansplainingIn5Words |
+| RT @shawnsasoliman: Me: scientifically, water can help your skin with—‘Supportive’ guy: just stick to your makeup, babe #mansplainingin5wo… |
+| RT @FlindersEmma: #MansplainingIn5WordsI man hear me roar https://t.co/aeHqyHY0Ab |
 
-The most popular user is: **RidingTheBull01**
-<div class="alert alert-block alert-danger"> RT @julcasagrande: #ItsAllFunUntil some idiot ruins it</div>
+The most popular user is: **digweeg**
+<div class="alert alert-block alert-danger"> RT @VanessaFiji: “Women are hard to read” #MansplainingIn5Words https://t.co/oYKn7EF2XW</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheTrueDocLove** |
-| #2 Most tweeted to  | **ChampneyLisa** |
-| #3 Most tweeted to  | **julcasagrande** |
-| NewProfiles (less than 10 days) | 1.32%  |
-| Tweeters with < 10 followers  | 1.98%|
+| #1 Most tweeted to  | **VanessaFiji** |
+| #2 Most tweeted to  | **tokyosensui** |
+| #3 Most tweeted to  | **JonnyGeller** |
+| NewProfiles (less than 10 days) | 1.28%  |
+| Tweeters with < 10 followers  | 7.75%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **RidingTheBull01**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ITSALLFUNUNTIL**  |
-| second  | **SOMEONE**  |
-| third  | **GETS** |
-| fourth  | **SOME**  |
-| fifth  | **MORNING**  |
+| first  | **MANSPLAININGIN5WORDS**  |
+| second  | **MANSPLAININGIN5WORDSRT**  |
+| third  | **MEN** |
+| fourth  | **WORDS**  |
+| fifth  | **WOMEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DanielAshley13: #ItsAllFunUntil You realize that your tweet with 300 "likes" and 100 RTs has a spelling error. |
+|Is it mansplaining if you correct someone who is wrong just because they're female or is that just the other person… https://t.co/eCLA6fPl5i |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RidingTheBull01**  |
+| The most retweeted user is: **digweeg**  |
 | ------------- |
-| RT @julcasagrande: #ItsAllFunUntil some idiot ruins it |
+| RT @VanessaFiji: “Women are hard to read” #MansplainingIn5Words https://t.co/oYKn7EF2XW |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
