@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tyson"**
+&#x1F34E; **TOPIC = "Oprah"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LiamPaulCanning: I can’t express the love I have for Tyson Fury. Absolute legend. |
-| RT @BraunStrowman: Well we’ll well @Tyson_Fury night nighted @BronzeBomber not like I’m surprised!!!!! #GetTheseHands |
-| RT @MichaelBensonn: ⏰ Tyson Fury sent Deontay Wilder this message as he started on the comeback trail in 2017. Tonight they rematch for the… |
+| RT @ChaseCenter: Thank you @oprah for an amazing, transformative day 👏 https://t.co/A9Ndw75zSo |
+| It’s Real every Sunday! Tune in Tomorrow 5:30 am and 6am CST for #RealTalk-the interview with Gayle King… https://t.co/gQtxKcvfxC |
+| Successful marriage is directly linked to Oprah Winfrey's love for Danny Phantom |
 
-The most popular user is: **missyportia**
-<div class="alert alert-block alert-danger"> RT @anthonyfjoshua: &amp; @Tyson_Fury get fit you fat fuck</div>
+The most popular user is: **DorkyEvil**
+<div class="alert alert-block alert-danger"> RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Tyson_Fury** |
-| #2 Most tweeted to  | **FootyAccums** |
-| #3 Most tweeted to  | **BronzeBomber** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 4.44%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **Oprah** |
+| #2 Most tweeted to  | **JustinKey101** |
+| #3 Most tweeted to  | **TalbertSwan** |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 4.68%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **missyportia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TYSON**  |
-| second  | **FURY**  |
-| third  | **WILDER** |
-| fourth  | **@TYSON_FURY**  |
-| fifth  | **DEONTAY**  |
+| first  | **OPRAH**  |
+| second  | **GOT**  |
+| third  | **MAJOR** |
+| fourth  | **@OPRAH**  |
+| fifth  | **BLACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@sadaplays @Tyson_Fury absolute masterclass from fury there https://t.co/2Ypp9jrHJZ |
+|RT @michelebolgla: Congratulations to @PreetBharara  on making Oprah’s list of best political podcasts! https://t.co/j9Hi3ygDpa |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **missyportia**  |
+| The most retweeted user is: **DorkyEvil**  |
 | ------------- |
-| RT @anthonyfjoshua: &amp; @Tyson_Fury get fit you fat fuck |
+| RT @HeidiStevens13: When I saw Oprah interview Michelle Obama, Oprah asked how Michelle got over feeling intimidated sitting at big tables… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
