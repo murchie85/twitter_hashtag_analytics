@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RedditCFB: Joe Burrow's hand size measures at 9 inches at NFL combine, shortest among 1st-round QBs since 2008. This invalidates everyt… |
-| Rangers goalie Shesterkin injured in car crash https://t.co/JqQyslbt9r https://t.co/eRxzGcSXAZ |
-| RT @NotJerryTipton: ESPN's Bracketology...Kentucky goes 2-0 last week, including a road upset, and drops from a 3 to a 4 seed.Duke goes… |
+| Marsquakes: Mars seismically active, among other surprises...: Marsquakes: Mars seismically active, among other sur… https://t.co/lhI9jknCjx |
+| RT @NASAExoplanets: RIP Katherine Johnson, who calculated the trajectory of Alan Shepard's 1961 trip into space, America's first. She cha… |
+| RT @ewarren: Katherine Johnson was a trailblazer whose work sent Americans to the moon, and is still being used to send us into space today… |
 
-The most popular user is: **nnck_9**
-<div class="alert alert-block alert-danger"> RT @avensio: i was somewhat okay until see you again came on  https://t.co/TUrJukC9F6</div>
+The most popular user is: **joeltheomar**
+<div class="alert alert-block alert-danger"> RT @NASA: We're saddened by the passing of celebrated #HiddenFigures mathematician Katherine Johnson. Today, we celebrate her 101 years of…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **mcten** |
-| #3 Most tweeted to  | **OsheaJacksonJr** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 3.42%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **ajplus** |
+| #3 Most tweeted to  | **NASAMoon** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nnck_9**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ESPN:**  |
-| second  | **2**  |
-| third  | **24** |
-| fourth  | **WITHOUT**  |
-| fifth  | **💜💛**  |
+| first  | **KATHERINE**  |
+| second  | **JOHNSON**  |
+| third  | **MATHEMATICIAN** |
+| fourth  | **101**  |
+| fifth  | **NASA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@NickEngvall this is a fun story https://t.co/Bnie50pTzO |
+|RT @mefeater: Katherine Johnson, NASA mathematician depicted in ‘Hidden Figures,’ has died today at 101. Her calculations were a driving fo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nnck_9**  |
+| The most retweeted user is: **joeltheomar**  |
 | ------------- |
-| RT @avensio: i was somewhat okay until see you again came on  https://t.co/TUrJukC9F6 |
+| RT @NASA: We're saddened by the passing of celebrated #HiddenFigures mathematician Katherine Johnson. Today, we celebrate her 101 years of… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
