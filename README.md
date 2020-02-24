@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "POTUS"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RealEricCarmen: @POTUS Phoenix Rally:65,516 Tickets29,990 Voters identified18% were Democrats |
-| @ProtestUrban @JimStarkey16 @omraj_jeetun @B_lieveChildren @Papahemp3 @gr8brit69 @liiBarcodeiil @DollyKostka… https://t.co/3skTV0IEgQ |
-| RT @SenShelby: I just got off the phone with the President. He told me that his administration will not be sending any victims of the Coron… |
+| RT @RedditCFB: Joe Burrow's hand size measures at 9 inches at NFL combine, shortest among 1st-round QBs since 2008. This invalidates everyt… |
+| Rangers goalie Shesterkin injured in car crash https://t.co/JqQyslbt9r https://t.co/eRxzGcSXAZ |
+| RT @NotJerryTipton: ESPN's Bracketology...Kentucky goes 2-0 last week, including a road upset, and drops from a 3 to a 4 seed.Duke goes… |
 
-The most popular user is: **RoseMalloy5**
-<div class="alert alert-block alert-danger"> RT @AlvedaCKing: I am the Niece of Dr. Martin Luther King Jr. 
-
-Listen to my words...
-
-President Trump is not a racist!! 
-
-He is one of the…</div>
+The most popular user is: **nnck_9**
+<div class="alert alert-block alert-danger"> RT @avensio: i was somewhat okay until see you again came on  https://t.co/TUrJukC9F6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **narendramodi** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 2.96%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **mcten** |
+| #3 Most tweeted to  | **OsheaJacksonJr** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.42%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -45,28 +39,28 @@ He is one of the…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@POTUS**  |
-| second  | **@REALDONALDTRUMP**  |
-| third  | **INDIA** |
-| fourth  | **US**  |
-| fifth  | **FORWARD**  |
+| first  | **@ESPN:**  |
+| second  | **2**  |
+| third  | **24** |
+| fourth  | **WITHOUT**  |
+| fifth  | **💜💛**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @judytanielian: @essenviews As a former juror, I can say that no one “weasels” their way onto a juror’s panel. The defense and prosecuti… |
+|@NickEngvall this is a fun story https://t.co/Bnie50pTzO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RoseMalloy5**  |
+| The most retweeted user is: **nnck_9**  |
 | ------------- |
-| RT @AlvedaCKing: I am the Niece of Dr. Martin Luther King Jr. Listen to my words...President Trump is not a racist!! He is one of the… |
+| RT @avensio: i was somewhat okay until see you again came on  https://t.co/TUrJukC9F6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
