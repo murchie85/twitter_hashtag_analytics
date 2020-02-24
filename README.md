@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "POTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NikkiHaley: Proud to see @realDonaldTrump and @FLOTUS going to India. The US and India are the two largest democracies in the world and… |
-| @realDonaldTrump More money in your pockets. https://t.co/t7ZQiVS5r8 |
-| @JTMSDADDY @dcexaminer @davidfrum @realDonaldTrump Oh yes it is. |
+| RT @RealEricCarmen: @POTUS Phoenix Rally:65,516 Tickets29,990 Voters identified18% were Democrats |
+| @ProtestUrban @JimStarkey16 @omraj_jeetun @B_lieveChildren @Papahemp3 @gr8brit69 @liiBarcodeiil @DollyKostka… https://t.co/3skTV0IEgQ |
+| RT @SenShelby: I just got off the phone with the President. He told me that his administration will not be sending any victims of the Coron… |
 
-The most popular user is: **jedimastersilva**
-<div class="alert alert-block alert-danger"> RT @jimmykimmel: We mashed up @BarackObama’s Bin Laden speech with @RealDonaldTrump’s al-Baghdadi speech, and the results are amazing https…</div>
+The most popular user is: **RoseMalloy5**
+<div class="alert alert-block alert-danger"> RT @AlvedaCKing: I am the Niece of Dr. Martin Luther King Jr. 
+
+Listen to my words...
+
+President Trump is not a racist!! 
+
+He is one of the…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **BernieSanders** |
-| #3 Most tweeted to  | **CPAC** |
-| NewProfiles (less than 10 days) | 1.66%  |
-| Tweeters with < 10 followers  | 8.44%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **narendramodi** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 2.96%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **jedimastersilva**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
+| first  | **@POTUS**  |
+| second  | **@REALDONALDTRUMP**  |
 | third  | **INDIA** |
-| fourth  | **TRUMP**  |
-| fifth  | **@REALDONALDTRUMP:**  |
+| fourth  | **US**  |
+| fifth  | **FORWARD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@realDonaldTrump 🤮. I just might change parties.., to the dems. |
+|RT @judytanielian: @essenviews As a former juror, I can say that no one “weasels” their way onto a juror’s panel. The defense and prosecuti… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jedimastersilva**  |
+| The most retweeted user is: **RoseMalloy5**  |
 | ------------- |
-| RT @jimmykimmel: We mashed up @BarackObama’s Bin Laden speech with @RealDonaldTrump’s al-Baghdadi speech, and the results are amazing https… |
+| RT @AlvedaCKing: I am the Niece of Dr. Martin Luther King Jr. Listen to my words...President Trump is not a racist!! He is one of the… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
