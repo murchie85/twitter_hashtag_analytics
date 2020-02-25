@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "POTUS"**
+&#x1F34E; **TOPIC = "nytimes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @superyayadize: Mad @RepMaxineWaters unsatisfied w her calls to attack @realDonaldTrump &amp; Impeach fotey figh, now claims felony gang mem… |
-| RT @TrumpLadyFran: BERNIE Has Been Career Politician for Some 40+Yrs. What Has He Done????.@POTUS Trump Has Been a Politician for 3 Yrs &amp;… |
-| RT @GovMikeHuckabee: In his entire Senate career, Bolshevik Bernie has never passed a bill.  Ever.  He wants to be @POTUS but can't pass on… |
+| The Authoritarian’s Worst Fear? A Book https://t.co/9EjdLgPVWc |
+| Global markets took a hit as the economic threat posed by the coronavirus continues to alarm investors. The White H… https://t.co/iSyWPMuN5R |
+| RT @RBReich: Now that he's been emboldened by his sham acquittal in the Senate, Trump has stepped up his attacks on the judiciary and launc… |
 
-The most popular user is: **BroloLee**
-<div class="alert alert-block alert-danger"> RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. 
-
-It is an honour that he will be with us tomorrow, starting wi…</div>
+The most popular user is: **shyyy_jones**
+<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **FLOTUS** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 5.58%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **nytimes** |
+| #2 Most tweeted to  | **RepAdamSchiff** |
+| #3 Most tweeted to  | **RBReich** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 3.16%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +39,28 @@ It is an honour that he will be with us tomorrow, starting wi…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@POTUS**  |
-| second  | **@REALDONALDTRUMP**  |
-| third  | **INDIA** |
-| fourth  | **HONOR**  |
-| fifth  | **VISIT**  |
+| first  | **BIGGEST**  |
+| second  | **PRESIDENT**  |
+| third  | **@NYTIMES:** |
+| fourth  | **THREAT**  |
+| fifth  | **HELP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CaslerNoel: The focus for Donald Trump has always been and will always be, Donald Trump. That’s why you don’t elect narcissistic drug a… |
+|RT @nytimes: Less than a year after Oregon’s Senate Republicans fled the state to avoid voting on a climate change bill, they have disappea… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BroloLee**  |
+| The most retweeted user is: **shyyy_jones**  |
 | ------------- |
-| RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. It is an honour that he will be with us tomorrow, starting wi… |
+| RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
