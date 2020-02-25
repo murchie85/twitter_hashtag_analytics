@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "POTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @maggieNYT: Wait, it really is found in this cookbook! https://t.co/RI8qHAd9Kx |
-| RT @nytimes: Breaking News: Katherine Johnson, whose calculations enabled Apollo 11 to land on the moon, has died at 101. Her story was tol… |
-| RT @nytimes: Debra Katz is a civil rights and employment lawyer who represented several women who came forward against Weinstein."He is n… |
+| RT @superyayadize: Mad @RepMaxineWaters unsatisfied w her calls to attack @realDonaldTrump &amp; Impeach fotey figh, now claims felony gang mem… |
+| RT @TrumpLadyFran: BERNIE Has Been Career Politician for Some 40+Yrs. What Has He Done????.@POTUS Trump Has Been a Politician for 3 Yrs &amp;… |
+| RT @GovMikeHuckabee: In his entire Senate career, Bolshevik Bernie has never passed a bill.  Ever.  He wants to be @POTUS but can't pass on… |
 
-The most popular user is: **DaneiraC_**
-<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
+The most popular user is: **BroloLee**
+<div class="alert alert-block alert-danger"> RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. 
+
+It is an honour that he will be with us tomorrow, starting wi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **SpeakerPelosi** |
-| #3 Most tweeted to  | **renato_mariotti** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 4.66%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **FLOTUS** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 5.58%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **DaneiraC_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@NYTIMES:**  |
-| second  | **JOHNSON**  |
-| third  | **KATHERINE** |
-| fourth  | **@NYTIMES**  |
-| fifth  | **WOMEN**  |
+| first  | **@POTUS**  |
+| second  | **@REALDONALDTRUMP**  |
+| third  | **INDIA** |
+| fourth  | **HONOR**  |
+| fifth  | **VISIT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @McFaul: In the @SangerNYT @nytimes article today, one of our top national security officials, NSA O'Brien, said "What I’ve heard from t… |
+|RT @CaslerNoel: The focus for Donald Trump has always been and will always be, Donald Trump. That’s why you don’t elect narcissistic drug a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DaneiraC_**  |
+| The most retweeted user is: **BroloLee**  |
 | ------------- |
-| RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last… |
+| RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. It is an honour that he will be with us tomorrow, starting wi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
