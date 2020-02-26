@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Caruso"**
+&#x1F34E; **TOPIC = "Bob Iger"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BleacherReport: Caruso just handled Zo on both sides of the court 😤 https://t.co/MYgiDvj2LY |
-| Check out my Gig on Fiverr: eye catching creative art work t shirt design in 24 hours https://t.co/4FlpDUNxaO… https://t.co/A9XpUsfKnd |
-| RT @BleacherReport: Caruso just handled Zo on both sides of the court 😤 https://t.co/MYgiDvj2LY |
+| Disney's Bob Iger goes out on top https://t.co/AtMw6tNMtI by @readDanwrite https://t.co/0GYSbTvmAV |
+| "Why is the CEO changing today? ... What is the urgency?"Bob Iger era ends at Disney as a new CEO takes overhttps://t.co/qE5o7zxoxQ |
+| Bob Iger steps down as Disney CEO in surprise announcement; Bob Chapek replaces him https://t.co/rNBTHr5x0v |
 
-The most popular user is: **m_siff**
-<div class="alert alert-block alert-danger"> RT @BleacherReport: CARUSO FROM THE TOP ROPE 🦅 https://t.co/wAt2pF5iEs</div>
+The most popular user is: **Akazo**
+<div class="alert alert-block alert-danger"> RT @Tiff_FitzHenry: The day after Weinstein's convicted and sent to prison, Bob Iger suddenly steps down as CEO of Disney.
+
+Disney owned We…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Lakers** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **ali_behpoornia** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 3.4%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Tiff_FitzHenry** |
+| #2 Most tweeted to  | **Jordan_Sather_** |
+| #3 Most tweeted to  | **CNBC** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 1.9%|
+| Tweeters with > 1000000 followers  | 0.52%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **m_siff**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CARUSO**  |
-| second  | **😤**  |
-| third  | **ALEX** |
-| fourth  | **@LAKERS:**  |
-| fifth  | **ZO**  |
+| first  | **BOB**  |
+| second  | **DISNEY**  |
+| third  | **IGER** |
+| fourth  | **CEO**  |
+| fifth  | **DOWN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|THERE HAS BEEN 16 CONSECUTIVE POSTS MOSTLY ABOUT BRON (and zion) AND IRRELEVANT CARUSO POSTS. WHILE THEY ONLY HAD O… https://t.co/th9FeofAn5 |
+|RT @Tiff_FitzHenry: SHOCK: Iger Out As Disney CEO“A couple of week ago, Disney CEO Bob Iger was on CNBC talking about his contract extens… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **m_siff**  |
+| The most retweeted user is: **Akazo**  |
 | ------------- |
-| RT @BleacherReport: CARUSO FROM THE TOP ROPE 🦅 https://t.co/wAt2pF5iEs |
+| RT @Tiff_FitzHenry: The day after Weinstein's convicted and sent to prison, Bob Iger suddenly steps down as CEO of Disney.Disney owned We… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
