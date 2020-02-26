@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "Happy Birthday Adam"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Gullies on Mars via NASA https://t.co/toPoBIJojA https://t.co/yuh9CuD5iA |
-| RT @yungaccident: NASA talking about hidden figures as if they not the one that hid them |
-| RT @Shayarm: @liltilgerlil @mbees39 @Tractor444 @Durango96380362 @tanksmom2000 @TrumpCanuck @robin_ked @GregoryJHall1 @bbl58 @wthompson4368… |
+| Happy Birthday Adam,just as soon as I was typing this message it threw me off line,twitter has been doing this too… https://t.co/qbavwLr44w |
+| I saw happy birthday Adam trending and I thought it was for Adam W 😔 |
+| RT @GIF_Haus: A Happy Birthday Adam The Kovic GIFs Thread extravaganza https://t.co/qeZfv7U5Qq |
 
-The most popular user is: **supportmainIRL**
-<div class="alert alert-block alert-danger"> RT @Dustinkcouch: nasa employee: oh hey u guys are back early 
-
-astronaut: moon's haunted
-
-nasa employee: what? 
-
-astronaut: *loading a pis…</div>
+The most popular user is: **giulia_adam_ga**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: [#호비생일ㅊㅋ]
+0218
+HAPPY
+BIRTHDAY
+OUR HOPE💜
+#제이홉 #운명이됐고중심이됐어 #JHOPE_IS_MY_EGO https://t.co/W1zDQMJGfc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **yungaccident** |
-| #3 Most tweeted to  | **JThakers** |
-| NewProfiles (less than 10 days) | 1.44%  |
-| Tweeters with < 10 followers  | 6.32%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **cyberadam26** |
+| #2 Most tweeted to  | **LongmirePosse** |
+| #3 Most tweeted to  | **LouDPhillips** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 4.74%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -45,28 +44,28 @@ astronaut: *loading a pis…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASA**  |
-| second  | **MARS**  |
-| third  | **VIA** |
-| fourth  | **HIDDEN**  |
-| fifth  | **FIGURES**  |
+| first  | **BIRTHDAY**  |
+| second  | **HAPPY**  |
+| third  | **ADAM** |
+| fourth  | **ADAM!**  |
+| fifth  | **HOPE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @wrathofgnon: "Within the next five years, U.S. companies alone are planning to send 15,000 satellites into space... NASA estimates 500,… |
+|https://t.co/6pvJWhzUfM Adds Wi-Fi range coverage up to 1000 sq ft, and connects up to 15 devices such as laptops,… https://t.co/ezWeh0mR9Y |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **supportmainIRL**  |
+| The most retweeted user is: **giulia_adam_ga**  |
 | ------------- |
-| RT @Dustinkcouch: nasa employee: oh hey u guys are back early astronaut: moon's hauntednasa employee: what? astronaut: *loading a pis… |
+| RT @bts_bighit: [#호비생일ㅊㅋ]0218HAPPYBIRTHDAYOUR HOPE💜#제이홉 #운명이됐고중심이됐어 #JHOPE_IS_MY_EGO https://t.co/W1zDQMJGfc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
