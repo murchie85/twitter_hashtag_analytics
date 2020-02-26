@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bob Iger"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Disney's Bob Iger goes out on top https://t.co/AtMw6tNMtI by @readDanwrite https://t.co/0GYSbTvmAV |
-| "Why is the CEO changing today? ... What is the urgency?"Bob Iger era ends at Disney as a new CEO takes overhttps://t.co/qE5o7zxoxQ |
-| Bob Iger steps down as Disney CEO in surprise announcement; Bob Chapek replaces him https://t.co/rNBTHr5x0v |
+| Gullies on Mars via NASA https://t.co/toPoBIJojA https://t.co/yuh9CuD5iA |
+| RT @yungaccident: NASA talking about hidden figures as if they not the one that hid them |
+| RT @Shayarm: @liltilgerlil @mbees39 @Tractor444 @Durango96380362 @tanksmom2000 @TrumpCanuck @robin_ked @GregoryJHall1 @bbl58 @wthompson4368… |
 
-The most popular user is: **Akazo**
-<div class="alert alert-block alert-danger"> RT @Tiff_FitzHenry: The day after Weinstein's convicted and sent to prison, Bob Iger suddenly steps down as CEO of Disney.
+The most popular user is: **supportmainIRL**
+<div class="alert alert-block alert-danger"> RT @Dustinkcouch: nasa employee: oh hey u guys are back early 
 
-Disney owned We…</div>
+astronaut: moon's haunted
+
+nasa employee: what? 
+
+astronaut: *loading a pis…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Tiff_FitzHenry** |
-| #2 Most tweeted to  | **Jordan_Sather_** |
-| #3 Most tweeted to  | **CNBC** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 1.9%|
-| Tweeters with > 1000000 followers  | 0.52%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **yungaccident** |
+| #3 Most tweeted to  | **JThakers** |
+| NewProfiles (less than 10 days) | 1.44%  |
+| Tweeters with < 10 followers  | 6.32%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -41,28 +45,28 @@ Disney owned We…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOB**  |
-| second  | **DISNEY**  |
-| third  | **IGER** |
-| fourth  | **CEO**  |
-| fifth  | **DOWN**  |
+| first  | **NASA**  |
+| second  | **MARS**  |
+| third  | **VIA** |
+| fourth  | **HIDDEN**  |
+| fifth  | **FIGURES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Tiff_FitzHenry: SHOCK: Iger Out As Disney CEO“A couple of week ago, Disney CEO Bob Iger was on CNBC talking about his contract extens… |
+|RT @wrathofgnon: "Within the next five years, U.S. companies alone are planning to send 15,000 satellites into space... NASA estimates 500,… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Akazo**  |
+| The most retweeted user is: **supportmainIRL**  |
 | ------------- |
-| RT @Tiff_FitzHenry: The day after Weinstein's convicted and sent to prison, Bob Iger suddenly steps down as CEO of Disney.Disney owned We… |
+| RT @Dustinkcouch: nasa employee: oh hey u guys are back early astronaut: moon's hauntednasa employee: what? astronaut: *loading a pis… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
