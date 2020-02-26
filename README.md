@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "Union Station"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The Authoritarian’s Worst Fear? A Book https://t.co/9EjdLgPVWc |
-| Global markets took a hit as the economic threat posed by the coronavirus continues to alarm investors. The White H… https://t.co/iSyWPMuN5R |
-| RT @RBReich: Now that he's been emboldened by his sham acquittal in the Senate, Trump has stepped up his attacks on the judiciary and launc… |
+| RT @FarrahMerali: Just spoke with @AMAwithAMA with @Metrolinx and they’re now confirming that the blockade on the lines near Hamilton WILL… |
+| The devil is strong but the union station H&amp;M is stronger |
+| Took a break to go visit Mickey Mouse downtown at Union Station and he gave us ears 😍 #AlohaWindyCity https://t.co/3bfTPJRzX7 |
 
-The most popular user is: **shyyy_jones**
-<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
+The most popular user is: **Androphotograph**
+<div class="alert alert-block alert-danger"> RT @MikevWUSA: White nationalists shouting “RECLAIM AMERICA” through my neighborhood.
+This isn’t Charlottesville.
+This is Washington, DC.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **RepAdamSchiff** |
-| #3 Most tweeted to  | **RBReich** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 3.16%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **CP24** |
+| #2 Most tweeted to  | **nicrmon** |
+| #3 Most tweeted to  | **PiyushGoyal** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.98%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **shyyy_jones**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIGGEST**  |
-| second  | **PRESIDENT**  |
-| third  | **@NYTIMES:** |
-| fourth  | **THREAT**  |
-| fifth  | **HELP**  |
+| first  | **UNION**  |
+| second  | **STATION**  |
+| third  | **GO** |
+| fourth  | **SERVICE**  |
+| fifth  | **TRAIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nytimes: Less than a year after Oregon’s Senate Republicans fled the state to avoid voting on a climate change bill, they have disappea… |
+|Cleared: Incident on #ELine at Union Turnpike-Kew Gardens Station |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **shyyy_jones**  |
+| The most retweeted user is: **Androphotograph**  |
 | ------------- |
-| RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last… |
+| RT @MikevWUSA: White nationalists shouting “RECLAIM AMERICA” through my neighborhood.This isn’t Charlottesville.This is Washington, DC.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
