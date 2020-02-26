@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Union Station"**
+&#x1F34E; **TOPIC = "Caruso"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FarrahMerali: Just spoke with @AMAwithAMA with @Metrolinx and they’re now confirming that the blockade on the lines near Hamilton WILL… |
-| The devil is strong but the union station H&amp;M is stronger |
-| Took a break to go visit Mickey Mouse downtown at Union Station and he gave us ears 😍 #AlohaWindyCity https://t.co/3bfTPJRzX7 |
+| RT @BleacherReport: Caruso just handled Zo on both sides of the court 😤 https://t.co/MYgiDvj2LY |
+| Check out my Gig on Fiverr: eye catching creative art work t shirt design in 24 hours https://t.co/4FlpDUNxaO… https://t.co/A9XpUsfKnd |
+| RT @BleacherReport: Caruso just handled Zo on both sides of the court 😤 https://t.co/MYgiDvj2LY |
 
-The most popular user is: **Androphotograph**
-<div class="alert alert-block alert-danger"> RT @MikevWUSA: White nationalists shouting “RECLAIM AMERICA” through my neighborhood.
-This isn’t Charlottesville.
-This is Washington, DC.…</div>
+The most popular user is: **m_siff**
+<div class="alert alert-block alert-danger"> RT @BleacherReport: CARUSO FROM THE TOP ROPE 🦅 https://t.co/wAt2pF5iEs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CP24** |
-| #2 Most tweeted to  | **nicrmon** |
-| #3 Most tweeted to  | **PiyushGoyal** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.98%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **Lakers** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **ali_behpoornia** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 3.4%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ This is Washington, DC.…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UNION**  |
-| second  | **STATION**  |
-| third  | **GO** |
-| fourth  | **SERVICE**  |
-| fifth  | **TRAIN**  |
+| first  | **CARUSO**  |
+| second  | **😤**  |
+| third  | **ALEX** |
+| fourth  | **@LAKERS:**  |
+| fifth  | **ZO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Cleared: Incident on #ELine at Union Turnpike-Kew Gardens Station |
+|THERE HAS BEEN 16 CONSECUTIVE POSTS MOSTLY ABOUT BRON (and zion) AND IRRELEVANT CARUSO POSTS. WHILE THEY ONLY HAD O… https://t.co/th9FeofAn5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Androphotograph**  |
+| The most retweeted user is: **m_siff**  |
 | ------------- |
-| RT @MikevWUSA: White nationalists shouting “RECLAIM AMERICA” through my neighborhood.This isn’t Charlottesville.This is Washington, DC.… |
+| RT @BleacherReport: CARUSO FROM THE TOP ROPE 🦅 https://t.co/wAt2pF5iEs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
