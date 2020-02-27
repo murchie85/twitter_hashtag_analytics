@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Happy Birthday Adam"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Happy Birthday Adam,just as soon as I was typing this message it threw me off line,twitter has been doing this too… https://t.co/qbavwLr44w |
-| I saw happy birthday Adam trending and I thought it was for Adam W 😔 |
-| RT @GIF_Haus: A Happy Birthday Adam The Kovic GIFs Thread extravaganza https://t.co/qeZfv7U5Qq |
+| RT @DGMurrayTrust: Grow Great is going from strength to strength. Most recently, @kopanomabaso, Executive Director of @growgreatza, was fea… |
+| @RegalBlade @Parapraxis1980 @SecScience @sapinker @BillGates https://t.co/eIcqTsjIeP Here’s a nice article discus… https://t.co/ntqFIm7uIm |
+| RT @AnActofDog: @BillGates One man paints 5500 shelter dogs for shelter reform and educates students on how to use their art to make a diff… |
 
-The most popular user is: **giulia_adam_ga**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: [#호비생일ㅊㅋ]
-0218
-HAPPY
-BIRTHDAY
-OUR HOPE💜
-#제이홉 #운명이됐고중심이됐어 #JHOPE_IS_MY_EGO https://t.co/W1zDQMJGfc</div>
+The most popular user is: **YABOI_BILLGATES**
+<div class="alert alert-block alert-danger"> RT @Nike: Mamba Forever.
+
+(sound on) https://t.co/B2LUIcpRCc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **cyberadam26** |
-| #2 Most tweeted to  | **LongmirePosse** |
-| #3 Most tweeted to  | **LouDPhillips** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 4.74%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **JeffBezos** |
+| #3 Most tweeted to  | **ArianaGrande** |
+| NewProfiles (less than 10 days) | 1.96%  |
+| Tweeters with < 10 followers  | 10.88%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -44,28 +41,28 @@ OUR HOPE💜
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIRTHDAY**  |
-| second  | **HAPPY**  |
-| third  | **ADAM** |
-| fourth  | **ADAM!**  |
-| fifth  | **HOPE**  |
+| first  | **@BILLGATES**  |
+| second  | **@JEFFBEZOS**  |
+| third  | **CLIMATE** |
+| fourth  | **BILL**  |
+| fifth  | **WORLD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|https://t.co/6pvJWhzUfM Adds Wi-Fi range coverage up to 1000 sq ft, and connects up to 15 devices such as laptops,… https://t.co/ezWeh0mR9Y |
+|“Vaccines are a miracle. They have saved millions of lives.” @BillGatesLet’s not forget that part of this miracle… https://t.co/ioDSoGzyxR |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **giulia_adam_ga**  |
+| The most retweeted user is: **YABOI_BILLGATES**  |
 | ------------- |
-| RT @bts_bighit: [#호비생일ㅊㅋ]0218HAPPYBIRTHDAYOUR HOPE💜#제이홉 #운명이됐고중심이됐어 #JHOPE_IS_MY_EGO https://t.co/W1zDQMJGfc |
+| RT @Nike: Mamba Forever.(sound on) https://t.co/B2LUIcpRCc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
