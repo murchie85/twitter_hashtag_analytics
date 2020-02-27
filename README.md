@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "Gabriel Fernandez"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DGMurrayTrust: Grow Great is going from strength to strength. Most recently, @kopanomabaso, Executive Director of @growgreatza, was fea… |
-| @RegalBlade @Parapraxis1980 @SecScience @sapinker @BillGates https://t.co/eIcqTsjIeP Here’s a nice article discus… https://t.co/ntqFIm7uIm |
-| RT @AnActofDog: @BillGates One man paints 5500 shelter dogs for shelter reform and educates students on how to use their art to make a diff… |
+| RT @lxzaguilar: Gabriel Fernandez was beaten, tortured, neglected, not fed at all and two weeks before he died he was still making cards fo… |
+| RT @oxminaox: EVERYONE WHO FAILED GABRIEL FERNANDEZ DESERVES CHARGES &amp; PRISON TIME. THE SHERIFFS WHO DIDNT MAKE REPORTS. THE SOCIAL WORKERS… |
+| I remember when the Gabriel Fernandez when it was on the news and it messed up. Now watching it on Netflix gives me… https://t.co/shqhhwOvsY |
 
-The most popular user is: **YABOI_BILLGATES**
-<div class="alert alert-block alert-danger"> RT @Nike: Mamba Forever.
-
-(sound on) https://t.co/B2LUIcpRCc</div>
+The most popular user is: **ashleyashfordd**
+<div class="alert alert-block alert-danger"> RT @oxminaox: EVERYONE WHO FAILED GABRIEL FERNANDEZ DESERVES CHARGES &amp; PRISON TIME. THE SHERIFFS WHO DIDNT MAKE REPORTS. THE SOCIAL WORKERS…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **JeffBezos** |
-| #3 Most tweeted to  | **ArianaGrande** |
-| NewProfiles (less than 10 days) | 1.96%  |
-| Tweeters with < 10 followers  | 10.88%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **oxminaox** |
+| #2 Most tweeted to  | **daddybear2288** |
+| #3 Most tweeted to  | **lilfemmebabyy** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 2.16%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **YABOI_BILLGATES**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **@JEFFBEZOS**  |
-| third  | **CLIMATE** |
-| fourth  | **BILL**  |
-| fifth  | **WORLD**  |
+| first  | **GABRIEL**  |
+| second  | **FERNANDEZ**  |
+| third  | **DOCUMENTARY** |
+| fourth  | **TRIALS**  |
+| fifth  | **TIME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|“Vaccines are a miracle. They have saved millions of lives.” @BillGatesLet’s not forget that part of this miracle… https://t.co/ioDSoGzyxR |
+|RT @lilfemmebabyy: I’ve probably seen every killer documentary on Netflix at this time and nothing has ever made me as emotional and as ang… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **YABOI_BILLGATES**  |
+| The most retweeted user is: **ashleyashfordd**  |
 | ------------- |
-| RT @Nike: Mamba Forever.(sound on) https://t.co/B2LUIcpRCc |
+| RT @oxminaox: EVERYONE WHO FAILED GABRIEL FERNANDEZ DESERVES CHARGES &amp; PRISON TIME. THE SHERIFFS WHO DIDNT MAKE REPORTS. THE SOCIAL WORKERS… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
