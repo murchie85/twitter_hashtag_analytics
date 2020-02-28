@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WWESSD"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WWEUniverse: Your #UniversalChampion.#WWESSD @WWEBrayWyatt https://t.co/TSb6YSmQ2Z |
-| Thee worst Jackhammer one will ever see.#WWESSD |
-| RT @JDfromNY206: I don't give a shit who you are, or what you're opinion is, there is no way you can justify what we just seen. Imagine b… |
+| Do you ever randomly get songs from the 60’s-80’s stuck in your head or is that just me ? |
+| RT @PaulHBeckwith: Droughts.Wildfires.Torrential Rains.Floods.Hail.Now cyclones.Cyclones over Australia https://t.co/JTy01AnZgL |
+| i’ve been on top for a whillleeeee, nasa shippin to the moooonnn |
 
-The most popular user is: **teddy_bella266**
-<div class="alert alert-block alert-danger"> RT @WWE: .@WWENXT Superstars and Saudi Arabia natives @hussainaldagal and Faisal Kurdi, show @AndradeCienWWE, @AngelGarzaWwe, and @RealRobe…</div>
+The most popular user is: **amara_nasa**
+<div class="alert alert-block alert-danger"> RT @tayallard: are you fucking kidding me!!!!!! https://t.co/s4qk8T3rKB</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WWE** |
-| #2 Most tweeted to  | **Goldberg** |
-| #3 Most tweeted to  | **WWEBrayWyatt** |
-| NewProfiles (less than 10 days) | 1.42%  |
-| Tweeters with < 10 followers  | 5.28%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **chandraxray** |
+| #3 Most tweeted to  | **NASA_Marshall** |
+| NewProfiles (less than 10 days) | 1.18%  |
+| Tweeters with < 10 followers  | 6.02%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **teddy_bella266**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WWESSD**  |
-| second  | **@WWE:**  |
-| third  | **GOLDBERG** |
-| fourth  | **FIEND**  |
-| fifth  | **WWE**  |
+| first  | **NASA**  |
+| second  | **@NASA**  |
+| third  | **@NASA:** |
+| fourth  | **SPACE**  |
+| fifth  | **SEEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SunSport: WWE fans furious after Goldberg's hugely controversial victory over 'The Fiend' Bray Wyatt at #WWESSD https://t.co/hyiikvzRoR… |
+|Fugitive: *does nothing*Hunted HQ: we've just got a satellite image through from NASA of [exact location], send i… https://t.co/3JiTvamrFv |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **teddy_bella266**  |
+| The most retweeted user is: **amara_nasa**  |
 | ------------- |
-| RT @WWE: .@WWENXT Superstars and Saudi Arabia natives @hussainaldagal and Faisal Kurdi, show @AndradeCienWWE, @AngelGarzaWwe, and @RealRobe… |
+| RT @tayallard: are you fucking kidding me!!!!!! https://t.co/s4qk8T3rKB |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
