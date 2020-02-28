@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "POTUS"**
+&#x1F34E; **TOPIC = "BBCBreaking"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JulianSvendsen: @realDonaldTrump Do you support our POTUS? (Please help by retweeting and following before voting!) https://t.co/jkAtzp… |
-| RT @Jim_Peoples_: @POTUS THE NFL DOES NOT UNDERSTAND HOW ANGRY WE ARE WITH THEM AND THEIR PRODUCT- BOYCOTT - ZERO VIEWS- RT IF YOU AGREE ht… |
-| RT @AKA_RealDirty: .@POTUS @realDonaldTrump signs The water accessibility executive order. Federal bureaucrats will no longer micromanage y… |
+| RT @BBCBreaking: At least 210 coronavirus patients have died in Iran - far more than officially admitted - Iranian health sources tell BBC… |
+| @BBCBreaking Why British government didn't pick him up to the cruise sooner even though the ship was British ship?… https://t.co/xe02hsai8V |
+| RT @GGretchenmobley: @JackPosobiec @Lindsey4Trump Not only are politicians culpable, so is the damn press. Networks are full of people pa… |
 
-The most popular user is: **MytopherToo**
-<div class="alert alert-block alert-danger"> RT @RoguePOTUSStaff: When well intended patriots disagree, that's democracy. When POTUS says it's not fact until he approves it, that's tyr…</div>
+The most popular user is: **FreeHer4Justice**
+<div class="alert alert-block alert-danger"> RT @s_pettifer: The actual details of this story are horrific, dripping in misogyny and a patriarchal judicial system that believes men abo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **WhiteHouse** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 4.42%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **BBCBreaking** |
+| #2 Most tweeted to  | **medyaadami** |
+| #3 Most tweeted to  | **BBCWorld** |
+| NewProfiles (less than 10 days) | 1.66%  |
+| Tweeters with < 10 followers  | 8.54%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MytopherToo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@POTUS**  |
-| second  | **@REALDONALDTRUMP**  |
-| third  | **POTUS** |
-| fourth  | **TRUMP**  |
-| fifth  | **PRESIDENT**  |
+| first  | **@BBCBREAKING**  |
+| second  | **IRAN**  |
+| third  | **CORONAVIRUS** |
+| fourth  | **LEAST**  |
+| fifth  | **DIED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @brookefan11: @shelbytsmyth @DeAnna4Congress @cajunaquisition @countken1 @POTUS Agreed 100%. Ms. DeAnna is the kind of leader we need an… |
+|RT @medialens: Hi @BBCWorld @BBCBreaking @BBCNewsnight @bbcnickrobinson @bbcworldservice @BBCR4Feedback, are any of you aware that this is… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MytopherToo**  |
+| The most retweeted user is: **FreeHer4Justice**  |
 | ------------- |
-| RT @RoguePOTUSStaff: When well intended patriots disagree, that's democracy. When POTUS says it's not fact until he approves it, that's tyr… |
+| RT @s_pettifer: The actual details of this story are horrific, dripping in misogyny and a patriarchal judicial system that believes men abo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
