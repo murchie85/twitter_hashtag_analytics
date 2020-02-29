@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "James Harden"**
+&#x1F34E; **TOPIC = "CNN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @alexsimson: The skillful James Harden https://t.co/VNEonmHjMv |
-| RT @redapples: The James Harden vs Giannis beef timeline started 6 years ago... https://t.co/ykbjTi3pxf |
-| RT @sportingnews: James Harden has some thoughts on Giannis ... https://t.co/ybPcG6gar5 |
+| RT @CNN: Erika James was named as the new dean at the University of Pennsylvania's Wharton School of Business. She'll be the first woman an… |
+| @john_worrall @CNN Because there isn’t |
+| RT @goodbeanalt: damn we really are the stupidest country in the world |
 
-The most popular user is: **MarkyAnthony__**
-<div class="alert alert-block alert-danger"> RT @JonJonLiddell: James Harden on Giannis antetokounmpo:
-
-"None of them can mess with me"
-
-"I average more points &amp; assists"
-
-"I wish I co…</div>
+The most popular user is: **daangvicki**
+<div class="alert alert-block alert-danger"> RT @goodbeanalt: damn we really are the stupidest country in the world</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheHoopCentral** |
-| #2 Most tweeted to  | **JonJonLiddell** |
-| #3 Most tweeted to  | **redapples** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 2.28%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **goodbeanalt** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 5.22%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -45,28 +39,28 @@ The most popular user is: **MarkyAnthony__**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAMES**  |
-| second  | **HARDEN**  |
-| third  | **GIANNIS** |
-| fourth  | **"I**  |
-| fifth  | **AIRBALL**  |
+| first  | **CORONAVIRUS**  |
+| second  | **@CNN:**  |
+| third  | **REALLY** |
+| fourth  | **COUNTRY**  |
+| fifth  | **DAMN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheHoopCentral: James Harden ducking from this Giannis airball three hits different now😂https://t.co/GKZd7dt79z |
+|RT @bern_identity: New CA CNN poll, @BernieSanders is crushing CA by 21 POINTS! The entire establishment is hyperventilating as Bernie coul… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MarkyAnthony__**  |
+| The most retweeted user is: **daangvicki**  |
 | ------------- |
-| RT @JonJonLiddell: James Harden on Giannis antetokounmpo:"None of them can mess with me""I average more points &amp; assists""I wish I co… |
+| RT @goodbeanalt: damn we really are the stupidest country in the world |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
