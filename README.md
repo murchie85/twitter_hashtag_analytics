@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "James Harden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @fshakir: Thanks for your concern. Are you even thinking about coronavirus, the tanking markets, or just generally the job of being pres… |
-| @LindseyGrahamSC @realDonaldTrump Yep, you can count on my support to do my best to get you and him out of office. |
-| RT @D_Alex_connect: ⚠️This the #TrumpVirus‼️“Trump's grace under fire. He’s gone through hell &amp; he came out smelling like a rose!”🌹#inf… |
+| RT @alexsimson: The skillful James Harden https://t.co/VNEonmHjMv |
+| RT @redapples: The James Harden vs Giannis beef timeline started 6 years ago... https://t.co/ykbjTi3pxf |
+| RT @sportingnews: James Harden has some thoughts on Giannis ... https://t.co/ybPcG6gar5 |
 
-The most popular user is: **Elizabet0841**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: They are trying to stop ME, because I am fighting for YOU! https://t.co/xiw4jtjkNl</div>
+The most popular user is: **MarkyAnthony__**
+<div class="alert alert-block alert-danger"> RT @JonJonLiddell: James Harden on Giannis antetokounmpo:
+
+"None of them can mess with me"
+
+"I average more points &amp; assists"
+
+"I wish I co…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **w_terrence** |
-| #3 Most tweeted to  | **BrandonBeckham_** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 5.3%|
+| #1 Most tweeted to  | **TheHoopCentral** |
+| #2 Most tweeted to  | **JonJonLiddell** |
+| #3 Most tweeted to  | **redapples** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 2.28%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -39,28 +45,28 @@ The most popular user is: **Elizabet0841**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
-| third  | **PEOPLE** |
-| fourth  | **TRUMP**  |
-| fifth  | **🇺🇸**  |
+| first  | **JAMES**  |
+| second  | **HARDEN**  |
+| third  | **GIANNIS** |
+| fourth  | **"I**  |
+| fifth  | **AIRBALL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mauidiver1: Calling All Patriots To Unite🇺🇸 No Ticket Needed 🇺🇸⭐️ All MAGA Welcome ⭐️🇺🇸 4 MORE YEARS 🇺🇸@realDonaldTrump #BestPres… |
+|RT @TheHoopCentral: James Harden ducking from this Giannis airball three hits different now😂https://t.co/GKZd7dt79z |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Elizabet0841**  |
+| The most retweeted user is: **MarkyAnthony__**  |
 | ------------- |
-| RT @realDonaldTrump: They are trying to stop ME, because I am fighting for YOU! https://t.co/xiw4jtjkNl |
+| RT @JonJonLiddell: James Harden on Giannis antetokounmpo:"None of them can mess with me""I average more points &amp; assists""I wish I co… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
