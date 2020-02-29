@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CNN"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CNN: Erika James was named as the new dean at the University of Pennsylvania's Wharton School of Business. She'll be the first woman an… |
-| @john_worrall @CNN Because there isn’t |
-| RT @goodbeanalt: damn we really are the stupidest country in the world |
+| RT @ConservaMomUSA: This is the ad @BarackObama wants removed from circulation in #SouthCarolina depicting @JoeBiden as a pandering vote vu… |
+| RT @JackPosobiec: New rules! Everyone spreading the false disinformation that Donald Trump called the coronavirus a "hoax" is violating T… |
+| @realDonaldTrump What they don't know is, alot of Africans living in Africa support @realDonaldTrump  Especially Ni… https://t.co/EUDhh2ofHi |
 
-The most popular user is: **daangvicki**
-<div class="alert alert-block alert-danger"> RT @goodbeanalt: damn we really are the stupidest country in the world</div>
+The most popular user is: **wwgotalens**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **goodbeanalt** |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **JackPosobiec** |
 | #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 5.22%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 6.82%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **daangvicki**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CORONAVIRUS**  |
-| second  | **@CNN:**  |
-| third  | **REALLY** |
-| fourth  | **COUNTRY**  |
-| fifth  | **DAMN**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **TRUMP**  |
+| third  | **DONALD** |
+| fourth  | **DISINFORMATION**  |
+| fifth  | **@JACKPOSOBIEC:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bern_identity: New CA CNN poll, @BernieSanders is crushing CA by 21 POINTS! The entire establishment is hyperventilating as Bernie coul… |
+|RT @JackPosobiec: New rules! Everyone spreading the false disinformation that Donald Trump called the coronavirus a "hoax" is violating T… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **daangvicki**  |
+| The most retweeted user is: **wwgotalens**  |
 | ------------- |
-| RT @goodbeanalt: damn we really are the stupidest country in the world |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
