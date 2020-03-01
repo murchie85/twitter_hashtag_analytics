@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "Biden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| LIL BABY MY TURN Album review. Did Lil Baby claim the top spot with this... https://t.co/uNJtihRmyw via @YouTube… https://t.co/18ssJggVze |
-| 2 UNLIMITED - No Limit (Rap Version) (Official Music Video) https://t.co/QJXNIKPEqt via @YouTube |
-| RT @Cimorelliband: Christina is pregnant!!! We are SO happy for her!! Check out the new video on our YouTube channel! 👶🏼🍼🤍https://t.co/Gd… |
+| @Terri51038307 @LindseyGrahamSC @realDonaldTrump I love that term "gaslighting"! Re-do your comment w/some facts. U… https://t.co/92RxpAbBGq |
+| RT @realDonaldTrump: Sleepy Joe Biden’s victory in the South Carolina Democrat Primary should be the end of Mini Mike Bloomberg’s Joke of a… |
+| RT @wildwestleft: @thewanderer852 @DalrymplePamala @GOP more recent:https://t.co/iRrhVyxqyT |
 
-The most popular user is: **galaxyagustd**
-<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow
-(https://t.co/6zNStAvW2u)</div>
+The most popular user is: **DietzRoxanne**
+<div class="alert alert-block alert-danger"> RT @RyanAFournier: Bernie Sanders has been in office for 29 years.
+
+Chuck Schumer has been in office for 38 years
+
+Nancy Pelosi has been in…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **latelateshow** |
-| NewProfiles (less than 10 days) | 1.5%  |
-| Tweeters with < 10 followers  | 8.58%|
+| #1 Most tweeted to  | **JoeBiden** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **RudyGiuliani** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 2.84%|
 | Tweeters with > 1000000 followers  | 0.1%  |
 
 
@@ -40,28 +43,28 @@ The most popular user is: **galaxyagustd**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUTUBE**  |
-| second  | **VIA**  |
-| third  | **VIDEO** |
-| fourth  | **@BTS_TWT**  |
-| fifth  | **VIEWS**  |
+| first  | **BIDEN**  |
+| second  | **JOE**  |
+| third  | **BERNIE** |
+| fourth  | **CAROLINA**  |
+| fifth  | **SOUTH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @iamjojo: Check out the live performance of “Sabotage” from the Honda Stage!🧡🍀https://t.co/B56EaD6uoi |
+|@AlvarezHashi Terrific list of options. If @MikeBloomberg is a real believer in his values he's saying now, a… https://t.co/k3cKLgQLRR |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **galaxyagustd**  |
+| The most retweeted user is: **DietzRoxanne**  |
 | ------------- |
-| RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow(https://t.co/6zNStAvW2u) |
+| RT @RyanAFournier: Bernie Sanders has been in office for 29 years.Chuck Schumer has been in office for 38 yearsNancy Pelosi has been in… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
