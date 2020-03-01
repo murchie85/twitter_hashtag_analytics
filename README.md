@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bournemouth"**
+&#x1F34E; **TOPIC = "YouTube"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Vintage_Utd: Was actually quietly confident going into the Everton game tomorrow, but now that Chelsea have dropped 2 points away to Bo… |
-| RT @ConnCFC: Chelsea fans always bash Alonso so its only fair to give him praise when it’s deserved. Today Alonso was Chelsea’s best player… |
-| RT @NizaarKinsella: FT: Bournemouth 2-2 ChelseaNeither side will be happy with the result. From #CFC's point of view, Marcos Alonso sums… |
+| LIL BABY MY TURN Album review. Did Lil Baby claim the top spot with this... https://t.co/uNJtihRmyw via @YouTube… https://t.co/18ssJggVze |
+| 2 UNLIMITED - No Limit (Rap Version) (Official Music Video) https://t.co/QJXNIKPEqt via @YouTube |
+| RT @Cimorelliband: Christina is pregnant!!! We are SO happy for her!! Check out the new video on our YouTube channel! 👶🏼🍼🤍https://t.co/Gd… |
 
-The most popular user is: **Rhaphique**
-<div class="alert alert-block alert-danger"> RT @TheBlues___: *Chelsea are going to play against Bournemouth tomorrow*
-Bournemouth: https://t.co/qmyr90lq1n</div>
+The most popular user is: **galaxyagustd**
+<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow
+(https://t.co/6zNStAvW2u)</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **premierleague** |
-| #3 Most tweeted to  | **ChelseaFC** |
-| NewProfiles (less than 10 days) | 1.4%  |
-| Tweeters with < 10 followers  | 3.2%|
-| Tweeters with > 1000000 followers  | 0.48%  |
+| #1 Most tweeted to  | **YouTube** |
+| #2 Most tweeted to  | **BTS_twt** |
+| #3 Most tweeted to  | **latelateshow** |
+| NewProfiles (less than 10 days) | 1.5%  |
+| Tweeters with < 10 followers  | 8.58%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -40,28 +40,28 @@ Bournemouth: https://t.co/qmyr90lq1n</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOURNEMOUTH**  |
-| second  | **CHELSEA**  |
-| third  | **ALONSO** |
-| fourth  | **2-2**  |
-| fifth  | **MARCOS**  |
+| first  | **YOUTUBE**  |
+| second  | **VIA**  |
+| third  | **VIDEO** |
+| fourth  | **@BTS_TWT**  |
+| fifth  | **VIEWS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @premierleague: FULL-TIME AFC Bournemouth 2-2 ChelseaMarcos Alonso nets twice to help Chelsea pick up a point against a defiant Bourne… |
+|RT @iamjojo: Check out the live performance of “Sabotage” from the Honda Stage!🧡🍀https://t.co/B56EaD6uoi |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Rhaphique**  |
+| The most retweeted user is: **galaxyagustd**  |
 | ------------- |
-| RT @TheBlues___: *Chelsea are going to play against Bournemouth tomorrow*Bournemouth: https://t.co/qmyr90lq1n |
+| RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow(https://t.co/6zNStAvW2u) |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
