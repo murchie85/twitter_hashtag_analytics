@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Biden"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Terri51038307 @LindseyGrahamSC @realDonaldTrump I love that term "gaslighting"! Re-do your comment w/some facts. U… https://t.co/92RxpAbBGq |
-| RT @realDonaldTrump: Sleepy Joe Biden’s victory in the South Carolina Democrat Primary should be the end of Mini Mike Bloomberg’s Joke of a… |
-| RT @wildwestleft: @thewanderer852 @DalrymplePamala @GOP more recent:https://t.co/iRrhVyxqyT |
+| @elonmusk How does anyone dislike these https://t.co/YdvLLd34Zl |
+| RT @alvinfoo: Time lapse of #SpaceX Falcon Heavy getting assemble for launch. An amazing achievement by @spacex @elonmusk giving humanity t… |
+| @SkierSno @dvapps @computergatewa1 @demanchech @kevindunbar666 @Teslarati @elonmusk What trees are they planting? |
 
-The most popular user is: **DietzRoxanne**
-<div class="alert alert-block alert-danger"> RT @RyanAFournier: Bernie Sanders has been in office for 29 years.
-
-Chuck Schumer has been in office for 38 years
-
-Nancy Pelosi has been in…</div>
+The most popular user is: **mallapigno**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JoeBiden** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **RudyGiuliani** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 2.84%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **thirdrowtesla** |
+| #3 Most tweeted to  | **Tesla** |
+| NewProfiles (less than 10 days) | 3.98%  |
+| Tweeters with < 10 followers  | 17.86%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Nancy Pelosi has been in…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIDEN**  |
-| second  | **JOE**  |
-| third  | **BERNIE** |
-| fourth  | **CAROLINA**  |
-| fifth  | **SOUTH**  |
+| first  | **@ELONMUSK**  |
+| second  | **@TESLA**  |
+| third  | **TESLA** |
+| fourth  | **@ELONMUSK:**  |
+| fifth  | **@THEHACKSMITH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@AlvarezHashi Terrific list of options. If @MikeBloomberg is a real believer in his values he's saying now, a… https://t.co/k3cKLgQLRR |
+|RT @JohnRDallasJr: #Entrepreneurs such as @JeffBezos, @elonmusk, @richardbranson, and other luminaries reach into minds among #technology’s… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DietzRoxanne**  |
+| The most retweeted user is: **mallapigno**  |
 | ------------- |
-| RT @RyanAFournier: Bernie Sanders has been in office for 29 years.Chuck Schumer has been in office for 38 yearsNancy Pelosi has been in… |
+| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
