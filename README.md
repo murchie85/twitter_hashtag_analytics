@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Super Tuesday"**
+&#x1F34E; **TOPIC = "#Covid_19"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AngrierWHStaff: If Biden has a good Super Tuesday showing, I can’t wait to see how many people are suddenly concerned about Burisma aga… |
-| RT @proustmalone: If Warren drops out after Super Tuesday, the next debate will feature Bernie Sanders, Joe Biden, and Mike Bloomberg.Thi… |
-| RT @MikeBloomberg: Tomorrow is Super Tuesday. We’ll be on the ballot for the first time.But the work won’t stop there. This week, I’ll be… |
+| RT @HowHumans: #Covid_19Humans talking in 19th century: By 2020 Scientists will find cure for all kinds diseaseCoronavirus entering in… |
+| RT @battletested5: CDC is hiding data for testingCDC is hiding data for infections/deathTests aren't available to Hospitals/DoctorsPe… |
+| RT @thewanreport: It's still early, but early modeling on coronavirus suggests it could be on the scale of the 1957 flu...Which was pretty… |
 
-The most popular user is: **HinghamCPAMom**
-<div class="alert alert-block alert-danger"> RT @janemarielynch: I just donated to @joebiden campaign and I’m very proudly voting for @joebiden on Super Tuesday in the California prima…</div>
+The most popular user is: **gloloh**
+<div class="alert alert-block alert-danger"> RT @tribelaw: This is NOT GOOD. No Plan B for the failure of CDC’s first wave of #Covid_19 testing!?! So typical of Trumplandia. Frightenin…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **charliekirk11** |
-| #2 Most tweeted to  | **PhilipRucker** |
-| #3 Most tweeted to  | **RyanAFournier** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.56%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| #1 Most tweeted to  | **tribelaw** |
+| #2 Most tweeted to  | **WordswithSteph** |
+| #3 Most tweeted to  | **drphiliplee1** |
+| NewProfiles (less than 10 days) | 1.38%  |
+| Tweeters with < 10 followers  | 4.24%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **HinghamCPAMom**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SUPER**  |
-| second  | **TUESDAY**  |
-| third  | **BIDEN** |
-| fourth  | **BERNIE**  |
-| fifth  | **JOE**  |
+| first  | **COVID_19**  |
+| second  | **CORONAVIRUS**  |
+| third  | **PEOPLE** |
+| fourth  | **TRUMP**  |
+| fifth  | **CASES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Via @Slate: No One Knows What’s Going To Happen on Super Tuesday https://t.co/nyeP4mw5i9 https://t.co/E9YZYZWgTV |
+|RT @drphiliplee1: No more handshakes due to #Covid_19 From tomorrow, Wakanda salutes ONLY https://t.co/yo8Qp913ns |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **HinghamCPAMom**  |
+| The most retweeted user is: **gloloh**  |
 | ------------- |
-| RT @janemarielynch: I just donated to @joebiden campaign and I’m very proudly voting for @joebiden on Super Tuesday in the California prima… |
+| RT @tribelaw: This is NOT GOOD. No Plan B for the failure of CDC’s first wave of #Covid_19 testing!?! So typical of Trumplandia. Frightenin… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
