@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "Super Tuesday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @elonmusk How does anyone dislike these https://t.co/YdvLLd34Zl |
-| RT @alvinfoo: Time lapse of #SpaceX Falcon Heavy getting assemble for launch. An amazing achievement by @spacex @elonmusk giving humanity t… |
-| @SkierSno @dvapps @computergatewa1 @demanchech @kevindunbar666 @Teslarati @elonmusk What trees are they planting? |
+| RT @AngrierWHStaff: If Biden has a good Super Tuesday showing, I can’t wait to see how many people are suddenly concerned about Burisma aga… |
+| RT @proustmalone: If Warren drops out after Super Tuesday, the next debate will feature Bernie Sanders, Joe Biden, and Mike Bloomberg.Thi… |
+| RT @MikeBloomberg: Tomorrow is Super Tuesday. We’ll be on the ballot for the first time.But the work won’t stop there. This week, I’ll be… |
 
-The most popular user is: **mallapigno**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
+The most popular user is: **HinghamCPAMom**
+<div class="alert alert-block alert-danger"> RT @janemarielynch: I just donated to @joebiden campaign and I’m very proudly voting for @joebiden on Super Tuesday in the California prima…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **thirdrowtesla** |
-| #3 Most tweeted to  | **Tesla** |
-| NewProfiles (less than 10 days) | 3.98%  |
-| Tweeters with < 10 followers  | 17.86%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **charliekirk11** |
+| #2 Most tweeted to  | **PhilipRucker** |
+| #3 Most tweeted to  | **RyanAFournier** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.56%|
+| Tweeters with > 1000000 followers  | 0.3%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mallapigno**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@TESLA**  |
-| third  | **TESLA** |
-| fourth  | **@ELONMUSK:**  |
-| fifth  | **@THEHACKSMITH**  |
+| first  | **SUPER**  |
+| second  | **TUESDAY**  |
+| third  | **BIDEN** |
+| fourth  | **BERNIE**  |
+| fifth  | **JOE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JohnRDallasJr: #Entrepreneurs such as @JeffBezos, @elonmusk, @richardbranson, and other luminaries reach into minds among #technology’s… |
+|Via @Slate: No One Knows What’s Going To Happen on Super Tuesday https://t.co/nyeP4mw5i9 https://t.co/E9YZYZWgTV |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mallapigno**  |
+| The most retweeted user is: **HinghamCPAMom**  |
 | ------------- |
-| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
+| RT @janemarielynch: I just donated to @joebiden campaign and I’m very proudly voting for @joebiden on Super Tuesday in the California prima… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
