@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @UmapathyFilms: #BaBaBaNaReady Song Gets 1M Views 👉🏻https://t.co/CibEHckNhaThank you all for the love❤️🙏🏻#Roberrt https://t.co/kaPFw… |
-| RT @radiocityindia: Can you imagine partially blind waiters working and playing quiz with the customers in a cafe?Watch this unique conce… |
-| RT @StopMSGSphere: AEG have released this visual of what it would be like for people living in Legacy Tower in #Stratford if the #MSGSphere… |
+| How the hell is autotune still a thing in 2020 https://t.co/WZWqaR6BJH |
+| @OTB_ESPN @TBob53 so much disrespect for soft-shell crab. |
+| RT @espn: Three years ago today, we found out that the ceiling is the roof. https://t.co/WLVNSuPcHI |
 
-The most popular user is: **_Andrea_7u7**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
-#V
-
-https://t.co/SRpYwfBWfe</div>
+The most popular user is: **Jude_Bellingham**
+<div class="alert alert-block alert-danger"> RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **official_izone** |
-| NewProfiles (less than 10 days) | 1.66%  |
-| Tweeters with < 10 followers  | 10.22%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **SHAQ** |
+| #3 Most tweeted to  | **KentuckyMBB** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.36%|
+| Tweeters with > 1000000 followers  | 0.28%  |
 
 
 
@@ -42,28 +39,28 @@ https://t.co/SRpYwfBWfe</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUTUBE**  |
-| second  | **VIDEO**  |
-| third  | **VIA** |
-| fourth  | **@YOUTUBERT**  |
-| fifth  | **WATCH**  |
+| first  | **@ESPN:**  |
+| second  | **YEARS**  |
+| third  | **AGO** |
+| fourth  | **CEILING**  |
+| fifth  | **ROOF**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CUBEENTGLOBAL: [📽] SEONHO's Everyday #8 : What Happened Last Night ▶️ https://t.co/TjSxZLL1nA#유선호 #YOO_SEONHO#나날의_선호 #SEONHOs_Ever… |
+|RT @wojespn: Golden State Warriors star Draymond Green is signing a shoe deal with Converse, sources tell ESPN. He will become the brand’s… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_Andrea_7u7**  |
+| The most retweeted user is: **Jude_Bellingham**  |
 | ------------- |
-| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
+| RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
