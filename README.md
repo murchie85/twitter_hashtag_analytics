@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Covid_19"**
+&#x1F34E; **TOPIC = "YouTube"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HowHumans: #Covid_19Humans talking in 19th century: By 2020 Scientists will find cure for all kinds diseaseCoronavirus entering in… |
-| RT @battletested5: CDC is hiding data for testingCDC is hiding data for infections/deathTests aren't available to Hospitals/DoctorsPe… |
-| RT @thewanreport: It's still early, but early modeling on coronavirus suggests it could be on the scale of the 1957 flu...Which was pretty… |
+| RT @UmapathyFilms: #BaBaBaNaReady Song Gets 1M Views 👉🏻https://t.co/CibEHckNhaThank you all for the love❤️🙏🏻#Roberrt https://t.co/kaPFw… |
+| RT @radiocityindia: Can you imagine partially blind waiters working and playing quiz with the customers in a cafe?Watch this unique conce… |
+| RT @StopMSGSphere: AEG have released this visual of what it would be like for people living in Legacy Tower in #Stratford if the #MSGSphere… |
 
-The most popular user is: **gloloh**
-<div class="alert alert-block alert-danger"> RT @tribelaw: This is NOT GOOD. No Plan B for the failure of CDC’s first wave of #Covid_19 testing!?! So typical of Trumplandia. Frightenin…</div>
+The most popular user is: **_Andrea_7u7**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
+#V
+
+https://t.co/SRpYwfBWfe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tribelaw** |
-| #2 Most tweeted to  | **WordswithSteph** |
-| #3 Most tweeted to  | **drphiliplee1** |
-| NewProfiles (less than 10 days) | 1.38%  |
-| Tweeters with < 10 followers  | 4.24%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **YouTube** |
+| #2 Most tweeted to  | **BTS_twt** |
+| #3 Most tweeted to  | **official_izone** |
+| NewProfiles (less than 10 days) | 1.66%  |
+| Tweeters with < 10 followers  | 10.22%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **gloloh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COVID_19**  |
-| second  | **CORONAVIRUS**  |
-| third  | **PEOPLE** |
-| fourth  | **TRUMP**  |
-| fifth  | **CASES**  |
+| first  | **YOUTUBE**  |
+| second  | **VIDEO**  |
+| third  | **VIA** |
+| fourth  | **@YOUTUBERT**  |
+| fifth  | **WATCH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @drphiliplee1: No more handshakes due to #Covid_19 From tomorrow, Wakanda salutes ONLY https://t.co/yo8Qp913ns |
+|RT @CUBEENTGLOBAL: [📽] SEONHO's Everyday #8 : What Happened Last Night ▶️ https://t.co/TjSxZLL1nA#유선호 #YOO_SEONHO#나날의_선호 #SEONHOs_Ever… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gloloh**  |
+| The most retweeted user is: **_Andrea_7u7**  |
 | ------------- |
-| RT @tribelaw: This is NOT GOOD. No Plan B for the failure of CDC’s first wave of #Covid_19 testing!?! So typical of Trumplandia. Frightenin… |
+| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
