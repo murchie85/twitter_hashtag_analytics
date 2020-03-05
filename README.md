@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "#THFC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| How the hell is autotune still a thing in 2020 https://t.co/WZWqaR6BJH |
-| @OTB_ESPN @TBob53 so much disrespect for soft-shell crab. |
-| RT @espn: Three years ago today, we found out that the ceiling is the roof. https://t.co/WLVNSuPcHI |
+| RT @SpursOfficial: Gedson's penalty is saved by Krul. Our FA Cup campaign comes to an end.⚪ #THFC: ✔️❌✔️❌❌🔰 #NCFC: ❌✔️✔️✔️ |
+| RT @LastWordOnSpurs: 🇵🇹 Jose Mourinho reacts to Spurs player Eric Dier confronting a spectator:"This person insulted Eric, the younger br… |
+| RT @marc_ba12: Seeing Olivier Skipp hassling, hurrying and making crucial interceptions is filling me with joy. #THFC #COYS #TOTNOR |
 
-The most popular user is: **Jude_Bellingham**
-<div class="alert alert-block alert-danger"> RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2</div>
+The most popular user is: **liefnigrum**
+<div class="alert alert-block alert-danger"> RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **SHAQ** |
-| #3 Most tweeted to  | **KentuckyMBB** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.36%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **SBergwijn_** |
+| #2 Most tweeted to  | **SpursOfficial** |
+| #3 Most tweeted to  | **thespursweb** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 2.38%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Jude_Bellingham**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ESPN:**  |
-| second  | **YEARS**  |
-| third  | **AGO** |
-| fourth  | **CEILING**  |
-| fifth  | **ROOF**  |
+| first  | **DIER**  |
+| second  | **ERIC**  |
+| third  | **FAN** |
+| fourth  | **RUN**  |
+| fifth  | **INTO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @wojespn: Golden State Warriors star Draymond Green is signing a shoe deal with Converse, sources tell ESPN. He will become the brand’s… |
+|RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jude_Bellingham**  |
+| The most retweeted user is: **liefnigrum**  |
 | ------------- |
-| RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2 |
+| RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
