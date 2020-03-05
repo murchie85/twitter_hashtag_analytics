@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#THFC"**
+&#x1F34E; **TOPIC = "Katy Perry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SpursOfficial: Gedson's penalty is saved by Krul. Our FA Cup campaign comes to an end.⚪ #THFC: ✔️❌✔️❌❌🔰 #NCFC: ❌✔️✔️✔️ |
-| RT @LastWordOnSpurs: 🇵🇹 Jose Mourinho reacts to Spurs player Eric Dier confronting a spectator:"This person insulted Eric, the younger br… |
-| RT @marc_ba12: Seeing Olivier Skipp hassling, hurrying and making crucial interceptions is filling me with joy. #THFC #COYS #TOTNOR |
+| RT @billboard: Congrats, @KatyPerry https://t.co/uoeNg1ip2I |
+| RT @ABSCBNNews: Katy Perry is pregnant https://t.co/EJTA7Bk0Qv |
+| RT @RiseKatycats: Katy Perry announcing she’s pregnant on her Instagram live has me screaming 😂😂 https://t.co/vlscE65Vb7 |
 
-The most popular user is: **liefnigrum**
-<div class="alert alert-block alert-danger"> RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T…</div>
+The most popular user is: **caIIforIove**
+<div class="alert alert-block alert-danger"> RT @prominentbabee: maybe Katy Perry was right. I do feel like a plastic bag.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SBergwijn_** |
-| #2 Most tweeted to  | **SpursOfficial** |
-| #3 Most tweeted to  | **thespursweb** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **katyperry** |
+| #2 Most tweeted to  | **RiseKatycats** |
+| #3 Most tweeted to  | **enews** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.66%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **liefnigrum**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DIER**  |
-| second  | **ERIC**  |
-| third  | **FAN** |
-| fourth  | **RUN**  |
-| fifth  | **INTO**  |
+| first  | **KATY**  |
+| second  | **PERRY**  |
+| third  | **PREGNANT** |
+| fourth  | **NEVERWORNWHITE**  |
+| fifth  | **FIRST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T… |
+|RT @people: Katy Perry Is Pregnant! Singer Reveals She's Expecting First Child with Fiancé Orlando Bloom in New Video https://t.co/pVMYFrfV… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **liefnigrum**  |
+| The most retweeted user is: **caIIforIove**  |
 | ------------- |
-| RT @SBergwijn_: Dier has just run into the stands having it out with a fan! I have no idea what’s just happened what the actual fuck?!?! #T… |
+| RT @prominentbabee: maybe Katy Perry was right. I do feel like a plastic bag. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
