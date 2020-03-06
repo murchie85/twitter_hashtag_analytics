@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Katy Perry"**
+&#x1F34E; **TOPIC = "Captain Hook"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @billboard: Congrats, @KatyPerry https://t.co/uoeNg1ip2I |
-| RT @ABSCBNNews: Katy Perry is pregnant https://t.co/EJTA7Bk0Qv |
-| RT @RiseKatycats: Katy Perry announcing she’s pregnant on her Instagram live has me screaming 😂😂 https://t.co/vlscE65Vb7 |
+| Captain Hook &gt;&gt; |
+| The slices in Captain Hook wake up my inner hash slinging slasher&gt;&gt;&gt;&gt; |
+| RT @GionniBaldwin: The flow shift on Captain Hook is malicious 🔥#Suga |
 
-The most popular user is: **caIIforIove**
-<div class="alert alert-block alert-danger"> RT @prominentbabee: maybe Katy Perry was right. I do feel like a plastic bag.</div>
+The most popular user is: **dathardcoredude**
+<div class="alert alert-block alert-danger"> RT @jazz_inmypants: PETER PAN: we meet again, Captain Hook
+
+CAPTAIN HOOK: well well well-- wait u guys call me Hook?
+
+PETER PAN: yeah
+
+CAPT…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **katyperry** |
-| #2 Most tweeted to  | **RiseKatycats** |
-| #3 Most tweeted to  | **enews** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.66%|
+| #1 Most tweeted to  | **theestallion** |
+| #2 Most tweeted to  | **Lemmejustpause** |
+| #3 Most tweeted to  | **najcuteass** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 1.4%|
 | Tweeters with > 1000000 followers  | 0.08%  |
 
 
@@ -39,28 +45,28 @@ The most popular user is: **caIIforIove**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KATY**  |
-| second  | **PERRY**  |
-| third  | **PREGNANT** |
-| fourth  | **NEVERWORNWHITE**  |
-| fifth  | **FIRST**  |
+| first  | **HOOK**  |
+| second  | **CAPTAIN**  |
+| third  | **MEGAN** |
+| fourth  | **SUGA**  |
+| fifth  | **@THEESTALLION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @people: Katy Perry Is Pregnant! Singer Reveals She's Expecting First Child with Fiancé Orlando Bloom in New Video https://t.co/pVMYFrfV… |
+|RT @theestallion: Captain Hook rn 💁🏽‍♀️ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **caIIforIove**  |
+| The most retweeted user is: **dathardcoredude**  |
 | ------------- |
-| RT @prominentbabee: maybe Katy Perry was right. I do feel like a plastic bag. |
+| RT @jazz_inmypants: PETER PAN: we meet again, Captain HookCAPTAIN HOOK: well well well-- wait u guys call me Hook?PETER PAN: yeahCAPT… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
