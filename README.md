@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Captain Hook"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Captain Hook &gt;&gt; |
-| The slices in Captain Hook wake up my inner hash slinging slasher&gt;&gt;&gt;&gt; |
-| RT @GionniBaldwin: The flow shift on Captain Hook is malicious 🔥#Suga |
+| RT @billboard: Demi Lovato opened about the events that led to her 2018 relapse, eventual overdose and hospitalization on @TheEllenShow htt… |
+| RT @JCMD_Media: theellenshow: @JustinBieber discusses his arranged marriage, tomorrow. https://t.co/E8KbO3sYZY |
+| RT @TheEllenShow: I haven’t seen @ddLovato for 2 years. She spoke honestly and from the heart. I’m so proud of her. https://t.co/NSvfwujL8R |
 
-The most popular user is: **dathardcoredude**
-<div class="alert alert-block alert-danger"> RT @jazz_inmypants: PETER PAN: we meet again, Captain Hook
-
-CAPTAIN HOOK: well well well-- wait u guys call me Hook?
-
-PETER PAN: yeah
-
-CAPT…</div>
+The most popular user is: **malyz__**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **theestallion** |
-| #2 Most tweeted to  | **Lemmejustpause** |
-| #3 Most tweeted to  | **najcuteass** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 1.4%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **ddlovato** |
+| #3 Most tweeted to  | **justinbieber** |
+| NewProfiles (less than 10 days) | 2.92%  |
+| Tweeters with < 10 followers  | 9.6%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -45,28 +39,28 @@ CAPT…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HOOK**  |
-| second  | **CAPTAIN**  |
-| third  | **MEGAN** |
-| fourth  | **SUGA**  |
-| fifth  | **@THEESTALLION**  |
+| first  | **@THEELLENSHOW:**  |
+| second  | **@THEELLENSHOW**  |
+| third  | **I’M** |
+| fourth  | **@DDLOVATO**  |
+| fifth  | **2**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @theestallion: Captain Hook rn 💁🏽‍♀️ |
+|RT @scooterbraun: DEMI ON @TheEllenShow TODAY https://t.co/hi9A3QJ4P1 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dathardcoredude**  |
+| The most retweeted user is: **malyz__**  |
 | ------------- |
-| RT @jazz_inmypants: PETER PAN: we meet again, Captain HookCAPTAIN HOOK: well well well-- wait u guys call me Hook?PETER PAN: yeahCAPT… |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
