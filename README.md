@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mark Meadows"**
+&#x1F34E; **TOPIC = "#GreysAnatomy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jsolomonReports: Breaking: Trump names congressman Mark Meadows as new chief of staff, choosing a loyalist and consummate communicator… |
-| RT @realDonaldTrump: I am pleased to announce that Congressman Mark Meadows will become White House Chief of Staff. I have long known and w… |
-| RT @realDonaldTrump: I am pleased to announce that Congressman Mark Meadows will become White House Chief of Staff. I have long known and w… |
+| RT @Reine1996: These flashbacks just show that the chemistry between Katherine and Justin was on a whole other level. That's why I could ne… |
+| RT @OceansGhostface: Just watched the latest Grey’s Anatomy episode and this is all I got to say #GreysAnatomy https://t.co/ypqRZT09ak |
+| RT @kathspetr0va: she didnt deserve this, especially not after everything she's been through lately. josephine brooke wilson is the best pe… |
 
-The most popular user is: **dwolgast**
-<div class="alert alert-block alert-danger"> RT @stevemorris__: Here's Mark Meadows, who just sidetracked the entire House Oversight Committee to assure him he's not racist, saying tha…</div>
+The most popular user is: **ampizzzle**
+<div class="alert alert-block alert-danger"> RT @GreysABC: After 16 seasons, we're saying goodbye to Dr. Alex Karev. See how his story ends next Thursday on Grey's Anatomy.  #GreysAnat…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **Jim_Jordan** |
-| #3 Most tweeted to  | **funder** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 1.18%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **GreysABC** |
+| #2 Most tweeted to  | **enews** |
+| #3 Most tweeted to  | **MarvelAlycia24** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 5.02%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **dwolgast**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARK**  |
-| second  | **MEADOWS**  |
-| third  | **CHIEF** |
-| fourth  | **STAFF**  |
-| fifth  | **WHITE**  |
+| first  | **GREYSANATOMY**  |
+| second  | **ALEX**  |
+| third  | **KAREV** |
+| fourth  | **PERSON**  |
+| fifth  | **JO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Patriqtscott: Breaking news🚨Mark Meadows named as new chief of staff. https://t.co/BrrZtvXp1J |
+|RT @angelicdeckstar: #GreysAnatomy Let the fans decide, who was actually the love of Alex’s life? RT for Jo Karev Like for Izzie Steve… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dwolgast**  |
+| The most retweeted user is: **ampizzzle**  |
 | ------------- |
-| RT @stevemorris__: Here's Mark Meadows, who just sidetracked the entire House Oversight Committee to assure him he's not racist, saying tha… |
+| RT @GreysABC: After 16 seasons, we're saying goodbye to Dr. Alex Karev. See how his story ends next Thursday on Grey's Anatomy.  #GreysAnat… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
