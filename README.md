@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Eternal Atake"**
+&#x1F34E; **TOPIC = "Mark Meadows"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LeoVuitt0n: Call me eternal atake cause i got dropped today 🥶 |
-| RT @OprahSide: Mfs listen to three songs off eternal atake and put " 🙄🌎☄️💕 " next to they name |
-| RT @brndvx: DO NOT RUIN ANY SONG ON ETERNAL ATAKE BY MAKING IT A FUCKING TIK TOK SONGDO NOT RUIN ANY SONG ON ETERNAL ATAKE BY MAKING IT A… |
+| RT @jsolomonReports: Breaking: Trump names congressman Mark Meadows as new chief of staff, choosing a loyalist and consummate communicator… |
+| RT @realDonaldTrump: I am pleased to announce that Congressman Mark Meadows will become White House Chief of Staff. I have long known and w… |
+| RT @realDonaldTrump: I am pleased to announce that Congressman Mark Meadows will become White House Chief of Staff. I have long known and w… |
 
-The most popular user is: **BakeSele**
-<div class="alert alert-block alert-danger"> RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19</div>
+The most popular user is: **dwolgast**
+<div class="alert alert-block alert-danger"> RT @stevemorris__: Here's Mark Meadows, who just sidetracked the entire House Oversight Committee to assure him he's not racist, saying tha…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LILUZIVERT** |
-| #2 Most tweeted to  | **CrypticNoOne** |
-| #3 Most tweeted to  | **XXL** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 5.12%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **Jim_Jordan** |
+| #3 Most tweeted to  | **funder** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 1.18%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BakeSele**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ETERNAL**  |
-| second  | **ATAKE**  |
-| third  | **UZI** |
-| fourth  | **LIL**  |
-| fifth  | **SONG**  |
+| first  | **MARK**  |
+| second  | **MEADOWS**  |
+| third  | **CHIEF** |
+| fourth  | **STAFF**  |
+| fifth  | **WHITE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @albert12793506: Niggas will listen to eternal atake but wont a-take a second to check on their homies to see if they are ok |
+|RT @Patriqtscott: Breaking news🚨Mark Meadows named as new chief of staff. https://t.co/BrrZtvXp1J |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BakeSele**  |
+| The most retweeted user is: **dwolgast**  |
 | ------------- |
-| RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19 |
+| RT @stevemorris__: Here's Mark Meadows, who just sidetracked the entire House Oversight Committee to assure him he's not racist, saying tha… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
