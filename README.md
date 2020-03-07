@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "Eternal Atake"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @billboard: Demi Lovato opened about the events that led to her 2018 relapse, eventual overdose and hospitalization on @TheEllenShow htt… |
-| RT @JCMD_Media: theellenshow: @JustinBieber discusses his arranged marriage, tomorrow. https://t.co/E8KbO3sYZY |
-| RT @TheEllenShow: I haven’t seen @ddLovato for 2 years. She spoke honestly and from the heart. I’m so proud of her. https://t.co/NSvfwujL8R |
+| RT @LeoVuitt0n: Call me eternal atake cause i got dropped today 🥶 |
+| RT @OprahSide: Mfs listen to three songs off eternal atake and put " 🙄🌎☄️💕 " next to they name |
+| RT @brndvx: DO NOT RUIN ANY SONG ON ETERNAL ATAKE BY MAKING IT A FUCKING TIK TOK SONGDO NOT RUIN ANY SONG ON ETERNAL ATAKE BY MAKING IT A… |
 
-The most popular user is: **malyz__**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
+The most popular user is: **BakeSele**
+<div class="alert alert-block alert-danger"> RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **ddlovato** |
-| #3 Most tweeted to  | **justinbieber** |
-| NewProfiles (less than 10 days) | 2.92%  |
-| Tweeters with < 10 followers  | 9.6%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **LILUZIVERT** |
+| #2 Most tweeted to  | **CrypticNoOne** |
+| #3 Most tweeted to  | **XXL** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 5.12%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **malyz__**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW:**  |
-| second  | **@THEELLENSHOW**  |
-| third  | **I’M** |
-| fourth  | **@DDLOVATO**  |
-| fifth  | **2**  |
+| first  | **ETERNAL**  |
+| second  | **ATAKE**  |
+| third  | **UZI** |
+| fourth  | **LIL**  |
+| fifth  | **SONG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @scooterbraun: DEMI ON @TheEllenShow TODAY https://t.co/hi9A3QJ4P1 |
+|RT @albert12793506: Niggas will listen to eternal atake but wont a-take a second to check on their homies to see if they are ok |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **malyz__**  |
+| The most retweeted user is: **BakeSele**  |
 | ------------- |
-| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
+| RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
