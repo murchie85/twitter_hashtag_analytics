@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GreysAnatomy"**
+&#x1F34E; **TOPIC = "Eternal Atake"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Reine1996: These flashbacks just show that the chemistry between Katherine and Justin was on a whole other level. That's why I could ne… |
-| RT @OceansGhostface: Just watched the latest Grey’s Anatomy episode and this is all I got to say #GreysAnatomy https://t.co/ypqRZT09ak |
-| RT @kathspetr0va: she didnt deserve this, especially not after everything she's been through lately. josephine brooke wilson is the best pe… |
+| RT @brndvx: i must be eternal atake because i keep getting played on repeat |
+| RT @Akademiks: Lil Uzi Vert “Eternal Atake” expected to sell 325K first week. |
+| RT @asap6ixx: “Eternal Atake was so disappointing can’t believe I waited 2 years for this” https://t.co/16s428X6TC |
 
-The most popular user is: **ampizzzle**
-<div class="alert alert-block alert-danger"> RT @GreysABC: After 16 seasons, we're saying goodbye to Dr. Alex Karev. See how his story ends next Thursday on Grey's Anatomy.  #GreysAnat…</div>
+The most popular user is: **akcx_**
+<div class="alert alert-block alert-danger"> RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GreysABC** |
-| #2 Most tweeted to  | **enews** |
-| #3 Most tweeted to  | **MarvelAlycia24** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 5.02%|
+| #1 Most tweeted to  | **Akademiks** |
+| #2 Most tweeted to  | **DailyRapFacts** |
+| #3 Most tweeted to  | **LILUZIVERT** |
+| NewProfiles (less than 10 days) | 1.1%  |
+| Tweeters with < 10 followers  | 3.88%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ampizzzle**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GREYSANATOMY**  |
-| second  | **ALEX**  |
-| third  | **KAREV** |
-| fourth  | **PERSON**  |
-| fifth  | **JO**  |
+| first  | **LIL**  |
+| second  | **ETERNAL**  |
+| third  | **ATAKE** |
+| fourth  | **UZI**  |
+| fifth  | **EXPECTED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @angelicdeckstar: #GreysAnatomy Let the fans decide, who was actually the love of Alex’s life? RT for Jo Karev Like for Izzie Steve… |
+|RT @chartdata: on global Spotify#1 YHLQMDLG @sanbenito 61.3M#2 Music To Be Murdered By @Eminem 50.5M#3 Eternal Atake, @LILUZIVERT 47.7M… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ampizzzle**  |
+| The most retweeted user is: **akcx_**  |
 | ------------- |
-| RT @GreysABC: After 16 seasons, we're saying goodbye to Dr. Alex Karev. See how his story ends next Thursday on Grey's Anatomy.  #GreysAnat… |
+| RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
