@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Eternal Atake"**
+&#x1F34E; **TOPIC = "#SundayThoughts"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @brndvx: i must be eternal atake because i keep getting played on repeat |
-| RT @Akademiks: Lil Uzi Vert “Eternal Atake” expected to sell 325K first week. |
-| RT @asap6ixx: “Eternal Atake was so disappointing can’t believe I waited 2 years for this” https://t.co/16s428X6TC |
+| RT @DandyLionswax: Happy #SundayThoughts with our #essentialoil range. #crafturday #SmallBiz #candle #Soap https://t.co/gRbOb4FbpS |
+| RT @hvgoenka: My dad once told me there were two kinds of people in the world - givers and takers. The takers may eat better but the givers… |
+| A misty morning does not SIGNIFY a cloudy day.#quoteoftheday #inspiration #motivation #motivationalquotes… https://t.co/cIAYHfDghL |
 
-The most popular user is: **akcx_**
-<div class="alert alert-block alert-danger"> RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19</div>
+The most popular user is: **NadelleWilson**
+<div class="alert alert-block alert-danger"> RT @Emolclause: #BREAKING:When will #MSM which READILY DIGS INTO every Democrat's past, ALSO DIG INTO @senatemajldr's secretive and HIGHLY…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Akademiks** |
-| #2 Most tweeted to  | **DailyRapFacts** |
-| #3 Most tweeted to  | **LILUZIVERT** |
-| NewProfiles (less than 10 days) | 1.1%  |
-| Tweeters with < 10 followers  | 3.88%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **hvgoenka** |
+| #2 Most tweeted to  | **MohanTh80694870** |
+| #3 Most tweeted to  | **jyotigambhir1** |
+| NewProfiles (less than 10 days) | 2.08%  |
+| Tweeters with < 10 followers  | 4.36%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **akcx_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIL**  |
-| second  | **ETERNAL**  |
-| third  | **ATAKE** |
-| fourth  | **UZI**  |
-| fifth  | **EXPECTED**  |
+| first  | **SUNDAYTHOUGHTS**  |
+| second  | **INDIA**  |
+| third  | **FREE** |
+| fourth  | **PEOPLE**  |
+| fifth  | **TAKERS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.85%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @chartdata: on global Spotify#1 YHLQMDLG @sanbenito 61.3M#2 Music To Be Murdered By @Eminem 50.5M#3 Eternal Atake, @LILUZIVERT 47.7M… |
+|Inspiration is ShaheenBagh's women! 💓✌#SheInspiresUs#BraveWomenOfShaheenBagh#WomensDay #महिलादिवस… https://t.co/pKedJM1Nsy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **akcx_**  |
+| The most retweeted user is: **NadelleWilson**  |
 | ------------- |
-| RT @LILUZIVERT: Short film for Eternal Atake “BabyPluto” 🌟🛸 Watch here 👁 https://t.co/ZSsgJsQU19 |
+| RT @Emolclause: #BREAKING:When will #MSM which READILY DIGS INTO every Democrat's past, ALSO DIG INTO @senatemajldr's secretive and HIGHLY… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
