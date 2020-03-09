@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#SundayThoughts"**
+&#x1F34E; **TOPIC = "#COVID19"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DandyLionswax: Happy #SundayThoughts with our #essentialoil range. #crafturday #SmallBiz #candle #Soap https://t.co/gRbOb4FbpS |
-| RT @hvgoenka: My dad once told me there were two kinds of people in the world - givers and takers. The takers may eat better but the givers… |
-| A misty morning does not SIGNIFY a cloudy day.#quoteoftheday #inspiration #motivation #motivationalquotes… https://t.co/cIAYHfDghL |
+| Worum es beim Thema #covid19 in den USA wirklich geht: "it seems as if in the midst of this burgeoning crisis, we'r… https://t.co/FR4LfF5THl |
+| RT @jameschau: Favorite moment from my @thechinacurrent interview with Gabriel Leung @gmleunghku?“#COVID19 is not a Chinese, South Korean… |
+| RT @SiouxsieW: If you only learn one thing about #COVID19 today make it this: everyone's job is to help FLATTEN THE CURVE. With thanks to @… |
 
-The most popular user is: **NadelleWilson**
-<div class="alert alert-block alert-danger"> RT @Emolclause: #BREAKING:When will #MSM which READILY DIGS INTO every Democrat's past, ALSO DIG INTO @senatemajldr's secretive and HIGHLY…</div>
+The most popular user is: **simonstrand**
+<div class="alert alert-block alert-danger"> RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hvgoenka** |
-| #2 Most tweeted to  | **MohanTh80694870** |
-| #3 Most tweeted to  | **jyotigambhir1** |
-| NewProfiles (less than 10 days) | 2.08%  |
-| Tweeters with < 10 followers  | 4.36%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **PalliThordarson** |
+| #2 Most tweeted to  | **ABSCBNNews** |
+| #3 Most tweeted to  | **WHO** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **NadelleWilson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SUNDAYTHOUGHTS**  |
-| second  | **INDIA**  |
-| third  | **FREE** |
-| fourth  | **PEOPLE**  |
-| fifth  | **TAKERS**  |
+| first  | **COVID19**  |
+| second  | **CASES**  |
+| third  | **CORONAVIRUS** |
+| fourth  | **NEW**  |
+| fifth  | **CONFIRMED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.85%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Inspiration is ShaheenBagh's women! 💓✌#SheInspiresUs#BraveWomenOfShaheenBagh#WomensDay #महिलादिवस… https://t.co/pKedJM1Nsy |
+|RT @DrEricDing: Kinda embarrassing CDC... misalignment of US case numbers is likely a combination of: 1) how you count repatriated US 💎 Pri… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NadelleWilson**  |
+| The most retweeted user is: **simonstrand**  |
 | ------------- |
-| RT @Emolclause: #BREAKING:When will #MSM which READILY DIGS INTO every Democrat's past, ALSO DIG INTO @senatemajldr's secretive and HIGHLY… |
+| RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
