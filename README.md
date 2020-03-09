@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#COVID19"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RepDougCollins: During my visit to the @CDC with @realDonaldTrump on Friday, I saw firsthand how the administration and our health offi… |
-| Would be helpful if they added an extra column for 'hangover' to this #COVID2019 #coronavirus #COVID19 https://t.co/YPpP8lzsWQ |
-| RT @ECDC_EU: Today's update:▪ 109 695 cases▪ 3811 fatalitiesEU/EEA/UK:▪ 11 577 cases▪ 396 deathsFind all info: https://t.co/TE7KD9… |
+| @mortchad @Tesla @elonmusk @JohnnaCrider1 I was like what the hell happened now ... And when i read the article i am very happy about it. |
+| I still want my Tesla @elonmusk don’t think I didn’t forget |
+| @krazyrodzilla @Tesla @elonmusk Looks awesome especially with the palm trees in the background!! Enjoy! |
 
-The most popular user is: **DejvidRizov**
-<div class="alert alert-block alert-danger"> RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run…</div>
+The most popular user is: **Dudley_Mbugua**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PalliThordarson** |
-| #2 Most tweeted to  | **WHO** |
-| #3 Most tweeted to  | **Allison_Burnett** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 3.7%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **thirdrowtesla** |
+| #3 Most tweeted to  | **Tesla** |
+| NewProfiles (less than 10 days) | 2.92%  |
+| Tweeters with < 10 followers  | 18.72%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DejvidRizov**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COVID19**  |
-| second  | **CORONAVIRUS**  |
-| third  | **CASES** |
-| fourth  | **CONFIRMED**  |
-| fifth  | **NEW**  |
+| first  | **@ELONMUSK**  |
+| second  | **TESLA**  |
+| third  | **@TESLA** |
+| fourth  | **PANIC**  |
+| fifth  | **@THIRDROWTESLA:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @davidgura: FYI: Calling #COVID19 the "Wuhan Virus" is racist. |
+|@elonmusk @mrebuzz We need elctronic tiolet roll tesla do something |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DejvidRizov**  |
+| The most retweeted user is: **Dudley_Mbugua**  |
 | ------------- |
-| RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run… |
+| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
