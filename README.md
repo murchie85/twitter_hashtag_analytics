@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Worum es beim Thema #covid19 in den USA wirklich geht: "it seems as if in the midst of this burgeoning crisis, we'r… https://t.co/FR4LfF5THl |
-| RT @jameschau: Favorite moment from my @thechinacurrent interview with Gabriel Leung @gmleunghku?“#COVID19 is not a Chinese, South Korean… |
-| RT @SiouxsieW: If you only learn one thing about #COVID19 today make it this: everyone's job is to help FLATTEN THE CURVE. With thanks to @… |
+| RT @RepDougCollins: During my visit to the @CDC with @realDonaldTrump on Friday, I saw firsthand how the administration and our health offi… |
+| Would be helpful if they added an extra column for 'hangover' to this #COVID2019 #coronavirus #COVID19 https://t.co/YPpP8lzsWQ |
+| RT @ECDC_EU: Today's update:▪ 109 695 cases▪ 3811 fatalitiesEU/EEA/UK:▪ 11 577 cases▪ 396 deathsFind all info: https://t.co/TE7KD9… |
 
-The most popular user is: **simonstrand**
+The most popular user is: **DejvidRizov**
 <div class="alert alert-block alert-danger"> RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **PalliThordarson** |
-| #2 Most tweeted to  | **ABSCBNNews** |
-| #3 Most tweeted to  | **WHO** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #2 Most tweeted to  | **WHO** |
+| #3 Most tweeted to  | **Allison_Burnett** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 3.7%|
+| Tweeters with > 1000000 followers  | 0.3%  |
 
 
 
@@ -40,25 +40,25 @@ The most popular user is: **simonstrand**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **COVID19**  |
-| second  | **CASES**  |
-| third  | **CORONAVIRUS** |
-| fourth  | **NEW**  |
-| fifth  | **CONFIRMED**  |
+| second  | **CORONAVIRUS**  |
+| third  | **CASES** |
+| fourth  | **CONFIRMED**  |
+| fifth  | **NEW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DrEricDing: Kinda embarrassing CDC... misalignment of US case numbers is likely a combination of: 1) how you count repatriated US 💎 Pri… |
+|RT @davidgura: FYI: Calling #COVID19 the "Wuhan Virus" is racist. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **simonstrand**  |
+| The most retweeted user is: **DejvidRizov**  |
 | ------------- |
 | RT @LizSpecht: I think most people aren’t aware of the risk of systemic healthcare failure due to #COVID19 because they simply haven’t run… |
 
