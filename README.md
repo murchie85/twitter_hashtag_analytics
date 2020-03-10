@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#COVID2019"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,36 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| have you stopped elective cath, PVIs and cardiac surgery in your hospital in face of #coronavirus spread?#cardiotwitter#COVID2019 |
-| RT @tedlieu: One reason @POTUS &amp; his enablers failed to contain #COVID2019 is due to the myopic focus on China. The virus was also carried… |
-| RT @SunStarDavao: #SunStarBreakingSouthern Philippines Medical Center (SPMC) reveals on late Monday evening that the last Patient Under In… |
+| RT @catsofinstagram: From @the_cat_named_carrot: “When you have taken your nap you get to have 🍿 and watch @theellenshow 📺👱🏻🍿👶🏼🐈🥕” #catsofi… |
+| RT @Hail_Zel: This one gotta get blown up and framed 🖤 @TheEllenShow https://t.co/BHnumUaqkj |
+| RT @TheEllenShow: It’s #DaylightSavingsTime! Here’s a video to help you remember to spring forward. https://t.co/sFvOv0FxPj |
 
-The most popular user is: **jayeeem_**
-<div class="alert alert-block alert-danger"> RT @japtobias: REMINDER: M.E.N. R. T.R.A.S.H
-
-M-outh
-E-yes
-N-ose
- 
-R
-
-T-ouch-
-R-estricted
-A-reas to
-S-ave ur
-H-ealth
-
-#COVID2019 https://t.…</div>
+The most popular user is: **p0p1n**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ankitdesai6** |
-| #2 Most tweeted to  | **japtobias** |
-| #3 Most tweeted to  | **tedlieu** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 3.9%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **catsofinstagram** |
+| #3 Most tweeted to  | **justinbieber** |
+| NewProfiles (less than 10 days) | 4.86%  |
+| Tweeters with < 10 followers  | 13.44%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -53,28 +39,28 @@ H-ealth
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COVID2019**  |
-| second  | **CORONAVIRUS**  |
-| third  | **PEOPLE** |
-| fourth  | **CASES**  |
-| fifth  | **R**  |
+| first  | **@THEELLENSHOW**  |
+| second  | **@THEELLENSHOW:**  |
+| third  | **WATCH** |
+| fourth  | **NAP**  |
+| fifth  | **TAKEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@MarkFrancois12 Have a quiet word with the Minister for Shower Gel, Mark. A paper in the Lancet shows wearing showe… https://t.co/0RtHk2zEyC |
+|@aftermovie @TheEllenShow @wattpad @annatodd @Vanessa_1719 We are trying really hard!!!!! 🙏🏻❤️ thanks @aftermovie for watching |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jayeeem_**  |
+| The most retweeted user is: **p0p1n**  |
 | ------------- |
-| RT @japtobias: REMINDER: M.E.N. R. T.R.A.S.HM-outhE-yesN-ose RT-ouch-R-estrictedA-reas toS-ave urH-ealth#COVID2019 https://t.… |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
