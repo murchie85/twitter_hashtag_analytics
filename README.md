@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "CUNY"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @catsofinstagram: From @the_cat_named_carrot: “When you have taken your nap you get to have 🍿 and watch @theellenshow 📺👱🏻🍿👶🏼🐈🥕” #catsofi… |
-| RT @Hail_Zel: This one gotta get blown up and framed 🖤 @TheEllenShow https://t.co/BHnumUaqkj |
-| RT @TheEllenShow: It’s #DaylightSavingsTime! Here’s a video to help you remember to spring forward. https://t.co/sFvOv0FxPj |
+| @fatimaxxo_ cuny in general always playing games |
+| RT @eileennn_h: I was informed by my doctor yesterday that if I were to pick up the Coronavirus, it would be as dangerous for me as it woul… |
+| RT @melindaspahiu: Everybody in CUNY gotta start coughing at 12 pm sharp tomorrow. we getting out of there i promise |
 
-The most popular user is: **p0p1n**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
+The most popular user is: **Jocelyn_CUNY**
+<div class="alert alert-block alert-danger"> RT @BernieSanders: Once a vaccine for coronavirus is developed, it should be free.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **catsofinstagram** |
-| #3 Most tweeted to  | **justinbieber** |
-| NewProfiles (less than 10 days) | 4.86%  |
-| Tweeters with < 10 followers  | 13.44%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **CUNY** |
+| #2 Most tweeted to  | **shayafigueiredo** |
+| #3 Most tweeted to  | **Homobyte** |
+| NewProfiles (less than 10 days) | 1.94%  |
+| Tweeters with < 10 followers  | 10.14%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **p0p1n**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW**  |
-| second  | **@THEELLENSHOW:**  |
-| third  | **WATCH** |
-| fourth  | **NAP**  |
-| fifth  | **TAKEN**  |
+| first  | **CUNY**  |
+| second  | **CLOSE**  |
+| third  | **SCHOOL** |
+| fourth  | **AFTER**  |
+| fifth  | **CORONA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@aftermovie @TheEllenShow @wattpad @annatodd @Vanessa_1719 We are trying really hard!!!!! 🙏🏻❤️ thanks @aftermovie for watching |
+|So I’m expected to go to a class of 200+ students who may have been exposed to the virus??#CloseTheSchools #CUNY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **p0p1n**  |
+| The most retweeted user is: **Jocelyn_CUNY**  |
 | ------------- |
-| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
+| RT @BernieSanders: Once a vaccine for coronavirus is developed, it should be free. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
