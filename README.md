@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CUNY"**
+&#x1F34E; **TOPIC = "#WriteinBernie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @fatimaxxo_ cuny in general always playing games |
-| RT @eileennn_h: I was informed by my doctor yesterday that if I were to pick up the Coronavirus, it would be as dangerous for me as it woul… |
-| RT @melindaspahiu: Everybody in CUNY gotta start coughing at 12 pm sharp tomorrow. we getting out of there i promise |
+| RT @maddenifico: At long last, just stop it.You lost with Jeremy Corbyn.You lost with Bernie Sanders.And your choice now is this: Win… |
+| @walterisrandy @Barbara59805021 @progressvoice They don’t care about beating trump. They support his agenda and hat… https://t.co/7HeuGj3apE |
+| RT @sammyjoxoxo: There's a HUGE difference between the platforms of Bernie and Trump with Biden's being more toward Bernie's. Anyone who wo… |
 
-The most popular user is: **Jocelyn_CUNY**
-<div class="alert alert-block alert-danger"> RT @BernieSanders: Once a vaccine for coronavirus is developed, it should be free.</div>
+The most popular user is: **kaylamotte**
+<div class="alert alert-block alert-danger"> RT @HKrassenstein: WARNING: All of these are GOP and Russian hashtags.  Don’t buy into it.  They are trying to prevent Bernie Supporters fr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CUNY** |
-| #2 Most tweeted to  | **shayafigueiredo** |
-| #3 Most tweeted to  | **Homobyte** |
-| NewProfiles (less than 10 days) | 1.94%  |
-| Tweeters with < 10 followers  | 10.14%|
+| #1 Most tweeted to  | **HKrassenstein** |
+| #2 Most tweeted to  | **johnpavlovitz** |
+| #3 Most tweeted to  | **NeniaCampbell** |
+| NewProfiles (less than 10 days) | 1.3%  |
+| Tweeters with < 10 followers  | 4.62%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Jocelyn_CUNY**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CUNY**  |
-| second  | **CLOSE**  |
-| third  | **SCHOOL** |
-| fourth  | **AFTER**  |
-| fifth  | **CORONA**  |
+| first  | **WRITEINBERNIE**  |
+| second  | **BERNIE**  |
+| third  | **VOTE** |
+| fourth  | **TRUMP**  |
+| fifth  | **BIDEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|So I’m expected to go to a class of 200+ students who may have been exposed to the virus??#CloseTheSchools #CUNY |
+|RT @SarahKSilverman: Can someone point me to a tweet with  #WriteinBernie that isn’t condemning the absurd idea that anyone would do that?… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jocelyn_CUNY**  |
+| The most retweeted user is: **kaylamotte**  |
 | ------------- |
-| RT @BernieSanders: Once a vaccine for coronavirus is developed, it should be free. |
+| RT @HKrassenstein: WARNING: All of these are GOP and Russian hashtags.  Don’t buy into it.  They are trying to prevent Bernie Supporters fr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
