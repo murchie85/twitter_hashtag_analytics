@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Budget2020"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @litrgnews: Press release: Upsides and downsides to raising threshold at which National Insurance Contributions are paidhttps://t.co/7… |
-| RT @Haggis_UK: Hilary Benn - We got a 60 page impact assessment on the US-UK FTA... so are you planning to produce an impact assessment for… |
-| RT @PubsAdvisory: To support the measures announced in #Budget2020 for #ukpubs we need fair valuation of pubs by VOA... too many pubs over… |
+| RT @espn: KD’s reaction during Anthony Davis’ potential game-winning shot 😂 https://t.co/AVoYrSgdqa |
+| RT @iplaycornhole: See cornhole’s biggest stars under the bright lights! ✨😎Tune into ESPN network all weekend long as it covers the 2020 C… |
+| RT @espn: 55 years ago, Bill Russell destroyed the boards with 49 rebounds 🤯 https://t.co/7fD00sZrhG |
 
-The most popular user is: **ZahidJagirdar**
-<div class="alert alert-block alert-danger"> RT @RahulGandhi: Modi &amp; his dream team of economic advisors have literally turned the economy around. 
-
-Earlier:
-
-GDP: 7.5%  
-Inflation: 3.…</div>
+The most popular user is: **UltraXDesignz**
+<div class="alert alert-block alert-danger"> RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jeremycorbyn** |
-| #2 Most tweeted to  | **RishiSunak** |
-| #3 Most tweeted to  | **davidschneider** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 1.4%|
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **wojespn** |
+| #3 Most tweeted to  | **ZachLowe_NBA** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 3.42%|
 | Tweeters with > 1000000 followers  | 0.16%  |
 
 
@@ -44,28 +39,28 @@ Inflation: 3.…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUDGET2020**  |
-| second  | **PEOPLE**  |
-| third  | **BUDGET** |
-| fourth  | **CHANCELLOR**  |
-| fifth  | **AUSTERITY**  |
+| first  | **ESPN**  |
+| second  | **@ESPN:**  |
+| third  | **@WOJESPN:** |
+| fourth  | **FANS**  |
+| fifth  | **WITHOUT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @friends_earth: Our updated verdict on @RishiSunak's first Budget: ❌a resounding FAIL for the environment. https://t.co/6o17yHG1ZH… |
+|Game 👌🏻 comin’ your way at 4:52pm!@BallStateWBB 🆚 @EMUWBB📺: https://t.co/bVS2006wRk#MACtion https://t.co/4W71Fz4lsm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ZahidJagirdar**  |
+| The most retweeted user is: **UltraXDesignz**  |
 | ------------- |
-| RT @RahulGandhi: Modi &amp; his dream team of economic advisors have literally turned the economy around. Earlier:GDP: 7.5%  Inflation: 3.… |
+| RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
