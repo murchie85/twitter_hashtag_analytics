@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Wells Fargo Center"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FOX29philly: #BREAKING: Source: Wells Fargo Center closed amid coronavirus outbreakhttps://t.co/IthQoKVxPp |
-| RT @JClarkNBCS: Carter Hart has won 10 of 11 startsHome is where the Hart is 🔥🔥At Wells Fargo Center this season:20-2-2     1.61 GAA… |
-| God damn it I want to be at the Wells Fargo Center tonight #FlyGuys |
+| RT @Mubashar_says: Bill gates donating 37 crore of Carona virus Test kits for free.This man Always wins the heart by contributing To the s… |
+| @BillGates @wellcometrust @Mastercard Safety protocols coronavirus? Are we really making a smart effort to contain… https://t.co/7OEQ3jvjz7 |
+| RT @gp_pulipaka: A Call-to-Arms for #DataScientists. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RS… |
 
-The most popular user is: **cesar_vazquez22**
-<div class="alert alert-block alert-danger"> RT @SerenaWinters: 💜 It sure looks beautiful inside Wells Fargo Center right now. 💜 https://t.co/wECBcvWBwJ</div>
+The most popular user is: **Sputnix_Tutnix**
+<div class="alert alert-block alert-danger"> RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **anna_orso** |
-| #2 Most tweeted to  | **RepPressley** |
-| #3 Most tweeted to  | **JClarkNBCS** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 2.32%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **wellcometrust** |
+| #3 Most tweeted to  | **Mastercard** |
+| NewProfiles (less than 10 days) | 1.98%  |
+| Tweeters with < 10 followers  | 9.4%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **cesar_vazquez22**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WELLS**  |
-| second  | **FARGO**  |
-| third  | **CENTER** |
-| fourth  | **HART**  |
-| fifth  | **PHILADELPHIA**  |
+| first  | **@BILLGATES**  |
+| second  | **BILLGATES**  |
+| third  | **@WELLCOMETRUST** |
+| fourth  | **CORONAVIRUS**  |
+| fifth  | **@MASTERCARD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@KevinCooney Kev, earlier you wanted clubhouse access for reporters and now you want the ice melted at the Wells Fa… https://t.co/3QZPHCqEFU |
+|RT @ElectroneumMart: Good morning #Uganda? Have you talked to your friends and family about #electroneum today  &amp; JOIN the #AnyTask  (https… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cesar_vazquez22**  |
+| The most retweeted user is: **Sputnix_Tutnix**  |
 | ------------- |
-| RT @SerenaWinters: 💜 It sure looks beautiful inside Wells Fargo Center right now. 💜 https://t.co/wECBcvWBwJ |
+| RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
