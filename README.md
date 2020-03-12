@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ThursdayThoughts"**
+&#x1F34E; **TOPIC = "Europe"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SearchabilityUK: What a beautiful morning ☀️ #ThursdayThoughts https://t.co/YNBPI3gWCK |
-| RT @AbsoluteDice: So many dice games, so little time. Absolute Dice Original 👇https://t.co/Cj4AXzyMOJ The Ultimate Dice Game 🎲👊🎲 https://t.… |
-| Our thoughts and prayers go out to partner Schools and everyone having to shut down due to #COVIDー19. Stay safe!… https://t.co/JYEAnr2G5t |
+| RT @PhillyD: HOLY SHIT.In just the last 30 minutes we learned that:Travel from Europe is going to stop for 30 days.Tom Hanks &amp; Rita W… |
+| RT @JuddLegum: Let me just say that suspending travel from Europe for 30 days makes very little sense. The issue is that the virus is spr… |
+| @grimmand_uk @CarolineTired @EmmaKennedy Most people in Europe only travel by train or car in between EU countries… https://t.co/VfAzrx75oG |
 
-The most popular user is: **Uterroott**
-<div class="alert alert-block alert-danger"> RT @bmay: Don’t die of #Coronavirus without seeing this first, it’s the finest clip you’ll watch this year. 
-#Covid_19 #ThursdayThoughts #T…</div>
+The most popular user is: **deniisee07**
+<div class="alert alert-block alert-danger"> RT @PhillyD: HOLY SHIT.
+
+In just the last 30 minutes we learned that:
+
+Travel from Europe is going to stop for 30 days.
+
+Tom Hanks &amp; Rita W…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **A_AMilne** |
-| #2 Most tweeted to  | **AimHighLtd** |
-| #3 Most tweeted to  | **SidShukla_1** |
-| NewProfiles (less than 10 days) | 1.58%  |
-| Tweeters with < 10 followers  | 3.22%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **tribelaw** |
+| #3 Most tweeted to  | **ianbremmer** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 2.9%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -40,28 +45,28 @@ The most popular user is: **Uterroott**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THURSDAYTHOUGHTS**  |
-| second  | **BEING**  |
-| third  | **GO** |
-| fourth  | **SAD”**  |
-| fifth  | **PEOPLE**  |
+| first  | **EUROPE**  |
+| second  | **TRAVEL**  |
+| third  | **BAN** |
+| fourth  | **CORONAVIRUS**  |
+| fifth  | **US**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (38.46%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @27reasonstorock: A very good morning from me and the very gorgeous Duke who is looking for a home could you spare him some retweets pls… |
+|RT @tribelaw: If you watched President Trump’s Oval Office address announcing his surprise ban on travel from Europe (oddly exempting the U… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Uterroott**  |
+| The most retweeted user is: **deniisee07**  |
 | ------------- |
-| RT @bmay: Don’t die of #Coronavirus without seeing this first, it’s the finest clip you’ll watch this year. #Covid_19 #ThursdayThoughts #T… |
+| RT @PhillyD: HOLY SHIT.In just the last 30 minutes we learned that:Travel from Europe is going to stop for 30 days.Tom Hanks &amp; Rita W… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
