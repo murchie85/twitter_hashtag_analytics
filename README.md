@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @espn: KD’s reaction during Anthony Davis’ potential game-winning shot 😂 https://t.co/AVoYrSgdqa |
-| RT @iplaycornhole: See cornhole’s biggest stars under the bright lights! ✨😎Tune into ESPN network all weekend long as it covers the 2020 C… |
-| RT @espn: 55 years ago, Bill Russell destroyed the boards with 49 rebounds 🤯 https://t.co/7fD00sZrhG |
+| NASA's Curiosity rover discovers interesting Martian organics https://t.co/Z97LMxYc33 via @getongab |
+| RT @virginia_true: With ⬆️ pandemic and climate change concerns, there comes news that Trump’s moon mission could cost a staggering $50B.… |
+| 5 Indoor Plants That Absorb Radiation: Did you know that Nasa tested, and proved, that some indoor plants can absor… https://t.co/Qs9DgkUpNx |
 
-The most popular user is: **UltraXDesignz**
-<div class="alert alert-block alert-danger"> RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2</div>
+The most popular user is: **jordy_nasa**
+<div class="alert alert-block alert-danger"> RT @MedinaMUAYE: THIS IS SO CHAOTIC https://t.co/cfhRRn2rzd</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **wojespn** |
-| #3 Most tweeted to  | **ZachLowe_NBA** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 3.42%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **_Astro_Nerd_** |
+| #3 Most tweeted to  | **Space_Station** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 5.42%|
+| Tweeters with > 1000000 followers  | 0.32%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **UltraXDesignz**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ESPN**  |
-| second  | **@ESPN:**  |
-| third  | **@WOJESPN:** |
-| fourth  | **FANS**  |
-| fifth  | **WITHOUT**  |
+| first  | **NASA**  |
+| second  | **SPACE**  |
+| third  | **@NASA:** |
+| fourth  | **ASTRONAUT**  |
+| fifth  | **ABOARD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Game 👌🏻 comin’ your way at 4:52pm!@BallStateWBB 🆚 @EMUWBB📺: https://t.co/bVS2006wRk#MACtion https://t.co/4W71Fz4lsm |
+|NASA Improves ISS Life Support System that Turns Pee into Drinking Water https://t.co/rCkVRSE6TG |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **UltraXDesignz**  |
+| The most retweeted user is: **jordy_nasa**  |
 | ------------- |
-| RT @espn: Dear Kobe: https://t.co/Vy3o4nmAi2 |
+| RT @MedinaMUAYE: THIS IS SO CHAOTIC https://t.co/cfhRRn2rzd |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
