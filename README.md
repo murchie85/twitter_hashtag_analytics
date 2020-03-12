@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "#ThursdayThoughts"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| NASA's Curiosity rover discovers interesting Martian organics https://t.co/Z97LMxYc33 via @getongab |
-| RT @virginia_true: With ⬆️ pandemic and climate change concerns, there comes news that Trump’s moon mission could cost a staggering $50B.… |
-| 5 Indoor Plants That Absorb Radiation: Did you know that Nasa tested, and proved, that some indoor plants can absor… https://t.co/Qs9DgkUpNx |
+| RT @SearchabilityUK: What a beautiful morning ☀️ #ThursdayThoughts https://t.co/YNBPI3gWCK |
+| RT @AbsoluteDice: So many dice games, so little time. Absolute Dice Original 👇https://t.co/Cj4AXzyMOJ The Ultimate Dice Game 🎲👊🎲 https://t.… |
+| Our thoughts and prayers go out to partner Schools and everyone having to shut down due to #COVIDー19. Stay safe!… https://t.co/JYEAnr2G5t |
 
-The most popular user is: **jordy_nasa**
-<div class="alert alert-block alert-danger"> RT @MedinaMUAYE: THIS IS SO CHAOTIC https://t.co/cfhRRn2rzd</div>
+The most popular user is: **Uterroott**
+<div class="alert alert-block alert-danger"> RT @bmay: Don’t die of #Coronavirus without seeing this first, it’s the finest clip you’ll watch this year. 
+#Covid_19 #ThursdayThoughts #T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **_Astro_Nerd_** |
-| #3 Most tweeted to  | **Space_Station** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 5.42%|
-| Tweeters with > 1000000 followers  | 0.32%  |
+| #1 Most tweeted to  | **A_AMilne** |
+| #2 Most tweeted to  | **AimHighLtd** |
+| #3 Most tweeted to  | **SidShukla_1** |
+| NewProfiles (less than 10 days) | 1.58%  |
+| Tweeters with < 10 followers  | 3.22%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **jordy_nasa**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASA**  |
-| second  | **SPACE**  |
-| third  | **@NASA:** |
-| fourth  | **ASTRONAUT**  |
-| fifth  | **ABOARD**  |
+| first  | **THURSDAYTHOUGHTS**  |
+| second  | **BEING**  |
+| third  | **GO** |
+| fourth  | **SAD”**  |
+| fifth  | **PEOPLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (38.46%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|NASA Improves ISS Life Support System that Turns Pee into Drinking Water https://t.co/rCkVRSE6TG |
+|RT @27reasonstorock: A very good morning from me and the very gorgeous Duke who is looking for a home could you spare him some retweets pls… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jordy_nasa**  |
+| The most retweeted user is: **Uterroott**  |
 | ------------- |
-| RT @MedinaMUAYE: THIS IS SO CHAOTIC https://t.co/cfhRRn2rzd |
+| RT @bmay: Don’t die of #Coronavirus without seeing this first, it’s the finest clip you’ll watch this year. #Covid_19 #ThursdayThoughts #T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
