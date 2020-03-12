@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "@nytimes"**
+&#x1F34E; **TOPIC = "Wells Fargo Center"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @MarkDC42 @Kyle91810228 @charliekirk11 @realDonaldTrump @boyscouts @nytimes Power and domination is a major part of… https://t.co/rZMhf2wOaR |
-| RT @nytimes: Tom Hanks had a cold, or so he thought. In the U.S., those symptoms may not be enough to get tested for the coronavirus. But i… |
-| RT @mlipsitch: I'm getting &gt;100 press queries per day and have to triage many good ones. I'm prioritizing orgs that are free @NPR @propubli… |
+| RT @FOX29philly: #BREAKING: Source: Wells Fargo Center closed amid coronavirus outbreakhttps://t.co/IthQoKVxPp |
+| RT @JClarkNBCS: Carter Hart has won 10 of 11 startsHome is where the Hart is 🔥🔥At Wells Fargo Center this season:20-2-2     1.61 GAA… |
+| God damn it I want to be at the Wells Fargo Center tonight #FlyGuys |
 
-The most popular user is: **Lucie21202**
-<div class="alert alert-block alert-danger"> RT @nytimes: Breaking News: Harvey Weinstein was sentenced to 23 years in prison for sex crimes, a stunning downfall for a Hollywood mogul…</div>
+The most popular user is: **cesar_vazquez22**
+<div class="alert alert-block alert-danger"> RT @SerenaWinters: 💜 It sure looks beautiful inside Wells Fargo Center right now. 💜 https://t.co/wECBcvWBwJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **aaronecarroll** |
-| #3 Most tweeted to  | **MinhazMerchant** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 6.46%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **anna_orso** |
+| #2 Most tweeted to  | **RepPressley** |
+| #3 Most tweeted to  | **JClarkNBCS** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 2.32%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Lucie21202**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@NYTIMES:**  |
-| second  | **CORONAVIRUS**  |
-| third  | **US** |
-| fourth  | **TESTED**  |
-| fifth  | **MAY**  |
+| first  | **WELLS**  |
+| second  | **FARGO**  |
+| third  | **CENTER** |
+| fourth  | **HART**  |
+| fifth  | **PHILADELPHIA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nytimes: Tom Hanks had a cold, or so he thought. In the U.S., those symptoms may not be enough to get tested for the coronavirus. But i… |
+|@KevinCooney Kev, earlier you wanted clubhouse access for reporters and now you want the ice melted at the Wells Fa… https://t.co/3QZPHCqEFU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Lucie21202**  |
+| The most retweeted user is: **cesar_vazquez22**  |
 | ------------- |
-| RT @nytimes: Breaking News: Harvey Weinstein was sentenced to 23 years in prison for sex crimes, a stunning downfall for a Hollywood mogul… |
+| RT @SerenaWinters: 💜 It sure looks beautiful inside Wells Fargo Center right now. 💜 https://t.co/wECBcvWBwJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
