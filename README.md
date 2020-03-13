@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CNN"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @jztlikehvn @CNN @GavinNewsom I'm surprised that we haven't yet- especially when many employees are WFH, currently. |
-| RT @lauferlaw: Why is @CNN still moving forward with the Biden/Sanders debate?  Aside from @BernieSanders having no path to victory, we hav… |
-| RT @KyleKulinski: CNN smears Bernie Sanders 14 times a day but they suddenly realize he’s right about Medicare for all during a pandemic. h… |
+| RT @Q172018: Why would the #CDC Own The Coronavirus Strain &amp; Isolate The Cure From Humans#BillGates#DepartmentOfState@SecPompeo arrest… |
+| Women are changing the face of Africa every day. @BillGates introduces Dr @kopanomabaso who works in South Africa h… https://t.co/B2PpVirlhv |
+| @ricksilver @ABC @ABCNewsLive @realDonaldTrump @BillGates @JeffBezos @WarrenBuffett @MikeBloomberg There are commun… https://t.co/GPciBzHYQv |
 
-The most popular user is: **JohnFmushy**
-<div class="alert alert-block alert-danger"> RT @w_terrence: THIS SO WRONG! DISGUSTING BEHAVIOR 
-
-CNN panelists called us Clowns &amp; Uncle Toms for supporting President @realDonaldTrump.…</div>
+The most popular user is: **lcperego**
+<div class="alert alert-block alert-danger"> RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **RealJamesWoods** |
-| #3 Most tweeted to  | **cnnbrk** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.0%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **JeffBezos** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.84%  |
+| Tweeters with < 10 followers  | 8.86%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ CNN panelists called us Clowns &amp; Uncle Toms for supporting President @realDo
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CNN**  |
-| second  | **CORONAVIRUS**  |
-| third  | **@REALJAMESWOODS:** |
-| fourth  | **TRUMP**  |
-| fifth  | **@CNN**  |
+| first  | **@BILLGATES**  |
+| second  | **BILLGATES**  |
+| third  | **CORONAVIRUS** |
+| fourth  | **BILL**  |
+| fifth  | **GATES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @KyleKulinski: CNN smears Bernie Sanders 14 times a day but they suddenly realize he’s right about Medicare for all during a pandemic. h… |
+|RT @blakeir: this is honestly pretty wild to watch today.@BillGates' TED Talk in 2015: "The next outbreak? We aren't ready."https://t.c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JohnFmushy**  |
+| The most retweeted user is: **lcperego**  |
 | ------------- |
-| RT @w_terrence: THIS SO WRONG! DISGUSTING BEHAVIOR CNN panelists called us Clowns &amp; Uncle Toms for supporting President @realDonaldTrump.… |
+| RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
