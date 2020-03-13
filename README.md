@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "CNN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Mubashar_says: Bill gates donating 37 crore of Carona virus Test kits for free.This man Always wins the heart by contributing To the s… |
-| @BillGates @wellcometrust @Mastercard Safety protocols coronavirus? Are we really making a smart effort to contain… https://t.co/7OEQ3jvjz7 |
-| RT @gp_pulipaka: A Call-to-Arms for #DataScientists. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RS… |
+| @jztlikehvn @CNN @GavinNewsom I'm surprised that we haven't yet- especially when many employees are WFH, currently. |
+| RT @lauferlaw: Why is @CNN still moving forward with the Biden/Sanders debate?  Aside from @BernieSanders having no path to victory, we hav… |
+| RT @KyleKulinski: CNN smears Bernie Sanders 14 times a day but they suddenly realize he’s right about Medicare for all during a pandemic. h… |
 
-The most popular user is: **Sputnix_Tutnix**
-<div class="alert alert-block alert-danger"> RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien…</div>
+The most popular user is: **JohnFmushy**
+<div class="alert alert-block alert-danger"> RT @w_terrence: THIS SO WRONG! DISGUSTING BEHAVIOR 
+
+CNN panelists called us Clowns &amp; Uncle Toms for supporting President @realDonaldTrump.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **wellcometrust** |
-| #3 Most tweeted to  | **Mastercard** |
-| NewProfiles (less than 10 days) | 1.98%  |
-| Tweeters with < 10 followers  | 9.4%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **RealJamesWoods** |
+| #3 Most tweeted to  | **cnnbrk** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Sputnix_Tutnix**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **BILLGATES**  |
-| third  | **@WELLCOMETRUST** |
-| fourth  | **CORONAVIRUS**  |
-| fifth  | **@MASTERCARD**  |
+| first  | **CNN**  |
+| second  | **CORONAVIRUS**  |
+| third  | **@REALJAMESWOODS:** |
+| fourth  | **TRUMP**  |
+| fifth  | **@CNN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ElectroneumMart: Good morning #Uganda? Have you talked to your friends and family about #electroneum today  &amp; JOIN the #AnyTask  (https… |
+|RT @KyleKulinski: CNN smears Bernie Sanders 14 times a day but they suddenly realize he’s right about Medicare for all during a pandemic. h… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sputnix_Tutnix**  |
+| The most retweeted user is: **JohnFmushy**  |
 | ------------- |
-| RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien… |
+| RT @w_terrence: THIS SO WRONG! DISGUSTING BEHAVIOR CNN panelists called us Clowns &amp; Uncle Toms for supporting President @realDonaldTrump.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
