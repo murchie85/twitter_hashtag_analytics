@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "SNKRS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nytimes: Hundreds of women in Nigeria have been recruited by Boko Haram as suicide bombers, but some managed to outsmart the terrorist… |
-| @nytimes Does trump put pressure on you? You can tell us.🤔🤔🤔 |
-| RT @joncoopertweets: Joe Biden Needs to Bulk Up His Team. He’s Hiring a New Campaign Manager.Biden announced on Thursday that he had hire… |
+| Me trying to buy anything on the SNKRS 👟 app ... 😑 https://t.co/4s3du0Et6a |
+| @nikestore @Nike  PLEASE FIX YOIR SNKRS APP |
+| RT @TheNorthCop: ⚠️NORTBOT SNKRS⚠️♻️ Re Tweet, Like this post + Follow @TheNorthCop We're going to choose afew people to join us for th… |
 
-The most popular user is: **RonnieStand3**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: People are disgusted and embarrassed by the Fake News Media, as headed by the @nytimes, @washingtonpost, @comcast &amp; MS…</div>
+The most popular user is: **kbz_snkrs**
+<div class="alert alert-block alert-danger"> RT @RandyEmillio: Us: 2020 is gonna be our year 
+
+*3 months later* https://t.co/M73neen4bp</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **DrDenaGrayson** |
-| #3 Most tweeted to  | **SpeakerPelosi** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 5.28%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **GhostAIO** |
+| #2 Most tweeted to  | **NBA2K** |
+| #3 Most tweeted to  | **JaMorant** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 8.18%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **RonnieStand3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@NYTIMES:**  |
-| second  | **CORONAVIRUS**  |
-| third  | **@NYTIMES** |
-| fourth  | **NEW**  |
-| fifth  | **HANDS**  |
+| first  | **SNKRS**  |
+| second  | **NIKE**  |
+| third  | **APP** |
+| fourth  | **MOST**  |
+| fifth  | **MARKET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJECTIVE** (70.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nytimes: We've deleted an earlier tweet to this story to reflect that President Trump's statement was a false claim. The headline of th… |
+|RT @TitanfallBlog: A member of the #ApexLegends community designed an awesome skin customizer concept 👀Do you think Respawn will ever add… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RonnieStand3**  |
+| The most retweeted user is: **kbz_snkrs**  |
 | ------------- |
-| RT @realDonaldTrump: People are disgusted and embarrassed by the Fake News Media, as headed by the @nytimes, @washingtonpost, @comcast &amp; MS… |
+| RT @RandyEmillio: Us: 2020 is gonna be our year *3 months later* https://t.co/M73neen4bp |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
