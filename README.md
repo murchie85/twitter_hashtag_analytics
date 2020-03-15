@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Costco"**
+&#x1F34E; **TOPIC = "nytimes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @iamwillyuan: #costco #brookly #newyork #CoronavirusPandemic I don’t suggest going to Costco right now https://t.co/7lzJCVhXx3 |
-| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
-| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
+| RT @SpeakerPelosi: I don’t support U.S. taxpayer money subsidizing corporations to provide benefits to workers that they should already be… |
+| RT @nytimesbusiness: Shoppers, preparing for the possibility that the coronavirus could keep them quarantined for weeks or months, have bee… |
+| RT @nytimes: "From age 0 to age 5 we say, 'Parents, you’re on your own,'" one education policy researcher explained. "And then at age 5, we… |
 
-The most popular user is: **jose69tamayo**
-<div class="alert alert-block alert-danger"> RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery…</div>
+The most popular user is: **_Donna_M7**
+<div class="alert alert-block alert-danger"> RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. 
+
+Therefore is up to all of you out there to keep this…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bottomshelfbks** |
-| #2 Most tweeted to  | **thankyoujahseh** |
-| #3 Most tweeted to  | **msleen1970** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.64%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **nytimes** |
+| #2 Most tweeted to  | **soledadobrien** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 5.62%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jose69tamayo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COSTCO**  |
-| second  | **SHELVES**  |
-| third  | **LINES** |
-| fourth  | **LOCAL**  |
-| fifth  | **EMPTY**  |
+| first  | **CORONAVIRUS**  |
+| second  | **@NYTIMES:**  |
+| third  | **TRUMP** |
+| fourth  | **@NYTIMES**  |
+| fifth  | **MOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
+|RT @prayingmedic: When you dare to say the emperor has no clothes.https://t.co/kxBBrQY45m |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jose69tamayo**  |
+| The most retweeted user is: **_Donna_M7**  |
 | ------------- |
-| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
+| RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. Therefore is up to all of you out there to keep this… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
