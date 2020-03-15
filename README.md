@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "SNKRS"**
+&#x1F34E; **TOPIC = "Costco"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Me trying to buy anything on the SNKRS 👟 app ... 😑 https://t.co/4s3du0Et6a |
-| @nikestore @Nike  PLEASE FIX YOIR SNKRS APP |
-| RT @TheNorthCop: ⚠️NORTBOT SNKRS⚠️♻️ Re Tweet, Like this post + Follow @TheNorthCop We're going to choose afew people to join us for th… |
+| RT @iamwillyuan: #costco #brookly #newyork #CoronavirusPandemic I don’t suggest going to Costco right now https://t.co/7lzJCVhXx3 |
+| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
+| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
 
-The most popular user is: **kbz_snkrs**
-<div class="alert alert-block alert-danger"> RT @RandyEmillio: Us: 2020 is gonna be our year 
-
-*3 months later* https://t.co/M73neen4bp</div>
+The most popular user is: **jose69tamayo**
+<div class="alert alert-block alert-danger"> RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GhostAIO** |
-| #2 Most tweeted to  | **NBA2K** |
-| #3 Most tweeted to  | **JaMorant** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 8.18%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **bottomshelfbks** |
+| #2 Most tweeted to  | **thankyoujahseh** |
+| #3 Most tweeted to  | **msleen1970** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.64%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **kbz_snkrs**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SNKRS**  |
-| second  | **NIKE**  |
-| third  | **APP** |
-| fourth  | **MOST**  |
-| fifth  | **MARKET**  |
+| first  | **COSTCO**  |
+| second  | **SHELVES**  |
+| third  | **LINES** |
+| fourth  | **LOCAL**  |
+| fifth  | **EMPTY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJECTIVE** (70.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TitanfallBlog: A member of the #ApexLegends community designed an awesome skin customizer concept 👀Do you think Respawn will ever add… |
+|RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kbz_snkrs**  |
+| The most retweeted user is: **jose69tamayo**  |
 | ------------- |
-| RT @RandyEmillio: Us: 2020 is gonna be our year *3 months later* https://t.co/M73neen4bp |
+| RT @bottomshelfbks: Friendly tip: For ppl standing in long lines among empty shelves at Costco, Trader Joe’s, etc. your local Asian grocery… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
