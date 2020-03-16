@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "Amari Cooper"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SpeakerPelosi: I don’t support U.S. taxpayer money subsidizing corporations to provide benefits to workers that they should already be… |
-| RT @nytimesbusiness: Shoppers, preparing for the possibility that the coronavirus could keep them quarantined for weeks or months, have bee… |
-| RT @nytimes: "From age 0 to age 5 we say, 'Parents, you’re on your own,'" one education policy researcher explained. "And then at age 5, we… |
+| RT @SlaterNFL: Next order of business for the #Cowboys sign WR Amari Cooper |
+| RT @AdamSchefter: With the exclusive franchise tag now placed on Dak Prescott, Amari Cooper has the ability to test the free-agent market,… |
+| @AdamSchefter Don’t understand the Dak Prescott franchise tag. Why not tag a better play in Amari Cooper? Dak is VERY average at best. |
 
-The most popular user is: **_Donna_M7**
-<div class="alert alert-block alert-danger"> RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. 
-
-Therefore is up to all of you out there to keep this…</div>
+The most popular user is: **WalkIt2emm**
+<div class="alert alert-block alert-danger"> RT @PFF: Amari Cooper: NFL leader in drops since 2015 https://t.co/zmfqmdDpv8</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **soledadobrien** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 5.62%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **AdamSchefter** |
+| #2 Most tweeted to  | **PFF** |
+| #3 Most tweeted to  | **DavidMooreDMN** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.7%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -41,28 +39,28 @@ Therefore is up to all of you out there to keep this…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CORONAVIRUS**  |
-| second  | **@NYTIMES:**  |
-| third  | **TRUMP** |
-| fourth  | **@NYTIMES**  |
-| fifth  | **MOST**  |
+| first  | **AMARI**  |
+| second  | **COOPER**  |
+| third  | **COWBOYS** |
+| fourth  | **DAK**  |
+| fifth  | **PRESCOTT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @prayingmedic: When you dare to say the emperor has no clothes.https://t.co/kxBBrQY45m |
+|RT @MySportsUpdate: The #Cowboys have placed the franchise tag on QB Dak Prescott, per @AdamSchefter. Barring a last-minute deal, this mean… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_Donna_M7**  |
+| The most retweeted user is: **WalkIt2emm**  |
 | ------------- |
-| RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. Therefore is up to all of you out there to keep this… |
+| RT @PFF: Amari Cooper: NFL leader in drops since 2015 https://t.co/zmfqmdDpv8 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
