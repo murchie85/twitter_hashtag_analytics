@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Amari Cooper"**
+&#x1F34E; **TOPIC = "#stayhomechallenge"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SlaterNFL: Next order of business for the #Cowboys sign WR Amari Cooper |
-| RT @AdamSchefter: With the exclusive franchise tag now placed on Dak Prescott, Amari Cooper has the ability to test the free-agent market,… |
-| @AdamSchefter Don’t understand the Dak Prescott franchise tag. Why not tag a better play in Amari Cooper? Dak is VERY average at best. |
+| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
+| RT @claytonmillerfj: #stayhomechallenge Everyone: Let’s stay home and buy toilet paperMillennials: https://t.co/Njtf9Kt4ga |
+| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
 
-The most popular user is: **WalkIt2emm**
-<div class="alert alert-block alert-danger"> RT @PFF: Amari Cooper: NFL leader in drops since 2015 https://t.co/zmfqmdDpv8</div>
+The most popular user is: **xtricks3**
+<div class="alert alert-block alert-danger"> RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.
+
+#StayHomeChallenge…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **PFF** |
-| #3 Most tweeted to  | **DavidMooreDMN** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.7%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **Lazarbeam** |
+| #2 Most tweeted to  | **pulte** |
+| #3 Most tweeted to  | **comedianstian** |
+| NewProfiles (less than 10 days) | 1.58%  |
+| Tweeters with < 10 followers  | 17.82%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **WalkIt2emm**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMARI**  |
-| second  | **COOPER**  |
-| third  | **COWBOYS** |
-| fourth  | **DAK**  |
-| fifth  | **PRESCOTT**  |
+| first  | **STAY**  |
+| second  | **HOME**  |
+| third  | **HELP** |
+| fourth  | **GIVE**  |
+| fifth  | **PERSON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MySportsUpdate: The #Cowboys have placed the franchise tag on QB Dak Prescott, per @AdamSchefter. Barring a last-minute deal, this mean… |
+|RT @angiesey02: Me going to the kitchen to eat the last of the quarantine food #stayhomechallenge https://t.co/lw4d7PdYOq |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WalkIt2emm**  |
+| The most retweeted user is: **xtricks3**  |
 | ------------- |
-| RT @PFF: Amari Cooper: NFL leader in drops since 2015 https://t.co/zmfqmdDpv8 |
+| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
