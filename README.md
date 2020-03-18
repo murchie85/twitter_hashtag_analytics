@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#stayhomechallenge"**
+&#x1F34E; **TOPIC = "tom brady"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
-| RT @claytonmillerfj: #stayhomechallenge Everyone: Let’s stay home and buy toilet paperMillennials: https://t.co/Njtf9Kt4ga |
-| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
+| RT @Aaron_Torres: I've said since the day the season ended I couldn't see Tom Brady in another uniform. Not only was I wrong, butttttt THIS… |
+| RT @AdamSchefter: Tom Brady will play in Tampa.This season’s Super Bowl is in Tampa.No host city ever has had its home team play in the S… |
+| RT @BleacherReport: Breaking: Tom Brady is expected to sign with Tampa Bay, per @AdamSchefter, @JeffDarlington @brgridiron https://t.co/gww… |
 
-The most popular user is: **xtricks3**
-<div class="alert alert-block alert-danger"> RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.
-
-#StayHomeChallenge…</div>
+The most popular user is: **zia_suhaib**
+<div class="alert alert-block alert-danger"> RT @Carnage45__: Black athletes give back during every crisis. I'm not saying it doesn't happen but I don't be seeing Tom Brady, Mike Trout…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Lazarbeam** |
-| #2 Most tweeted to  | **pulte** |
-| #3 Most tweeted to  | **comedianstian** |
-| NewProfiles (less than 10 days) | 1.58%  |
-| Tweeters with < 10 followers  | 17.82%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **NFL_Memes** |
+| #2 Most tweeted to  | **AdamSchefter** |
+| #3 Most tweeted to  | **McCant4Life** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.8%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **xtricks3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STAY**  |
-| second  | **HOME**  |
-| third  | **HELP** |
-| fourth  | **GIVE**  |
-| fifth  | **PERSON**  |
+| first  | **BRADY**  |
+| second  | **TOM**  |
+| third  | **BUCS** |
+| fourth  | **@NFL_MEMES:**  |
+| fifth  | **TAMPA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @angiesey02: Me going to the kitchen to eat the last of the quarantine food #stayhomechallenge https://t.co/lw4d7PdYOq |
+|RT @McCant4Life: Dad took the "Tom Brady to the Buccaneers" news pretty well. https://t.co/hdY8cjHr3l |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **xtricks3**  |
+| The most retweeted user is: **zia_suhaib**  |
 | ------------- |
-| RT @Lazarbeam: Ill give a random person who RTs this AND promises to stay at home $1000 to help with rent/supplies etc.#StayHomeChallenge… |
+| RT @Carnage45__: Black athletes give back during every crisis. I'm not saying it doesn't happen but I don't be seeing Tom Brady, Mike Trout… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
