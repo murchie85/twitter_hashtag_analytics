@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "tom brady"**
+&#x1F34E; **TOPIC = "#CoronavirusOutbreak"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Aaron_Torres: I've said since the day the season ended I couldn't see Tom Brady in another uniform. Not only was I wrong, butttttt THIS… |
-| RT @AdamSchefter: Tom Brady will play in Tampa.This season’s Super Bowl is in Tampa.No host city ever has had its home team play in the S… |
-| RT @BleacherReport: Breaking: Tom Brady is expected to sign with Tampa Bay, per @AdamSchefter, @JeffDarlington @brgridiron https://t.co/gww… |
+| Suddenly, even the most staunch Libertarians are now raging Socialists. #CoronavirusOutbreak #StrangeTimes |
+| #CoronavirusOutbreakMeanwhile, in kakamega hospital, nurses and doctors flee after a patient presented to the faci… https://t.co/b5vDjpZBxg |
+| RT @DavidLat: Folks, this #CoronavirusOutbreak is no joke. I’ll give you occasional updates, tweeting from “Above the Hospital Bed,” about… |
 
-The most popular user is: **zia_suhaib**
-<div class="alert alert-block alert-danger"> RT @Carnage45__: Black athletes give back during every crisis. I'm not saying it doesn't happen but I don't be seeing Tom Brady, Mike Trout…</div>
+The most popular user is: **Haxmna**
+<div class="alert alert-block alert-danger"> RT @muhamma06508726: Selfishness kills more people than Virus...
+💔 #COVID19 #CoronavirusOutbreak #COVID19malaysia https://t.co/RsRYS14hKJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NFL_Memes** |
-| #2 Most tweeted to  | **AdamSchefter** |
-| #3 Most tweeted to  | **McCant4Life** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.8%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **JesWashington** |
+| #2 Most tweeted to  | **DavidLat** |
+| #3 Most tweeted to  | **WarRoomPandemic** |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 4.5%|
+| Tweeters with > 1000000 followers  | 0.36%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **zia_suhaib**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRADY**  |
-| second  | **TOM**  |
-| third  | **BUCS** |
-| fourth  | **@NFL_MEMES:**  |
-| fifth  | **TAMPA**  |
+| first  | **CORONAVIRUSOUTBREAK**  |
+| second  | **CORONAVIRUS**  |
+| third  | **COVID19** |
+| fourth  | **PEOPLE**  |
+| fifth  | **GROUP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @McCant4Life: Dad took the "Tom Brady to the Buccaneers" news pretty well. https://t.co/hdY8cjHr3l |
+|RT @Shammo_girl__: #Inflation#RapeCases#EconomyDecline#KashmirLockdown#WarThreats#AustraliaOnFire#LocustInvasion#DelhiBurning#Aurat… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **zia_suhaib**  |
+| The most retweeted user is: **Haxmna**  |
 | ------------- |
-| RT @Carnage45__: Black athletes give back during every crisis. I'm not saying it doesn't happen but I don't be seeing Tom Brady, Mike Trout… |
+| RT @muhamma06508726: Selfishness kills more people than Virus...💔 #COVID19 #CoronavirusOutbreak #COVID19malaysia https://t.co/RsRYS14hKJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
