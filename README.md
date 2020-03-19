@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CoronavirusOutbreak"**
+&#x1F34E; **TOPIC = "YouTube"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Suddenly, even the most staunch Libertarians are now raging Socialists. #CoronavirusOutbreak #StrangeTimes |
-| #CoronavirusOutbreakMeanwhile, in kakamega hospital, nurses and doctors flee after a patient presented to the faci… https://t.co/b5vDjpZBxg |
-| RT @DavidLat: Folks, this #CoronavirusOutbreak is no joke. I’ll give you occasional updates, tweeting from “Above the Hospital Bed,” about… |
+| Online Church Wednesday 3/18/2020 https://t.co/mBWFQqjZDh |
+| RT @kobedurst: Head First with Kobe Durst: Ep. 5El Quarentineo Del Locohttps://t.co/0v76gI6sA6 https://t.co/FuCXnyX9P7 |
+| RT @softjoygi: OP: unnie are there youtube videos that you watch????joy: this is a secret but... i really like 'take a look'.... https://… |
 
-The most popular user is: **Haxmna**
-<div class="alert alert-block alert-danger"> RT @muhamma06508726: Selfishness kills more people than Virus...
-💔 #COVID19 #CoronavirusOutbreak #COVID19malaysia https://t.co/RsRYS14hKJ</div>
+The most popular user is: **bangtanpics94_**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
+#V
+
+https://t.co/SRpYwfBWfe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JesWashington** |
-| #2 Most tweeted to  | **DavidLat** |
-| #3 Most tweeted to  | **WarRoomPandemic** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 4.5%|
-| Tweeters with > 1000000 followers  | 0.36%  |
+| #1 Most tweeted to  | **YouTube** |
+| #2 Most tweeted to  | **BTS_twt** |
+| #3 Most tweeted to  | **youtubemusic** |
+| NewProfiles (less than 10 days) | 1.18%  |
+| Tweeters with < 10 followers  | 6.58%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -40,28 +42,28 @@ The most popular user is: **Haxmna**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CORONAVIRUSOUTBREAK**  |
-| second  | **CORONAVIRUS**  |
-| third  | **COVID19** |
-| fourth  | **PEOPLE**  |
-| fifth  | **GROUP**  |
+| first  | **VIA**  |
+| second  | **YOUTUBE**  |
+| third  | **VIDEO** |
+| fourth  | **NEW**  |
+| fifth  | **@YOUTUBERT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Shammo_girl__: #Inflation#RapeCases#EconomyDecline#KashmirLockdown#WarThreats#AustraliaOnFire#LocustInvasion#DelhiBurning#Aurat… |
+|Who Is To Blame? POTUS Knows. Future Proves Past... Bernie Bows Out, WHO... https://t.co/mWFrtgH25J via @YouTube |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Haxmna**  |
+| The most retweeted user is: **bangtanpics94_**  |
 | ------------- |
-| RT @muhamma06508726: Selfishness kills more people than Virus...💔 #COVID19 #CoronavirusOutbreak #COVID19malaysia https://t.co/RsRYS14hKJ |
+| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
