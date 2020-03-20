@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "#SelfieForJoel"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Online Church Wednesday 3/18/2020 https://t.co/mBWFQqjZDh |
-| RT @kobedurst: Head First with Kobe Durst: Ep. 5El Quarentineo Del Locohttps://t.co/0v76gI6sA6 https://t.co/FuCXnyX9P7 |
-| RT @softjoygi: OP: unnie are there youtube videos that you watch????joy: this is a secret but... i really like 'take a look'.... https://… |
+| I think I’m doing something wrong cause Joel isn’t rt my picture #SelfieForJoel #HoneyBoo https://t.co/d7T9PYKLC8 |
+| RT @cncosnatti: my username is literally the collab 🤪😂 @itsjoelpimentel #HoneyBoo #selfieforjoel ❤️ https://t.co/jmpsPpX5TY |
+| RT @isa_cada_: Joel come oooonnn!! @itsjoelpimentel #SelfieForJoel #HoneyBoo https://t.co/9Yfp5FvfLb |
 
-The most popular user is: **bangtanpics94_**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
-#V
-
-https://t.co/SRpYwfBWfe</div>
+The most popular user is: **AMC_CNCO_FAVS**
+<div class="alert alert-block alert-danger"> RT @itsjoelpimentel: Let the games begin. #SelfieForJoel #HoneyBoo</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **youtubemusic** |
-| NewProfiles (less than 10 days) | 1.18%  |
-| Tweeters with < 10 followers  | 6.58%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **itsjoelpimentel** |
+| #2 Most tweeted to  | **CNCOmusic** |
+| #3 Most tweeted to  | **slaymejoel** |
+| NewProfiles (less than 10 days) | 1.28%  |
+| Tweeters with < 10 followers  | 8.84%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -42,28 +39,28 @@ https://t.co/SRpYwfBWfe</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VIA**  |
-| second  | **YOUTUBE**  |
-| third  | **VIDEO** |
-| fourth  | **NEW**  |
-| fifth  | **@YOUTUBERT**  |
+| first  | **SELFIEFORJOEL**  |
+| second  | **HONEYBOO**  |
+| third  | **@ITSJOELPIMENTEL** |
+| fourth  | **LOVE**  |
+| fifth  | **@ITSJOELPIMENTEL:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Who Is To Blame? POTUS Knows. Future Proves Past... Bernie Bows Out, WHO... https://t.co/mWFrtgH25J via @YouTube |
+|@itsjoelpimentel #SelfieForJoel #HoneyBoo an old pic ;) https://t.co/Fu7GHDWKJ8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bangtanpics94_**  |
+| The most retweeted user is: **AMC_CNCO_FAVS**  |
 | ------------- |
-| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
+| RT @itsjoelpimentel: Let the games begin. #SelfieForJoel #HoneyBoo |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
