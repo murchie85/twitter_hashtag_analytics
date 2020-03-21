@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "#QuaratineLife"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DjVisionaire: @StormIsUponUs At this Point #BillGates Needs to be Indicted, IF not already under a Sealed indictment.. With ALL the Evi… |
-| RT @wef: “We’re not ready for the next epidemic,” @billgates warned – five years ago #covid19 https://t.co/pIK1j89Fkl #coronavirus https://… |
-| @nfaleide @craiganssle @BillGates Not that I understand much, however be careful if you watch this… https://t.co/beLv6eSbXO |
+| All those years of saying I wish I could be my cat for a few weeks has finally come to fruition. #QuaratineLife |
+| 🚨 #ATTENTION 🚨 Go LIKE COMMENT &amp; SUBSCRIBE!! 🥰 My first check from phase 10! 🤑#WorkingFromHomeLife #QuaratineLife… https://t.co/8L31WVj2Mf |
+| No job and we can’t even sit in a @Starbucks #LosAngelesLockdown #QuaratineLife #CoronaCrisis |
 
-The most popular user is: **Ricogenesis2**
-<div class="alert alert-block alert-danger"> RT @HarareSun: BILL GATES STEPS DOWN FROM MICROSOFT BOARD: Microsoft co-founder #BillGates is stepping down from the company's board to spe…</div>
+The most popular user is: **lynnie5155**
+<div class="alert alert-block alert-danger"> RT @vote4robgill: Quarantined? Watch this! #StayAtHome #QuaratineLife https://t.co/YuK3eafMdz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **reddit** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 2.94%  |
-| Tweeters with < 10 followers  | 9.88%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **SierraClub** |
+| #2 Most tweeted to  | **vote4robgill** |
+| #3 Most tweeted to  | **KonaduDankwa** |
+| NewProfiles (less than 10 days) | 3.79%  |
+| Tweeters with < 10 followers  | 8.3%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Ricogenesis2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **COVID19**  |
-| third  | **@REDDIT** |
-| fourth  | **NEXT**  |
-| fifth  | **BILLGATES**  |
+| first  | **QUARATINELIFE**  |
+| second  | **STAY**  |
+| third  | **QUARANTINE** |
+| fourth  | **US**  |
+| fifth  | **QUARATINELIFERT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bandooh_chla: 4 years ago Bill Gates predicted a pandemic virus.He is also advocating depopulation.But there was a patent for this st… |
+|RT @jasminekgilll: i’m literally sitting in my car just so i can get outside of my house but not get the virus #QuaratineLife |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Ricogenesis2**  |
+| The most retweeted user is: **lynnie5155**  |
 | ------------- |
-| RT @HarareSun: BILL GATES STEPS DOWN FROM MICROSOFT BOARD: Microsoft co-founder #BillGates is stepping down from the company's board to spe… |
+| RT @vote4robgill: Quarantined? Watch this! #StayAtHome #QuaratineLife https://t.co/YuK3eafMdz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
