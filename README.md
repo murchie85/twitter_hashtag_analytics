@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#StayAtHome"**
+&#x1F34E; **TOPIC = "#DemocratsAreDestroyingAmerica"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| THIS IS THE GREATEST VIDEO EVER!!!! @RandyRainbow has really done it this time!! #SocialDistancing #StayAtHome… https://t.co/9zhWm43FK8 |
-| Mad how we've got all these free time doing nothing and I'm still not going to sit down for 3 and a half hours to w… https://t.co/UI2h7TspWB |
-| RT @andrewrsorkin: Please pray for my pal ⁦@DavidLat⁩. He is only 44 years old. He is a brilliant mind and a kind soul. All of us are pulli… |
+| RT @CarmineSabia: Pelosi and her Democrats are evil incarnate. https://t.co/ToT8nAZLid #PelosiHatesAmericans #DemocratsAreDestroyingAmerica |
+| RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about… |
+| @LindseyGrahamSC And fighting the enemy- the democrat party. They ARE the enemy #DemocratsAreDestroyingAmerica #… https://t.co/RQLSNPoDvW |
 
-The most popular user is: **NicoGullickson**
-<div class="alert alert-block alert-danger"> RT @NYGovCuomo: Younger people listen up: 55% of NYS #Coronavirus cases are ages 18-49.
-
-Young people aren’t invincible. You can get this a…</div>
+The most popular user is: **Rusty_Squared**
+<div class="alert alert-block alert-danger"> RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NYGovCuomo** |
-| #2 Most tweeted to  | **The_Morbius_** |
-| #3 Most tweeted to  | **bouquetoflilis** |
-| NewProfiles (less than 10 days) | 1.24%  |
-| Tweeters with < 10 followers  | 4.8%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **SpeakerPelosi** |
+| #2 Most tweeted to  | **AmyKremer** |
+| #3 Most tweeted to  | **HarrietBaldwin** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 3.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ Young people aren’t invincible. You can get this a…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STAYATHOME**  |
-| second  | **STOP**  |
-| third  | **HOME** |
-| fourth  | **PEOPLE**  |
-| fifth  | **STAY**  |
+| first  | **DEMOCRATS**  |
+| second  | **DEMOCRATSAREDESTROYINGAMERICA**  |
+| third  | **LAST** |
+| fourth  | **NIGHT**  |
+| fifth  | **PELOSI**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @EricTopol: This is a great graphic for “Break the Chain” which may be easier that #FlattenTheCuve for many people to buy into the #Stay… |
+|RT @LionelMedia: #DemocratsAreDestroyingAmerica If you ever had any question, not so much as to the criminal intent of the Democratic Par… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NicoGullickson**  |
+| The most retweeted user is: **Rusty_Squared**  |
 | ------------- |
-| RT @NYGovCuomo: Younger people listen up: 55% of NYS #Coronavirus cases are ages 18-49.Young people aren’t invincible. You can get this a… |
+| RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
