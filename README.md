@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "#TigerKing"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chefjoseandres: The way you and your husband @BarackObama inspire all of us, to do better, to not only provide for our own, but also to… |
-| @BarackObama @missy1275 Miss my president💯🏆 |
-| RT @BarackObama: Ten years ago today, I signed the Affordable Care Act into law. It protected preexisting conditions, cut the uninsured rat… |
+| So you go on tv and proclaim you were a confidential informant. #TigerKing https://t.co/fiOs90H2NU |
+| RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing |
+| RT @robertmoor_: To anyone currently bingeing #tigerking on Netflix:I spent four years working on a podcast and a long magazine story abo… |
 
-The most popular user is: **mocalvo**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **amberdevl**
+<div class="alert alert-block alert-danger"> RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **HillaryClinton** |
-| NewProfiles (less than 10 days) | 1.48%  |
-| Tweeters with < 10 followers  | 12.66%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **robertmoor_** |
+| #2 Most tweeted to  | **stassi** |
+| #3 Most tweeted to  | **netflix** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 4.84%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mocalvo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **YEARS**  |
-| third  | **CARE** |
-| fourth  | **AGO**  |
-| fifth  | **AFFORDABLE**  |
+| first  | **TIGERKING**  |
+| second  | **JOE**  |
+| third  | **EXOTIC** |
+| fourth  | **CAROLE**  |
+| fifth  | **TIGERKINGRT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarackObama: Ten years ago today, I signed the Affordable Care Act into law. It protected preexisting conditions, cut the uninsured rat… |
+|RT @aaronclough921: Why has this dude been shirtless for all 7 episodes?.... #TigerKing https://t.co/3sj3cZqqKj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mocalvo**  |
+| The most retweeted user is: **amberdevl**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
