@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DemocratsAreDestroyingAmerica"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CarmineSabia: Pelosi and her Democrats are evil incarnate. https://t.co/ToT8nAZLid #PelosiHatesAmericans #DemocratsAreDestroyingAmerica |
-| RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about… |
-| @LindseyGrahamSC And fighting the enemy- the democrat party. They ARE the enemy #DemocratsAreDestroyingAmerica #… https://t.co/RQLSNPoDvW |
+| RT @chefjoseandres: The way you and your husband @BarackObama inspire all of us, to do better, to not only provide for our own, but also to… |
+| @BarackObama @missy1275 Miss my president💯🏆 |
+| RT @BarackObama: Ten years ago today, I signed the Affordable Care Act into law. It protected preexisting conditions, cut the uninsured rat… |
 
-The most popular user is: **Rusty_Squared**
-<div class="alert alert-block alert-danger"> RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about…</div>
+The most popular user is: **mocalvo**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SpeakerPelosi** |
-| #2 Most tweeted to  | **AmyKremer** |
-| #3 Most tweeted to  | **HarrietBaldwin** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 3.52%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **HillaryClinton** |
+| NewProfiles (less than 10 days) | 1.48%  |
+| Tweeters with < 10 followers  | 12.66%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Rusty_Squared**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEMOCRATS**  |
-| second  | **DEMOCRATSAREDESTROYINGAMERICA**  |
-| third  | **LAST** |
-| fourth  | **NIGHT**  |
-| fifth  | **PELOSI**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **YEARS**  |
+| third  | **CARE** |
+| fourth  | **AGO**  |
+| fifth  | **AFFORDABLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LionelMedia: #DemocratsAreDestroyingAmerica If you ever had any question, not so much as to the criminal intent of the Democratic Par… |
+|RT @BarackObama: Ten years ago today, I signed the Affordable Care Act into law. It protected preexisting conditions, cut the uninsured rat… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Rusty_Squared**  |
+| The most retweeted user is: **mocalvo**  |
 | ------------- |
-| RT @AmyKremer: After Pelosi, Schumer and the Senate Democrats blocked the #StimulusPackage last night, I don’t want to hear one word about… |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
