@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TigerKing"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| So you go on tv and proclaim you were a confidential informant. #TigerKing https://t.co/fiOs90H2NU |
-| RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing |
-| RT @robertmoor_: To anyone currently bingeing #tigerking on Netflix:I spent four years working on a podcast and a long magazine story abo… |
+| RT @usuprun: @elonmusk @Tesla My name is Ulana Suprun and I am the former minister of health of Ukraine. Ukraine is in dire need of ventila… |
+| RT @RealLifeStarman: Today @ElonMusk made good on his promise to nuke mars @4thFromOurStar https://t.co/WDPAJ4qaS4 |
+| RT @jrzaranoid: Tesla's #ModelX towes an #airplane to grab the Guinness World Record!🎥 teslaforlife (IG)@Fabriziobustama @PawlowskiMari… |
 
-The most popular user is: **amberdevl**
-<div class="alert alert-block alert-danger"> RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing</div>
+The most popular user is: **AndieJames**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **robertmoor_** |
-| #2 Most tweeted to  | **stassi** |
-| #3 Most tweeted to  | **netflix** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 4.84%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **Tesla** |
+| #3 Most tweeted to  | **usuprun** |
+| NewProfiles (less than 10 days) | 2.12%  |
+| Tweeters with < 10 followers  | 14.16%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **amberdevl**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIGERKING**  |
-| second  | **JOE**  |
-| third  | **EXOTIC** |
-| fourth  | **CAROLE**  |
-| fifth  | **TIGERKINGRT**  |
+| first  | **@ELONMUSK**  |
+| second  | **@TESLA**  |
+| third  | **UKRAINE** |
+| fourth  | **NEED**  |
+| fifth  | **MINISTER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @aaronclough921: Why has this dude been shirtless for all 7 episodes?.... #TigerKing https://t.co/3sj3cZqqKj |
+|RT @C0D3TALK3R: @VadymAristov @usuprun @elonmusk @Tesla Nice try Vanya but NO - go home - zdyes vodki nyet.#RussianTrolls--account regis… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **amberdevl**  |
+| The most retweeted user is: **AndieJames**  |
 | ------------- |
-| RT @stassi: We’re all in agreement that we need to stay inside, wash hands, and that Carole killed her husband, right? #TigerKing |
+| RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
