@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @usuprun: @elonmusk @Tesla My name is Ulana Suprun and I am the former minister of health of Ukraine. Ukraine is in dire need of ventila… |
-| RT @RealLifeStarman: Today @ElonMusk made good on his promise to nuke mars @4thFromOurStar https://t.co/WDPAJ4qaS4 |
-| RT @jrzaranoid: Tesla's #ModelX towes an #airplane to grab the Guinness World Record!🎥 teslaforlife (IG)@Fabriziobustama @PawlowskiMari… |
+| RT @cavs: Where were you on June 19, 2016? 🥳 🍾 🏆Tonight, on @espn, watch from home and relive all the feels from our #ALLin216 comeback d… |
+| @espn Still going Buttermaker, O'Shea a close 2nd. |
+| @7Teen30Ate @espn @E60 I didn't insinuate, I pointed out no one else would participate in such a strange event. If… https://t.co/soCNDfpJzx |
 
-The most popular user is: **AndieJames**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9</div>
+The most popular user is: **Leon34643626**
+<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **Tesla** |
-| #3 Most tweeted to  | **usuprun** |
-| NewProfiles (less than 10 days) | 2.12%  |
-| Tweeters with < 10 followers  | 14.16%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **getnickwright** |
+| #3 Most tweeted to  | **JayBilas** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.8%|
+| Tweeters with > 1000000 followers  | 0.28%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AndieJames**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@TESLA**  |
-| third  | **UKRAINE** |
-| fourth  | **NEED**  |
-| fifth  | **MINISTER**  |
+| first  | **GAME**  |
+| second  | **ESPN**  |
+| third  | **@ESPN:** |
+| fourth  | **7**  |
+| fifth  | **TONIGHT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @C0D3TALK3R: @VadymAristov @usuprun @elonmusk @Tesla Nice try Vanya but NO - go home - zdyes vodki nyet.#RussianTrolls--account regis… |
+|RT @JayBilas: MJ was an amazing college player, on the highest tier of greatness. But, Kareem Abdul-Jabbar was the greatest college player… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AndieJames**  |
+| The most retweeted user is: **Leon34643626**  |
 | ------------- |
-| RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9 |
+| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
