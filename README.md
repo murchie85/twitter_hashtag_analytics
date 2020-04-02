@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "POTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cavs: Where were you on June 19, 2016? 🥳 🍾 🏆Tonight, on @espn, watch from home and relive all the feels from our #ALLin216 comeback d… |
-| @espn Still going Buttermaker, O'Shea a close 2nd. |
-| @7Teen30Ate @espn @E60 I didn't insinuate, I pointed out no one else would participate in such a strange event. If… https://t.co/soCNDfpJzx |
+| RT @IngrahamAngle: Big Pharma makes no money off cheap generics. Hydroxychloroquine is cheap and easy to make, yet we’re running out here b… |
+| RT @Jali_Cat: 🇺🇸TRUE LEADERSHIP IN A CRISIS🇺🇸Our great @POTUS loves ALL American citizens &amp; working hard to take care of everyone!💥👉🏻De… |
+| RT @KillAuDeepState: I may be semi-aquatic ....But I’m FULLY Q-Patriot❗️#QAnon #POTUS #MAGA #WWG1WGA https://t.co/jgDMH9KH37 |
 
-The most popular user is: **Leon34643626**
-<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
+The most popular user is: **RLO26**
+<div class="alert alert-block alert-danger"> RT @TalbertSwan: If ONE white woman accused me of rape my career would be OVER. 
+
+A white man accused of rape by TWENTY TWO women being abl…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **getnickwright** |
-| #3 Most tweeted to  | **JayBilas** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.8%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **IngrahamAngle** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 5.82%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Leon34643626**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GAME**  |
-| second  | **ESPN**  |
-| third  | **@ESPN:** |
-| fourth  | **7**  |
-| fifth  | **TONIGHT**  |
+| first  | **CHEAP**  |
+| second  | **@POTUS**  |
+| third  | **POTUS** |
+| fourth  | **MAKE**  |
+| fifth  | **BIG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JayBilas: MJ was an amazing college player, on the highest tier of greatness. But, Kareem Abdul-Jabbar was the greatest college player… |
+|@AnimaLoverF @realDonaldTrump @POTUS She’s not going to sleep with you because you tweeted something critical of th… https://t.co/TDbWYHwzJ7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Leon34643626**  |
+| The most retweeted user is: **RLO26**  |
 | ------------- |
-| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
+| RT @TalbertSwan: If ONE white woman accused me of rape my career would be OVER. A white man accused of rape by TWENTY TWO women being abl… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
