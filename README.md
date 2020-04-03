@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "POTUS"**
+&#x1F34E; **TOPIC = "#KushnerIsAnIdiot"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @IngrahamAngle: Big Pharma makes no money off cheap generics. Hydroxychloroquine is cheap and easy to make, yet we’re running out here b… |
-| RT @Jali_Cat: 🇺🇸TRUE LEADERSHIP IN A CRISIS🇺🇸Our great @POTUS loves ALL American citizens &amp; working hard to take care of everyone!💥👉🏻De… |
-| RT @KillAuDeepState: I may be semi-aquatic ....But I’m FULLY Q-Patriot❗️#QAnon #POTUS #MAGA #WWG1WGA https://t.co/jgDMH9KH37 |
+| RT @Judson4Congress: Many people are saying that Jared Kushner is an idiot.#KushnerIsAnIdiot |
+| RT @zaharako: I don't want to hear another word about Hillary's emails. Or Hunter Biden getting a job because of his last name. This is an… |
+| RT @missLtoe: #KushnerIsAnIdiot  Jared Kushner Is Going to Get Us All Killed https://t.co/dm3WiZta2s |
 
-The most popular user is: **RLO26**
-<div class="alert alert-block alert-danger"> RT @TalbertSwan: If ONE white woman accused me of rape my career would be OVER. 
-
-A white man accused of rape by TWENTY TWO women being abl…</div>
+The most popular user is: **leon57041562**
+<div class="alert alert-block alert-danger"> RT @BobGandossy: “It’s like they’re making stuff up on the way to the podium...I’ve never seen anything like this before.”  #KushnerIsAnIdi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **IngrahamAngle** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 5.82%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **bluegal** |
+| #2 Most tweeted to  | **zaharako** |
+| #3 Most tweeted to  | **HoarseWisperer** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 6.84%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ A white man accused of rape by TWENTY TWO women being abl…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHEAP**  |
-| second  | **@POTUS**  |
-| third  | **POTUS** |
-| fourth  | **MAKE**  |
-| fifth  | **BIG**  |
+| first  | **KUSHNERISANIDIOT**  |
+| second  | **KUSHNER**  |
+| third  | **JARED** |
+| fourth  | **TRUMP**  |
+| fifth  | **DONALD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@AnimaLoverF @realDonaldTrump @POTUS She’s not going to sleep with you because you tweeted something critical of th… https://t.co/TDbWYHwzJ7 |
+|RT @Bvweir: One bright spot in the day was to see that       #KushnerIsAnIdiot is trending on Twitter https://t.co/sLk7iegEK3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RLO26**  |
+| The most retweeted user is: **leon57041562**  |
 | ------------- |
-| RT @TalbertSwan: If ONE white woman accused me of rape my career would be OVER. A white man accused of rape by TWENTY TWO women being abl… |
+| RT @BobGandossy: “It’s like they’re making stuff up on the way to the podium...I’ve never seen anything like this before.”  #KushnerIsAnIdi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
