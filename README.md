@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#KushnerIsAnIdiot"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Judson4Congress: Many people are saying that Jared Kushner is an idiot.#KushnerIsAnIdiot |
-| RT @zaharako: I don't want to hear another word about Hillary's emails. Or Hunter Biden getting a job because of his last name. This is an… |
-| RT @missLtoe: #KushnerIsAnIdiot  Jared Kushner Is Going to Get Us All Killed https://t.co/dm3WiZta2s |
+| RT @Annakhait: Why is @BillGates involved in every single world issue, pushing vaccines? Really odd... |
+| RT @Annakhait: Why is @BillGates involved in every single world issue, pushing vaccines? Really odd... |
+| RT @hjosephleblanc: @Annakhait @BillGates Good catch! #GatesFoundation and his co-conspirator activist funnel Billions into the World Healt… |
 
-The most popular user is: **leon57041562**
-<div class="alert alert-block alert-danger"> RT @BobGandossy: “It’s like they’re making stuff up on the way to the podium...I’ve never seen anything like this before.”  #KushnerIsAnIdi…</div>
+The most popular user is: **PetrDrimal**
+<div class="alert alert-block alert-danger"> RT @BillGates: The new docuseries that looks at my work is out tomorrow. I hope you check it out on @netflix. I can’t wait to hear what you…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bluegal** |
-| #2 Most tweeted to  | **zaharako** |
-| #3 Most tweeted to  | **HoarseWisperer** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 6.84%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **Annakhait** |
+| #3 Most tweeted to  | **Jali_Cat** |
+| NewProfiles (less than 10 days) | 1.44%  |
+| Tweeters with < 10 followers  | 3.84%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **leon57041562**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KUSHNERISANIDIOT**  |
-| second  | **KUSHNER**  |
-| third  | **JARED** |
-| fourth  | **TRUMP**  |
-| fifth  | **DONALD**  |
+| first  | **@BILLGATES**  |
+| second  | **@ANNAKHAIT:**  |
+| third  | **WORLD** |
+| fourth  | **REALLY**  |
+| fifth  | **INVOLVED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Bvweir: One bright spot in the day was to see that       #KushnerIsAnIdiot is trending on Twitter https://t.co/sLk7iegEK3 |
+|RT @MicLarry2: Dear @PresidencyZA @CyrilRamaphosaSince you had a talk with @BillGates, recently and you are the head of the @AfricanUnion… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **leon57041562**  |
+| The most retweeted user is: **PetrDrimal**  |
 | ------------- |
-| RT @BobGandossy: “It’s like they’re making stuff up on the way to the podium...I’ve never seen anything like this before.”  #KushnerIsAnIdi… |
+| RT @BillGates: The new docuseries that looks at my work is out tomorrow. I hope you check it out on @netflix. I can’t wait to hear what you… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
