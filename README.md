@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "Domingo de Ramos"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Annakhait: Why is @BillGates involved in every single world issue, pushing vaccines? Really odd... |
-| RT @Annakhait: Why is @BillGates involved in every single world issue, pushing vaccines? Really odd... |
-| RT @hjosephleblanc: @Annakhait @BillGates Good catch! #GatesFoundation and his co-conspirator activist funnel Billions into the World Healt… |
+| Domingo de ramos Time after time |
+| RT @isidrolaso: Happy Palm Sunday!!Feliz Domingo de Ramos!!Joyeux dimanche des Rameaux!! https://t.co/RBORCJKlLk |
+| Domingo de Ramos.Palm Sunday. https://t.co/rJ1IjF5w85 |
 
-The most popular user is: **PetrDrimal**
-<div class="alert alert-block alert-danger"> RT @BillGates: The new docuseries that looks at my work is out tomorrow. I hope you check it out on @netflix. I can’t wait to hear what you…</div>
+The most popular user is: **CaterinaCategio**
+<div class="alert alert-block alert-danger"> RT @marialves53: @xaloc7 @agustin_gut @AlessandraCicc6 @NadiaZanelli1 @BaroneZaza70 @arnabch01 @piero_agnello @BPerrionni @maype7 @Mariange…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **Annakhait** |
-| #3 Most tweeted to  | **Jali_Cat** |
-| NewProfiles (less than 10 days) | 1.44%  |
-| Tweeters with < 10 followers  | 3.84%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **marialves53** |
+| #2 Most tweeted to  | **xaloc7** |
+| #3 Most tweeted to  | **agustin_gut** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 2.33%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **PetrDrimal**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **@ANNAKHAIT:**  |
-| third  | **WORLD** |
-| fourth  | **REALLY**  |
-| fifth  | **INVOLVED**  |
+| first  | **DE**  |
+| second  | **DOMINGO**  |
+| third  | **RAMOS** |
+| fourth  | **PALM**  |
+| fifth  | **SUNDAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MicLarry2: Dear @PresidencyZA @CyrilRamaphosaSince you had a talk with @BillGates, recently and you are the head of the @AfricanUnion… |
+|TTs [13:20] 🇪🇸 1⃣ Domingo de Ramos 🔝 2⃣ #ccubicos219  3⃣ #PelisconPaja  4⃣ Apoyaré a Sánchez  5⃣ Kurt Cobain |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PetrDrimal**  |
+| The most retweeted user is: **CaterinaCategio**  |
 | ------------- |
-| RT @BillGates: The new docuseries that looks at my work is out tomorrow. I hope you check it out on @netflix. I can’t wait to hear what you… |
+| RT @marialves53: @xaloc7 @agustin_gut @AlessandraCicc6 @NadiaZanelli1 @BaroneZaza70 @arnabch01 @piero_agnello @BPerrionni @maype7 @Mariange… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
