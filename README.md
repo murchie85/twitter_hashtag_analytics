@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Quibi"**
+&#x1F34E; **TOPIC = "BBCBreaking"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Can Meg Whitman outwit a pandemic with Quibi? https://t.co/5sGlMXeAjw https://t.co/c1d9FejnmW |
-| I admit it. I watched one episode of @Quibi content this am.I hope I’m just not the target audience. |
-| RT @methstalcrys: okay but what the fuck is quibi and why do i see so many ads for it |
+| @karen_0014 @penguinner @BrettBtrudgett @BBCBreaking Karen is still here after 2 hours https://t.co/Zqhfd9OSuu |
+| @PawnCocktail @sunlover_FBPE @WhatEvil @HJMKent @BBCBreaking @PawnCocktail agreed. I presume you include yourself in that. |
+| RT @BBCBreaking: UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care https://t.co/hQClxR7lRt |
 
-The most popular user is: **WorldzeroC**
-<div class="alert alert-block alert-danger"> RT @JLo: Now more than ever, it’s a time to give back. Join me in starting a chain of kindness in my new series #ThanksAMillion.  ❤️ this T…</div>
+The most popular user is: **MichaelaSinghBe**
+<div class="alert alert-block alert-danger"> RT @BBCBreaking: UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care https://t.co/hQClxR7lRt</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Quibi** |
-| #2 Most tweeted to  | **sasha_velour** |
-| #3 Most tweeted to  | **JLo** |
-| NewProfiles (less than 10 days) | 1.1%  |
-| Tweeters with < 10 followers  | 3.94%|
-| Tweeters with > 1000000 followers  | 1.36%  |
+| #1 Most tweeted to  | **BBCBreaking** |
+| #2 Most tweeted to  | **BorisJohnson** |
+| #3 Most tweeted to  | **WeThaKKK** |
+| NewProfiles (less than 10 days) | 0.9%  |
+| Tweeters with < 10 followers  | 7.86%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **WorldzeroC**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **QUIBI**  |
-| second  | **@QUIBI**  |
-| third  | **NEW** |
-| fourth  | **STREAMING**  |
-| fifth  | **SERVICE**  |
+| first  | **BORIS**  |
+| second  | **JOHNSON**  |
+| third  | **UK** |
+| fourth  | **@BBCBREAKING:**  |
+| fifth  | **CARE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RyanKadro: We’re live!  Hope you enjoy ⁦@Quibi⁩  https://t.co/GuwdvMXgnZ |
+|@Lisa07534368 @paulthephone @AwaisBinAzhar7 @BBCBreaking @ahohrfg It's sarcasm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WorldzeroC**  |
+| The most retweeted user is: **MichaelaSinghBe**  |
 | ------------- |
-| RT @JLo: Now more than ever, it’s a time to give back. Join me in starting a chain of kindness in my new series #ThanksAMillion.  ❤️ this T… |
+| RT @BBCBreaking: UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care https://t.co/hQClxR7lRt |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
