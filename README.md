@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Domingo de Ramos"**
+&#x1F34E; **TOPIC = "Quibi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Domingo de ramos Time after time |
-| RT @isidrolaso: Happy Palm Sunday!!Feliz Domingo de Ramos!!Joyeux dimanche des Rameaux!! https://t.co/RBORCJKlLk |
-| Domingo de Ramos.Palm Sunday. https://t.co/rJ1IjF5w85 |
+| Can Meg Whitman outwit a pandemic with Quibi? https://t.co/5sGlMXeAjw https://t.co/c1d9FejnmW |
+| I admit it. I watched one episode of @Quibi content this am.I hope I’m just not the target audience. |
+| RT @methstalcrys: okay but what the fuck is quibi and why do i see so many ads for it |
 
-The most popular user is: **CaterinaCategio**
-<div class="alert alert-block alert-danger"> RT @marialves53: @xaloc7 @agustin_gut @AlessandraCicc6 @NadiaZanelli1 @BaroneZaza70 @arnabch01 @piero_agnello @BPerrionni @maype7 @Mariange…</div>
+The most popular user is: **WorldzeroC**
+<div class="alert alert-block alert-danger"> RT @JLo: Now more than ever, it’s a time to give back. Join me in starting a chain of kindness in my new series #ThanksAMillion.  ❤️ this T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **marialves53** |
-| #2 Most tweeted to  | **xaloc7** |
-| #3 Most tweeted to  | **agustin_gut** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 2.33%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Quibi** |
+| #2 Most tweeted to  | **sasha_velour** |
+| #3 Most tweeted to  | **JLo** |
+| NewProfiles (less than 10 days) | 1.1%  |
+| Tweeters with < 10 followers  | 3.94%|
+| Tweeters with > 1000000 followers  | 1.36%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **CaterinaCategio**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DE**  |
-| second  | **DOMINGO**  |
-| third  | **RAMOS** |
-| fourth  | **PALM**  |
-| fifth  | **SUNDAY**  |
+| first  | **QUIBI**  |
+| second  | **@QUIBI**  |
+| third  | **NEW** |
+| fourth  | **STREAMING**  |
+| fifth  | **SERVICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|TTs [13:20] 🇪🇸 1⃣ Domingo de Ramos 🔝 2⃣ #ccubicos219  3⃣ #PelisconPaja  4⃣ Apoyaré a Sánchez  5⃣ Kurt Cobain |
+|RT @RyanKadro: We’re live!  Hope you enjoy ⁦@Quibi⁩  https://t.co/GuwdvMXgnZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CaterinaCategio**  |
+| The most retweeted user is: **WorldzeroC**  |
 | ------------- |
-| RT @marialves53: @xaloc7 @agustin_gut @AlessandraCicc6 @NadiaZanelli1 @BaroneZaza70 @arnabch01 @piero_agnello @BPerrionni @maype7 @Mariange… |
+| RT @JLo: Now more than ever, it’s a time to give back. Join me in starting a chain of kindness in my new series #ThanksAMillion.  ❤️ this T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
