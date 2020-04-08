@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CNN"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mitchellvii: Joe Biden Goes Full Word Salad on CNN Chris Cuomo Appearance https://t.co/tBC0c4EWUV via @BigLeaguePol |
-| @CNN Idk why I find this so funny |
-| RT @CJ_isnowblue: Greg Mortimer cruise ship passengers to be evacuated after almost 60% test positive for coronavirus - CNNSeriously- peo… |
+| RT @TheEllenShow: .@AndyLassner and @official_tWitch took my #plankthatsong challenge. Some are better at it than others. Now it’s your tur… |
+| Lisa and her sweet Roxy dog, Boomer, read "Guess How Much I Love You" by Sam McBratney! https://t.co/jDrZwXmBpS… https://t.co/dqiRcdQYko |
+| @CovfefePierce @TheEllenShow Can you tell me more about this? Can’t find anything online. |
 
-The most popular user is: **LiterskiCarly**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: .@CNN is Fake News. They will take a good story and make it as bad as is humanly possible. They are a JOKE!</div>
+The most popular user is: **herik_nuness**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **CNNSotu** |
-| NewProfiles (less than 10 days) | 1.72%  |
-| Tweeters with < 10 followers  | 7.62%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **jtimberlake** |
+| #3 Most tweeted to  | **AnnaKendrick47** |
+| NewProfiles (less than 10 days) | 4.72%  |
+| Tweeters with < 10 followers  | 15.26%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LiterskiCarly**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CORONAVIRUS**  |
-| second  | **CNN**  |
-| third  | **@CNN:** |
-| fourth  | **@CNN**  |
-| fifth  | **AMERICANS**  |
+| first  | **@THEELLENSHOW**  |
+| second  | **@THEELLENSHOW:**  |
+| third  | **@JTIMBERLAKE** |
+| fourth  | **@ANNAKENDRICK47**  |
+| fifth  | **ELLEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DeplorableSunny: REAL NEWS you will not see/hear/read on @abcnews  @CBSNews  @CNN  @NBCNews@MSNBC  @nytimes  @washingtonpost  @NPR@n… |
+|@PopCrave This is so dumb to get mad about. My parents always compared my room to a pig sty it didn’t mean they tho… https://t.co/J9z8zzKM9h |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LiterskiCarly**  |
+| The most retweeted user is: **herik_nuness**  |
 | ------------- |
-| RT @realDonaldTrump: .@CNN is Fake News. They will take a good story and make it as bad as is humanly possible. They are a JOKE! |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
