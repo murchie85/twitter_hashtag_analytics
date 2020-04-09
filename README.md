@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheEllenShow: .@AndyLassner and @official_tWitch took my #plankthatsong challenge. Some are better at it than others. Now it’s your tur… |
-| Lisa and her sweet Roxy dog, Boomer, read "Guess How Much I Love You" by Sam McBratney! https://t.co/jDrZwXmBpS… https://t.co/dqiRcdQYko |
-| @CovfefePierce @TheEllenShow Can you tell me more about this? Can’t find anything online. |
+| RT @RationalEtienne: @elonmusk This is why even the greatest futurologists end up greatly underestimating what future technologies will be… |
+| RT @XHNews: Don't blink! Take a glance at the production line of #Tesla's Shanghai gigafactory. The plant resumed operation two months ago… |
+| @elonmusk @bryanMackSC @RationalEtienne @thirdrowtesla @Sofiaan @ICannot_Enough @Hein_The_Slayer @rmattila74… https://t.co/ClpxQyRVwj |
 
-The most popular user is: **herik_nuness**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
+The most popular user is: **S1Real13**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **jtimberlake** |
-| #3 Most tweeted to  | **AnnaKendrick47** |
-| NewProfiles (less than 10 days) | 4.72%  |
-| Tweeters with < 10 followers  | 15.26%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **RationalEtienne** |
+| #3 Most tweeted to  | **Sofiaan** |
+| NewProfiles (less than 10 days) | 2.62%  |
+| Tweeters with < 10 followers  | 19.72%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **herik_nuness**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW**  |
-| second  | **@THEELLENSHOW:**  |
-| third  | **@JTIMBERLAKE** |
-| fourth  | **@ANNAKENDRICK47**  |
-| fifth  | **ELLEN**  |
+| first  | **@ELONMUSK**  |
+| second  | **@SOFIAAN**  |
+| third  | **@RATIONALETIENNE** |
+| fourth  | **@THIRDROWTESLA**  |
+| fifth  | **@ICANNOT_ENOUGH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@PopCrave This is so dumb to get mad about. My parents always compared my room to a pig sty it didn’t mean they tho… https://t.co/J9z8zzKM9h |
+|RT @Mgwill: @TeslaScoop @langejanne @Techgnostik @teslaownersSV @elonmusk @thirdrowtesla And donate thousands of ventilators and additional… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **herik_nuness**  |
+| The most retweeted user is: **S1Real13**  |
 | ------------- |
-| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
+| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
