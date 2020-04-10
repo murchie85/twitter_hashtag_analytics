@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "nytimes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BarackObama Thank you for being the calming truth. We miss you. ❤️ |
-| @DanielRatliff3 @swon26 @StateDept @SecPompeo @realDonaldTrump @BarackObama what a reliable source. In the meanwhi… https://t.co/88wJIAv9uT |
-| RT @MazurikL: THERE IS A REASON @BarackObama IS NOT ENDORSING SLEEPY JOE. The question is WHY NOT? @realDonaldTrump knows why. @JoeBiden ma… |
+| RT @Amy_Siskind: Coming soon:  Americans are about to stop getting their mail unless our federal government acts! https://t.co/g4f73oOClv |
+| RT @TomFitton: NYTIMES polices my tweets!"Mr. Fitton of Judicial Watch posted a tweet..that showed Dr. Fauci’s email on Mrs. Clinton...Fitt… |
+| RT @BarackObama: No one should be forced to choose between their right to vote and their right to stay healthy like the debacle in Wisconsi… |
 
-The most popular user is: **Ybhaskarreddy2**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **AMouseRoars**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Social distancing bends the curve and relieves some pressure on our heroic medical professionals. But in order to shift of…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **escapedmatrix** |
-| NewProfiles (less than 10 days) | 2.18%  |
-| Tweeters with < 10 followers  | 13.5%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #2 Most tweeted to  | **nytimes** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 5.3%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Ybhaskarreddy2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **PRESIDENT**  |
-| third  | **@REALDONALDTRUMP** |
-| fourth  | **SPEAK**  |
-| fifth  | **THANK**  |
+| first  | **@BARACKOBAMA:**  |
+| second  | **VOTE**  |
+| third  | **STAY** |
+| fourth  | **BETWEEN**  |
+| fifth  | **FORCED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BarackObama Why haven’t you endorsed @JoeBiden? Did @TheDemocrats nominate the wrong guy? If so, why didn’t yo… https://t.co/QZGaiyHayr |
+|RT @BarackObama: No one should be forced to choose between their right to vote and their right to stay healthy like the debacle in Wisconsi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Ybhaskarreddy2**  |
+| The most retweeted user is: **AMouseRoars**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @BarackObama: Social distancing bends the curve and relieves some pressure on our heroic medical professionals. But in order to shift of… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
