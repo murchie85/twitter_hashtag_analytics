@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RationalEtienne: @elonmusk This is why even the greatest futurologists end up greatly underestimating what future technologies will be… |
-| RT @XHNews: Don't blink! Take a glance at the production line of #Tesla's Shanghai gigafactory. The plant resumed operation two months ago… |
-| @elonmusk @bryanMackSC @RationalEtienne @thirdrowtesla @Sofiaan @ICannot_Enough @Hein_The_Slayer @rmattila74… https://t.co/ClpxQyRVwj |
+| @BarackObama Thank you for being the calming truth. We miss you. ❤️ |
+| @DanielRatliff3 @swon26 @StateDept @SecPompeo @realDonaldTrump @BarackObama what a reliable source. In the meanwhi… https://t.co/88wJIAv9uT |
+| RT @MazurikL: THERE IS A REASON @BarackObama IS NOT ENDORSING SLEEPY JOE. The question is WHY NOT? @realDonaldTrump knows why. @JoeBiden ma… |
 
-The most popular user is: **S1Real13**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
+The most popular user is: **Ybhaskarreddy2**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **RationalEtienne** |
-| #3 Most tweeted to  | **Sofiaan** |
-| NewProfiles (less than 10 days) | 2.62%  |
-| Tweeters with < 10 followers  | 19.72%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **escapedmatrix** |
+| NewProfiles (less than 10 days) | 2.18%  |
+| Tweeters with < 10 followers  | 13.5%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **S1Real13**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@SOFIAAN**  |
-| third  | **@RATIONALETIENNE** |
-| fourth  | **@THIRDROWTESLA**  |
-| fifth  | **@ICANNOT_ENOUGH**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **PRESIDENT**  |
+| third  | **@REALDONALDTRUMP** |
+| fourth  | **SPEAK**  |
+| fifth  | **THANK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Mgwill: @TeslaScoop @langejanne @Techgnostik @teslaownersSV @elonmusk @thirdrowtesla And donate thousands of ventilators and additional… |
+|@BarackObama Why haven’t you endorsed @JoeBiden? Did @TheDemocrats nominate the wrong guy? If so, why didn’t yo… https://t.co/QZGaiyHayr |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **S1Real13**  |
+| The most retweeted user is: **Ybhaskarreddy2**  |
 | ------------- |
-| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
