@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Christ is Risen"**
+&#x1F34E; **TOPIC = "CNN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ClarkKelloggCBS: This is eternal life, to know God, and Jesus Christ whom he sent...The ResurrectionThe WayTheTruthTheLife! He is Risen… |
-| Christ is Risen🙏✝️🙏 https://t.co/wOehU4nCQD |
-| Happy Easter!!!Remember what this day is all about! Christ has Risen!!! |
+| @CNN This virus started in Wuhan China and CCP using its puppet WHO allowed it to infect the whole world. |
+| RT @cnnbrk: Walt Disney World will furlough 43,000 employees in Orlando amid the coronavirus pandemic https://t.co/eYFbYOeoz2 https://t.co/… |
+| Here in my Country the government doesn’t give a dime about Academic researches as well as prioritizing data collec… https://t.co/k0WBoOoU6Y |
 
-The most popular user is: **Darlachic**
-<div class="alert alert-block alert-danger"> RT @Franklin_Graham: Happy Easter! Jesus Christ isn’t dead—He’s alive. He is Risen—He is Risen indeed!</div>
+The most popular user is: **JohnGalt_LA64**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: .@CNN is Fake News. They will take a good story and make it as bad as is humanly possible. They are a JOKE!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Franklin_Graham** |
-| #2 Most tweeted to  | **Pontifex** |
-| #3 Most tweeted to  | **NelsonRussellM** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.8%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **2LarryJohnson7** |
+| #3 Most tweeted to  | **DanRather** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 5.6%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Darlachic**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRIST**  |
-| second  | **RISEN**  |
-| third  | **HAPPY** |
-| fourth  | **JESUS**  |
-| fifth  | **EASTER**  |
+| first  | **CNN**  |
+| second  | **ELECTIONS**  |
+| third  | **PEOPLE** |
+| fourth  | **DAY**  |
+| fifth  | **US**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Easter Medley - He Arose with Christ the Lord is Risen Today #Susanminto... https://t.co/xt2OAMCzdD via @YouTube |
+|RT @CNN: CNN is collecting your stories about coronavirus testing. Share your story here 👇 https://t.co/xlW0YWsFcq |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Darlachic**  |
+| The most retweeted user is: **JohnGalt_LA64**  |
 | ------------- |
-| RT @Franklin_Graham: Happy Easter! Jesus Christ isn’t dead—He’s alive. He is Risen—He is Risen indeed! |
+| RT @realDonaldTrump: .@CNN is Fake News. They will take a good story and make it as bad as is humanly possible. They are a JOKE! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
