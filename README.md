@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "Christ is Risen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Amy_Siskind: Coming soon:  Americans are about to stop getting their mail unless our federal government acts! https://t.co/g4f73oOClv |
-| RT @TomFitton: NYTIMES polices my tweets!"Mr. Fitton of Judicial Watch posted a tweet..that showed Dr. Fauci’s email on Mrs. Clinton...Fitt… |
-| RT @BarackObama: No one should be forced to choose between their right to vote and their right to stay healthy like the debacle in Wisconsi… |
+| RT @ClarkKelloggCBS: This is eternal life, to know God, and Jesus Christ whom he sent...The ResurrectionThe WayTheTruthTheLife! He is Risen… |
+| Christ is Risen🙏✝️🙏 https://t.co/wOehU4nCQD |
+| Happy Easter!!!Remember what this day is all about! Christ has Risen!!! |
 
-The most popular user is: **AMouseRoars**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Social distancing bends the curve and relieves some pressure on our heroic medical professionals. But in order to shift of…</div>
+The most popular user is: **Darlachic**
+<div class="alert alert-block alert-danger"> RT @Franklin_Graham: Happy Easter! Jesus Christ isn’t dead—He’s alive. He is Risen—He is Risen indeed!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **nytimes** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 5.3%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **Franklin_Graham** |
+| #2 Most tweeted to  | **Pontifex** |
+| #3 Most tweeted to  | **NelsonRussellM** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 4.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AMouseRoars**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA:**  |
-| second  | **VOTE**  |
-| third  | **STAY** |
-| fourth  | **BETWEEN**  |
-| fifth  | **FORCED**  |
+| first  | **CHRIST**  |
+| second  | **RISEN**  |
+| third  | **HAPPY** |
+| fourth  | **JESUS**  |
+| fifth  | **EASTER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarackObama: No one should be forced to choose between their right to vote and their right to stay healthy like the debacle in Wisconsi… |
+|Easter Medley - He Arose with Christ the Lord is Risen Today #Susanminto... https://t.co/xt2OAMCzdD via @YouTube |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AMouseRoars**  |
+| The most retweeted user is: **Darlachic**  |
 | ------------- |
-| RT @BarackObama: Social distancing bends the curve and relieves some pressure on our heroic medical professionals. But in order to shift of… |
+| RT @Franklin_Graham: Happy Easter! Jesus Christ isn’t dead—He’s alive. He is Risen—He is Risen indeed! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
