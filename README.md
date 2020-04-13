@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "#endthelockdownnow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Here's my link peopleeeee https://t.co/sioEQaUvqc |
-| RT @pledis_17: [GOING SEVENTEEN 2020] EP.12 SVT ESCAPE ROOM #1▶️ https://t.co/0ipIWIzVt6#세븐틴 #SEVENTEEN#GOING_SVT https://t.co/sVobJrn… |
-| RT @Iisacursed: Youtube |
+| RT @detropdutu: Dear Canada🇨🇦 , don't #endthelockdownnow, up to 250 thousand people would die if you do! Trust your friendly neighborhood s… |
+| @JesseKellyDC People will start to see the facts more as their bills pile. #endthelockdownnow #ReopenAmericaNow |
+| @abc13houston “Tested positive” ... felt nothing. I dont believe any of that garbage. They want to keep us locked d… https://t.co/fQSXZgRm4x |
 
-The most popular user is: **MapOfTheSoultwt**
-<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_PERSONA &lt;Make It Right (feat. Lauv)&gt; Official MV
-(https://t.co/PS5d7e4Hf7)
-
-#MakeItRight @lauvs…</div>
+The most popular user is: **Thatfucher**
+<div class="alert alert-block alert-danger"> RT @writingfail: People who want to #endthelockdownnow are the reason why we continue to stay inside for weeks at a time. Literal self-sabo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **GWR** |
-| NewProfiles (less than 10 days) | 2.46%  |
-| Tweeters with < 10 followers  | 9.98%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **writingfail** |
+| #2 Most tweeted to  | **stu_dos** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.75%  |
+| Tweeters with < 10 followers  | 7.15%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -42,28 +39,28 @@ The most popular user is: **MapOfTheSoultwt**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUTUBE**  |
-| second  | **VIDEO**  |
-| third  | **VIA** |
-| fourth  | **SONG**  |
-| fifth  | **@YOUTUBERT**  |
+| first  | **ENDTHELOCKDOWNNOW**  |
+| second  | **PEOPLE**  |
+| third  | **TIME** |
+| fourth  | **STAY**  |
+| fifth  | **MAKE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Dr_Uditraj @INCIndia Dear Sir I request to file case against arrest of Activities Minority Leaders, for Genocide o… https://t.co/HD2dmIWyib |
+|@cangal21 Agreed.  Some premiers are starting to talk about getting the economy going again, #endthelockdownnow is… https://t.co/WVLA8tn34r |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MapOfTheSoultwt**  |
+| The most retweeted user is: **Thatfucher**  |
 | ------------- |
-| RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_PERSONA &lt;Make It Right (feat. Lauv)&gt; Official MV(https://t.co/PS5d7e4Hf7)#MakeItRight @lauvs… |
+| RT @writingfail: People who want to #endthelockdownnow are the reason why we continue to stay inside for weeks at a time. Literal self-sabo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
