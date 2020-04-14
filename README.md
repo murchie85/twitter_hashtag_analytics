@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Former President Barack Obama"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @no_silenced: Former President Barack Obama endorses a known sexual predator, a man showing signs of Dementia, a man with a creepy sexua… |
-| RT @politico: President Barack Obama will endorse Joe Biden today, officially throwing his support behind his former VP and the now-presump… |
-| RT @Yamiche: CONFIRMED: Former President Barack Obama will endorse his former Vice President Joe Biden in a video. A source close to Presid… |
+| @_mmarya_ @SADwantDICK sis are you in NASA 💀 |
+| Precipitation data from @NASA's GPM satellite has been used to track zebra migrations in Africa… https://t.co/Jqs36JWhXp |
+| Check out what the @NASAHubble Space Telescope looked at on my birthday! #Hubble30 https://t.co/FOjctyPqjD |
 
-The most popular user is: **gs314**
-<div class="alert alert-block alert-danger"> RT @PeterAlexander: NEW: Former President Barack Obama will endorse his former vice president Joe Biden in a video to be released this morn…</div>
+The most popular user is: **nasa_alexia**
+<div class="alert alert-block alert-danger"> RT @seokthestallion: hi non-muslim stan accs! Ramadan starts in 10 days (23.4) meaning a lot of Muslims are fasting and trying to refrain f…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Yamiche** |
-| #2 Most tweeted to  | **PeterAlexander** |
-| #3 Most tweeted to  | **AP** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 2.92%|
-| Tweeters with > 1000000 followers  | 0.4%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **NASAEarth** |
+| #3 Most tweeted to  | **MarsCuriosity** |
+| NewProfiles (less than 10 days) | 1.44%  |
+| Tweeters with < 10 followers  | 7.06%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **gs314**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FORMER**  |
-| second  | **PRESIDENT**  |
-| third  | **OBAMA** |
-| fourth  | **BARACK**  |
-| fifth  | **BIDEN**  |
+| first  | **NASA**  |
+| second  | **LAUNCH**  |
+| third  | **MARS** |
+| fourth  | **SPACE**  |
+| fifth  | **WORKING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @politico: President Barack Obama will endorse Joe Biden today, officially throwing his support behind his former VP and the now-presump… |
+|@jisseljimenez__ Come play games with me lol |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gs314**  |
+| The most retweeted user is: **nasa_alexia**  |
 | ------------- |
-| RT @PeterAlexander: NEW: Former President Barack Obama will endorse his former vice president Joe Biden in a video to be released this morn… |
+| RT @seokthestallion: hi non-muslim stan accs! Ramadan starts in 10 days (23.4) meaning a lot of Muslims are fasting and trying to refrain f… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
