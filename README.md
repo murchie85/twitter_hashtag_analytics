@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#endthelockdownnow"**
+&#x1F34E; **TOPIC = "Former President Barack Obama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @detropdutu: Dear Canada🇨🇦 , don't #endthelockdownnow, up to 250 thousand people would die if you do! Trust your friendly neighborhood s… |
-| @JesseKellyDC People will start to see the facts more as their bills pile. #endthelockdownnow #ReopenAmericaNow |
-| @abc13houston “Tested positive” ... felt nothing. I dont believe any of that garbage. They want to keep us locked d… https://t.co/fQSXZgRm4x |
+| RT @no_silenced: Former President Barack Obama endorses a known sexual predator, a man showing signs of Dementia, a man with a creepy sexua… |
+| RT @politico: President Barack Obama will endorse Joe Biden today, officially throwing his support behind his former VP and the now-presump… |
+| RT @Yamiche: CONFIRMED: Former President Barack Obama will endorse his former Vice President Joe Biden in a video. A source close to Presid… |
 
-The most popular user is: **Thatfucher**
-<div class="alert alert-block alert-danger"> RT @writingfail: People who want to #endthelockdownnow are the reason why we continue to stay inside for weeks at a time. Literal self-sabo…</div>
+The most popular user is: **gs314**
+<div class="alert alert-block alert-danger"> RT @PeterAlexander: NEW: Former President Barack Obama will endorse his former vice president Joe Biden in a video to be released this morn…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **writingfail** |
-| #2 Most tweeted to  | **stu_dos** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 1.75%  |
-| Tweeters with < 10 followers  | 7.15%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Yamiche** |
+| #2 Most tweeted to  | **PeterAlexander** |
+| #3 Most tweeted to  | **AP** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 2.92%|
+| Tweeters with > 1000000 followers  | 0.4%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Thatfucher**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ENDTHELOCKDOWNNOW**  |
-| second  | **PEOPLE**  |
-| third  | **TIME** |
-| fourth  | **STAY**  |
-| fifth  | **MAKE**  |
+| first  | **FORMER**  |
+| second  | **PRESIDENT**  |
+| third  | **OBAMA** |
+| fourth  | **BARACK**  |
+| fifth  | **BIDEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@cangal21 Agreed.  Some premiers are starting to talk about getting the economy going again, #endthelockdownnow is… https://t.co/WVLA8tn34r |
+|RT @politico: President Barack Obama will endorse Joe Biden today, officially throwing his support behind his former VP and the now-presump… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Thatfucher**  |
+| The most retweeted user is: **gs314**  |
 | ------------- |
-| RT @writingfail: People who want to #endthelockdownnow are the reason why we continue to stay inside for weeks at a time. Literal self-sabo… |
+| RT @PeterAlexander: NEW: Former President Barack Obama will endorse his former vice president Joe Biden in a video to be released this morn… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
