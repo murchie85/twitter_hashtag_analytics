@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "nytimes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @_mmarya_ @SADwantDICK sis are you in NASA 💀 |
-| Precipitation data from @NASA's GPM satellite has been used to track zebra migrations in Africa… https://t.co/Jqs36JWhXp |
-| Check out what the @NASAHubble Space Telescope looked at on my birthday! #Hubble30 https://t.co/FOjctyPqjD |
+| RT @jackiegontarek: Albeit maddening, this NYT interactive graph needs to be seen by every American. Please RT far and wide. Trump was asle… |
+| RT @PuestoLoco: This model puts the number at some 54,000 preventable deaths (if final projections of 60,000 deaths hold true) IF @realDona… |
+| RT @RealJamesWoods: Is there anyone who is surprised by this?  https://t.co/Q3SajEak5x |
 
-The most popular user is: **nasa_alexia**
-<div class="alert alert-block alert-danger"> RT @seokthestallion: hi non-muslim stan accs! Ramadan starts in 10 days (23.4) meaning a lot of Muslims are fasting and trying to refrain f…</div>
+The most popular user is: **melissssa_m**
+<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **NASAEarth** |
-| #3 Most tweeted to  | **MarsCuriosity** |
-| NewProfiles (less than 10 days) | 1.44%  |
-| Tweeters with < 10 followers  | 7.06%|
+| #1 Most tweeted to  | **nytimes** |
+| #2 Most tweeted to  | **DrEricDing** |
+| #3 Most tweeted to  | **Yamiche** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 4.42%|
 | Tweeters with > 1000000 followers  | 0.16%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nasa_alexia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASA**  |
-| second  | **LAUNCH**  |
-| third  | **MARS** |
-| fourth  | **SPACE**  |
-| fifth  | **WORKING**  |
+| first  | **US**  |
+| second  | **90%**  |
+| third  | **NEW** |
+| fourth  | **TRUMP**  |
+| fifth  | **EARLIER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@jisseljimenez__ Come play games with me lol |
+|RT @OliverStuenkel: You think Bolsonaro's strategy is not effective? Consider this: by causing one outcry after another, like a Swiss watch… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nasa_alexia**  |
+| The most retweeted user is: **melissssa_m**  |
 | ------------- |
-| RT @seokthestallion: hi non-muslim stan accs! Ramadan starts in 10 days (23.4) meaning a lot of Muslims are fasting and trying to refrain f… |
+| RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
