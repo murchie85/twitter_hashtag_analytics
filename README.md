@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "America"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jackiegontarek: Albeit maddening, this NYT interactive graph needs to be seen by every American. Please RT far and wide. Trump was asle… |
-| RT @PuestoLoco: This model puts the number at some 54,000 preventable deaths (if final projections of 60,000 deaths hold true) IF @realDona… |
-| RT @RealJamesWoods: Is there anyone who is surprised by this?  https://t.co/Q3SajEak5x |
+| RT @maryellen3261: @EvanAKilgore @bbodine18457 @realDonaldTrump @realDonaldTrump    I want to thank you too.  And your team  America needs… |
+| @jaytiviti @WhiteHouse He did definitely execute on his attempt to destroy the lower and middle class of America as… https://t.co/tjaEv2X3HK |
+| RT @KTHopkins: Proud of America for halting funds to the @WHOIf THAT useless organisation is supposed to be solving anything, the world i… |
 
-The most popular user is: **melissssa_m**
-<div class="alert alert-block alert-danger"> RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last…</div>
+The most popular user is: **Meestaa_Bond**
+<div class="alert alert-block alert-danger"> RT @ohKAYx33: Is America just a 3rd world country with makeup on?</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **DrEricDing** |
-| #3 Most tweeted to  | **Yamiche** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.42%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **Acosta** |
+| #3 Most tweeted to  | **ohKAYx33** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **melissssa_m**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **US**  |
-| second  | **90%**  |
-| third  | **NEW** |
-| fourth  | **TRUMP**  |
-| fifth  | **EARLIER**  |
+| first  | **AMERICA**  |
+| second  | **TRUMP**  |
+| third  | **PRESIDENT** |
+| fourth  | **PANDEMIC**  |
+| fifth  | **VOICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @OliverStuenkel: You think Bolsonaro's strategy is not effective? Consider this: by causing one outcry after another, like a Swiss watch… |
+|Watching ms america.. look at jay ellis tryna expand his roles |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **melissssa_m**  |
+| The most retweeted user is: **Meestaa_Bond**  |
 | ------------- |
-| RT @TaylorLorenz: 14-year-old Jalaiah Harmon does the original version of Renegade dance that she choreographed in her Atlanta bedroom last… |
+| RT @ohKAYx33: Is America just a 3rd world country with makeup on? |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
