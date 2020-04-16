@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "BBCBreaking"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Inside Ohio State's ridiculous 2016 draft class (and confounding 2015) #NFL #Football #Fans https://t.co/JK1al1T65f |
-| RT @espn: All MJ wanted to do was play ... at any cost.#TheLastDance premieres this Sunday on ESPN. https://t.co/ZMl7KlLrnA |
-| RT @Ingrid_thinking: Someone who claims to be in their right senses just rated Ryan Giggs ahead of Samuel Eto'o on ESPN live.ffs was ther… |
+| @BBCBreaking That was obvious news. |
+| @InTravelerWorld @BBCBreaking I have plenty. |
+| RT @jwcoppy54: @BBCBreaking To be expected really! Now stop the illegal immigrants coming from France! 👍 |
 
-The most popular user is: **yang_live**
-<div class="alert alert-block alert-danger"> RT @cctvidiots: Kids... without wifi! 
-https://t.co/8ipydmCgnm</div>
+The most popular user is: **lamiette512**
+<div class="alert alert-block alert-danger"> RT @BBCBreaking: Prime Minister Boris Johnson has been moved out of intensive care but remains in hospital, Downing Street says https://t.c…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **DraftExpress** |
-| #3 Most tweeted to  | **kirkgoldsberry** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 2.86%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **BBCBreaking** |
+| #2 Most tweeted to  | **BBCNews** |
+| #3 Most tweeted to  | **AndyLeeman91** |
+| NewProfiles (less than 10 days) | 1.86%  |
+| Tweeters with < 10 followers  | 10.86%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +39,28 @@ https://t.co/8ipydmCgnm</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ESPN**  |
-| second  | **@ESPN:**  |
-| third  | **THELASTDANCE** |
-| fourth  | **SUNDAY**  |
-| fifth  | **MJ**  |
+| first  | **@BBCBREAKING**  |
+| second  | **@BBCBREAKING:**  |
+| third  | **ANY** |
+| fourth  | **HEALTH**  |
+| fifth  | **PUBLIC**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|From @Kurkjian_ESPN: That same season, the Indians used 32 pitchers, including Kane Davis, who pitched 11 innings.… https://t.co/0R8sqzDyJj |
+|RT @BBCBreaking: “Relaxing any of the measures currently in place would risk damage to both public health and the economy”Foreign Secreta… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **yang_live**  |
+| The most retweeted user is: **lamiette512**  |
 | ------------- |
-| RT @cctvidiots: Kids... without wifi! https://t.co/8ipydmCgnm |
+| RT @BBCBreaking: Prime Minister Boris Johnson has been moved out of intensive care but remains in hospital, Downing Street says https://t.c… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
