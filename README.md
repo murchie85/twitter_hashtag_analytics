@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "America"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @maryellen3261: @EvanAKilgore @bbodine18457 @realDonaldTrump @realDonaldTrump    I want to thank you too.  And your team  America needs… |
-| @jaytiviti @WhiteHouse He did definitely execute on his attempt to destroy the lower and middle class of America as… https://t.co/tjaEv2X3HK |
-| RT @KTHopkins: Proud of America for halting funds to the @WHOIf THAT useless organisation is supposed to be solving anything, the world i… |
+| Inside Ohio State's ridiculous 2016 draft class (and confounding 2015) #NFL #Football #Fans https://t.co/JK1al1T65f |
+| RT @espn: All MJ wanted to do was play ... at any cost.#TheLastDance premieres this Sunday on ESPN. https://t.co/ZMl7KlLrnA |
+| RT @Ingrid_thinking: Someone who claims to be in their right senses just rated Ryan Giggs ahead of Samuel Eto'o on ESPN live.ffs was ther… |
 
-The most popular user is: **Meestaa_Bond**
-<div class="alert alert-block alert-danger"> RT @ohKAYx33: Is America just a 3rd world country with makeup on?</div>
+The most popular user is: **yang_live**
+<div class="alert alert-block alert-danger"> RT @cctvidiots: Kids... without wifi! 
+https://t.co/8ipydmCgnm</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **Acosta** |
-| #3 Most tweeted to  | **ohKAYx33** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **DraftExpress** |
+| #3 Most tweeted to  | **kirkgoldsberry** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 2.86%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **Meestaa_Bond**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMERICA**  |
-| second  | **TRUMP**  |
-| third  | **PRESIDENT** |
-| fourth  | **PANDEMIC**  |
-| fifth  | **VOICE**  |
+| first  | **ESPN**  |
+| second  | **@ESPN:**  |
+| third  | **THELASTDANCE** |
+| fourth  | **SUNDAY**  |
+| fifth  | **MJ**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Watching ms america.. look at jay ellis tryna expand his roles |
+|From @Kurkjian_ESPN: That same season, the Indians used 32 pitchers, including Kane Davis, who pitched 11 innings.… https://t.co/0R8sqzDyJj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Meestaa_Bond**  |
+| The most retweeted user is: **yang_live**  |
 | ------------- |
-| RT @ohKAYx33: Is America just a 3rd world country with makeup on? |
+| RT @cctvidiots: Kids... without wifi! https://t.co/8ipydmCgnm |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
