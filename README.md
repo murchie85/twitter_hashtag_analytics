@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HIGNFY"**
+&#x1F34E; **TOPIC = "Marah"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @haveigotnews: Tonight’s #HIGNFY comes to you from the homes of @VictoriaCoren, @DeborahMeaden, @PhilNWang and of course Ian and Paul, a… |
-| RT @alkanomega: LONG overdue @JamesDelingpole takes the axe to the never-been-funny #IanHislop and #HIGNFY Hislop is the loudmouth at scho… |
-| #hignfy isn’t the same without an audience but it’s still good to have a laugh 😂 |
+| RT @B16pal: I don’t have a lot of followers, BUT could anyone reply with a Happy Birthday for my daughter, Marah, today?It’s her 10th bir… |
+| @B16pal @jwervin Marah, have a lovely birthday! |
+| RT @rinabrazyyin: Marah nangis is another level of hurt |
 
-The most popular user is: **dacrlit**
-<div class="alert alert-block alert-danger"> RT @haveigotnews: #HIGNFY returns tonight for the first show of series 59, but there’ll be no studio audience and no studio.
-Here’s guest h…</div>
+The most popular user is: **Marah_bts7**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: goood mm🥴orning https://t.co/IeEorJBIJy</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JamesDelingpole** |
-| #2 Most tweeted to  | **DouglasCarswell** |
-| #3 Most tweeted to  | **haveigotnews** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **B16pal** |
+| #2 Most tweeted to  | **rsydanz** |
+| #3 Most tweeted to  | **rinabrazyyin** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 2.46%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -40,28 +39,28 @@ Here’s guest h…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HIGNFY**  |
-| second  | **LONG**  |
-| third  | **MERTON** |
-| fourth  | **PUT**  |
-| fifth  | **GRASS**  |
+| first  | **MARAH**  |
+| second  | **BIRTHDAY**  |
+| third  | **HAPPY** |
+| fourth  | **10TH**  |
+| fifth  | **@B16PAL:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (76.92%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (23.08%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#HIGNFY was much better on Friday, worth sticking with it. |
+|@B16pal Dear Marah, This song is specially for you. Have a wonderful birthday. God bless you.Happy Birthday Pri… https://t.co/moUEw3o5kj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dacrlit**  |
+| The most retweeted user is: **Marah_bts7**  |
 | ------------- |
-| RT @haveigotnews: #HIGNFY returns tonight for the first show of series 59, but there’ll be no studio audience and no studio.Here’s guest h… |
+| RT @BTS_twt: goood mm🥴orning https://t.co/IeEorJBIJy |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
