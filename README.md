@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BBCBreaking"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BBCBreaking That was obvious news. |
-| @InTravelerWorld @BBCBreaking I have plenty. |
-| RT @jwcoppy54: @BBCBreaking To be expected really! Now stop the illegal immigrants coming from France! 👍 |
+| @BillGates @WHO Couldn’t be more than right! The time calls for joint efforts to defeat COVID-19. |
+| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
+| RT @adjunctprofesor: Did we just observe another marketwide pump and dump?.@POTUS.@realDonaldTrump.@VP#PatriotStrikeTeam#Covid_19#Rem… |
 
-The most popular user is: **lamiette512**
-<div class="alert alert-block alert-danger"> RT @BBCBreaking: Prime Minister Boris Johnson has been moved out of intensive care but remains in hospital, Downing Street says https://t.c…</div>
+The most popular user is: **AnnloMyles**
+<div class="alert alert-block alert-danger"> RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCBreaking** |
-| #2 Most tweeted to  | **BBCNews** |
-| #3 Most tweeted to  | **AndyLeeman91** |
-| NewProfiles (less than 10 days) | 1.86%  |
-| Tweeters with < 10 followers  | 10.86%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **WHO** |
+| #3 Most tweeted to  | **w_terrence** |
+| NewProfiles (less than 10 days) | 2.99%  |
+| Tweeters with < 10 followers  | 9.69%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lamiette512**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BBCBREAKING**  |
-| second  | **@BBCBREAKING:**  |
-| third  | **ANY** |
-| fourth  | **HEALTH**  |
-| fifth  | **PUBLIC**  |
+| first  | **@BILLGATES**  |
+| second  | **@WHO**  |
+| third  | **GATES** |
+| fourth  | **BILL**  |
+| fifth  | **VACCINE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BBCBreaking: “Relaxing any of the measures currently in place would risk damage to both public health and the economy”Foreign Secreta… |
+|@BillGates Si @WHO if you care about health, why have they allowed companies like @Monsanto  to poison food https://t.co/lrN2SkQENd |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lamiette512**  |
+| The most retweeted user is: **AnnloMyles**  |
 | ------------- |
-| RT @BBCBreaking: Prime Minister Boris Johnson has been moved out of intensive care but remains in hospital, Downing Street says https://t.c… |
+| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
