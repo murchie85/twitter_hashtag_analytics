@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "#HIGNFY"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BillGates @WHO Couldn’t be more than right! The time calls for joint efforts to defeat COVID-19. |
-| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
-| RT @adjunctprofesor: Did we just observe another marketwide pump and dump?.@POTUS.@realDonaldTrump.@VP#PatriotStrikeTeam#Covid_19#Rem… |
+| RT @haveigotnews: Tonight’s #HIGNFY comes to you from the homes of @VictoriaCoren, @DeborahMeaden, @PhilNWang and of course Ian and Paul, a… |
+| RT @alkanomega: LONG overdue @JamesDelingpole takes the axe to the never-been-funny #IanHislop and #HIGNFY Hislop is the loudmouth at scho… |
+| #hignfy isn’t the same without an audience but it’s still good to have a laugh 😂 |
 
-The most popular user is: **AnnloMyles**
-<div class="alert alert-block alert-danger"> RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl…</div>
+The most popular user is: **dacrlit**
+<div class="alert alert-block alert-danger"> RT @haveigotnews: #HIGNFY returns tonight for the first show of series 59, but there’ll be no studio audience and no studio.
+Here’s guest h…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **WHO** |
-| #3 Most tweeted to  | **w_terrence** |
-| NewProfiles (less than 10 days) | 2.99%  |
-| Tweeters with < 10 followers  | 9.69%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **JamesDelingpole** |
+| #2 Most tweeted to  | **DouglasCarswell** |
+| #3 Most tweeted to  | **haveigotnews** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **AnnloMyles**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **@WHO**  |
-| third  | **GATES** |
-| fourth  | **BILL**  |
-| fifth  | **VACCINE**  |
+| first  | **HIGNFY**  |
+| second  | **LONG**  |
+| third  | **MERTON** |
+| fourth  | **PUT**  |
+| fifth  | **GRASS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BillGates Si @WHO if you care about health, why have they allowed companies like @Monsanto  to poison food https://t.co/lrN2SkQENd |
+|#HIGNFY was much better on Friday, worth sticking with it. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AnnloMyles**  |
+| The most retweeted user is: **dacrlit**  |
 | ------------- |
-| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
+| RT @haveigotnews: #HIGNFY returns tonight for the first show of series 59, but there’ll be no studio audience and no studio.Here’s guest h… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
