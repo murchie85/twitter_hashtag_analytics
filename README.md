@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Marah"**
+&#x1F34E; **TOPIC = "Lebron"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @B16pal: I don’t have a lot of followers, BUT could anyone reply with a Happy Birthday for my daughter, Marah, today?It’s her 10th bir… |
-| @B16pal @jwervin Marah, have a lovely birthday! |
-| RT @rinabrazyyin: Marah nangis is another level of hurt |
+| RT @JomiAdeniran: LeBron: *comes back down 3-1 to win the Finals* Jordan: https://t.co/glIE6E7SBu |
+| @MaybeAmes I wonder what Lebron James thinks about this.He is a China apologist.On the bright side...that soap ap… https://t.co/YTfiEqvUmd |
+| RT @RTNBA: Kobe said he’d take LeBron with the #1 pick if he started a new team.“LeBron, no question. He’s a pass first guy &amp; i’m a gunne… |
 
-The most popular user is: **Marah_bts7**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: goood mm🥴orning https://t.co/IeEorJBIJy</div>
+The most popular user is: **lebron_yeims**
+<div class="alert alert-block alert-danger"> RT @niveky6: when I tell you guys that I am wheezing https://t.co/J4urqCYeZO</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **B16pal** |
-| #2 Most tweeted to  | **rsydanz** |
-| #3 Most tweeted to  | **rinabrazyyin** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 2.46%|
+| #1 Most tweeted to  | **CrypticNoOne** |
+| #2 Most tweeted to  | **KingJames** |
+| #3 Most tweeted to  | **GrantGoldberg** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 2.82%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Marah_bts7**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARAH**  |
-| second  | **BIRTHDAY**  |
-| third  | **HAPPY** |
-| fourth  | **10TH**  |
-| fifth  | **@B16PAL:**  |
+| first  | **LEBRON**  |
+| second  | **PLAYOFF**  |
+| third  | **JORDAN** |
+| fourth  | **MJ**  |
+| fifth  | **MICHAEL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (76.92%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (23.08%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@B16pal Dear Marah, This song is specially for you. Have a wonderful birthday. God bless you.Happy Birthday Pri… https://t.co/moUEw3o5kj |
+|@jeaniezk @Bmac LeBron |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Marah_bts7**  |
+| The most retweeted user is: **lebron_yeims**  |
 | ------------- |
-| RT @BTS_twt: goood mm🥴orning https://t.co/IeEorJBIJy |
+| RT @niveky6: when I tell you guys that I am wheezing https://t.co/J4urqCYeZO |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
