@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lebron"**
+&#x1F34E; **TOPIC = "#420day"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JomiAdeniran: LeBron: *comes back down 3-1 to win the Finals* Jordan: https://t.co/glIE6E7SBu |
-| @MaybeAmes I wonder what Lebron James thinks about this.He is a China apologist.On the bright side...that soap ap… https://t.co/YTfiEqvUmd |
-| RT @RTNBA: Kobe said he’d take LeBron with the #1 pick if he started a new team.“LeBron, no question. He’s a pass first guy &amp; i’m a gunne… |
+| RT @Soulliere4Idaho: On this 4/20 it's time for Idaho to get with the times with marijuana laws.  I am the only major candidate in Idaho su… |
+| RT @paschal2k2: This SS3 class of 2020 are so special  that they came into JSS1 with Ebola Virus and leaving SS3  with Corona Virus 😂😂😂😂… |
+| Happy 420 #stonerfam!! An ocassion like today requires hits out of the mini Henny VSOP bong! 🍾✌💚😘#420day… https://t.co/2FkG8UyU7p |
 
-The most popular user is: **lebron_yeims**
-<div class="alert alert-block alert-danger"> RT @niveky6: when I tell you guys that I am wheezing https://t.co/J4urqCYeZO</div>
+The most popular user is: **aaaazial**
+<div class="alert alert-block alert-danger"> RT @kingreilthe1st: happy 420 y’all 💨. don’t kill the vibe! #420day 🌿 https://t.co/fog6Qm6fIl</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CrypticNoOne** |
-| #2 Most tweeted to  | **KingJames** |
-| #3 Most tweeted to  | **GrantGoldberg** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 2.82%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **weedthotss** |
+| #2 Most tweeted to  | **kingreilthe1st** |
+| #3 Most tweeted to  | **ltsSaulGoodman** |
+| NewProfiles (less than 10 days) | 1.43%  |
+| Tweeters with < 10 followers  | 4.73%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lebron_yeims**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEBRON**  |
-| second  | **PLAYOFF**  |
-| third  | **JORDAN** |
-| fourth  | **MJ**  |
-| fifth  | **MICHAEL**  |
+| first  | **420DAY**  |
+| second  | **HAPPY**  |
+| third  | **420** |
+| fourth  | **420BLAZEIT**  |
+| fifth  | **RETWEET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@jeaniezk @Bmac LeBron |
+|RT @iam_bett: The only 420 that I can relate to.If you know, you know 😂😂#420Day #Happy420 https://t.co/2OcOhfyw1c |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lebron_yeims**  |
+| The most retweeted user is: **aaaazial**  |
 | ------------- |
-| RT @niveky6: when I tell you guys that I am wheezing https://t.co/J4urqCYeZO |
+| RT @kingreilthe1st: happy 420 y’all 💨. don’t kill the vibe! #420day 🌿 https://t.co/fog6Qm6fIl |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
