@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "realDonaldTrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RealLifeStarman: Thank you to @ElonMusk and @SpaceX for making us proud to be human #ElonMuskDay https://t.co/IctB4xQcMy |
-| @chancetherapper @elonmusk put it well. Communism and capitalism are outdated terms. What system has the fastest fe… https://t.co/ieiSMNtrNc |
-| @Kristennetten @elonmusk @thirdrowtesla @Tesla Yes easy way to describe a heat pump it's depending on what applicat… https://t.co/QF5WcleNoJ |
+| RT @Chrissys067: @GeraldoRivera @realDonaldTrump I respect your stance but we have over 22 million people out of work and we’re being told… |
+| Listen to this exchange.Does the @whitehouse have a vaccine?That might explain why @realDonaldTrump seems uncon… https://t.co/5akvGtJVsy |
+| RT @carterwpage: "Republican-Led Review Backs Intelligence Findings"Funny headline, considering that the highly conflicted RINOs @Senator… |
 
-The most popular user is: **Notas1an**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS</div>
+The most popular user is: **Luke89632807**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi deleted this from her Twitter account. She wanted everyone to pack into Chinatown long after I clos…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **SpaceX** |
-| #3 Most tweeted to  | **Tesla** |
-| NewProfiles (less than 10 days) | 1.45%  |
-| Tweeters with < 10 followers  | 13.15%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **WhiteHouse** |
+| #3 Most tweeted to  | **PressSec** |
+| NewProfiles (less than 10 days) | 1.4%  |
+| Tweeters with < 10 followers  | 9.13%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Notas1an**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@SPACEX**  |
-| third  | **ELONMUSKDAY** |
-| fourth  | **TRYING**  |
-| fifth  | **THANK**  |
+| first  | **@REALDONALDTRUMP**  |
+| second  | **PRESIDENT**  |
+| third  | **TRUMP** |
+| fourth  | **PEOPLE**  |
+| fifth  | **AMERICANS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Hey @elonmusk with these Gas Prices, can I get a Model 3 at 23.5k? Please. Pretty please lol |
+|RT @weijia: Trump says “I don’t care” about briefing ratings. He has tweeted about them 7 times in the past 23 days. #coronavirus numbe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Notas1an**  |
+| The most retweeted user is: **Luke89632807**  |
 | ------------- |
-| RT @elonmusk: Had to been done ur welcome https://t.co/7jT0f9lqIS |
+| RT @realDonaldTrump: Crazy Nancy Pelosi deleted this from her Twitter account. She wanted everyone to pack into Chinatown long after I clos… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
