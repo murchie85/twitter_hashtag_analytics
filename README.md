@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Chrissys067: @GeraldoRivera @realDonaldTrump I respect your stance but we have over 22 million people out of work and we’re being told… |
-| Listen to this exchange.Does the @whitehouse have a vaccine?That might explain why @realDonaldTrump seems uncon… https://t.co/5akvGtJVsy |
-| RT @carterwpage: "Republican-Led Review Backs Intelligence Findings"Funny headline, considering that the highly conflicted RINOs @Senator… |
+| @elonmusk @brendan2908 @cleantechnica I want the devils gone: do they get it? |
+| @elonmusk You are the best platform ever. |
+| @aminorjourney @elonmusk To clarify, our car not in French-claimed material, but the blue 2017 Leaf at an EVgo char… https://t.co/6mMm1cWDqo |
 
-The most popular user is: **Luke89632807**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi deleted this from her Twitter account. She wanted everyone to pack into Chinatown long after I clos…</div>
+The most popular user is: **skdkfjofkgjdj**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **WhiteHouse** |
-| #3 Most tweeted to  | **PressSec** |
-| NewProfiles (less than 10 days) | 1.4%  |
-| Tweeters with < 10 followers  | 9.13%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **SpaceX** |
+| #3 Most tweeted to  | **Tesla** |
+| NewProfiles (less than 10 days) | 2.25%  |
+| Tweeters with < 10 followers  | 17.26%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Luke89632807**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
-| third  | **TRUMP** |
-| fourth  | **PEOPLE**  |
-| fifth  | **AMERICANS**  |
+| first  | **@ELONMUSK**  |
+| second  | **@ELONMUSK:**  |
+| third  | **@SPACEX** |
+| fourth  | **@TESLA**  |
+| fifth  | **TESLA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @weijia: Trump says “I don’t care” about briefing ratings. He has tweeted about them 7 times in the past 23 days. #coronavirus numbe… |
+|@TrevorF99612612 @elonmusk @archillect So, its way weird...I was thinking that since Elon is pretty much going to b… https://t.co/kBChhPw72n |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Luke89632807**  |
+| The most retweeted user is: **skdkfjofkgjdj**  |
 | ------------- |
-| RT @realDonaldTrump: Crazy Nancy Pelosi deleted this from her Twitter account. She wanted everyone to pack into Chinatown long after I clos… |
+| RT @elonmusk: Baby Yoda 💕 https://t.co/jpQvCccHb9 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
