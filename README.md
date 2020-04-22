@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ESPN_WomenHoop: Muffet McGraw is stepping down at Notre Dame after 33 years and will retire, it was announced Wednesday.She will be r… |
-| Brady is the weakest of the goats. https://t.co/j8900keVYw |
-| RT @GamecockFB: Next-level success. @19problemz got it ... who's next?(📺2020 @NFLDraft, April 23-25 on NFLN/ESPN/ABC) https://t.co/VtCgt1… |
+| Replay! SpaceX launches 60 Starlink satellites https://t.co/hHr9jv0rH2 |
+| RT @MarsCuriosity: Looking up and thinking of you all back home. Here's what Earth looks like from my point of view on the surface of Mars.… |
+| Hello @Space_Station from House of Mega-Aweschome Excellence 261.0 mi away @NASA_Johnson #issabove https://t.co/5GuIl0BKBX |
 
-The most popular user is: **king4short**
-<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
+The most popular user is: **nasa_vsap**
+<div class="alert alert-block alert-danger"> RT @862_Money: I get on Twitter, I talk to myself then I leave.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **MoneyLynch** |
-| #3 Most tweeted to  | **SportsCenter** |
-| NewProfiles (less than 10 days) | 0.95%  |
-| Tweeters with < 10 followers  | 4.43%|
-| Tweeters with > 1000000 followers  | 0.33%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **MarsCuriosity** |
+| #3 Most tweeted to  | **Space_Station** |
+| NewProfiles (less than 10 days) | 1.05%  |
+| Tweeters with < 10 followers  | 5.63%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **king4short**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ESPN:**  |
-| second  | **ESPN**  |
-| third  | **NFL** |
-| fourth  | **@ESPN**  |
-| fifth  | **PICK**  |
+| first  | **EARTH**  |
+| second  | **NASA**  |
+| third  | **US** |
+| fourth  | **SPACE**  |
+| fifth  | **HOME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@joeybagovdonuts Lmao! After the amount of time doing what he does, and being tied to ESPN he has plenty of sources… https://t.co/Sf8fJFoRnw |
+|RT @NASA: “Earth is a spaceship for all of us. We’re all astronauts on board that same ship. We need to take care of it.”One of our @NASA… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **king4short**  |
+| The most retweeted user is: **nasa_vsap**  |
 | ------------- |
-| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
+| RT @862_Money: I get on Twitter, I talk to myself then I leave. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
