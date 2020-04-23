@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @NASA_thanks @TheVenusHaus @crowdedheaven @felipemejiaz @BBMAsChart @ArianaGrande @selenagomez secret selenators, u… https://t.co/pArmxYEsd3 |
-| @Robotbeat @AndrewatL5 @nyrath @JeffGreason @ToughSf Um, then why do I see what I see on page 9?https://t.co/IhUv3X27Bg |
-| RT @housesciencegop: We stand by the federal research community amidst the #COVID19 crisis. Learn more about their contribution 👇 #coronavi… |
+| RT @AOECOIN: #BREAKING #BreakingNews #5G#BillGates is one of the Biggest investors in 5G in the world.He has BILLIONS in over 100,000 Mob… |
+| RT @va_shiva: WE were betrayed by INCOMPETENT Lawyer-Lobbyists who SLEPT as Fauci’s Deep State thugs @WHO+China+@BillGates +@ClintonFdn+@CD… |
+| @ssl57 @esther61425975 @BillGates @gatesfoundation Can you send me the links for India ? |
 
-The most popular user is: **nasa_vsap**
-<div class="alert alert-block alert-danger"> RT @SpongeBob: wishing everyone a Happy Ramadan! https://t.co/iHz1OuYRq7</div>
+The most popular user is: **JosephWAnderso1**
+<div class="alert alert-block alert-danger"> RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **Space_Station** |
-| #3 Most tweeted to  | **NASAEarth** |
-| NewProfiles (less than 10 days) | 1.55%  |
-| Tweeters with < 10 followers  | 6.07%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **BillGates** |
+| #2 Most tweeted to  | **WHO** |
+| #3 Most tweeted to  | **va_shiva** |
+| NewProfiles (less than 10 days) | 2.99%  |
+| Tweeters with < 10 followers  | 11.27%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nasa_vsap**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASA**  |
-| second  | **@NASA**  |
-| third  | **VIA** |
-| fourth  | **SPACE**  |
-| fifth  | **NEW**  |
+| first  | **@BILLGATES**  |
+| second  | **STATE**  |
+| third  | **DEEP** |
+| fourth  | **BETRAYED**  |
+| fifth  | **@VA_SHIVA:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Space_Station: The station will welcome a new cargo ship this weekend. The Exp 63 crew will also see a pair of resupply ships come and… |
+|RT @va_shiva: WE were betrayed by INCOMPETENT Lawyer-Lobbyists who SLEPT as Fauci’s Deep State thugs @WHO+China+@BillGates +@ClintonFdn+@CD… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nasa_vsap**  |
+| The most retweeted user is: **JosephWAnderso1**  |
 | ------------- |
-| RT @SpongeBob: wishing everyone a Happy Ramadan! https://t.co/iHz1OuYRq7 |
+| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
