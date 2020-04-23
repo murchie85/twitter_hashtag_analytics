@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "#EarthDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Replay! SpaceX launches 60 Starlink satellites https://t.co/hHr9jv0rH2 |
-| RT @MarsCuriosity: Looking up and thinking of you all back home. Here's what Earth looks like from my point of view on the surface of Mars.… |
-| Hello @Space_Station from House of Mega-Aweschome Excellence 261.0 mi away @NASA_Johnson #issabove https://t.co/5GuIl0BKBX |
+| RT @wcorklitfest: Happy #EarthDay from our little corner of the world 💚(📸 Snave Pier outside Bantry on the opening day of our festival las… |
+| RT @GrandmaSaidNo: It’s #EarthDay 💛 remember that Indigenous Peoples represent about 5% of the world’s population, manage (or are in right… |
+| RT @SadhguruJV: Dirty Little Logic. #EarthDay @shekharkapur @prasoonjoshi_ @kiranshaw @iam_juhi https://t.co/mDmZf5B4pA |
 
-The most popular user is: **nasa_vsap**
-<div class="alert alert-block alert-danger"> RT @862_Money: I get on Twitter, I talk to myself then I leave.</div>
+The most popular user is: **larii_army**
+<div class="alert alert-block alert-danger"> RT @Hyundai_Global: To celebrate #EarthDay , #Hyundai and #BTS have collaborated to create our new film. The #world needs our help now more…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **MarsCuriosity** |
-| #3 Most tweeted to  | **Space_Station** |
-| NewProfiles (less than 10 days) | 1.05%  |
-| Tweeters with < 10 followers  | 5.63%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **Hyundai_Global** |
+| #2 Most tweeted to  | **OriginalFunko** |
+| #3 Most tweeted to  | **JoeBiden** |
+| NewProfiles (less than 10 days) | 1.66%  |
+| Tweeters with < 10 followers  | 8.5%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nasa_vsap**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EARTH**  |
-| second  | **NASA**  |
-| third  | **US** |
-| fourth  | **SPACE**  |
-| fifth  | **HOME**  |
+| first  | **EARTHDAY**  |
+| second  | **EARTH**  |
+| third  | **HAPPY** |
+| fourth  | **DAY**  |
+| fifth  | **PLANET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NASA: “Earth is a spaceship for all of us. We’re all astronauts on board that same ship. We need to take care of it.”One of our @NASA… |
+|RT @LennyKravitz: Back to the earth #earthday #farming #vegan #organic #nongmo #letloverule https://t.co/JYTxkYCdxd |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nasa_vsap**  |
+| The most retweeted user is: **larii_army**  |
 | ------------- |
-| RT @862_Money: I get on Twitter, I talk to myself then I leave. |
+| RT @Hyundai_Global: To celebrate #EarthDay , #Hyundai and #BTS have collaborated to create our new film. The #world needs our help now more… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
