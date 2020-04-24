@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "NASA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @espn: That time when @KingJames and @DwyaneWade interrupted Kobe's interview with Craig Sager 😂 https://t.co/BnVcdkPh7d |
-| If you missed #OTB this morning no worries we got you covered! Check out our YouTube page as @JordyCulotta and… https://t.co/R5K7xDSUcy |
-| RT @espn: That time when @KingJames and @DwyaneWade interrupted Kobe's interview with Craig Sager 😂 https://t.co/BnVcdkPh7d |
+| RT @NASASpaceflight: STS-31 - launched 30 years ago today. Conducted by Shuttle Discovery out of KSC 39B, it was the 35th Shuttle mission… |
+| How do NASA organise a party. They plan it. Yes that’s rubbish |
+| This NASA Website Shows What the Hubble Telescope Saw on Your Birthday https://t.co/DrmyJkmFnh |
 
-The most popular user is: **Iceswag101**
-<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
+The most popular user is: **nasa_vsap**
+<div class="alert alert-block alert-danger"> RT @pmfphoenix: if i say “huh” like 7 times, don’t say nevermind. please don’t give up on me, i’m trying my best</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **DwyaneWade** |
-| #3 Most tweeted to  | **KingJames** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.15%|
-| Tweeters with > 1000000 followers  | 0.19%  |
+| #1 Most tweeted to  | **NASA** |
+| #2 Most tweeted to  | **NASAHubble** |
+| #3 Most tweeted to  | **MichaelGalanin** |
+| NewProfiles (less than 10 days) | 0.88%  |
+| Tweeters with < 10 followers  | 6.13%|
+| Tweeters with > 1000000 followers  | 0.35%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Iceswag101**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIME**  |
-| second  | **ESPN**  |
-| third  | **@ESPN:** |
-| fourth  | **@ESPN**  |
-| fifth  | **ANY**  |
+| first  | **NASA**  |
+| second  | **SPACE**  |
+| third  | **@NASAHUBBLE** |
+| fourth  | **HUBBLE**  |
+| fifth  | **TRUMP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mattcraigallday: Ceedee Lamb when ESPN turned the cameras off: https://t.co/XpuVXmTzdL |
+|RT @WorldAndScience: To give some sense of the immense scale of cyclones on Jupiter's south pole, look at the outline of the continental Un… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Iceswag101**  |
+| The most retweeted user is: **nasa_vsap**  |
 | ------------- |
-| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
+| RT @pmfphoenix: if i say “huh” like 7 times, don’t say nevermind. please don’t give up on me, i’m trying my best |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
