@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BillGates"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AOECOIN: #BREAKING #BreakingNews #5G#BillGates is one of the Biggest investors in 5G in the world.He has BILLIONS in over 100,000 Mob… |
-| RT @va_shiva: WE were betrayed by INCOMPETENT Lawyer-Lobbyists who SLEPT as Fauci’s Deep State thugs @WHO+China+@BillGates +@ClintonFdn+@CD… |
-| @ssl57 @esther61425975 @BillGates @gatesfoundation Can you send me the links for India ? |
+| RT @espn: That time when @KingJames and @DwyaneWade interrupted Kobe's interview with Craig Sager 😂 https://t.co/BnVcdkPh7d |
+| If you missed #OTB this morning no worries we got you covered! Check out our YouTube page as @JordyCulotta and… https://t.co/R5K7xDSUcy |
+| RT @espn: That time when @KingJames and @DwyaneWade interrupted Kobe's interview with Craig Sager 😂 https://t.co/BnVcdkPh7d |
 
-The most popular user is: **JosephWAnderso1**
-<div class="alert alert-block alert-danger"> RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl…</div>
+The most popular user is: **Iceswag101**
+<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillGates** |
-| #2 Most tweeted to  | **WHO** |
-| #3 Most tweeted to  | **va_shiva** |
-| NewProfiles (less than 10 days) | 2.99%  |
-| Tweeters with < 10 followers  | 11.27%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **DwyaneWade** |
+| #3 Most tweeted to  | **KingJames** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.15%|
+| Tweeters with > 1000000 followers  | 0.19%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **JosephWAnderso1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BILLGATES**  |
-| second  | **STATE**  |
-| third  | **DEEP** |
-| fourth  | **BETRAYED**  |
-| fifth  | **@VA_SHIVA:**  |
+| first  | **TIME**  |
+| second  | **ESPN**  |
+| third  | **@ESPN:** |
+| fourth  | **@ESPN**  |
+| fifth  | **ANY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @va_shiva: WE were betrayed by INCOMPETENT Lawyer-Lobbyists who SLEPT as Fauci’s Deep State thugs @WHO+China+@BillGates +@ClintonFdn+@CD… |
+|RT @mattcraigallday: Ceedee Lamb when ESPN turned the cameras off: https://t.co/XpuVXmTzdL |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JosephWAnderso1**  |
+| The most retweeted user is: **Iceswag101**  |
 | ------------- |
-| RT @RealCandaceO: HOLY CRAP! Just went to @BillGates Instagram. How is no journalist reporting that millions of people from around the worl… |
+| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
