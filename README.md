@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "KJ Hill"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @MiamiHerald @nytmike @DMRegister @BostonGlobe @latimes @SenateDems @Comey @JohnBerman @DavidJollyFL @NPR @CNN… https://t.co/dPYVFwIAmN |
-| RT @GeorgeTakei: One of the most moving images from @BarackObama's presidency. What do you miss most about the Obama years? https://t.co/mM… |
-| I totally agree. @BernieSanders should withdraw his endorsement. @janeosanders @BarackObama @JoeBiden https://t.co/pDZXfUa491 |
+| @OmarKelly KJ hill he’s a stud |
+| @Colts GET KJ HILL ‼️‼️‼️‼️‼️ |
+| RT @PhilAPerry: Patriots are due to pick at No. 159. Receiver from UVA, Joe Reed, just went off to the Chargers at No. 151. Would've been a… |
 
-The most popular user is: **joker_me9**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **epiatt20**
+<div class="alert alert-block alert-danger"> RT @Chargers: *sees kj hill available in the 7th round* https://t.co/fxAIvSGk0d</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **MBK_Alliance** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 1.54%  |
-| Tweeters with < 10 followers  | 10.15%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Chargers** |
+| #2 Most tweeted to  | **MekkaDonMusic** |
+| #3 Most tweeted to  | **packers** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **joker_me9**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **MOST**  |
-| third  | **PRESIDENT** |
-| fourth  | **OBAMA**  |
-| fifth  | **MISS**  |
+| first  | **KJ**  |
+| second  | **HILL**  |
+| third  | **AVAILABLE** |
+| fourth  | **7TH**  |
+| fifth  | **ROUND***  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (46.15%)
+VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GeorgeTakei: One of the most moving images from @BarackObama's presidency. What do you miss most about the Obama years? https://t.co/mM… |
+|RT @MekkaDonMusic: The KJ hill thing is puzzling. After what Terry McLaurin did last year I didn’t think the NFL would be this dumb again. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joker_me9**  |
+| The most retweeted user is: **epiatt20**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @Chargers: *sees kj hill available in the 7th round* https://t.co/fxAIvSGk0d |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
