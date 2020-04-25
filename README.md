@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NASA"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NASASpaceflight: STS-31 - launched 30 years ago today. Conducted by Shuttle Discovery out of KSC 39B, it was the 35th Shuttle mission… |
-| How do NASA organise a party. They plan it. Yes that’s rubbish |
-| This NASA Website Shows What the Hubble Telescope Saw on Your Birthday https://t.co/DrmyJkmFnh |
+| @MiamiHerald @nytmike @DMRegister @BostonGlobe @latimes @SenateDems @Comey @JohnBerman @DavidJollyFL @NPR @CNN… https://t.co/dPYVFwIAmN |
+| RT @GeorgeTakei: One of the most moving images from @BarackObama's presidency. What do you miss most about the Obama years? https://t.co/mM… |
+| I totally agree. @BernieSanders should withdraw his endorsement. @janeosanders @BarackObama @JoeBiden https://t.co/pDZXfUa491 |
 
-The most popular user is: **nasa_vsap**
-<div class="alert alert-block alert-danger"> RT @pmfphoenix: if i say “huh” like 7 times, don’t say nevermind. please don’t give up on me, i’m trying my best</div>
+The most popular user is: **joker_me9**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASA** |
-| #2 Most tweeted to  | **NASAHubble** |
-| #3 Most tweeted to  | **MichaelGalanin** |
-| NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 6.13%|
-| Tweeters with > 1000000 followers  | 0.35%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **MBK_Alliance** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.54%  |
+| Tweeters with < 10 followers  | 10.15%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nasa_vsap**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASA**  |
-| second  | **SPACE**  |
-| third  | **@NASAHUBBLE** |
-| fourth  | **HUBBLE**  |
-| fifth  | **TRUMP**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **MOST**  |
+| third  | **PRESIDENT** |
+| fourth  | **OBAMA**  |
+| fifth  | **MISS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (46.15%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @WorldAndScience: To give some sense of the immense scale of cyclones on Jupiter's south pole, look at the outline of the continental Un… |
+|RT @GeorgeTakei: One of the most moving images from @BarackObama's presidency. What do you miss most about the Obama years? https://t.co/mM… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nasa_vsap**  |
+| The most retweeted user is: **joker_me9**  |
 | ------------- |
-| RT @pmfphoenix: if i say “huh” like 7 times, don’t say nevermind. please don’t give up on me, i’m trying my best |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
