@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "KJ Hill"**
+&#x1F34E; **TOPIC = "Jalen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @OmarKelly KJ hill he’s a stud |
-| @Colts GET KJ HILL ‼️‼️‼️‼️‼️ |
-| RT @PhilAPerry: Patriots are due to pick at No. 159. Receiver from UVA, Joe Reed, just went off to the Chargers at No. 151. Would've been a… |
+| @_AndrewCallahan Hi Andrew. Just checked your mock draft. I thought you did well. You only got one direct hit with… https://t.co/hNLhVmcq8r |
+| RT @KeianaMartinTV: Jalen Hurd has been cleared and the #49ers are "very optimistic" in his return, per John Lynch. |
+| RT @EricDooley80: Congratulations to Jalen Morton and Jordan Jones from Prairie View A&amp;M to the Green Bay Packers I’m very proud of the bot… |
 
-The most popular user is: **epiatt20**
-<div class="alert alert-block alert-danger"> RT @Chargers: *sees kj hill available in the 7th round* https://t.co/fxAIvSGk0d</div>
+The most popular user is: **Jalen_Hall**
+<div class="alert alert-block alert-danger"> RT @THEDEVIL_______: NETFLIX IS FINALLY MAKING A SERIES ABOUT GREEK AND ROMAN MYTHOLOGY IM FUCKING SCREAMING https://t.co/wi0ZYzX1vJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Chargers** |
-| #2 Most tweeted to  | **MekkaDonMusic** |
-| #3 Most tweeted to  | **packers** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 2.88%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **brgridiron** |
+| #3 Most tweeted to  | **PHLEaglesNation** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.25%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **epiatt20**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KJ**  |
-| second  | **HILL**  |
-| third  | **AVAILABLE** |
-| fourth  | **7TH**  |
-| fifth  | **ROUND***  |
+| first  | **JALEN**  |
+| second  | **HURTS**  |
+| third  | **EAGLES** |
+| fourth  | **PLAY**  |
+| fifth  | **LAST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MekkaDonMusic: The KJ hill thing is puzzling. After what Terry McLaurin did last year I didn’t think the NFL would be this dumb again. |
+|@RodH75727469 @Crimson_Flight So, Jalen is #2 again?! https://t.co/Xy7tsSD7bo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **epiatt20**  |
+| The most retweeted user is: **Jalen_Hall**  |
 | ------------- |
-| RT @Chargers: *sees kj hill available in the 7th round* https://t.co/fxAIvSGk0d |
+| RT @THEDEVIL_______: NETFLIX IS FINALLY MAKING A SERIES ABOUT GREEK AND ROMAN MYTHOLOGY IM FUCKING SCREAMING https://t.co/wi0ZYzX1vJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
