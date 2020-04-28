@@ -15,25 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| LAST WARNING! UN Warns: "Global Famines of "Biblical Proportions" Coming... https://t.co/lJ6I34BzEC via @YouTube |
-| RT @TimesTiranga: Coronavirus:  children in Spain leave homes for first time in 6 weeks - ... https://t.co/vZybRalXmo via @YouTube@ |
-| RT @Lexxo100: Subscribe to my YouTube channel brand new music video from Lexxo.. the song called Ain’t Coming Down https://t.co/2PcWYoM07U |
+| @FlagstaffLud @needham_amber @brithume YouTube has already removed this... China would be proud.  Can you recap what this nurse shared? |
+| RT @SamGolbach: Full video of me breaking my back and what that means for the future: https://t.co/6TLrgyCss5 https://t.co/pUqO6a0RXS |
+| RT @ChillSpot__: This week we decided to focus on some watch lists that Sam and Cam gave to one another! Find us anywhere you listen to po… |
 
-The most popular user is: **lovelllyella**
-<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 &lt;Black Swan&gt; Art Film performed by MN Dance Company
-(https://t.co/6xuqYJGCLG)
+The most popular user is: **Armybom56768728**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
+#V
 
-#BlackSwan</div>
+https://t.co/SRpYwfBWfe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **YouTube** |
 | #2 Most tweeted to  | **dbongino** |
-| #3 Most tweeted to  | **day6official** |
-| NewProfiles (less than 10 days) | 2.23%  |
-| Tweeters with < 10 followers  | 9.32%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #3 Most tweeted to  | **IngrahamAngle** |
+| NewProfiles (less than 10 days) | 1.96%  |
+| Tweeters with < 10 followers  | 8.44%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -45,25 +45,25 @@ The most popular user is: **lovelllyella**
 | first  | **YOUTUBE**  |
 | second  | **VIA**  |
 | third  | **VIDEO** |
-| fourth  | **NEW**  |
-| fifth  | **@YOUTUBERT**  |
+| fourth  | **@YOUTUBERT**  |
+| fifth  | **LIVE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Liked on YouTube: Sean Evans and Chili Klaus Eat the Carolina Reaper, the World's Hottest Chili Pepper | Hot Ones https://t.co/yBpbQlbJrx |
+|RT @mrbiffo: In a brand new episode of Mr Biffo's Lost Footage - the first to be comprised entirely of brand new, never-before-seen, footag… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lovelllyella**  |
+| The most retweeted user is: **Armybom56768728**  |
 | ------------- |
-| RT @BigHitEnt: #BTS #방탄소년단 #MAP_OF_THE_SOUL_7 &lt;Black Swan&gt; Art Film performed by MN Dance Company(https://t.co/6xuqYJGCLG)#BlackSwan |
+| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
