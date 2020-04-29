@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "YouTube"**
+&#x1F34E; **TOPIC = "BBCBreaking"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @FlagstaffLud @needham_amber @brithume YouTube has already removed this... China would be proud.  Can you recap what this nurse shared? |
-| RT @SamGolbach: Full video of me breaking my back and what that means for the future: https://t.co/6TLrgyCss5 https://t.co/pUqO6a0RXS |
-| RT @ChillSpot__: This week we decided to focus on some watch lists that Sam and Cam gave to one another! Find us anywhere you listen to po… |
+| RT @air2nite: @BBCBreaking Would be interesting to see if plasma from vaccine test subjects shown to have SARS-CoV2 antibodies transfused i… |
+| @hazcraig16 @BBCBreaking Yep, maybe we can focus on the feckless EU instead! |
+| Bro... Rest In Peace to a legend 💔 https://t.co/aiuGxU3Epm |
 
-The most popular user is: **Armybom56768728**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: Winter Bear 
-#V
-
-https://t.co/SRpYwfBWfe</div>
+The most popular user is: **Eve72247755**
+<div class="alert alert-block alert-danger"> RT @BBCBreaking: Kenyan Eliud Kipchoge becomes the first athlete to run a marathon in under two hours, completing the 26.2 miles in 1:59:40…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YouTube** |
-| #2 Most tweeted to  | **dbongino** |
-| #3 Most tweeted to  | **IngrahamAngle** |
-| NewProfiles (less than 10 days) | 1.96%  |
-| Tweeters with < 10 followers  | 8.44%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **BBCBreaking** |
+| #2 Most tweeted to  | **BBCNews** |
+| #3 Most tweeted to  | **BorisJohnson** |
+| NewProfiles (less than 10 days) | 2.26%  |
+| Tweeters with < 10 followers  | 8.5%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -42,28 +39,28 @@ https://t.co/SRpYwfBWfe</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUTUBE**  |
-| second  | **VIA**  |
-| third  | **VIDEO** |
-| fourth  | **@YOUTUBERT**  |
-| fifth  | **LIVE**  |
+| first  | **@BBCBREAKING:**  |
+| second  | **@BBCBREAKING**  |
+| third  | **ACTOR** |
+| fourth  | **KHAN**  |
+| fifth  | **JURASSIC**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mrbiffo: In a brand new episode of Mr Biffo's Lost Footage - the first to be comprised entirely of brand new, never-before-seen, footag… |
+|RT @redsarah99: And still all @BorisJohnson and his media arm at  @BBCBreaking have is lies and platitudes.#ToryGenocide #PPE "Medics in… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Armybom56768728**  |
+| The most retweeted user is: **Eve72247755**  |
 | ------------- |
-| RT @BTS_twt: Winter Bear #Vhttps://t.co/SRpYwfBWfe |
+| RT @BBCBreaking: Kenyan Eliud Kipchoge becomes the first athlete to run a marathon in under two hours, completing the 26.2 miles in 1:59:40… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
