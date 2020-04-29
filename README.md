@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BBCBreaking"**
+&#x1F34E; **TOPIC = "Tesla"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @air2nite: @BBCBreaking Would be interesting to see if plasma from vaccine test subjects shown to have SARS-CoV2 antibodies transfused i… |
-| @hazcraig16 @BBCBreaking Yep, maybe we can focus on the feckless EU instead! |
-| Bro... Rest In Peace to a legend 💔 https://t.co/aiuGxU3Epm |
+| RT @james_m_wilt: Elon Musk has always been vehemently anti-worker. The Tesla factory is a hotbed of union-busting, unsafe working conditio… |
+| RT @PrisonPlanet: Tesla CEO Elon Musk is calling for coronavirus lockdowns to be eased and America to be re-opened, asserting, “give people… |
+| $TSLA Tesla posts Q1 revenue at $5.99B, up 32% YoY https://t.co/IR84BN5Zxz Tesla Inc. reported on Wednesday its fir… https://t.co/4QkXALme6x |
 
-The most popular user is: **Eve72247755**
-<div class="alert alert-block alert-danger"> RT @BBCBreaking: Kenyan Eliud Kipchoge becomes the first athlete to run a marathon in under two hours, completing the 26.2 miles in 1:59:40…</div>
+The most popular user is: **Samalisha4**
+<div class="alert alert-block alert-danger"> RT @DavidDobrik: Zane finding out he didn’t win the Tesla giveaway Hahahah https://t.co/oTBQMSUMzw</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCBreaking** |
-| #2 Most tweeted to  | **BBCNews** |
-| #3 Most tweeted to  | **BorisJohnson** |
-| NewProfiles (less than 10 days) | 2.26%  |
-| Tweeters with < 10 followers  | 8.5%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **Tesla** |
+| #3 Most tweeted to  | **thirdrowtesla** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.29%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Eve72247755**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BBCBREAKING:**  |
-| second  | **@BBCBREAKING**  |
-| third  | **ACTOR** |
-| fourth  | **KHAN**  |
-| fifth  | **JURASSIC**  |
+| first  | **TESLA**  |
+| second  | **ELON**  |
+| third  | **MUSK** |
+| fourth  | **Q1**  |
+| fifth  | **PROFIT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @redsarah99: And still all @BorisJohnson and his media arm at  @BBCBreaking have is lies and platitudes.#ToryGenocide #PPE "Medics in… |
+|RT @SamTalksTesla: Watching @Gfilche on @HyperChangeTV. Amazing stuff. This guy knows Tesla better than anyone! If I don't tweet for a whil… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Eve72247755**  |
+| The most retweeted user is: **Samalisha4**  |
 | ------------- |
-| RT @BBCBreaking: Kenyan Eliud Kipchoge becomes the first athlete to run a marathon in under two hours, completing the 26.2 miles in 1:59:40… |
+| RT @DavidDobrik: Zane finding out he didn’t win the Tesla giveaway Hahahah https://t.co/oTBQMSUMzw |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
