@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tesla"**
+&#x1F34E; **TOPIC = "#MichiganProtest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @james_m_wilt: Elon Musk has always been vehemently anti-worker. The Tesla factory is a hotbed of union-busting, unsafe working conditio… |
-| RT @PrisonPlanet: Tesla CEO Elon Musk is calling for coronavirus lockdowns to be eased and America to be re-opened, asserting, “give people… |
-| $TSLA Tesla posts Q1 revenue at $5.99B, up 32% YoY https://t.co/IR84BN5Zxz Tesla Inc. reported on Wednesday its fir… https://t.co/4QkXALme6x |
+| Tell the world #michiganterrorists do NOT represent America  #michiganprotest #COVID__19 https://t.co/qh4ekvsovt |
+| RT @johnpavlovitz: Cowards with guns will never overcome decent people armed with courage.#MichiganProtest #VoteBlue |
+| RT @effingrandy1: I was in the army in a combat zone and I rarely had this much equipment on 🙄 When beta males play army #MichiganProtest |
 
-The most popular user is: **Samalisha4**
-<div class="alert alert-block alert-danger"> RT @DavidDobrik: Zane finding out he didn’t win the Tesla giveaway Hahahah https://t.co/oTBQMSUMzw</div>
+The most popular user is: **Coach65763968**
+<div class="alert alert-block alert-danger"> RT @danaolitaogden: My honest opinion on these idiots protesting while my husband is preparing the States refrigerated body truck fleet.  #…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **Tesla** |
-| #3 Most tweeted to  | **thirdrowtesla** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.29%  |
+| #1 Most tweeted to  | **mmpadellan** |
+| #2 Most tweeted to  | **cmclymer** |
+| #3 Most tweeted to  | **PalmerReport** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.01%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,11 +39,11 @@ The most popular user is: **Samalisha4**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TESLA**  |
-| second  | **ELON**  |
-| third  | **MUSK** |
-| fourth  | **Q1**  |
-| fifth  | **PROFIT**  |
+| first  | **ARMED**  |
+| second  | **MICHIGANPROTEST**  |
+| third  | **BUILDING** |
+| fourth  | **"IM"**  |
+| fifth  | **STATE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
@@ -54,13 +54,13 @@ VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJE
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SamTalksTesla: Watching @Gfilche on @HyperChangeTV. Amazing stuff. This guy knows Tesla better than anyone! If I don't tweet for a whil… |
+|RT @LeoLawGirl: @GunsDownAmerica ARREST THE MEMBERS OF  "#MichiganProtest"  NOW!!! This is not protest, it is terrorism and willful endange… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Samalisha4**  |
+| The most retweeted user is: **Coach65763968**  |
 | ------------- |
-| RT @DavidDobrik: Zane finding out he didn’t win the Tesla giveaway Hahahah https://t.co/oTBQMSUMzw |
+| RT @danaolitaogden: My honest opinion on these idiots protesting while my husband is preparing the States refrigerated body truck fleet.  #… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
