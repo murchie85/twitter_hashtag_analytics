@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MichiganProtest"**
+&#x1F34E; **TOPIC = "CNN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Tell the world #michiganterrorists do NOT represent America  #michiganprotest #COVID__19 https://t.co/qh4ekvsovt |
-| RT @johnpavlovitz: Cowards with guns will never overcome decent people armed with courage.#MichiganProtest #VoteBlue |
-| RT @effingrandy1: I was in the army in a combat zone and I rarely had this much equipment on 🙄 When beta males play army #MichiganProtest |
+| RT @realDonaldTrump: Concast (@NBCNews) and Fake News @CNN are going out of their way to say GREAT things about China. They are Chinese pup… |
+| It's quite apparent Tyson nor the @realDonaldTrump care about what danger they put the workers in?Hear meat worke… https://t.co/i7zewoohiv |
+| RT @MZHemingway: Reminder that Carrie Severino and I reported in September the bombshell that Blasey Ford's father supported Kavanaugh's co… |
 
-The most popular user is: **Coach65763968**
-<div class="alert alert-block alert-danger"> RT @danaolitaogden: My honest opinion on these idiots protesting while my husband is preparing the States refrigerated body truck fleet.  #…</div>
+The most popular user is: **GLACIAL_TV**
+<div class="alert alert-block alert-danger"> RT @elonmusk: @CNN What I find most surprising is that CNN still exists</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mmpadellan** |
-| #2 Most tweeted to  | **cmclymer** |
-| #3 Most tweeted to  | **PalmerReport** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.01%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **NBCNews** |
+| NewProfiles (less than 10 days) | 1.16%  |
+| Tweeters with < 10 followers  | 8.22%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Coach65763968**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARMED**  |
-| second  | **MICHIGANPROTEST**  |
-| third  | **BUILDING** |
-| fourth  | **"IM"**  |
-| fifth  | **STATE**  |
+| first  | **@CNN**  |
+| second  | **HOUSE**  |
+| third  | **FAUCI** |
+| fourth  | **CNN**  |
+| fifth  | **WHITE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LeoLawGirl: @GunsDownAmerica ARREST THE MEMBERS OF  "#MichiganProtest"  NOW!!! This is not protest, it is terrorism and willful endange… |
+|RT @BLUEPRINT_Q: @realDonaldTrump @NBCNews @CNN INFORMATION WAR![infiltration]#WWG1WGA https://t.co/IywrlzjhWQ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Coach65763968**  |
+| The most retweeted user is: **GLACIAL_TV**  |
 | ------------- |
-| RT @danaolitaogden: My honest opinion on these idiots protesting while my husband is preparing the States refrigerated body truck fleet.  #… |
+| RT @elonmusk: @CNN What I find most surprising is that CNN still exists |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
