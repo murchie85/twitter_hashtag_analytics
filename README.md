@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CNN"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @realDonaldTrump: Concast (@NBCNews) and Fake News @CNN are going out of their way to say GREAT things about China. They are Chinese pup… |
-| It's quite apparent Tyson nor the @realDonaldTrump care about what danger they put the workers in?Hear meat worke… https://t.co/i7zewoohiv |
-| RT @MZHemingway: Reminder that Carrie Severino and I reported in September the bombshell that Blasey Ford's father supported Kavanaugh's co… |
+| @laziboy @AkaiScarlett @alvaromzt @elonmusk And silly me for being disengenuous, I thought you might actually have… https://t.co/PORH7RAYHR |
+| RT @elonmusk: @Bitcoin How much for some anime Bitcoin? https://t.co/itqRslFNcb |
+| @thoughts7766421 @elonmusk @TheOnion Then what? 😂 |
 
-The most popular user is: **GLACIAL_TV**
-<div class="alert alert-block alert-danger"> RT @elonmusk: @CNN What I find most surprising is that CNN still exists</div>
+The most popular user is: **musiquenocturne**
+<div class="alert alert-block alert-danger"> RT @elonmusk: But actually https://t.co/jlowaHobXO</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **NBCNews** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 8.22%|
-| Tweeters with > 1000000 followers  | 0.15%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **Bitcoin** |
+| #3 Most tweeted to  | **Teslarati** |
+| NewProfiles (less than 10 days) | 2.16%  |
+| Tweeters with < 10 followers  | 15.09%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **GLACIAL_TV**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@CNN**  |
-| second  | **HOUSE**  |
-| third  | **FAUCI** |
-| fourth  | **CNN**  |
-| fifth  | **WHITE**  |
+| first  | **@ELONMUSK**  |
+| second  | **@BITCOIN**  |
+| third  | **ELON** |
+| fourth  | **@TESLARATI**  |
+| fifth  | **SOME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BLUEPRINT_Q: @realDonaldTrump @NBCNews @CNN INFORMATION WAR![infiltration]#WWG1WGA https://t.co/IywrlzjhWQ |
+|@elonmusk WTF Elon. Stay off the dagga boet |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **GLACIAL_TV**  |
+| The most retweeted user is: **musiquenocturne**  |
 | ------------- |
-| RT @elonmusk: @CNN What I find most surprising is that CNN still exists |
+| RT @elonmusk: But actually https://t.co/jlowaHobXO |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
