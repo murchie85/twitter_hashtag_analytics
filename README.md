@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "#Casualty"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @RepAdamSchiff Hey Adam let’s hear some truth from you now! How many homeless people live in your district? How man… https://t.co/trDWyuz1qO |
-| RT @JeffreyGuterman: @realDonaldTrump You are the president and you do not know what treason is. |
-| @realDonaldTrump This would be the perfect ending. https://t.co/mH2nLtfMS1 |
+| RT @chloe_95xo: Connie beauchamp is everything 😍🔥 #Casualty |
+| RT @holbytv: 5 years ago today on #Casualty .. |
+| RT @pauseliveaction: #Casualty review with spoilers: Charlie returns in shocking scenes https://t.co/s7Kus6eHgF via @MetroUK |
 
-The most popular user is: **dangerpolitics**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: BRILLIANT, A MUST WATCH! @RepDanCrenshaw https://t.co/W6pGsJQ2ua</div>
+The most popular user is: **alafiyah_1**
+<div class="alert alert-block alert-danger"> RT @BBCCasualty: "The Pain Won't Just Go Away..." 💔
+Watch the #Casualty Spring Trailer RIGHT NOW! https://t.co/ocMDoYyH0E</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **GenFlynn** |
-| #3 Most tweeted to  | **CaslerNoel** |
-| NewProfiles (less than 10 days) | 1.25%  |
-| Tweeters with < 10 followers  | 8.52%|
+| #1 Most tweeted to  | **BBCCasualty** |
+| #2 Most tweeted to  | **BBCOne** |
+| #3 Most tweeted to  | **holbytv** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 2.12%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +40,28 @@ The most popular user is: **dangerpolitics**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **TRUMP**  |
-| third  | **PRESIDENT** |
-| fourth  | **HE’S**  |
-| fifth  | **@GENFLYNN**  |
+| first  | **CASUALTY**  |
+| second  | **EPISODE**  |
+| third  | **@BBCONE** |
+| fourth  | **CASUALTYRT**  |
+| fifth  | **@BBCCASUALTY:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @WOKEUPHERETOO: @OnPointe28 @Alice94038394 @TacoPolitics @jakecoco @realDonaldTrump This is not about your health. It’s about taking awa… |
+|RT @BBCCasualty: Connie and Noel clash this week 😬#Casualty is back tomorrow at 7.40pm on @BBCOne. https://t.co/aCiyfYAZ6s |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dangerpolitics**  |
+| The most retweeted user is: **alafiyah_1**  |
 | ------------- |
-| RT @realDonaldTrump: BRILLIANT, A MUST WATCH! @RepDanCrenshaw https://t.co/W6pGsJQ2ua |
+| RT @BBCCasualty: "The Pain Won't Just Go Away..." 💔Watch the #Casualty Spring Trailer RIGHT NOW! https://t.co/ocMDoYyH0E |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
