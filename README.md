@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "realDonaldTrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @laziboy @AkaiScarlett @alvaromzt @elonmusk And silly me for being disengenuous, I thought you might actually have… https://t.co/PORH7RAYHR |
-| RT @elonmusk: @Bitcoin How much for some anime Bitcoin? https://t.co/itqRslFNcb |
-| @thoughts7766421 @elonmusk @TheOnion Then what? 😂 |
+| @RepAdamSchiff Hey Adam let’s hear some truth from you now! How many homeless people live in your district? How man… https://t.co/trDWyuz1qO |
+| RT @JeffreyGuterman: @realDonaldTrump You are the president and you do not know what treason is. |
+| @realDonaldTrump This would be the perfect ending. https://t.co/mH2nLtfMS1 |
 
-The most popular user is: **musiquenocturne**
-<div class="alert alert-block alert-danger"> RT @elonmusk: But actually https://t.co/jlowaHobXO</div>
+The most popular user is: **dangerpolitics**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: BRILLIANT, A MUST WATCH! @RepDanCrenshaw https://t.co/W6pGsJQ2ua</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **Bitcoin** |
-| #3 Most tweeted to  | **Teslarati** |
-| NewProfiles (less than 10 days) | 2.16%  |
-| Tweeters with < 10 followers  | 15.09%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **GenFlynn** |
+| #3 Most tweeted to  | **CaslerNoel** |
+| NewProfiles (less than 10 days) | 1.25%  |
+| Tweeters with < 10 followers  | 8.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **musiquenocturne**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@BITCOIN**  |
-| third  | **ELON** |
-| fourth  | **@TESLARATI**  |
-| fifth  | **SOME**  |
+| first  | **@REALDONALDTRUMP**  |
+| second  | **TRUMP**  |
+| third  | **PRESIDENT** |
+| fourth  | **HE’S**  |
+| fifth  | **@GENFLYNN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@elonmusk WTF Elon. Stay off the dagga boet |
+|RT @WOKEUPHERETOO: @OnPointe28 @Alice94038394 @TacoPolitics @jakecoco @realDonaldTrump This is not about your health. It’s about taking awa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **musiquenocturne**  |
+| The most retweeted user is: **dangerpolitics**  |
 | ------------- |
-| RT @elonmusk: But actually https://t.co/jlowaHobXO |
+| RT @realDonaldTrump: BRILLIANT, A MUST WATCH! @RepDanCrenshaw https://t.co/W6pGsJQ2ua |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
