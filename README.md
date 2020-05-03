@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Casualty"**
+&#x1F34E; **TOPIC = "Lucas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chloe_95xo: Connie beauchamp is everything 😍🔥 #Casualty |
-| RT @holbytv: 5 years ago today on #Casualty .. |
-| RT @pauseliveaction: #Casualty review with spoilers: Charlie returns in shocking scenes https://t.co/s7Kus6eHgF via @MetroUK |
+| RT @nctzenmutual: rt if you stan- taeil- johnny- taeyong- yuta- kun- doyoung- ten- jaehyun- winwin- jungwoo- lucas- mark- xia… |
+| @ClassicsMuscle @MAVTV @29baileynorth @corey_north @mavtvcanada @MavTV_News @Lucas_Oil Liked the piece on the North… https://t.co/z9tXE3nZGS |
+| RT @renluhs: everyone gangsta till lucas start crying |
 
-The most popular user is: **alafiyah_1**
-<div class="alert alert-block alert-danger"> RT @BBCCasualty: "The Pain Won't Just Go Away..." 💔
-Watch the #Casualty Spring Trailer RIGHT NOW! https://t.co/ocMDoYyH0E</div>
+The most popular user is: **lucas_or_so**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: Never Not 💜 https://t.co/Ag9oUTJvrN</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCCasualty** |
-| #2 Most tweeted to  | **BBCOne** |
-| #3 Most tweeted to  | **holbytv** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 2.12%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **renluhs** |
+| #2 Most tweeted to  | **xuxisglow** |
+| #3 Most tweeted to  | **xuxilisa** |
+| NewProfiles (less than 10 days) | 1.78%  |
+| Tweeters with < 10 followers  | 6.86%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -40,28 +39,28 @@ Watch the #Casualty Spring Trailer RIGHT NOW! https://t.co/ocMDoYyH0E</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CASUALTY**  |
-| second  | **EPISODE**  |
-| third  | **@BBCONE** |
-| fourth  | **CASUALTYRT**  |
-| fifth  | **@BBCCASUALTY:**  |
+| first  | **LUCAS**  |
+| second  | **BEST**  |
+| third  | **WAYV** |
+| fourth  | **SUPERM**  |
+| fifth  | **EVERYONE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BBCCasualty: Connie and Noel clash this week 😬#Casualty is back tomorrow at 7.40pm on @BBCOne. https://t.co/aCiyfYAZ6s |
+|RT @xuxisglow: CAN WE MAKE THE LONGEST “LUCAS BEST BOY”  CHAIN LUCAS BEST BOY https://t.co/25J5kKjOio |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alafiyah_1**  |
+| The most retweeted user is: **lucas_or_so**  |
 | ------------- |
-| RT @BBCCasualty: "The Pain Won't Just Go Away..." 💔Watch the #Casualty Spring Trailer RIGHT NOW! https://t.co/ocMDoYyH0E |
+| RT @BTS_twt: Never Not 💜 https://t.co/Ag9oUTJvrN |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
