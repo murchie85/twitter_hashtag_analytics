@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lucas"**
+&#x1F34E; **TOPIC = "Cowboys"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nctzenmutual: rt if you stan- taeil- johnny- taeyong- yuta- kun- doyoung- ten- jaehyun- winwin- jungwoo- lucas- mark- xia… |
-| @ClassicsMuscle @MAVTV @29baileynorth @corey_north @mavtvcanada @MavTV_News @Lucas_Oil Liked the piece on the North… https://t.co/z9tXE3nZGS |
-| RT @renluhs: everyone gangsta till lucas start crying |
+| @24Knicksforever @Tmichael26 @JackDanielsSMTM @BloggingTheBoys Look at the highest paid QBS have they ever won a SB… https://t.co/jwv2BPQPZz |
+| @the_robmac @erydaimhuestlin @T_Man_05 @McLoVnT You’re making my argument for me Rob. The best WR Carson has played… https://t.co/SylO4n5h0R |
+| @Marcus_Mosher It’s a great thought but where do the cowboys actually stand now from cap standpoint including expec… https://t.co/P0cgdyvlcW |
 
-The most popular user is: **lucas_or_so**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: Never Not 💜 https://t.co/Ag9oUTJvrN</div>
+The most popular user is: **cowboys_alldayy**
+<div class="alert alert-block alert-danger"> RT @eenxxh: Am I the only one that doesn’t like to see men’s opinions on anything?</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **renluhs** |
-| #2 Most tweeted to  | **xuxisglow** |
-| #3 Most tweeted to  | **xuxilisa** |
-| NewProfiles (less than 10 days) | 1.78%  |
-| Tweeters with < 10 followers  | 6.86%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **dallascowboys** |
+| #2 Most tweeted to  | **DezBryant** |
+| #3 Most tweeted to  | **NFL** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 4.53%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lucas_or_so**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LUCAS**  |
-| second  | **BEST**  |
-| third  | **WAYV** |
-| fourth  | **SUPERM**  |
-| fifth  | **EVERYONE**  |
+| first  | **COWBOYS**  |
+| second  | **DALTON**  |
+| third  | **ANDY** |
+| fourth  | **DAK**  |
+| fifth  | **DALLAS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @xuxisglow: CAN WE MAKE THE LONGEST “LUCAS BEST BOY”  CHAIN LUCAS BEST BOY https://t.co/25J5kKjOio |
+|@CHQ_Jordan I like it!..People who want to disagree are Cowboys haters! I’ve been a fan of the Cowboys since 1966 and I agree with you. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lucas_or_so**  |
+| The most retweeted user is: **cowboys_alldayy**  |
 | ------------- |
-| RT @BTS_twt: Never Not 💜 https://t.co/Ag9oUTJvrN |
+| RT @eenxxh: Am I the only one that doesn’t like to see men’s opinions on anything? |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
