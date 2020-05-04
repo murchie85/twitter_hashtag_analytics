@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Cowboys"**
+&#x1F34E; **TOPIC = "Wet The Bed"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @24Knicksforever @Tmichael26 @JackDanielsSMTM @BloggingTheBoys Look at the highest paid QBS have they ever won a SB… https://t.co/jwv2BPQPZz |
-| @the_robmac @erydaimhuestlin @T_Man_05 @McLoVnT You’re making my argument for me Rob. The best WR Carson has played… https://t.co/SylO4n5h0R |
-| @Marcus_Mosher It’s a great thought but where do the cowboys actually stand now from cap standpoint including expec… https://t.co/P0cgdyvlcW |
+| RT @MickzWrites: I’m going to make you wet the bed #NS10v10 https://t.co/NakocVWjZ1 |
+| So he cried, wet the bed and then ran away because he has a cough? Lol https://t.co/CHddnLRoF8 |
+| RT @oowonjaes: IF HE DOESNT DO WET THE BED ILL RIOT |
 
-The most popular user is: **cowboys_alldayy**
-<div class="alert alert-block alert-danger"> RT @eenxxh: Am I the only one that doesn’t like to see men’s opinions on anything?</div>
+The most popular user is: **Wet_McGavin**
+<div class="alert alert-block alert-danger"> RT @SpaceAgePimpCie: Me trying to put the fitted sheet on the bed while I’m on it.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dallascowboys** |
-| #2 Most tweeted to  | **DezBryant** |
-| #3 Most tweeted to  | **NFL** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 4.53%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **Erykaah_fents** |
+| #2 Most tweeted to  | **theresnosignall** |
+| #3 Most tweeted to  | **deezydothis** |
+| NewProfiles (less than 10 days) | 1.04%  |
+| Tweeters with < 10 followers  | 2.56%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **cowboys_alldayy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COWBOYS**  |
-| second  | **DALTON**  |
-| third  | **ANDY** |
-| fourth  | **DAK**  |
-| fifth  | **DALLAS**  |
+| first  | **BED**  |
+| second  | **WET**  |
+| third  | **MAKE** |
+| fourth  | **CHRIS**  |
+| fifth  | **BROWN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (64.29%) **OBJECTIVE** (7.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@CHQ_Jordan I like it!..People who want to disagree are Cowboys haters! I’ve been a fan of the Cowboys since 1966 and I agree with you. |
+|RT @TiaToldYouSo: he needs to take chris brown out of his primary school disco bag and into his wet the bed bag #NS10v10 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cowboys_alldayy**  |
+| The most retweeted user is: **Wet_McGavin**  |
 | ------------- |
-| RT @eenxxh: Am I the only one that doesn’t like to see men’s opinions on anything? |
+| RT @SpaceAgePimpCie: Me trying to put the fitted sheet on the bed while I’m on it. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
