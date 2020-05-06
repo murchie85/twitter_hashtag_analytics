@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BBCBreaking"**
+&#x1F34E; **TOPIC = "Grandma Killer"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Thecrispycod: this young man has raised £1500 to do 3 tasks  to buy tablets for them to be used in hospitals locally  #hes a man on a m… |
-| Why do @BBCBreaking keep giving us Liebour's opinion on everything?  They're a completely unelectable irrelevance a… https://t.co/DgkaCbIVnv |
-| RT @BBCBreaking: The UK carried out 122,000 coronavirus tests on the last day of April, passing the government's target https://t.co/VMuafn… |
+| @bethanyshondark, or grandma killer as you prefer, what about this? https://t.co/0q1H6fuoyN |
+| RT @MattWalshBlog: The real "Grandma Killer" is Governor Cuomo, who forced nursing homes to admit infected people. But morons will cry abou… |
+| RT @SantaInc: @bethanyshondark Some people call me the Grandma Killer,Some call me the Gangster of Corona,Some people call me Bethany,(R… |
 
-The most popular user is: **fjairy**
-<div class="alert alert-block alert-danger"> RT @BBCBreaking: Doctor Who's 13th Time Lord to be Jodie Whittaker, star of drama Broadchurch — first woman to get the role https://t.co/HS…</div>
+The most popular user is: **mbmarbon**
+<div class="alert alert-block alert-danger"> RT @leftcoastbabe: A so-called "pro-life" Trump supporter proudly saying "you can call me a Grandma killer," because she doesn't want to st…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCBreaking** |
-| #2 Most tweeted to  | **BorisJohnson** |
-| #3 Most tweeted to  | **BBCWorld** |
-| NewProfiles (less than 10 days) | 4.21%  |
-| Tweeters with < 10 followers  | 11.71%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **bethanyshondark** |
+| #2 Most tweeted to  | **leftcoastbabe** |
+| #3 Most tweeted to  | **kurteichenwald** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **fjairy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BBCBREAKING**  |
-| second  | **@BBCBREAKING:**  |
-| third  | **THAN** |
-| fourth  | **VIRGIN**  |
-| fifth  | **JOBS**  |
+| first  | **KILLER**  |
+| second  | **GRANDMA**  |
+| third  | **CALL** |
+| fourth  | **KILLER"**  |
+| fifth  | **@BETHANYSHONDARK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@tug @BBCBreaking I don't trust the people involved John |
+|RT @joelockhart: @bethanyshondark You're a grandma killer yes. But you're also a nurse killer, a doctor killer, a cop killer, a grocery cle… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fjairy**  |
+| The most retweeted user is: **mbmarbon**  |
 | ------------- |
-| RT @BBCBreaking: Doctor Who's 13th Time Lord to be Jodie Whittaker, star of drama Broadchurch — first woman to get the role https://t.co/HS… |
+| RT @leftcoastbabe: A so-called "pro-life" Trump supporter proudly saying "you can call me a Grandma killer," because she doesn't want to st… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
