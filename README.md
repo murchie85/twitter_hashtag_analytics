@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Grandma Killer"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @bethanyshondark, or grandma killer as you prefer, what about this? https://t.co/0q1H6fuoyN |
-| RT @MattWalshBlog: The real "Grandma Killer" is Governor Cuomo, who forced nursing homes to admit infected people. But morons will cry abou… |
-| RT @SantaInc: @bethanyshondark Some people call me the Grandma Killer,Some call me the Gangster of Corona,Some people call me Bethany,(R… |
+| Hahaha they cant keep his name out they mouth https://t.co/82HbcnFcB0 |
+| @CriddleBenjamin @UtahPigBus I don't care that you ask a question about a BYU player, that's what you're supposed t… https://t.co/e0c0KoNb9k |
+| RT @ufc: RT if you're with @TonyFergusonXT! 🕶 #UFC249 - LIVE on ESPN+ PPV - https://t.co/EraFCU8xwb https://t.co/Gd426u82r5 |
 
-The most popular user is: **mbmarbon**
-<div class="alert alert-block alert-danger"> RT @leftcoastbabe: A so-called "pro-life" Trump supporter proudly saying "you can call me a Grandma killer," because she doesn't want to st…</div>
+The most popular user is: **SckoSir**
+<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bethanyshondark** |
-| #2 Most tweeted to  | **leftcoastbabe** |
-| #3 Most tweeted to  | **kurteichenwald** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 1.8%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **ufc** |
+| #3 Most tweeted to  | **TonyFergusonXT** |
+| NewProfiles (less than 10 days) | 0.63%  |
+| Tweeters with < 10 followers  | 4.52%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mbmarbon**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KILLER**  |
-| second  | **GRANDMA**  |
-| third  | **CALL** |
-| fourth  | **KILLER"**  |
-| fifth  | **@BETHANYSHONDARK**  |
+| first  | **@ESPN:**  |
+| second  | **ESPN**  |
+| third  | **UFC249** |
+| fourth  | **ESPN+**  |
+| fifth  | **PPV**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @joelockhart: @bethanyshondark You're a grandma killer yes. But you're also a nurse killer, a doctor killer, a cop killer, a grocery cle… |
+|RT @espn: Patrick Ewing says he doesn't need to relive those events in the 90s 😅 https://t.co/HQpmiuBQRa |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mbmarbon**  |
+| The most retweeted user is: **SckoSir**  |
 | ------------- |
-| RT @leftcoastbabe: A so-called "pro-life" Trump supporter proudly saying "you can call me a Grandma killer," because she doesn't want to st… |
+| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
