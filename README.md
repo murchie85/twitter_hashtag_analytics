@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Hahaha they cant keep his name out they mouth https://t.co/82HbcnFcB0 |
-| @CriddleBenjamin @UtahPigBus I don't care that you ask a question about a BYU player, that's what you're supposed t… https://t.co/e0c0KoNb9k |
-| RT @ufc: RT if you're with @TonyFergusonXT! 🕶 #UFC249 - LIVE on ESPN+ PPV - https://t.co/EraFCU8xwb https://t.co/Gd426u82r5 |
+| RT @multiphobe: hi @TheEllenShow this is my son dongpyo he’s 12 and he’s a really big fan of loona and also you he told me he really wants… |
+| @TheAntillectual @ChonWayne69 @Vidian1 @TheEllenShow They can bring this chart out but can’t back it up whatsoever lmao.. |
+| RT @TheEllenShow: This young man was jogging, and was hunted down and killed for absolutely no reason other than the color of his skin. His… |
 
-The most popular user is: **SckoSir**
-<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV</div>
+The most popular user is: **nastepnastacja**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **ufc** |
-| #3 Most tweeted to  | **TonyFergusonXT** |
-| NewProfiles (less than 10 days) | 0.63%  |
-| Tweeters with < 10 followers  | 4.52%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **venmo** |
+| #3 Most tweeted to  | **VonWolf9** |
+| NewProfiles (less than 10 days) | 4.24%  |
+| Tweeters with < 10 followers  | 16.85%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SckoSir**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ESPN:**  |
-| second  | **ESPN**  |
-| third  | **UFC249** |
-| fourth  | **ESPN+**  |
-| fifth  | **PPV**  |
+| first  | **@THEELLENSHOW:**  |
+| second  | **MAN**  |
+| third  | **OTHER** |
+| fourth  | **THAN**  |
+| fifth  | **ABSOLUTELY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @espn: Patrick Ewing says he doesn't need to relive those events in the 90s 😅 https://t.co/HQpmiuBQRa |
+|@TheEllenShow @CourteneyCox Me too—Chandler just proposed❤️!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SckoSir**  |
+| The most retweeted user is: **nastepnastacja**  |
 | ------------- |
-| RT @SupremeDreams_1: How we watching ESPN after they cancelled every other sport 🤦🏾‍♂️😂 https://t.co/jsCbg9cbIV |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
