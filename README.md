@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TheEllenShow"**
+&#x1F34E; **TOPIC = "#UFC249"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @multiphobe: hi @TheEllenShow this is my son dongpyo he’s 12 and he’s a really big fan of loona and also you he told me he really wants… |
-| @TheAntillectual @ChonWayne69 @Vidian1 @TheEllenShow They can bring this chart out but can’t back it up whatsoever lmao.. |
-| RT @TheEllenShow: This young man was jogging, and was hunted down and killed for absolutely no reason other than the color of his skin. His… |
+| @fyfdhfrtd Thanks for sharing this! #UFC249 is gonna be so awesome. 🔥🔥 |
+| RT @espnmma: The gang is back together 👏 #UFC249Join @Jon_Anik, @joerogan, and @dc_mma for a night of fights ➡️ https://t.co/xGtn2vMNl0 h… |
+| RT @stiinkfiist: I don’t get why they’re stood apart like this.   I thought the recommended distance is 2 Meters? THEYVE ALL BEEN TESTED, J… |
 
-The most popular user is: **nastepnastacja**
-<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
+The most popular user is: **l3ossLady**
+<div class="alert alert-block alert-danger"> RT @ufc: WE. ARE. BACK.
+
+🏆🏆 #UFC249 is LIVE tonight on ESPN+ PPV ➡️ https://t.co/XFViHnu87c
+
+(B2YB Nemiroff) https://t.co/qaASCA49N7</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheEllenShow** |
-| #2 Most tweeted to  | **venmo** |
-| #3 Most tweeted to  | **VonWolf9** |
-| NewProfiles (less than 10 days) | 4.24%  |
-| Tweeters with < 10 followers  | 16.85%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **ufc** |
+| #2 Most tweeted to  | **danawhite** |
+| #3 Most tweeted to  | **espnmma** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 5.45%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **nastepnastacja**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@THEELLENSHOW:**  |
-| second  | **MAN**  |
-| third  | **OTHER** |
-| fourth  | **THAN**  |
-| fifth  | **ABSOLUTELY**  |
+| first  | **UFC249**  |
+| second  | **LIVE**  |
+| third  | **@UFC:** |
+| fourth  | **UFC249RT**  |
+| fifth  | **FIGHT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TheEllenShow @CourteneyCox Me too—Chandler just proposed❤️!! |
+|Has #UFC249 started yet @Monsneaks ? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nastepnastacja**  |
+| The most retweeted user is: **l3ossLady**  |
 | ------------- |
-| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
+| RT @ufc: WE. ARE. BACK.🏆🏆 #UFC249 is LIVE tonight on ESPN+ PPV ➡️ https://t.co/XFViHnu87c(B2YB Nemiroff) https://t.co/qaASCA49N7 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
