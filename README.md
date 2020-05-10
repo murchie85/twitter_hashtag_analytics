@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UFC249"**
+&#x1F34E; **TOPIC = "POTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @fyfdhfrtd Thanks for sharing this! #UFC249 is gonna be so awesome. 🔥🔥 |
-| RT @espnmma: The gang is back together 👏 #UFC249Join @Jon_Anik, @joerogan, and @dc_mma for a night of fights ➡️ https://t.co/xGtn2vMNl0 h… |
-| RT @stiinkfiist: I don’t get why they’re stood apart like this.   I thought the recommended distance is 2 Meters? THEYVE ALL BEEN TESTED, J… |
+| RT @QBlueSkyQ: ➡️THE C_A OPERATION GLADIO B &amp; #GULEN TERRORIST NETWORK➡️Operation Gladio-False Flag Attacks➡️Paul Williams "We Created IS… |
+| Florida has always shown respect and kindness to our Potus! They have been proud to tell us bc Potus also has his 2… https://t.co/x6XeZlRCaE |
+| @POTUS Barron, have a VERY BLESSED SUNDAY&amp; MAY U  ENJOY  ur MOM'S MO. DAY , LOVE her,HUG her,APPRECIATE her &amp; DO SO… https://t.co/HnVbzQSh9Q |
 
-The most popular user is: **l3ossLady**
-<div class="alert alert-block alert-danger"> RT @ufc: WE. ARE. BACK.
+The most popular user is: **POTUS_Haynes**
+<div class="alert alert-block alert-danger"> RT @MKBHD: Alright it's international giveaway time - Looking to make someone's quarantine time a little more fun!
 
-🏆🏆 #UFC249 is LIVE tonight on ESPN+ PPV ➡️ https://t.co/XFViHnu87c
-
-(B2YB Nemiroff) https://t.co/qaASCA49N7</div>
+Giving away this custom…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ufc** |
-| #2 Most tweeted to  | **danawhite** |
-| #3 Most tweeted to  | **espnmma** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 5.45%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **BarackObama** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 4.64%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -43,28 +41,28 @@ The most popular user is: **l3ossLady**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UFC249**  |
-| second  | **LIVE**  |
-| third  | **@UFC:** |
-| fourth  | **UFC249RT**  |
-| fifth  | **FIGHT**  |
+| first  | **@POTUS**  |
+| second  | **POTUS**  |
+| third  | **@REALDONALDTRUMP** |
+| fourth  | **OBAMAGATE**  |
+| fifth  | **OBAMA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Has #UFC249 started yet @Monsneaks ? |
+|RT @YossiGestetner: Being a scandal-free presidential administration is in itself a scandal because every POTUS the last 50 years had scand… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **l3ossLady**  |
+| The most retweeted user is: **POTUS_Haynes**  |
 | ------------- |
-| RT @ufc: WE. ARE. BACK.🏆🏆 #UFC249 is LIVE tonight on ESPN+ PPV ➡️ https://t.co/XFViHnu87c(B2YB Nemiroff) https://t.co/qaASCA49N7 |
+| RT @MKBHD: Alright it's international giveaway time - Looking to make someone's quarantine time a little more fun!Giving away this custom… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
