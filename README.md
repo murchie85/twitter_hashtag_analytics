@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "nytimes"**
+&#x1F34E; **TOPIC = "Yoko Ono"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nakashimae: Mary McCord, former acting head of DOJ's National Security Division: Bill Barr Twisted My Words in Dropping the Flynn Case.… |
-| RT @nakashimae: Mary McCord, former acting head of DOJ's National Security Division: Bill Barr Twisted My Words in Dropping the Flynn Case.… |
-| RT @KatiePhang: Bill Barr Twisted My Words in Dropping the Flynn Case.“In short, the report of my interview does not anywhere suggest tha… |
+| RT @TheSiouxzy: 5 years ago, John Lennon &amp; Yoko Ono’s son Sean took my phone &amp; took a selfie with me &amp; my friend In Toronto. NBD 😆 https://… |
+| @cjbush I wish folks would stop doing that! Thought there was real news about Yoko Ono. I mean we have heard nothin… https://t.co/1LqKn7SJZU |
+| @oatmeaIboy yoko ono couldnt do it |
 
-The most popular user is: **UArk73**
-<div class="alert alert-block alert-danger"> RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. 
-
-Therefore is up to all of you out there to keep this…</div>
+The most popular user is: **MaximilianVict4**
+<div class="alert alert-block alert-danger"> RT @HannahFronz: The Beatles arguing with John Lennon about Yoko Ono, 1966 #GameOfThrones https://t.co/cq1Y2r9oyx</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **nakashimae** |
-| #3 Most tweeted to  | **BillKristol** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 3.78%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **koshersemite** |
+| #2 Most tweeted to  | **cvzzies** |
+| #3 Most tweeted to  | **bheater** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 3.93%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ Therefore is up to all of you out there to keep this…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FLYNN**  |
-| second  | **WORDS**  |
-| third  | **BARR** |
-| fourth  | **TWISTED**  |
-| fifth  | **MARY**  |
+| first  | **YOKO**  |
+| second  | **ONO**  |
+| third  | **TRENDING** |
+| fourth  | **LENNON**  |
+| fifth  | **JOHN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Globally, average recorded death rate is 34 people per million residents • In the US, it’s over six times higher ..… https://t.co/8DVRApajdy |
+|If you still don't know that John Lennon *insisted* Yoko Ono be at band meetings, then you need to educate yourself… https://t.co/G7Vnxt4XSW |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **UArk73**  |
+| The most retweeted user is: **MaximilianVict4**  |
 | ------------- |
-| RT @SaraCarterDC: ‘#HunterBiden’ is a topic #CNN, #NBC, #MSNBC, #NYTimes don’t like. Therefore is up to all of you out there to keep this… |
+| RT @HannahFronz: The Beatles arguing with John Lennon about Yoko Ono, 1966 #GameOfThrones https://t.co/cq1Y2r9oyx |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
