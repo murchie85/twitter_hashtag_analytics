@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Yoko Ono"**
+&#x1F34E; **TOPIC = "#ObamaGate"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheSiouxzy: 5 years ago, John Lennon &amp; Yoko Ono’s son Sean took my phone &amp; took a selfie with me &amp; my friend In Toronto. NBD 😆 https://… |
-| @cjbush I wish folks would stop doing that! Thought there was real news about Yoko Ono. I mean we have heard nothin… https://t.co/1LqKn7SJZU |
-| @oatmeaIboy yoko ono couldnt do it |
+| RT @RealCandaceO: Does any actually believe that a former President of the U.S had a phone call “accidentally” leaked?@BarackObama is so… |
+| @dbongino No word of the lame stream media on the #obamagate scandal. Hypocrites. |
+| RT @CueKardo: Pain is coming. Dark to light. We are the News.Treason pays it's weight in dangles.#ObaMAGAte #WWG1WGA #QAnon https://t.c… |
 
-The most popular user is: **MaximilianVict4**
-<div class="alert alert-block alert-danger"> RT @HannahFronz: The Beatles arguing with John Lennon about Yoko Ono, 1966 #GameOfThrones https://t.co/cq1Y2r9oyx</div>
+The most popular user is: **ginger365247**
+<div class="alert alert-block alert-danger"> RT @sarahcpr: How to #ObamaGate https://t.co/0HLsPQtN2I</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **koshersemite** |
-| #2 Most tweeted to  | **cvzzies** |
-| #3 Most tweeted to  | **bheater** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 3.93%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **sarahcpr** |
+| #2 Most tweeted to  | **BarackObama** |
+| #3 Most tweeted to  | **RealCandaceO** |
+| NewProfiles (less than 10 days) | 0.99%  |
+| Tweeters with < 10 followers  | 3.74%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MaximilianVict4**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOKO**  |
-| second  | **ONO**  |
-| third  | **TRENDING** |
-| fourth  | **LENNON**  |
-| fifth  | **JOHN**  |
+| first  | **OBAMAGATE**  |
+| second  | **@SARAHCPR:**  |
+| third  | **OBAMA** |
+| fourth  | **2)**  |
+| fifth  | **(TAKE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|If you still don't know that John Lennon *insisted* Yoko Ono be at band meetings, then you need to educate yourself… https://t.co/G7Vnxt4XSW |
+|@weijia @CBSNews WEIJIA JIANG IS A RACIST BIGOT WHO HATES WHITE PEOPLE!!!!#ObamaGate #MAGA #Trump2020 #coronavirus #COVID__19 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MaximilianVict4**  |
+| The most retweeted user is: **ginger365247**  |
 | ------------- |
-| RT @HannahFronz: The Beatles arguing with John Lennon about Yoko Ono, 1966 #GameOfThrones https://t.co/cq1Y2r9oyx |
+| RT @sarahcpr: How to #ObamaGate https://t.co/0HLsPQtN2I |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
