@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#JeffreeStarApproved"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @JeffreeStar I in general just have a really shitty job and I’m 136$ negative I honestly just don’t want to go in t… https://t.co/m98VdDmJKM |
-| @JeffreeStar @nuri_mmm pls help#JeffreeStarApproved https://t.co/bIkOTSMJH7 |
-| @JeffreeStar $Nighthawks24#JeffreeStarApproved |
+| RT @ar15m4mid: @MrL0gistiX @POTUS @BarackObama @battleofever @lah3309 @RampageRantz @stacy_redvirgo @1911_goz @gungal45 @RoxxxyGurL @Americ… |
+| @GoneFlyingFarm @seanhannity @BarackObama @JoeBiden What was orchestrated? |
+| RT @seanhannity: Barack and Joe: What did you know and when did you know it? .@BarackObama .@JoeBiden |
 
-The most popular user is: **jessierippe**
-<div class="alert alert-block alert-danger"> RT @JeffreeStar: Drop me your #cashapp and I’m gonna help as many people as my limit will allow today! ⭐ Use hashtag #JeffreeStarApproved s…</div>
+The most popular user is: **Keirseydotcom**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JeffreeStar** |
-| #2 Most tweeted to  | **Breanna_Jo96** |
-| #3 Most tweeted to  | **pulte** |
-| NewProfiles (less than 10 days) | 3.82%  |
-| Tweeters with < 10 followers  | 26.06%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **JoeBiden** |
+| #3 Most tweeted to  | **seanhannity** |
+| NewProfiles (less than 10 days) | 0.95%  |
+| Tweeters with < 10 followers  | 5.15%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jessierippe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@JEFFREESTAR:**  |
-| second  | **JEFFREESTARAPPROVED**  |
-| third  | **PEOPLE** |
-| fourth  | **HELP**  |
-| fifth  | **TRYING**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **BARACK**  |
+| third  | **IT?** |
+| fourth  | **JOE:**  |
+| fifth  | **@SEANHANNITY:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@JeffreeStar #JeffreeStarApproved I lose my job when I had to leave school due to COVID. Cash app - $HaleeJeffries |
+|@BarackObama @MichelleObama Your wife looks like a horse |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jessierippe**  |
+| The most retweeted user is: **Keirseydotcom**  |
 | ------------- |
-| RT @JeffreeStar: Drop me your #cashapp and I’m gonna help as many people as my limit will allow today! ⭐ Use hashtag #JeffreeStarApproved s… |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
