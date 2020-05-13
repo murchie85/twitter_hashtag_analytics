@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "#10TV"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ar15m4mid: @MrL0gistiX @POTUS @BarackObama @battleofever @lah3309 @RampageRantz @stacy_redvirgo @1911_goz @gungal45 @RoxxxyGurL @Americ… |
-| @GoneFlyingFarm @seanhannity @BarackObama @JoeBiden What was orchestrated? |
-| RT @seanhannity: Barack and Joe: What did you know and when did you know it? .@BarackObama .@JoeBiden |
+| RT @10TV: VERIFY: The 'Plandemic' documentary is full of misinformation https://t.co/7RcjwxPNib #10TV https://t.co/IMBJ7wjQgp |
+| RT @10TV: Virus has killed 500 Ohio nursing home residents in 3 weeks https://t.co/LJV2cKRAJD #10TV https://t.co/Z2NdLjpEsU |
+| RT @10TV: Education Department's new campus sexual assault rules support rights of accused https://t.co/5j4dVzXfyW #10TV https://t.co/vjsS5… |
 
-The most popular user is: **Keirseydotcom**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **skipperslm**
+<div class="alert alert-block alert-danger"> RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **JoeBiden** |
-| #3 Most tweeted to  | **seanhannity** |
-| NewProfiles (less than 10 days) | 0.95%  |
-| Tweeters with < 10 followers  | 5.15%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **10TV** |
+| #2 Most tweeted to  | **MollyBrewerTV** |
+| #3 Most tweeted to  | **RossCarusoTV** |
+| NewProfiles (less than 10 days) | 0.11%  |
+| Tweeters with < 10 followers  | 1.46%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Keirseydotcom**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **BARACK**  |
-| third  | **IT?** |
-| fourth  | **JOE:**  |
-| fifth  | **@SEANHANNITY:**  |
+| first  | **@10TV:**  |
+| second  | **10TV**  |
+| third  | **OHIO** |
+| fourth  | **COVID-19**  |
+| fifth  | **MAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BarackObama @MichelleObama Your wife looks like a horse |
+|RT @10TV: Canal Winchester public pool will not open this summer over coronavirus concerns https://t.co/0RyFToOfTt #10TV https://t.co/x6MEY… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Keirseydotcom**  |
+| The most retweeted user is: **skipperslm**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
