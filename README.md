@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Paper Mario"**
+&#x1F34E; **TOPIC = "TheEllenShow"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DirectFeedGames: This isn't true. It was added to the eShop server system two weeks ago. The game was completed well in advance of this… |
-| RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
-| RT @NotLemres: This new Paper Mario game isn't what I was expecting at all https://t.co/wGZaHKWWbN |
+| If anyone has the right contacts then it has to be @TheEllenShow 😁 PLEEEEEEEEEEEASE can you try to get  princess Ja… https://t.co/b1wWzIPzZu |
+| RT @SuperBaston: @SJP2CALowerMill @SJP2CA @CSOboston @BostonCathSupt @MRPETERPARKER @CCatholicSchool @ICSFBoston @boston25 @marty_walsh @Th… |
+| @NoelDominicci @dogcelebration @pitbullsad @PitbullsAndSoil @TheEllenShow @htfleming73 @FTTFPitbull @PitCommunity W… https://t.co/Cdq1vHPrFh |
 
-The most popular user is: **bug_pierson**
-<div class="alert alert-block alert-danger"> RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami…</div>
+The most popular user is: **BTCHIMHIS**
+<div class="alert alert-block alert-danger"> RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NintendoAmerica** |
-| #2 Most tweeted to  | **Nintendeal** |
-| #3 Most tweeted to  | **Gen_Ironicus** |
-| NewProfiles (less than 10 days) | 0.55%  |
-| Tweeters with < 10 followers  | 5.65%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **TheEllenShow** |
+| #2 Most tweeted to  | **ellentube** |
+| #3 Most tweeted to  | **andersoncooper** |
+| NewProfiles (less than 10 days) | 5.4%  |
+| Tweeters with < 10 followers  | 21.72%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **bug_pierson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PAPER**  |
-| second  | **MARIO**  |
-| third  | **ORIGAMI** |
-| fourth  | **NEW**  |
-| fifth  | **SERIES**  |
+| first  | **@THEELLENSHOW**  |
+| second  | **@THEELLENSHOW:**  |
+| third  | **ELLEN** |
+| fourth  | **LOVE**  |
+| fifth  | **HAPPY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
+|@ArianaGrande  my radio loves your music! @hot1067 @JoeBreezyRadio @YaFavHomieJR  @1075theriver @WoodyandJimShow… https://t.co/nRKt7UlXRV |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bug_pierson**  |
+| The most retweeted user is: **BTCHIMHIS**  |
 | ------------- |
-| RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
