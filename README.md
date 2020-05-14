@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#10TV"**
+&#x1F34E; **TOPIC = "Paper Mario"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @10TV: VERIFY: The 'Plandemic' documentary is full of misinformation https://t.co/7RcjwxPNib #10TV https://t.co/IMBJ7wjQgp |
-| RT @10TV: Virus has killed 500 Ohio nursing home residents in 3 weeks https://t.co/LJV2cKRAJD #10TV https://t.co/Z2NdLjpEsU |
-| RT @10TV: Education Department's new campus sexual assault rules support rights of accused https://t.co/5j4dVzXfyW #10TV https://t.co/vjsS5… |
+| RT @DirectFeedGames: This isn't true. It was added to the eShop server system two weeks ago. The game was completed well in advance of this… |
+| RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
+| RT @NotLemres: This new Paper Mario game isn't what I was expecting at all https://t.co/wGZaHKWWbN |
 
-The most popular user is: **skipperslm**
-<div class="alert alert-block alert-danger"> RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A</div>
+The most popular user is: **bug_pierson**
+<div class="alert alert-block alert-danger"> RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **10TV** |
-| #2 Most tweeted to  | **MollyBrewerTV** |
-| #3 Most tweeted to  | **RossCarusoTV** |
-| NewProfiles (less than 10 days) | 0.11%  |
-| Tweeters with < 10 followers  | 1.46%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **NintendoAmerica** |
+| #2 Most tweeted to  | **Nintendeal** |
+| #3 Most tweeted to  | **Gen_Ironicus** |
+| NewProfiles (less than 10 days) | 0.55%  |
+| Tweeters with < 10 followers  | 5.65%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **skipperslm**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@10TV:**  |
-| second  | **10TV**  |
-| third  | **OHIO** |
-| fourth  | **COVID-19**  |
-| fifth  | **MAY**  |
+| first  | **PAPER**  |
+| second  | **MARIO**  |
+| third  | **ORIGAMI** |
+| fourth  | **NEW**  |
+| fifth  | **SERIES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @10TV: Canal Winchester public pool will not open this summer over coronavirus concerns https://t.co/0RyFToOfTt #10TV https://t.co/x6MEY… |
+|RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **skipperslm**  |
+| The most retweeted user is: **bug_pierson**  |
 | ------------- |
-| RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A |
+| RT @NintendoAmerica: The Paper Mario series arrives on #NintendoSwitch with an origami twist! What evil paper shenanigans does the Origami… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
