@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "Usher"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BarackObama: Graduating is a big achievement no matter what, but with all that the Class of 2020 has dealt with to get across the finis… |
-| RT @BenJackd1: Remember that time @BarackObama &amp; his administration used the @FBI to set up @realDonaldTrump &amp; @GenFlynn and then they got… |
-| RT @UNCF: Thank you @BarackObama for your support for HBCUs—and for believing in the Class of 2020 as they set out to change the world. #Sh… |
+| RT @kayleighmcenany: I’ll never forget the first time my Dad asked me to watch a sermon by @RaviZachariasIn academia, my Christian faith… |
+| RT @pertyybynature_: Nicki minaj is a product of Lil Kim, I agree with Usher. but she made it her own and SKYROCKETED |
+| @DashGetEm Line em up 20 of usher best vs breezy best |
 
-The most popular user is: **Keirseydotcom**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **Katelyn_Usher**
+<div class="alert alert-block alert-danger"> RT @JustDboy: I pray you heal from things no one ever apologized for.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **DrGJackBrown** |
-| NewProfiles (less than 10 days) | 1.08%  |
-| Tweeters with < 10 followers  | 7.09%|
+| #1 Most tweeted to  | **mangotango505** |
+| #2 Most tweeted to  | **callmedollar** |
+| #3 Most tweeted to  | **Usher** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 1.64%|
 | Tweeters with > 1000000 followers  | 0.05%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Keirseydotcom**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **PRESIDENT**  |
-| third  | **CLASS** |
-| fourth  | **2020**  |
-| fifth  | **GRADUATING**  |
+| first  | **USHER**  |
+| second  | **NEW**  |
+| third  | **ERA** |
+| fourth  | **TIME**  |
+| fifth  | **SONG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarackObama: Graduating is a big achievement no matter what, but with all that the Class of 2020 has dealt with to get across the finis… |
+|RT @pettypremy: They mad at Usher for saying NM is a product of Lil Kim. Lil Kim's influence can be found all over female rap. KIM took hea… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Keirseydotcom**  |
+| The most retweeted user is: **Katelyn_Usher**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @JustDboy: I pray you heal from things no one ever apologized for. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
