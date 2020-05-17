@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Usher"**
+&#x1F34E; **TOPIC = "CNN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kayleighmcenany: I’ll never forget the first time my Dad asked me to watch a sermon by @RaviZachariasIn academia, my Christian faith… |
-| RT @pertyybynature_: Nicki minaj is a product of Lil Kim, I agree with Usher. but she made it her own and SKYROCKETED |
-| @DashGetEm Line em up 20 of usher best vs breezy best |
+| RT @cnni: The novel coronavirus can infect organs throughout the body, including lungs, throat, heart, liver, brain, kidneys and the intest… |
+| RT @ForecasterEnten: High quality state polling (15k interviews &amp; 20+ polls) since April 1 suggests Biden leads by 7-8 pts nationally, is a… |
+| RT @DonaldJTrumpJr: CNN's Jake Tapper Blasted for Hypocrisy After Accusing Trump of 'Smear Campaign' Against Rivals https://t.co/7FfvLCll8L |
 
-The most popular user is: **Katelyn_Usher**
-<div class="alert alert-block alert-danger"> RT @JustDboy: I pray you heal from things no one ever apologized for.</div>
+The most popular user is: **hollywoodh2020**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: MSDNC and FAKE NEWS CNN are going wild trying to protect China!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mangotango505** |
-| #2 Most tweeted to  | **callmedollar** |
-| #3 Most tweeted to  | **Usher** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 1.64%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **kaitlancollins** |
+| #3 Most tweeted to  | **EricTrump** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 6.1%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Katelyn_Usher**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **USHER**  |
-| second  | **NEW**  |
-| third  | **ERA** |
-| fourth  | **TIME**  |
-| fifth  | **SONG**  |
+| first  | **CNN**  |
+| second  | **@CNN**  |
+| third  | **@KAITLANCOLLINS** |
+| fourth  | **REPORTER**  |
+| fifth  | **CAUGHT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @pettypremy: They mad at Usher for saying NM is a product of Lil Kim. Lil Kim's influence can be found all over female rap. KIM took hea… |
+|RT @dbongino: You can't make this stuff up 🤦‍♂️https://t.co/QzlyhK19oO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Katelyn_Usher**  |
+| The most retweeted user is: **hollywoodh2020**  |
 | ------------- |
-| RT @JustDboy: I pray you heal from things no one ever apologized for. |
+| RT @realDonaldTrump: MSDNC and FAKE NEWS CNN are going wild trying to protect China! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
