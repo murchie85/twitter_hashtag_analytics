@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @YellowDhub: @elonmusk Mr. Elon, The fate of the world resides upon your shoulders Help us and like this Tweethttps://t.co/w69eufX… |
-| RT @drshannonkroner: Just heard @GavinNewsom is at a ranch in Stevensville, Montana while CA crumbles! He needs to get his ass back here &amp;… |
-| RT @_mikeneezy: @elonmusk Of course the billionaire wants you to take red pill. Means less taxes, less regulation, lower wages, and less ac… |
+| RT @MichelleObama: For today’s read-along with @PBSKids and @PenguinRandom, I’m excited to read “Giraffe Problems," followed by “The Bear A… |
+| RT @PeteButtigieg: Nice to be reminded what it was like to have a president who is reassuring, uplifting, and straightforward. #ThanksObama… |
+| RT @PeteButtigieg: Nice to be reminded what it was like to have a president who is reassuring, uplifting, and straightforward. #ThanksObama |
 
-The most popular user is: **_christian32_**
-<div class="alert alert-block alert-danger"> RT @elonmusk: But actually https://t.co/jlowaHobXO</div>
+The most popular user is: **whatus0**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **RichSementa** |
-| #3 Most tweeted to  | **TheRightMelissa** |
-| NewProfiles (less than 10 days) | 2.52%  |
-| Tweeters with < 10 followers  | 15.28%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **davidaxelrod** |
+| NewProfiles (less than 10 days) | 1.01%  |
+| Tweeters with < 10 followers  | 8.54%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **_christian32_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **ENDING**  |
-| third  | **AMERICA** |
-| fourth  | **CORONAVIRUS**  |
-| fifth  | **LOCKDOWN**  |
+| first  | **@BARACKOBAMA**  |
+| second  | **@REALDONALDTRUMP**  |
+| third  | **OBAMA** |
+| fourth  | **DIDN’T**  |
+| fifth  | **YET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheRightMelissa: @elonmusk Democrats’ moving the goal post from stay home to “flatten the curve” to now “stay home forever as we take a… |
+|@LionelMedia @BarackObama Rev Wright! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_christian32_**  |
+| The most retweeted user is: **whatus0**  |
 | ------------- |
-| RT @elonmusk: But actually https://t.co/jlowaHobXO |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
