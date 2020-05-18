@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "CNN"**
+&#x1F34E; **TOPIC = "elonmusk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cnni: The novel coronavirus can infect organs throughout the body, including lungs, throat, heart, liver, brain, kidneys and the intest… |
-| RT @ForecasterEnten: High quality state polling (15k interviews &amp; 20+ polls) since April 1 suggests Biden leads by 7-8 pts nationally, is a… |
-| RT @DonaldJTrumpJr: CNN's Jake Tapper Blasted for Hypocrisy After Accusing Trump of 'Smear Campaign' Against Rivals https://t.co/7FfvLCll8L |
+| RT @YellowDhub: @elonmusk Mr. Elon, The fate of the world resides upon your shoulders Help us and like this Tweethttps://t.co/w69eufX… |
+| RT @drshannonkroner: Just heard @GavinNewsom is at a ranch in Stevensville, Montana while CA crumbles! He needs to get his ass back here &amp;… |
+| RT @_mikeneezy: @elonmusk Of course the billionaire wants you to take red pill. Means less taxes, less regulation, lower wages, and less ac… |
 
-The most popular user is: **hollywoodh2020**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: MSDNC and FAKE NEWS CNN are going wild trying to protect China!</div>
+The most popular user is: **_christian32_**
+<div class="alert alert-block alert-danger"> RT @elonmusk: But actually https://t.co/jlowaHobXO</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **kaitlancollins** |
-| #3 Most tweeted to  | **EricTrump** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 6.1%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **elonmusk** |
+| #2 Most tweeted to  | **RichSementa** |
+| #3 Most tweeted to  | **TheRightMelissa** |
+| NewProfiles (less than 10 days) | 2.52%  |
+| Tweeters with < 10 followers  | 15.28%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **hollywoodh2020**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CNN**  |
-| second  | **@CNN**  |
-| third  | **@KAITLANCOLLINS** |
-| fourth  | **REPORTER**  |
-| fifth  | **CAUGHT**  |
+| first  | **@ELONMUSK**  |
+| second  | **ENDING**  |
+| third  | **AMERICA** |
+| fourth  | **CORONAVIRUS**  |
+| fifth  | **LOCKDOWN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @dbongino: You can't make this stuff up 🤦‍♂️https://t.co/QzlyhK19oO |
+|RT @TheRightMelissa: @elonmusk Democrats’ moving the goal post from stay home to “flatten the curve” to now “stay home forever as we take a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hollywoodh2020**  |
+| The most retweeted user is: **_christian32_**  |
 | ------------- |
-| RT @realDonaldTrump: MSDNC and FAKE NEWS CNN are going wild trying to protect China! |
+| RT @elonmusk: But actually https://t.co/jlowaHobXO |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
