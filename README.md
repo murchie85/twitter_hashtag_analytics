@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "BillGates"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MichelleObama: For today’s read-along with @PBSKids and @PenguinRandom, I’m excited to read “Giraffe Problems," followed by “The Bear A… |
-| RT @PeteButtigieg: Nice to be reminded what it was like to have a president who is reassuring, uplifting, and straightforward. #ThanksObama… |
-| RT @PeteButtigieg: Nice to be reminded what it was like to have a president who is reassuring, uplifting, and straightforward. #ThanksObama |
+| No sign of Boris then ? All I hope is, he’s spending his downtime finding a conscience, then, the next time he appe… https://t.co/0U3s6NYlGd |
+| RT @MyNameIsEarlB: @Flying_Shadowz @flipitcellular @PatrickPenney11 @KimberlyRitter2 @SheepKnowMore @BillGates Viruses do not cause disease… |
+| RT @TrumperSeaney: When #FakeNewsMediaClowns @YahooNews run with a story of @BillGates being the "bogeyman of #ConspiracyTheories " - YOU K… |
 
-The most popular user is: **whatus0**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **lucivnovbreu**
+<div class="alert alert-block alert-danger"> RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
+| #1 Most tweeted to  | **BillGates** |
 | #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **davidaxelrod** |
-| NewProfiles (less than 10 days) | 1.01%  |
-| Tweeters with < 10 followers  | 8.54%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #3 Most tweeted to  | **joelpollak** |
+| NewProfiles (less than 10 days) | 2.58%  |
+| Tweeters with < 10 followers  | 10.85%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **whatus0**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@BARACKOBAMA**  |
-| second  | **@REALDONALDTRUMP**  |
-| third  | **OBAMA** |
-| fourth  | **DIDN’T**  |
-| fifth  | **YET**  |
+| first  | **@BILLGATES**  |
+| second  | **BILLGATES**  |
+| third  | **GATES** |
+| fourth  | **VACCINE**  |
+| fifth  | **BILL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LionelMedia @BarackObama Rev Wright! |
+|RT @MagicPLNL: This just made my day. So glad that more and more people are waking up😁I was on my way to work and this is what I saw...👇#CO… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **whatus0**  |
+| The most retweeted user is: **lucivnovbreu**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @BillGates: I’m always amazed by the disconnect between what we see in the news and the reality of the world around us. As my late frien… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
