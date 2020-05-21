@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "Foles"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @realDonaldTrump: This is the letter sent to Dr. Tedros of the World Health Organization. It is self-explanatory! https://t.co/pF2kzPUpDv |
-| Nancy needs to be tested for alcoholism.... testing testing testing.... @ouchinagirl @realDonaldTrump https://t.co/thToNiaeSH |
-| Our Great President is going to Make America Great Again! RT @mackenzy10: RT @realDonaldTrump: Crazy Bernie Sanders… https://t.co/z3RREIjEvN |
+| 🐻🏈Bears Rumors &amp; News:- Trubisky needs preseason more than Foles?- National media bashing Da Bears?!- Lawrence… https://t.co/pPgaaIrOBj |
+| @Alex77033705 @barstoolsports In 4 seasons Carson Wentz has 0 playoff wins with  48 regular season Fumbles.  Carson… https://t.co/mhh1IXawZ8 |
+| @FDeinparvar @ChicagoSports41 @AdamHoge In a locked in rookie salary slot... didn’t commit to an option for next se… https://t.co/gelS8GMCdk |
 
-The most popular user is: **Shushu32792**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: This is the letter sent to Dr. Tedros of the World Health Organization. It is self-explanatory! https://t.co/pF2kzPUpDv</div>
+The most popular user is: **Lau_Foles**
+<div class="alert alert-block alert-danger"> RT @oliviac____: why’s this the funniest thing I’ve seen https://t.co/7ZwZBn8Sik</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **WhiteHouse** |
-| #3 Most tweeted to  | **OregonGovBrown** |
-| NewProfiles (less than 10 days) | 0.99%  |
-| Tweeters with < 10 followers  | 8.02%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **JoeGiglioSports** |
+| #2 Most tweeted to  | **SportsRadioWIP** |
+| #3 Most tweeted to  | **thomasrp93** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 7.66%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Shushu32792**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
-| third  | **MAIL** |
-| fourth  | **TRUMP**  |
-| fifth  | **WRONG**  |
+| first  | **FOLES**  |
+| second  | **WENTZ**  |
+| third  | **NICK** |
+| fourth  | **QB**  |
+| fifth  | **4**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PressSec: Thank you President @realDonaldTrump!It’s the honor of a lifetime to work for you and see your incredible work for the Amer… |
+|RT @EmmaVigeland: The "Bernie lost to Biden so Biden must be a stronger candidate" crowd are the same people who measure athlete greatness… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Shushu32792**  |
+| The most retweeted user is: **Lau_Foles**  |
 | ------------- |
-| RT @realDonaldTrump: This is the letter sent to Dr. Tedros of the World Health Organization. It is self-explanatory! https://t.co/pF2kzPUpDv |
+| RT @oliviac____: why’s this the funniest thing I’ve seen https://t.co/7ZwZBn8Sik |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
