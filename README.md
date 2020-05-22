@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Foles"**
+&#x1F34E; **TOPIC = "Tuca"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 🐻🏈Bears Rumors &amp; News:- Trubisky needs preseason more than Foles?- National media bashing Da Bears?!- Lawrence… https://t.co/pPgaaIrOBj |
-| @Alex77033705 @barstoolsports In 4 seasons Carson Wentz has 0 playoff wins with  48 regular season Fumbles.  Carson… https://t.co/mhh1IXawZ8 |
-| @FDeinparvar @ChicagoSports41 @AdamHoge In a locked in rookie salary slot... didn’t commit to an option for next se… https://t.co/gelS8GMCdk |
+| RT @lisadraws: HAPPY FRIDAY :)))))))))))))))))))))))) TUCA &amp; BERTIE IS COMING BACK !!!!!!!!!!!!!!!!!! https://t.co/PoOlzGMd4n |
+| RT @lisadraws: HAPPY FRIDAY :)))))))))))))))))))))))) TUCA &amp; BERTIE IS COMING BACK !!!!!!!!!!!!!!!!!! https://t.co/PoOlzGMd4n |
+| RT @theerkj: adult swim was the perfect landing spot for tuca &amp; bertie. |
 
-The most popular user is: **Lau_Foles**
-<div class="alert alert-block alert-danger"> RT @oliviac____: why’s this the funniest thing I’ve seen https://t.co/7ZwZBn8Sik</div>
+The most popular user is: **Anonymous_Zitat**
+<div class="alert alert-block alert-danger"> RT @lisadraws: HAPPY FRIDAY :)))))))))))))))))))))))) TUCA &amp; BERTIE IS COMING BACK !!!!!!!!!!!!!!!!!! https://t.co/PoOlzGMd4n</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JoeGiglioSports** |
-| #2 Most tweeted to  | **SportsRadioWIP** |
-| #3 Most tweeted to  | **thomasrp93** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 7.66%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **lisadraws** |
+| #2 Most tweeted to  | **adultswim** |
+| #3 Most tweeted to  | **aliwong** |
+| NewProfiles (less than 10 days) | 0.29%  |
+| Tweeters with < 10 followers  | 3.69%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Lau_Foles**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FOLES**  |
-| second  | **WENTZ**  |
-| third  | **NICK** |
-| fourth  | **QB**  |
-| fifth  | **4**  |
+| first  | **BERTIE**  |
+| second  | **TUCA**  |
+| third  | **COMING** |
+| fourth  | **BACK**  |
+| fifth  | **HAPPY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @EmmaVigeland: The "Bernie lost to Biden so Biden must be a stronger candidate" crowd are the same people who measure athlete greatness… |
+|RT @lisadraws: HAPPY FRIDAY :)))))))))))))))))))))))) TUCA &amp; BERTIE IS COMING BACK !!!!!!!!!!!!!!!!!! https://t.co/PoOlzGMd4n |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Lau_Foles**  |
+| The most retweeted user is: **Anonymous_Zitat**  |
 | ------------- |
-| RT @oliviac____: why’s this the funniest thing I’ve seen https://t.co/7ZwZBn8Sik |
+| RT @lisadraws: HAPPY FRIDAY :)))))))))))))))))))))))) TUCA &amp; BERTIE IS COMING BACK !!!!!!!!!!!!!!!!!! https://t.co/PoOlzGMd4n |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
