@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "#RainOnMe"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @realDonaldTrump @deanbaquet Here you go again with your bullying!  What an embarrassment you have got to be to you… https://t.co/cVrN06zPy5 |
-| RT @IamJohnBurnett: Once again, a ‘White #Liberal’ trying to define ‘Black’— @realDonaldTrump has done more for Blacks in 3 years than Bide… |
-| RT @BrianKarem: NOW: Dr. Birx takes the stage to say we need to expand testing now to identify asymptomatic cases. Hello. Question: Shouldn… |
+| RT @chartsladygaga: FIRST GOAL: 500 SCREENSHOT!If you see this tweet you have to respond with a screenshot of you streaming #RainOnMe . L… |
+| little monsters are WILD #Chromatica #RainOnMe https://t.co/WOwTagyk7J |
+| RT @chartdata: .@ladygaga and @ArianaGrande’s #RainOnMe breaks the record for biggest single day streams for an all female collaboration in… |
 
-The most popular user is: **stylecrazepro**
-<div class="alert alert-block alert-danger"> RT @BernieSanders: It means you’re going to lose.</div>
+The most popular user is: **choicooper**
+<div class="alert alert-block alert-danger"> RT @ArianaGrande: #rainonme music video out now on @ladygaga’s vevo 🌧 https://t.co/1rE088dZyk https://t.co/lSZeFwD97l</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **JoeBiden** |
-| #3 Most tweeted to  | **deanbaquet** |
-| NewProfiles (less than 10 days) | 1.31%  |
-| Tweeters with < 10 followers  | 8.78%|
+| #1 Most tweeted to  | **ladygaga** |
+| #2 Most tweeted to  | **ArianaGrande** |
+| #3 Most tweeted to  | **gagadaily** |
+| NewProfiles (less than 10 days) | 1.53%  |
+| Tweeters with < 10 followers  | 4.63%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **stylecrazepro**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
-| third  | **BLACK** |
-| fourth  | **@JOEBIDEN**  |
-| fifth  | **TRUMP**  |
+| first  | **RAINONME**  |
+| second  | **@LADYGAGA**  |
+| third  | **1** |
+| fourth  | **@ARIANAGRANDE**  |
+| fifth  | **VIDEO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@rickwtyler @realDonaldTrump Good one! |
+|RT @amazonmusic: We heard it’s raining on #Chromatica. Listen to all new #RainOnMe by @ladygaga ft Ariana Grande now on Amazon Music: https… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **stylecrazepro**  |
+| The most retweeted user is: **choicooper**  |
 | ------------- |
-| RT @BernieSanders: It means you’re going to lose. |
+| RT @ArianaGrande: #rainonme music video out now on @ladygaga’s vevo 🌧 https://t.co/1rE088dZyk https://t.co/lSZeFwD97l |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
