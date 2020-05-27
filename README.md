@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elonmusk"**
+&#x1F34E; **TOPIC = "espn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @elonmusk: Sunset https://t.co/fpLhlqvuJg |
-| RT @elonmusk: Sunset https://t.co/fpLhlqvuJg |
-| RT @Rodriguez: .@Elonmusk sent #Machete into space on a @SpaceX rocket 8 years ago, check it out! https://t.co/reQqZPB85L |
+| RT @ESPN_Esports: BREAKING NEWS: @EvilGeniuses have acquired top laner @Huni from Dignitas.https://t.co/UwS1TFlE1P |
+| Is @CariChampion not on ESPN anymore? |
+| RT @FortySevensYT: Mfs listen to rap and tweet dumb shit like;"mfs who fish watching ESPN, bro you worried bout the wrong net"Bruh, you… |
 
-The most popular user is: **esmilanichh**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Yeah, I lift a little … https://t.co/UAJdv8qSw1</div>
+The most popular user is: **_ESPN_2**
+<div class="alert alert-block alert-danger"> RT @FemiOnDrums: “Racism isn’t getting worse, it’s getting filmed” - Will Smith</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **SpaceX** |
-| #3 Most tweeted to  | **NASA** |
-| NewProfiles (less than 10 days) | 1.71%  |
-| Tweeters with < 10 followers  | 11.86%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **TheNBACentral** |
+| #3 Most tweeted to  | **wojespn** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 3.63%|
+| Tweeters with > 1000000 followers  | 0.29%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **esmilanichh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@ELONMUSK**  |
-| second  | **@SPACEX**  |
-| third  | **@ELONMUSK:** |
-| fourth  | **SUNSET**  |
-| fifth  | **@NASA:**  |
+| first  | **ESPN**  |
+| second  | **LEBRON**  |
+| third  | **SEASON** |
+| fourth  | **JAMES**  |
+| fifth  | **WIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@destroyerbots @elonmusk Lemme hop on as well |
+|RT @TheNBACentral: Damian Lillard says LeBron James should win MVP this season (🎥 ESPN Jalen &amp; Jacoby) https://t.co/sxZ3hZFMab |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **esmilanichh**  |
+| The most retweeted user is: **_ESPN_2**  |
 | ------------- |
-| RT @elonmusk: Yeah, I lift a little … https://t.co/UAJdv8qSw1 |
+| RT @FemiOnDrums: “Racism isn’t getting worse, it’s getting filmed” - Will Smith |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
