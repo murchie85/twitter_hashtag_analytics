@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "espn"**
+&#x1F34E; **TOPIC = "realDonaldTrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ESPN_Esports: BREAKING NEWS: @EvilGeniuses have acquired top laner @Huni from Dignitas.https://t.co/UwS1TFlE1P |
-| Is @CariChampion not on ESPN anymore? |
-| RT @FortySevensYT: Mfs listen to rap and tweet dumb shit like;"mfs who fish watching ESPN, bro you worried bout the wrong net"Bruh, you… |
+| RT @Asa789: @TeamTrump @realDonaldTrump #MailinBallotFraud Beyond ridiculous how #fakenews @CBSNews@NBCNewsreported 'throwing away bal… |
+| RT @RepLoudermilk: Hey Twitter, fact-check this…a member of my staff received THREE mail-in ballots, addressed to three different individua… |
+| RT @JoyceWhiteVance: @realDonaldTrump Alabama service members &amp; their families overseas use mail in ballots. There have been no problems wi… |
 
-The most popular user is: **_ESPN_2**
-<div class="alert alert-block alert-danger"> RT @FemiOnDrums: “Racism isn’t getting worse, it’s getting filmed” - Will Smith</div>
+The most popular user is: **cullivan_clan**
+<div class="alert alert-block alert-danger"> RT @David_Leavitt: It took @realDonaldTrump one day to issue an #ExecutiveOrder because he was upset Twitter called him out on his lies.
+
+I…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **TheNBACentral** |
-| #3 Most tweeted to  | **wojespn** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 3.63%|
-| Tweeters with > 1000000 followers  | 0.29%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **WhiteHouse** |
+| #3 Most tweeted to  | **Twitter** |
+| NewProfiles (less than 10 days) | 1.23%  |
+| Tweeters with < 10 followers  | 10.62%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **_ESPN_2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ESPN**  |
-| second  | **LEBRON**  |
-| third  | **SEASON** |
-| fourth  | **JAMES**  |
-| fifth  | **WIN**  |
+| first  | **@REALDONALDTRUMP**  |
+| second  | **PRESIDENT**  |
+| third  | **TRUMP** |
+| fourth  | **TWITTER**  |
+| fifth  | **SOCIAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheNBACentral: Damian Lillard says LeBron James should win MVP this season (🎥 ESPN Jalen &amp; Jacoby) https://t.co/sxZ3hZFMab |
+|@realDonaldTrump Hi Gorgeous President Trump The Chosen One!!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_ESPN_2**  |
+| The most retweeted user is: **cullivan_clan**  |
 | ------------- |
-| RT @FemiOnDrums: “Racism isn’t getting worse, it’s getting filmed” - Will Smith |
+| RT @David_Leavitt: It took @realDonaldTrump one day to issue an #ExecutiveOrder because he was upset Twitter called him out on his lies.I… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
