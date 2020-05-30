@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "BarackObama"**
+&#x1F34E; **TOPIC = "#SpaceX"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @indyfromspace: I miss this human https://t.co/UX38Jlr6G5 |
-| RT @BarackObama: My statement on the death of George Floyd: https://t.co/Hg1k9JHT6R |
-| RT @BarackObama: My statement on the death of George Floyd: https://t.co/Hg1k9JHT6R |
+| From the #SpaceX launch to watching “Deep Space Homer” seems like the correct call to make |
+| RT @DrAbhishekMD: #SpaceXTwo humans (and one dinosaur) went to space today 😂😂😂😂🙏 #SpaceX #LaunchAmericahttps://t.co/bgh5Yu7Hwj |
+| Congratulations! To #SpaceX  on flying Americans on the #CrewDragonLaunch  system and the #Falcon9 great collaborat… https://t.co/9UeuobKaLA |
 
-The most popular user is: **timileh27589780**
-<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
+The most popular user is: **JeffingTatum**
+<div class="alert alert-block alert-danger"> RT @OmarJimenez: “America has launched.”
+“And so rises the new era of American space flight.” 
+This will never cease to amaze me. #SpaceX h…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **katiecouric** |
-| #3 Most tweeted to  | **jaytatum0** |
-| NewProfiles (less than 10 days) | 1.51%  |
-| Tweeters with < 10 followers  | 9.92%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **SpaceX** |
+| #2 Most tweeted to  | **NASA** |
+| #3 Most tweeted to  | **elonmusk** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 5.32%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **timileh27589780**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STATEMENT**  |
-| second  | **GEORGE**  |
-| third  | **@BARACKOBAMA:** |
-| fourth  | **DEATH**  |
-| fifth  | **FLOYD:**  |
+| first  | **SPACEX**  |
+| second  | **LAUNCHAMERICA**  |
+| third  | **SPACE** |
+| fourth  | **NASA**  |
+| fifth  | **LAUNCH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JLPtalk: Why didn’t you make a statement about the 49 people shot and 10 killed in Chicago last weekend? @BarackObama |
+|RT @DrSianProctor: Lift Off!! Woohoo!! ❤️👩🏽‍🚀🚀 Congratulations #SpaceX #NASA and #LaunchAmerica!! #Space2inspire https://t.co/TRjzmPKYTU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **timileh27589780**  |
+| The most retweeted user is: **JeffingTatum**  |
 | ------------- |
-| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
+| RT @OmarJimenez: “America has launched.”“And so rises the new era of American space flight.” This will never cease to amaze me. #SpaceX h… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
