@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "realDonaldTrump"**
+&#x1F34E; **TOPIC = "BarackObama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Asa789: @TeamTrump @realDonaldTrump #MailinBallotFraud Beyond ridiculous how #fakenews @CBSNews@NBCNewsreported 'throwing away bal… |
-| RT @RepLoudermilk: Hey Twitter, fact-check this…a member of my staff received THREE mail-in ballots, addressed to three different individua… |
-| RT @JoyceWhiteVance: @realDonaldTrump Alabama service members &amp; their families overseas use mail in ballots. There have been no problems wi… |
+| RT @indyfromspace: I miss this human https://t.co/UX38Jlr6G5 |
+| RT @BarackObama: My statement on the death of George Floyd: https://t.co/Hg1k9JHT6R |
+| RT @BarackObama: My statement on the death of George Floyd: https://t.co/Hg1k9JHT6R |
 
-The most popular user is: **cullivan_clan**
-<div class="alert alert-block alert-danger"> RT @David_Leavitt: It took @realDonaldTrump one day to issue an #ExecutiveOrder because he was upset Twitter called him out on his lies.
-
-I…</div>
+The most popular user is: **timileh27589780**
+<div class="alert alert-block alert-danger"> RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **WhiteHouse** |
-| #3 Most tweeted to  | **Twitter** |
-| NewProfiles (less than 10 days) | 1.23%  |
-| Tweeters with < 10 followers  | 10.62%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **katiecouric** |
+| #3 Most tweeted to  | **jaytatum0** |
+| NewProfiles (less than 10 days) | 1.51%  |
+| Tweeters with < 10 followers  | 9.92%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +39,28 @@ I…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@REALDONALDTRUMP**  |
-| second  | **PRESIDENT**  |
-| third  | **TRUMP** |
-| fourth  | **TWITTER**  |
-| fifth  | **SOCIAL**  |
+| first  | **STATEMENT**  |
+| second  | **GEORGE**  |
+| third  | **@BARACKOBAMA:** |
+| fourth  | **DEATH**  |
+| fifth  | **FLOYD:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@realDonaldTrump Hi Gorgeous President Trump The Chosen One!!! |
+|RT @JLPtalk: Why didn’t you make a statement about the 49 people shot and 10 killed in Chicago last weekend? @BarackObama |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cullivan_clan**  |
+| The most retweeted user is: **timileh27589780**  |
 | ------------- |
-| RT @David_Leavitt: It took @realDonaldTrump one day to issue an #ExecutiveOrder because he was upset Twitter called him out on his lies.I… |
+| RT @BarackObama: "No one is born hating another person because of the color of his skin or his background or his religion..." https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
