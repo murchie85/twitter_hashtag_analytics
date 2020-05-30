@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#SpaceX"**
+&#x1F34E; **TOPIC = "Rizzo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| From the #SpaceX launch to watching “Deep Space Homer” seems like the correct call to make |
-| RT @DrAbhishekMD: #SpaceXTwo humans (and one dinosaur) went to space today 😂😂😂😂🙏 #SpaceX #LaunchAmericahttps://t.co/bgh5Yu7Hwj |
-| Congratulations! To #SpaceX  on flying Americans on the #CrewDragonLaunch  system and the #Falcon9 great collaborat… https://t.co/9UeuobKaLA |
+| RT @davidminpdx: Wow. In Philly, the statute of former Mayor and former Police Chief Frank Rizzo is on fire. Rizzo is a symbol of white sup… |
+| RT @7_2_0: The Rizzo statue is on its way down. #Phillyprotest https://t.co/ZbGeV6eCrA |
+| @cubstroII you did? |
 
-The most popular user is: **JeffingTatum**
-<div class="alert alert-block alert-danger"> RT @OmarJimenez: “America has launched.”
-“And so rises the new era of American space flight.” 
-This will never cease to amaze me. #SpaceX h…</div>
+The most popular user is: **talia_rizzo**
+<div class="alert alert-block alert-danger"> RT @1kingmyles: What a headline https://t.co/x8GGKL0VMc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SpaceX** |
-| #2 Most tweeted to  | **NASA** |
-| #3 Most tweeted to  | **elonmusk** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 5.32%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **Rizzo_TV** |
+| #2 Most tweeted to  | **angxlthenerd** |
+| #3 Most tweeted to  | **sbcmw** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 5.37%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -41,28 +39,28 @@ This will never cease to amaze me. #SpaceX h…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SPACEX**  |
-| second  | **LAUNCHAMERICA**  |
-| third  | **SPACE** |
-| fourth  | **NASA**  |
-| fifth  | **LAUNCH**  |
+| first  | **RIZZO**  |
+| second  | **STATUE**  |
+| third  | **FRANK** |
+| fourth  | **DOWN**  |
+| fifth  | **POLICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DrSianProctor: Lift Off!! Woohoo!! ❤️👩🏽‍🚀🚀 Congratulations #SpaceX #NASA and #LaunchAmerica!! #Space2inspire https://t.co/TRjzmPKYTU |
+|RT @sbcmw: Huge crowd at Municipal Services Building. They’re trying to take down Frank Rizzo statue https://t.co/hM3JVTn7wX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JeffingTatum**  |
+| The most retweeted user is: **talia_rizzo**  |
 | ------------- |
-| RT @OmarJimenez: “America has launched.”“And so rises the new era of American space flight.” This will never cease to amaze me. #SpaceX h… |
+| RT @1kingmyles: What a headline https://t.co/x8GGKL0VMc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
