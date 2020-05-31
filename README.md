@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "B Simone"**
+&#x1F34E; **TOPIC = "#phillyriots"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DESTIINYYS: B. Simone get on the internet lusting after Da Baby everyday, joking about sucking/sexing on her exes, and did a whole show… |
-| RT @iDont_Chase: B. Simone talking bout she tryna please God &amp; approach this situation in a “Godly” way, but be on Wild N Out acting like a… |
-| RT @DatDamnShorty: B Simone and Desi cancelled. How tf y’all scared to stand for something y’all portray and profit off EVERY single day...… |
+| RT @akaylamo: The #phillyriots did do something. Our mayor after 3 years of promising finally said he’ll take down the Rizzo statue in abou… |
+| RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020… |
+| RT @uh_velkommen: Wow Kensington and Aramingo are trending on twitter? My small drug infested danger filled traumatizing neighborhood? I gu… |
 
-The most popular user is: **kikillaa_**
-<div class="alert alert-block alert-danger"> RT @jasnormous: B Simone be on national TV talking bout sucking dick but fighting racism is where her Christianity crosses the line?</div>
+The most popular user is: **jackieestonee**
+<div class="alert alert-block alert-danger"> RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jasnormous** |
-| #2 Most tweeted to  | **DatDamnShorty** |
-| #3 Most tweeted to  | **tahjaserene** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 1.24%|
+| #1 Most tweeted to  | **HarryKjell** |
+| #2 Most tweeted to  | **joegooding** |
+| #3 Most tweeted to  | **JustinUdo** |
+| NewProfiles (less than 10 days) | 1.55%  |
+| Tweeters with < 10 followers  | 7.59%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kikillaa_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SIMONE**  |
-| second  | **B**  |
-| third  | **Y’ALL** |
-| fourth  | **DESI**  |
-| fifth  | **OFF**  |
+| first  | **PHILLYRIOTS**  |
+| second  | **PHILLYPROTEST**  |
+| third  | **PHILLY** |
+| fourth  | **THESE**  |
+| fifth  | **PHILADELPHIA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @iDont_Chase: B. Simone talking bout she tryna please God &amp; approach this situation in a “Godly” way, but be on Wild N Out acting like a… |
+|RT @akaylamo: The #phillyriots did do something. Our mayor after 3 years of promising finally said he’ll take down the Rizzo statue in abou… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kikillaa_**  |
+| The most retweeted user is: **jackieestonee**  |
 | ------------- |
-| RT @jasnormous: B Simone be on national TV talking bout sucking dick but fighting racism is where her Christianity crosses the line? |
+| RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
