@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rizzo"**
+&#x1F34E; **TOPIC = "B Simone"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @davidminpdx: Wow. In Philly, the statute of former Mayor and former Police Chief Frank Rizzo is on fire. Rizzo is a symbol of white sup… |
-| RT @7_2_0: The Rizzo statue is on its way down. #Phillyprotest https://t.co/ZbGeV6eCrA |
-| @cubstroII you did? |
+| RT @DESTIINYYS: B. Simone get on the internet lusting after Da Baby everyday, joking about sucking/sexing on her exes, and did a whole show… |
+| RT @iDont_Chase: B. Simone talking bout she tryna please God &amp; approach this situation in a “Godly” way, but be on Wild N Out acting like a… |
+| RT @DatDamnShorty: B Simone and Desi cancelled. How tf y’all scared to stand for something y’all portray and profit off EVERY single day...… |
 
-The most popular user is: **talia_rizzo**
-<div class="alert alert-block alert-danger"> RT @1kingmyles: What a headline https://t.co/x8GGKL0VMc</div>
+The most popular user is: **kikillaa_**
+<div class="alert alert-block alert-danger"> RT @jasnormous: B Simone be on national TV talking bout sucking dick but fighting racism is where her Christianity crosses the line?</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Rizzo_TV** |
-| #2 Most tweeted to  | **angxlthenerd** |
-| #3 Most tweeted to  | **sbcmw** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 5.37%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **jasnormous** |
+| #2 Most tweeted to  | **DatDamnShorty** |
+| #3 Most tweeted to  | **tahjaserene** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 1.24%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **talia_rizzo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RIZZO**  |
-| second  | **STATUE**  |
-| third  | **FRANK** |
-| fourth  | **DOWN**  |
-| fifth  | **POLICE**  |
+| first  | **SIMONE**  |
+| second  | **B**  |
+| third  | **Y’ALL** |
+| fourth  | **DESI**  |
+| fifth  | **OFF**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @sbcmw: Huge crowd at Municipal Services Building. They’re trying to take down Frank Rizzo statue https://t.co/hM3JVTn7wX |
+|RT @iDont_Chase: B. Simone talking bout she tryna please God &amp; approach this situation in a “Godly” way, but be on Wild N Out acting like a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **talia_rizzo**  |
+| The most retweeted user is: **kikillaa_**  |
 | ------------- |
-| RT @1kingmyles: What a headline https://t.co/x8GGKL0VMc |
+| RT @jasnormous: B Simone be on national TV talking bout sucking dick but fighting racism is where her Christianity crosses the line? |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
