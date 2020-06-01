@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#phillyriots"**
+&#x1F34E; **TOPIC = "Pat Dye"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @akaylamo: The #phillyriots did do something. Our mayor after 3 years of promising finally said he’ll take down the Rizzo statue in abou… |
-| RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020… |
-| RT @uh_velkommen: Wow Kensington and Aramingo are trending on twitter? My small drug infested danger filled traumatizing neighborhood? I gu… |
+| Former Auburn football coach Pat Dye has died at the age of 80. https://t.co/7yOWbmy3X9 |
+| RT @CollegeFootball: Sports world mourns the death of legendary Auburn coach Pat Dye https://t.co/FBjm82UBdk |
+| RT @ByJustinLee: He built Auburn's modern era. He sent Bo over the top. He brought the Iron Bowl to Auburn.And he counted himself as an A… |
 
-The most popular user is: **jackieestonee**
-<div class="alert alert-block alert-danger"> RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020…</div>
+The most popular user is: **pat_lukyim**
+<div class="alert alert-block alert-danger"> RT @GOT7Official: GOT7 "NOT BY THE MOON" M/V
+https://t.co/Vcr4qfRknF
+
+2020.4.20 MON 8PM LIVE PREMIERE
+
+#GOT7 #갓세븐 @GOT7Official
+#IGOT7 #아가새…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HarryKjell** |
-| #2 Most tweeted to  | **joegooding** |
-| #3 Most tweeted to  | **JustinUdo** |
-| NewProfiles (less than 10 days) | 1.55%  |
-| Tweeters with < 10 followers  | 7.59%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AuburnFootball** |
+| #2 Most tweeted to  | **AUGoldMine** |
+| #3 Most tweeted to  | **247Sports** |
+| NewProfiles (less than 10 days) | 0.21%  |
+| Tweeters with < 10 followers  | 1.12%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **jackieestonee**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PHILLYRIOTS**  |
-| second  | **PHILLYPROTEST**  |
-| third  | **PHILLY** |
-| fourth  | **THESE**  |
-| fifth  | **PHILADELPHIA**  |
+| first  | **DYE**  |
+| second  | **PAT**  |
+| third  | **AUBURN** |
+| fourth  | **COACH**  |
+| fifth  | **FOOTBALL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (35.71%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @akaylamo: The #phillyriots did do something. Our mayor after 3 years of promising finally said he’ll take down the Rizzo statue in abou… |
+|RT @ESPN_BillC: In the 6 years before hiring Pat Dye, Auburn won 5 games per year with an avg SP+ ranking of 66.8.He improved them to 47t… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jackieestonee**  |
+| The most retweeted user is: **pat_lukyim**  |
 | ------------- |
-| RT @HarryKjell: My mans is really out here in these streets slapping mannequin booty on fox news #phillyprotest #phillyriots #protests2020… |
+| RT @GOT7Official: GOT7 "NOT BY THE MOON" M/Vhttps://t.co/Vcr4qfRknF2020.4.20 MON 8PM LIVE PREMIERE#GOT7 #갓세븐 @GOT7Official#IGOT7 #아가새… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
