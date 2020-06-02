@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#protests2020"**
+&#x1F34E; **TOPIC = "Ben Sasse"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CashFloTv: I ain't tryna hear nothin ! The cops out here stealin too !  #phillyriots #phillyprotests #GeorgeFloydProtests #protests2020… |
-| RT @ibloomedforyou: ARE YOU KIDDING ME?!?!? THIS IS SUCH BS #BlackLivesMatter #protests2020 LA county curfew!! https://t.co/CuAPjNjxur |
-| RT @Debber66: It’s unbelievable how dogmatic the Dem governors and mayors were about #COVIDー19 curfews and how they arrested pastors and ha… |
+| RT @michaeljknowles: 'Actually, it's bad that the President temporarily cleared radicals from a park to visit the historic church they trie… |
+| RT @SteveRustad1: Looting IS a problem.Trump &amp; the GOP have looted a trillion dollars from workers &amp; handed it to billionaires.#TrumpDi… |
+| RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
 
-The most popular user is: **MissRedCrane**
-<div class="alert alert-block alert-danger"> RT @JoshuaPotash: Oh my god.
-
-This is London marching for Black Lives today.
-
-#protests2020 
- https://t.co/k9bHFijSL3</div>
+The most popular user is: **RobynGravez**
+<div class="alert alert-block alert-danger"> RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **GovCTW** |
-| #3 Most tweeted to  | **kpopbangtrash9** |
-| NewProfiles (less than 10 days) | 3.58%  |
-| Tweeters with < 10 followers  | 12.61%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **funder** |
+| #2 Most tweeted to  | **dbongino** |
+| #3 Most tweeted to  | **TimAlberta** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 5.68%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -44,28 +39,28 @@ This is London marching for Black Lives today.
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PROTESTS2020**  |
-| second  | **LEADER**  |
-| third  | **POLICE** |
-| fourth  | **US**  |
-| fifth  | **PEOPLE**  |
+| first  | **BEN**  |
+| second  | **SASSE**  |
+| third  | **PROTEST** |
+| fourth  | **TRUMP**  |
+| fifth  | **GOP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (57.14%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (35.71%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CashFloTv: I ain't tryna hear nothin ! The cops out here stealin too !  #phillyriots #phillyprotests #GeorgeFloydProtests #protests2020… |
+|RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MissRedCrane**  |
+| The most retweeted user is: **RobynGravez**  |
 | ------------- |
-| RT @JoshuaPotash: Oh my god.This is London marching for Black Lives today.#protests2020  https://t.co/k9bHFijSL3 |
+| RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
