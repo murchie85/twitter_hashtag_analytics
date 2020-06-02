@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ben Sasse"**
+&#x1F34E; **TOPIC = "Nick Bosa"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @michaeljknowles: 'Actually, it's bad that the President temporarily cleared radicals from a park to visit the historic church they trie… |
-| RT @SteveRustad1: Looting IS a problem.Trump &amp; the GOP have looted a trillion dollars from workers &amp; handed it to billionaires.#TrumpDi… |
-| RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
+| RT @2RealKDN: Nick Bosa in the lockeroom tryna see who made that blackout post https://t.co/wKmKmqbyjA |
+| RT @seahawksnerd75: Nick Bosa walking into the 49ers Social Media Manager’s office  https://t.co/2CDYfhM9NR |
+| RT @jetsfan24x7: Nick Bosa seeing this post: https://t.co/CO75TrduCU |
 
-The most popular user is: **RobynGravez**
-<div class="alert alert-block alert-danger"> RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word…</div>
+The most popular user is: **FullTimePsycho**
+<div class="alert alert-block alert-danger"> RT @BleacherReport: Baker Mayfield planted the Oklahoma flag in Ohio State's field two years ago...
+
+OSU’s Nick Bosa waved and planted a fl…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **funder** |
-| #2 Most tweeted to  | **dbongino** |
-| #3 Most tweeted to  | **TimAlberta** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 5.68%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **jetsfan24x7** |
+| #2 Most tweeted to  | **EDNix** |
+| #3 Most tweeted to  | **Wavethoven** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 2.11%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **RobynGravez**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEN**  |
-| second  | **SASSE**  |
-| third  | **PROTEST** |
-| fourth  | **TRUMP**  |
-| fifth  | **GOP**  |
+| first  | **NICK**  |
+| second  | **BOSA**  |
+| third  | **SEEING** |
+| fourth  | **@JETSFAN24X7:**  |
+| fifth  | **POST:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
+|RT @EDNix: Nick Bosa just requested a trade |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RobynGravez**  |
+| The most retweeted user is: **FullTimePsycho**  |
 | ------------- |
-| RT @funder: BREAKING: GOP Sen Ben Sasse slams Trump hard: “I’m against clearing out a peaceful protest for a photo op that treats the Word… |
+| RT @BleacherReport: Baker Mayfield planted the Oklahoma flag in Ohio State's field two years ago...OSU’s Nick Bosa waved and planted a fl… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
