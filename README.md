@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pluckers"**
+&#x1F34E; **TOPIC = "Huey"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @gassy77900067: @Pluckers Is this you? https://t.co/qtnDmSkw3o |
-| RT @almalexx: Pluckers loves saying “fam” and using black people as memes but they’ve been awfully quiet because they don’t give a fuck. #c… |
-| RT @bniceloco: When she says “Go make sure the door locked!” https://t.co/zaRsrsaWd3 |
+| @PunxsyBaseball Your welcome for that @darenbyers12 |
+| RT @StillDiggs: Huey would never have said any of this. 😂 |
+| RT @HeavenlyControl: Big Huey Energy https://t.co/6H08LIpJHd |
 
-The most popular user is: **aapicelli**
-<div class="alert alert-block alert-danger"> RT @FlyAir4: When someone holding the door open for you but you a little ways away: https://t.co/Aw5oW9popJ</div>
+The most popular user is: **Huey_Leone**
+<div class="alert alert-block alert-danger"> RT @KingBraize: Sept 11th, I’m wearing a shirt that says “All Buildings Matter”</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Pluckers** |
-| #2 Most tweeted to  | **almalexx** |
-| #3 Most tweeted to  | **carlabarla** |
+| #1 Most tweeted to  | **StillDiggs** |
+| #2 Most tweeted to  | **nayathevixen** |
+| #3 Most tweeted to  | **_Houston_Rocket** |
 | NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 1.38%|
+| Tweeters with < 10 followers  | 2.03%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **aapicelli**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PLUCKERS**  |
-| second  | **FUCK**  |
-| third  | **QUIET** |
-| fourth  | **DON’T**  |
-| fifth  | **BLACK**  |
+| first  | **HUEY**  |
+| second  | **NEVER**  |
+| third  | **ANY** |
+| fourth  | **@STILLDIGGS:**  |
+| fifth  | **😂RT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Petelaflame @Pluckers Syrupy ass sauce |
+|RT @_Houston_Rocket: @StillDiggs The Real Huey https://t.co/m8365ZBSLp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **aapicelli**  |
+| The most retweeted user is: **Huey_Leone**  |
 | ------------- |
-| RT @FlyAir4: When someone holding the door open for you but you a little ways away: https://t.co/Aw5oW9popJ |
+| RT @KingBraize: Sept 11th, I’m wearing a shirt that says “All Buildings Matter” |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
