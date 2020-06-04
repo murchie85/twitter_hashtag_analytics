@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Drew Brees"**
+&#x1F34E; **TOPIC = "Pluckers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @diannaESPN: I reached out to some Saints players about QB Drew Brees’ comments, many don’t want to give quotes to the media at this tim… |
-| RT @DanWoikeSports: Who would've thought that with the NBA about to restart that the first player LeBron James would dunk on end up being D… |
-| RT @MySportsUpdate: #Saints safety Malcolm Jenkins blasted Drew Brees in a 3 minute video on Instagram: "I considered you a friend, I looke… |
+| RT @gassy77900067: @Pluckers Is this you? https://t.co/qtnDmSkw3o |
+| RT @almalexx: Pluckers loves saying “fam” and using black people as memes but they’ve been awfully quiet because they don’t give a fuck. #c… |
+| RT @bniceloco: When she says “Go make sure the door locked!” https://t.co/zaRsrsaWd3 |
 
-The most popular user is: **onlyhazelthings**
-<div class="alert alert-block alert-danger"> RT @TaylorRooks: Drew Brees couldn't even directly say he understood why Colin protested injustice nor that he understood the anger of many…</div>
+The most popular user is: **aapicelli**
+<div class="alert alert-block alert-danger"> RT @FlyAir4: When someone holding the door open for you but you a little ways away: https://t.co/Aw5oW9popJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jemelehill** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **RyanAFournier** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 2.95%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **Pluckers** |
+| #2 Most tweeted to  | **almalexx** |
+| #3 Most tweeted to  | **carlabarla** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 1.38%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **onlyhazelthings**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DREW**  |
-| second  | **BREES**  |
-| third  | **PEOPLE** |
-| fourth  | **JENKINS**  |
+| first  | **PLUCKERS**  |
+| second  | **FUCK**  |
+| third  | **QUIET** |
+| fourth  | **DON’T**  |
 | fifth  | **BLACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @6LACK: i could type a long text about how kneeling during the anthem was never about “disrespecting the flag” but ima just say fuck dre… |
+|@Petelaflame @Pluckers Syrupy ass sauce |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **onlyhazelthings**  |
+| The most retweeted user is: **aapicelli**  |
 | ------------- |
-| RT @TaylorRooks: Drew Brees couldn't even directly say he understood why Colin protested injustice nor that he understood the anger of many… |
+| RT @FlyAir4: When someone holding the door open for you but you a little ways away: https://t.co/Aw5oW9popJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
