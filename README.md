@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Columbus Twitter"**
+&#x1F34E; **TOPIC = "Craig"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MoorInformation: The Black aboriginal people were here in the Americas before Columbus. They were later reclassified as “negroes”, and… |
-| RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr |
-| RT @FrshWaters: if you know somebody that needs help on the westside of chicago cos the grocery stores got hit in yo area. if you can dona… |
+| #FeatureFriday: Meet Craig Abbott, our co-chair for Mentorship. He works tirelessly to build upon on our mentorship… https://t.co/4p0cf1toJc |
+| @Scarecr57045153 @MattHancock They are useless. They think they know best and not listening to anything scientists… https://t.co/t6UOhzgBJ4 |
+| Bitcoin Lies Continue as Craig Wright Testifies Using His iPhone Before It Was Released In 2007 https://t.co/mveOJY5BDn |
 
-The most popular user is: **Mizz_Ashya**
-<div class="alert alert-block alert-danger"> RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr</div>
+The most popular user is: **Craig_Hope_**
+<div class="alert alert-block alert-danger"> RT @JulianStephen: Breonna Taylor’s case has been reopened.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **greg_doucette** |
-| #2 Most tweeted to  | **BadMissB_Havior** |
-| #3 Most tweeted to  | **skaijackson** |
-| NewProfiles (less than 10 days) | 0.97%  |
-| Tweeters with < 10 followers  | 3.01%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ReneeCarrollAZ** |
+| #2 Most tweeted to  | **GenOttr** |
+| #3 Most tweeted to  | **stulivingston** |
+| NewProfiles (less than 10 days) | 1.35%  |
+| Tweeters with < 10 followers  | 4.26%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Mizz_Ashya**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COLUMBUS**  |
-| second  | **SHOT**  |
-| third  | **OH:** |
-| fourth  | **BACK**  |
-| fifth  | **OFFICER**  |
+| first  | **CRAIG**  |
+| second  | **"IM"**  |
+| third  | **LAPSE** |
+| fourth  | **STORYBOARD**  |
+| fifth  | **DURING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MicromobilityCo: Cities reported on by @verge and @TechCrunch: 🏙Active: (as LINK)⌲ Fort Lauderdale, FL⌲ Provo, UTReasonable chanc… |
+|Just favorited "DJ Craig Twitty's Friday Night House Party (5 June..." by @DJCraigTwitty on Mixcloud https://t.co/sVUtLnbvOm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Mizz_Ashya**  |
+| The most retweeted user is: **Craig_Hope_**  |
 | ------------- |
-| RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr |
+| RT @JulianStephen: Breonna Taylor’s case has been reopened. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
