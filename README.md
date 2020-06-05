@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Huey"**
+&#x1F34E; **TOPIC = "Columbus Twitter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @PunxsyBaseball Your welcome for that @darenbyers12 |
-| RT @StillDiggs: Huey would never have said any of this. 😂 |
-| RT @HeavenlyControl: Big Huey Energy https://t.co/6H08LIpJHd |
+| RT @MoorInformation: The Black aboriginal people were here in the Americas before Columbus. They were later reclassified as “negroes”, and… |
+| RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr |
+| RT @FrshWaters: if you know somebody that needs help on the westside of chicago cos the grocery stores got hit in yo area. if you can dona… |
 
-The most popular user is: **Huey_Leone**
-<div class="alert alert-block alert-danger"> RT @KingBraize: Sept 11th, I’m wearing a shirt that says “All Buildings Matter”</div>
+The most popular user is: **Mizz_Ashya**
+<div class="alert alert-block alert-danger"> RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **StillDiggs** |
-| #2 Most tweeted to  | **nayathevixen** |
-| #3 Most tweeted to  | **_Houston_Rocket** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.03%|
+| #1 Most tweeted to  | **greg_doucette** |
+| #2 Most tweeted to  | **BadMissB_Havior** |
+| #3 Most tweeted to  | **skaijackson** |
+| NewProfiles (less than 10 days) | 0.97%  |
+| Tweeters with < 10 followers  | 3.01%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Huey_Leone**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HUEY**  |
-| second  | **NEVER**  |
-| third  | **ANY** |
-| fourth  | **@STILLDIGGS:**  |
-| fifth  | **😂RT**  |
+| first  | **COLUMBUS**  |
+| second  | **SHOT**  |
+| third  | **OH:** |
+| fourth  | **BACK**  |
+| fifth  | **OFFICER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_Houston_Rocket: @StillDiggs The Real Huey https://t.co/m8365ZBSLp |
+|RT @MicromobilityCo: Cities reported on by @verge and @TechCrunch: 🏙Active: (as LINK)⌲ Fort Lauderdale, FL⌲ Provo, UTReasonable chanc… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Huey_Leone**  |
+| The most retweeted user is: **Mizz_Ashya**  |
 | ------------- |
-| RT @KingBraize: Sept 11th, I’m wearing a shirt that says “All Buildings Matter” |
+| RT @basquiat1998: Statue of Christopher Columbus in Boston https://t.co/dckRm5ASQr |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
