@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Craig"**
+&#x1F34E; **TOPIC = "#PublishingPaidMe"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #FeatureFriday: Meet Craig Abbott, our co-chair for Mentorship. He works tirelessly to build upon on our mentorship… https://t.co/4p0cf1toJc |
-| @Scarecr57045153 @MattHancock They are useless. They think they know best and not listening to anything scientists… https://t.co/t6UOhzgBJ4 |
-| Bitcoin Lies Continue as Craig Wright Testifies Using His iPhone Before It Was Released In 2007 https://t.co/mveOJY5BDn |
+| RT @LillyMSantiago: Something this hashtag has taught me:*white authors get major advances  deals off the bat*poc get paid SUBSTANTIALL… |
+| RT @marthawells1: Okay, #PublishingPaidMe 1992 Element of Fire $3500, 1993 City of Bones $6000, 1995 Death of the Necromancer $20,000, Whee… |
+| RT @sjaejones: Watching the #PublishingPaidMe hashtag and waiting for more white authors to jump in because y’all, it can’t be non-Black PO… |
 
-The most popular user is: **Craig_Hope_**
-<div class="alert alert-block alert-danger"> RT @JulianStephen: Breonna Taylor’s case has been reopened.</div>
+The most popular user is: **nicwiplit_r**
+<div class="alert alert-block alert-danger"> RT @ElleOnWords: Come on, white authors. Use the hashtag #PublishingPaidMe and share what you got for your books. Debuts as well. Let's go.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ReneeCarrollAZ** |
-| #2 Most tweeted to  | **GenOttr** |
-| #3 Most tweeted to  | **stulivingston** |
-| NewProfiles (less than 10 days) | 1.35%  |
-| Tweeters with < 10 followers  | 4.26%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **ElleOnWords** |
+| #2 Most tweeted to  | **NotLikeFreddy** |
+| #3 Most tweeted to  | **whimsicallyours** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 0.99%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Craig_Hope_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CRAIG**  |
-| second  | **"IM"**  |
-| third  | **LAPSE** |
-| fourth  | **STORYBOARD**  |
-| fifth  | **DURING**  |
+| first  | **PUBLISHINGPAIDME**  |
+| second  | **WHITE**  |
+| third  | **AUTHORS** |
+| fourth  | **HASHTAG**  |
+| fifth  | **BOOKS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Just favorited "DJ Craig Twitty's Friday Night House Party (5 June..." by @DJCraigTwitty on Mixcloud https://t.co/sVUtLnbvOm |
+|RT @_ElizabethMay: OK! I'll contribute to #PublishingPaidMe. Transparency is important!Debut YA trilogy: $75k ($25k per book)Adult Scifi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Craig_Hope_**  |
+| The most retweeted user is: **nicwiplit_r**  |
 | ------------- |
-| RT @JulianStephen: Breonna Taylor’s case has been reopened. |
+| RT @ElleOnWords: Come on, white authors. Use the hashtag #PublishingPaidMe and share what you got for your books. Debuts as well. Let's go.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
