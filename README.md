@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PublishingPaidMe"**
+&#x1F34E; **TOPIC = "Colin Powell"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LillyMSantiago: Something this hashtag has taught me:*white authors get major advances  deals off the bat*poc get paid SUBSTANTIALL… |
-| RT @marthawells1: Okay, #PublishingPaidMe 1992 Element of Fire $3500, 1993 City of Bones $6000, 1995 Death of the Necromancer $20,000, Whee… |
-| RT @sjaejones: Watching the #PublishingPaidMe hashtag and waiting for more white authors to jump in because y’all, it can’t be non-Black PO… |
+| are we.    .advancing? Beyoncé Bristol ChurchillColin Powell #DearClassOf2020 Edward Colston I AM QueenUnion |
+| RT @VicToensing: How duplicitous can Colin Powell be?He claims concern for Constitution under @realDonaldTrump. But no concern for what #Ob… |
+| RT @DanRather: What seems to me to be bigger news than Colin Powell’s endorsement of Joe Biden is the way he calls out Republican senators… |
 
-The most popular user is: **nicwiplit_r**
-<div class="alert alert-block alert-danger"> RT @ElleOnWords: Come on, white authors. Use the hashtag #PublishingPaidMe and share what you got for your books. Debuts as well. Let's go.…</div>
+The most popular user is: **JustisDA**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Colin Powell, a real stiff who was very responsible for getting us into the disastrous Middle East Wars, just announce…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ElleOnWords** |
-| #2 Most tweeted to  | **NotLikeFreddy** |
-| #3 Most tweeted to  | **whimsicallyours** |
-| NewProfiles (less than 10 days) | 0.25%  |
-| Tweeters with < 10 followers  | 0.99%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **robreiner** |
+| #3 Most tweeted to  | **RichardHaass** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 5.14%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nicwiplit_r**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PUBLISHINGPAIDME**  |
-| second  | **WHITE**  |
-| third  | **AUTHORS** |
-| fourth  | **HASHTAG**  |
-| fifth  | **BOOKS**  |
+| first  | **COLIN**  |
+| second  | **POWELL**  |
+| third  | **BIDEN** |
+| fourth  | **TRUMP**  |
+| fifth  | **VOTE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_ElizabethMay: OK! I'll contribute to #PublishingPaidMe. Transparency is important!Debut YA trilogy: $75k ($25k per book)Adult Scifi… |
+|RT @DanRather: What seems to me to be bigger news than Colin Powell’s endorsement of Joe Biden is the way he calls out Republican senators… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nicwiplit_r**  |
+| The most retweeted user is: **JustisDA**  |
 | ------------- |
-| RT @ElleOnWords: Come on, white authors. Use the hashtag #PublishingPaidMe and share what you got for your books. Debuts as well. Let's go.… |
+| RT @realDonaldTrump: Colin Powell, a real stiff who was very responsible for getting us into the disastrous Middle East Wars, just announce… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
