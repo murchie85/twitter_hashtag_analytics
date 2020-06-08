@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Colin Powell"**
+&#x1F34E; **TOPIC = "#InsecureHBO"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| are we.    .advancing? Beyoncé Bristol ChurchillColin Powell #DearClassOf2020 Edward Colston I AM QueenUnion |
-| RT @VicToensing: How duplicitous can Colin Powell be?He claims concern for Constitution under @realDonaldTrump. But no concern for what #Ob… |
-| RT @DanRather: What seems to me to be bigger news than Colin Powell’s endorsement of Joe Biden is the way he calls out Republican senators… |
+| Whoever’s working the music on the #InsecureHBO episodes is doing a damn good jobbbbb |
+| RT @insecurehbo: So close, yet so far.Thoughts on last night's #InsecureHBO? https://t.co/qUSfwV3UWd |
+| RT @KimmyLegalkd23: When Molly looked surprised that Issa didn't want to beg for friendship....... #InsecureHBO https://t.co/2v8q9ync9m |
 
-The most popular user is: **JustisDA**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Colin Powell, a real stiff who was very responsible for getting us into the disastrous Middle East Wars, just announce…</div>
+The most popular user is: **VdotDEUX**
+<div class="alert alert-block alert-danger"> RT @omega_eunice: Issa’s mom said Issa had her hand in too many pots and I felt that. No one talks about smart kids who have a lot of varyi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **robreiner** |
-| #3 Most tweeted to  | **RichardHaass** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 5.14%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Rakgaadi** |
+| #2 Most tweeted to  | **_mura713** |
+| #3 Most tweeted to  | **MyNewEssence96** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.18%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **JustisDA**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COLIN**  |
-| second  | **POWELL**  |
-| third  | **BIDEN** |
-| fourth  | **TRUMP**  |
-| fifth  | **VOTE**  |
+| first  | **INSECUREHBO**  |
+| second  | **MOLLY**  |
+| third  | **ISSA** |
+| fourth  | **INSECUREHBORT**  |
+| fifth  | **DON’T**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DanRather: What seems to me to be bigger news than Colin Powell’s endorsement of Joe Biden is the way he calls out Republican senators… |
+|Someone pulled a Molly on me a couple weeks ago and that shit hurted #InsecureHBO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JustisDA**  |
+| The most retweeted user is: **VdotDEUX**  |
 | ------------- |
-| RT @realDonaldTrump: Colin Powell, a real stiff who was very responsible for getting us into the disastrous Middle East Wars, just announce… |
+| RT @omega_eunice: Issa’s mom said Issa had her hand in too many pots and I felt that. No one talks about smart kids who have a lot of varyi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
