@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#InsecureHBO"**
+&#x1F34E; **TOPIC = "Little Britain"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Whoever’s working the music on the #InsecureHBO episodes is doing a damn good jobbbbb |
-| RT @insecurehbo: So close, yet so far.Thoughts on last night's #InsecureHBO? https://t.co/qUSfwV3UWd |
-| RT @KimmyLegalkd23: When Molly looked surprised that Issa didn't want to beg for friendship....... #InsecureHBO https://t.co/2v8q9ync9m |
+| RT @godblesstoto: How far do we go with this? The BBC broadcast Little Britain and sold it all over the world. Shut down the racist BBC. Im… |
+| RT @MartinDaubney: The censorship of comedy - a favourite hobby in Hitler’s Germany - continues 😩Little Britain removed from BBC iPlayer,… |
+| RT @andrew_graeme: Little Britain was crap. It was among the most unpleasant and bigoted mainstream TV shows. It's been nauseating seeing M… |
 
-The most popular user is: **VdotDEUX**
-<div class="alert alert-block alert-danger"> RT @omega_eunice: Issa’s mom said Issa had her hand in too many pots and I felt that. No one talks about smart kids who have a lot of varyi…</div>
+The most popular user is: **maureen_luggar**
+<div class="alert alert-block alert-danger"> RT @oflynnsocial: BBC News coverage tonight was little more than an extended promo for the demonstrators, full of heavy editorialising abou…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Rakgaadi** |
-| #2 Most tweeted to  | **_mura713** |
-| #3 Most tweeted to  | **MyNewEssence96** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 1.18%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **darrengrimes_** |
+| #2 Most tweeted to  | **PaulEmbery** |
+| #3 Most tweeted to  | **BBCNews** |
+| NewProfiles (less than 10 days) | 1.6%  |
+| Tweeters with < 10 followers  | 6.23%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **VdotDEUX**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INSECUREHBO**  |
-| second  | **MOLLY**  |
-| third  | **ISSA** |
-| fourth  | **INSECUREHBORT**  |
-| fifth  | **DON’T**  |
+| first  | **BRITAIN**  |
+| second  | **LITTLE**  |
+| third  | **BBC** |
+| fourth  | **NETFLIX**  |
+| fifth  | **REMOVED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Someone pulled a Molly on me a couple weeks ago and that shit hurted #InsecureHBO |
+|RT @darrengrimes_: The BBC, in deleting Little Britain, has implied that the millions of us that used to watch it are bigoted racists that… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **VdotDEUX**  |
+| The most retweeted user is: **maureen_luggar**  |
 | ------------- |
-| RT @omega_eunice: Issa’s mom said Issa had her hand in too many pots and I felt that. No one talks about smart kids who have a lot of varyi… |
+| RT @oflynnsocial: BBC News coverage tonight was little more than an extended promo for the demonstrators, full of heavy editorialising abou… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
