@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#dailybriefings"**
+&#x1F34E; **TOPIC = "Italian American"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @davemacladd: Chris Whitty at least giving Boris Johnson a sly kick in the goolies by naming a lack of testing as the worst mistake made… |
-| RT @ms_kitka: “We’re working with teachers” Spare us your platitudes. You couldn’t give a rat’s arse about teachers and are furious they ar… |
-| Pleased the scientists are not there but would be very pleased if the spoke out. Their reputations were in tatters… https://t.co/F2odr66oGL |
+| RT @renato_mariotti: Instead of Columbus, we should celebrate Enrico Fermi, an Italian-American who ushered in the nuclear age during the S… |
+| As a third-generation Italian-American, I have zero pride re Columbus. My family never held him up as a cultural ic… https://t.co/eB5eL9NCED |
+| Italian American friends (and I know a lot of you), please reach out to @NYGovCuomo and let him know a rapist, slav… https://t.co/43tLEI05N5 |
 
-The most popular user is: **ContentKudos**
-<div class="alert alert-block alert-danger"> RT @MikeDLondon: Prof Whitty has refused to agree to lower the #Covid_19 threat level - a precondition for lockdown measures being eased. M…</div>
+The most popular user is: **American_Stance**
+<div class="alert alert-block alert-danger"> RT @omgwanye: italian man lying on the floor unconscious while the police stand there and do nothing https://t.co/5HjroXwjcz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **davemacladd** |
-| #2 Most tweeted to  | **MikeDLondon** |
-| #3 Most tweeted to  | **BorisJohnson_MP** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 4.89%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **jazzedloon** |
+| #2 Most tweeted to  | **1followernodad** |
+| #3 Most tweeted to  | **NYGovCuomo** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 3.35%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ContentKudos**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAILYBRIEFINGS**  |
-| second  | **WHITTY**  |
-| third  | **BORIS** |
-| fourth  | **JOHNSON**  |
-| fifth  | **LOCKDOWN**  |
+| first  | **COLUMBUS**  |
+| second  | **ITALIAN**  |
+| third  | **ITALIAN-AMERICAN** |
+| fourth  | **AMERICAN**  |
+| fifth  | **CHRISTOPHER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (23.08%) & **NEGATIVELY-SUBJECTIVE** (30.77%) **OBJECTIVE** (46.15%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @davemacladd: Boris Johnson: "And the next slide please... this YouGov polling shows that I am the worst leader in the world to handle c… |
+|RT @ztsamudzi: If "Italian-American pride" is symbolized by representations of genocide, there can be absolutely no question of whether Ita… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ContentKudos**  |
+| The most retweeted user is: **American_Stance**  |
 | ------------- |
-| RT @MikeDLondon: Prof Whitty has refused to agree to lower the #Covid_19 threat level - a precondition for lockdown measures being eased. M… |
+| RT @omgwanye: italian man lying on the floor unconscious while the police stand there and do nothing https://t.co/5HjroXwjcz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
