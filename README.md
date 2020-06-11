@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Italian American"**
+&#x1F34E; **TOPIC = "Miles Morales"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @renato_mariotti: Instead of Columbus, we should celebrate Enrico Fermi, an Italian-American who ushered in the nuclear age during the S… |
-| As a third-generation Italian-American, I have zero pride re Columbus. My family never held him up as a cultural ic… https://t.co/eB5eL9NCED |
-| Italian American friends (and I know a lot of you), please reach out to @NYGovCuomo and let him know a rapist, slav… https://t.co/43tLEI05N5 |
+| RT @PlayStation: Announced today, Marvel’s Spider-Man Miles Morales is coming to #PS5 #BeGreater https://t.co/ERaEvB7X6A |
+| RT @directedbyrian: so i put what's up danger on the miles morales spider-man game footage https://t.co/rejNrSYpSo |
+| RT @PlayStation: Announced today, Marvel’s Spider-Man Miles Morales is coming to #PS5 #BeGreater https://t.co/ERaEvB7X6A |
 
-The most popular user is: **American_Stance**
-<div class="alert alert-block alert-danger"> RT @omgwanye: italian man lying on the floor unconscious while the police stand there and do nothing https://t.co/5HjroXwjcz</div>
+The most popular user is: **Cartoonico**
+<div class="alert alert-block alert-danger"> RT @dailymilesm: Miles is back in Miles Morales: Spider-Man #17! And I can't stress enough how much I love these first pages. https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jazzedloon** |
-| #2 Most tweeted to  | **1followernodad** |
-| #3 Most tweeted to  | **NYGovCuomo** |
+| #1 Most tweeted to  | **PlayStation** |
+| #2 Most tweeted to  | **Rendy_Jones** |
+| #3 Most tweeted to  | **directedbyrian** |
 | NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 3.35%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| Tweeters with < 10 followers  | 4.57%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **American_Stance**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COLUMBUS**  |
-| second  | **ITALIAN**  |
-| third  | **ITALIAN-AMERICAN** |
-| fourth  | **AMERICAN**  |
-| fifth  | **CHRISTOPHER**  |
+| first  | **MILES**  |
+| second  | **MORALES**  |
+| third  | **PS5** |
+| fourth  | **SPIDER-MAN**  |
+| fifth  | **COMING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ztsamudzi: If "Italian-American pride" is symbolized by representations of genocide, there can be absolutely no question of whether Ita… |
+|RT @directedbyrian: so i put what's up danger on the miles morales spider-man game footage https://t.co/rejNrSYpSo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **American_Stance**  |
+| The most retweeted user is: **Cartoonico**  |
 | ------------- |
-| RT @omgwanye: italian man lying on the floor unconscious while the police stand there and do nothing https://t.co/5HjroXwjcz |
+| RT @dailymilesm: Miles is back in Miles Morales: Spider-Man #17! And I can't stress enough how much I love these first pages. https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
