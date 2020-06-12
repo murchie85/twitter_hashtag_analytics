@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Miles Morales"**
+&#x1F34E; **TOPIC = "Breonna Taylor"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PlayStation: Announced today, Marvel’s Spider-Man Miles Morales is coming to #PS5 #BeGreater https://t.co/ERaEvB7X6A |
-| RT @directedbyrian: so i put what's up danger on the miles morales spider-man game footage https://t.co/rejNrSYpSo |
-| RT @PlayStation: Announced today, Marvel’s Spider-Man Miles Morales is coming to #PS5 #BeGreater https://t.co/ERaEvB7X6A |
+| RT @russdiemon: EVERYONE IN JAIL FOR SOME WEED NEEDS TO BE LET OUT AND THE COPS WHO KILLED BREONNA TAYLOR NEED TO BE LET IN TO JAIL |
+| RT @benyahr: I’m so proud to be part of the LGBT community.L - Let’s G - Get theB - Bastards who killed BreonnaT - Taylor arrested… |
+| RT @gingfreecssson: Thank God it’s:F - arrestR - theI - officersD - whoA - murderedY - BREONNA TAYLOR |
 
-The most popular user is: **Cartoonico**
-<div class="alert alert-block alert-danger"> RT @dailymilesm: Miles is back in Miles Morales: Spider-Man #17! And I can't stress enough how much I love these first pages. https://t.co/…</div>
+The most popular user is: **turbulentxash**
+<div class="alert alert-block alert-danger"> RT @JulianStephen: Breonna Taylor’s case has been reopened.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PlayStation** |
-| #2 Most tweeted to  | **Rendy_Jones** |
-| #3 Most tweeted to  | **directedbyrian** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 4.57%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **gingfreecssson** |
+| #2 Most tweeted to  | **theerkj** |
+| #3 Most tweeted to  | **benyahr** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.47%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Cartoonico**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MILES**  |
-| second  | **MORALES**  |
-| third  | **PS5** |
-| fourth  | **SPIDER-MAN**  |
-| fifth  | **COMING**  |
+| first  | **BREONNA**  |
+| second  | **ARREST**  |
+| third  | **TAYLOR** |
+| fourth  | **MURDERED**  |
+| fifth  | **COPS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @directedbyrian: so i put what's up danger on the miles morales spider-man game footage https://t.co/rejNrSYpSo |
+|RT @Victorie_____: Please don’t stop talking about Breonna Taylor until justice is served. They broke into her house with no warrant lookin… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Cartoonico**  |
+| The most retweeted user is: **turbulentxash**  |
 | ------------- |
-| RT @dailymilesm: Miles is back in Miles Morales: Spider-Man #17! And I can't stress enough how much I love these first pages. https://t.co/… |
+| RT @JulianStephen: Breonna Taylor’s case has been reopened. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
