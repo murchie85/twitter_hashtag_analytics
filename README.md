@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Breonna Taylor"**
+&#x1F34E; **TOPIC = "Ronaldo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @russdiemon: EVERYONE IN JAIL FOR SOME WEED NEEDS TO BE LET OUT AND THE COPS WHO KILLED BREONNA TAYLOR NEED TO BE LET IN TO JAIL |
-| RT @benyahr: I’m so proud to be part of the LGBT community.L - Let’s G - Get theB - Bastards who killed BreonnaT - Taylor arrested… |
-| RT @gingfreecssson: Thank God it’s:F - arrestR - theI - officersD - whoA - murderedY - BREONNA TAYLOR |
+| RT @AnaduAustin__: Hushpuppi arrested, Ronaldo escapes. White privilege. |
+| RT @totalCristiano: Cristiano Ronaldo’s goal in the first leg vs AC Milan takes Juventus to the Copa Italia final by the way. |
+| RT @TheEmmaGriffin: Ronaldo please stop!!!! |
 
-The most popular user is: **turbulentxash**
-<div class="alert alert-block alert-danger"> RT @JulianStephen: Breonna Taylor’s case has been reopened.</div>
+The most popular user is: **aleex_ronaldo**
+<div class="alert alert-block alert-danger"> RT @allthatnate_: some of you girls actually got good hearts and get treated so wrong and it’s sad</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **gingfreecssson** |
-| #2 Most tweeted to  | **theerkj** |
-| #3 Most tweeted to  | **benyahr** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.47%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **__Omoissy** |
+| #2 Most tweeted to  | **AnaduAustin__** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 1.13%  |
+| Tweeters with < 10 followers  | 1.91%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **turbulentxash**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BREONNA**  |
-| second  | **ARREST**  |
-| third  | **TAYLOR** |
-| fourth  | **MURDERED**  |
-| fifth  | **COPS**  |
+| first  | **RONALDO**  |
+| second  | **CRISTIANO**  |
+| third  | **PENALTY** |
+| fourth  | **MESSI**  |
+| fifth  | **MISSED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Victorie_____: Please don’t stop talking about Breonna Taylor until justice is served. They broke into her house with no warrant lookin… |
+|RT @Nappyblaze: Ronaldo has converted more Penalties than messi. Penaldo the GOAT 🐐 https://t.co/sa1OEpdpUC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **turbulentxash**  |
+| The most retweeted user is: **aleex_ronaldo**  |
 | ------------- |
-| RT @JulianStephen: Breonna Taylor’s case has been reopened. |
+| RT @allthatnate_: some of you girls actually got good hearts and get treated so wrong and it’s sad |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
