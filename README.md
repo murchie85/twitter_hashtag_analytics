@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ronaldo"**
+&#x1F34E; **TOPIC = "South Philly"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AnaduAustin__: Hushpuppi arrested, Ronaldo escapes. White privilege. |
-| RT @totalCristiano: Cristiano Ronaldo’s goal in the first leg vs AC Milan takes Juventus to the Copa Italia final by the way. |
-| RT @TheEmmaGriffin: Ronaldo please stop!!!! |
+| RT @UR_Ninja: Many people present at the statue who confronted our reporter accused him of being from out of town/not from South Philly and… |
+| RT @UR_Ninja: Correction: Ongoing vigilante incident in South Philly is located at Marconi Plaza https://t.co/iYe7Mw8AGZ |
+| RT @JackPosobiec: South Philly guys are defending the Christopher Columbus statue and just slashed the bike tires of an Antifa guy who was… |
 
-The most popular user is: **aleex_ronaldo**
-<div class="alert alert-block alert-danger"> RT @allthatnate_: some of you girls actually got good hearts and get treated so wrong and it’s sad</div>
+The most popular user is: **WeaponX_Philly**
+<div class="alert alert-block alert-danger"> RT @UR_Ninja: Racist vigilantes gathering with bats and guns at the statue of Christopher Columbus at Columbus Square in South Philadelphia…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **__Omoissy** |
-| #2 Most tweeted to  | **AnaduAustin__** |
-| #3 Most tweeted to  | **ESPNFC** |
-| NewProfiles (less than 10 days) | 1.13%  |
-| Tweeters with < 10 followers  | 1.91%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **UR_Ninja** |
+| #2 Most tweeted to  | **JackPosobiec** |
+| #3 Most tweeted to  | **dpinsen** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 3.11%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **aleex_ronaldo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RONALDO**  |
-| second  | **CRISTIANO**  |
-| third  | **PENALTY** |
-| fourth  | **MESSI**  |
-| fifth  | **MISSED**  |
+| first  | **PHILLY**  |
+| second  | **SOUTH**  |
+| third  | **COLUMBUS** |
+| fourth  | **STATUE**  |
+| fifth  | **DEFENDING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Nappyblaze: Ronaldo has converted more Penalties than messi. Penaldo the GOAT 🐐 https://t.co/sa1OEpdpUC |
+|RT @dpinsen: South Philly Italians defending their Columbus statue. https://t.co/6x6LMc4qK7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **aleex_ronaldo**  |
+| The most retweeted user is: **WeaponX_Philly**  |
 | ------------- |
-| RT @allthatnate_: some of you girls actually got good hearts and get treated so wrong and it’s sad |
+| RT @UR_Ninja: Racist vigilantes gathering with bats and guns at the statue of Christopher Columbus at Columbus Square in South Philadelphia… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
