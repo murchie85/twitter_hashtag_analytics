@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#JusticeForToyin"**
+&#x1F34E; **TOPIC = "DDoS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @shariauna_: Oluwatoyin “Toyin” SalauRest in Power Angel 💔 #JusticeForToyin after tweeting about her sexual assault she went missing fo… |
-| RT @murphgorod: #JusticeForToyin is trending for an American lass but still no #JusticeForEllieWilliams 😔someone in our own country |
-| RT @vivian_v_: To be brave enough to fight against the injustice towards the black community, especially men &amp; then fall victim to one of y… |
+| RT @YourAnonCentral: The source of the DDoS attack on the United States is currently unknown. We speculate it may be China as the situation… |
+| RT @YourAnonCentral: The source of the DDoS attack on the United States is currently unknown. We speculate it may be China as the situation… |
+| RT @Flleeppyy: People love anonymous yet they dont know what the fuck a DDoS attack issmh https://t.co/XHLPqA5rqm |
 
-The most popular user is: **blufacem**
-<div class="alert alert-block alert-danger"> RT @shariauna_: Oluwatoyin “Toyin” Salau
-Rest in Power Angel 💔 #JusticeForToyin after tweeting about her sexual assault she went missing fo…</div>
+The most popular user is: **doseof_tech**
+<div class="alert alert-block alert-danger"> RT @YourAnonCentral: The U.S. is currently under a major DDoS attack. https://t.co/7pmLpWUzUp https://t.co/W5giIA2Inc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **shariauna_** |
-| #2 Most tweeted to  | **pagetsmethyd** |
-| #3 Most tweeted to  | **musegold** |
-| NewProfiles (less than 10 days) | 0.43%  |
-| Tweeters with < 10 followers  | 2.6%|
+| #1 Most tweeted to  | **YourAnonCentral** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **tedlieu** |
+| NewProfiles (less than 10 days) | 0.83%  |
+| Tweeters with < 10 followers  | 5.56%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -40,28 +39,28 @@ Rest in Power Angel 💔 #JusticeForToyin after tweeting about her sexual assaul
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JUSTICEFORTOYIN**  |
-| second  | **OLUWATOYIN**  |
-| third  | **SALAU** |
-| fourth  | **ASSAULT**  |
-| fifth  | **SEXUAL**  |
+| first  | **DDOS**  |
+| second  | **ATTACK**  |
+| third  | **UNDER** |
+| fourth  | **MAJOR**  |
+| fifth  | **US**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (30.77%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @shariauna_: Oluwatoyin “Toyin” SalauRest in Power Angel 💔 #JusticeForToyin after tweeting about her sexual assault she went missing fo… |
+|RT @4everNeverTrump: With every major mobile carrier and ISP under attack from a massive DDoS today, let's all remember Trump got rid of th… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **blufacem**  |
+| The most retweeted user is: **doseof_tech**  |
 | ------------- |
-| RT @shariauna_: Oluwatoyin “Toyin” SalauRest in Power Angel 💔 #JusticeForToyin after tweeting about her sexual assault she went missing fo… |
+| RT @YourAnonCentral: The U.S. is currently under a major DDoS attack. https://t.co/7pmLpWUzUp https://t.co/W5giIA2Inc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
