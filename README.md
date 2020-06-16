@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Boogaloo"**
+&#x1F34E; **TOPIC = "Father's Day"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri… |
-| RT @mehdirhasan: I often share my articles on here and ask you to read them. But this article of mine, from last week, you really really ne… |
-| RT @gzornick: Hey @bennyjohnson I think you accidentally deleted your tweet with the armed Boogaloo boys but don't worry I saved it for you… |
+| @trillofthehills When is Father’s Day? |
+| RT @DonaldJTrumpJr: It’s unbelievable that it has already been five years since my father announced his intentions to run for President. Re… |
+| RT @2015shitpoaster: BLM is gonna try to cancel Father’s Day |
 
-The most popular user is: **KeelerSlappy**
-<div class="alert alert-block alert-danger"> RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri…</div>
+The most popular user is: **memoretyy**
+<div class="alert alert-block alert-danger"> RT @lutherxhughes: Casually came out to my dad. Said I was bringing my boyfriend over on Father’s Day bc I wanted him to meet him and he sa…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **passantino** |
-| #2 Most tweeted to  | **kylegriffin1** |
-| #3 Most tweeted to  | **oneunderscore__** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.92%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **DonaldJTrumpJr** |
+| #2 Most tweeted to  | **therealbigdon_** |
+| #3 Most tweeted to  | **Havaileyy** |
+| NewProfiles (less than 10 days) | 0.89%  |
+| Tweeters with < 10 followers  | 2.82%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **KeelerSlappy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOOGALOO**  |
-| second  | **TWO**  |
-| third  | **KILLED** |
-| fourth  | **ALLEGEDLY**  |
-| fifth  | **COPS**  |
+| first  | **DAY**  |
+| second  | **FATHER’S**  |
+| third  | **"FATHERS"** |
+| fourth  | **FATHER**  |
+| fifth  | **DAD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @oneunderscore__: This new indictment shows Boogaloo extremists plotted on Facebook to exploit Black Lives Matter protests to further th… |
+|RT @TheOgleCenter: NOW PLAYING free on Ogle Center Delivered: Father and son piano duo, RYAN &amp; RYAN, now through Father's Day at https://t.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KeelerSlappy**  |
+| The most retweeted user is: **memoretyy**  |
 | ------------- |
-| RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri… |
+| RT @lutherxhughes: Casually came out to my dad. Said I was bringing my boyfriend over on Father’s Day bc I wanted him to meet him and he sa… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
