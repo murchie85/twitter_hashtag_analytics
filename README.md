@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "DDoS"**
+&#x1F34E; **TOPIC = "Boogaloo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @YourAnonCentral: The source of the DDoS attack on the United States is currently unknown. We speculate it may be China as the situation… |
-| RT @YourAnonCentral: The source of the DDoS attack on the United States is currently unknown. We speculate it may be China as the situation… |
-| RT @Flleeppyy: People love anonymous yet they dont know what the fuck a DDoS attack issmh https://t.co/XHLPqA5rqm |
+| RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri… |
+| RT @mehdirhasan: I often share my articles on here and ask you to read them. But this article of mine, from last week, you really really ne… |
+| RT @gzornick: Hey @bennyjohnson I think you accidentally deleted your tweet with the armed Boogaloo boys but don't worry I saved it for you… |
 
-The most popular user is: **doseof_tech**
-<div class="alert alert-block alert-danger"> RT @YourAnonCentral: The U.S. is currently under a major DDoS attack. https://t.co/7pmLpWUzUp https://t.co/W5giIA2Inc</div>
+The most popular user is: **KeelerSlappy**
+<div class="alert alert-block alert-danger"> RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YourAnonCentral** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **tedlieu** |
-| NewProfiles (less than 10 days) | 0.83%  |
-| Tweeters with < 10 followers  | 5.56%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **passantino** |
+| #2 Most tweeted to  | **kylegriffin1** |
+| #3 Most tweeted to  | **oneunderscore__** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.92%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **doseof_tech**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DDOS**  |
-| second  | **ATTACK**  |
-| third  | **UNDER** |
-| fourth  | **MAJOR**  |
-| fifth  | **US**  |
+| first  | **BOOGALOO**  |
+| second  | **TWO**  |
+| third  | **KILLED** |
+| fourth  | **ALLEGEDLY**  |
+| fifth  | **COPS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @4everNeverTrump: With every major mobile carrier and ISP under attack from a massive DDoS today, let's all remember Trump got rid of th… |
+|RT @oneunderscore__: This new indictment shows Boogaloo extremists plotted on Facebook to exploit Black Lives Matter protests to further th… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **doseof_tech**  |
+| The most retweeted user is: **KeelerSlappy**  |
 | ------------- |
-| RT @YourAnonCentral: The U.S. is currently under a major DDoS attack. https://t.co/7pmLpWUzUp https://t.co/W5giIA2Inc |
+| RT @passantino: US attorney announces the gunman who allegedly killed two law enforcement officers in California was associated with the ri… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
