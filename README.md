@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Father's Day"**
+&#x1F34E; **TOPIC = "David Luiz"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @trillofthehills When is Father’s Day? |
-| RT @DonaldJTrumpJr: It’s unbelievable that it has already been five years since my father announced his intentions to run for President. Re… |
-| RT @2015shitpoaster: BLM is gonna try to cancel Father’s Day |
+| RT @VictorNewt: Man City players when they saw David Luiz in Arsenal's defence #MCIARS https://t.co/KOl8bEkaXd |
+| RT @FootyHumour: David Luiz arriving to Arsenal’s training session tomorrow morning... https://t.co/2UzdIcpwbp |
+| Breaking News: Accoring to Sky Brighton have submitted an appeal for David Luiz’s Red card |
 
-The most popular user is: **memoretyy**
-<div class="alert alert-block alert-danger"> RT @lutherxhughes: Casually came out to my dad. Said I was bringing my boyfriend over on Father’s Day bc I wanted him to meet him and he sa…</div>
+The most popular user is: **8Nosar**
+<div class="alert alert-block alert-danger"> RT @ChelseaFC: We have reached an agreement for the permanent transfer of David Luiz to Arsenal.
+
+Thank you for your service and good luck,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DonaldJTrumpJr** |
-| #2 Most tweeted to  | **therealbigdon_** |
-| #3 Most tweeted to  | **Havaileyy** |
-| NewProfiles (less than 10 days) | 0.89%  |
-| Tweeters with < 10 followers  | 2.82%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **FootyHumour** |
+| #2 Most tweeted to  | **nunumojeks** |
+| #3 Most tweeted to  | **SkySportsPL** |
+| NewProfiles (less than 10 days) | 0.9%  |
+| Tweeters with < 10 followers  | 2.51%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **memoretyy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAY**  |
-| second  | **FATHER’S**  |
-| third  | **"FATHERS"** |
-| fourth  | **FATHER**  |
-| fifth  | **DAD**  |
+| first  | **DAVID**  |
+| second  | **LUIZ**  |
+| third  | **ARSENAL** |
+| fourth  | **@FOOTYHUMOUR:**  |
+| fifth  | **TRAINING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheOgleCenter: NOW PLAYING free on Ogle Center Delivered: Father and son piano duo, RYAN &amp; RYAN, now through Father's Day at https://t.… |
+|David Luiz is a professional YouTuber mos and football is just a hobby. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **memoretyy**  |
+| The most retweeted user is: **8Nosar**  |
 | ------------- |
-| RT @lutherxhughes: Casually came out to my dad. Said I was bringing my boyfriend over on Father’s Day bc I wanted him to meet him and he sa… |
+| RT @ChelseaFC: We have reached an agreement for the permanent transfer of David Luiz to Arsenal.Thank you for your service and good luck,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
