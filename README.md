@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#freecodefridaycontest"**
+&#x1F34E; **TOPIC = "#cldcriticalconvo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @majornelson #freecodefridaycontest my favorite genre would have to be horror/ shooter. Like I’m a big fan of resid… https://t.co/zG856b7Jk3 |
-| RT @majornelson: #freecodefridaycontest (Thursday Edition) time. Read this and you could win a code for Disintegration on Xbox One. Good lu… |
-| @majornelson #FreeCodeFridayContest I usually make a few characters.  Each is given a name to show what kind of bu… https://t.co/kyul0ivy2b |
+| You develop ally relationships by working on projects that build trust first. It takes time. It takes work. ~ Profe… https://t.co/EzcCzL1ltk |
+| @CLD_Leadership Webinar - Addressing anti-Asian Racism During the Pandemic. #CLDCriticalConvo - Structural and Syst… https://t.co/kTbCWsrMvA |
+| Dr. Henry Yu: How can racialized groups work together? #CLDCriticalConvo @DrAnnLopez @CLD_Leadership@OISEUofT @ONeducation |
 
-The most popular user is: **bonita676**
-<div class="alert alert-block alert-danger"> RT @QBlueSkyQ: @GenFlynn @POTUS @SidneyReilly17 @BarbaraRedgate @SidneyPowell1 @Johnheretohelp Barr Went to Rome to Hear a Secret Tape from…</div>
+The most popular user is: **PatelSheilp**
+<div class="alert alert-block alert-danger"> RT @DrAnnLopez: Anti-Black racism, anti-Asian racism, anti-Indigenous racism, &amp; all such named forms of racism are manifestations of white…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **RatalaikaGames** |
-| #3 Most tweeted to  | **TGGJustin** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 16.3%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **CLD_Leadership** |
+| #2 Most tweeted to  | **MmeThakor** |
+| #3 Most tweeted to  | **DrAnnLopez** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 3.08%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **bonita676**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FREECODEFRIDAYCONTEST**  |
-| second  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
-| third  | **WIN** |
-| fourth  | **TIME**  |
-| fifth  | **GOOD**  |
+| first  | **RACISM**  |
+| second  | **DR**  |
+| third  | **@MMETHAKOR:** |
+| fourth  | **ANTI-ASIAN**  |
+| fifth  | **@CLD_LEADERSHIP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (57.14%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Sanchenski: #FreeCodeFridayContest #steam #giveaway! RT AND FOLLOW for a chance to win XCOM 2 and a couple DLC! Stay busy and stay safe… |
+|RT @MmeThakor: Dr. Park:#CLDCriticalConvo @CLD_Leadership @DrAnnLopez @fraukang @YvonneGTChan @frhos1 @GraceGarlow8 @anotheramyfung @proj… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bonita676**  |
+| The most retweeted user is: **PatelSheilp**  |
 | ------------- |
-| RT @QBlueSkyQ: @GenFlynn @POTUS @SidneyReilly17 @BarbaraRedgate @SidneyPowell1 @Johnheretohelp Barr Went to Rome to Hear a Secret Tape from… |
+| RT @DrAnnLopez: Anti-Black racism, anti-Asian racism, anti-Indigenous racism, &amp; all such named forms of racism are manifestations of white… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
