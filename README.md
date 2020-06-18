@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "David Luiz"**
+&#x1F34E; **TOPIC = "#freecodefridaycontest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @VictorNewt: Man City players when they saw David Luiz in Arsenal's defence #MCIARS https://t.co/KOl8bEkaXd |
-| RT @FootyHumour: David Luiz arriving to Arsenal’s training session tomorrow morning... https://t.co/2UzdIcpwbp |
-| Breaking News: Accoring to Sky Brighton have submitted an appeal for David Luiz’s Red card |
+| @majornelson #freecodefridaycontest my favorite genre would have to be horror/ shooter. Like I’m a big fan of resid… https://t.co/zG856b7Jk3 |
+| RT @majornelson: #freecodefridaycontest (Thursday Edition) time. Read this and you could win a code for Disintegration on Xbox One. Good lu… |
+| @majornelson #FreeCodeFridayContest I usually make a few characters.  Each is given a name to show what kind of bu… https://t.co/kyul0ivy2b |
 
-The most popular user is: **8Nosar**
-<div class="alert alert-block alert-danger"> RT @ChelseaFC: We have reached an agreement for the permanent transfer of David Luiz to Arsenal.
-
-Thank you for your service and good luck,…</div>
+The most popular user is: **bonita676**
+<div class="alert alert-block alert-danger"> RT @QBlueSkyQ: @GenFlynn @POTUS @SidneyReilly17 @BarbaraRedgate @SidneyPowell1 @Johnheretohelp Barr Went to Rome to Hear a Secret Tape from…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FootyHumour** |
-| #2 Most tweeted to  | **nunumojeks** |
-| #3 Most tweeted to  | **SkySportsPL** |
-| NewProfiles (less than 10 days) | 0.9%  |
-| Tweeters with < 10 followers  | 2.51%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **RatalaikaGames** |
+| #3 Most tweeted to  | **TGGJustin** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 16.3%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -41,28 +39,28 @@ Thank you for your service and good luck,…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAVID**  |
-| second  | **LUIZ**  |
-| third  | **ARSENAL** |
-| fourth  | **@FOOTYHUMOUR:**  |
-| fifth  | **TRAINING**  |
+| first  | **FREECODEFRIDAYCONTEST**  |
+| second  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| third  | **WIN** |
+| fourth  | **TIME**  |
+| fifth  | **GOOD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|David Luiz is a professional YouTuber mos and football is just a hobby. |
+|RT @Sanchenski: #FreeCodeFridayContest #steam #giveaway! RT AND FOLLOW for a chance to win XCOM 2 and a couple DLC! Stay busy and stay safe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **8Nosar**  |
+| The most retweeted user is: **bonita676**  |
 | ------------- |
-| RT @ChelseaFC: We have reached an agreement for the permanent transfer of David Luiz to Arsenal.Thank you for your service and good luck,… |
+| RT @QBlueSkyQ: @GenFlynn @POTUS @SidneyReilly17 @BarbaraRedgate @SidneyPowell1 @Johnheretohelp Barr Went to Rome to Hear a Secret Tape from… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
