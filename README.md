@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Maguire"**
+&#x1F34E; **TOPIC = "#TOTMNU"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BeWarmers: Manchester United looking for the receipt for Harry Maguire #TOTMUN https://t.co/5uNyJsnegd |
-| RT @SoccerAM: "Maguire. De Gea. I wouldn't even let them on the bus after the match. Get a taxi back to Manchester!" 😂Safe to say that Ro… |
-| RT @gyaigyimii: Maguire is £80 million |
+| RT @ManLikeIcey: MANCHESTED UNITED NEW MOTTO: IN PENALTY WE TRUST 😂😂😂 #TOTMNU |
+| Exclusive image of Bruno Fernandes against Tottenham#GGMU #COYS #manutd #TOTMNU #TOTMAN https://t.co/Knb2Mbb0j1 |
+| Paul Pogba is different class, I won’t hear any different. The difference the second he walked on the pitch is staggering #MUFC #TOTMNU |
 
-The most popular user is: **Tobi_Maguire**
-<div class="alert alert-block alert-danger"> RT @ayjaybee1227: Everyone is saying that we’re just now getting a black bachelor like we didn’t tune into this every week back in 2006 😂😂😂…</div>
+The most popular user is: **utd_jas**
+<div class="alert alert-block alert-danger"> RT @iam_wilsons: Twitter is sweet when Manchester United fans follow each other ❤❤
+
+Retweet &amp; follow everyone who likes this post let's con…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SkySportsPL** |
-| #2 Most tweeted to  | **SkySports** |
-| #3 Most tweeted to  | **SoccerAM** |
-| NewProfiles (less than 10 days) | 0.65%  |
-| Tweeters with < 10 followers  | 1.91%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **iam_wilsons** |
+| #2 Most tweeted to  | **ManUtd** |
+| #3 Most tweeted to  | **meseemajaswal** |
+| NewProfiles (less than 10 days) | 1.13%  |
+| Tweeters with < 10 followers  | 1.95%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Tobi_Maguire**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MAGUIRE**  |
-| second  | **DE**  |
-| third  | **ROY** |
-| fourth  | **HARRY**  |
-| fifth  | **KEANE**  |
+| first  | **TOTMNU**  |
+| second  | **UNITED**  |
+| third  | **POGBA** |
+| fourth  | **TOTMNURT**  |
+| fifth  | **FOLLOW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PatohShanqueels: Maguire taking this Black lives matter campaign too far he ain't even want to stop a black player on a run |
+|Shouldn't Bruno be booked for that shit dive #TOTMNU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Tobi_Maguire**  |
+| The most retweeted user is: **utd_jas**  |
 | ------------- |
-| RT @ayjaybee1227: Everyone is saying that we’re just now getting a black bachelor like we didn’t tune into this every week back in 2006 😂😂😂… |
+| RT @iam_wilsons: Twitter is sweet when Manchester United fans follow each other ❤❤Retweet &amp; follow everyone who likes this post let's con… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
