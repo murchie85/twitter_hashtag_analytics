@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#cldcriticalconvo"**
+&#x1F34E; **TOPIC = "Maguire"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| You develop ally relationships by working on projects that build trust first. It takes time. It takes work. ~ Profe… https://t.co/EzcCzL1ltk |
-| @CLD_Leadership Webinar - Addressing anti-Asian Racism During the Pandemic. #CLDCriticalConvo - Structural and Syst… https://t.co/kTbCWsrMvA |
-| Dr. Henry Yu: How can racialized groups work together? #CLDCriticalConvo @DrAnnLopez @CLD_Leadership@OISEUofT @ONeducation |
+| RT @BeWarmers: Manchester United looking for the receipt for Harry Maguire #TOTMUN https://t.co/5uNyJsnegd |
+| RT @SoccerAM: "Maguire. De Gea. I wouldn't even let them on the bus after the match. Get a taxi back to Manchester!" 😂Safe to say that Ro… |
+| RT @gyaigyimii: Maguire is £80 million |
 
-The most popular user is: **PatelSheilp**
-<div class="alert alert-block alert-danger"> RT @DrAnnLopez: Anti-Black racism, anti-Asian racism, anti-Indigenous racism, &amp; all such named forms of racism are manifestations of white…</div>
+The most popular user is: **Tobi_Maguire**
+<div class="alert alert-block alert-danger"> RT @ayjaybee1227: Everyone is saying that we’re just now getting a black bachelor like we didn’t tune into this every week back in 2006 😂😂😂…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CLD_Leadership** |
-| #2 Most tweeted to  | **MmeThakor** |
-| #3 Most tweeted to  | **DrAnnLopez** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SkySportsPL** |
+| #2 Most tweeted to  | **SkySports** |
+| #3 Most tweeted to  | **SoccerAM** |
+| NewProfiles (less than 10 days) | 0.65%  |
+| Tweeters with < 10 followers  | 1.91%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **PatelSheilp**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RACISM**  |
-| second  | **DR**  |
-| third  | **@MMETHAKOR:** |
-| fourth  | **ANTI-ASIAN**  |
-| fifth  | **@CLD_LEADERSHIP**  |
+| first  | **MAGUIRE**  |
+| second  | **DE**  |
+| third  | **ROY** |
+| fourth  | **HARRY**  |
+| fifth  | **KEANE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MmeThakor: Dr. Park:#CLDCriticalConvo @CLD_Leadership @DrAnnLopez @fraukang @YvonneGTChan @frhos1 @GraceGarlow8 @anotheramyfung @proj… |
+|RT @PatohShanqueels: Maguire taking this Black lives matter campaign too far he ain't even want to stop a black player on a run |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PatelSheilp**  |
+| The most retweeted user is: **Tobi_Maguire**  |
 | ------------- |
-| RT @DrAnnLopez: Anti-Black racism, anti-Asian racism, anti-Indigenous racism, &amp; all such named forms of racism are manifestations of white… |
+| RT @ayjaybee1227: Everyone is saying that we’re just now getting a black bachelor like we didn’t tune into this every week back in 2006 😂😂😂… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
