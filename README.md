@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BOUCRY"**
+&#x1F34E; **TOPIC = "Tiz the Law"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I watching this game and one player snorted snot out of his nose and another spat twice. They shouldn’t be aloud to do that. #BOUCRY |
-| RT @Dave_Winbod: Lovely goal. Oh football, I've missed you ❤💙 #BOUCRY |
-| RT @CPFC: COME ON YOU PALACE#CPFC | #BOUCRY |
+| Ironic on the day of the SDNY kerfuffle, a horse named Tiz the Law wins at Belmont.#BelmontStakes |
+| Tiz the Law whooped that ass!! #Belmont |
+| RT @BloodHorse: Tiz the Law Deserving Favorite in Belmont Stakes https://t.co/mcEIS7LOLq @BH_FAngst #BHDaily https://t.co/7m5IZttV6C |
 
-The most popular user is: **zdeldeul**
-<div class="alert alert-block alert-danger"> RT @CPFC: COME ON YOU PALACE
-
-#CPFC | #BOUCRY</div>
+The most popular user is: **tiz_here**
+<div class="alert alert-block alert-danger"> RT @NPR: BREAKING: The Supreme Court has delivered a historic victory for LGBTQ people — ruling that the federal law that bars sex discrimi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CPFC** |
-| #2 Most tweeted to  | **premierleague** |
-| #3 Most tweeted to  | **afcbournemouth** |
-| NewProfiles (less than 10 days) | 1.32%  |
-| Tweeters with < 10 followers  | 2.51%|
-| Tweeters with > 1000000 followers  | 1.32%  |
+| #1 Most tweeted to  | **BelmontStakes** |
+| #2 Most tweeted to  | **jockeyfranco** |
+| #3 Most tweeted to  | **NBCSports** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 1.76%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **zdeldeul**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOUCRY**  |
-| second  | **PALACE**  |
-| third  | **CPFC** |
-| fourth  | **@CPFC:**  |
-| fifth  | **BOURNEMOUTH**  |
+| first  | **LAW**  |
+| second  | **TIZ**  |
+| third  | **BELMONT** |
+| fourth  | **STAKES**  |
+| fifth  | **WIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @premierleague: That 𝙨𝙘𝙤𝙧𝙚𝙙-𝙖-𝙘𝙤𝙧𝙠𝙚𝙧 feeling 🙌#BOUCRY • @CPFC https://t.co/4rYT2MG8kt |
+|Tiz the Law wins the Belmont Stakes. Lessons in that for Trump and Barr. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **zdeldeul**  |
+| The most retweeted user is: **tiz_here**  |
 | ------------- |
-| RT @CPFC: COME ON YOU PALACE#CPFC | #BOUCRY |
+| RT @NPR: BREAKING: The Supreme Court has delivered a historic victory for LGBTQ people — ruling that the federal law that bars sex discrimi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
