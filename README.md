@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tiz the Law"**
+&#x1F34E; **TOPIC = "Lovren"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Ironic on the day of the SDNY kerfuffle, a horse named Tiz the Law wins at Belmont.#BelmontStakes |
-| Tiz the Law whooped that ass!! #Belmont |
-| RT @BloodHorse: Tiz the Law Deserving Favorite in Belmont Stakes https://t.co/mcEIS7LOLq @BH_FAngst #BHDaily https://t.co/7m5IZttV6C |
+| Ah I’ll take the 1pt But Jesus seeing Lovren unzipping the top gave me palpitations 😰😰YNWA |
+| Klopps subs really baffles me don’t wanna see lovren in a red shirt again tbh |
+| RT @LFCLaurie: Lovren comes on, and Everton are taking control.Coincidence? I think not.Get him out my club now. |
 
-The most popular user is: **tiz_here**
-<div class="alert alert-block alert-danger"> RT @NPR: BREAKING: The Supreme Court has delivered a historic victory for LGBTQ people — ruling that the federal law that bars sex discrimi…</div>
+The most popular user is: **AKC1699**
+<div class="alert alert-block alert-danger"> RT @Saint_Grobian: I'm not a tactics expert, but I think there is currently too much space between Lovren and the bench.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BelmontStakes** |
-| #2 Most tweeted to  | **jockeyfranco** |
-| #3 Most tweeted to  | **NBCSports** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 1.76%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **chiIdishsadbino** |
+| #2 Most tweeted to  | **DaveOCKOP** |
+| #3 Most tweeted to  | **JamesPearceLFC** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 1.81%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **tiz_here**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LAW**  |
-| second  | **TIZ**  |
-| third  | **BELMONT** |
-| fourth  | **STAKES**  |
-| fifth  | **WIN**  |
+| first  | **LOVREN**  |
+| second  | **LUIZ**  |
+| third  | **PLAY** |
+| fourth  | **EVERTON**  |
+| fifth  | **DAVID**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Tiz the Law wins the Belmont Stakes. Lessons in that for Trump and Barr. |
+|Am I really seeing Lovren in midfield ??? Someone needs to run up on Klopp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tiz_here**  |
+| The most retweeted user is: **AKC1699**  |
 | ------------- |
-| RT @NPR: BREAKING: The Supreme Court has delivered a historic victory for LGBTQ people — ruling that the federal law that bars sex discrimi… |
+| RT @Saint_Grobian: I'm not a tactics expert, but I think there is currently too much space between Lovren and the bench. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
