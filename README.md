@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lovren"**
+&#x1F34E; **TOPIC = "Pizza Hut"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Ah I’ll take the 1pt But Jesus seeing Lovren unzipping the top gave me palpitations 😰😰YNWA |
-| Klopps subs really baffles me don’t wanna see lovren in a red shirt again tbh |
-| RT @LFCLaurie: Lovren comes on, and Everton are taking control.Coincidence? I think not.Get him out my club now. |
+| RT @LeeTRBL: Pizza Hut in-dining experience in the 90s was undefeated |
+| RT @Super70sSports: Remember when Pizza Hut pan pizzas were basically a goddamn culinary delicacy? They’d bring them out in a real fucking… |
+| RT @LeeTRBL: Pizza Hut in-dining experience in the 90s was undefeated |
 
-The most popular user is: **AKC1699**
-<div class="alert alert-block alert-danger"> RT @Saint_Grobian: I'm not a tactics expert, but I think there is currently too much space between Lovren and the bench.</div>
+The most popular user is: **theyloveGABBY**
+<div class="alert alert-block alert-danger"> RT @BillyBobSanderz: So here’s a list of companies supporting Trump’s re-election: 
+- Bang
+- inn n out 
+- chick fil a
+- Taco Bell
+- McDonal…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **chiIdishsadbino** |
-| #2 Most tweeted to  | **DaveOCKOP** |
-| #3 Most tweeted to  | **JamesPearceLFC** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 1.81%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Super70sSports** |
+| #2 Most tweeted to  | **LeeTRBL** |
+| #3 Most tweeted to  | **WhoBuiltTheArk_** |
+| NewProfiles (less than 10 days) | 0.29%  |
+| Tweeters with < 10 followers  | 2.1%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +44,28 @@ The most popular user is: **AKC1699**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LOVREN**  |
-| second  | **LUIZ**  |
-| third  | **PLAY** |
-| fourth  | **EVERTON**  |
-| fifth  | **DAVID**  |
+| first  | **PIZZA**  |
+| second  | **HUT**  |
+| third  | **90S** |
+| fourth  | **REMEMBER**  |
+| fifth  | **PAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Am I really seeing Lovren in midfield ??? Someone needs to run up on Klopp |
+|This is a very sweet story that confirms a theory I had as a kid about how you could scam that Pizza Hut reading pr… https://t.co/BKKMBasE10 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AKC1699**  |
+| The most retweeted user is: **theyloveGABBY**  |
 | ------------- |
-| RT @Saint_Grobian: I'm not a tactics expert, but I think there is currently too much space between Lovren and the bench. |
+| RT @BillyBobSanderz: So here’s a list of companies supporting Trump’s re-election: - Bang- inn n out - chick fil a- Taco Bell- McDonal… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
