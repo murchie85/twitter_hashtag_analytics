@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pizza Hut"**
+&#x1F34E; **TOPIC = "#WWDC20"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LeeTRBL: Pizza Hut in-dining experience in the 90s was undefeated |
-| RT @Super70sSports: Remember when Pizza Hut pan pizzas were basically a goddamn culinary delicacy? They’d bring them out in a real fucking… |
-| RT @LeeTRBL: Pizza Hut in-dining experience in the 90s was undefeated |
+| RT @krstnfx: Look at all these awesome Apple women engineers in the keynote! 🔥🔥🔥 #WWDC20 |
+| RT @CNBC: Future Macs will use Apple-designed chips, moving away from Intel chips, @CNBCJosh reports. #WWDC20 https://t.co/Woth1pqo0u https… |
+| Can Apple bring back the little magnifying glass used when editing messages &amp; notes? #WWDC20 |
 
-The most popular user is: **theyloveGABBY**
-<div class="alert alert-block alert-danger"> RT @BillyBobSanderz: So here’s a list of companies supporting Trump’s re-election: 
-- Bang
-- inn n out 
-- chick fil a
-- Taco Bell
-- McDonal…</div>
+The most popular user is: **truth0035**
+<div class="alert alert-block alert-danger"> RT @tim_cook: Good morning developers! See you soon! #WWDC20 https://t.co/7HgxrXucwM</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Super70sSports** |
-| #2 Most tweeted to  | **LeeTRBL** |
-| #3 Most tweeted to  | **WhoBuiltTheArk_** |
-| NewProfiles (less than 10 days) | 0.29%  |
-| Tweeters with < 10 followers  | 2.1%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Apple** |
+| #2 Most tweeted to  | **CNET** |
+| #3 Most tweeted to  | **AppleScoop** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 4.97%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -44,28 +39,28 @@ The most popular user is: **theyloveGABBY**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PIZZA**  |
-| second  | **HUT**  |
-| third  | **90S** |
-| fourth  | **REMEMBER**  |
-| fifth  | **PAN**  |
+| first  | **WWDC20**  |
+| second  | **APPLE**  |
+| third  | **IOS** |
+| fourth  | **NEW**  |
+| fifth  | **14**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|This is a very sweet story that confirms a theory I had as a kid about how you could scam that Pizza Hut reading pr… https://t.co/BKKMBasE10 |
+|RT @sunil_hebbar: The greatest surprise of #WWDC20 has to be AirPods Pro + Spatial Audio. https://t.co/0zAGDfGKIm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **theyloveGABBY**  |
+| The most retweeted user is: **truth0035**  |
 | ------------- |
-| RT @BillyBobSanderz: So here’s a list of companies supporting Trump’s re-election: - Bang- inn n out - chick fil a- Taco Bell- McDonal… |
+| RT @tim_cook: Good morning developers! See you soon! #WWDC20 https://t.co/7HgxrXucwM |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
