@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WWDC20"**
+&#x1F34E; **TOPIC = "Joel Schumacher"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @krstnfx: Look at all these awesome Apple women engineers in the keynote! 🔥🔥🔥 #WWDC20 |
-| RT @CNBC: Future Macs will use Apple-designed chips, moving away from Intel chips, @CNBCJosh reports. #WWDC20 https://t.co/Woth1pqo0u https… |
-| Can Apple bring back the little magnifying glass used when editing messages &amp; notes? #WWDC20 |
+| Veteran director Joel Schumacher has died at age 80 https://t.co/0WDwyShPmc |
+| Joel Schumacher, director of ‘St. Elmo’s Fire,’ dies at 80 https://t.co/LddtHLR9GM |
+| RT @TheManish89: Joel Schumacher put Nicole Kidman and Uma Thurman in Batman movies; his contribution to queer cinema is significant especi… |
 
-The most popular user is: **truth0035**
-<div class="alert alert-block alert-danger"> RT @tim_cook: Good morning developers! See you soon! #WWDC20 https://t.co/7HgxrXucwM</div>
+The most popular user is: **TheGreen_Indian**
+<div class="alert alert-block alert-danger"> RT @Variety: BREAKING: Joel Schumacher, director of Batman films, dies at 80 https://t.co/R8cdzg7Q5k</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Apple** |
-| #2 Most tweeted to  | **CNET** |
-| #3 Most tweeted to  | **AppleScoop** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 4.97%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **yannhatchuel** |
+| #2 Most tweeted to  | **Variety** |
+| #3 Most tweeted to  | **JimCarrey** |
+| NewProfiles (less than 10 days) | 0.33%  |
+| Tweeters with < 10 followers  | 2.38%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **truth0035**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WWDC20**  |
-| second  | **APPLE**  |
-| third  | **IOS** |
-| fourth  | **NEW**  |
-| fifth  | **14**  |
+| first  | **JOEL**  |
+| second  | **SCHUMACHER**  |
+| third  | **BATMAN** |
+| fourth  | **DIRECTOR**  |
+| fifth  | **FILMS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @sunil_hebbar: The greatest surprise of #WWDC20 has to be AirPods Pro + Spatial Audio. https://t.co/0zAGDfGKIm |
+|RT @retrorambleblog: RIP #JoelSchumacher. A talented, brutally honest and creative Hollywood director who gave us The Lost Boys, Flatliners… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **truth0035**  |
+| The most retweeted user is: **TheGreen_Indian**  |
 | ------------- |
-| RT @tim_cook: Good morning developers! See you soon! #WWDC20 https://t.co/7HgxrXucwM |
+| RT @Variety: BREAKING: Joel Schumacher, director of Batman films, dies at 80 https://t.co/R8cdzg7Q5k |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
