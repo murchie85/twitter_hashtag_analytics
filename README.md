@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Joel Schumacher"**
+&#x1F34E; **TOPIC = "Bubba Wallace"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Veteran director Joel Schumacher has died at age 80 https://t.co/0WDwyShPmc |
-| Joel Schumacher, director of ‘St. Elmo’s Fire,’ dies at 80 https://t.co/LddtHLR9GM |
-| RT @TheManish89: Joel Schumacher put Nicole Kidman and Uma Thurman in Batman movies; his contribution to queer cinema is significant especi… |
+| RT @maggymerms: For anyone who’s a tad confused. Bubba Wallace is the ONLY black nascar driver &amp; YESTERDAY found a noose in his teams gara… |
+| RT @Inevitable_ET: Bubba Wallace hoax getting blown up???https://t.co/ayXMmUwRyF https://t.co/eTF344mmVL |
+| RT @freeblackgirl: Me watching Nascar to support Bubba Wallace, who I just learned existed last week. https://t.co/PY9WnrVV6m |
 
-The most popular user is: **TheGreen_Indian**
-<div class="alert alert-block alert-danger"> RT @Variety: BREAKING: Joel Schumacher, director of Batman films, dies at 80 https://t.co/R8cdzg7Q5k</div>
+The most popular user is: **sillyman40**
+<div class="alert alert-block alert-danger"> RT @MasterTes: NASCAR has done more to support Bubba Wallace in the last 48 hours than the NFL has done to support Colin Kaepernick in 4 ye…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **yannhatchuel** |
-| #2 Most tweeted to  | **Variety** |
-| #3 Most tweeted to  | **JimCarrey** |
-| NewProfiles (less than 10 days) | 0.33%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **MasterTes** |
+| #2 Most tweeted to  | **freeblackgirl** |
+| #3 Most tweeted to  | **NASCAR** |
+| NewProfiles (less than 10 days) | 0.31%  |
+| Tweeters with < 10 followers  | 2.13%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **TheGreen_Indian**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOEL**  |
-| second  | **SCHUMACHER**  |
-| third  | **BATMAN** |
-| fourth  | **DIRECTOR**  |
-| fifth  | **FILMS**  |
+| first  | **BUBBA**  |
+| second  | **SUPPORT**  |
+| third  | **WALLACE** |
+| fourth  | **DONE**  |
+| fifth  | **NASCAR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @retrorambleblog: RIP #JoelSchumacher. A talented, brutally honest and creative Hollywood director who gave us The Lost Boys, Flatliners… |
+|RT @paulbhb: Another Leftist Scam? NASCAR needs to respond to these photos suggesting the Bubba Wallace ‘noose’ was really just a rope used… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheGreen_Indian**  |
+| The most retweeted user is: **sillyman40**  |
 | ------------- |
-| RT @Variety: BREAKING: Joel Schumacher, director of Batman films, dies at 80 https://t.co/R8cdzg7Q5k |
+| RT @MasterTes: NASCAR has done more to support Bubba Wallace in the last 48 hours than the NFL has done to support Colin Kaepernick in 4 ye… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
