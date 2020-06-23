@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bubba Wallace"**
+&#x1F34E; **TOPIC = "#ItsOkayToBeRacist"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @maggymerms: For anyone who’s a tad confused. Bubba Wallace is the ONLY black nascar driver &amp; YESTERDAY found a noose in his teams gara… |
-| RT @Inevitable_ET: Bubba Wallace hoax getting blown up???https://t.co/ayXMmUwRyF https://t.co/eTF344mmVL |
-| RT @freeblackgirl: Me watching Nascar to support Bubba Wallace, who I just learned existed last week. https://t.co/PY9WnrVV6m |
+| #ItsOkayToBeRacist no&lt;3 irrelevant hashtag but views tho https://t.co/E9sw4cWb4V |
+| #ItsOkayToBeRacist in your dreams racist scum https://t.co/uy19i8qruc |
+| #ItsOkayToBeRacist no it’s not racist!! educate yourself &lt;3 https://t.co/IVHfu4rXcl |
 
-The most popular user is: **sillyman40**
-<div class="alert alert-block alert-danger"> RT @MasterTes: NASCAR has done more to support Bubba Wallace in the last 48 hours than the NFL has done to support Colin Kaepernick in 4 ye…</div>
+The most popular user is: **thatdanielsaenz**
+<div class="alert alert-block alert-danger"> RT @cornonthecabio: no it ain’t  #ItsOkayToBeRacist https://t.co/yMM1B6UByx</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MasterTes** |
-| #2 Most tweeted to  | **freeblackgirl** |
-| #3 Most tweeted to  | **NASCAR** |
-| NewProfiles (less than 10 days) | 0.31%  |
-| Tweeters with < 10 followers  | 2.13%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **cornonthecabio** |
+| #2 Most tweeted to  | **lixcvlt** |
+| #3 Most tweeted to  | **aturtlenamedbo1** |
+| NewProfiles (less than 10 days) | 2.07%  |
+| Tweeters with < 10 followers  | 11.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sillyman40**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUBBA**  |
-| second  | **SUPPORT**  |
-| third  | **WALLACE** |
-| fourth  | **DONE**  |
-| fifth  | **NASCAR**  |
+| first  | **ITSOKAYTOBERACIST**  |
+| second  | **KPOP**  |
+| third  | **STANS** |
+| fourth  | **TRENDING**  |
+| fifth  | **HASHTAG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @paulbhb: Another Leftist Scam? NASCAR needs to respond to these photos suggesting the Bubba Wallace ‘noose’ was really just a rope used… |
+|RT @aturtlenamedbo1: “You cannot go to a 7-11 or a Dunkin Donuts unless you have a slight Indian accent”#ItsOkayToBeRacist if you’re Joe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sillyman40**  |
+| The most retweeted user is: **thatdanielsaenz**  |
 | ------------- |
-| RT @MasterTes: NASCAR has done more to support Bubba Wallace in the last 48 hours than the NFL has done to support Colin Kaepernick in 4 ye… |
+| RT @cornonthecabio: no it ain’t  #ItsOkayToBeRacist https://t.co/yMM1B6UByx |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
