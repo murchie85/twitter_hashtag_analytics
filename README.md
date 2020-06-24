@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ItsOkayToBeRacist"**
+&#x1F34E; **TOPIC = "Sakho"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #ItsOkayToBeRacist no&lt;3 irrelevant hashtag but views tho https://t.co/E9sw4cWb4V |
-| #ItsOkayToBeRacist in your dreams racist scum https://t.co/uy19i8qruc |
-| #ItsOkayToBeRacist no it’s not racist!! educate yourself &lt;3 https://t.co/IVHfu4rXcl |
+| Sakho is all over the place 😂😂 |
+| @DumDiesel Yho Niyakwazi shame,I couldn't even if I wanted to hold my cool,Thiza intsa iyandehlula...God is with u,… https://t.co/NoGL0OHyyz |
+| Some notable mentions that haven’t been posted yet: Cresswell vs Leicester (a) 2016Ashton vs Everton (a) 2008An… https://t.co/Up5xq9NYEP |
 
-The most popular user is: **thatdanielsaenz**
-<div class="alert alert-block alert-danger"> RT @cornonthecabio: no it ain’t  #ItsOkayToBeRacist https://t.co/yMM1B6UByx</div>
+The most popular user is: **Bineta_Sakho_**
+<div class="alert alert-block alert-danger"> RT @nathaliagcov: Remember when Notre Dame caught on fire and millions of dollars were donated overnight to fix it? Why can’t we do the sam…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **cornonthecabio** |
-| #2 Most tweeted to  | **lixcvlt** |
-| #3 Most tweeted to  | **aturtlenamedbo1** |
-| NewProfiles (less than 10 days) | 2.07%  |
-| Tweeters with < 10 followers  | 11.52%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **PrimeOxlade** |
+| #2 Most tweeted to  | **_JaMy2** |
+| #3 Most tweeted to  | **Bineta_Sakho_** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 1.06%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **thatdanielsaenz**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ITSOKAYTOBERACIST**  |
-| second  | **KPOP**  |
-| third  | **STANS** |
-| fourth  | **TRENDING**  |
-| fifth  | **HASHTAG**  |
+| first  | **SAKHO**  |
+| second  | **LIVERPOOL**  |
+| third  | **TRYING** |
+| fourth  | **MAMADOU**  |
+| fifth  | **BENTEKE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (57.14%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @aturtlenamedbo1: “You cannot go to a 7-11 or a Dunkin Donuts unless you have a slight Indian accent”#ItsOkayToBeRacist if you’re Joe… |
+|RT @tahiraaxo: some people are treating this like a 5 day thing.. lets not forget abt her ! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **thatdanielsaenz**  |
+| The most retweeted user is: **Bineta_Sakho_**  |
 | ------------- |
-| RT @cornonthecabio: no it ain’t  #ItsOkayToBeRacist https://t.co/yMM1B6UByx |
+| RT @nathaliagcov: Remember when Notre Dame caught on fire and millions of dollars were donated overnight to fix it? Why can’t we do the sam… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
