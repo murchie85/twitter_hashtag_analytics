@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sakho"**
+&#x1F34E; **TOPIC = "#ElijahMcClain"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Sakho is all over the place 😂😂 |
-| @DumDiesel Yho Niyakwazi shame,I couldn't even if I wanted to hold my cool,Thiza intsa iyandehlula...God is with u,… https://t.co/NoGL0OHyyz |
-| Some notable mentions that haven’t been posted yet: Cresswell vs Leicester (a) 2016Ashton vs Everton (a) 2008An… https://t.co/Up5xq9NYEP |
+| RT @aubrey607298241: #JusticeForElijah #ElijahMcClain #ElijahMcClainWasMurdered These pigs murdered Elijah and deserve to rot in prison. Th… |
+| RT @AshlyMauer: ARREST THE BASTARDS WHO KILLED #ELIJAHMCCLAIN Their names are:Nathan WoodyardJason RosenblattRandy RoedemaJeremy Coop… |
+| RT @Meduso_bass: If this doesnt make you absolutely sick to your stomach to read through, you are the problem. Even in his last breaths #El… |
 
-The most popular user is: **Bineta_Sakho_**
-<div class="alert alert-block alert-danger"> RT @nathaliagcov: Remember when Notre Dame caught on fire and millions of dollars were donated overnight to fix it? Why can’t we do the sam…</div>
+The most popular user is: **i_nyoom**
+<div class="alert alert-block alert-danger"> RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PrimeOxlade** |
-| #2 Most tweeted to  | **_JaMy2** |
-| #3 Most tweeted to  | **Bineta_Sakho_** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 1.06%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **ohsnapitztab** |
+| #2 Most tweeted to  | **melanin_p0ppin_** |
+| #3 Most tweeted to  | **BerniceKing** |
+| NewProfiles (less than 10 days) | 0.39%  |
+| Tweeters with < 10 followers  | 3.78%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Bineta_Sakho_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SAKHO**  |
-| second  | **LIVERPOOL**  |
-| third  | **TRYING** |
-| fourth  | **MAMADOU**  |
-| fifth  | **BENTEKE**  |
+| first  | **ELIJAHMCCLAIN**  |
+| second  | **JUSTICE**  |
+| third  | **COPS** |
+| fourth  | **ARREST**  |
+| fifth  | **KILLED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tahiraaxo: some people are treating this like a 5 day thing.. lets not forget abt her ! |
+|RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Bineta_Sakho_**  |
+| The most retweeted user is: **i_nyoom**  |
 | ------------- |
-| RT @nathaliagcov: Remember when Notre Dame caught on fire and millions of dollars were donated overnight to fix it? Why can’t we do the sam… |
+| RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
