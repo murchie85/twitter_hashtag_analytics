@@ -15,11 +15,11 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @aubrey607298241: #JusticeForElijah #ElijahMcClain #ElijahMcClainWasMurdered These pigs murdered Elijah and deserve to rot in prison. Th… |
-| RT @AshlyMauer: ARREST THE BASTARDS WHO KILLED #ELIJAHMCCLAIN Their names are:Nathan WoodyardJason RosenblattRandy RoedemaJeremy Coop… |
-| RT @Meduso_bass: If this doesnt make you absolutely sick to your stomach to read through, you are the problem. Even in his last breaths #El… |
+| RT @melanin_p0ppin_: Arrest the cops who killed #ElijahMcClain Arrest the cops who killed #BreonnaTayor Arrest the cops who killed #Eli… |
+| RT @shannonrwatts: As a white person, I will not share dehumanizing videos that exploit the horrific deaths of Black and brown Americans at… |
+| RT @melanin_p0ppin_: Arrest the cops who killed #ElijahMcClain Arrest the cops who killed #BreonnaTayor Arrest the cops who killed #Eli… |
 
-The most popular user is: **i_nyoom**
+The most popular user is: **RETR0PLANET**
 <div class="alert alert-block alert-danger"> RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR…</div>
 
 ## RELATED METRICS<br>
@@ -27,10 +27,10 @@ The most popular user is: **i_nyoom**
 | ------------- | ------------- |
 | #1 Most tweeted to  | **ohsnapitztab** |
 | #2 Most tweeted to  | **melanin_p0ppin_** |
-| #3 Most tweeted to  | **BerniceKing** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 3.78%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #3 Most tweeted to  | **mefeater** |
+| NewProfiles (less than 10 days) | 0.43%  |
+| Tweeters with < 10 followers  | 4.16%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,25 +40,25 @@ The most popular user is: **i_nyoom**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **ELIJAHMCCLAIN**  |
-| second  | **JUSTICE**  |
-| third  | **COPS** |
-| fourth  | **ARREST**  |
-| fifth  | **KILLED**  |
+| second  | **COPS**  |
+| third  | **ARREST** |
+| fourth  | **KILLED**  |
+| fifth  | **JUSTICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR… |
+|RT @ohsnapitztab: JUSTICE FOR THIS SWEET BOYJUSTICE FOR #ElijahMcClain https://t.co/obGE32B09F |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **i_nyoom**  |
+| The most retweeted user is: **RETR0PLANET**  |
 | ------------- |
 | RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR… |
 
