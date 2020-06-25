@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ElijahMcClain"**
+&#x1F34E; **TOPIC = "Liverpool"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @melanin_p0ppin_: Arrest the cops who killed #ElijahMcClain Arrest the cops who killed #BreonnaTayor Arrest the cops who killed #Eli… |
-| RT @shannonrwatts: As a white person, I will not share dehumanizing videos that exploit the horrific deaths of Black and brown Americans at… |
-| RT @melanin_p0ppin_: Arrest the cops who killed #ElijahMcClain Arrest the cops who killed #BreonnaTayor Arrest the cops who killed #Eli… |
+| RT @BlancoAbhi: This might be the first league title for many Liverpool fans, Jurgen Klopp deserves a statue outside Anfield. Man's a fucki… |
+| RT @brfootball: 1990-2020.Liverpool's 30-year wait for a league title is over. https://t.co/9MXENLCCXC |
+| RT @brfootball: 1990-2020.Liverpool's 30-year wait for a league title is over. https://t.co/9MXENLCCXC |
 
-The most popular user is: **RETR0PLANET**
-<div class="alert alert-block alert-danger"> RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR…</div>
+The most popular user is: **ALMACrowther**
+<div class="alert alert-block alert-danger"> RT @LFC: Tell the world…
+
+We are Liverpool, champions of England. https://t.co/altgWn1Wda</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ohsnapitztab** |
-| #2 Most tweeted to  | **melanin_p0ppin_** |
-| #3 Most tweeted to  | **mefeater** |
-| NewProfiles (less than 10 days) | 0.43%  |
-| Tweeters with < 10 followers  | 4.16%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **LFC** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **rafabenitezweb** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **RETR0PLANET**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELIJAHMCCLAIN**  |
-| second  | **COPS**  |
-| third  | **ARREST** |
-| fourth  | **KILLED**  |
-| fifth  | **JUSTICE**  |
+| first  | **LIVERPOOL**  |
+| second  | **LEAGUE**  |
+| third  | **TITLE** |
+| fourth  | **CHAMPIONS**  |
+| fifth  | **PREMIER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ohsnapitztab: JUSTICE FOR THIS SWEET BOYJUSTICE FOR #ElijahMcClain https://t.co/obGE32B09F |
+|RT @espn: LeBron, a Liverpool minority owner, celebrates the Premier League title 🏆 https://t.co/639ux7GMvQ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RETR0PLANET**  |
+| The most retweeted user is: **ALMACrowther**  |
 | ------------- |
-| RT @letarik_b: THIS BLACK BOY WHO PLAYED THE VIOLIN FOR KITTENS IN ANIMAL SHELTERS DURING HIS SPARE TIME WAS FUCKING MURDERED BY POLICE FOR… |
+| RT @LFC: Tell the world…We are Liverpool, champions of England. https://t.co/altgWn1Wda |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
