@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Liverpool"**
+&#x1F34E; **TOPIC = "Dick Cheney"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BlancoAbhi: This might be the first league title for many Liverpool fans, Jurgen Klopp deserves a statue outside Anfield. Man's a fucki… |
-| RT @brfootball: 1990-2020.Liverpool's 30-year wait for a league title is over. https://t.co/9MXENLCCXC |
-| RT @brfootball: 1990-2020.Liverpool's 30-year wait for a league title is over. https://t.co/9MXENLCCXC |
+| RT @AaronBlake: Marco Rubio: Wear a maskRick Scott: Wear a maskGreg Abbott: Wear a maskDoug Ducey: Wear a maskDoug Burgum: Wear a m… |
+| RT @Liz_Cheney: Dick Cheney says WEAR A MASK. #realmenwearmasks https://t.co/iBfVoa7ypL |
+| RT @AaronBlake: Marco Rubio: Wear a maskRick Scott: Wear a maskGreg Abbott: Wear a maskDoug Ducey: Wear a maskDoug Burgum: Wear a m… |
 
-The most popular user is: **ALMACrowther**
-<div class="alert alert-block alert-danger"> RT @LFC: Tell the world…
+The most popular user is: **jlj1198**
+<div class="alert alert-block alert-danger"> RT @DeNarde4MDDel: George W. Bush has a DUI
+Dick Cheney has a DUI
+Matt Gaetz has a DUI
+Mike Crapo has a DUI
+Beto O’Rourke has a DUI
 
-We are Liverpool, champions of England. https://t.co/altgWn1Wda</div>
+But Ra…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LFC** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **rafabenitezweb** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 3.06%|
+| #1 Most tweeted to  | **Liz_Cheney** |
+| #2 Most tweeted to  | **mmpadellan** |
+| #3 Most tweeted to  | **JRehling** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.75%|
 | Tweeters with > 1000000 followers  | 0.03%  |
 
 
@@ -41,11 +45,11 @@ We are Liverpool, champions of England. https://t.co/altgWn1Wda</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIVERPOOL**  |
-| second  | **LEAGUE**  |
-| third  | **TITLE** |
-| fourth  | **CHAMPIONS**  |
-| fifth  | **PREMIER**  |
+| first  | **CHENEY**  |
+| second  | **DICK**  |
+| third  | **MASK** |
+| fourth  | **WEAR**  |
+| fifth  | **REALMENWEARMASKS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
@@ -56,13 +60,13 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @espn: LeBron, a Liverpool minority owner, celebrates the Premier League title 🏆 https://t.co/639ux7GMvQ |
+|RT @Liz_Cheney: Dick Cheney says WEAR A MASK. #realmenwearmasks https://t.co/iBfVoa7ypL |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ALMACrowther**  |
+| The most retweeted user is: **jlj1198**  |
 | ------------- |
-| RT @LFC: Tell the world…We are Liverpool, champions of England. https://t.co/altgWn1Wda |
+| RT @DeNarde4MDDel: George W. Bush has a DUIDick Cheney has a DUIMatt Gaetz has a DUIMike Crapo has a DUIBeto O’Rourke has a DUIBut Ra… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
