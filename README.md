@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#4milliondreams"**
+&#x1F34E; **TOPIC = "Young Curt"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #4milliondreams BUM BUM BUM BUM |
-| #4milliondreams don't be shy sub to dream!!! |
-| RT @SKEPPYLlVE: because dream is close to 4 million ( #4milliondreams ) i want to do something. reply to this tweet with your name (example… |
+| RT @EMPIRE: Rest In Peace Young Curt, a pillar in the Bay Area rap scene... Sending our condolences to his loved ones 🖤🙏 https://t.co/sN6sN… |
+| RT @ArisWTTE: “Pok Chop my nigga wya , probably in the kitchen eating hella snacks”  is probably the best opening verse to a diss song ever… |
+| RT @ReeseInaCut: Still one of the coldest diss tracks ever. Simpler times RIP Young Curt 🙏🏽 https://t.co/AWBJUQFRve |
 
-The most popular user is: **stormnotfound**
-<div class="alert alert-block alert-danger"> RT @SKEPPYLlVE: hi!! i made layouts for dream’s 4 million on youtube!! there’s also the # which you should use!! #4milliondreams !!
-
-here i…</div>
+The most popular user is: **kimzillaa**
+<div class="alert alert-block alert-danger"> RT @AntiochTweets: young curt dissing d-lo is equivalent to when nas ethered jay z https://t.co/LuMRAH93ZI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SKEPPYLlVE** |
-| #2 Most tweeted to  | **caitnotfound** |
-| #3 Most tweeted to  | **DreamWasTaken** |
-| NewProfiles (less than 10 days) | 4.48%  |
-| Tweeters with < 10 followers  | 5.15%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **kamaiyah** |
+| #2 Most tweeted to  | **CMURRDAA** |
+| #3 Most tweeted to  | **guapdad4000** |
+| NewProfiles (less than 10 days) | 0.23%  |
+| Tweeters with < 10 followers  | 1.0%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +39,28 @@ here i…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **4MILLIONDREAMS**  |
-| second  | **4**  |
-| third  | **DREAM** |
-| fourth  | **@SKEPPYLLVE:**  |
-| fifth  | **MILLION**  |
+| first  | **YOUNG**  |
+| second  | **CURT**  |
+| third  | **BAY** |
+| fourth  | **AREA**  |
+| fifth  | **RIP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#4milliondreams TO EVERYONE USING THE # !!!!!!PUT SOMETHING AFTER IT AT THE END (even if it’s just ‘a’) OR ELSE IT COUNTS AS SPAM !!!! |
+|R.I.P my brother Young Curt 🙏🏻 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **stormnotfound**  |
+| The most retweeted user is: **kimzillaa**  |
 | ------------- |
-| RT @SKEPPYLlVE: hi!! i made layouts for dream’s 4 million on youtube!! there’s also the # which you should use!! #4milliondreams !!here i… |
+| RT @AntiochTweets: young curt dissing d-lo is equivalent to when nas ethered jay z https://t.co/LuMRAH93ZI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
