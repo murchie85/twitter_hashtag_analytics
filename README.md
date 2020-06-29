@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "minghao"**
+&#x1F34E; **TOPIC = "#4milliondreams"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @dilfhui: i don’t like seeing minghao’s neck i feel like a victorian man seeing a woman’s ankles |
-| RT @revecheoI: this is for my people who just lost somebody rip to minghao’s mullet 😔✊🏽https://t.co/YMt5IF1v6q |
-| why is my whole tl full of minghao's mullet are you trying to make me cry or what |
+| #4milliondreams BUM BUM BUM BUM |
+| #4milliondreams don't be shy sub to dream!!! |
+| RT @SKEPPYLlVE: because dream is close to 4 million ( #4milliondreams ) i want to do something. reply to this tweet with your name (example… |
 
-The most popular user is: **minghao_s_bitch**
-<div class="alert alert-block alert-danger"> RT @shedontgo: gentle reminder https://t.co/uanlUGsbGx</div>
+The most popular user is: **stormnotfound**
+<div class="alert alert-block alert-danger"> RT @SKEPPYLlVE: hi!! i made layouts for dream’s 4 million on youtube!! there’s also the # which you should use!! #4milliondreams !!
+
+here i…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dilfhui** |
-| #2 Most tweeted to  | **revecheoI** |
-| #3 Most tweeted to  | **odetosoonhao** |
-| NewProfiles (less than 10 days) | 1.15%  |
-| Tweeters with < 10 followers  | 2.94%|
+| #1 Most tweeted to  | **SKEPPYLlVE** |
+| #2 Most tweeted to  | **caitnotfound** |
+| #3 Most tweeted to  | **DreamWasTaken** |
+| NewProfiles (less than 10 days) | 4.48%  |
+| Tweeters with < 10 followers  | 5.15%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **minghao_s_bitch**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MULLET**  |
-| second  | **MINGHAO**  |
-| third  | **MINGHAO’S** |
-| fourth  | **SEEING**  |
-| fifth  | **"MINGHAOS"**  |
+| first  | **4MILLIONDREAMS**  |
+| second  | **4**  |
+| third  | **DREAM** |
+| fourth  | **@SKEPPYLLVE:**  |
+| fifth  | **MILLION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @svteeth: in memory of minghao mullet, him picking himself for the member with the best hair https://t.co/lOZt81slye |
+|#4milliondreams TO EVERYONE USING THE # !!!!!!PUT SOMETHING AFTER IT AT THE END (even if it’s just ‘a’) OR ELSE IT COUNTS AS SPAM !!!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **minghao_s_bitch**  |
+| The most retweeted user is: **stormnotfound**  |
 | ------------- |
-| RT @shedontgo: gentle reminder https://t.co/uanlUGsbGx |
+| RT @SKEPPYLlVE: hi!! i made layouts for dream’s 4 million on youtube!! there’s also the # which you should use!! #4milliondreams !!here i… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
