@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Young Curt"**
+&#x1F34E; **TOPIC = "SCOTUS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @EMPIRE: Rest In Peace Young Curt, a pillar in the Bay Area rap scene... Sending our condolences to his loved ones 🖤🙏 https://t.co/sN6sN… |
-| RT @ArisWTTE: “Pok Chop my nigga wya , probably in the kitchen eating hella snacks”  is probably the best opening verse to a diss song ever… |
-| RT @ReeseInaCut: Still one of the coldest diss tracks ever. Simpler times RIP Young Curt 🙏🏽 https://t.co/AWBJUQFRve |
+| RT @Strandjunker: Still no answer to this question: Who paid off Brett Kavanaugh’s $92,000 country club fees plus his $200,000 credit card… |
+| RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
+| RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
 
-The most popular user is: **kimzillaa**
-<div class="alert alert-block alert-danger"> RT @AntiochTweets: young curt dissing d-lo is equivalent to when nas ethered jay z https://t.co/LuMRAH93ZI</div>
+The most popular user is: **Cdguster3**
+<div class="alert alert-block alert-danger"> RT @FilmmakerJulie: America to Justice Ginsburg: Just. Keep. Planking. #Scotus https://t.co/FkeARliofp</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kamaiyah** |
-| #2 Most tweeted to  | **CMURRDAA** |
-| #3 Most tweeted to  | **guapdad4000** |
-| NewProfiles (less than 10 days) | 0.23%  |
-| Tweeters with < 10 followers  | 1.0%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **SaraGideon** |
+| #2 Most tweeted to  | **Mike_Pence** |
+| #3 Most tweeted to  | **Strandjunker** |
+| NewProfiles (less than 10 days) | 0.37%  |
+| Tweeters with < 10 followers  | 3.02%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kimzillaa**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUNG**  |
-| second  | **CURT**  |
-| third  | **BAY** |
-| fourth  | **AREA**  |
-| fifth  | **RIP**  |
+| first  | **SCOTUS**  |
+| second  | **BRETT**  |
+| third  | **VOTED** |
+| fourth  | **RIGHTS**  |
+| fifth  | **DECISION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|R.I.P my brother Young Curt 🙏🏻 |
+|RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kimzillaa**  |
+| The most retweeted user is: **Cdguster3**  |
 | ------------- |
-| RT @AntiochTweets: young curt dissing d-lo is equivalent to when nas ethered jay z https://t.co/LuMRAH93ZI |
+| RT @FilmmakerJulie: America to Justice Ginsburg: Just. Keep. Planking. #Scotus https://t.co/FkeARliofp |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
