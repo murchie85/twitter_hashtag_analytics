@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "SCOTUS"**
+&#x1F34E; **TOPIC = "Virgil"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Strandjunker: Still no answer to this question: Who paid off Brett Kavanaugh’s $92,000 country club fees plus his $200,000 credit card… |
-| RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
-| RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
+| Come on Virgil, I can do better than that https://t.co/jxBF0iZpny |
+| RT @XXL: People are pissed at Virgil Abloh’s cover art for Pop Smoke’s album ⬇️https://t.co/8RssD2MHm9 |
+| RT @evelynvwoodsen: I just want you to know Virgil designed this. Do whatever you would like with this info..but Pop Smoke is rolling in hi… |
 
-The most popular user is: **Cdguster3**
-<div class="alert alert-block alert-danger"> RT @FilmmakerJulie: America to Justice Ginsburg: Just. Keep. Planking. #Scotus https://t.co/FkeARliofp</div>
+The most popular user is: **Angsty_Virgil**
+<div class="alert alert-block alert-danger"> RT @ihaveswag32: i must start a thread of underrated fishes from spongebob https://t.co/pRW8NXU2vb</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SaraGideon** |
-| #2 Most tweeted to  | **Mike_Pence** |
-| #3 Most tweeted to  | **Strandjunker** |
-| NewProfiles (less than 10 days) | 0.37%  |
-| Tweeters with < 10 followers  | 3.02%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Vido_Ehh** |
+| #2 Most tweeted to  | **_IamNapalm_** |
+| #3 Most tweeted to  | **Trashvis** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 1.83%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Cdguster3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SCOTUS**  |
-| second  | **BRETT**  |
-| third  | **VOTED** |
-| fourth  | **RIGHTS**  |
-| fifth  | **DECISION**  |
+| first  | **VIRGIL**  |
+| second  | **POP**  |
+| third  | **SMOKE** |
+| fourth  | **COVER**  |
+| fifth  | **ALBUM**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DisavowTrump20: Brett Kavanaugh just voted to strike down abortion rights and has also voted to deny LGBTQ protections — GOP Senator Su… |
+|RT @TweetMarley1: After I saw the Virgil  art fail I decided to try out something this morning. So here's my own rendition of Pop Smoke's A… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Cdguster3**  |
+| The most retweeted user is: **Angsty_Virgil**  |
 | ------------- |
-| RT @FilmmakerJulie: America to Justice Ginsburg: Just. Keep. Planking. #Scotus https://t.co/FkeARliofp |
+| RT @ihaveswag32: i must start a thread of underrated fishes from spongebob https://t.co/pRW8NXU2vb |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
