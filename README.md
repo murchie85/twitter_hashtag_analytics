@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Virgil"**
+&#x1F34E; **TOPIC = "Jada"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Come on Virgil, I can do better than that https://t.co/jxBF0iZpny |
-| RT @XXL: People are pissed at Virgil Abloh’s cover art for Pop Smoke’s album ⬇️https://t.co/8RssD2MHm9 |
-| RT @evelynvwoodsen: I just want you to know Virgil designed this. Do whatever you would like with this info..but Pop Smoke is rolling in hi… |
+| RT @Margolndigo: so a beauty guru on youtube is worthy of not only a response, but an immediate one.. but willow, jada, jaden and will smit… |
+| RT @FAMEPLASTIC: its so funny to me that he addresses tati but not the video with willow or the fact that jada and jaden called him out 🥴 h… |
+| RT @KadeemKing_: Jada energy last nite was priceless... |
 
-The most popular user is: **Angsty_Virgil**
-<div class="alert alert-block alert-danger"> RT @ihaveswag32: i must start a thread of underrated fishes from spongebob https://t.co/pRW8NXU2vb</div>
+The most popular user is: **Jada__Marie**
+<div class="alert alert-block alert-danger"> RT @ColorMeBlack: Haven’t seen enough of BLM on my timeline, so here’s a reminder: https://t.co/aHvsoAZyje</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Vido_Ehh** |
-| #2 Most tweeted to  | **_IamNapalm_** |
-| #3 Most tweeted to  | **Trashvis** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 1.83%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MissAmericHANA** |
+| #2 Most tweeted to  | **abitstupidinnit** |
+| #3 Most tweeted to  | **dumplingthings** |
+| NewProfiles (less than 10 days) | 1.64%  |
+| Tweeters with < 10 followers  | 6.94%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Angsty_Virgil**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VIRGIL**  |
-| second  | **POP**  |
-| third  | **SMOKE** |
-| fourth  | **COVER**  |
-| fifth  | **ALBUM**  |
+| first  | **JADA**  |
+| second  | **SHANE**  |
+| third  | **TATI’S** |
+| fourth  | **EYES**  |
+| fifth  | **SEXUAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TweetMarley1: After I saw the Virgil  art fail I decided to try out something this morning. So here's my own rendition of Pop Smoke's A… |
+|RT @nobodyknows0307: @Jessicles87Lane @bcantb @Ryland_Adams That’s not even Jada that’s Cree Summer, way to get your black people mixed up… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Angsty_Virgil**  |
+| The most retweeted user is: **Jada__Marie**  |
 | ------------- |
-| RT @ihaveswag32: i must start a thread of underrated fishes from spongebob https://t.co/pRW8NXU2vb |
+| RT @ColorMeBlack: Haven’t seen enough of BLM on my timeline, so here’s a reminder: https://t.co/aHvsoAZyje |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
