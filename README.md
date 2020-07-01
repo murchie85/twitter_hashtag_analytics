@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Terry Crews"**
+&#x1F34E; **TOPIC = "Monty Williams"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
-| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
-| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
+| RT @KZimmermanAZ: Suns coach Monty Williams on navigating doing the winning versus reality that they have like a 1% chance to get more than… |
+| On Cameron Payne, Monty Williams says, "I just feel like Cam is a guy that probably should be in the NBA, and if yo… https://t.co/IVkRfL3NPJ |
+| Monty and Mark Williams in a matter of days. It’s true @AdamH_27 , true love really finds you when you don’t go out looking for it. |
 
-The most popular user is: **matheusdupratt**
-<div class="alert alert-block alert-danger"> RT @ChamariaNiver: Terry Crews
+The most popular user is: **NatashaChadwi12**
+<div class="alert alert-block alert-danger"> RT @TheAthleticNBA: "I’m angry. I’m afraid. And I’m in pain. ...  As I tell my players, I’m not calling you out, I’m calling you up." 
 
-que homem... https://t.co/R5fDrYKyf2</div>
+✍️…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **N0WomanIsRight** |
-| #2 Most tweeted to  | **SAMUELOLUFEMI_** |
-| #3 Most tweeted to  | **DoreenGLM** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **KellanOlson** |
+| #2 Most tweeted to  | **NDmbb** |
+| #3 Most tweeted to  | **DuaneRankin** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 1.29%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ que homem... https://t.co/R5fDrYKyf2</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TERRY**  |
-| second  | **CREWS**  |
-| third  | **WHITE** |
-| fourth  | **TOLD**  |
-| fifth  | **EVEN**  |
+| first  | **MONTY**  |
+| second  | **WILLIAMS**  |
+| third  | **SUNS** |
+| fourth  | **GOING**  |
+| fifth  | **COACH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
+|“He’s probably got his eyes set on All-NBA”- Monty Williams on Devin Booker |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **matheusdupratt**  |
+| The most retweeted user is: **NatashaChadwi12**  |
 | ------------- |
-| RT @ChamariaNiver: Terry Crewsque homem... https://t.co/R5fDrYKyf2 |
+| RT @TheAthleticNBA: "I’m angry. I’m afraid. And I’m in pain. ...  As I tell my players, I’m not calling you out, I’m calling you up." ✍️… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
