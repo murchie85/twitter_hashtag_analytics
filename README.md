@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jada"**
+&#x1F34E; **TOPIC = "Terry Crews"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Margolndigo: so a beauty guru on youtube is worthy of not only a response, but an immediate one.. but willow, jada, jaden and will smit… |
-| RT @FAMEPLASTIC: its so funny to me that he addresses tati but not the video with willow or the fact that jada and jaden called him out 🥴 h… |
-| RT @KadeemKing_: Jada energy last nite was priceless... |
+| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
+| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
+| RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
 
-The most popular user is: **Jada__Marie**
-<div class="alert alert-block alert-danger"> RT @ColorMeBlack: Haven’t seen enough of BLM on my timeline, so here’s a reminder: https://t.co/aHvsoAZyje</div>
+The most popular user is: **matheusdupratt**
+<div class="alert alert-block alert-danger"> RT @ChamariaNiver: Terry Crews
+
+que homem... https://t.co/R5fDrYKyf2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MissAmericHANA** |
-| #2 Most tweeted to  | **abitstupidinnit** |
-| #3 Most tweeted to  | **dumplingthings** |
-| NewProfiles (less than 10 days) | 1.64%  |
-| Tweeters with < 10 followers  | 6.94%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **N0WomanIsRight** |
+| #2 Most tweeted to  | **SAMUELOLUFEMI_** |
+| #3 Most tweeted to  | **DoreenGLM** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 2.38%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Jada__Marie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JADA**  |
-| second  | **SHANE**  |
-| third  | **TATI’S** |
-| fourth  | **EYES**  |
-| fifth  | **SEXUAL**  |
+| first  | **TERRY**  |
+| second  | **CREWS**  |
+| third  | **WHITE** |
+| fourth  | **TOLD**  |
+| fifth  | **EVEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nobodyknows0307: @Jessicles87Lane @bcantb @Ryland_Adams That’s not even Jada that’s Cree Summer, way to get your black people mixed up… |
+|RT @N0WomanIsRight: Terry crews wasn’t even acting on White girls tho they told him just be yourself |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jada__Marie**  |
+| The most retweeted user is: **matheusdupratt**  |
 | ------------- |
-| RT @ColorMeBlack: Haven’t seen enough of BLM on my timeline, so here’s a reminder: https://t.co/aHvsoAZyje |
+| RT @ChamariaNiver: Terry Crewsque homem... https://t.co/R5fDrYKyf2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
