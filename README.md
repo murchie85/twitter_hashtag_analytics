@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Monty Williams"**
+&#x1F34E; **TOPIC = "Liverpool"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KZimmermanAZ: Suns coach Monty Williams on navigating doing the winning versus reality that they have like a 1% chance to get more than… |
-| On Cameron Payne, Monty Williams says, "I just feel like Cam is a guy that probably should be in the NBA, and if yo… https://t.co/IVkRfL3NPJ |
-| Monty and Mark Williams in a matter of days. It’s true @AdamH_27 , true love really finds you when you don’t go out looking for it. |
+| RT @kwadwosheldon: This is the Liverpool we allowed to win the league? Christ! |
+| RT @cesc4official: Considering they must have been partying without sleeping for the last 3 days, I think Liverpool are playing very well. |
+| RT @cesc4official: Considering they must have been partying without sleeping for the last 3 days, I think Liverpool are playing very well. |
 
-The most popular user is: **NatashaChadwi12**
-<div class="alert alert-block alert-danger"> RT @TheAthleticNBA: "I’m angry. I’m afraid. And I’m in pain. ...  As I tell my players, I’m not calling you out, I’m calling you up." 
+The most popular user is: **BlaqJoker91**
+<div class="alert alert-block alert-danger"> RT @ESPNFC: Today might be your last chance to RT this:
 
-✍️…</div>
+Since Liverpool last won the league, Peter Schmeichel joined Man United, won it fi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KellanOlson** |
-| #2 Most tweeted to  | **NDmbb** |
-| #3 Most tweeted to  | **DuaneRankin** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 1.29%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **cesc4official** |
+| #2 Most tweeted to  | **TrollFootball** |
+| #3 Most tweeted to  | **Watch_LFC** |
+| NewProfiles (less than 10 days) | 1.05%  |
+| Tweeters with < 10 followers  | 2.69%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **NatashaChadwi12**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MONTY**  |
-| second  | **WILLIAMS**  |
-| third  | **SUNS** |
-| fourth  | **GOING**  |
-| fifth  | **COACH**  |
+| first  | **LIVERPOOL**  |
+| second  | **CITY**  |
+| third  | **MAN** |
+| fourth  | **3**  |
+| fifth  | **LAST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|“He’s probably got his eyes set on All-NBA”- Monty Williams on Devin Booker |
+|RT @utdzky: Liverpool are the worst champions in premier league history! 4 - 0 !!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NatashaChadwi12**  |
+| The most retweeted user is: **BlaqJoker91**  |
 | ------------- |
-| RT @TheAthleticNBA: "I’m angry. I’m afraid. And I’m in pain. ...  As I tell my players, I’m not calling you out, I’m calling you up." ✍️… |
+| RT @ESPNFC: Today might be your last chance to RT this:Since Liverpool last won the league, Peter Schmeichel joined Man United, won it fi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
