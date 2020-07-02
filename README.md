@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Liverpool"**
+&#x1F34E; **TOPIC = "Vanilla Ice"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kwadwosheldon: This is the Liverpool we allowed to win the league? Christ! |
-| RT @cesc4official: Considering they must have been partying without sleeping for the last 3 days, I think Liverpool are playing very well. |
-| RT @cesc4official: Considering they must have been partying without sleeping for the last 3 days, I think Liverpool are playing very well. |
+| @andmichaelgreen Vanilla Ice cancelled which shows he’s smarter and more caring than Trump. And Herman Cain has cor… https://t.co/LEW5VhRGvK |
+| Vanilla Ice cancels Independence Day gig: https://t.co/05wyLJ2w4a   #IndependenceDay |
+| This is why our lives will suck for two more years.https://t.co/u2jgCgDkWt |
 
-The most popular user is: **BlaqJoker91**
-<div class="alert alert-block alert-danger"> RT @ESPNFC: Today might be your last chance to RT this:
-
-Since Liverpool last won the league, Peter Schmeichel joined Man United, won it fi…</div>
+The most popular user is: **GabiMarzV**
+<div class="alert alert-block alert-danger"> RT @EricFrancisco24: Imagine dying of the coronavirus because you went to a fucking Vanilla Ice concert</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **cesc4official** |
-| #2 Most tweeted to  | **TrollFootball** |
-| #3 Most tweeted to  | **Watch_LFC** |
-| NewProfiles (less than 10 days) | 1.05%  |
-| Tweeters with < 10 followers  | 2.69%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **EricFrancisco24** |
+| #2 Most tweeted to  | **KellywiseClown** |
+| #3 Most tweeted to  | **AP** |
+| NewProfiles (less than 10 days) | 0.39%  |
+| Tweeters with < 10 followers  | 1.82%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -41,28 +39,28 @@ Since Liverpool last won the league, Peter Schmeichel joined Man United, won it 
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIVERPOOL**  |
-| second  | **CITY**  |
-| third  | **MAN** |
-| fourth  | **3**  |
-| fifth  | **LAST**  |
+| first  | **ICE**  |
+| second  | **VANILLA**  |
+| third  | **CONCERT** |
+| fourth  | **CORONAVIRUS**  |
+| fifth  | **JULY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @utdzky: Liverpool are the worst champions in premier league history! 4 - 0 !!! |
+|@ed_solomon Vanilla Ice is America's oldest 13 year old. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BlaqJoker91**  |
+| The most retweeted user is: **GabiMarzV**  |
 | ------------- |
-| RT @ESPNFC: Today might be your last chance to RT this:Since Liverpool last won the league, Peter Schmeichel joined Man United, won it fi… |
+| RT @EricFrancisco24: Imagine dying of the coronavirus because you went to a fucking Vanilla Ice concert |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
