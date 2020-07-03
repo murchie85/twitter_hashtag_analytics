@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Vanilla Ice"**
+&#x1F34E; **TOPIC = "4th of July"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @andmichaelgreen Vanilla Ice cancelled which shows he’s smarter and more caring than Trump. And Herman Cain has cor… https://t.co/LEW5VhRGvK |
-| Vanilla Ice cancels Independence Day gig: https://t.co/05wyLJ2w4a   #IndependenceDay |
-| This is why our lives will suck for two more years.https://t.co/u2jgCgDkWt |
+| RT @ferventnatalie: this what y’all celebrating on 4th of July? https://t.co/OXLkgX3mMM |
+| RT @MayorOfLA: We’re going to have to celebrate differently this year. Everyone should cancel plans with others for the 4th of July. You sh… |
+| RT @realNick_777: 🤦‍♂️💥Unbelievable AUDACITY💥🤦‍♂️While 🇺🇸 @POTUS  &amp; @RudyGiuliani 🇺🇸are tirelessly working 4 our🇺🇸SECURITY &amp; FREEDOM🇺🇸… |
 
-The most popular user is: **GabiMarzV**
-<div class="alert alert-block alert-danger"> RT @EricFrancisco24: Imagine dying of the coronavirus because you went to a fucking Vanilla Ice concert</div>
+The most popular user is: **jackson_laury**
+<div class="alert alert-block alert-danger"> RT @G7Fernn: CANCEL 4TH OF JULY THIS YEAR. NO FIREWORKS. DON’T CELEBRATE A COUNTRY THAT HAS FAILED IT’S PEOPLE.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **EricFrancisco24** |
-| #2 Most tweeted to  | **KellywiseClown** |
-| #3 Most tweeted to  | **AP** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 1.82%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **ferventnatalie** |
+| #2 Most tweeted to  | **brittaniebruder** |
+| #3 Most tweeted to  | **SecPompeo** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 2.89%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **GabiMarzV**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ICE**  |
-| second  | **VANILLA**  |
-| third  | **CONCERT** |
-| fourth  | **CORONAVIRUS**  |
-| fifth  | **JULY**  |
+| first  | **4TH**  |
+| second  | **JULY**  |
+| third  | **CELEBRATING** |
+| fourth  | **Y’ALL**  |
+| fifth  | **JULY?**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ed_solomon Vanilla Ice is America's oldest 13 year old. |
+|RT @TheDemCoalition: Several tribes have also raised concerns about the event leading to an outbreak 👇"The president is putting our triba… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **GabiMarzV**  |
+| The most retweeted user is: **jackson_laury**  |
 | ------------- |
-| RT @EricFrancisco24: Imagine dying of the coronavirus because you went to a fucking Vanilla Ice concert |
+| RT @G7Fernn: CANCEL 4TH OF JULY THIS YEAR. NO FIREWORKS. DON’T CELEBRATE A COUNTRY THAT HAS FAILED IT’S PEOPLE. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
