@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "4th of July"**
+&#x1F34E; **TOPIC = "Jimmie Johnson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ferventnatalie: this what y’all celebrating on 4th of July? https://t.co/OXLkgX3mMM |
-| RT @MayorOfLA: We’re going to have to celebrate differently this year. Everyone should cancel plans with others for the 4th of July. You sh… |
-| RT @realNick_777: 🤦‍♂️💥Unbelievable AUDACITY💥🤦‍♂️While 🇺🇸 @POTUS  &amp; @RudyGiuliani 🇺🇸are tirelessly working 4 our🇺🇸SECURITY &amp; FREEDOM🇺🇸… |
+| RT @NASCAR: NEWS: @JimmieJohnson reports positive COVID-19 test; @J_Allgaier to fill in for No. 48 team at @IMS.Details: https://t.co/Rtc… |
+| RT @bobpockrass: Jimmie Johnson statement: https://t.co/OyXlYes7zS |
+| RT @IndyCaronNBC: Seven-time #nascar champion @JimmieJohnson will turn laps July 8 @IMS in a Dallara-Honda during a test with @CGRindycar.… |
 
-The most popular user is: **jackson_laury**
-<div class="alert alert-block alert-danger"> RT @G7Fernn: CANCEL 4TH OF JULY THIS YEAR. NO FIREWORKS. DON’T CELEBRATE A COUNTRY THAT HAS FAILED IT’S PEOPLE.</div>
+The most popular user is: **Academy15u**
+<div class="alert alert-block alert-danger"> RT @footballdothow: Fatigue Makes Cowards of Us All!  💪
+
+-Jimmie Johnson https://t.co/RMP1ZJMGJU</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ferventnatalie** |
-| #2 Most tweeted to  | **brittaniebruder** |
-| #3 Most tweeted to  | **SecPompeo** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 2.89%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **bobpockrass** |
+| #2 Most tweeted to  | **JimmieJohnson** |
+| #3 Most tweeted to  | **IMS** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 2.11%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jackson_laury**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **4TH**  |
-| second  | **JULY**  |
-| third  | **CELEBRATING** |
-| fourth  | **Y’ALL**  |
-| fifth  | **JULY?**  |
+| first  | **JOHNSON**  |
+| second  | **JIMMIE**  |
+| third  | **POSITIVE** |
+| fourth  | **NASCAR**  |
+| fifth  | **TESTED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheDemCoalition: Several tribes have also raised concerns about the event leading to an outbreak 👇"The president is putting our triba… |
+|RT @bobpockrass: Jimmie Johnson, 44, has not experienced symptoms of COVID-19. He was tested upon learning this morning that his wife, Chan… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jackson_laury**  |
+| The most retweeted user is: **Academy15u**  |
 | ------------- |
-| RT @G7Fernn: CANCEL 4TH OF JULY THIS YEAR. NO FIREWORKS. DON’T CELEBRATE A COUNTRY THAT HAS FAILED IT’S PEOPLE. |
+| RT @footballdothow: Fatigue Makes Cowards of Us All!  💪-Jimmie Johnson https://t.co/RMP1ZJMGJU |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
