@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jimmie Johnson"**
+&#x1F34E; **TOPIC = "#AllCountriesMatter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NASCAR: NEWS: @JimmieJohnson reports positive COVID-19 test; @J_Allgaier to fill in for No. 48 team at @IMS.Details: https://t.co/Rtc… |
-| RT @bobpockrass: Jimmie Johnson statement: https://t.co/OyXlYes7zS |
-| RT @IndyCaronNBC: Seven-time #nascar champion @JimmieJohnson will turn laps July 8 @IMS in a Dallara-Honda during a test with @CGRindycar.… |
+| RT @6Lixue9: Why would you celebrate the USA the 4th of July? Let’s celebrate all countries! They matter too! #AllCountriesMatter https://t… |
+| RT @madison_miler: this July 4th i would just like to remind everyone that #AllCountriesMatter 🥰 https://t.co/H11tPBO2H2 |
+| RT @6Lixue9: Why would you celebrate the USA the 4th of July? Let’s celebrate all countries! They matter too! #AllCountriesMatter https://t… |
 
-The most popular user is: **Academy15u**
-<div class="alert alert-block alert-danger"> RT @footballdothow: Fatigue Makes Cowards of Us All!  💪
-
--Jimmie Johnson https://t.co/RMP1ZJMGJU</div>
+The most popular user is: **grodyhannah**
+<div class="alert alert-block alert-danger"> RT @JoCat105: whoa why are we celebrating the US on 4th of July? what about all the other great countries around the world? seems pretty un…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bobpockrass** |
-| #2 Most tweeted to  | **JimmieJohnson** |
-| #3 Most tweeted to  | **IMS** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 2.11%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **prcabcth** |
+| #2 Most tweeted to  | **madison_miler** |
+| #3 Most tweeted to  | **c0urteau** |
+| NewProfiles (less than 10 days) | 1.54%  |
+| Tweeters with < 10 followers  | 16.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **Academy15u**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOHNSON**  |
-| second  | **JIMMIE**  |
-| third  | **POSITIVE** |
-| fourth  | **NASCAR**  |
-| fifth  | **TESTED**  |
+| first  | **ALLCOUNTRIESMATTER**  |
+| second  | **4TH**  |
+| third  | **CELEBRATE** |
+| fourth  | **COUNTRIES**  |
+| fifth  | **JULY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bobpockrass: Jimmie Johnson, 44, has not experienced symptoms of COVID-19. He was tested upon learning this morning that his wife, Chan… |
+|RT @madison_miler: this July 4th i would just like to remind everyone that #AllCountriesMatter 🥰 https://t.co/H11tPBO2H2 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Academy15u**  |
+| The most retweeted user is: **grodyhannah**  |
 | ------------- |
-| RT @footballdothow: Fatigue Makes Cowards of Us All!  💪-Jimmie Johnson https://t.co/RMP1ZJMGJU |
+| RT @JoCat105: whoa why are we celebrating the US on 4th of July? what about all the other great countries around the world? seems pretty un… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
