@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Giroud"**
+&#x1F34E; **TOPIC = "4th of July"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @matissearmani: Some thoughts..- Willian has Jorginho x Hazard type reliablity from the penalty spot.- Pulisic has a bigger influenc… |
-| RT @KhaIzCFC: OLIVIER GIROUD WHAT A FINISH. 🔵 https://t.co/zfxZGnwwO5 |
-| GIROUD!!!!!! What a pass from Barkley!!! 1-0!! #CHEWAT #CFC |
+| It's 4th of July! Happy Independence day to all Americans! https://t.co/MztsYkUgmw |
+| RT @ava: Haven’t read Frederick Douglass’ mighty speech about July 4th? @DrIbram shares an abridged version here. Imagine Douglass. 10 year… |
+| RT @_SJPeace_: Fuck your 4th of JulyTHIS IS YOUR "INDEPENDENCE" https://t.co/NWUHgodRoZ |
 
-The most popular user is: **Daddy_Giroud**
-<div class="alert alert-block alert-danger"> RT @MustafiOfficial: Working on some more clean sheets. We fight together 👊🏻 #SM20 https://t.co/ScUqQVt4fL</div>
+The most popular user is: **__ayannamarie**
+<div class="alert alert-block alert-danger"> RT @six8uso: Soldiers are going missing, black people are getting killed &amp; kidnapped, children are being raped and put in cages by the gove…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChelseaFC** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **premierleague** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 2.7%|
-| Tweeters with > 1000000 followers  | 0.43%  |
+| #1 Most tweeted to  | **_SJPeace_** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **HoneySo4** |
+| NewProfiles (less than 10 days) | 0.75%  |
+| Tweeters with < 10 followers  | 4.95%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Daddy_Giroud**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GIROUD**  |
-| second  | **CHELSEA**  |
-| third  | **OLIVIER** |
-| fourth  | **WATFORD**  |
-| fifth  | **WILLIAN**  |
+| first  | **4TH**  |
+| second  | **JULY**  |
+| third  | **HAPPY** |
+| fourth  | **FUCK**  |
+| fifth  | **JULY!**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ChelseaFC And a goal from Giroud |
+|RT @TrumpWarRoom: Here's how MSNBC/Comcast "celebrated" the 4th of July:Mount Rushmore = "a symbol of white supremacy"George Washington… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Daddy_Giroud**  |
+| The most retweeted user is: **__ayannamarie**  |
 | ------------- |
-| RT @MustafiOfficial: Working on some more clean sheets. We fight together 👊🏻 #SM20 https://t.co/ScUqQVt4fL |
+| RT @six8uso: Soldiers are going missing, black people are getting killed &amp; kidnapped, children are being raped and put in cages by the gove… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
