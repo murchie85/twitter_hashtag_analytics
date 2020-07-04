@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#AllCountriesMatter"**
+&#x1F34E; **TOPIC = "Giroud"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @6Lixue9: Why would you celebrate the USA the 4th of July? Let’s celebrate all countries! They matter too! #AllCountriesMatter https://t… |
-| RT @madison_miler: this July 4th i would just like to remind everyone that #AllCountriesMatter 🥰 https://t.co/H11tPBO2H2 |
-| RT @6Lixue9: Why would you celebrate the USA the 4th of July? Let’s celebrate all countries! They matter too! #AllCountriesMatter https://t… |
+| RT @matissearmani: Some thoughts..- Willian has Jorginho x Hazard type reliablity from the penalty spot.- Pulisic has a bigger influenc… |
+| RT @KhaIzCFC: OLIVIER GIROUD WHAT A FINISH. 🔵 https://t.co/zfxZGnwwO5 |
+| GIROUD!!!!!! What a pass from Barkley!!! 1-0!! #CHEWAT #CFC |
 
-The most popular user is: **grodyhannah**
-<div class="alert alert-block alert-danger"> RT @JoCat105: whoa why are we celebrating the US on 4th of July? what about all the other great countries around the world? seems pretty un…</div>
+The most popular user is: **Daddy_Giroud**
+<div class="alert alert-block alert-danger"> RT @MustafiOfficial: Working on some more clean sheets. We fight together 👊🏻 #SM20 https://t.co/ScUqQVt4fL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **prcabcth** |
-| #2 Most tweeted to  | **madison_miler** |
-| #3 Most tweeted to  | **c0urteau** |
-| NewProfiles (less than 10 days) | 1.54%  |
-| Tweeters with < 10 followers  | 16.18%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ChelseaFC** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **premierleague** |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 2.7%|
+| Tweeters with > 1000000 followers  | 0.43%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **grodyhannah**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALLCOUNTRIESMATTER**  |
-| second  | **4TH**  |
-| third  | **CELEBRATE** |
-| fourth  | **COUNTRIES**  |
-| fifth  | **JULY**  |
+| first  | **GIROUD**  |
+| second  | **CHELSEA**  |
+| third  | **OLIVIER** |
+| fourth  | **WATFORD**  |
+| fifth  | **WILLIAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @madison_miler: this July 4th i would just like to remind everyone that #AllCountriesMatter 🥰 https://t.co/H11tPBO2H2 |
+|@ChelseaFC And a goal from Giroud |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **grodyhannah**  |
+| The most retweeted user is: **Daddy_Giroud**  |
 | ------------- |
-| RT @JoCat105: whoa why are we celebrating the US on 4th of July? what about all the other great countries around the world? seems pretty un… |
+| RT @MustafiOfficial: Working on some more clean sheets. We fight together 👊🏻 #SM20 https://t.co/ScUqQVt4fL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
