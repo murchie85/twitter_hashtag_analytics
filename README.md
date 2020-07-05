@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "elon musk"**
+&#x1F34E; **TOPIC = "#TrumpHasNoCredibility"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @iam_johnw: Kanye and Elon musk in the Oval Office at 3 am #kanye2020  https://t.co/teH6zewUg2 |
-| @Plinz Trump - Kanye - Elon. Life as dark comedy &amp; farce during a pandemic. Vote competent people. US a global laug… https://t.co/4whENC9rSG |
-| RT @zei_squirrel: elon musk hates chomsky because he called out how corporations suck off the state's teet, taking no risk and stealing tec… |
+| RT @Lara_Howled: Man, the list keeps getting longer and longer.#TrumpHasNoCredibility https://t.co/rBpq8ZrGRh |
+| RT @BMeiselas: Trump has no credibility, or self-awareness for that matter. #TrumpHasNoCredibility https://t.co/2Fj88NXczv |
+| RT @MeidasTouch: 📺 NEW VIDEOThe more you lie, and demean, and collude, the more credibility you lose. #TrumpHasNoCredibility https://t.… |
 
-The most popular user is: **JaimeSnMq**
-<div class="alert alert-block alert-danger"> RT @DannyVegito: Grimes and Elon Musk are the Kardashians for people who watch Rick &amp; Morty</div>
+The most popular user is: **Jrlvr88**
+<div class="alert alert-block alert-danger"> RT @MeidasTouch: 📺 NEW VIDEO
+
+The more you lie, and demean, and collude, the more credibility you lose. 
+
+#TrumpHasNoCredibility https://t.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **zei_squirrel** |
-| #2 Most tweeted to  | **AhmedBaba_** |
-| #3 Most tweeted to  | **bocxtop** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 4.78%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **MeidasTouch** |
+| #2 Most tweeted to  | **AdamParkhomenko** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 6.36%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **JaimeSnMq**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELON**  |
-| second  | **MUSK**  |
-| third  | **KANYE** |
-| fourth  | **WEST**  |
-| fifth  | **PRESIDENT**  |
+| first  | **TRUMPHASNOCREDIBILITY**  |
+| second  | **HASHTAG**  |
+| third  | **CREDIBILITY** |
+| fourth  | **RETWEET**  |
+| fifth  | **TRENDING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @vincent13031925: Tesla CEO @ElonMusk "Full Support" Kanye West @kanyewest Running For The US President 2020 Election#2020VISIONhttps… |
+|RT @RealDonalDrumpf: Many people are saying #TrumpHasNoCredibility and a lot of them even think my scriptwriter is just putting these lines… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JaimeSnMq**  |
+| The most retweeted user is: **Jrlvr88**  |
 | ------------- |
-| RT @DannyVegito: Grimes and Elon Musk are the Kardashians for people who watch Rick &amp; Morty |
+| RT @MeidasTouch: 📺 NEW VIDEOThe more you lie, and demean, and collude, the more credibility you lose. #TrumpHasNoCredibility https://t.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
