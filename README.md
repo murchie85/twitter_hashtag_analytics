@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpHasNoCredibility"**
+&#x1F34E; **TOPIC = "America"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Lara_Howled: Man, the list keeps getting longer and longer.#TrumpHasNoCredibility https://t.co/rBpq8ZrGRh |
-| RT @BMeiselas: Trump has no credibility, or self-awareness for that matter. #TrumpHasNoCredibility https://t.co/2Fj88NXczv |
-| RT @MeidasTouch: 📺 NEW VIDEOThe more you lie, and demean, and collude, the more credibility you lose. #TrumpHasNoCredibility https://t.… |
+| @CraigSh8 @MatthewJshow @realDonaldTrump If that’s the case, you’re going to soon find out just how insane America really is! |
+| RT @duty2warn: Trump is known this time. This theory his aides have that he can win a reelection in America by lying incessantly, trying to… |
+| RT @TeamTrump: America’s destiny is in our sights.America’s heroes are embedded in our hearts.  America’s future is in our hands.  An… |
 
-The most popular user is: **Jrlvr88**
-<div class="alert alert-block alert-danger"> RT @MeidasTouch: 📺 NEW VIDEO
-
-The more you lie, and demean, and collude, the more credibility you lose. 
-
-#TrumpHasNoCredibility https://t.…</div>
+The most popular user is: **BossKingBoogie**
+<div class="alert alert-block alert-danger"> RT @kanyewest: We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for pr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MeidasTouch** |
-| #2 Most tweeted to  | **AdamParkhomenko** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 6.36%|
+| #1 Most tweeted to  | **jehfro_** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **GOPLeader** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 5.13%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -43,28 +39,28 @@ The more you lie, and demean, and collude, the more credibility you lose.
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMPHASNOCREDIBILITY**  |
-| second  | **HASHTAG**  |
-| third  | **CREDIBILITY** |
-| fourth  | **RETWEET**  |
-| fifth  | **TRENDING**  |
+| first  | **AMERICA**  |
+| second  | **PRESIDENT**  |
+| third  | **NEED** |
+| fourth  | **NEXT**  |
+| fifth  | **WHILE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RealDonalDrumpf: Many people are saying #TrumpHasNoCredibility and a lot of them even think my scriptwriter is just putting these lines… |
+|RT @Lybio: Pres @realDonaldTrump We Will Never Surrender The Spirit &amp;The Courage &amp;The Cause Of #4thJuly 1776. In the face of lies meant to… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jrlvr88**  |
+| The most retweeted user is: **BossKingBoogie**  |
 | ------------- |
-| RT @MeidasTouch: 📺 NEW VIDEOThe more you lie, and demean, and collude, the more credibility you lose. #TrumpHasNoCredibility https://t.… |
+| RT @kanyewest: We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for pr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
