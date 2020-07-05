@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "4th of July"**
+&#x1F34E; **TOPIC = "elon musk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| It's 4th of July! Happy Independence day to all Americans! https://t.co/MztsYkUgmw |
-| RT @ava: Haven’t read Frederick Douglass’ mighty speech about July 4th? @DrIbram shares an abridged version here. Imagine Douglass. 10 year… |
-| RT @_SJPeace_: Fuck your 4th of JulyTHIS IS YOUR "INDEPENDENCE" https://t.co/NWUHgodRoZ |
+| RT @iam_johnw: Kanye and Elon musk in the Oval Office at 3 am #kanye2020  https://t.co/teH6zewUg2 |
+| @Plinz Trump - Kanye - Elon. Life as dark comedy &amp; farce during a pandemic. Vote competent people. US a global laug… https://t.co/4whENC9rSG |
+| RT @zei_squirrel: elon musk hates chomsky because he called out how corporations suck off the state's teet, taking no risk and stealing tec… |
 
-The most popular user is: **__ayannamarie**
-<div class="alert alert-block alert-danger"> RT @six8uso: Soldiers are going missing, black people are getting killed &amp; kidnapped, children are being raped and put in cages by the gove…</div>
+The most popular user is: **JaimeSnMq**
+<div class="alert alert-block alert-danger"> RT @DannyVegito: Grimes and Elon Musk are the Kardashians for people who watch Rick &amp; Morty</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_SJPeace_** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **HoneySo4** |
-| NewProfiles (less than 10 days) | 0.75%  |
-| Tweeters with < 10 followers  | 4.95%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **zei_squirrel** |
+| #2 Most tweeted to  | **AhmedBaba_** |
+| #3 Most tweeted to  | **bocxtop** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 4.78%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **__ayannamarie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **4TH**  |
-| second  | **JULY**  |
-| third  | **HAPPY** |
-| fourth  | **FUCK**  |
-| fifth  | **JULY!**  |
+| first  | **ELON**  |
+| second  | **MUSK**  |
+| third  | **KANYE** |
+| fourth  | **WEST**  |
+| fifth  | **PRESIDENT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TrumpWarRoom: Here's how MSNBC/Comcast "celebrated" the 4th of July:Mount Rushmore = "a symbol of white supremacy"George Washington… |
+|RT @vincent13031925: Tesla CEO @ElonMusk "Full Support" Kanye West @kanyewest Running For The US President 2020 Election#2020VISIONhttps… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **__ayannamarie**  |
+| The most retweeted user is: **JaimeSnMq**  |
 | ------------- |
-| RT @six8uso: Soldiers are going missing, black people are getting killed &amp; kidnapped, children are being raped and put in cages by the gove… |
+| RT @DannyVegito: Grimes and Elon Musk are the Kardashians for people who watch Rick &amp; Morty |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
