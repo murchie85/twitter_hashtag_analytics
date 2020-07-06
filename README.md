@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Davies"**
+&#x1F34E; **TOPIC = "Mahomes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @jurassicg1rl @carey_davies @nationaltrust @peakdistrict Thank you |
-| @carey_davies @nationaltrust @peakdistrict Silly gaslighting and Rabid anti-whiteism All lives matter ok bigot , an… https://t.co/fAnKwA9ryQ |
-| Significant Weather ADVISORY for Davies county KY Until 7:45 pm...a strong storm is moving west at 20 mph with heav… https://t.co/ZUroUZkW7i |
+| RT @NFL_Memes: Patrick Mahomes when he runs into Dak Prescott! (@Dojafat) https://t.co/z2vMUEr3lj |
+| RT @SportsCenter: Patrick Mahomes' deal could surpass half a billion dollars: 💵 10-year extension worth up to $503 million💵 Includes $47… |
+| @JC1053 U just let Dak walk now though if he asks for something similar though bc he’s not Mahomes right?! |
 
-The most popular user is: **Alice_Davies_**
-<div class="alert alert-block alert-danger"> RT @becauseoflwt: DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE…</div>
+The most popular user is: **Swagg3_OG**
+<div class="alert alert-block alert-danger"> RT @AdamSchefter: Chiefs and QB Patrick Mahomes have reached agreement on a 10-year -- 10-year! -- contract extension that ties him to Kans…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **carey_davies** |
-| #2 Most tweeted to  | **nationaltrust** |
-| #3 Most tweeted to  | **peakdistrict** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 3.21%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **RapSheet** |
+| #3 Most tweeted to  | **AdamSchefter** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.04%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Alice_Davies_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAVIES**  |
-| second  | **@CAREY_DAVIES**  |
-| third  | **STEVEN** |
-| fourth  | **AURIER**  |
-| fifth  | **⚠️**  |
+| first  | **PATRICK**  |
+| second  | **MAHOMES**  |
+| third  | **EXTENSION** |
+| fourth  | **10-YEAR**  |
+| fifth  | **WORTH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@richlittlebath @Andy_J_Davies @RRTennisDerby Thanks mate. Yes hopefully will look even better in a couple of weeks… https://t.co/SwbEoJFLfo |
+|RT @SportsCenter: Patrick Mahomes' deal could surpass half a billion dollars: 💵 10-year extension worth up to $503 million💵 Includes $47… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Alice_Davies_**  |
+| The most retweeted user is: **Swagg3_OG**  |
 | ------------- |
-| RT @becauseoflwt: DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE… |
+| RT @AdamSchefter: Chiefs and QB Patrick Mahomes have reached agreement on a 10-year -- 10-year! -- contract extension that ties him to Kans… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
