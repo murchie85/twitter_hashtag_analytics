@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "America"**
+&#x1F34E; **TOPIC = "Davies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @CraigSh8 @MatthewJshow @realDonaldTrump If that’s the case, you’re going to soon find out just how insane America really is! |
-| RT @duty2warn: Trump is known this time. This theory his aides have that he can win a reelection in America by lying incessantly, trying to… |
-| RT @TeamTrump: America’s destiny is in our sights.America’s heroes are embedded in our hearts.  America’s future is in our hands.  An… |
+| @jurassicg1rl @carey_davies @nationaltrust @peakdistrict Thank you |
+| @carey_davies @nationaltrust @peakdistrict Silly gaslighting and Rabid anti-whiteism All lives matter ok bigot , an… https://t.co/fAnKwA9ryQ |
+| Significant Weather ADVISORY for Davies county KY Until 7:45 pm...a strong storm is moving west at 20 mph with heav… https://t.co/ZUroUZkW7i |
 
-The most popular user is: **BossKingBoogie**
-<div class="alert alert-block alert-danger"> RT @kanyewest: We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for pr…</div>
+The most popular user is: **Alice_Davies_**
+<div class="alert alert-block alert-danger"> RT @becauseoflwt: DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jehfro_** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **GOPLeader** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 5.13%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **carey_davies** |
+| #2 Most tweeted to  | **nationaltrust** |
+| #3 Most tweeted to  | **peakdistrict** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 3.21%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BossKingBoogie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMERICA**  |
-| second  | **PRESIDENT**  |
-| third  | **NEED** |
-| fourth  | **NEXT**  |
-| fifth  | **WHILE**  |
+| first  | **DAVIES**  |
+| second  | **@CAREY_DAVIES**  |
+| third  | **STEVEN** |
+| fourth  | **AURIER**  |
+| fifth  | **⚠️**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Lybio: Pres @realDonaldTrump We Will Never Surrender The Spirit &amp;The Courage &amp;The Cause Of #4thJuly 1776. In the face of lies meant to… |
+|@richlittlebath @Andy_J_Davies @RRTennisDerby Thanks mate. Yes hopefully will look even better in a couple of weeks… https://t.co/SwbEoJFLfo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BossKingBoogie**  |
+| The most retweeted user is: **Alice_Davies_**  |
 | ------------- |
-| RT @kanyewest: We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for pr… |
+| RT @becauseoflwt: DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE AS A JOKE. DO NOT VOTE FOR KANYE… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
