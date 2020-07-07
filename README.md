@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mahomes"**
+&#x1F34E; **TOPIC = "Kylie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NFL_Memes: Patrick Mahomes when he runs into Dak Prescott! (@Dojafat) https://t.co/z2vMUEr3lj |
-| RT @SportsCenter: Patrick Mahomes' deal could surpass half a billion dollars: 💵 10-year extension worth up to $503 million💵 Includes $47… |
-| @JC1053 U just let Dak walk now though if he asks for something similar though bc he’s not Mahomes right?! |
+| RT @zoeyy227: Kylie Jenner is refusing to tag the designer of the dress she just posted, which is a black owned brand, and now limiting her… |
+| RT @petaltothmetal: it wouldve taken 2 seconds for kylie jenner to tag that small artist....,, and it would’ve changed her life forever....… |
+| RT @zoeyy227: Kylie Jenner is refusing to tag the designer of the dress she just posted, which is a black owned brand, and now limiting her… |
 
-The most popular user is: **Swagg3_OG**
-<div class="alert alert-block alert-danger"> RT @AdamSchefter: Chiefs and QB Patrick Mahomes have reached agreement on a 10-year -- 10-year! -- contract extension that ties him to Kans…</div>
+The most popular user is: **kylie_yant**
+<div class="alert alert-block alert-danger"> RT @__valeriatapia: today i learned that new zealand let health experts make the decisions about how to deal w the pandemic rather than pol…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **RapSheet** |
-| #3 Most tweeted to  | **AdamSchefter** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.04%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **zoeyy227** |
+| #2 Most tweeted to  | **flyyylotus** |
+| #3 Most tweeted to  | **SplashyStackss** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 2.71%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Swagg3_OG**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PATRICK**  |
-| second  | **MAHOMES**  |
-| third  | **EXTENSION** |
-| fourth  | **10-YEAR**  |
-| fifth  | **WORTH**  |
+| first  | **KYLIE**  |
+| second  | **BLACK**  |
+| third  | **JENNER** |
+| fourth  | **DRESS**  |
+| fifth  | **DESIGNER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SportsCenter: Patrick Mahomes' deal could surpass half a billion dollars: 💵 10-year extension worth up to $503 million💵 Includes $47… |
+|RT @zoeyy227: Kylie Jenner is refusing to tag the designer of the dress she just posted, which is a black owned brand, and now limiting her… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Swagg3_OG**  |
+| The most retweeted user is: **kylie_yant**  |
 | ------------- |
-| RT @AdamSchefter: Chiefs and QB Patrick Mahomes have reached agreement on a 10-year -- 10-year! -- contract extension that ties him to Kans… |
+| RT @__valeriatapia: today i learned that new zealand let health experts make the decisions about how to deal w the pandemic rather than pol… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
