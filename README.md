@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Disney"**
+&#x1F34E; **TOPIC = "TikTok"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jacksfilms: Now that Hamilton is out on Disney+, I want to share the original cut of one of my favorite songs from the musical https://… |
-| Miranda Devine: Backlash to 'Hamilton' proves 'you can never be woke enough' https://t.co/bVAtPoEyz1 |
-| Sneak Peek | The Owl House | Disney Channel https://t.co/o8Zl33pLrX via @YouTube |
+| RT @DonaldJTrumpJr: Defund academic leftist indoctrination! It’s truly sad what’s going on in college campuses. Marquette University thre… |
+| RT @KashWhiteley: This is a very strong contender for my all time favourite tiktok https://t.co/M8FcaoztQ6 |
+| RT @BenjiKrol: so america wants to ban tiktok but not guns... make it make sense |
 
-The most popular user is: **lacexwarrior**
-<div class="alert alert-block alert-danger"> RT @thejulianbass: if y’all can retweet this enough times that Disney calls, that’d be greatly appreciated https://t.co/GrKlIRxg3J</div>
+The most popular user is: **Ceromero20**
+<div class="alert alert-block alert-danger"> RT @BigHitEnt: Agust D - 'D-2' Full Mixtape available on
+#AgustD #D_2 #대취타 #Daechwita
+
+Orchard: https://t.co/Q2n2oGbfYf
+SoundCloud: https:/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jacksfilms** |
-| #2 Most tweeted to  | **Disney** |
-| #3 Most tweeted to  | **DRMovieNews1** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 6.02%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **bumble_hobee** |
+| #2 Most tweeted to  | **akirangei** |
+| #3 Most tweeted to  | **layzhang** |
+| NewProfiles (less than 10 days) | 1.85%  |
+| Tweeters with < 10 followers  | 7.17%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **lacexwarrior**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DISNEY**  |
-| second  | **DISNEY+**  |
-| third  | **HAMILTON** |
-| fourth  | **STAR**  |
-| fifth  | **WORLD**  |
+| first  | **TIKTOK**  |
+| second  | **DELETED**  |
+| third  | **USING** |
+| fourth  | **BAN**  |
+| fifth  | **SAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @dbongino: Colin Kaepernick Signs Deal With Disney Days After Complaining That America Oppresses Himhttps://t.co/kXQfmFqLN2 |
+|RT @akirangei: mfs unlock their phones with their faces but say tiktok should be deleted cuz it steals your info |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lacexwarrior**  |
+| The most retweeted user is: **Ceromero20**  |
 | ------------- |
-| RT @thejulianbass: if y’all can retweet this enough times that Disney calls, that’d be greatly appreciated https://t.co/GrKlIRxg3J |
+| RT @BigHitEnt: Agust D - 'D-2' Full Mixtape available on#AgustD #D_2 #대취타 #DaechwitaOrchard: https://t.co/Q2n2oGbfYfSoundCloud: https:/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
