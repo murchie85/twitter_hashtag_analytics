@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TikTok"**
+&#x1F34E; **TOPIC = "DeSean Jackson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DonaldJTrumpJr: Defund academic leftist indoctrination! It’s truly sad what’s going on in college campuses. Marquette University thre… |
-| RT @KashWhiteley: This is a very strong contender for my all time favourite tiktok https://t.co/M8FcaoztQ6 |
-| RT @BenjiKrol: so america wants to ban tiktok but not guns... make it make sense |
+| RT @charliekirk11: DeSean Jackson trying to quote Hitler:—Media silence—Players defend him—NFL silent—No apologyDrew Brees stands up… |
+| @Alyssa_Milano @NFL @Redskins Let me guess...you think DeSean Jackson's anti-semitism is totally OK just because he's black? |
+| RT @JackPosobiec: Gundy had to drop $1 million for wearing a conservative t-shirt but DeSean Jackson praises Adolf Hitler and the NFL did n… |
 
-The most popular user is: **Ceromero20**
-<div class="alert alert-block alert-danger"> RT @BigHitEnt: Agust D - 'D-2' Full Mixtape available on
-#AgustD #D_2 #대취타 #Daechwita
-
-Orchard: https://t.co/Q2n2oGbfYf
-SoundCloud: https:/…</div>
+The most popular user is: **TylerFolkerts**
+<div class="alert alert-block alert-danger"> RT @ClayTravis: It felt like virtually every NFL player ripped Drew Brees for saying he would stand for the national anthem because he beli…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bumble_hobee** |
-| #2 Most tweeted to  | **akirangei** |
-| #3 Most tweeted to  | **layzhang** |
-| NewProfiles (less than 10 days) | 1.85%  |
-| Tweeters with < 10 followers  | 7.17%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **charliekirk11** |
+| #2 Most tweeted to  | **JackPosobiec** |
+| #3 Most tweeted to  | **ClayTravis** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 5.62%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -43,28 +39,28 @@ SoundCloud: https:/…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIKTOK**  |
-| second  | **DELETED**  |
-| third  | **USING** |
-| fourth  | **BAN**  |
-| fifth  | **SAY**  |
+| first  | **DESEAN**  |
+| second  | **JACKSON**  |
+| third  | **DREW** |
+| fourth  | **BREES**  |
+| fifth  | **NFL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @akirangei: mfs unlock their phones with their faces but say tiktok should be deleted cuz it steals your info |
+|RT @alex_kirshner: DeSean Jackson's anti-semitic posts hurt a lot. But I don't want to hear about it from racists who spent the last month… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Ceromero20**  |
+| The most retweeted user is: **TylerFolkerts**  |
 | ------------- |
-| RT @BigHitEnt: Agust D - 'D-2' Full Mixtape available on#AgustD #D_2 #대취타 #DaechwitaOrchard: https://t.co/Q2n2oGbfYfSoundCloud: https:/… |
+| RT @ClayTravis: It felt like virtually every NFL player ripped Drew Brees for saying he would stand for the national anthem because he beli… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
