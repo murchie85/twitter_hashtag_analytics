@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "DeSean Jackson"**
+&#x1F34E; **TOPIC = "#TrumpMeltdown"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @charliekirk11: DeSean Jackson trying to quote Hitler:—Media silence—Players defend him—NFL silent—No apologyDrew Brees stands up… |
-| @Alyssa_Milano @NFL @Redskins Let me guess...you think DeSean Jackson's anti-semitism is totally OK just because he's black? |
-| RT @JackPosobiec: Gundy had to drop $1 million for wearing a conservative t-shirt but DeSean Jackson praises Adolf Hitler and the NFL did n… |
+| RT @Strandjunker: Can we please all agree that this experiment of having a dumb TV host and shady real estate developer with no government… |
+| RT @Strandjunker: Can we please all agree that this experiment of having a dumb TV host and shady real estate developer with no government… |
+| RT @Scottcrates: Now is a good time to remind everyone that Trump isn’t running FOR reelection, he’s running FROM prosecution. #TrumpMelt… |
 
-The most popular user is: **TylerFolkerts**
-<div class="alert alert-block alert-danger"> RT @ClayTravis: It felt like virtually every NFL player ripped Drew Brees for saying he would stand for the national anthem because he beli…</div>
+The most popular user is: **bonitarosekemp**
+<div class="alert alert-block alert-danger"> RT @middleageriot: At this point, Donald Trump is more likely to have a mental condition named after him than a presidential library. #Trum…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **charliekirk11** |
-| #2 Most tweeted to  | **JackPosobiec** |
-| #3 Most tweeted to  | **ClayTravis** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 5.62%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **Strandjunker** |
+| #3 Most tweeted to  | **Scottcrates** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 6.38%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **TylerFolkerts**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DESEAN**  |
-| second  | **JACKSON**  |
-| third  | **DREW** |
-| fourth  | **BREES**  |
-| fifth  | **NFL**  |
+| first  | **TRUMP**  |
+| second  | **TRUMPMELTDOWN**  |
+| third  | **RUNNING** |
+| fourth  | **TIME**  |
+| fifth  | **PLEASE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @alex_kirshner: DeSean Jackson's anti-semitic posts hurt a lot. But I don't want to hear about it from racists who spent the last month… |
+|RT @Scottcrates: Now is a good time to remind everyone that Trump isn’t running FOR reelection, he’s running FROM prosecution. #TrumpMelt… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TylerFolkerts**  |
+| The most retweeted user is: **bonitarosekemp**  |
 | ------------- |
-| RT @ClayTravis: It felt like virtually every NFL player ripped Drew Brees for saying he would stand for the national anthem because he beli… |
+| RT @middleageriot: At this point, Donald Trump is more likely to have a mental condition named after him than a presidential library. #Trum… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
