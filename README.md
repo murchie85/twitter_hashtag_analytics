@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpMeltdown"**
+&#x1F34E; **TOPIC = ""Aug""**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Strandjunker: Can we please all agree that this experiment of having a dumb TV host and shady real estate developer with no government… |
-| RT @Strandjunker: Can we please all agree that this experiment of having a dumb TV host and shady real estate developer with no government… |
-| RT @Scottcrates: Now is a good time to remind everyone that Trump isn’t running FOR reelection, he’s running FROM prosecution. #TrumpMelt… |
+| Aug, COLD GAME. You fell for her when she was vulnerable &amp; shit happened. Probably was real emotions, but not real… https://t.co/CRCPStPoYn |
+| @AmyDHill1 @Kristeenblacks1 Hello @AmyDHill1 good to see you ❤️👋 |
+| Awww...she still calls him 'Aug'. https://t.co/67T2UzxI5d |
 
-The most popular user is: **bonitarosekemp**
-<div class="alert alert-block alert-danger"> RT @middleageriot: At this point, Donald Trump is more likely to have a mental condition named after him than a presidential library. #Trum…</div>
+The most popular user is: **jcahannigan**
+<div class="alert alert-block alert-danger"> RT @ellengilmer: Unbelievably huge news on Dakota Access: The Dakota Access pipeline must shut down by Aug. 5, a district court ruled Monda…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **Strandjunker** |
-| #3 Most tweeted to  | **Scottcrates** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 6.38%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **notChvnel** |
+| #2 Most tweeted to  | **queeninghere** |
+| #3 Most tweeted to  | **wunderlotus** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 1.12%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **bonitarosekemp**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **TRUMPMELTDOWN**  |
-| third  | **RUNNING** |
-| fourth  | **TIME**  |
-| fifth  | **PLEASE**  |
+| first  | **AUG**  |
+| second  | **JADA**  |
+| third  | **HEALTH** |
+| fourth  | **HELPING**  |
+| fifth  | **@NOTCHVNEL:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Scottcrates: Now is a good time to remind everyone that Trump isn’t running FOR reelection, he’s running FROM prosecution. #TrumpMelt… |
+|RT @queeninghere: Jada helping Aug with his health https://t.co/r037wYM3sD |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bonitarosekemp**  |
+| The most retweeted user is: **jcahannigan**  |
 | ------------- |
-| RT @middleageriot: At this point, Donald Trump is more likely to have a mental condition named after him than a presidential library. #Trum… |
+| RT @ellengilmer: Unbelievably huge news on Dakota Access: The Dakota Access pipeline must shut down by Aug. 5, a district court ruled Monda… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
