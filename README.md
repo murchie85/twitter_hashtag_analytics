@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = ""Aug""**
+&#x1F34E; **TOPIC = "#senecacpd"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Aug, COLD GAME. You fell for her when she was vulnerable &amp; shit happened. Probably was real emotions, but not real… https://t.co/CRCPStPoYn |
-| @AmyDHill1 @Kristeenblacks1 Hello @AmyDHill1 good to see you ❤️👋 |
-| Awww...she still calls him 'Aug'. https://t.co/67T2UzxI5d |
+| RT @JEM_Science: Lovely start to a Saturday morning. #SenecaCPD #ScienceTeacher https://t.co/BcESGw7AcL |
+| Wow! Amazing video shared by @El_Timbre @SenecaLearn #senecacpd https://t.co/t81RYsdNLX |
+| So much great stuff from @El_Timbre helping students to make sense of the world around them. Maths is a superpower 🦸‍♀️ #senecacpd |
 
-The most popular user is: **jcahannigan**
-<div class="alert alert-block alert-danger"> RT @ellengilmer: Unbelievably huge news on Dakota Access: The Dakota Access pipeline must shut down by Aug. 5, a district court ruled Monda…</div>
+The most popular user is: **jojobara26**
+<div class="alert alert-block alert-danger"> RT @mathsjem: All three hours of today’s #senecaCPD maths conference can be viewed here: https://t.co/jgr88kU1J3</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **notChvnel** |
-| #2 Most tweeted to  | **queeninghere** |
-| #3 Most tweeted to  | **wunderlotus** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 1.12%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **SenecaLearn** |
+| #2 Most tweeted to  | **El_Timbre** |
+| #3 Most tweeted to  | **mathsjem** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 2.75%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jcahannigan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AUG**  |
-| second  | **JADA**  |
-| third  | **HEALTH** |
-| fourth  | **HELPING**  |
-| fifth  | **@NOTCHVNEL:**  |
+| first  | **SENECACPD**  |
+| second  | **MATHS**  |
+| third  | **CONFERENCE** |
+| fourth  | **@SENECALEARN**  |
+| fifth  | **@SENECALEARN:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @queeninghere: Jada helping Aug with his health https://t.co/r037wYM3sD |
+|RT @CoreMathsCat: "What does it mean to know a topic in depth?" Great advice @mathsjem #senecacpd https://t.co/8iuRPE9oaY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jcahannigan**  |
+| The most retweeted user is: **jojobara26**  |
 | ------------- |
-| RT @ellengilmer: Unbelievably huge news on Dakota Access: The Dakota Access pipeline must shut down by Aug. 5, a district court ruled Monda… |
+| RT @mathsjem: All three hours of today’s #senecaCPD maths conference can be viewed here: https://t.co/jgr88kU1J3 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
