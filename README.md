@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#senecacpd"**
+&#x1F34E; **TOPIC = "Disney World"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JEM_Science: Lovely start to a Saturday morning. #SenecaCPD #ScienceTeacher https://t.co/BcESGw7AcL |
-| Wow! Amazing video shared by @El_Timbre @SenecaLearn #senecacpd https://t.co/t81RYsdNLX |
-| So much great stuff from @El_Timbre helping students to make sense of the world around them. Maths is a superpower 🦸‍♀️ #senecacpd |
+| RT @WilliamAder: Yes, Disney World is reopening, but Disney has a history of killing off parents anyway. |
+| RT @FirstKnivesClub: Disney World giving everyone coronavirus like https://t.co/tqpMW8RExy |
+| RT @elainelow: It’s reopen day for Disney World, as COVID cases surge in Florida. The #DisneyWorld ride staff I spoke to feel confident abo… |
 
-The most popular user is: **jojobara26**
-<div class="alert alert-block alert-danger"> RT @mathsjem: All three hours of today’s #senecaCPD maths conference can be viewed here: https://t.co/jgr88kU1J3</div>
+The most popular user is: **kingcashmere**
+<div class="alert alert-block alert-danger"> RT @GrossmanMax: To all the Disney-obsessed adults getting angry about Splash Mountain changing it's name, might I suggest not being an adu…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SenecaLearn** |
-| #2 Most tweeted to  | **El_Timbre** |
-| #3 Most tweeted to  | **mathsjem** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 2.75%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **FirstKnivesClub** |
+| #2 Most tweeted to  | **NBCNews** |
+| #3 Most tweeted to  | **danpfeiffer** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.99%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jojobara26**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SENECACPD**  |
-| second  | **MATHS**  |
-| third  | **CONFERENCE** |
-| fourth  | **@SENECALEARN**  |
-| fifth  | **@SENECALEARN:**  |
+| first  | **DISNEY**  |
+| second  | **WORLD**  |
+| third  | **FLORIDA** |
+| fourth  | **CASES**  |
+| fifth  | **CORONAVIRUS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CoreMathsCat: "What does it mean to know a topic in depth?" Great advice @mathsjem #senecacpd https://t.co/8iuRPE9oaY |
+|RT @bornmiserable: BREAKING: It's a Small World After All, But Walt Disney World Hopes to Make It Even Smaller By Reopening During a Pandem… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jojobara26**  |
+| The most retweeted user is: **kingcashmere**  |
 | ------------- |
-| RT @mathsjem: All three hours of today’s #senecaCPD maths conference can be viewed here: https://t.co/jgr88kU1J3 |
+| RT @GrossmanMax: To all the Disney-obsessed adults getting angry about Splash Mountain changing it's name, might I suggest not being an adu… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
