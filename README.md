@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "LITTLE MIX NEW SINGLE"**
+&#x1F34E; **TOPIC = "Marlo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| La rosaLITTLE MIX NEW SINGLE https://t.co/92X4pFje5D |
-| RT @ShadyMixerFacts: We’re just dancing the night awayI’ve been looking for the feelingTouch me like a summer nightYou put the sun up in… |
-| @wallsthirlwall siLM5 1BILLONLITTLE MIX NEW SINGLE |
+| damn rip marlo i know @lilbaby4PF hurting , nigga probably sleep ! |
+| Mann I’m tryn be laid up no cap |
+| RT @sohh: BREAKING: Atlanta rapper Lil Marlo has been found dead at age 27. Rest in peace 💔 https://t.co/5I8dPp6xKX |
 
-The most popular user is: **thirluv**
-<div class="alert alert-block alert-danger"> RT @motivatedjade: if you see this reply with "LITTLE MIX NEW SINGLE" let's hype the girls up https://t.co/sih9iJ3fwq</div>
+The most popular user is: **marlo_jenni**
+<div class="alert alert-block alert-danger"> RT @zarimx: Y’all this Wayfair Human trafficking thing is crazy. Look at this, there are two pillows/shower curtains that are the exact sam…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LittleMix** |
-| #2 Most tweeted to  | **PopBase** |
-| #3 Most tweeted to  | **mixermanagement** |
-| NewProfiles (less than 10 days) | 2.29%  |
-| Tweeters with < 10 followers  | 4.8%|
+| #1 Most tweeted to  | **LilBabyRaps** |
+| #2 Most tweeted to  | **sohh** |
+| #3 Most tweeted to  | **ThegirlJT** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 1.29%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **thirluv**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MIX**  |
-| second  | **NEW**  |
-| third  | **LITTLE** |
-| fourth  | **SINGLE**  |
-| fifth  | **@LITTLEMIX**  |
+| first  | **MARLO**  |
+| second  | **LIL**  |
+| third  | **RIP** |
+| fourth  | **SHIT**  |
+| fifth  | **REST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (93.33%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@drunkwithjesy @mixermanagement LITTLE MIX NEW SINGLE |
+|damn rip lil marlo shit crazy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **thirluv**  |
+| The most retweeted user is: **marlo_jenni**  |
 | ------------- |
-| RT @motivatedjade: if you see this reply with "LITTLE MIX NEW SINGLE" let's hype the girls up https://t.co/sih9iJ3fwq |
+| RT @zarimx: Y’all this Wayfair Human trafficking thing is crazy. Look at this, there are two pillows/shower curtains that are the exact sam… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
