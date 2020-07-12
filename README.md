@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Marlo"**
+&#x1F34E; **TOPIC = "Dr. Fauci"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| damn rip marlo i know @lilbaby4PF hurting , nigga probably sleep ! |
-| Mann I’m tryn be laid up no cap |
-| RT @sohh: BREAKING: Atlanta rapper Lil Marlo has been found dead at age 27. Rest in peace 💔 https://t.co/5I8dPp6xKX |
+| RT @DrDinD: I will trust Dr Fauci over anyone in that White House |
+| RT @GeigerNews: Dr. Anthony Fauci who has not *seen* President Body Bag since June 2:"I have a reputation, as you probably have figured o… |
+| RT @TomthunkitsMind: ‘I wear a cloth mask’ — Dr. Fauci weighed in on which type of mask is best https://t.co/c3m6Zv1ecg 01#DontDie |
 
-The most popular user is: **marlo_jenni**
-<div class="alert alert-block alert-danger"> RT @zarimx: Y’all this Wayfair Human trafficking thing is crazy. Look at this, there are two pillows/shower curtains that are the exact sam…</div>
+The most popular user is: **i91679049**
+<div class="alert alert-block alert-danger"> RT @tribelaw: Dr. Fauci, chief advisor to the president on Covid-19, says he hasn’t briefed the president in two months and isn’t being all…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LilBabyRaps** |
-| #2 Most tweeted to  | **sohh** |
-| #3 Most tweeted to  | **ThegirlJT** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 1.29%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BeschlossDC** |
+| #2 Most tweeted to  | **funder** |
+| #3 Most tweeted to  | **RepSwalwell** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 4.31%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **marlo_jenni**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARLO**  |
-| second  | **LIL**  |
-| third  | **RIP** |
-| fourth  | **SHIT**  |
-| fifth  | **REST**  |
+| first  | **DR**  |
+| second  | **FAUCI**  |
+| third  | **WHITE** |
+| fourth  | **TRUMP**  |
+| fifth  | **HOUSE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|damn rip lil marlo shit crazy |
+|RT @jimsciutto: Within five days:- LTC Vindman, the Purple Heart recipient, determines his military career is over- Roger Stone, the con… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **marlo_jenni**  |
+| The most retweeted user is: **i91679049**  |
 | ------------- |
-| RT @zarimx: Y’all this Wayfair Human trafficking thing is crazy. Look at this, there are two pillows/shower curtains that are the exact sam… |
+| RT @tribelaw: Dr. Fauci, chief advisor to the president on Covid-19, says he hasn’t briefed the president in two months and isn’t being all… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
