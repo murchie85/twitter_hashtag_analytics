@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dr. Fauci"**
+&#x1F34E; **TOPIC = "#Covid_19"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DrDinD: I will trust Dr Fauci over anyone in that White House |
-| RT @GeigerNews: Dr. Anthony Fauci who has not *seen* President Body Bag since June 2:"I have a reputation, as you probably have figured o… |
-| RT @TomthunkitsMind: ‘I wear a cloth mask’ — Dr. Fauci weighed in on which type of mask is best https://t.co/c3m6Zv1ecg 01#DontDie |
+| RT @06Bhumi: Patient needs #Tocilizumab injection 600mg in Surat urgently for our uncle.He is in ventilator and Injection is not available… |
+| RT @Noor_and_Alaa: A #Syrian girl in a refugee camp in #Idlib where millions people are exposed to #Covid_19  catastrophe , we should be th… |
+| RT @grantstern: As strongly suspected, coronavirus immunity isn't that strong after having the illness, and people who get #Covid_19 can be… |
 
-The most popular user is: **i91679049**
-<div class="alert alert-block alert-danger"> RT @tribelaw: Dr. Fauci, chief advisor to the president on Covid-19, says he hasn’t briefed the president in two months and isn’t being all…</div>
+The most popular user is: **PrettyBeaches**
+<div class="alert alert-block alert-danger"> RT @HKrassenstein: BREAKING: Florida just surpassed 15,300 new cases of #Covid_19 in a single day.  That’s more than all of Europe combined…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BeschlossDC** |
-| #2 Most tweeted to  | **funder** |
-| #3 Most tweeted to  | **RepSwalwell** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 4.31%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **tedlieu** |
+| #2 Most tweeted to  | **BorisJohnson_MP** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.65%  |
+| Tweeters with < 10 followers  | 7.39%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **i91679049**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DR**  |
-| second  | **FAUCI**  |
-| third  | **WHITE** |
-| fourth  | **TRUMP**  |
-| fifth  | **HOUSE**  |
+| first  | **COVID_19**  |
+| second  | **CORONAVIRUS**  |
+| third  | **US** |
+| fourth  | **PEOPLE**  |
+| fifth  | **FIRST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jimsciutto: Within five days:- LTC Vindman, the Purple Heart recipient, determines his military career is over- Roger Stone, the con… |
+|RT @HKrassenstein: The man who cheated on his SATs and told us #Covid_19 was a hoax that would "miraculously disappear" in April, now wants… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **i91679049**  |
+| The most retweeted user is: **PrettyBeaches**  |
 | ------------- |
-| RT @tribelaw: Dr. Fauci, chief advisor to the president on Covid-19, says he hasn’t briefed the president in two months and isn’t being all… |
+| RT @HKrassenstein: BREAKING: Florida just surpassed 15,300 new cases of #Covid_19 in a single day.  That’s more than all of Europe combined… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
