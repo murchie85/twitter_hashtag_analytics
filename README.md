@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Southampton"**
+&#x1F34E; **TOPIC = "#happygamer"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @razaqisaaa: Paul Pogba | Skills &amp; Highlights Vs Southampton | Better than De bruyne? https://t.co/lWKrSlq0Sy |
-| Obafemi has final say as Southampton stall Man United’s run of wins https://t.co/xzQXC9Eg8k via @IrishTimesSport |
-| RT @BnsComps: Anthony Martial   Vs   Southamptonhttps://t.co/3YBB1wBMKb |
+| @pokimanelol Being able to make more friends with every new game that comes out throughout the years. $minininja8 #HappyGamer |
+| @pokimanelol #happygamer moment https://t.co/aqFgQ1MS1g |
+| @pokimanelol One of my favorite #happygamer moment happened 2 nights ago. My best friends and I stayed up until 5 a… https://t.co/lKNMc7E6pD |
 
-The most popular user is: **James6foot5HIGH**
-<div class="alert alert-block alert-danger"> RT @TrollFootball: Ole Gunnar Solskjaer has confirmed that Bruno Fernandes will take both penalties against Southampton tonight.</div>
+The most popular user is: **oneandonly747**
+<div class="alert alert-block alert-danger"> RT @pokimanelol: giveaway time 😁💰
+
+reply to this tweet with any happy or wholesome gaming moment + use the #happygamer and drop your $casht…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MacalinAbz** |
-| #2 Most tweeted to  | **goal** |
-| #3 Most tweeted to  | **ManUtd** |
-| NewProfiles (less than 10 days) | 0.99%  |
-| Tweeters with < 10 followers  | 1.68%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **pokimanelol** |
+| #2 Most tweeted to  | **AlexPazzy** |
+| #3 Most tweeted to  | **JustHenryN23** |
+| NewProfiles (less than 10 days) | 3.27%  |
+| Tweeters with < 10 followers  | 24.28%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **James6foot5HIGH**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SOUTHAMPTON**  |
-| second  | **MAN**  |
-| third  | **UNITED** |
-| fourth  | **VS**  |
-| fifth  | **😂**  |
+| first  | **HAPPYGAMER**  |
+| second  | **MOMENT**  |
+| third  | **TIME** |
+| fourth  | **GAMING**  |
+| fifth  | **WHOLESOME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @goal: Bednarek's assist for Southampton's late equaliser...Just look at who Harry Maguire was marking 🤦‍♂️🤦‍♂️🤦‍♂️ https://t.co/1Roy3… |
+|@pokimanelol When my niece beat her first big video game from start to finish without my help lol. She beat mario o… https://t.co/IKqUUIcJc5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **James6foot5HIGH**  |
+| The most retweeted user is: **oneandonly747**  |
 | ------------- |
-| RT @TrollFootball: Ole Gunnar Solskjaer has confirmed that Bruno Fernandes will take both penalties against Southampton tonight. |
+| RT @pokimanelol: giveaway time 😁💰reply to this tweet with any happy or wholesome gaming moment + use the #happygamer and drop your $casht… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
