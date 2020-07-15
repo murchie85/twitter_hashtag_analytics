@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ARSLIV"**
+&#x1F34E; **TOPIC = "Shandro"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Is it surprising Klopp hasn't played Jones, Elliott, Shaq these past few games? #ARSLIV |
-| Ai let me have my peaceful sleep. 🙄#ARSLIV |
-| RT @SecretaryAce: Once again, who do you prefer?1. Retweet for Virgil van Dijk2. Like for Sergio Ramos #ARSLIV https://t.co/54K6qGY5Sd |
+| RT @gilmcgowan: Great thread. Lots of facts about how much Alberta doctors are really paid that you won’t hear from Shandro and the UCP. 👉… |
+| RT @DrKU14: @shandro The notion of transparency from this gov't is hilarious at best. Will @shandro also be posting his conflict of interes… |
+| @shandro Heritage fund, pensions... shut up. |
 
-The most popular user is: **abbie_xxxxxxxx**
-<div class="alert alert-block alert-danger"> RT @LFC: 📋⚫️ Tonight's line-up to face @Arsenal... 
-
-#ARSLIV</div>
+The most popular user is: **CodyWesley8**
+<div class="alert alert-block alert-danger"> RT @ryanjespersen: Remember, my fellow Albertans. Our doctors already proposed a 5% wage cut. @shandro &amp; the #UCP responded by walking away…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **goal** |
-| #3 Most tweeted to  | **LFC** |
-| NewProfiles (less than 10 days) | 1.03%  |
-| Tweeters with < 10 followers  | 4.05%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **shandro** |
+| #2 Most tweeted to  | **Albertadoctors** |
+| #3 Most tweeted to  | **jkenney** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 2.34%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **abbie_xxxxxxxx**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARSLIV**  |
-| second  | **ARSENAL**  |
-| third  | **LIVERPOOL** |
-| fourth  | **ARSLIVRT**  |
-| fifth  | **@ARSENAL:**  |
+| first  | **@SHANDRO**  |
+| second  | **DOCTORS**  |
+| third  | **SHANDRO** |
+| fourth  | **ALBERTA**  |
+| fifth  | **UCP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Gerald_Stribes: Jurgen klopp,sadio mane,firmino, and salah since restart.Arsenal vs Liverpool#ARSLIV https://t.co/C0iCUeXfAQ |
+|RT @JulieRohrYEG: What we’d LIKE to see, mr. @shandro, is exactly how much your family will financially benefit from increased need for hea… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **abbie_xxxxxxxx**  |
+| The most retweeted user is: **CodyWesley8**  |
 | ------------- |
-| RT @LFC: 📋⚫️ Tonight's line-up to face @Arsenal... #ARSLIV |
+| RT @ryanjespersen: Remember, my fellow Albertans. Our doctors already proposed a 5% wage cut. @shandro &amp; the #UCP responded by walking away… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
