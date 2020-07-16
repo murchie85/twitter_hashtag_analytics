@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Shandro"**
+&#x1F34E; **TOPIC = "#TrumpFailsAmerica"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @gilmcgowan: Great thread. Lots of facts about how much Alberta doctors are really paid that you won’t hear from Shandro and the UCP. 👉… |
-| RT @DrKU14: @shandro The notion of transparency from this gov't is hilarious at best. Will @shandro also be posting his conflict of interes… |
-| @shandro Heritage fund, pensions... shut up. |
+| RT @drja102000: This did not age well at all. #TrumpFailsAmerica https://t.co/9QEIOC0cuP |
+| RT @warrior_covfefe: #Trump never fails at taking the presidency to lower and lower levels of decency and ethics. How LOW can he go?Hope… |
+| RT @pink80sgirl: @NicoleSganga @PaulaReidCBS @NRA Here is how some of his bootlickers feel. #TrumpFailsAmerica https://t.co/JhAAXNUxKW #Tru… |
 
-The most popular user is: **CodyWesley8**
-<div class="alert alert-block alert-danger"> RT @ryanjespersen: Remember, my fellow Albertans. Our doctors already proposed a 5% wage cut. @shandro &amp; the #UCP responded by walking away…</div>
+The most popular user is: **BeastEverything**
+<div class="alert alert-block alert-danger"> RT @TheDailyEdge: Absolutely disgusting from @PressSec. USA is only “the outlier” on reopening schools because #TrumpFailsAmerica every day…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **shandro** |
-| #2 Most tweeted to  | **Albertadoctors** |
-| #3 Most tweeted to  | **jkenney** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 2.34%|
+| #1 Most tweeted to  | **PressSec** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **TheDailyEdge** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 6.9%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **CodyWesley8**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@SHANDRO**  |
-| second  | **DOCTORS**  |
-| third  | **SHANDRO** |
-| fourth  | **ALBERTA**  |
-| fifth  | **UCP**  |
+| first  | **TRUMPFAILSAMERICA**  |
+| second  | **TRUMP**  |
+| third  | **@PRESSSEC** |
+| fourth  | **SCHOOLS**  |
+| fifth  | **@REALDONALDTRUMP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JulieRohrYEG: What we’d LIKE to see, mr. @shandro, is exactly how much your family will financially benefit from increased need for hea… |
+|RT @DerekCressman: #TrumpFailsAmerica along with Betsy Devos |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CodyWesley8**  |
+| The most retweeted user is: **BeastEverything**  |
 | ------------- |
-| RT @ryanjespersen: Remember, my fellow Albertans. Our doctors already proposed a 5% wage cut. @shandro &amp; the #UCP responded by walking away… |
+| RT @TheDailyEdge: Absolutely disgusting from @PressSec. USA is only “the outlier” on reopening schools because #TrumpFailsAmerica every day… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
