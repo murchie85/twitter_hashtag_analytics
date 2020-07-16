@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpFailsAmerica"**
+&#x1F34E; **TOPIC = "#NotMyChild"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @drja102000: This did not age well at all. #TrumpFailsAmerica https://t.co/9QEIOC0cuP |
-| RT @warrior_covfefe: #Trump never fails at taking the presidency to lower and lower levels of decency and ethics. How LOW can he go?Hope… |
-| RT @pink80sgirl: @NicoleSganga @PaulaReidCBS @NRA Here is how some of his bootlickers feel. #TrumpFailsAmerica https://t.co/JhAAXNUxKW #Tru… |
+| RT @donwinslow: Dear @Twitter How come after my #NotMyChild video trended at #1 suddenly thousands of people were unable to retweet my vi… |
+| RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out. |
+| RT @ginscience1: @donwinslow @Eleven_Films HOW ABOUT PEOPLE ACTUALLY BECOMING OUTRAGED &amp; GOING NUTS ABOUT DRUMPF ORDERING HOSPITALS TO BYPA… |
 
-The most popular user is: **BeastEverything**
-<div class="alert alert-block alert-danger"> RT @TheDailyEdge: Absolutely disgusting from @PressSec. USA is only “the outlier” on reopening schools because #TrumpFailsAmerica every day…</div>
+The most popular user is: **NCPoliticalSpin**
+<div class="alert alert-block alert-danger"> RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PressSec** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **TheDailyEdge** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 6.9%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **donwinslow** |
+| #2 Most tweeted to  | **Twitter** |
+| #3 Most tweeted to  | **PressSec** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 6.22%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BeastEverything**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMPFAILSAMERICA**  |
-| second  | **TRUMP**  |
-| third  | **@PRESSSEC** |
-| fourth  | **SCHOOLS**  |
-| fifth  | **@REALDONALDTRUMP**  |
+| first  | **NOTMYCHILD**  |
+| second  | **@DONWINSLOW:**  |
+| third  | **TWEET** |
+| fourth  | **RETWEET**  |
+| fifth  | **VIDEO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (11.11%) & **NEGATIVELY-SUBJECTIVE** (44.44%) **OBJECTIVE** (44.44%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DerekCressman: #TrumpFailsAmerica along with Betsy Devos |
+|RT @RealDonalDrumpf: Thank you, Ivanka Lite!We must follow the European 5-Step Plan for Re-Opening Schools❌National Testing Strategy❌Na… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BeastEverything**  |
+| The most retweeted user is: **NCPoliticalSpin**  |
 | ------------- |
-| RT @TheDailyEdge: Absolutely disgusting from @PressSec. USA is only “the outlier” on reopening schools because #TrumpFailsAmerica every day… |
+| RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
