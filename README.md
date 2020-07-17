@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NotMyChild"**
+&#x1F34E; **TOPIC = "Leeds"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @donwinslow: Dear @Twitter How come after my #NotMyChild video trended at #1 suddenly thousands of people were unable to retweet my vi… |
-| RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out. |
-| RT @ginscience1: @donwinslow @Eleven_Films HOW ABOUT PEOPLE ACTUALLY BECOMING OUTRAGED &amp; GOING NUTS ABOUT DRUMPF ORDERING HOSPITALS TO BYPA… |
+| RT @SeanDZWalsh: Looking forward to Leeds getting pumped 6-0 at Manchester City next season and Pep Guardiola saying that they’re one of th… |
+| RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…#lufc https://t.co/hqlcSHoJZL |
+| Fuck off bozza Leeds are going up! https://t.co/NXc6WRbUTZ |
 
-The most popular user is: **NCPoliticalSpin**
-<div class="alert alert-block alert-danger"> RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out.</div>
+The most popular user is: **leandrozapponi**
+<div class="alert alert-block alert-danger"> RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…
+#lufc https://t.co/hqlcSHoJZL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **donwinslow** |
-| #2 Most tweeted to  | **Twitter** |
-| #3 Most tweeted to  | **PressSec** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 6.22%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **BBCSport** |
+| #2 Most tweeted to  | **LUFC** |
+| #3 Most tweeted to  | **SkySportsNews** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 2.83%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **NCPoliticalSpin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NOTMYCHILD**  |
-| second  | **@DONWINSLOW:**  |
-| third  | **TWEET** |
-| fourth  | **RETWEET**  |
-| fifth  | **VIDEO**  |
+| first  | **LEEDS**  |
+| second  | **UNITED**  |
+| third  | **PREMIER** |
+| fourth  | **LEAGUE**  |
+| fifth  | **FANS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (11.11%) & **NEGATIVELY-SUBJECTIVE** (44.44%) **OBJECTIVE** (44.44%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RealDonalDrumpf: Thank you, Ivanka Lite!We must follow the European 5-Step Plan for Re-Opening Schools❌National Testing Strategy❌Na… |
+|@liamgallagher Leeds united are coming |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NCPoliticalSpin**  |
+| The most retweeted user is: **leandrozapponi**  |
 | ------------- |
-| RT @donwinslow: #NotMyChild is trending number three in the United States. Retweet, reply to this tweet with the hashtag, and tweet it out. |
+| RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…#lufc https://t.co/hqlcSHoJZL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
