@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Leeds"**
+&#x1F34E; **TOPIC = "Chad"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SeanDZWalsh: Looking forward to Leeds getting pumped 6-0 at Manchester City next season and Pep Guardiola saying that they’re one of th… |
-| RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…#lufc https://t.co/hqlcSHoJZL |
-| Fuck off bozza Leeds are going up! https://t.co/NXc6WRbUTZ |
+| RT @AfricaFactsZone: 29-year-old Amina Longoh becomes Chad's new Minister of Women's Affairs and Child Protection. https://t.co/AZyDHFaKUc |
+| RT @bulmasan: @DHS_Wolf You've brought in federal officers in unmarked cars to conduct a war against —(checks notes)— Graffiti. Graff… |
+| RT @TUSK81: Not only are both Chad Wolf (@DHS_Wolf) and his deputy Ken Cuccinelli (@HomelandKen) unconfirmed to DHS, a federal judge ruled… |
 
-The most popular user is: **leandrozapponi**
-<div class="alert alert-block alert-danger"> RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…
-#lufc https://t.co/hqlcSHoJZL</div>
+The most popular user is: **ronhuon**
+<div class="alert alert-block alert-danger"> RT @lilylefae: "You're bi??? How are you bi if you're dating a guy?" 
+
+I EAT SALAD DOES THAT MEAN IM A VEGETARIAN??? Keep it up Chad and I'…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCSport** |
-| #2 Most tweeted to  | **LUFC** |
-| #3 Most tweeted to  | **SkySportsNews** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 2.83%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **RonWyden** |
+| #2 Most tweeted to  | **DHS_Wolf** |
+| #3 Most tweeted to  | **DHSgov** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 2.52%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +41,28 @@ The most popular user is: **leandrozapponi**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEEDS**  |
-| second  | **UNITED**  |
-| third  | **PREMIER** |
-| fourth  | **LEAGUE**  |
-| fifth  | **FANS**  |
+| first  | **CHAD**  |
+| second  | **WOLF**  |
+| third  | **PORTLAND** |
+| fourth  | **@RONWYDEN:**  |
+| fifth  | **DHS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@liamgallagher Leeds united are coming |
+|RT @kurteichenwald: Chad Wolf of @DHSgov needs to be arrested for conspiracy to kidnap Americans. They are grabbing up people with no proba… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **leandrozapponi**  |
+| The most retweeted user is: **ronhuon**  |
 | ------------- |
-| RT @BBCSport: Marcelo Bielsa, Leeds fans love you more than you will ever know…#lufc https://t.co/hqlcSHoJZL |
+| RT @lilylefae: "You're bi??? How are you bi if you're dating a guy?" I EAT SALAD DOES THAT MEAN IM A VEGETARIAN??? Keep it up Chad and I'… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
