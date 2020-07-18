@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chad"**
+&#x1F34E; **TOPIC = "John Lewis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AfricaFactsZone: 29-year-old Amina Longoh becomes Chad's new Minister of Women's Affairs and Child Protection. https://t.co/AZyDHFaKUc |
-| RT @bulmasan: @DHS_Wolf You've brought in federal officers in unmarked cars to conduct a war against —(checks notes)— Graffiti. Graff… |
-| RT @TUSK81: Not only are both Chad Wolf (@DHS_Wolf) and his deputy Ken Cuccinelli (@HomelandKen) unconfirmed to DHS, a federal judge ruled… |
+| @realDonaldTrump In very respectful memory of Congressman John Lewis, a true American hero.https://t.co/xvQhRHv2N1 |
+| RT @BeschlossDC: Thank you to our four living ex-Presidents for honoring John Lewis today. |
+| RT @topshelfcomix: Congressman John Lewis.At Comic-Con.In costume.(Recreating his trench coat and backpack from Selma 50 years ago) http… |
 
-The most popular user is: **ronhuon**
-<div class="alert alert-block alert-danger"> RT @lilylefae: "You're bi??? How are you bi if you're dating a guy?" 
+The most popular user is: **Tactical_Pinup**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:
 
-I EAT SALAD DOES THAT MEAN IM A VEGETARIAN??? Keep it up Chad and I'…</div>
+https://t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonWyden** |
-| #2 Most tweeted to  | **DHS_Wolf** |
-| #3 Most tweeted to  | **DHSgov** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.52%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **JoeBiden** |
+| #3 Most tweeted to  | **senatemajldr** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 3.41%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +41,28 @@ I EAT SALAD DOES THAT MEAN IM A VEGETARIAN??? Keep it up Chad and I'…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHAD**  |
-| second  | **WOLF**  |
-| third  | **PORTLAND** |
-| fourth  | **@RONWYDEN:**  |
-| fifth  | **DHS**  |
+| first  | **JOHN**  |
+| second  | **LEWIS**  |
+| third  | **RIGHTS** |
+| fourth  | **CIVIL**  |
+| fifth  | **ELIJAH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kurteichenwald: Chad Wolf of @DHSgov needs to be arrested for conspiracy to kidnap Americans. They are grabbing up people with no proba… |
+|RT @cristianafarias: Here’s John Lewis torching the Supreme Court for gutting the Voting Rights Act of 1965:“Those justices were never be… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ronhuon**  |
+| The most retweeted user is: **Tactical_Pinup**  |
 | ------------- |
-| RT @lilylefae: "You're bi??? How are you bi if you're dating a guy?" I EAT SALAD DOES THAT MEAN IM A VEGETARIAN??? Keep it up Chad and I'… |
+| RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:https://t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
