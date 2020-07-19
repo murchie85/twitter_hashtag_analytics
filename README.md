@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#goodtrouble"**
+&#x1F34E; **TOPIC = "De Gea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NYGovCuomo: With John Lewis’ passing, America lost a civil rights icon who shined a light and fought the fight. Know that we will con… |
-| RT @repjohnlewis: I have been beaten, my skull fractured, and arrested more than forty times so that each and every person has the right to… |
-| RT @chonikyogbal: @RepValDemings #goodtrouble 💔 Rest in Power and Peace Rep Lewis...we’ll continue for you by VOTING in every future electi… |
+| RT @Tonicamillex: United fans have had a parade for a week after Alisson and Van Dijk did their first mistakes of the season, only for Magu… |
+| RT @__Omoissy: We beat Chelsea 3 times FC - Out!Pogba unlocked -OutMartial &amp; Rashford duo -OutWan Bissaka,best RB in the world-OutGreen… |
+| De gea OUT Henderson IN, he do me strong thing tonight, big FK |
 
-The most popular user is: **LolitaMalone20**
-<div class="alert alert-block alert-danger"> RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont…</div>
+The most popular user is: **UtdLogan**
+<div class="alert alert-block alert-danger"> RT @RiZzyUTD: Roy Keane to De Gea after the game  https://t.co/78dXm5dgq2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **repjohnlewis** |
-| #2 Most tweeted to  | **KamalaHarris** |
-| #3 Most tweeted to  | **HamillHimself** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 4.09%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **FootyHumour** |
+| #2 Most tweeted to  | **RiZzyUTD** |
+| #3 Most tweeted to  | **frankedoho** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 3.08%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LolitaMalone20**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOHN**  |
-| second  | **LEWIS**  |
-| third  | **GOODTROUBLE** |
-| fourth  | **SPEAK**  |
-| fifth  | **@REPJOHNLEWIS:**  |
+| first  | **DE**  |
+| second  | **GEA**  |
+| third  | **MAGUIRE** |
+| fourth  | **DAVID**  |
+| fifth  | **AFTER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @repjohnlewis: I have been beaten, my skull fractured, and arrested more than forty times so that each and every person has the right to… |
+|RT @Blaaq_ie: If De Gea was Jesus, Our souls won’t be Saved ! #MUNCHE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LolitaMalone20**  |
+| The most retweeted user is: **UtdLogan**  |
 | ------------- |
-| RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont… |
+| RT @RiZzyUTD: Roy Keane to De Gea after the game  https://t.co/78dXm5dgq2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
