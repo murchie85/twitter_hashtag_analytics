@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "De Gea"**
+&#x1F34E; **TOPIC = "#WhyImATransAlly"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Tonicamillex: United fans have had a parade for a week after Alisson and Van Dijk did their first mistakes of the season, only for Magu… |
-| RT @__Omoissy: We beat Chelsea 3 times FC - Out!Pogba unlocked -OutMartial &amp; Rashford duo -OutWan Bissaka,best RB in the world-OutGreen… |
-| De gea OUT Henderson IN, he do me strong thing tonight, big FK |
+| Because one of my closest friends is trans. Her coming out and actively seeking female friends is the main reason w… https://t.co/t5YVfuWg6b |
+| What a sight this is!!!! Look at #WhyImATransAlly at number 3!! 💙💗🤍✊🏼✊🏾✊🏿 ⬇️⬇️#transliberationnow#transrightsnow https://t.co/Qg3Pqt2LII |
+| #WhyImATransAlly cause trans people are cool |
 
-The most popular user is: **UtdLogan**
-<div class="alert alert-block alert-danger"> RT @RiZzyUTD: Roy Keane to De Gea after the game  https://t.co/78dXm5dgq2</div>
+The most popular user is: **JohnOfSteele**
+<div class="alert alert-block alert-danger"> RT @AidanCTweets: Because transgender people just want to live their damn lives in peace, except there's a coterie of extremely loud arseho…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FootyHumour** |
-| #2 Most tweeted to  | **RiZzyUTD** |
-| #3 Most tweeted to  | **frankedoho** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **AidanCTweets** |
+| #2 Most tweeted to  | **OwenJones84** |
+| #3 Most tweeted to  | **CalumMcSwiggan** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 4.99%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **UtdLogan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DE**  |
-| second  | **GEA**  |
-| third  | **MAGUIRE** |
-| fourth  | **DAVID**  |
-| fifth  | **AFTER**  |
+| first  | **WHYIMATRANSALLY**  |
+| second  | **TRANS**  |
+| third  | **PEOPLE** |
+| fourth  | **LIVE**  |
+| fifth  | **HUMAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Blaaq_ie: If De Gea was Jesus, Our souls won’t be Saved ! #MUNCHE |
+|#WhyImATransAlly means a lot of me, even just as a cis, surburbun, scummy mummy. It fills my heart up to see people… https://t.co/a0iJUpPke3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **UtdLogan**  |
+| The most retweeted user is: **JohnOfSteele**  |
 | ------------- |
-| RT @RiZzyUTD: Roy Keane to De Gea after the game  https://t.co/78dXm5dgq2 |
+| RT @AidanCTweets: Because transgender people just want to live their damn lives in peace, except there's a coterie of extremely loud arseho… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
