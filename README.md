@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jess Phillips"**
+&#x1F34E; **TOPIC = "Nicki"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @celtjules66: @simran19781 Jess Phillips bullied Diane Abbott.Jess Phillips undermined the LOTO and the membership.Jess Phillips laugh… |
-| RT @BenJolly9: @JeremyBeecham @JamesEFoster @Rachael_Swindon @BeckettUnite I’m old enough to remember the 2018 council elections when the r… |
-| RT @BenJolly9: @JeremyBeecham @JamesEFoster @Rachael_Swindon @BeckettUnite I’m old enough to remember the 2018 council elections when the r… |
+| RT @irvinalanm: ariana in the hospital room while nicki is giving birth https://t.co/qZPAx312WM |
+| RT @chartdata: Nicki Minaj has earned the most Hot 100 entries among female artists, the most top 10s among female rappers and has earned t… |
+| RT @EnuJad: i think Nicki sends stimulus check to her fans bc ain’t no way y’all goin this hard for a cele...celeb....celebr...i cant even… |
 
-The most popular user is: **Louwat2**
-<div class="alert alert-block alert-danger"> RT @LoyalDefender2K: Expense claims of 5 MPs year end 30Nov19;
-
-Ian Blackford - £211,604.55
-Jess Phillips - £183,495.43
-Kier Starmer - £175…</div>
+The most popular user is: **nehgger**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: love nicki’s new album 
+https://t.co/pPZJQ9GB6o</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheMendozaWoman** |
-| #2 Most tweeted to  | **EL4JC** |
-| #3 Most tweeted to  | **aarjanistan** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 1.36%|
+| #1 Most tweeted to  | **LilNasX** |
+| #2 Most tweeted to  | **Watchoutforasia** |
+| #3 Most tweeted to  | **onlychloexhalle** |
+| NewProfiles (less than 10 days) | 0.98%  |
+| Tweeters with < 10 followers  | 2.59%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -43,28 +40,28 @@ Kier Starmer - £175…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JESS**  |
-| second  | **PHILLIPS**  |
-| third  | **NEVER** |
-| fourth  | **MP**  |
-| fifth  | **REMEMBER**  |
+| first  | **NICKI**  |
+| second  | **MINAJ**  |
+| third  | **PREGNANT** |
+| fourth  | **BABY**  |
+| fifth  | **MINAJ’S**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Matthew82069336: Jess Phillips only truly cares about one thing, Jess Phillips. When someone always brings a conversation around to the… |
+|RT @PulseNigeria247: Nicki Minaj confirms pregnancy with new photos https://t.co/2BzviNj1XA https://t.co/m7JVtvxt7X |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Louwat2**  |
+| The most retweeted user is: **nehgger**  |
 | ------------- |
-| RT @LoyalDefender2K: Expense claims of 5 MPs year end 30Nov19;Ian Blackford - £211,604.55Jess Phillips - £183,495.43Kier Starmer - £175… |
+| RT @BTS_twt: love nicki’s new album https://t.co/pPZJQ9GB6o |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
