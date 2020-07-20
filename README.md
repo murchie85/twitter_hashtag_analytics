@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nicki"**
+&#x1F34E; **TOPIC = "#CanadaChildBenefit"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @irvinalanm: ariana in the hospital room while nicki is giving birth https://t.co/qZPAx312WM |
-| RT @chartdata: Nicki Minaj has earned the most Hot 100 entries among female artists, the most top 10s among female rappers and has earned t… |
-| RT @EnuJad: i think Nicki sends stimulus check to her fans bc ain’t no way y’all goin this hard for a cele...celeb....celebr...i cant even… |
+| RT @SeamusORegan: Next Monday, we’re increasing the Canada Child Benefit again.9 out of 10 families will see more money in their pockets.… |
+| RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
+| RT @HonAhmedHussen: On Monday, Canadian families will see another increase to their #CanadaChildBenefit. This means more money in the poc… |
 
-The most popular user is: **nehgger**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: love nicki’s new album 
-https://t.co/pPZJQ9GB6o</div>
+The most popular user is: **OliverCash9**
+<div class="alert alert-block alert-danger"> RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LilNasX** |
-| #2 Most tweeted to  | **Watchoutforasia** |
-| #3 Most tweeted to  | **onlychloexhalle** |
-| NewProfiles (less than 10 days) | 0.98%  |
-| Tweeters with < 10 followers  | 2.59%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **HonAhmedHussen** |
+| #2 Most tweeted to  | **SeamusORegan** |
+| #3 Most tweeted to  | **CanadianPM** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 3.84%|
+| Tweeters with > 1000000 followers  | 0.66%  |
 
 
 
@@ -40,28 +39,28 @@ https://t.co/pPZJQ9GB6o</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NICKI**  |
-| second  | **MINAJ**  |
-| third  | **PREGNANT** |
-| fourth  | **BABY**  |
-| fifth  | **MINAJ’S**  |
+| first  | **CANADACHILDBENEFIT**  |
+| second  | **@HONAHMEDHUSSEN:**  |
+| third  | **CHILD** |
+| fourth  | **FAMILIES**  |
+| fifth  | **MONEY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PulseNigeria247: Nicki Minaj confirms pregnancy with new photos https://t.co/2BzviNj1XA https://t.co/m7JVtvxt7X |
+|RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nehgger**  |
+| The most retweeted user is: **OliverCash9**  |
 | ------------- |
-| RT @BTS_twt: love nicki’s new album https://t.co/pPZJQ9GB6o |
+| RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
