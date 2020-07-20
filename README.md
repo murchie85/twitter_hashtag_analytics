@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WhyImATransAlly"**
+&#x1F34E; **TOPIC = "Jess Phillips"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Because one of my closest friends is trans. Her coming out and actively seeking female friends is the main reason w… https://t.co/t5YVfuWg6b |
-| What a sight this is!!!! Look at #WhyImATransAlly at number 3!! 💙💗🤍✊🏼✊🏾✊🏿 ⬇️⬇️#transliberationnow#transrightsnow https://t.co/Qg3Pqt2LII |
-| #WhyImATransAlly cause trans people are cool |
+| RT @celtjules66: @simran19781 Jess Phillips bullied Diane Abbott.Jess Phillips undermined the LOTO and the membership.Jess Phillips laugh… |
+| RT @BenJolly9: @JeremyBeecham @JamesEFoster @Rachael_Swindon @BeckettUnite I’m old enough to remember the 2018 council elections when the r… |
+| RT @BenJolly9: @JeremyBeecham @JamesEFoster @Rachael_Swindon @BeckettUnite I’m old enough to remember the 2018 council elections when the r… |
 
-The most popular user is: **JohnOfSteele**
-<div class="alert alert-block alert-danger"> RT @AidanCTweets: Because transgender people just want to live their damn lives in peace, except there's a coterie of extremely loud arseho…</div>
+The most popular user is: **Louwat2**
+<div class="alert alert-block alert-danger"> RT @LoyalDefender2K: Expense claims of 5 MPs year end 30Nov19;
+
+Ian Blackford - £211,604.55
+Jess Phillips - £183,495.43
+Kier Starmer - £175…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AidanCTweets** |
-| #2 Most tweeted to  | **OwenJones84** |
-| #3 Most tweeted to  | **CalumMcSwiggan** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 4.99%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **TheMendozaWoman** |
+| #2 Most tweeted to  | **EL4JC** |
+| #3 Most tweeted to  | **aarjanistan** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 1.36%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **JohnOfSteele**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WHYIMATRANSALLY**  |
-| second  | **TRANS**  |
-| third  | **PEOPLE** |
-| fourth  | **LIVE**  |
-| fifth  | **HUMAN**  |
+| first  | **JESS**  |
+| second  | **PHILLIPS**  |
+| third  | **NEVER** |
+| fourth  | **MP**  |
+| fifth  | **REMEMBER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#WhyImATransAlly means a lot of me, even just as a cis, surburbun, scummy mummy. It fills my heart up to see people… https://t.co/a0iJUpPke3 |
+|RT @Matthew82069336: Jess Phillips only truly cares about one thing, Jess Phillips. When someone always brings a conversation around to the… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JohnOfSteele**  |
+| The most retweeted user is: **Louwat2**  |
 | ------------- |
-| RT @AidanCTweets: Because transgender people just want to live their damn lives in peace, except there's a coterie of extremely loud arseho… |
+| RT @LoyalDefender2K: Expense claims of 5 MPs year end 30Nov19;Ian Blackford - £211,604.55Jess Phillips - £183,495.43Kier Starmer - £175… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
