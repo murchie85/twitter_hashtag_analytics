@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CanadaChildBenefit"**
+&#x1F34E; **TOPIC = "Nicki"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SeamusORegan: Next Monday, we’re increasing the Canada Child Benefit again.9 out of 10 families will see more money in their pockets.… |
-| RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
-| RT @HonAhmedHussen: On Monday, Canadian families will see another increase to their #CanadaChildBenefit. This means more money in the poc… |
+| RT @jtalipio: Katy Perry's and Nicki Minaj's child arriving to the kindergarten. https://t.co/JFhEifbbcE |
+| RT @ashleyy_are: nicki minaj’s daughter arriving to kindergarten https://t.co/6Rsd7cvRTB |
+| RT @ashleyy_are: nicki minaj’s daughter arriving to kindergarten https://t.co/6Rsd7cvRTB |
 
-The most popular user is: **OliverCash9**
-<div class="alert alert-block alert-danger"> RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht…</div>
+The most popular user is: **nicki__rose**
+<div class="alert alert-block alert-danger"> RT @Aintshitjunior: I CANT BELIEVE WE STAYED UP AND SCREAMED HAPPY NEW YEAR FOR THIS BULLSHIT</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HonAhmedHussen** |
-| #2 Most tweeted to  | **SeamusORegan** |
-| #3 Most tweeted to  | **CanadianPM** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 3.84%|
-| Tweeters with > 1000000 followers  | 0.66%  |
+| #1 Most tweeted to  | **ashleyy_are** |
+| #2 Most tweeted to  | **jtalipio** |
+| #3 Most tweeted to  | **irvinalanm** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 2.41%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **OliverCash9**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CANADACHILDBENEFIT**  |
-| second  | **@HONAHMEDHUSSEN:**  |
-| third  | **CHILD** |
-| fourth  | **FAMILIES**  |
-| fifth  | **MONEY**  |
+| first  | **NICKI**  |
+| second  | **KINDERGARTEN**  |
+| third  | **ARRIVING** |
+| fourth  | **MINAJ’S**  |
+| fifth  | **DAUGHTER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (71.43%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
+|RT @hollabexs: Ethan coming out saying he’s in a committed relationship the same time Nicki Minaj announces she’s pregnant.. coincidence? I… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OliverCash9**  |
+| The most retweeted user is: **nicki__rose**  |
 | ------------- |
-| RT @HonAhmedHussen: Raising a child can be expensive. That’s why our Government is increasing the #CanadaChildBenefit again! #ItsGoingUp ht… |
+| RT @Aintshitjunior: I CANT BELIEVE WE STAYED UP AND SCREAMED HAPPY NEW YEAR FOR THIS BULLSHIT |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
