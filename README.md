@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "North Mexico"**
+&#x1F34E; **TOPIC = "#facecoverings"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WSJ: Archaeologists in Mexico found stone tools and other signs that people were living in North America 30,000 years ago, much earlier… |
-| RT @itsdiamondchoi: What KPOP Group who first rule the WORLD?Asia: SUPER SHOW in Macau was the FIRST KPOP ConcertLatin America: SUPER S… |
-| RT @SecretarySonny: 🐑 Texas 🍐 Washington🍺 Washington (hops)🍯 North Dakota 🍠 North Carolina 🍑 California🍒 Michigan (tart)🍒 Washington… |
+| RT @DrRanj: I’ve seen lots of nonsense around masks and face coverings on social media, so let’s talk about some FACTS... 😷#coronavirus #… |
+| RT @kayb41769393: @NJGov @GovMurphy Please remind everyone to dispose of their masks responsibly and not on the damn ground. One walk, one… |
+| RT @vass_vassiliou: More on #masks.... #facecoverings Bottom line they are safe (how else would doctors be able to wear them for hours &amp; ho… |
 
-The most popular user is: **North_888**
-<div class="alert alert-block alert-danger"> RT @bacardiego_: READ THIS !! this is a critically endangered endemic species in mexico. theyre on the verge of going extinct bc of fishing…</div>
+The most popular user is: **Megan74128820**
+<div class="alert alert-block alert-danger"> RT @BusyDrT: Your body is your property! There is no exception for #vaccines or #facecoverings</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NatGeo** |
-| #2 Most tweeted to  | **SecretarySonny** |
-| #3 Most tweeted to  | **WSJ** |
-| NewProfiles (less than 10 days) | 0.55%  |
-| Tweeters with < 10 followers  | 4.65%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **BusyDrT** |
+| #2 Most tweeted to  | **Dr_PhilippaW** |
+| #3 Most tweeted to  | **BBCBreakfast** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **North_888**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NORTH**  |
-| second  | **MEXICO**  |
-| third  | **AMERICA** |
-| fourth  | **YEARS**  |
-| fifth  | **30000**  |
+| first  | **FACECOVERINGS**  |
+| second  | **FACE**  |
+| third  | **WEAR** |
+| fourth  | **MASK**  |
+| fifth  | **MASKS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@raptings1 Mississippi:Big K.R.I.TMissouri:Mac LethalMontana:OvertimeNebraska:Scru Face JeanNevada:Dizzy Wright… https://t.co/577RW4eGZU |
+|Perhaps he wasn't quite as whacko as everyone thought..........be responsible masks are a mustfrom Friday in shops… https://t.co/dWf3IASRF6 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **North_888**  |
+| The most retweeted user is: **Megan74128820**  |
 | ------------- |
-| RT @bacardiego_: READ THIS !! this is a critically endangered endemic species in mexico. theyre on the verge of going extinct bc of fishing… |
+| RT @BusyDrT: Your body is your property! There is no exception for #vaccines or #facecoverings |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
