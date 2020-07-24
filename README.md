@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#facecoverings"**
+&#x1F34E; **TOPIC = "#AmericasGreatestMistake"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DrRanj: I’ve seen lots of nonsense around masks and face coverings on social media, so let’s talk about some FACTS... 😷#coronavirus #… |
-| RT @kayb41769393: @NJGov @GovMurphy Please remind everyone to dispose of their masks responsibly and not on the damn ground. One walk, one… |
-| RT @vass_vassiliou: More on #masks.... #facecoverings Bottom line they are safe (how else would doctors be able to wear them for hours &amp; ho… |
+| RT @proud_damn: #AmericasGreatestMistakeIs voting this piece of shit in office. He doesn’t care about you and he doesn’t care about Americ… |
+| RT @Jasonmjarrett: Person Woman Man Camera TV😈Remember he talks in code. #americasgreatestmistake https://t.co/206jrOSVkP |
+| RT @donwinslow: Let's get this trending.#AmericasGreatestMistakeYou will understand why in a few short hours. |
 
-The most popular user is: **Megan74128820**
-<div class="alert alert-block alert-danger"> RT @BusyDrT: Your body is your property! There is no exception for #vaccines or #facecoverings</div>
+The most popular user is: **Naoscaire1**
+<div class="alert alert-block alert-danger"> RT @donwinslow: Let's get this trending.
+
+#AmericasGreatestMistake
+
+You will understand why in a few short hours.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BusyDrT** |
-| #2 Most tweeted to  | **Dr_PhilippaW** |
-| #3 Most tweeted to  | **BBCBreakfast** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **donwinslow** |
+| #2 Most tweeted to  | **Jasonmjarrett** |
+| #3 Most tweeted to  | **chipfranklin** |
+| NewProfiles (less than 10 days) | 0.37%  |
+| Tweeters with < 10 followers  | 5.02%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Megan74128820**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FACECOVERINGS**  |
-| second  | **FACE**  |
-| third  | **WEAR** |
-| fourth  | **MASK**  |
-| fifth  | **MASKS**  |
+| first  | **AMERICASGREATESTMISTAKE**  |
+| second  | **"LETS"**  |
+| third  | **TRENDING** |
+| fourth  | **FEW**  |
+| fifth  | **UNDERSTAND**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Perhaps he wasn't quite as whacko as everyone thought..........be responsible masks are a mustfrom Friday in shops… https://t.co/dWf3IASRF6 |
+|#AmericasGreatestMistake We know it’s the #TRE45ON Impeached One! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Megan74128820**  |
+| The most retweeted user is: **Naoscaire1**  |
 | ------------- |
-| RT @BusyDrT: Your body is your property! There is no exception for #vaccines or #facecoverings |
+| RT @donwinslow: Let's get this trending.#AmericasGreatestMistakeYou will understand why in a few short hours. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
