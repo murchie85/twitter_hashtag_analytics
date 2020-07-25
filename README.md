@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#AmericasGreatestMistake"**
+&#x1F34E; **TOPIC = "#YouOnlyLiveTwice"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @proud_damn: #AmericasGreatestMistakeIs voting this piece of shit in office. He doesn’t care about you and he doesn’t care about Americ… |
-| RT @Jasonmjarrett: Person Woman Man Camera TV😈Remember he talks in code. #americasgreatestmistake https://t.co/206jrOSVkP |
-| RT @donwinslow: Let's get this trending.#AmericasGreatestMistakeYou will understand why in a few short hours. |
+| #YouOnlyLiveTwiceSee they are taking a knee behind the fire truck. Astronauts lives matter to |
+| “Rene, ver is ze painting of ze fallen Madonna wiz ze big boobies?” #YouOnlyLiveTwice |
+| #youonlylivetwice Charles Gray being the only actor to play a villain and a goodie in the Bond films. https://t.co/UB1eoNDDYI |
 
-The most popular user is: **Naoscaire1**
-<div class="alert alert-block alert-danger"> RT @donwinslow: Let's get this trending.
-
-#AmericasGreatestMistake
-
-You will understand why in a few short hours.</div>
+The most popular user is: **sonsrap10**
+<div class="alert alert-block alert-danger"> RT @vickimichelle: Would’ve been amazing Burt Kwouk’s birthday today. Loved throughout the world as Cato in the #PinkPanther films and Entw…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **donwinslow** |
-| #2 Most tweeted to  | **Jasonmjarrett** |
-| #3 Most tweeted to  | **chipfranklin** |
-| NewProfiles (less than 10 days) | 0.37%  |
-| Tweeters with < 10 followers  | 5.02%|
+| #1 Most tweeted to  | **ITV** |
+| #2 Most tweeted to  | **vickimichelle** |
+| #3 Most tweeted to  | **moore007please** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 4.44%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -43,28 +39,28 @@ You will understand why in a few short hours.</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMERICASGREATESTMISTAKE**  |
-| second  | **"LETS"**  |
-| third  | **TRENDING** |
-| fourth  | **FEW**  |
-| fifth  | **UNDERSTAND**  |
+| first  | **YOUONLYLIVETWICE**  |
+| second  | **BOND**  |
+| third  | **YOUONLYLIVETWICEYOUONLYLIVETWICE** |
+| fourth  | **JAMES**  |
+| fifth  | **FILM**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#AmericasGreatestMistake We know it’s the #TRE45ON Impeached One! |
+|@MrNeilB Only thing in #YouOnlyLiveTwice worth watching   :) |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Naoscaire1**  |
+| The most retweeted user is: **sonsrap10**  |
 | ------------- |
-| RT @donwinslow: Let's get this trending.#AmericasGreatestMistakeYou will understand why in a few short hours. |
+| RT @vickimichelle: Would’ve been amazing Burt Kwouk’s birthday today. Loved throughout the world as Cato in the #PinkPanther films and Entw… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
