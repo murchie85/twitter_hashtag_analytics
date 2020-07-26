@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#YouOnlyLiveTwice"**
+&#x1F34E; **TOPIC = "Meek"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #YouOnlyLiveTwiceSee they are taking a knee behind the fire truck. Astronauts lives matter to |
-| “Rene, ver is ze painting of ze fallen Madonna wiz ze big boobies?” #YouOnlyLiveTwice |
-| #youonlylivetwice Charles Gray being the only actor to play a villain and a goodie in the Bond films. https://t.co/UB1eoNDDYI |
+| every time i see meek name pop up on the tl lately it’s for some nonsense what happened to dawg?!?!? |
+| RT @jamiestarr88: I'm confused as to how Meek never publicly announced being with Milano, but hopped on social media quick to announce they… |
+| RT @themochamimi: @MeekMill Honestly meek  https://t.co/ZCT6uVINxy |
 
-The most popular user is: **sonsrap10**
-<div class="alert alert-block alert-danger"> RT @vickimichelle: Would’ve been amazing Burt Kwouk’s birthday today. Loved throughout the world as Cato in the #PinkPanther films and Entw…</div>
+The most popular user is: **ink__well**
+<div class="alert alert-block alert-danger"> RT @S_C_: The line clearly meant don’t pit me against my brothers no matter what our differences are (red hat) now go pick up Meek album .…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ITV** |
-| #2 Most tweeted to  | **vickimichelle** |
-| #3 Most tweeted to  | **moore007please** |
-| NewProfiles (less than 10 days) | 0.57%  |
-| Tweeters with < 10 followers  | 4.44%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MeekMill** |
+| #2 Most tweeted to  | **alana_zhane** |
+| #3 Most tweeted to  | **MeAloneInMyMind** |
+| NewProfiles (less than 10 days) | 0.59%  |
+| Tweeters with < 10 followers  | 1.88%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sonsrap10**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUONLYLIVETWICE**  |
-| second  | **BOND**  |
-| third  | **YOUONLYLIVETWICEYOUONLYLIVETWICE** |
-| fourth  | **JAMES**  |
-| fifth  | **FILM**  |
+| first  | **MEEK**  |
+| second  | **MILANO**  |
+| third  | **MILL** |
+| fourth  | **EVEN**  |
+| fifth  | **TOGETHER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (41.67%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@MrNeilB Only thing in #YouOnlyLiveTwice worth watching   :) |
+|Meek gone cry when Milano level up😎 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sonsrap10**  |
+| The most retweeted user is: **ink__well**  |
 | ------------- |
-| RT @vickimichelle: Would’ve been amazing Burt Kwouk’s birthday today. Loved throughout the world as Cato in the #PinkPanther films and Entw… |
+| RT @S_C_: The line clearly meant don’t pit me against my brothers no matter what our differences are (red hat) now go pick up Meek album .… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
