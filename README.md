@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Meek"**
+&#x1F34E; **TOPIC = "#GoodTrouble"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| every time i see meek name pop up on the tl lately it’s for some nonsense what happened to dawg?!?!? |
-| RT @jamiestarr88: I'm confused as to how Meek never publicly announced being with Milano, but hopped on social media quick to announce they… |
-| RT @themochamimi: @MeekMill Honestly meek  https://t.co/ZCT6uVINxy |
+| RT @theGrio: John Lewis becomes the FIRST Black lawmaker to lie in state in the Capitol Rotunda and his casket rests atop the catafalque bu… |
+| RT @RepLBR: Today isn’t just about mourning the loss of John - it's about celebrating his life. I’ll forever treasure those joyful moment… |
+| RT @KamalaHarris: On his final trip to the Capitol, John Lewis' funeral procession stopped at the Lincoln Memorial, the Martin Luther King,… |
 
-The most popular user is: **ink__well**
-<div class="alert alert-block alert-danger"> RT @S_C_: The line clearly meant don’t pit me against my brothers no matter what our differences are (red hat) now go pick up Meek album .…</div>
+The most popular user is: **DrKareem_**
+<div class="alert alert-block alert-danger"> RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MeekMill** |
-| #2 Most tweeted to  | **alana_zhane** |
-| #3 Most tweeted to  | **MeAloneInMyMind** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 1.88%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **repjohnlewis** |
+| #2 Most tweeted to  | **AprilDRyan** |
+| #3 Most tweeted to  | **RepLBR** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 2.5%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ink__well**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEEK**  |
-| second  | **MILANO**  |
-| third  | **MILL** |
-| fourth  | **EVEN**  |
-| fifth  | **TOGETHER**  |
+| first  | **JOHN**  |
+| second  | **CAPITOL**  |
+| third  | **LEWIS** |
+| fourth  | **GOODTROUBLE**  |
+| fifth  | **STATE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (41.67%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Meek gone cry when Milano level up😎 |
+|@DHenry123456 @pcbrynn Because that "14 yr old" has more honour, dignity, integrity, social awareness and strength… https://t.co/mxuiATORcs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ink__well**  |
+| The most retweeted user is: **DrKareem_**  |
 | ------------- |
-| RT @S_C_: The line clearly meant don’t pit me against my brothers no matter what our differences are (red hat) now go pick up Meek album .… |
+| RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
