@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GoodTrouble"**
+&#x1F34E; **TOPIC = "#Anthony"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @theGrio: John Lewis becomes the FIRST Black lawmaker to lie in state in the Capitol Rotunda and his casket rests atop the catafalque bu… |
-| RT @RepLBR: Today isn’t just about mourning the loss of John - it's about celebrating his life. I’ll forever treasure those joyful moment… |
-| RT @KamalaHarris: On his final trip to the Capitol, John Lewis' funeral procession stopped at the Lincoln Memorial, the Martin Luther King,… |
+| RT @awf_liverpool: Anthony Walker - 21 February 1987 – 30 July 2005 - RIP 💔 #Anthony https://t.co/zQY6EjfoMh |
+| Heart breaking 💔#Anthony |
+| It’s does makes us wonder how successful he would’ve been today 😢 #Anthony |
 
-The most popular user is: **DrKareem_**
-<div class="alert alert-block alert-danger"> RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont…</div>
+The most popular user is: **hemanth1981998**
+<div class="alert alert-block alert-danger"> RT @dhanushkraja: Happy to release the First Look of @Radhamohan_Dir's BOMMAI starring @iam_SJSuryah &amp; @priya_Bshankar.. A @thisisysr music…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **repjohnlewis** |
-| #2 Most tweeted to  | **AprilDRyan** |
-| #3 Most tweeted to  | **RepLBR** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 2.5%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **awf_liverpool** |
+| #2 Most tweeted to  | **LAProductionsUK** |
+| #3 Most tweeted to  | **BBCOne** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 2.75%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DrKareem_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOHN**  |
-| second  | **CAPITOL**  |
-| third  | **LEWIS** |
-| fourth  | **GOODTROUBLE**  |
-| fifth  | **STATE**  |
+| first  | **ANTHONY**  |
+| second  | **WALKER**  |
+| third  | **💔** |
+| fourth  | **@AWF_LIVERPOOL:**  |
+| fifth  | **JULY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@DHenry123456 @pcbrynn Because that "14 yr old" has more honour, dignity, integrity, social awareness and strength… https://t.co/mxuiATORcs |
+|RT @AndrewJazzie: Am sure Anthony must be looking down incredibly proud of his Mum. 💔Heartbreaking#anthony#anthonywalker https://t.co/… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DrKareem_**  |
+| The most retweeted user is: **hemanth1981998**  |
 | ------------- |
-| RT @repjohnlewis: Do not get lost in a sea of despair. Be hopeful, be optimistic. Our struggle is not the struggle of a day, a week, a mont… |
+| RT @dhanushkraja: Happy to release the First Look of @Radhamohan_Dir's BOMMAI starring @iam_SJSuryah &amp; @priya_Bshankar.. A @thisisysr music… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
