@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Emmy"**
+&#x1F34E; **TOPIC = "Barr"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LucaLeonardo99: The Viola Davis snub is egregious and horrible. I cannot believe they decided to nominate the atrocity that was Killing… |
-| @FallonTonight The Tonight Show DEFINITELY deserves an Emmy nomination! #TonightShowDeservesBetter #Emmys |
-| RT @gofinurself: I’m happy for Billy Porter again but something ain’t right with none of the women in Pose ever getting any Emmy nomination… |
+| RT @KamVTV: One thing I have learned from the Barr Hearing is the Democrats sure are experts at suppressing ones ability to speak. |
+| RT @JillWineBanks: Barr is enabling crime by his statement. It is never legal to take any foreign help. It does not matter what kind. |
+| RT @michaeljknowles: IT'S ALWAYS SUNNY ON CAPITOL HILLEp. 1: "The Gang Tries To Grill Bill Barrhttps://t.co/f2MskES57F |
 
-The most popular user is: **emmy_nv**
-<div class="alert alert-block alert-danger"> RT @trappppoo: i accidentally messed up my life how do i start a new account</div>
+The most popular user is: **courtnie1999**
+<div class="alert alert-block alert-danger"> RT @Jim_Jordan: House Democrats just introduced a resolution to impeach the Attorney General. 
+
+Are you kidding me? 
+
+Bill Barr is cleaning…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HBO** |
-| #2 Most tweeted to  | **KillingEve** |
-| #3 Most tweeted to  | **insecurehbo** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 3.93%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **MZHemingway** |
+| #2 Most tweeted to  | **RepJayapal** |
+| #3 Most tweeted to  | **brithume** |
+| NewProfiles (less than 10 days) | 0.35%  |
+| Tweeters with < 10 followers  | 3.3%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **emmy_nv**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EMMY**  |
-| second  | **NOMINATED**  |
-| third  | **NOMINATIONS** |
-| fourth  | **NOMINATION**  |
-| fifth  | **CONGRATULATIONS**  |
+| first  | **BARR**  |
+| second  | **BILL**  |
+| third  | **AG** |
+| fourth  | **REALLY**  |
+| fifth  | **DEMOCRATS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @KillingEveNews: Our leading ladies, Sandra Oh and Jodie Comer BOTH receive Emmy nominations for Outstanding Lead Actress in a Drama Ser… |
+|RT @ReallyAmerican1: Who else thinks the Democrats need to initiate impeachment proceedings against Bill Barr immediately? ✋ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **emmy_nv**  |
+| The most retweeted user is: **courtnie1999**  |
 | ------------- |
-| RT @trappppoo: i accidentally messed up my life how do i start a new account |
+| RT @Jim_Jordan: House Democrats just introduced a resolution to impeach the Attorney General. Are you kidding me? Bill Barr is cleaning… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
