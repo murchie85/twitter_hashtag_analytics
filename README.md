@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Anthony"**
+&#x1F34E; **TOPIC = "Emmy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @awf_liverpool: Anthony Walker - 21 February 1987 – 30 July 2005 - RIP 💔 #Anthony https://t.co/zQY6EjfoMh |
-| Heart breaking 💔#Anthony |
-| It’s does makes us wonder how successful he would’ve been today 😢 #Anthony |
+| RT @LucaLeonardo99: The Viola Davis snub is egregious and horrible. I cannot believe they decided to nominate the atrocity that was Killing… |
+| @FallonTonight The Tonight Show DEFINITELY deserves an Emmy nomination! #TonightShowDeservesBetter #Emmys |
+| RT @gofinurself: I’m happy for Billy Porter again but something ain’t right with none of the women in Pose ever getting any Emmy nomination… |
 
-The most popular user is: **hemanth1981998**
-<div class="alert alert-block alert-danger"> RT @dhanushkraja: Happy to release the First Look of @Radhamohan_Dir's BOMMAI starring @iam_SJSuryah &amp; @priya_Bshankar.. A @thisisysr music…</div>
+The most popular user is: **emmy_nv**
+<div class="alert alert-block alert-danger"> RT @trappppoo: i accidentally messed up my life how do i start a new account</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **awf_liverpool** |
-| #2 Most tweeted to  | **LAProductionsUK** |
-| #3 Most tweeted to  | **BBCOne** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 2.75%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **HBO** |
+| #2 Most tweeted to  | **KillingEve** |
+| #3 Most tweeted to  | **insecurehbo** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 3.93%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **hemanth1981998**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ANTHONY**  |
-| second  | **WALKER**  |
-| third  | **💔** |
-| fourth  | **@AWF_LIVERPOOL:**  |
-| fifth  | **JULY**  |
+| first  | **EMMY**  |
+| second  | **NOMINATED**  |
+| third  | **NOMINATIONS** |
+| fourth  | **NOMINATION**  |
+| fifth  | **CONGRATULATIONS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AndrewJazzie: Am sure Anthony must be looking down incredibly proud of his Mum. 💔Heartbreaking#anthony#anthonywalker https://t.co/… |
+|RT @KillingEveNews: Our leading ladies, Sandra Oh and Jodie Comer BOTH receive Emmy nominations for Outstanding Lead Actress in a Drama Ser… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hemanth1981998**  |
+| The most retweeted user is: **emmy_nv**  |
 | ------------- |
-| RT @dhanushkraja: Happy to release the First Look of @Radhamohan_Dir's BOMMAI starring @iam_SJSuryah &amp; @priya_Bshankar.. A @thisisysr music… |
+| RT @trappppoo: i accidentally messed up my life how do i start a new account |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
