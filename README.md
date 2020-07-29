@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Barr"**
+&#x1F34E; **TOPIC = "#10TV"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KamVTV: One thing I have learned from the Barr Hearing is the Democrats sure are experts at suppressing ones ability to speak. |
-| RT @JillWineBanks: Barr is enabling crime by his statement. It is never legal to take any foreign help. It does not matter what kind. |
-| RT @michaeljknowles: IT'S ALWAYS SUNNY ON CAPITOL HILLEp. 1: "The Gang Tries To Grill Bill Barrhttps://t.co/f2MskES57F |
+| RT @10TV: #BREAKING Columbus City Council has made the decision to restrict bars, restaurants and nightclubs to only be open from 6 a.m. to… |
+| 2PM TEMPERATURE CHECK---   Here's a look at temperatures around Central Ohio this afternoon.   #10TV | RADAR:… https://t.co/TgQxsFGIQb |
+| RT @10TV: #BREAKING Gov. Mike DeWine announced a statewide mask mandate for all Ohioans while out in public beginning at 6 p.m. Thursday #1… |
 
-The most popular user is: **courtnie1999**
-<div class="alert alert-block alert-danger"> RT @Jim_Jordan: House Democrats just introduced a resolution to impeach the Attorney General. 
-
-Are you kidding me? 
-
-Bill Barr is cleaning…</div>
+The most popular user is: **WhattheBrandon_**
+<div class="alert alert-block alert-danger"> RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MZHemingway** |
-| #2 Most tweeted to  | **RepJayapal** |
-| #3 Most tweeted to  | **brithume** |
-| NewProfiles (less than 10 days) | 0.35%  |
-| Tweeters with < 10 followers  | 3.3%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **10TV** |
+| #2 Most tweeted to  | **RossCarusoTV** |
+| #3 Most tweeted to  | **MollyBrewerTV** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.41%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Bill Barr is cleaning…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BARR**  |
-| second  | **BILL**  |
-| third  | **AG** |
-| fourth  | **REALLY**  |
-| fifth  | **DEMOCRATS**  |
+| first  | **@10TV:**  |
+| second  | **10TV**  |
+| third  | **BREAKING** |
+| fourth  | **6**  |
+| fifth  | **COLUMBUS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ReallyAmerican1: Who else thinks the Democrats need to initiate impeachment proceedings against Bill Barr immediately? ✋ |
+|RT @10TV: GREAT NEWS! The @ColumbusZoo says Kora has been found and is safe! https://t.co/H7nYJLr8xc #10TV |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **courtnie1999**  |
+| The most retweeted user is: **WhattheBrandon_**  |
 | ------------- |
-| RT @Jim_Jordan: House Democrats just introduced a resolution to impeach the Attorney General. Are you kidding me? Bill Barr is cleaning… |
+| RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
