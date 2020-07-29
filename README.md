@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#10TV"**
+&#x1F34E; **TOPIC = "#BigTechHearing"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @10TV: #BREAKING Columbus City Council has made the decision to restrict bars, restaurants and nightclubs to only be open from 6 a.m. to… |
-| 2PM TEMPERATURE CHECK---   Here's a look at temperatures around Central Ohio this afternoon.   #10TV | RADAR:… https://t.co/TgQxsFGIQb |
-| RT @10TV: #BREAKING Gov. Mike DeWine announced a statewide mask mandate for all Ohioans while out in public beginning at 6 p.m. Thursday #1… |
+| RT @Tore_says: Did ZUCK just throw his EMPLOYEES under the BUS for doing what he told them to do?#BigTechHearing |
+| RT @no_silenced: The day our Law Makers Ban Lobbyist in America will be the day our Law Makers begin Governing for the people who elected t… |
+| RT @stclairashley: How is Mark Zuckberg the CEO of one of the biggest tech companies in the world yet has the camera &amp; streaming quality of… |
 
-The most popular user is: **WhattheBrandon_**
-<div class="alert alert-block alert-danger"> RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A</div>
+The most popular user is: **StevenBoone2007**
+<div class="alert alert-block alert-danger"> RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **10TV** |
-| #2 Most tweeted to  | **RossCarusoTV** |
-| #3 Most tweeted to  | **MollyBrewerTV** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 1.41%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Project_Veritas** |
+| #2 Most tweeted to  | **Google** |
+| #3 Most tweeted to  | **RepMattGaetz** |
+| NewProfiles (less than 10 days) | 0.89%  |
+| Tweeters with < 10 followers  | 4.03%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **WhattheBrandon_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@10TV:**  |
-| second  | **10TV**  |
-| third  | **BREAKING** |
-| fourth  | **6**  |
-| fifth  | **COLUMBUS**  |
+| first  | **BIGTECHHEARING**  |
+| second  | **PICHAI**  |
+| third  | **SUNDAR** |
+| fourth  | **CEO**  |
+| fifth  | **WHILE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @10TV: GREAT NEWS! The @ColumbusZoo says Kora has been found and is safe! https://t.co/H7nYJLr8xc #10TV |
+|RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WhattheBrandon_**  |
+| The most retweeted user is: **StevenBoone2007**  |
 | ------------- |
-| RT @10TV: Study: Thinking too much can cause you to die sooner https://t.co/TS3rmx0TzR #10TV https://t.co/Gg1f0Xsc9A |
+| RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
