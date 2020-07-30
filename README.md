@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "John Lewis"**
+&#x1F34E; **TOPIC = "Zion"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RheaBoydMD: The struggle against the tyranny of white supremacy has many tactics and leaders. To pit Kwame Ture (Stokely) against John… |
-| RT @RuthRGreenwood: People on every continent have stood in your shoes, through decades and centuries before you. The truth does not change… |
-| RT @amber_athey: I can’t imagine how hard it is for people who were not allowed to say goodbye to their loved ones to watch John Lewis’s fu… |
+| I won't judge almost anybody for being wrong on draft picks, but I really don't understand the people who thought Z… https://t.co/9puhiwanB0 |
+| RT @BleacherReport: Zion and the Pelicans take the floor in "Black Lives Matter" shirts(via @TaylorRooks)https://t.co/WiE7ilzs4T |
+| RT @malika_andrews: Zion Williamson will play in short bursts tonight against the Jazz, sources tell ESPN. |
 
-The most popular user is: **Forgiveness11**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:
-
-https://t…</div>
+The most popular user is: **zion_ametista**
+<div class="alert alert-block alert-danger"> RT @Pokemon: This https://t.co/LQzvMJBCix</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **JoeBiden** |
-| #3 Most tweeted to  | **CNN** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 4.02%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **ChrisBHaynes** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **KingJosiah54** |
+| NewProfiles (less than 10 days) | 0.55%  |
+| Tweeters with < 10 followers  | 2.53%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -41,28 +39,28 @@ https://t…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOHN**  |
-| second  | **LEWIS**  |
-| third  | **OBAMA** |
-| fourth  | **US**  |
-| fifth  | **PRESIDENT**  |
+| first  | **ZION**  |
+| second  | **PLAY**  |
+| third  | **WILLIAMSON** |
+| fourth  | **TONIGHT**  |
+| fifth  | **JAZZ**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Sad day when  @BarackObama reduced a eulogy today for the Rep. John Lewis into divisive political rhetoric determin… https://t.co/5HdJARToNU |
+|RT @KingJosiah54: When the Pelicans told Zion he cleared to play tonight https://t.co/Y23akKaTT5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Forgiveness11**  |
+| The most retweeted user is: **zion_ametista**  |
 | ------------- |
-| RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:https://t… |
+| RT @Pokemon: This https://t.co/LQzvMJBCix |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
