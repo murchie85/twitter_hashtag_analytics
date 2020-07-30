@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BigTechHearing"**
+&#x1F34E; **TOPIC = "John Lewis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Tore_says: Did ZUCK just throw his EMPLOYEES under the BUS for doing what he told them to do?#BigTechHearing |
-| RT @no_silenced: The day our Law Makers Ban Lobbyist in America will be the day our Law Makers begin Governing for the people who elected t… |
-| RT @stclairashley: How is Mark Zuckberg the CEO of one of the biggest tech companies in the world yet has the camera &amp; streaming quality of… |
+| RT @RheaBoydMD: The struggle against the tyranny of white supremacy has many tactics and leaders. To pit Kwame Ture (Stokely) against John… |
+| RT @RuthRGreenwood: People on every continent have stood in your shoes, through decades and centuries before you. The truth does not change… |
+| RT @amber_athey: I can’t imagine how hard it is for people who were not allowed to say goodbye to their loved ones to watch John Lewis’s fu… |
 
-The most popular user is: **StevenBoone2007**
-<div class="alert alert-block alert-danger"> RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing…</div>
+The most popular user is: **Forgiveness11**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:
+
+https://t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Project_Veritas** |
-| #2 Most tweeted to  | **Google** |
-| #3 Most tweeted to  | **RepMattGaetz** |
-| NewProfiles (less than 10 days) | 0.89%  |
-| Tweeters with < 10 followers  | 4.03%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **JoeBiden** |
+| #3 Most tweeted to  | **CNN** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 4.02%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **StevenBoone2007**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIGTECHHEARING**  |
-| second  | **PICHAI**  |
-| third  | **SUNDAR** |
-| fourth  | **CEO**  |
-| fifth  | **WHILE**  |
+| first  | **JOHN**  |
+| second  | **LEWIS**  |
+| third  | **OBAMA** |
+| fourth  | **US**  |
+| fifth  | **PRESIDENT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing… |
+|Sad day when  @BarackObama reduced a eulogy today for the Rep. John Lewis into divisive political rhetoric determin… https://t.co/5HdJARToNU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **StevenBoone2007**  |
+| The most retweeted user is: **Forgiveness11**  |
 | ------------- |
-| RT @JamesOKeefeIII: BREAKING: @RepMattGaetz cites @Project_Veritas reporting while questioning @Google CEO Sundar Pichai in #BigTechHearing… |
+| RT @BarackObama: Not many of us get to live to see our own legacy play out in such a meaningful, remarkable way. John Lewis did:https://t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
