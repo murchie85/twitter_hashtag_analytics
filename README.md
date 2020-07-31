@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Boston Marathon"**
+&#x1F34E; **TOPIC = "Melo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AP: BREAKING: A federal appeals court has overturned the death sentence of Dzhokhar Tsarnaev, the man convicted in the 2013 Boston Mara… |
-| RT @NBCPolitics: BREAKING: US federal appeals court has overturned Boston Marathon bomber's death sentence. https://t.co/snfdapwXMC |
-| RT @bennyjohnson: BREAKING: U.S. Appeals Court has overturned the Boston Marathon Bomber Dzhokhar Tsarnaev's death sentence. |
+| RT @WorldWideWob: great look by Dame to set up Melo.three to the dome.what a damn game. https://t.co/DKsxFjaUEi |
+| MY BOY MELO CANT MISS #hesomelo |
+| @bra_melo_ Experience ✌ |
 
-The most popular user is: **Mile_by_Mile**
-<div class="alert alert-block alert-danger"> RT @AP: BREAKING: A federal appeals court has overturned the death sentence of Dzhokhar Tsarnaev, the man convicted in the 2013 Boston Mara…</div>
+The most popular user is: **melo_is_pan420**
+<div class="alert alert-block alert-danger"> RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AP** |
-| #2 Most tweeted to  | **thejtlewis** |
-| #3 Most tweeted to  | **bennyjohnson** |
-| NewProfiles (less than 10 days) | 0.45%  |
-| Tweeters with < 10 followers  | 1.95%|
-| Tweeters with > 1000000 followers  | 0.31%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **NBATV** |
+| #3 Most tweeted to  | **WorldWideWob** |
+| NewProfiles (less than 10 days) | 0.65%  |
+| Tweeters with < 10 followers  | 1.27%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Mile_by_Mile**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOSTON**  |
-| second  | **DEATH**  |
-| third  | **COURT** |
-| fourth  | **APPEALS**  |
-| fifth  | **SENTENCE**  |
+| first  | **MELO**  |
+| second  | **CLUTCH**  |
+| third  | **🔥** |
+| fourth  | **@BLEACHERREPORT:**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (7.14%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (42.86%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|A federal appeals court on Friday overturned the death sentence of Dzhokhar Tsarnaev, the man convicted in the 2013… https://t.co/dGudw8mg9i |
+|Melo looking like old Melo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Mile_by_Mile**  |
+| The most retweeted user is: **melo_is_pan420**  |
 | ------------- |
-| RT @AP: BREAKING: A federal appeals court has overturned the death sentence of Dzhokhar Tsarnaev, the man convicted in the 2013 Boston Mara… |
+| RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
