@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Melo"**
+&#x1F34E; **TOPIC = "#NationalGirlfriendDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WorldWideWob: great look by Dame to set up Melo.three to the dome.what a damn game. https://t.co/DKsxFjaUEi |
-| MY BOY MELO CANT MISS #hesomelo |
-| @bra_melo_ Experience ✌ |
+| RT @Alyna_Jaramillo: Oh today is #NationalGirlfriendDay @Jaadayyy can’t wait till your my wife 😘 https://t.co/DqEEu8gQRT |
+| she’s so beautiful #NationalGirlfriendDay https://t.co/BnMYs1d1zy |
+| RT @brie_sparkles: Happy #NationalGirlfriendDay to Brittana even though.. they’re married with kids. https://t.co/XEmAkDtdva |
 
-The most popular user is: **melo_is_pan420**
-<div class="alert alert-block alert-danger"> RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!!</div>
+The most popular user is: **labaleinesel**
+<div class="alert alert-block alert-danger"> RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **NBATV** |
-| #3 Most tweeted to  | **WorldWideWob** |
-| NewProfiles (less than 10 days) | 0.65%  |
-| Tweeters with < 10 followers  | 1.27%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **plsfindmeagf** |
+| #2 Most tweeted to  | **vinstatruong** |
+| #3 Most tweeted to  | **OfficialTravlad** |
+| NewProfiles (less than 10 days) | 1.19%  |
+| Tweeters with < 10 followers  | 4.25%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **melo_is_pan420**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MELO**  |
-| second  | **CLUTCH**  |
-| third  | **🔥** |
-| fourth  | **@BLEACHERREPORT:**  |
-| fifth  | **GAME**  |
+| first  | **NATIONALGIRLFRIENDDAY**  |
+| second  | **HAPPY**  |
+| third  | **CREATED** |
+| fourth  | **HUMILIATE**  |
+| fifth  | **@PLSFINDMEAGF:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Melo looking like old Melo |
+|Happy #NationalGirlfriendDay  Loved you from the very start ❤️ https://t.co/md7cQxYNvr |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **melo_is_pan420**  |
+| The most retweeted user is: **labaleinesel**  |
 | ------------- |
-| RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!! |
+| RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
