@@ -15,11 +15,11 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Alyna_Jaramillo: Oh today is #NationalGirlfriendDay @Jaadayyy can’t wait till your my wife 😘 https://t.co/DqEEu8gQRT |
-| she’s so beautiful #NationalGirlfriendDay https://t.co/BnMYs1d1zy |
-| RT @brie_sparkles: Happy #NationalGirlfriendDay to Brittana even though.. they’re married with kids. https://t.co/XEmAkDtdva |
+| RT @KianaRebels_: Today is #NationalGirlfriendDay so Keem and I are creating vision boards and are painting the day away. Thank you baby @j… |
+| Happy #NationalGirlfriendDay to this dumbass.Jk I love you ❤️ @jazminemontes_ https://t.co/13LTaj8ct4 |
+| RT @rentgirlfriend: Happy National Girlfriend Day ❤ #NationalGirlfriendDay https://t.co/UkbX28jT97 |
 
-The most popular user is: **labaleinesel**
+The most popular user is: **sapphicstarks**
 <div class="alert alert-block alert-danger"> RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me</div>
 
 ## RELATED METRICS<br>
@@ -27,9 +27,9 @@ The most popular user is: **labaleinesel**
 | ------------- | ------------- |
 | #1 Most tweeted to  | **plsfindmeagf** |
 | #2 Most tweeted to  | **vinstatruong** |
-| #3 Most tweeted to  | **OfficialTravlad** |
-| NewProfiles (less than 10 days) | 1.19%  |
-| Tweeters with < 10 followers  | 4.25%|
+| #3 Most tweeted to  | **_Snape_** |
+| NewProfiles (less than 10 days) | 1.01%  |
+| Tweeters with < 10 followers  | 4.01%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -41,24 +41,24 @@ The most popular user is: **labaleinesel**
 | ------------- | ------------- |
 | first  | **NATIONALGIRLFRIENDDAY**  |
 | second  | **HAPPY**  |
-| third  | **CREATED** |
-| fourth  | **HUMILIATE**  |
-| fifth  | **@PLSFINDMEAGF:**  |
+| third  | **GIRLFRIEND** |
+| fourth  | **LOVE**  |
+| fifth  | **CREATED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Happy #NationalGirlfriendDay  Loved you from the very start ❤️ https://t.co/md7cQxYNvr |
+|apparently it’s #NationalGirlfriendDay and here i am, no one’s girlfriend. a shame, really. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **labaleinesel**  |
+| The most retweeted user is: **sapphicstarks**  |
 | ------------- |
 | RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me |
 
