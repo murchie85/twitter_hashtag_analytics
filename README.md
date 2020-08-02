@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalGirlfriendDay"**
+&#x1F34E; **TOPIC = "#forgotten80s"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KianaRebels_: Today is #NationalGirlfriendDay so Keem and I are creating vision boards and are painting the day away. Thank you baby @j… |
-| Happy #NationalGirlfriendDay to this dumbass.Jk I love you ❤️ @jazminemontes_ https://t.co/13LTaj8ct4 |
-| RT @rentgirlfriend: Happy National Girlfriend Day ❤ #NationalGirlfriendDay https://t.co/UkbX28jT97 |
+| that must be Madonna #forgotten80s |
+| @HelenTweeter Won't be far behind you...night night Helen and stay safe #forgotten80s |
+| Stewart Shoutie @GinSoakedBoy. Good work  #forgotten80s |
 
-The most popular user is: **sapphicstarks**
-<div class="alert alert-block alert-danger"> RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me</div>
+The most popular user is: **alhanda**
+<div class="alert alert-block alert-danger"> RT @DestinyofDragon: When are they going to make a M.A.S.K. movie!? #MASK #MaskUp #MobileArmouredStrikeKommand #IllusionIsTheTheUltimateWea…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **plsfindmeagf** |
-| #2 Most tweeted to  | **vinstatruong** |
-| #3 Most tweeted to  | **_Snape_** |
-| NewProfiles (less than 10 days) | 1.01%  |
-| Tweeters with < 10 followers  | 4.01%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **MatthewJRudd** |
+| #2 Most tweeted to  | **mango_24** |
+| #3 Most tweeted to  | **GinSoakedBoy** |
+| NewProfiles (less than 10 days) | 0.05%  |
+| Tweeters with < 10 followers  | 3.44%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sapphicstarks**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALGIRLFRIENDDAY**  |
-| second  | **HAPPY**  |
-| third  | **GIRLFRIEND** |
-| fourth  | **LOVE**  |
-| fifth  | **CREATED**  |
+| first  | **FORGOTTEN80S**  |
+| second  | **SOTN**  |
+| third  | **LOVE** |
+| fourth  | **FORGOTTEN80SRT**  |
+| fifth  | **FORGOTTEN80SFORGOTTEN80S**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|apparently it’s #NationalGirlfriendDay and here i am, no one’s girlfriend. a shame, really. |
+|@mmaconachie I think I like it, too! #forgotten80s |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sapphicstarks**  |
+| The most retweeted user is: **alhanda**  |
 | ------------- |
-| RT @plsfindmeagf: who Created #NationalGirlfriendDay just To humiliate Me |
+| RT @DestinyofDragon: When are they going to make a M.A.S.K. movie!? #MASK #MaskUp #MobileArmouredStrikeKommand #IllusionIsTheTheUltimateWea… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
