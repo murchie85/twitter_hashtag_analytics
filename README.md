@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#forgotten80s"**
+&#x1F34E; **TOPIC = "Cespedes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| that must be Madonna #forgotten80s |
-| @HelenTweeter Won't be far behind you...night night Helen and stay safe #forgotten80s |
-| Stewart Shoutie @GinSoakedBoy. Good work  #forgotten80s |
+| RT @cara_jeffrey: Anyone hating on Céspedes is just jealous that they too can’t opt out from the Mets |
+| RT @JeffPassan: When Yoenis Cespedes didn't show up today, the Mets sent security to his room. They found it empty. He had taken his belong… |
+| RT @JeffPassan: Mets oufielder Yoenis Cespedes has opted out of the 2020 season, general manager Brodie Van Wagenen says. |
 
-The most popular user is: **alhanda**
-<div class="alert alert-block alert-danger"> RT @DestinyofDragon: When are they going to make a M.A.S.K. movie!? #MASK #MaskUp #MobileArmouredStrikeKommand #IllusionIsTheTheUltimateWea…</div>
+The most popular user is: **cespedes_pau02**
+<div class="alert alert-block alert-danger"> RT @stupedely: I pray my friends get through the battles that they don’t tell me about</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MatthewJRudd** |
-| #2 Most tweeted to  | **mango_24** |
-| #3 Most tweeted to  | **GinSoakedBoy** |
-| NewProfiles (less than 10 days) | 0.05%  |
-| Tweeters with < 10 followers  | 3.44%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **JeffPassan** |
+| #2 Most tweeted to  | **AdamSchefter** |
+| #3 Most tweeted to  | **FieldYates** |
+| NewProfiles (less than 10 days) | 0.33%  |
+| Tweeters with < 10 followers  | 2.34%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **alhanda**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FORGOTTEN80S**  |
-| second  | **SOTN**  |
-| third  | **LOVE** |
-| fourth  | **FORGOTTEN80SRT**  |
-| fifth  | **FORGOTTEN80SFORGOTTEN80S**  |
+| first  | **CESPEDES**  |
+| second  | **YOENIS**  |
+| third  | **METS** |
+| fourth  | **"DIDNT"**  |
+| fifth  | **SHOW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@mmaconachie I think I like it, too! #forgotten80s |
+|RT @BNightengale: Yoenis Cespedes was "disgruntled,'' according to one #Mets player. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alhanda**  |
+| The most retweeted user is: **cespedes_pau02**  |
 | ------------- |
-| RT @DestinyofDragon: When are they going to make a M.A.S.K. movie!? #MASK #MaskUp #MobileArmouredStrikeKommand #IllusionIsTheTheUltimateWea… |
+| RT @stupedely: I pray my friends get through the battles that they don’t tell me about |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
