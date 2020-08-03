@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#allrise"**
+&#x1F34E; **TOPIC = "Moesha"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Yankees: He's on Cloud 99. #AllRise https://t.co/8lAgSRuoDV |
-| #GOAT @TheJudge44 Oh my goodness  #AllRise #Wooooooo not human #Yankees |
-| RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2 |
+| You know Moesha did some dumb shit, but Frank was a controlling, narcissistic, sad excuse of a father, piece of shi… https://t.co/b2EpQ0JH2y |
+| RT @forevertanikia: Currently watching the pilot for #Moesha and having an internal moment of silence for Lamont Bentley, Yvette Wilson, an… |
+| RT @IncandescentEYE: Dee: good morning Moesha: https://t.co/DZqfWDrzPp |
 
-The most popular user is: **999togetinn**
-<div class="alert alert-block alert-danger"> RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2</div>
+The most popular user is: **moesha_val**
+<div class="alert alert-block alert-danger"> RT @TheHyyyype: me passing someone: u slow bitch
+
+me being passed: ok speed racer</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Yankees** |
-| #2 Most tweeted to  | **TheJudge44** |
-| #3 Most tweeted to  | **RE2PECT2JETER** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.32%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **eyiaj** |
+| #2 Most tweeted to  | **shelbxp** |
+| #3 Most tweeted to  | **LMarieTV** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 0.65%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **999togetinn**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALLRISE**  |
-| second  | **@YANKEES:**  |
-| third  | **SEND** |
-| fourth  | **FLAME**  |
-| fifth  | **EMOJIS**  |
+| first  | **MOESHA**  |
+| second  | **THEME**  |
+| third  | **SONG** |
+| fourth  | **PRODUCED**  |
+| fifth  | **GUY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|That’s a sweep and 11 out of the last 12 against the Red Sox!! #AllRise #Yankees |
+|RT @IncandescentEYE: Dee: good morning Moesha: https://t.co/DZqfWDrzPp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **999togetinn**  |
+| The most retweeted user is: **moesha_val**  |
 | ------------- |
-| RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2 |
+| RT @TheHyyyype: me passing someone: u slow bitchme being passed: ok speed racer |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
