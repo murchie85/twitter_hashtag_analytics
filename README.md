@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Cespedes"**
+&#x1F34E; **TOPIC = "#allrise"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cara_jeffrey: Anyone hating on Céspedes is just jealous that they too can’t opt out from the Mets |
-| RT @JeffPassan: When Yoenis Cespedes didn't show up today, the Mets sent security to his room. They found it empty. He had taken his belong… |
-| RT @JeffPassan: Mets oufielder Yoenis Cespedes has opted out of the 2020 season, general manager Brodie Van Wagenen says. |
+| RT @Yankees: He's on Cloud 99. #AllRise https://t.co/8lAgSRuoDV |
+| #GOAT @TheJudge44 Oh my goodness  #AllRise #Wooooooo not human #Yankees |
+| RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2 |
 
-The most popular user is: **cespedes_pau02**
-<div class="alert alert-block alert-danger"> RT @stupedely: I pray my friends get through the battles that they don’t tell me about</div>
+The most popular user is: **999togetinn**
+<div class="alert alert-block alert-danger"> RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JeffPassan** |
-| #2 Most tweeted to  | **AdamSchefter** |
-| #3 Most tweeted to  | **FieldYates** |
-| NewProfiles (less than 10 days) | 0.33%  |
-| Tweeters with < 10 followers  | 2.34%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Yankees** |
+| #2 Most tweeted to  | **TheJudge44** |
+| #3 Most tweeted to  | **RE2PECT2JETER** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.32%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **cespedes_pau02**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CESPEDES**  |
-| second  | **YOENIS**  |
-| third  | **METS** |
-| fourth  | **"DIDNT"**  |
-| fifth  | **SHOW**  |
+| first  | **ALLRISE**  |
+| second  | **@YANKEES:**  |
+| third  | **SEND** |
+| fourth  | **FLAME**  |
+| fifth  | **EMOJIS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BNightengale: Yoenis Cespedes was "disgruntled,'' according to one #Mets player. |
+|That’s a sweep and 11 out of the last 12 against the Red Sox!! #AllRise #Yankees |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cespedes_pau02**  |
+| The most retweeted user is: **999togetinn**  |
 | ------------- |
-| RT @stupedely: I pray my friends get through the battles that they don’t tell me about |
+| RT @Yankees: Send flame emojis. #AllRise https://t.co/fHZ0ixCTF2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
