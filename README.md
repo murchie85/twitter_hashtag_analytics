@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Veep"**
+&#x1F34E; **TOPIC = "Beirut"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cynthiamckinney: I was told that if I went under the "stable" of Rabbi Marc Schneier, former veep of the World Jewish Congress, that I… |
-| RT @DanRather: I have seen the Veep sweepstakes play out many times. The big difference this time: all the candidates are women; many Black… |
-| RT @B52Malmet: This week will bring an end to Veep Watch and Veep Sweepstakes. Can’t wait. Please promise you won’t engage in second-guessi… |
+| RT @Anasayzz: This brown reddish cloud can be a concentration of NO2, a highly toxic gas like chlorine which is a byproduct of ammunition c… |
+| RT @MATIVOTRISH: BEIRUT 😭😭, Oh Lord....we really need you to hear our prayers for Lebanon 😭😭.2020, IT'S ENOUGH!!! PLEASE BE KIND ALREADY 😭… |
+| Share and kindly consider helping, if you can...#Beirut #Lebanon #LiveloveLebanon #BeirutStrong #BeirutBlast… https://t.co/wxwoBsAA1t |
 
-The most popular user is: **Veep_Beep**
-<div class="alert alert-block alert-danger"> RT @16pxl: more acrylic charm concepts ✨ https://t.co/yuB3p7Bye6</div>
+The most popular user is: **politicalgale**
+<div class="alert alert-block alert-danger"> RT @borzou: Stunning video shows explosions just minutes ago at Beirut port https://t.co/ZjltF0VcTr</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DanRather** |
-| #2 Most tweeted to  | **B52Malmet** |
-| #3 Most tweeted to  | **justinamash** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.76%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **borzou** |
+| #2 Most tweeted to  | **spectatorindex** |
+| #3 Most tweeted to  | **blondedangeI** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 4.39%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Veep_Beep**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VEEP**  |
-| second  | **MANY**  |
-| third  | **SWEEPSTAKES** |
-| fourth  | **SEEN**  |
-| fifth  | **BIG**  |
+| first  | **BEIRUT**  |
+| second  | **EXPLOSION**  |
+| third  | **LEBANON** |
+| fourth  | **PORT**  |
+| fifth  | **PEOPLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @cynthiamckinney: I was told that if I went under the "stable" of Rabbi Marc Schneier, former veep of the World Jewish Congress, that I… |
+|RT @Capt_Aliyu: A massive explosion at Lebanon Beirut, report says there's about 30 death as for now and atleast 3000 injured persons. This… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Veep_Beep**  |
+| The most retweeted user is: **politicalgale**  |
 | ------------- |
-| RT @16pxl: more acrylic charm concepts ✨ https://t.co/yuB3p7Bye6 |
+| RT @borzou: Stunning video shows explosions just minutes ago at Beirut port https://t.co/ZjltF0VcTr |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
