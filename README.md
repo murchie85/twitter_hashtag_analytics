@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Beirut"**
+&#x1F34E; **TOPIC = "Luka"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Anasayzz: This brown reddish cloud can be a concentration of NO2, a highly toxic gas like chlorine which is a byproduct of ammunition c… |
-| RT @MATIVOTRISH: BEIRUT 😭😭, Oh Lord....we really need you to hear our prayers for Lebanon 😭😭.2020, IT'S ENOUGH!!! PLEASE BE KIND ALREADY 😭… |
-| Share and kindly consider helping, if you can...#Beirut #Lebanon #LiveloveLebanon #BeirutStrong #BeirutBlast… https://t.co/wxwoBsAA1t |
+| Luka went off today |
+| RT @NBA: Luka Doncic GOES OFF for a 34-PT, 20-REB (career-high), 12-AST triple-double to power the @dallasmavs past SAC in OT! #WholeNewGam… |
+| Miss me with all that Zion and Ja talk, Luka IS the future of the league. |
 
-The most popular user is: **politicalgale**
-<div class="alert alert-block alert-danger"> RT @borzou: Stunning video shows explosions just minutes ago at Beirut port https://t.co/ZjltF0VcTr</div>
+The most popular user is: **luka_nuka**
+<div class="alert alert-block alert-danger"> RT @5ive_zw: "your mom is so nice" thanks it was all an act.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **borzou** |
-| #2 Most tweeted to  | **spectatorindex** |
-| #3 Most tweeted to  | **blondedangeI** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 4.39%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **dallasmavs** |
+| #3 Most tweeted to  | **statmuse** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 2.44%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **politicalgale**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEIRUT**  |
-| second  | **EXPLOSION**  |
-| third  | **LEBANON** |
-| fourth  | **PORT**  |
-| fifth  | **PEOPLE**  |
+| first  | **LUKA**  |
+| second  | **20**  |
+| third  | **DONCIC** |
+| fourth  | **34**  |
+| fifth  | **12**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Capt_Aliyu: A massive explosion at Lebanon Beirut, report says there's about 30 death as for now and atleast 3000 injured persons. This… |
+|@LegionHoopsRoss @TheNBACentral Luka's going to have a chance to be one of the best to ever play - 2019-20:• NBA'… https://t.co/BTrxek5RCr |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **politicalgale**  |
+| The most retweeted user is: **luka_nuka**  |
 | ------------- |
-| RT @borzou: Stunning video shows explosions just minutes ago at Beirut port https://t.co/ZjltF0VcTr |
+| RT @5ive_zw: "your mom is so nice" thanks it was all an act. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
