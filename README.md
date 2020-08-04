@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Moesha"**
+&#x1F34E; **TOPIC = "Veep"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| You know Moesha did some dumb shit, but Frank was a controlling, narcissistic, sad excuse of a father, piece of shi… https://t.co/b2EpQ0JH2y |
-| RT @forevertanikia: Currently watching the pilot for #Moesha and having an internal moment of silence for Lamont Bentley, Yvette Wilson, an… |
-| RT @IncandescentEYE: Dee: good morning Moesha: https://t.co/DZqfWDrzPp |
+| RT @cynthiamckinney: I was told that if I went under the "stable" of Rabbi Marc Schneier, former veep of the World Jewish Congress, that I… |
+| RT @DanRather: I have seen the Veep sweepstakes play out many times. The big difference this time: all the candidates are women; many Black… |
+| RT @B52Malmet: This week will bring an end to Veep Watch and Veep Sweepstakes. Can’t wait. Please promise you won’t engage in second-guessi… |
 
-The most popular user is: **moesha_val**
-<div class="alert alert-block alert-danger"> RT @TheHyyyype: me passing someone: u slow bitch
-
-me being passed: ok speed racer</div>
+The most popular user is: **Veep_Beep**
+<div class="alert alert-block alert-danger"> RT @16pxl: more acrylic charm concepts ✨ https://t.co/yuB3p7Bye6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **eyiaj** |
-| #2 Most tweeted to  | **shelbxp** |
-| #3 Most tweeted to  | **LMarieTV** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 0.65%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **DanRather** |
+| #2 Most tweeted to  | **B52Malmet** |
+| #3 Most tweeted to  | **justinamash** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.76%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ me being passed: ok speed racer</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOESHA**  |
-| second  | **THEME**  |
-| third  | **SONG** |
-| fourth  | **PRODUCED**  |
-| fifth  | **GUY**  |
+| first  | **VEEP**  |
+| second  | **MANY**  |
+| third  | **SWEEPSTAKES** |
+| fourth  | **SEEN**  |
+| fifth  | **BIG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @IncandescentEYE: Dee: good morning Moesha: https://t.co/DZqfWDrzPp |
+|RT @cynthiamckinney: I was told that if I went under the "stable" of Rabbi Marc Schneier, former veep of the World Jewish Congress, that I… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **moesha_val**  |
+| The most retweeted user is: **Veep_Beep**  |
 | ------------- |
-| RT @TheHyyyype: me passing someone: u slow bitchme being passed: ok speed racer |
+| RT @16pxl: more acrylic charm concepts ✨ https://t.co/yuB3p7Bye6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
