@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Luka"**
+&#x1F34E; **TOPIC = "Dick Goddard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Luka went off today |
-| RT @NBA: Luka Doncic GOES OFF for a 34-PT, 20-REB (career-high), 12-AST triple-double to power the @dallasmavs past SAC in OT! #WholeNewGam… |
-| Miss me with all that Zion and Ja talk, Luka IS the future of the league. |
+| RT @CLECLOTHINGCO: Sad Day....A Cleveland legend. RIP Dick Goddard. https://t.co/sM59JXB6UD |
+| RT @Indians: RIP to Cleveland legend, and Tribe fan, Dick Goddard. https://t.co/VunCLVySBh |
+| RT @Indians: RIP to Cleveland legend, and Tribe fan, Dick Goddard. https://t.co/VunCLVySBh |
 
-The most popular user is: **luka_nuka**
-<div class="alert alert-block alert-danger"> RT @5ive_zw: "your mom is so nice" thanks it was all an act.</div>
+The most popular user is: **jaena_goddard**
+<div class="alert alert-block alert-danger"> RT @2sadityray: Whoever keep calling about my cars extended warranty PLZ SUCK MY DICK</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **dallasmavs** |
-| #3 Most tweeted to  | **statmuse** |
-| NewProfiles (less than 10 days) | 0.57%  |
-| Tweeters with < 10 followers  | 2.44%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **fox8news** |
+| #2 Most tweeted to  | **Indians** |
+| #3 Most tweeted to  | **CLECLOTHINGCO** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 1.47%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **luka_nuka**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LUKA**  |
-| second  | **20**  |
-| third  | **DONCIC** |
-| fourth  | **34**  |
-| fifth  | **12**  |
+| first  | **DICK**  |
+| second  | **GODDARD**  |
+| third  | **CLEVELAND** |
+| fourth  | **LEGEND**  |
+| fifth  | **RIP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LegionHoopsRoss @TheNBACentral Luka's going to have a chance to be one of the best to ever play - 2019-20:• NBA'… https://t.co/BTrxek5RCr |
+|RT @JPKassell: A sad day for the community, and meteorology... Rest in Peace, Dick Goddard https://t.co/EuBTlzMlsY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **luka_nuka**  |
+| The most retweeted user is: **jaena_goddard**  |
 | ------------- |
-| RT @5ive_zw: "your mom is so nice" thanks it was all an act. |
+| RT @2sadityray: Whoever keep calling about my cars extended warranty PLZ SUCK MY DICK |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
