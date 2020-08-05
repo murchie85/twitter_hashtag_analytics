@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DOOP"**
+&#x1F34E; **TOPIC = "Lebanon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JTansey90: Three quarterfinal games at #MLSisBack. Three underdogs advance.#DOOP, #OrlandoCity and #MNUFC are through to the semifi… |
-| RT @MLS: FT: @PhilaUnion dominate. #PHIvSKCON TO THE SEMIFINALS!!! #DOOP https://t.co/6sNOlYvrdf |
-| RT @MLS: #DOOP vs. #SportingKC Coming up shortly on ESPN, TSN, &amp; TVAS! 📺 https://t.co/zYMFxMbpcG |
+| RT @1994fineline: what’s going on in lebanon? - educate yourselves. https://t.co/aR8GCArkVv |
+| RT @AJEnglish: “It is a catastrophe, I’ve never seen something like that.” Lebanon is in a state of emergency following a massive explosi… |
+| RT @SUNASUPREMACY: imagine if we cancelled anisd this week out of respect for lebanon 🥰 |
 
-The most popular user is: **StevenLennox4**
-<div class="alert alert-block alert-danger"> RT @PhilaUnion: Happy to help you back to Kansas 👋 
-
-#DOOP https://t.co/VyaZ22vf05</div>
+The most popular user is: **jellyyjaayy**
+<div class="alert alert-block alert-danger"> RT @manicwithluv: Petitions don’t work in the Middle East so instead here is a thread of donation links specifically to help those in Leban…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PhilaUnion** |
-| #2 Most tweeted to  | **MLS** |
-| #3 Most tweeted to  | **JoseAndresMT8** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 1.16%|
-| Tweeters with > 1000000 followers  | 0.38%  |
+| #1 Most tweeted to  | **tbycherries** |
+| #2 Most tweeted to  | **IR0NSPIDEY** |
+| #3 Most tweeted to  | **localbaghdaddy** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 3.88%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **StevenLennox4**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOOP**  |
-| second  | **@PHILAUNION:**  |
-| third  | **@PHILAUNION** |
-| fourth  | **PHIVSKC**  |
-| fifth  | **MLSISBACK**  |
+| first  | **LEBANON**  |
+| second  | **PEOPLE**  |
+| third  | **BEIRUT** |
+| fourth  | **EXPLOSION**  |
+| fifth  | **HELP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Brenden Aaronson aka Medford Messi with such a pin point beautiful ball to Santos oh my word. #DOOP https://t.co/WdOM1rVgGi |
+|RT @nzar3k: you know that if I made a similar joke about BLM and George Floyd I would've been cancelled by now, yet people get away with jo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **StevenLennox4**  |
+| The most retweeted user is: **jellyyjaayy**  |
 | ------------- |
-| RT @PhilaUnion: Happy to help you back to Kansas 👋 #DOOP https://t.co/VyaZ22vf05 |
+| RT @manicwithluv: Petitions don’t work in the Middle East so instead here is a thread of donation links specifically to help those in Leban… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
