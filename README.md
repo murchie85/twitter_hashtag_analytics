@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dick Goddard"**
+&#x1F34E; **TOPIC = "#DOOP"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CLECLOTHINGCO: Sad Day....A Cleveland legend. RIP Dick Goddard. https://t.co/sM59JXB6UD |
-| RT @Indians: RIP to Cleveland legend, and Tribe fan, Dick Goddard. https://t.co/VunCLVySBh |
-| RT @Indians: RIP to Cleveland legend, and Tribe fan, Dick Goddard. https://t.co/VunCLVySBh |
+| RT @JTansey90: Three quarterfinal games at #MLSisBack. Three underdogs advance.#DOOP, #OrlandoCity and #MNUFC are through to the semifi… |
+| RT @MLS: FT: @PhilaUnion dominate. #PHIvSKCON TO THE SEMIFINALS!!! #DOOP https://t.co/6sNOlYvrdf |
+| RT @MLS: #DOOP vs. #SportingKC Coming up shortly on ESPN, TSN, &amp; TVAS! 📺 https://t.co/zYMFxMbpcG |
 
-The most popular user is: **jaena_goddard**
-<div class="alert alert-block alert-danger"> RT @2sadityray: Whoever keep calling about my cars extended warranty PLZ SUCK MY DICK</div>
+The most popular user is: **StevenLennox4**
+<div class="alert alert-block alert-danger"> RT @PhilaUnion: Happy to help you back to Kansas 👋 
+
+#DOOP https://t.co/VyaZ22vf05</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **fox8news** |
-| #2 Most tweeted to  | **Indians** |
-| #3 Most tweeted to  | **CLECLOTHINGCO** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 1.47%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **PhilaUnion** |
+| #2 Most tweeted to  | **MLS** |
+| #3 Most tweeted to  | **JoseAndresMT8** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 1.16%|
+| Tweeters with > 1000000 followers  | 0.38%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jaena_goddard**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DICK**  |
-| second  | **GODDARD**  |
-| third  | **CLEVELAND** |
-| fourth  | **LEGEND**  |
-| fifth  | **RIP**  |
+| first  | **DOOP**  |
+| second  | **@PHILAUNION:**  |
+| third  | **@PHILAUNION** |
+| fourth  | **PHIVSKC**  |
+| fifth  | **MLSISBACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JPKassell: A sad day for the community, and meteorology... Rest in Peace, Dick Goddard https://t.co/EuBTlzMlsY |
+|Brenden Aaronson aka Medford Messi with such a pin point beautiful ball to Santos oh my word. #DOOP https://t.co/WdOM1rVgGi |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jaena_goddard**  |
+| The most retweeted user is: **StevenLennox4**  |
 | ------------- |
-| RT @2sadityray: Whoever keep calling about my cars extended warranty PLZ SUCK MY DICK |
+| RT @PhilaUnion: Happy to help you back to Kansas 👋 #DOOP https://t.co/VyaZ22vf05 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
