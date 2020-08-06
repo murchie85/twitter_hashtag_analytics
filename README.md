@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pettersson"**
+&#x1F34E; **TOPIC = "Japan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chach3: @jmarshfof Pettersson shoots the puck like Rick Vaughn pitched before he got glasses. |
-| @dombrova22 @DhaliwalSports Pettersson didn’t look like he got hurt last game. I didn’t see where Toffoli would hav… https://t.co/hgBo2MI0QH |
-| RT @Techno_Fog: Allegations against Dershowitz - Not only did Dershowitz abuse the minor, but he helped draft a non-prosecution agreement… |
+| RT @HeavenlyControl: “One Piece characters have unrealistic proportions”Japan: https://t.co/DistdHPa7A |
+| RT @boriquagato: LA has been more mask wearing and MUCH more locked down than US as a whole.  yet they are now seeing cases rise vs most of… |
+| RT @nuclearban: If you only read one thing about #Hiroshima75 today, make it this @NYTimes article sharing the story of hibakusha and antin… |
 
-The most popular user is: **20a_pettersson**
-<div class="alert alert-block alert-danger"> RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!!</div>
+The most popular user is: **ailurophile2493**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: #housedance #Practice 
+#HopeOnTheStreet in JAPAN
+WITH @KAZANE_KASAI https://t.co/dcniTwn69v</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Canucks** |
-| #2 Most tweeted to  | **DanyAllstar15** |
-| #3 Most tweeted to  | **harmandayal2** |
-| NewProfiles (less than 10 days) | 0.9%  |
-| Tweeters with < 10 followers  | 4.14%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **shaun_vids** |
+| #2 Most tweeted to  | **WORLDMUSICAWARD** |
+| #3 Most tweeted to  | **HeavenlyControl** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 6.17%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **20a_pettersson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PETTERSSON**  |
-| second  | **ELIAS**  |
-| third  | **CANUCKS** |
-| fourth  | **HARTMAN**  |
-| fifth  | **GAME**  |
+| first  | **JAPAN**  |
+| second  | **NUCLEAR**  |
+| third  | **USE** |
+| fourth  | **AGAINST**  |
+| fifth  | **@SHAUN_VIDS:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (71.43%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Every time Pettersson attempts a shot, it just goes out of play 😂 |
+|RT @MatthewLINY: Japan’s large banks to look at building settlement system for small payments #xrp #XRPCommunity https://t.co/gENd4obcPp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **20a_pettersson**  |
+| The most retweeted user is: **ailurophile2493**  |
 | ------------- |
-| RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!! |
+| RT @BTS_twt: #housedance #Practice #HopeOnTheStreet in JAPANWITH @KAZANE_KASAI https://t.co/dcniTwn69v |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
