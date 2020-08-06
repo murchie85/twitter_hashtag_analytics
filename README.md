@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Melo"**
+&#x1F34E; **TOPIC = "Pettersson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kylekuzma: They really tried to cancel Melo |
-| @WorldWideWob glad the melo hate has dissipated a bit |
-| @1nbgoat @balldontstop Of course you go to attacking me because you can’t just support your point. Unfortunately yo… https://t.co/LPTcUhzwGf |
+| RT @chach3: @jmarshfof Pettersson shoots the puck like Rick Vaughn pitched before he got glasses. |
+| @dombrova22 @DhaliwalSports Pettersson didn’t look like he got hurt last game. I didn’t see where Toffoli would hav… https://t.co/hgBo2MI0QH |
+| RT @Techno_Fog: Allegations against Dershowitz - Not only did Dershowitz abuse the minor, but he helped draft a non-prosecution agreement… |
 
-The most popular user is: **melo_0119**
-<div class="alert alert-block alert-danger"> RT @unmissablez: I cringe sooo hard when I think about some moments in my life like WHYYY ???? DIDDD ???? I EVERRRR DO THAT!!!</div>
+The most popular user is: **20a_pettersson**
+<div class="alert alert-block alert-danger"> RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **fathueyfreeman** |
-| #2 Most tweeted to  | **espn** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.63%  |
-| Tweeters with < 10 followers  | 2.67%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **Canucks** |
+| #2 Most tweeted to  | **DanyAllstar15** |
+| #3 Most tweeted to  | **harmandayal2** |
+| NewProfiles (less than 10 days) | 0.9%  |
+| Tweeters with < 10 followers  | 4.14%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **melo_0119**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MELO**  |
-| second  | **TRIED**  |
-| third  | **AFTER** |
-| fourth  | **DAGGER**  |
-| fifth  | **CAREER**  |
+| first  | **PETTERSSON**  |
+| second  | **ELIAS**  |
+| third  | **CANUCKS** |
+| fourth  | **HARTMAN**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DE_SILVIA_T: @FLWRTR @Efrain256484390 @Donnattina @MaJaVi_ @marinavibu609g @666_alhlwan @BBeaguar @nuvisionquestt2 @S2_CarlaS2 @oce2005… |
+|Every time Pettersson attempts a shot, it just goes out of play 😂 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **melo_0119**  |
+| The most retweeted user is: **20a_pettersson**  |
 | ------------- |
-| RT @unmissablez: I cringe sooo hard when I think about some moments in my life like WHYYY ???? DIDDD ???? I EVERRRR DO THAT!!! |
+| RT @raggelli: THEY OPENED AN INVESTIGATION FOR THE DEATH OF BREONNA TAYLOR!!!!!!!!!!!!!!!!! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
