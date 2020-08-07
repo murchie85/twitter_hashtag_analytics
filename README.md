@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hazard"**
+&#x1F34E; **TOPIC = "Penguins"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Tharin_10 Tharin tweeting hazard hate 💉💉💉 |
-| Hazard damn near useless. Dribbles it 1 or 2 times then kicks it out. Can't even go 1 on 1 on with dribble like Ben… https://t.co/IGfQ5VfRhQ |
-| RT @kizento_: Let settle this here and nowWho is a better player RETWEET for De Bruyne of Manchester CityLIKE for Hazard of Real Madrid… |
+| RT @SidneyCrosbyEgo: The Penguins waiting for Lafreniere https://t.co/I0y5G0gniL |
+| If your favorite team isn’t in the east or even more specifically in the metro and you hate the penguins you’re jus… https://t.co/pqVLs9sEUH |
+| I'm not sure. I can't really tell. Is that dookie on the ice? Because the Penguins just dropped a big one out there. Big and stinky!! |
 
-The most popular user is: **Kurt_Hazard**
-<div class="alert alert-block alert-danger"> RT @NiggazWILIN: I hate a mf who talks the whole car ride ....my nigga yu DONT like music ?</div>
+The most popular user is: **MarcQuill**
+<div class="alert alert-block alert-danger"> RT @GrittyNHL: @penguins Sleep with one eye open tonight, bird. https://t.co/wLmGBa0Oyh</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RiZzyUTD** |
-| #2 Most tweeted to  | **RBReich** |
-| #3 Most tweeted to  | **RafaelH117** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 1.31%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **penguins** |
+| #2 Most tweeted to  | **PeteBlackburn** |
+| #3 Most tweeted to  | **CanadiensMTL** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 4.43%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Kurt_Hazard**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAZARD**  |
-| second  | **MADRID**  |
-| third  | **EDEN** |
-| fourth  | **REAL**  |
-| fifth  | **CITY**  |
+| first  | **PENGUINS**  |
+| second  | **TEAM**  |
+| third  | **@PENGUINS** |
+| fourth  | **ELIMINATED**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Aaah, was Hazard playing? LMAO 😂😂😂 overweight Belgian |
+|Pain #Penguins https://t.co/ed0rhskYMJ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kurt_Hazard**  |
+| The most retweeted user is: **MarcQuill**  |
 | ------------- |
-| RT @NiggazWILIN: I hate a mf who talks the whole car ride ....my nigga yu DONT like music ? |
+| RT @GrittyNHL: @penguins Sleep with one eye open tonight, bird. https://t.co/wLmGBa0Oyh |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
