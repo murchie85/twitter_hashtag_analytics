@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gary Trent"**
+&#x1F34E; **TOPIC = "Donovan Mitchell"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheHoopCentral: GARY TRENT 🔥And he’s still talking to Paul George 😂https://t.co/DBaEqHRqQF |
-| @BleacherReport Gary Trent Jr's jersey reads:"I AM A MAN"Truth in advertising. |
-| Gary Trent Jr is a game changer.. look like Patty Mills too |
+| RT @BleacherReport: Donovan Mitchell in OT https://t.co/c2sYjWslOJ |
+| donovan mitchell is a cold cold man |
+| RT @KendrickPerkins: Jayson TatumDevin Booker Ben Simmons Bam Adebayo Donovan Mitchell |
 
-The most popular user is: **ThaRealMaurice**
-<div class="alert alert-block alert-danger"> RT @TheNBACentral: Gary Trent Jr has been HOOPING in the Bubble 
-
-27 points (7-10 3PT)
-16 points (4-9 3PT)
-21 points (7-11 3PT)
-17 points (…</div>
+The most popular user is: **LoriRedwine4**
+<div class="alert alert-block alert-danger"> RT @ADubDitri: Donovan Mitchell and Rudy Gobert currently in quarantine: https://t.co/M1sjP1NSIp</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **BleacherReport** |
 | #2 Most tweeted to  | **TheHoopCentral** |
-| #3 Most tweeted to  | **trailblazers** |
-| NewProfiles (less than 10 days) | 0.73%  |
-| Tweeters with < 10 followers  | 1.67%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #3 Most tweeted to  | **utahjazz** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 2.25%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -44,28 +39,28 @@ The most popular user is: **ThaRealMaurice**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRENT**  |
-| second  | **GARY**  |
-| third  | **JR** |
-| fourth  | **BUBBLE**  |
-| fifth  | **@BLEACHERREPORT:**  |
+| first  | **MITCHELL**  |
+| second  | **DONOVAN**  |
+| third  | **@BLEACHERREPORT:** |
+| fourth  | **OT**  |
+| fifth  | **BOOKER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @therealjayham: Gary Trent Jr, I understand you've had a nice run to your season but why you are trying to fire up Paul George right now… |
+|“HE IS RUTHLESS”What a shot Donovan mitchell!!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ThaRealMaurice**  |
+| The most retweeted user is: **LoriRedwine4**  |
 | ------------- |
-| RT @TheNBACentral: Gary Trent Jr has been HOOPING in the Bubble 27 points (7-10 3PT)16 points (4-9 3PT)21 points (7-11 3PT)17 points (… |
+| RT @ADubDitri: Donovan Mitchell and Rudy Gobert currently in quarantine: https://t.co/M1sjP1NSIp |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
