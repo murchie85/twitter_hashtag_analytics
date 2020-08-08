@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Penguins"**
+&#x1F34E; **TOPIC = "Gary Trent"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SidneyCrosbyEgo: The Penguins waiting for Lafreniere https://t.co/I0y5G0gniL |
-| If your favorite team isn’t in the east or even more specifically in the metro and you hate the penguins you’re jus… https://t.co/pqVLs9sEUH |
-| I'm not sure. I can't really tell. Is that dookie on the ice? Because the Penguins just dropped a big one out there. Big and stinky!! |
+| RT @TheHoopCentral: GARY TRENT 🔥And he’s still talking to Paul George 😂https://t.co/DBaEqHRqQF |
+| @BleacherReport Gary Trent Jr's jersey reads:"I AM A MAN"Truth in advertising. |
+| Gary Trent Jr is a game changer.. look like Patty Mills too |
 
-The most popular user is: **MarcQuill**
-<div class="alert alert-block alert-danger"> RT @GrittyNHL: @penguins Sleep with one eye open tonight, bird. https://t.co/wLmGBa0Oyh</div>
+The most popular user is: **ThaRealMaurice**
+<div class="alert alert-block alert-danger"> RT @TheNBACentral: Gary Trent Jr has been HOOPING in the Bubble 
+
+27 points (7-10 3PT)
+16 points (4-9 3PT)
+21 points (7-11 3PT)
+17 points (…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **penguins** |
-| #2 Most tweeted to  | **PeteBlackburn** |
-| #3 Most tweeted to  | **CanadiensMTL** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 4.43%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **TheHoopCentral** |
+| #3 Most tweeted to  | **trailblazers** |
+| NewProfiles (less than 10 days) | 0.73%  |
+| Tweeters with < 10 followers  | 1.67%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +44,28 @@ The most popular user is: **MarcQuill**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PENGUINS**  |
-| second  | **TEAM**  |
-| third  | **@PENGUINS** |
-| fourth  | **ELIMINATED**  |
-| fifth  | **GAME**  |
+| first  | **TRENT**  |
+| second  | **GARY**  |
+| third  | **JR** |
+| fourth  | **BUBBLE**  |
+| fifth  | **@BLEACHERREPORT:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Pain #Penguins https://t.co/ed0rhskYMJ |
+|RT @therealjayham: Gary Trent Jr, I understand you've had a nice run to your season but why you are trying to fire up Paul George right now… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MarcQuill**  |
+| The most retweeted user is: **ThaRealMaurice**  |
 | ------------- |
-| RT @GrittyNHL: @penguins Sleep with one eye open tonight, bird. https://t.co/wLmGBa0Oyh |
+| RT @TheNBACentral: Gary Trent Jr has been HOOPING in the Bubble 27 points (7-10 3PT)16 points (4-9 3PT)21 points (7-11 3PT)17 points (… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
