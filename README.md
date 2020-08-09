@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "chaeyoung"**
+&#x1F34E; **TOPIC = "#My5XMen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
-| RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
-| RT @chaengallery: twicetagram update with chaeyoung ❤️⠀⠀⋆ ⋯ @JYPETWICE https://t.co/BRJZE5ksWF |
+| UnuscioneNate GreyGambitKorvus Rook’shirGatewayUnuscione provides spacesuits &amp; leadership for the team as Gat… https://t.co/gXrIpELWdE |
+| #My5XMen Nightcrawer, Kitty Pryde, Rogue, Eye Boy, and Nature Girl! |
+| @GailSimone MorphBeastNightcrawlerSpykeMagnetoXavier#My5XMen |
 
-The most popular user is: **hobimanas**
-<div class="alert alert-block alert-danger"> RT @JYPETWICE: TWICE ONLINE CONCERT
-Beyond LIVE - TWICE : World in A Day
+The most popular user is: **XMenQueen**
+<div class="alert alert-block alert-danger"> RT @GailSimone: Okay, I have a SECOND question of the day, THIS IS UNPRECEDENTED.   ;)
 
-Poster
-CHAEYOUNG
-
-#TWICE #트와이스 #TWICE_Beyond_LIVE #WorldinADay #O…</div>
+There’s a lot of mutants. You get to pick FIVE muta…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **misayeon** |
-| #2 Most tweeted to  | **JYPETWICE** |
-| #3 Most tweeted to  | **scysolo** |
-| NewProfiles (less than 10 days) | 2.17%  |
-| Tweeters with < 10 followers  | 7.73%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **GailSimone** |
+| #2 Most tweeted to  | **realarcobaleno** |
+| #3 Most tweeted to  | **HeatherAntos** |
+| NewProfiles (less than 10 days) | 0.75%  |
+| Tweeters with < 10 followers  | 5.9%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -45,28 +41,28 @@ CHAEYOUNG
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHAEYOUNG**  |
-| second  | **TWICE**  |
-| third  | **CONCERT** |
-| fourth  | **DAHYUN**  |
-| fifth  | **@MISAYEON:**  |
+| first  | **STORM**  |
+| second  | **MY5XMEN**  |
+| third  | **WOLVERINE** |
+| fourth  | **NIGHTCRAWLER**  |
+| fifth  | **ROGUE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
+|@GailSimone WolvieWandaColossusJean GreyBeast #My5XMen |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hobimanas**  |
+| The most retweeted user is: **XMenQueen**  |
 | ------------- |
-| RT @JYPETWICE: TWICE ONLINE CONCERTBeyond LIVE - TWICE : World in A DayPosterCHAEYOUNG#TWICE #트와이스 #TWICE_Beyond_LIVE #WorldinADay #O… |
+| RT @GailSimone: Okay, I have a SECOND question of the day, THIS IS UNPRECEDENTED.   ;)There’s a lot of mutants. You get to pick FIVE muta… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
