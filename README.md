@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Donovan Mitchell"**
+&#x1F34E; **TOPIC = "chaeyoung"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BleacherReport: Donovan Mitchell in OT https://t.co/c2sYjWslOJ |
-| donovan mitchell is a cold cold man |
-| RT @KendrickPerkins: Jayson TatumDevin Booker Ben Simmons Bam Adebayo Donovan Mitchell |
+| RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
+| RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
+| RT @chaengallery: twicetagram update with chaeyoung ❤️⠀⠀⋆ ⋯ @JYPETWICE https://t.co/BRJZE5ksWF |
 
-The most popular user is: **LoriRedwine4**
-<div class="alert alert-block alert-danger"> RT @ADubDitri: Donovan Mitchell and Rudy Gobert currently in quarantine: https://t.co/M1sjP1NSIp</div>
+The most popular user is: **hobimanas**
+<div class="alert alert-block alert-danger"> RT @JYPETWICE: TWICE ONLINE CONCERT
+Beyond LIVE - TWICE : World in A Day
+
+Poster
+CHAEYOUNG
+
+#TWICE #트와이스 #TWICE_Beyond_LIVE #WorldinADay #O…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **TheHoopCentral** |
-| #3 Most tweeted to  | **utahjazz** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 2.25%|
-| Tweeters with > 1000000 followers  | 0.15%  |
+| #1 Most tweeted to  | **misayeon** |
+| #2 Most tweeted to  | **JYPETWICE** |
+| #3 Most tweeted to  | **scysolo** |
+| NewProfiles (less than 10 days) | 2.17%  |
+| Tweeters with < 10 followers  | 7.73%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **LoriRedwine4**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MITCHELL**  |
-| second  | **DONOVAN**  |
-| third  | **@BLEACHERREPORT:** |
-| fourth  | **OT**  |
-| fifth  | **BOOKER**  |
+| first  | **CHAEYOUNG**  |
+| second  | **TWICE**  |
+| third  | **CONCERT** |
+| fourth  | **DAHYUN**  |
+| fifth  | **@MISAYEON:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|“HE IS RUTHLESS”What a shot Donovan mitchell!!! |
+|RT @misayeon: TWICE are now leaving the concert venuePress pics of Jihyo, Sana, Dahyun, Chaeyoung#TWICE #트와이스 @JYPETWICE https://t.co/U4… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LoriRedwine4**  |
+| The most retweeted user is: **hobimanas**  |
 | ------------- |
-| RT @ADubDitri: Donovan Mitchell and Rudy Gobert currently in quarantine: https://t.co/M1sjP1NSIp |
+| RT @JYPETWICE: TWICE ONLINE CONCERTBeyond LIVE - TWICE : World in A DayPosterCHAEYOUNG#TWICE #트와이스 #TWICE_Beyond_LIVE #WorldinADay #O… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
