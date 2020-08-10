@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bumgarner"**
+&#x1F34E; **TOPIC = "Mount Rushmore"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SlangsOnSports: Madison Bumgarner is the 1st pitcher in Diamondbacks history to allow 4 HR through the 1st 2 innings of a game. |
-| Big savings on this one:San Francisco Giants 2016 Topps Factory Sealed Special Edition 17 Card Team Set with Madis… https://t.co/9z6qndTtii |
-| Bumgarner gave up 7 earned runs today 🤗.... to the Astros https://t.co/fq6gO3Cg7v |
+| RT @RollingStone: White House asked if Trump could be added to Mount Rushmore https://t.co/6LodMRfPVx https://t.co/lT0YLOImcV |
+| RT @chipfranklin: When 2 died of Ebola they said Obama should resign.When 4 died in Benghazi they said Hillary should go to jail.When 1… |
+| RT @mmpadellan: There's no way trump deserves to be put on Mount Rushmore, especially after FAILING 160,000 Americans who died, and million… |
 
-The most popular user is: **bumgarner_beth**
-<div class="alert alert-block alert-danger"> RT @TheHyyyype: me passing someone: u slow bitch
-
-me being passed: ok speed racer</div>
+The most popular user is: **Horseyacres**
+<div class="alert alert-block alert-danger"> RT @thejtlewis: Retweet if they should put President Trump on Mount Rushmore!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PhotogSanchez** |
-| #2 Most tweeted to  | **BNightengale** |
-| #3 Most tweeted to  | **Chandler_Rome** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 2.63%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **chipfranklin** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **thejtlewis** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 5.44%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -41,28 +39,28 @@ me being passed: ok speed racer</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUMGARNER**  |
-| second  | **MADISON**  |
-| third  | **GAMES** |
-| fourth  | **GONNA**  |
-| fifth  | **SUSPENDED**  |
+| first  | **MOUNT**  |
+| second  | **DIED**  |
+| third  | **RUSHMORE** |
+| fourth  | **TRUMP**  |
+| fifth  | **OBAMA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PhotogSanchez: So is Bumgarner gonna be suspended for eight games now or nah? |
+|RT @HKrassenstein: BREAKING: Trump just called the media “Fake News” for reporting that he wanted to be put on Mount Rushmore.  In the same… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bumgarner_beth**  |
+| The most retweeted user is: **Horseyacres**  |
 | ------------- |
-| RT @TheHyyyype: me passing someone: u slow bitchme being passed: ok speed racer |
+| RT @thejtlewis: Retweet if they should put President Trump on Mount Rushmore! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
