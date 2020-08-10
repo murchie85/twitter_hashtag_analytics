@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mount Rushmore"**
+&#x1F34E; **TOPIC = "hobi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RollingStone: White House asked if Trump could be added to Mount Rushmore https://t.co/6LodMRfPVx https://t.co/lT0YLOImcV |
-| RT @chipfranklin: When 2 died of Ebola they said Obama should resign.When 4 died in Benghazi they said Hillary should go to jail.When 1… |
-| RT @mmpadellan: There's no way trump deserves to be put on Mount Rushmore, especially after FAILING 160,000 Americans who died, and million… |
+| RT @yoontify: bighit pulling out their wild card by unleashing hobi’s forehead |
+| RT @jeonbubbles: that’s not hobi ... that’s JAY. https://t.co/s1KlGVQpPk |
+| RT @seokluvr218: absolute agony is hobi just ^♡^ at maknae line dancing to cns :( https://t.co/wizgoDGfcv |
 
-The most popular user is: **Horseyacres**
-<div class="alert alert-block alert-danger"> RT @thejtlewis: Retweet if they should put President Trump on Mount Rushmore!</div>
+The most popular user is: **Hobi_Core_Whore**
+<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 #BTS_Dynamite Teaser Photo https://t.co/Pf9oe31gjh</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **chipfranklin** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **thejtlewis** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 5.44%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **kookceptional** |
+| #3 Most tweeted to  | **vantestaegi** |
+| NewProfiles (less than 10 days) | 1.43%  |
+| Tweeters with < 10 followers  | 5.55%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Horseyacres**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOUNT**  |
-| second  | **DIED**  |
-| third  | **RUSHMORE** |
-| fourth  | **TRUMP**  |
-| fifth  | **OBAMA**  |
+| first  | **HOBI**  |
+| second  | **HOSEOK**  |
+| third  | **TRENDING** |
+| fourth  | **JHOPE**  |
+| fifth  | **@BTS_TWT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HKrassenstein: BREAKING: Trump just called the media “Fake News” for reporting that he wanted to be put on Mount Rushmore.  In the same… |
+|RT @hobikkul: remember when jimin was struggling with the puppy so hobi had to switch with him,,, the moment hobi held him, the puppy calme… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Horseyacres**  |
+| The most retweeted user is: **Hobi_Core_Whore**  |
 | ------------- |
-| RT @thejtlewis: Retweet if they should put President Trump on Mount Rushmore! |
+| RT @BigHitEnt: #BTS #방탄소년단 #BTS_Dynamite Teaser Photo https://t.co/Pf9oe31gjh |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
