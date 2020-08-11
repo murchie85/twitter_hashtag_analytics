@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#90DayFiance"**
+&#x1F34E; **TOPIC = "Gettysburg"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Kimmer3737: I guess the thing I don't get about #90DayFiance is how the cops who killed Breonna Taylor haven't been arrested. |
-| RT @bkmiche: I don’t like Andrei, but they baited the shit out of him. He’s already married to Elizabeth and they have a child. You should’… |
-| RT @plum1018: Libby needs to grow a backbone and her dad needs to cut them off financially. I’ve never seen such arrogance from someone moo… |
+| RT @ChrisRBarron: Does anyone at CNN know what happened at Gettysburg? |
+| RT @ChrisRBarron: Does anyone at CNN know what happened at Gettysburg? |
+| RT @sbg1: It's not the biggest thing but Trump has just claimed to have gone to Gettysburg "numerous times" and to find the history "incred… |
 
-The most popular user is: **Amerie_Jay**
-<div class="alert alert-block alert-danger"> RT @Jamille_H: I need Jenny to pick a pronunciation and stick with it!
-#90DayFiance #90DayFianceTheOtherWay https://t.co/AnqYtVMNO3</div>
+The most popular user is: **AnthonyDePaola2**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: We have narrowed the Presidential Nomination Acceptance Speech, to be delivered on the final night of the Convention (…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **90DayFiance** |
-| #2 Most tweeted to  | **RealiteaTV1** |
-| #3 Most tweeted to  | **TLC** |
-| NewProfiles (less than 10 days) | 0.98%  |
-| Tweeters with < 10 followers  | 8.79%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **robreiner** |
+| #3 Most tweeted to  | **tedcruz** |
+| NewProfiles (less than 10 days) | 0.39%  |
+| Tweeters with < 10 followers  | 3.21%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **Amerie_Jay**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **90DAYFIANCE**  |
-| second  | **MONEY**  |
-| third  | **90DAYFIANCEHAPPILYEVERAFTER** |
-| fourth  | **90DAYFIANCERT**  |
-| fifth  | **FAMILY**  |
+| first  | **GETTYSBURG**  |
+| second  | **SPEECH**  |
+| third  | **TRUMP** |
+| fourth  | **ACCEPTANCE**  |
+| fifth  | **WHITE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Colte when Jess pushed him #happilyeverafter #90DayFiance https://t.co/D8aO632rPv |
+|RT @marklevinshow: Is it possible CNN’s Jeremy Diamond is dumber than Jim Acosta?https://t.co/zLoSzFoN7L |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Amerie_Jay**  |
+| The most retweeted user is: **AnthonyDePaola2**  |
 | ------------- |
-| RT @Jamille_H: I need Jenny to pick a pronunciation and stick with it!#90DayFiance #90DayFianceTheOtherWay https://t.co/AnqYtVMNO3 |
+| RT @realDonaldTrump: We have narrowed the Presidential Nomination Acceptance Speech, to be delivered on the final night of the Convention (… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
