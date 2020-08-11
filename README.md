@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gettysburg"**
+&#x1F34E; **TOPIC = "Bernie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChrisRBarron: Does anyone at CNN know what happened at Gettysburg? |
-| RT @ChrisRBarron: Does anyone at CNN know what happened at Gettysburg? |
-| RT @sbg1: It's not the biggest thing but Trump has just claimed to have gone to Gettysburg "numerous times" and to find the history "incred… |
+| @SeattleIndpdnt Running him till the primary so Bernie isn’t the candidate then last minute switch. I’m thinking Hi… https://t.co/0ygqoCsRIu |
+| RT @BLACKMESSlAH: Biden saw the low enthusiasm among Blacks and realized he needed to pick a black VP to energize the base. Smart, but he s… |
+| @FairSnark @cspan @JoeBiden @KamalaHarris @SenKamalaHarris I was Yang/ even Bernie but lost me with this one. I was… https://t.co/H7FnKRyTuD |
 
-The most popular user is: **AnthonyDePaola2**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: We have narrowed the Presidential Nomination Acceptance Speech, to be delivered on the final night of the Convention (…</div>
+The most popular user is: **Yoselyn364**
+<div class="alert alert-block alert-danger"> RT @LilNaanX: gonna tell my kids this was Bernie Sanders  https://t.co/JMqHgzX0Qn</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **robreiner** |
-| #3 Most tweeted to  | **tedcruz** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 3.21%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **KamalaHarris** |
+| #2 Most tweeted to  | **BernieSanders** |
+| #3 Most tweeted to  | **TrumpWarRoom** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 3.63%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AnthonyDePaola2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GETTYSBURG**  |
-| second  | **SPEECH**  |
-| third  | **TRUMP** |
-| fourth  | **ACCEPTANCE**  |
-| fifth  | **WHITE**  |
+| first  | **BERNIE**  |
+| second  | **SANDERS**  |
+| third  | **–** |
+| fourth  | **WARREN**  |
+| fifth  | **KAMALA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @marklevinshow: Is it possible CNN’s Jeremy Diamond is dumber than Jim Acosta?https://t.co/zLoSzFoN7L |
+|RT @DukatBot: This is somehow worse than Bernie's take. https://t.co/Wk6aOHVPaS |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AnthonyDePaola2**  |
+| The most retweeted user is: **Yoselyn364**  |
 | ------------- |
-| RT @realDonaldTrump: We have narrowed the Presidential Nomination Acceptance Speech, to be delivered on the final night of the Convention (… |
+| RT @LilNaanX: gonna tell my kids this was Bernie Sanders  https://t.co/JMqHgzX0Qn |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
