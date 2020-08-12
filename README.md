@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bernie"**
+&#x1F34E; **TOPIC = "#BidenHarris2020"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @SeattleIndpdnt Running him till the primary so Bernie isn’t the candidate then last minute switch. I’m thinking Hi… https://t.co/0ygqoCsRIu |
-| RT @BLACKMESSlAH: Biden saw the low enthusiasm among Blacks and realized he needed to pick a black VP to energize the base. Smart, but he s… |
-| @FairSnark @cspan @JoeBiden @KamalaHarris @SenKamalaHarris I was Yang/ even Bernie but lost me with this one. I was… https://t.co/H7FnKRyTuD |
+| RT @electroboyusa: Today, America has the promise of a brighter, better, beautiful tomorrow.But we must not stop fighting until every bal… |
+| RT @lizmoblubuckeye: 🎶 She's got a ticket to rideShe's got a ticket to rideShe's got a ticket to rideKamala’s there 🎶 - The Beatles… |
+| RT @tedlieu: Dear @realDonaldTrump: Thank you for your past support of Democrat @KamalaHarris. #BidenHarris2020 |
 
-The most popular user is: **Yoselyn364**
-<div class="alert alert-block alert-danger"> RT @LilNaanX: gonna tell my kids this was Bernie Sanders  https://t.co/JMqHgzX0Qn</div>
+The most popular user is: **Timecodepr**
+<div class="alert alert-block alert-danger"> RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **KamalaHarris** |
-| #2 Most tweeted to  | **BernieSanders** |
-| #3 Most tweeted to  | **TrumpWarRoom** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 3.63%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #2 Most tweeted to  | **mayaharris_** |
+| #3 Most tweeted to  | **JoeBiden** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 4.43%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Yoselyn364**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BERNIE**  |
-| second  | **SANDERS**  |
-| third  | **–** |
-| fourth  | **WARREN**  |
-| fifth  | **KAMALA**  |
+| first  | **BIDENHARRIS2020**  |
+| second  | **@KAMALAHARRIS**  |
+| third  | **KAMALA** |
+| fourth  | **HARRIS**  |
+| fifth  | **CAN’T**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DukatBot: This is somehow worse than Bernie's take. https://t.co/Wk6aOHVPaS |
+|RT @paulfeig: The great Kamala Harris attacked Joe Biden mercilessly during the Democratic debates. Biden ended up picking her as his runni… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Yoselyn364**  |
+| The most retweeted user is: **Timecodepr**  |
 | ------------- |
-| RT @LilNaanX: gonna tell my kids this was Bernie Sanders  https://t.co/JMqHgzX0Qn |
+| RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
