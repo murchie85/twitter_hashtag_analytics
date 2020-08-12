@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Neymar"**
+&#x1F34E; **TOPIC = "Alex Jones"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @javiously_javi neymar with 127 successful take ons |
-| RT @jeffwellz: Wasn’t Neymar’s day in the finishing department but bro he was brilliant in this game |
-| RT @Views09: Who is the best?Retweet for HazardLike for Neymar#ATAPSG https://t.co/DyffI7bHnY |
+| RT @BradMossEsq: Alex Jones is a sad and lonely man. https://t.co/P8ZvRpIJYA |
+| RT @SteveRustad1: Don't send your children to school.It's not safe.Trump doesn't care about their safety.Neither does the GOP.Or Be… |
+| RT @richardmarx: Reminder: Child porn found in documents Alex Jones sent to lawyers of Sandy Hook families, court filing says https://t.co/… |
 
-The most popular user is: **xulis_**
-<div class="alert alert-block alert-danger"> RT @Mattdavelewis: Neymar is pathetic.</div>
+The most popular user is: **pugabenjy**
+<div class="alert alert-block alert-danger"> RT @HearingAidsEdit: Alex Jones Is Bad at Mario Kart https://t.co/lTId6Cs5D1</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Madders10** |
-| #2 Most tweeted to  | **Troll__Footbal** |
-| #3 Most tweeted to  | **totalcristiano** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 1.79%|
+| #1 Most tweeted to  | **richardmarx** |
+| #2 Most tweeted to  | **pattonoswalt** |
+| #3 Most tweeted to  | **BradMossEsq** |
+| NewProfiles (less than 10 days) | 0.27%  |
+| Tweeters with < 10 followers  | 2.96%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **xulis_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NEYMAR**  |
-| second  | **MBAPPE**  |
-| third  | **PSG** |
-| fourth  | **DRIBBLES**  |
-| fifth  | **GOOD**  |
+| first  | **ALEX**  |
+| second  | **JONES**  |
+| third  | **HOOK** |
+| fourth  | **SANDY**  |
+| fifth  | **BEING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Topmilit Neymar rek laa need @ barce |
+|RT @BradMossEsq: Alex Jones is a sad and lonely man. https://t.co/P8ZvRpIJYA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **xulis_**  |
+| The most retweeted user is: **pugabenjy**  |
 | ------------- |
-| RT @Mattdavelewis: Neymar is pathetic. |
+| RT @HearingAidsEdit: Alex Jones Is Bad at Mario Kart https://t.co/lTId6Cs5D1 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
