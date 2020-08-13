@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Alex Jones"**
+&#x1F34E; **TOPIC = "#popmaster"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BradMossEsq: Alex Jones is a sad and lonely man. https://t.co/P8ZvRpIJYA |
-| RT @SteveRustad1: Don't send your children to school.It's not safe.Trump doesn't care about their safety.Neither does the GOP.Or Be… |
-| RT @richardmarx: Reminder: Child porn found in documents Alex Jones sent to lawyers of Sandy Hook families, court filing says https://t.co/… |
+| 21 again on round 2 🙄 #popmaster |
+| Round 2: 6 points. I did even worse than the terrible contestant. What can I say, all the questions were 'too current' 😂#Popmaster |
+| Gone out for a short spell 🤣🤣🤣 #popmaster |
 
-The most popular user is: **pugabenjy**
-<div class="alert alert-block alert-danger"> RT @HearingAidsEdit: Alex Jones Is Bad at Mario Kart https://t.co/lTId6Cs5D1</div>
+The most popular user is: **thesweetcheat**
+<div class="alert alert-block alert-danger"> RT @danielmaier: Still a bit giddy at the guy on yesterday’s #Popmaster who confused two Iron Maiden singles and came up with ‘Can I Play W…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **richardmarx** |
-| #2 Most tweeted to  | **pattonoswalt** |
-| #3 Most tweeted to  | **BradMossEsq** |
-| NewProfiles (less than 10 days) | 0.27%  |
-| Tweeters with < 10 followers  | 2.96%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **BBCRadio2** |
+| #2 Most tweeted to  | **LesleyB58051421** |
+| #3 Most tweeted to  | **RealKenBruce** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 2.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **pugabenjy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALEX**  |
-| second  | **JONES**  |
-| third  | **HOOK** |
-| fourth  | **SANDY**  |
-| fifth  | **BEING**  |
+| first  | **POPMASTER**  |
+| second  | **ROUND**  |
+| third  | **3** |
+| fourth  | **POINTS**  |
+| fifth  | **POPMASTERPOPMASTER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BradMossEsq: Alex Jones is a sad and lonely man. https://t.co/P8ZvRpIJYA |
+|‘Character’ klaxon. #popmaster |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **pugabenjy**  |
+| The most retweeted user is: **thesweetcheat**  |
 | ------------- |
-| RT @HearingAidsEdit: Alex Jones Is Bad at Mario Kart https://t.co/lTId6Cs5D1 |
+| RT @danielmaier: Still a bit giddy at the guy on yesterday’s #Popmaster who confused two Iron Maiden singles and came up with ‘Can I Play W… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
