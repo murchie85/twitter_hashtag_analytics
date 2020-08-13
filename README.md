@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#popmaster"**
+&#x1F34E; **TOPIC = "#jaysvirtualpubquiz"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 21 again on round 2 🙄 #popmaster |
-| Round 2: 6 points. I did even worse than the terrible contestant. What can I say, all the questions were 'too current' 😂#Popmaster |
-| Gone out for a short spell 🤣🤣🤣 #popmaster |
+| Scores so far...Let us know in replies using #JaysVirtualPubQuiz |
+| 😂 👀 #JaysVirtualPubQuiz over on Instagram stories https://t.co/bXyvfEp8SA |
+| 29/30 so far. Biggest score ever!!! Exciting. #jaysvirtualpubquiz |
 
-The most popular user is: **thesweetcheat**
-<div class="alert alert-block alert-danger"> RT @danielmaier: Still a bit giddy at the guy on yesterday’s #Popmaster who confused two Iron Maiden singles and came up with ‘Can I Play W…</div>
+The most popular user is: **LaylaTango**
+<div class="alert alert-block alert-danger"> RT @DogsTrust: 📢Calling all quiz fans! We’re super pleased to share that Dogs Trust are charity of the week for #jaysvirtualpubquiz @TheVir…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCRadio2** |
-| #2 Most tweeted to  | **LesleyB58051421** |
-| #3 Most tweeted to  | **RealKenBruce** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 2.18%|
+| #1 Most tweeted to  | **TheVirtualPubQ1** |
+| #2 Most tweeted to  | **RNLI** |
+| #3 Most tweeted to  | **DogsTrust** |
+| NewProfiles (less than 10 days) | 0.17%  |
+| Tweeters with < 10 followers  | 9.83%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **thesweetcheat**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POPMASTER**  |
-| second  | **ROUND**  |
-| third  | **3** |
-| fourth  | **POINTS**  |
-| fifth  | **POPMASTERPOPMASTER**  |
+| first  | **JAYSVIRTUALPUBQUIZ**  |
+| second  | **@THEVIRTUALPUBQ1**  |
+| third  | **QUIZ** |
+| fourth  | **WEEK**  |
+| fifth  | **TONIGHT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|‘Character’ klaxon. #popmaster |
+|RT @Shiny_Michael: @TheVirtualPubQ1 could you please say good luck to Nicola who's a nurse starting work on a new ward on Monday #jaysvirtu… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **thesweetcheat**  |
+| The most retweeted user is: **LaylaTango**  |
 | ------------- |
-| RT @danielmaier: Still a bit giddy at the guy on yesterday’s #Popmaster who confused two Iron Maiden singles and came up with ‘Can I Play W… |
+| RT @DogsTrust: 📢Calling all quiz fans! We’re super pleased to share that Dogs Trust are charity of the week for #jaysvirtualpubquiz @TheVir… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
