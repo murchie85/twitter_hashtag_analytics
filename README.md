@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#jaysvirtualpubquiz"**
+&#x1F34E; **TOPIC = "birther"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Scores so far...Let us know in replies using #JaysVirtualPubQuiz |
-| 😂 👀 #JaysVirtualPubQuiz over on Instagram stories https://t.co/bXyvfEp8SA |
-| 29/30 so far. Biggest score ever!!! Exciting. #jaysvirtualpubquiz |
+| RT @hasanthehun: love that birther 2.0 is starting against kamala fucking harris because her parents are immigrants, from the party that ra… |
+| RT @Acosta: Trump is pushing a new birther conspiracy lie. He knows full well that Kamala Harris is qualified to be president or Vice Presi… |
+| RT @Timodc: Wow who could’ve predicted that the racist birther asshole president would bite on the racist birther nonsense targeting Kamala… |
 
-The most popular user is: **LaylaTango**
-<div class="alert alert-block alert-danger"> RT @DogsTrust: 📢Calling all quiz fans! We’re super pleased to share that Dogs Trust are charity of the week for #jaysvirtualpubquiz @TheVir…</div>
+The most popular user is: **mssueme**
+<div class="alert alert-block alert-danger"> RT @soledadobrien: This dude is a birther and everyone should recognize birtherism is racist. https://t.co/nVFiPZEQRh</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheVirtualPubQ1** |
-| #2 Most tweeted to  | **RNLI** |
-| #3 Most tweeted to  | **DogsTrust** |
-| NewProfiles (less than 10 days) | 0.17%  |
-| Tweeters with < 10 followers  | 9.83%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Acosta** |
+| #2 Most tweeted to  | **kylegriffin1** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.33%  |
+| Tweeters with < 10 followers  | 2.28%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LaylaTango**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAYSVIRTUALPUBQUIZ**  |
-| second  | **@THEVIRTUALPUBQ1**  |
-| third  | **QUIZ** |
-| fourth  | **WEEK**  |
-| fifth  | **TONIGHT**  |
+| first  | **BIRTHER**  |
+| second  | **TRUMP**  |
+| third  | **KAMALA** |
+| fourth  | **HARRIS**  |
+| fifth  | **CONSPIRACY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Shiny_Michael: @TheVirtualPubQ1 could you please say good luck to Nicola who's a nurse starting work on a new ward on Monday #jaysvirtu… |
+|@maggieNYT Maybe we'll finally see @FLOTUS when she goes on Fox to explain that Oakland is in Jamaica and that's sh… https://t.co/OUl5DezWQm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LaylaTango**  |
+| The most retweeted user is: **mssueme**  |
 | ------------- |
-| RT @DogsTrust: 📢Calling all quiz fans! We’re super pleased to share that Dogs Trust are charity of the week for #jaysvirtualpubquiz @TheVir… |
+| RT @soledadobrien: This dude is a birther and everyone should recognize birtherism is racist. https://t.co/nVFiPZEQRh |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
