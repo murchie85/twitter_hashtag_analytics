@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ronaldo"**
+&#x1F34E; **TOPIC = "Pique"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Wait Ronaldo’s trending now |
-| RT @_Somto__: Let me just put this out there.It would be a cold day in Hell before this would happen to CRISTIANO RONALDO team. |
-| RT @oshoalaridwann: Never forget Ronaldo faced a better Bayern side twice and scored hattrick twice #FCBFCB https://t.co/sBICe2oLty |
+| RT @manlikefola_: #FCBFCB 33 year old Pique31 year old Alba30 year old Pjanic32 year old Busquets32 year old Rakitic33 year old Vidal… |
+| RT @dermotmcorrigan: Pique on TV 2 "Nobody is untouchable, last of all me. Fresh blood needed to change this. We have hit bottom now. We al… |
+| RT @BarcaUniversal: 🗣 — Piqué: "Horrible game, dreadful feeling. Shameful. It is very hard. It is not the first time, nor the second, nor t… |
 
-The most popular user is: **ladrayxance**
-<div class="alert alert-block alert-danger"> RT @Mukluks_: WE JUST PLAYED WITH RONALDO IN FALL GUYS LMAOOOOOOO https://t.co/qRIVolGqTj</div>
+The most popular user is: **pique_96**
+<div class="alert alert-block alert-danger"> RT @FCBayernUS: You 8-2 see it. 😅</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **markgoldbridge** |
-| #2 Most tweeted to  | **jmemc55** |
-| #3 Most tweeted to  | **bigdaddyvinz** |
-| NewProfiles (less than 10 days) | 0.45%  |
-| Tweeters with < 10 followers  | 2.59%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **barcacentre** |
+| #3 Most tweeted to  | **Ultra_Suristic** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 2.97%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ladrayxance**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RONALDO**  |
-| second  | **MESSI**  |
-| third  | **NEVER** |
-| fourth  | **CRISTIANO**  |
-| fifth  | **TEAM**  |
+| first  | **PIQUE**  |
+| second  | **YEAR**  |
+| third  | **OLD** |
+| fourth  | **PIQUÉ:**  |
+| fifth  | **CLUB**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (7.14%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (92.86%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Yeah Messi’s better than Ronaldo. We all know it. But he can’t win shit without certain players. Ronaldo is a winner! |
+|RT @Football_TaIk: Gerard Piqué:  "If I have to go for us to bring in new blood, I'll go. It's an embarrassment. If this is the end of ou… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ladrayxance**  |
+| The most retweeted user is: **pique_96**  |
 | ------------- |
-| RT @Mukluks_: WE JUST PLAYED WITH RONALDO IN FALL GUYS LMAOOOOOOO https://t.co/qRIVolGqTj |
+| RT @FCBayernUS: You 8-2 see it. 😅 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
