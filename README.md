@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lillard"**
+&#x1F34E; **TOPIC = "Ronaldo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Dame_Lillard See you on Tuesday Lakers versus blazers It is going to be a very competitive serious I respect your game a lot. 💯💯💯 |
-| RT @ThrowbackHoops: Damian Lillard carrying the Blazers into the NBA Playoffs.  https://t.co/2AvoyK3rRH |
-| RT @aj_crump2: There is nobody on the planet playing better basketball than Damian Lillard rn |
+| Wait Ronaldo’s trending now |
+| RT @_Somto__: Let me just put this out there.It would be a cold day in Hell before this would happen to CRISTIANO RONALDO team. |
+| RT @oshoalaridwann: Never forget Ronaldo faced a better Bayern side twice and scored hattrick twice #FCBFCB https://t.co/sBICe2oLty |
 
-The most popular user is: **alperkeeles**
-<div class="alert alert-block alert-danger"> RT @kobebryant: #vintagevino. Lillard is the real deal #mambasalute</div>
+The most popular user is: **ladrayxance**
+<div class="alert alert-block alert-danger"> RT @Mukluks_: WE JUST PLAYED WITH RONALDO IN FALL GUYS LMAOOOOOOO https://t.co/qRIVolGqTj</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Dame_Lillard** |
-| #2 Most tweeted to  | **trailblazers** |
-| #3 Most tweeted to  | **NBAonTNT** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 4.37%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **markgoldbridge** |
+| #2 Most tweeted to  | **jmemc55** |
+| #3 Most tweeted to  | **bigdaddyvinz** |
+| NewProfiles (less than 10 days) | 0.45%  |
+| Tweeters with < 10 followers  | 2.59%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **alperkeeles**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LILLARD**  |
-| second  | **DAMIAN**  |
-| third  | **@DAME_LILLARD** |
-| fourth  | **POINTS**  |
-| fifth  | **GAME**  |
+| first  | **RONALDO**  |
+| second  | **MESSI**  |
+| third  | **NEVER** |
+| fourth  | **CRISTIANO**  |
+| fifth  | **TEAM**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BleacherReport: Dame’s reaction after winning the hard-fought game 🙏Lillard gave it his all. https://t.co/bMfypWKsPS |
+|Yeah Messi’s better than Ronaldo. We all know it. But he can’t win shit without certain players. Ronaldo is a winner! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alperkeeles**  |
+| The most retweeted user is: **ladrayxance**  |
 | ------------- |
-| RT @kobebryant: #vintagevino. Lillard is the real deal #mambasalute |
+| RT @Mukluks_: WE JUST PLAYED WITH RONALDO IN FALL GUYS LMAOOOOOOO https://t.co/qRIVolGqTj |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
