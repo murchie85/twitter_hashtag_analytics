@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ElAmorNosUne"**
+&#x1F34E; **TOPIC = "Grizzlies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @txnyyr: Once we get #1 how long we keepin that up for? All weekend? #ElAmorNosUne #SantaCena2020 💙 |
-| @_Katybear Happy birthday 💙💙 #ElAmorNosUne |
-| RT @maressa___: #11 Trending in the United States !!!😭💙💙 #SantaCena2020 #ElAmorNosUne https://t.co/LiT62ECPIp |
+| @Yahya_aaa Both I have the grizzlies game on too 😭😭😭 |
+| RT @Tredorima: Damn Blazers vs Grizzlies love Dame CJ and Carmelo but I love Ja Morant as well fuck. https://t.co/D6EhNYttfI |
+| Grizzlies are too young..decent on-ball pressure in a single drop coverage and the grizzlies settle for mid range floaters |
 
-The most popular user is: **IsaakRdgz**
-<div class="alert alert-block alert-danger"> RT @arielruizzz: With no shame I proclaim I am a member of the light of the world church. True church of God led by an Apostle by the name…</div>
+The most popular user is: **Kelseythefangir**
+<div class="alert alert-block alert-danger"> RT @wojespn: Portland Trail Blazers center Jusuf Nurkic (@BosnianBeast27) announces on Instagram that his grandmother has died of the coron…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **euphorizab** |
-| #2 Most tweeted to  | **DC5_Esteban** |
-| #3 Most tweeted to  | **IceacbIssac** |
-| NewProfiles (less than 10 days) | 3.24%  |
-| Tweeters with < 10 followers  | 3.7%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **bosnianbeast27** |
+| #2 Most tweeted to  | **wojespn** |
+| #3 Most tweeted to  | **BarstoolBigCat** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 2.44%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **IsaakRdgz**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELAMORNOSUNE**  |
-| second  | **SANTACENA2020**  |
-| third  | **ELAMORNOSUNERT** |
-| fourth  | **SANTACENA2020RT**  |
-| fifth  | **💙**  |
+| first  | **GRIZZLIES**  |
+| second  | **BLAZERS**  |
+| third  | **PORTLAND** |
+| fourth  | **GAME**  |
+| fifth  | **TRAIL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @laeunicex: There’s no words that can express how truly happy I am 💙#SantaCena2020 #ElAmorNosUne |
+|All in all Grizzlies have to feel fortunate to be down only 6. Also 17 rebounds for Nurkic, my Lord. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **IsaakRdgz**  |
+| The most retweeted user is: **Kelseythefangir**  |
 | ------------- |
-| RT @arielruizzz: With no shame I proclaim I am a member of the light of the world church. True church of God led by an Apostle by the name… |
+| RT @wojespn: Portland Trail Blazers center Jusuf Nurkic (@BosnianBeast27) announces on Instagram that his grandmother has died of the coron… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
