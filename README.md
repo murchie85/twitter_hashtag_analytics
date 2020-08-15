@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pique"**
+&#x1F34E; **TOPIC = "#ElAmorNosUne"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @manlikefola_: #FCBFCB 33 year old Pique31 year old Alba30 year old Pjanic32 year old Busquets32 year old Rakitic33 year old Vidal… |
-| RT @dermotmcorrigan: Pique on TV 2 "Nobody is untouchable, last of all me. Fresh blood needed to change this. We have hit bottom now. We al… |
-| RT @BarcaUniversal: 🗣 — Piqué: "Horrible game, dreadful feeling. Shameful. It is very hard. It is not the first time, nor the second, nor t… |
+| RT @txnyyr: Once we get #1 how long we keepin that up for? All weekend? #ElAmorNosUne #SantaCena2020 💙 |
+| @_Katybear Happy birthday 💙💙 #ElAmorNosUne |
+| RT @maressa___: #11 Trending in the United States !!!😭💙💙 #SantaCena2020 #ElAmorNosUne https://t.co/LiT62ECPIp |
 
-The most popular user is: **pique_96**
-<div class="alert alert-block alert-danger"> RT @FCBayernUS: You 8-2 see it. 😅</div>
+The most popular user is: **IsaakRdgz**
+<div class="alert alert-block alert-danger"> RT @arielruizzz: With no shame I proclaim I am a member of the light of the world church. True church of God led by an Apostle by the name…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **barcacentre** |
-| #3 Most tweeted to  | **Ultra_Suristic** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 2.97%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **euphorizab** |
+| #2 Most tweeted to  | **DC5_Esteban** |
+| #3 Most tweeted to  | **IceacbIssac** |
+| NewProfiles (less than 10 days) | 3.24%  |
+| Tweeters with < 10 followers  | 3.7%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **pique_96**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PIQUE**  |
-| second  | **YEAR**  |
-| third  | **OLD** |
-| fourth  | **PIQUÉ:**  |
-| fifth  | **CLUB**  |
+| first  | **ELAMORNOSUNE**  |
+| second  | **SANTACENA2020**  |
+| third  | **ELAMORNOSUNERT** |
+| fourth  | **SANTACENA2020RT**  |
+| fifth  | **💙**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (7.14%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (92.86%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Football_TaIk: Gerard Piqué:  "If I have to go for us to bring in new blood, I'll go. It's an embarrassment. If this is the end of ou… |
+|RT @laeunicex: There’s no words that can express how truly happy I am 💙#SantaCena2020 #ElAmorNosUne |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **pique_96**  |
+| The most retweeted user is: **IsaakRdgz**  |
 | ------------- |
-| RT @FCBayernUS: You 8-2 see it. 😅 |
+| RT @arielruizzz: With no shame I proclaim I am a member of the light of the world church. True church of God led by an Apostle by the name… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
