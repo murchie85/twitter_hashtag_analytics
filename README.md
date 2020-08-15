@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Grizzlies"**
+&#x1F34E; **TOPIC = "Guardiola"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Yahya_aaa Both I have the grizzlies game on too 😭😭😭 |
-| RT @Tredorima: Damn Blazers vs Grizzlies love Dame CJ and Carmelo but I love Ja Morant as well fuck. https://t.co/D6EhNYttfI |
-| Grizzlies are too young..decent on-ball pressure in a single drop coverage and the grizzlies settle for mid range floaters |
+| RT @GutGuts: @Castro1021 @KMbappe @OL Sheikh Mansour when he sees Pep Guardiola after the game https://t.co/D9VO7weWqy |
+| RT @Vintage_Utd: Pep Guardiola has spent £750m at Manchester City since joining the club in 2016 and has still yet to go further in the Cha… |
+| RT @TrollFootball: Sheikh Mansour when he see's Pep Guardiola after the gamehttps://t.co/oK9u0ApHzL |
 
-The most popular user is: **Kelseythefangir**
-<div class="alert alert-block alert-danger"> RT @wojespn: Portland Trail Blazers center Jusuf Nurkic (@BosnianBeast27) announces on Instagram that his grandmother has died of the coron…</div>
+The most popular user is: **nana__gyampa**
+<div class="alert alert-block alert-danger"> RT @Troll__Footbal: Sheikh Mansour when he see's Pep Guardiola https://t.co/zJCE8LQVCY</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bosnianbeast27** |
-| #2 Most tweeted to  | **wojespn** |
-| #3 Most tweeted to  | **BarstoolBigCat** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 2.44%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **goal** |
+| #2 Most tweeted to  | **biolakazeem** |
+| #3 Most tweeted to  | **TrollFootball** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 2.09%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Kelseythefangir**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GRIZZLIES**  |
-| second  | **BLAZERS**  |
-| third  | **PORTLAND** |
-| fourth  | **GAME**  |
-| fifth  | **TRAIL**  |
+| first  | **GUARDIOLA**  |
+| second  | **PEP**  |
+| third  | **LEAGUE** |
+| fourth  | **CHAMPIONS**  |
+| fifth  | **CITY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|All in all Grizzlies have to feel fortunate to be down only 6. Also 17 rebounds for Nurkic, my Lord. |
+|RT @LFCLaurie: Since Guardiola’s joined City, they’ve played Celtic, Monchengladbach, Monaco, Napoli, Feyenoord, Shakhtar, Basel, Liverpool… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kelseythefangir**  |
+| The most retweeted user is: **nana__gyampa**  |
 | ------------- |
-| RT @wojespn: Portland Trail Blazers center Jusuf Nurkic (@BosnianBeast27) announces on Instagram that his grandmother has died of the coron… |
+| RT @Troll__Footbal: Sheikh Mansour when he see's Pep Guardiola https://t.co/zJCE8LQVCY |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
