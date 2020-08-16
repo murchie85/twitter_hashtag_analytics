@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Guardiola"**
+&#x1F34E; **TOPIC = "#wrongtrump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @GutGuts: @Castro1021 @KMbappe @OL Sheikh Mansour when he sees Pep Guardiola after the game https://t.co/D9VO7weWqy |
-| RT @Vintage_Utd: Pep Guardiola has spent £750m at Manchester City since joining the club in 2016 and has still yet to go further in the Cha… |
-| RT @TrollFootball: Sheikh Mansour when he see's Pep Guardiola after the gamehttps://t.co/oK9u0ApHzL |
+| RT @lizbethgonzal79: Republicans rn : lEfTiSt aRe eViL 😫Also them : * PRAISE a president who is xenophobic, transphobic, racist, etc. *#… |
+| RT @folathegenius: Somalia president and vice president exchange blow in office.#BBNajia #OwambeWithLaycon #ManCityOL #bbnaijalockdown2020… |
+| RT @galacticrue: #WrongTrump me saying goodnight to everyone and getting ready to sleep but then seeing this hashtag https://t.co/UjYaA4xVsD |
 
-The most popular user is: **nana__gyampa**
-<div class="alert alert-block alert-danger"> RT @Troll__Footbal: Sheikh Mansour when he see's Pep Guardiola https://t.co/zJCE8LQVCY</div>
+The most popular user is: **madalyn_baylor**
+<div class="alert alert-block alert-danger"> RT @PauleyTeeks: "What else can I say? I f'd up." - Grim Reaper
+
+#wrongtrump https://t.co/FnP04C49Hs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **goal** |
-| #2 Most tweeted to  | **biolakazeem** |
-| #3 Most tweeted to  | **TrollFootball** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 2.09%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **PauleyTeeks** |
+| #2 Most tweeted to  | **robbystarbuck** |
+| #3 Most tweeted to  | **RealBrysonGray** |
+| NewProfiles (less than 10 days) | 1.66%  |
+| Tweeters with < 10 followers  | 13.23%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **nana__gyampa**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GUARDIOLA**  |
-| second  | **PEP**  |
-| third  | **LEAGUE** |
-| fourth  | **CHAMPIONS**  |
-| fifth  | **CITY**  |
+| first  | **WRONGTRUMP**  |
+| second  | **TRUMP**  |
+| third  | **GRIM** |
+| fourth  | **REAPER**  |
+| fifth  | **ELSE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LFCLaurie: Since Guardiola’s joined City, they’ve played Celtic, Monchengladbach, Monaco, Napoli, Feyenoord, Shakhtar, Basel, Liverpool… |
+|RT @RealBrysonGray: #wrongtrump is the most disgusting hashtag that I’ve seen. This is what we are at war with. Make sure that you pay atte… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nana__gyampa**  |
+| The most retweeted user is: **madalyn_baylor**  |
 | ------------- |
-| RT @Troll__Footbal: Sheikh Mansour when he see's Pep Guardiola https://t.co/zJCE8LQVCY |
+| RT @PauleyTeeks: "What else can I say? I f'd up." - Grim Reaper#wrongtrump https://t.co/FnP04C49Hs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
