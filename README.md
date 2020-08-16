@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DrSGraff: Remember that time that #breastcancer stamps sold by the @USPS helped fund the #TAILORx study—answering one of the critical q… |
-| Do you think we will get to the bottom of the @USPS before we start worrying about the Nation’s electrical grid?@SpeakerPelosi |
-| RT @MarshaBlackburn: Russia hoax, impeachment hoax, USPS hoax... Democrats will say anything to discredit @realDonaldTrump. https://t.co/Qy… |
+| The @usps page says it arrived at the PO at 4:03pm. I guess the lazy ass driver didn’t feel like delivering all their packages today. |
+| RT @Public_Citizen: The USPS is literally required in the constitution and any attempt to destroy it is a coup against America. |
+| RT @RBReich: So let me get this straight: We can afford billions on new F-35s, but we can’t afford to fund the USPS to deliver medicine to… |
 
-The most popular user is: **gracesiebenthal**
+The most popular user is: **SamiSunshinexx**
 <div class="alert alert-block alert-danger"> RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **USPS** |
-| #2 Most tweeted to  | **Papiwook** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 2.93%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #2 Most tweeted to  | **SpeakerPelosi** |
+| #3 Most tweeted to  | **kasie** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 3.08%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -40,25 +40,25 @@ The most popular user is: **gracesiebenthal**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **USPS**  |
-| second  | **TRUMP**  |
-| third  | **POSTAL** |
-| fourth  | **@USPS**  |
-| fifth  | **SERVICE**  |
+| second  | **@USPS**  |
+| third  | **HOUSE** |
+| fourth  | **BACK**  |
+| fifth  | **@SPEAKERPELOSI**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RBReich: So let me get this straight: We can afford billions on new F-35s, but we can’t afford to fund the USPS to deliver medicine to… |
+|RT @BarbMcQuade: Congress created crisis at @USPS. 2006 law required USPS to create $72 billion fund to pay for post-retirement health care… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gracesiebenthal**  |
+| The most retweeted user is: **SamiSunshinexx**  |
 | ------------- |
 | RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying… |
 
