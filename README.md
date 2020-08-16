@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#wrongtrump"**
+&#x1F34E; **TOPIC = "USPS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lizbethgonzal79: Republicans rn : lEfTiSt aRe eViL 😫Also them : * PRAISE a president who is xenophobic, transphobic, racist, etc. *#… |
-| RT @folathegenius: Somalia president and vice president exchange blow in office.#BBNajia #OwambeWithLaycon #ManCityOL #bbnaijalockdown2020… |
-| RT @galacticrue: #WrongTrump me saying goodnight to everyone and getting ready to sleep but then seeing this hashtag https://t.co/UjYaA4xVsD |
+| RT @DrSGraff: Remember that time that #breastcancer stamps sold by the @USPS helped fund the #TAILORx study—answering one of the critical q… |
+| Do you think we will get to the bottom of the @USPS before we start worrying about the Nation’s electrical grid?@SpeakerPelosi |
+| RT @MarshaBlackburn: Russia hoax, impeachment hoax, USPS hoax... Democrats will say anything to discredit @realDonaldTrump. https://t.co/Qy… |
 
-The most popular user is: **madalyn_baylor**
-<div class="alert alert-block alert-danger"> RT @PauleyTeeks: "What else can I say? I f'd up." - Grim Reaper
-
-#wrongtrump https://t.co/FnP04C49Hs</div>
+The most popular user is: **gracesiebenthal**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PauleyTeeks** |
-| #2 Most tweeted to  | **robbystarbuck** |
-| #3 Most tweeted to  | **RealBrysonGray** |
-| NewProfiles (less than 10 days) | 1.66%  |
-| Tweeters with < 10 followers  | 13.23%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **USPS** |
+| #2 Most tweeted to  | **Papiwook** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 2.93%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **madalyn_baylor**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WRONGTRUMP**  |
+| first  | **USPS**  |
 | second  | **TRUMP**  |
-| third  | **GRIM** |
-| fourth  | **REAPER**  |
-| fifth  | **ELSE**  |
+| third  | **POSTAL** |
+| fourth  | **@USPS**  |
+| fifth  | **SERVICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RealBrysonGray: #wrongtrump is the most disgusting hashtag that I’ve seen. This is what we are at war with. Make sure that you pay atte… |
+|RT @RBReich: So let me get this straight: We can afford billions on new F-35s, but we can’t afford to fund the USPS to deliver medicine to… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **madalyn_baylor**  |
+| The most retweeted user is: **gracesiebenthal**  |
 | ------------- |
-| RT @PauleyTeeks: "What else can I say? I f'd up." - Grim Reaper#wrongtrump https://t.co/FnP04C49Hs |
+| RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
