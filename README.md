@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "USPS"**
+&#x1F34E; **TOPIC = "#ITZY_NotShy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,31 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The @usps page says it arrived at the PO at 4:03pm. I guess the lazy ass driver didn’t feel like delivering all their packages today. |
-| RT @Public_Citizen: The USPS is literally required in the constitution and any attempt to destroy it is a coup against America. |
-| RT @RBReich: So let me get this straight: We can afford billions on new F-35s, but we can’t afford to fund the USPS to deliver medicine to… |
+| RT @ITZYofficial: ITZY &lt;Not Shy&gt;Released Online : Melon https://t.co/ws7mSfsSNJGenie https://t.co/gzfjMgcKA1Bugs https://t.co/UfxLBuZr… |
+| RT @NotShyITZY: #ITZY_NotShy Exclusive Messages on iTunes Digital Booklet https://t.co/cKpcxTJNXD |
+| RT @itzymeshin: two photos of SHIN YUNA that can ruin every professional models career #ITZY_NotShy #ITZY #YUNA https://t.co/SQbCOup6Ck |
 
-The most popular user is: **SamiSunshinexx**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying…</div>
+The most popular user is: **Elrinelynette**
+<div class="alert alert-block alert-danger"> RT @ITZYofficial: ITZY &lt;Not Shy&gt; TEASER IMAGE
+
+TITLE TRACK “Not Shy”
+
+2020.8.17 MON 6PM
+
+#ITZY #있지 @ITZYofficial
+#MIDZY #믿지
+#NotShy
+#ITZY_N…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **USPS** |
-| #2 Most tweeted to  | **SpeakerPelosi** |
-| #3 Most tweeted to  | **kasie** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **ITZYofficial** |
+| #2 Most tweeted to  | **ITZY_GLOBAL** |
+| #3 Most tweeted to  | **archiveitzy** |
+| NewProfiles (less than 10 days) | 1.87%  |
+| Tweeters with < 10 followers  | 5.78%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +48,28 @@ The most popular user is: **SamiSunshinexx**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **USPS**  |
-| second  | **@USPS**  |
-| third  | **HOUSE** |
-| fourth  | **BACK**  |
-| fifth  | **@SPEAKERPELOSI**  |
+| first  | **ITZY_NOTSHY**  |
+| second  | **ITZY**  |
+| third  | **@ITZYOFFICIAL** |
+| fourth  | **NOTSHY**  |
+| fifth  | **RYUJIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarbMcQuade: Congress created crisis at @USPS. 2006 law required USPS to create $72 billion fund to pay for post-retirement health care… |
+|RT @_Yukochaan: High long hair ponytail ryujin 🤯🤯#있지_낫샤이_6시컴백 #NOTSHY_NOTME@ITZYofficial #ITZY_NotShy https://t.co/GXTclc8CF7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SamiSunshinexx**  |
+| The most retweeted user is: **Elrinelynette**  |
 | ------------- |
-| RT @BarackObama: Everyone depends on the USPS. Seniors for their Social Security, veterans for their prescriptions, small businesses trying… |
+| RT @ITZYofficial: ITZY &lt;Not Shy&gt; TEASER IMAGETITLE TRACK “Not Shy”2020.8.17 MON 6PM#ITZY #있지 @ITZYofficial#MIDZY #믿지#NotShy#ITZY_N… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
