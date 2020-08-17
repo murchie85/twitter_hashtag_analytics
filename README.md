@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MondayMotivation"**
+&#x1F34E; **TOPIC = "Donovan Mitchell"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BuffWoofer: Good morning! 🙂☕️#GoodMorningTwitterWorld #MondayMotivation #MondayVibes #SelfCare #StayHome #Breakfast #Coffee https://t… |
-| RT @bighec_24: https://t.co/VhuuHTCdP5… Do yourself a favor and click on the link to hear a great song by independent artist @480Official !… |
-| RT @JohnCleese: Be sure to have yourself a nice scheduled panic this week! On display in Melbourne, Australia. #mondaymotivation https://t.… |
+| RT @DaRealBootum: Judging by what I've seen today the Knicks future backcourt of Fred VanVleet-Donovan Mitchell may go down as the. best of… |
+| RT @Ballislife: Most Points in NBA Playoff History63: Michael Jordan61: Elgin Baylor57: Donovan Mitchell56: Michael Jordan56: Charles… |
+| RT @ComplexSports: Donovan Mitchell after dropping:57 points9 rebounds 7 assists in a loss https://t.co/l4U34drUiR |
 
-The most popular user is: **jimcc66**
-<div class="alert alert-block alert-danger"> RT @ScottPresler: I HAVE HUGE NEWS! 
-
-Mayor Brian Snedecor, of Hobart, Indiana, officially switched his party from democrat to Republican.…</div>
+The most popular user is: **mariussi344**
+<div class="alert alert-block alert-danger"> RT @ComplexSports: Donovan Mitchell after dropping:
+57 points
+9 rebounds 
+7 assists in a loss https://t.co/l4U34drUiR</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ScottPresler** |
-| #2 Most tweeted to  | **kizento_** |
-| #3 Most tweeted to  | **JohnCleese** |
-| NewProfiles (less than 10 days) | 1.23%  |
-| Tweeters with < 10 followers  | 4.68%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **ComplexSports** |
+| #2 Most tweeted to  | **SportsCenter** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 2.24%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -41,28 +42,28 @@ Mayor Brian Snedecor, of Hobart, Indiana, officially switched his party from dem
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MONDAYMOTIVATION**  |
-| second  | **PARTY**  |
-| third  | **HUGE** |
-| fourth  | **OFFICIALLY**  |
-| fifth  | **MAYOR**  |
+| first  | **DONOVAN**  |
+| second  | **MITCHELL**  |
+| third  | **POINTS** |
+| fourth  | **57**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|What better #Mondaymotivation is there than having your first homebred enter training as a yearling. Introducing ou… https://t.co/vkcI7GtfQs |
+|RT @NBA: Donovan Mitchell erupts for the 3rd most points in an #NBAPlayoffs game with 57 in Game 1!(Michael Jordan - 63, Elgin Baylor - 6… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jimcc66**  |
+| The most retweeted user is: **mariussi344**  |
 | ------------- |
-| RT @ScottPresler: I HAVE HUGE NEWS! Mayor Brian Snedecor, of Hobart, Indiana, officially switched his party from democrat to Republican.… |
+| RT @ComplexSports: Donovan Mitchell after dropping:57 points9 rebounds 7 assists in a loss https://t.co/l4U34drUiR |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
