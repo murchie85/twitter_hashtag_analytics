@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ITZY_NotShy"**
+&#x1F34E; **TOPIC = "#MondayMotivation"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,31 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ITZYofficial: ITZY &lt;Not Shy&gt;Released Online : Melon https://t.co/ws7mSfsSNJGenie https://t.co/gzfjMgcKA1Bugs https://t.co/UfxLBuZr… |
-| RT @NotShyITZY: #ITZY_NotShy Exclusive Messages on iTunes Digital Booklet https://t.co/cKpcxTJNXD |
-| RT @itzymeshin: two photos of SHIN YUNA that can ruin every professional models career #ITZY_NotShy #ITZY #YUNA https://t.co/SQbCOup6Ck |
+| RT @BuffWoofer: Good morning! 🙂☕️#GoodMorningTwitterWorld #MondayMotivation #MondayVibes #SelfCare #StayHome #Breakfast #Coffee https://t… |
+| RT @bighec_24: https://t.co/VhuuHTCdP5… Do yourself a favor and click on the link to hear a great song by independent artist @480Official !… |
+| RT @JohnCleese: Be sure to have yourself a nice scheduled panic this week! On display in Melbourne, Australia. #mondaymotivation https://t.… |
 
-The most popular user is: **Elrinelynette**
-<div class="alert alert-block alert-danger"> RT @ITZYofficial: ITZY &lt;Not Shy&gt; TEASER IMAGE
+The most popular user is: **jimcc66**
+<div class="alert alert-block alert-danger"> RT @ScottPresler: I HAVE HUGE NEWS! 
 
-TITLE TRACK “Not Shy”
-
-2020.8.17 MON 6PM
-
-#ITZY #있지 @ITZYofficial
-#MIDZY #믿지
-#NotShy
-#ITZY_N…</div>
+Mayor Brian Snedecor, of Hobart, Indiana, officially switched his party from democrat to Republican.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ITZYofficial** |
-| #2 Most tweeted to  | **ITZY_GLOBAL** |
-| #3 Most tweeted to  | **archiveitzy** |
-| NewProfiles (less than 10 days) | 1.87%  |
-| Tweeters with < 10 followers  | 5.78%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ScottPresler** |
+| #2 Most tweeted to  | **kizento_** |
+| #3 Most tweeted to  | **JohnCleese** |
+| NewProfiles (less than 10 days) | 1.23%  |
+| Tweeters with < 10 followers  | 4.68%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -48,28 +41,28 @@ TITLE TRACK “Not Shy”
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ITZY_NOTSHY**  |
-| second  | **ITZY**  |
-| third  | **@ITZYOFFICIAL** |
-| fourth  | **NOTSHY**  |
-| fifth  | **RYUJIN**  |
+| first  | **MONDAYMOTIVATION**  |
+| second  | **PARTY**  |
+| third  | **HUGE** |
+| fourth  | **OFFICIALLY**  |
+| fifth  | **MAYOR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_Yukochaan: High long hair ponytail ryujin 🤯🤯#있지_낫샤이_6시컴백 #NOTSHY_NOTME@ITZYofficial #ITZY_NotShy https://t.co/GXTclc8CF7 |
+|What better #Mondaymotivation is there than having your first homebred enter training as a yearling. Introducing ou… https://t.co/vkcI7GtfQs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Elrinelynette**  |
+| The most retweeted user is: **jimcc66**  |
 | ------------- |
-| RT @ITZYofficial: ITZY &lt;Not Shy&gt; TEASER IMAGETITLE TRACK “Not Shy”2020.8.17 MON 6PM#ITZY #있지 @ITZYofficial#MIDZY #믿지#NotShy#ITZY_N… |
+| RT @ScottPresler: I HAVE HUGE NEWS! Mayor Brian Snedecor, of Hobart, Indiana, officially switched his party from democrat to Republican.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
