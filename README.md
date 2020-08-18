@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Donovan Mitchell"**
+&#x1F34E; **TOPIC = "Tatis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DaRealBootum: Judging by what I've seen today the Knicks future backcourt of Fred VanVleet-Donovan Mitchell may go down as the. best of… |
-| RT @Ballislife: Most Points in NBA Playoff History63: Michael Jordan61: Elgin Baylor57: Donovan Mitchell56: Michael Jordan56: Charles… |
-| RT @ComplexSports: Donovan Mitchell after dropping:57 points9 rebounds 7 assists in a loss https://t.co/l4U34drUiR |
+| RT @MLBStats: .@tatis_jr is the youngest player (21y, 228d) with a 7-RBI game since Ron Santo in 1961. https://t.co/unxETR8O84 |
+| RT @BauerOutage: Hey @tatis_jr listen up:1) Keep swinging 3-0 if you want to, no matter what the game situation is 2) Keep hitting homer… |
+| @djiverson I never thought I would ever be defending the #Padres for scoring too many runs! 😂 #TatisJr #Tatis https://t.co/tzPoaDM2R9 |
 
-The most popular user is: **mariussi344**
-<div class="alert alert-block alert-danger"> RT @ComplexSports: Donovan Mitchell after dropping:
-57 points
-9 rebounds 
-7 assists in a loss https://t.co/l4U34drUiR</div>
+The most popular user is: **JoeJoe_Binkss**
+<div class="alert alert-block alert-danger"> RT @BauerOutage: Hey @tatis_jr listen up:
+
+1) Keep swinging 3-0 if you want to, no matter what the game situation is 
+2) Keep hitting homer…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ComplexSports** |
-| #2 Most tweeted to  | **SportsCenter** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 2.24%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **tatis_jr** |
+| #2 Most tweeted to  | **BauerOutage** |
+| #3 Most tweeted to  | **Padres** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 3.07%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -42,28 +42,28 @@ The most popular user is: **mariussi344**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DONOVAN**  |
-| second  | **MITCHELL**  |
-| third  | **POINTS** |
-| fourth  | **57**  |
+| first  | **KEEP**  |
+| second  | **@TATIS_JR**  |
+| third  | **TATIS** |
+| fourth  | **3-0**  |
 | fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NBA: Donovan Mitchell erupts for the 3rd most points in an #NBAPlayoffs game with 57 in Game 1!(Michael Jordan - 63, Elgin Baylor - 6… |
+|RT @CespedesBBQ: This unwritten rule shit is so stupid, but before I go to bed, muttering angries to myself, I'm gonna try to put some joy… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mariussi344**  |
+| The most retweeted user is: **JoeJoe_Binkss**  |
 | ------------- |
-| RT @ComplexSports: Donovan Mitchell after dropping:57 points9 rebounds 7 assists in a loss https://t.co/l4U34drUiR |
+| RT @BauerOutage: Hey @tatis_jr listen up:1) Keep swinging 3-0 if you want to, no matter what the game situation is 2) Keep hitting homer… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
