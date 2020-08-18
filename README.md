@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tatis"**
+&#x1F34E; **TOPIC = "#FriarFaithful"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MLBStats: .@tatis_jr is the youngest player (21y, 228d) with a 7-RBI game since Ron Santo in 1961. https://t.co/unxETR8O84 |
-| RT @BauerOutage: Hey @tatis_jr listen up:1) Keep swinging 3-0 if you want to, no matter what the game situation is 2) Keep hitting homer… |
-| @djiverson I never thought I would ever be defending the #Padres for scoring too many runs! 😂 #TatisJr #Tatis https://t.co/tzPoaDM2R9 |
+| RT @XTRA1360: RT if you agree that Fernando Tatis Jr is the #MVP of the NL right now. And if you don’t...WHAT ARE YOU DOING?! #FriarFaithfu… |
+| At very least have to get Tatis home. Even a productive out works. #Friarfaithful |
+| RT @FOXSportsSD: MANNY MACHADO GRAND SLAMMMMMMMMMMM#FriarFaithful | @Padres https://t.co/wlshRVvBFi |
 
-The most popular user is: **JoeJoe_Binkss**
-<div class="alert alert-block alert-danger"> RT @BauerOutage: Hey @tatis_jr listen up:
+The most popular user is: **DRM081911**
+<div class="alert alert-block alert-danger"> RT @Padres: Bases were loaded for Manny. Then they weren't.
 
-1) Keep swinging 3-0 if you want to, no matter what the game situation is 
-2) Keep hitting homer…</div>
+#FriarFaithful https://t.co/m1dtzIGt8Y</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tatis_jr** |
-| #2 Most tweeted to  | **BauerOutage** |
-| #3 Most tweeted to  | **Padres** |
-| NewProfiles (less than 10 days) | 0.47%  |
-| Tweeters with < 10 followers  | 3.07%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **Padres** |
+| #2 Most tweeted to  | **tatis_jr** |
+| #3 Most tweeted to  | **FOXSportsSD** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.45%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -42,28 +41,28 @@ The most popular user is: **JoeJoe_Binkss**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KEEP**  |
-| second  | **@TATIS_JR**  |
-| third  | **TATIS** |
-| fourth  | **3-0**  |
-| fifth  | **GAME**  |
+| first  | **FRIARFAITHFUL**  |
+| second  | **@PADRES:**  |
+| third  | **@TATIS_JR** |
+| fourth  | **PADRES**  |
+| fifth  | **1**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CespedesBBQ: This unwritten rule shit is so stupid, but before I go to bed, muttering angries to myself, I'm gonna try to put some joy… |
+|RT @Padres: All gas, no brakes.#FriarFaithful https://t.co/KJGOAufuto |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JoeJoe_Binkss**  |
+| The most retweeted user is: **DRM081911**  |
 | ------------- |
-| RT @BauerOutage: Hey @tatis_jr listen up:1) Keep swinging 3-0 if you want to, no matter what the game situation is 2) Keep hitting homer… |
+| RT @Padres: Bases were loaded for Manny. Then they weren't.#FriarFaithful https://t.co/m1dtzIGt8Y |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
