@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FriarFaithful"**
+&#x1F34E; **TOPIC = "David Brooks"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @XTRA1360: RT if you agree that Fernando Tatis Jr is the #MVP of the NL right now. And if you don’t...WHAT ARE YOU DOING?! #FriarFaithfu… |
-| At very least have to get Tatis home. Even a productive out works. #Friarfaithful |
-| RT @FOXSportsSD: MANNY MACHADO GRAND SLAMMMMMMMMMMM#FriarFaithful | @Padres https://t.co/wlshRVvBFi |
+| David Brooks would be a good addition by the way if the rumours are true, he’s just not going to take us to the nex… https://t.co/ayirMHaeUw |
+| RT @MotherJones: In recent years, Oakland has cut shootings in half—not by arresting more people, but by investing in social services and h… |
+| RT @MarshallProj: In Oakland, residents convinced the city to address gun violence not by putting more cops on the street, but by connectin… |
 
-The most popular user is: **DRM081911**
-<div class="alert alert-block alert-danger"> RT @Padres: Bases were loaded for Manny. Then they weren't.
-
-#FriarFaithful https://t.co/m1dtzIGt8Y</div>
+The most popular user is: **David_L_Brooks**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: People forget how divided our Country was under ObamaBiden. The anger and hatred were unbelievable. They shouldn’t be…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Padres** |
-| #2 Most tweeted to  | **tatis_jr** |
-| #3 Most tweeted to  | **FOXSportsSD** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.45%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **MotherJones** |
+| #2 Most tweeted to  | **Sport_Witness** |
+| #3 Most tweeted to  | **utdreport** |
+| NewProfiles (less than 10 days) | 0.87%  |
+| Tweeters with < 10 followers  | 3.24%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **DRM081911**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FRIARFAITHFUL**  |
-| second  | **@PADRES:**  |
-| third  | **@TATIS_JR** |
-| fourth  | **PADRES**  |
-| fifth  | **1**  |
+| first  | **DAVID**  |
+| second  | **BROOKS**  |
+| third  | **OAKLAND** |
+| fourth  | **@MOTHERJONES:**  |
+| fifth  | **PEOPLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Padres: All gas, no brakes.#FriarFaithful https://t.co/KJGOAufuto |
+|RT @JuliusGoat: You know who isn't listening? Ironically enough, it's centrist pricks like David Brooks, who crank out the same lazy garbag… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DRM081911**  |
+| The most retweeted user is: **David_L_Brooks**  |
 | ------------- |
-| RT @Padres: Bases were loaded for Manny. Then they weren't.#FriarFaithful https://t.co/m1dtzIGt8Y |
+| RT @realDonaldTrump: People forget how divided our Country was under ObamaBiden. The anger and hatred were unbelievable. They shouldn’t be… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
