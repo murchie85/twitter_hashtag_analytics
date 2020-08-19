@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CBIForSSR"**
+&#x1F34E; **TOPIC = "#WAPParty"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @republic: Jiah Khan’s mother thanks judiciary as Supreme Court orders CBI probe in Sushant case #CBIForSSR https://t.co/Xc48Pp8pD5 |
-| RT @Anushkarajputt: Finally....CBI For @itsSSR We won..Truth Comes out.. #CBITakesOver #JusticeforSushantSingRajput #CBIForSSR https://t.co… |
-| RT @theskindoctor13: #ArnabGoswami ka bas chale to he'll resign from Republic, join CBI and lead the SSR death probe himself.He'll straig… |
+| #WAPParty I will use this money 2 help pay 4 my uncle &amp; aunt to come visit me in the US from Mongolia - their visas… https://t.co/JugZX51DnL |
+| The #WapParty over ? 😭 $allaboutendigo @theestallion @iamcardib |
+| @theestallion $brizzleb94 #WAPParty |
 
-The most popular user is: **ShubhangiS13**
-<div class="alert alert-block alert-danger"> RT @shwetasinghkirt: We stand together as a nation for CBI Enquiry! Demanding an unbiased investigation is our right and we expect nothing…</div>
+The most popular user is: **von_trilla**
+<div class="alert alert-block alert-danger"> RT @sheIistens: me watching y’all get your $500 from the #WAPParty https://t.co/4rNXUg2z8j</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **republic** |
-| #2 Most tweeted to  | **theskindoctor13** |
-| #3 Most tweeted to  | **ihamsanandini** |
-| NewProfiles (less than 10 days) | 4.14%  |
-| Tweeters with < 10 followers  | 19.62%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **iamcardib** |
+| #2 Most tweeted to  | **theestallion** |
+| #3 Most tweeted to  | **CashApp** |
+| NewProfiles (less than 10 days) | 9.2%  |
+| Tweeters with < 10 followers  | 27.07%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ShubhangiS13**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CBIFORSSR**  |
-| second  | **CBI**  |
-| third  | **"HELL"** |
-| fourth  | **@REPUBLIC:**  |
-| fifth  | **PROBE**  |
+| first  | **WAPPARTY**  |
+| second  | **HELP**  |
+| third  | **@IAMCARDIB** |
+| fourth  | **@THEESTALLION**  |
+| fifth  | **I’M**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (84.62%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @republic: Send in your responses to today's massive developments; tell us in a video by using the hashtag what the #CBIForSSR victory m… |
+|Such a BLESSING! @iamcardib @theestallion #WAPParty $CeeYourJoy85 @CashApp I'm helping my mom, she is fighting Canc… https://t.co/SK8vg925CL |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ShubhangiS13**  |
+| The most retweeted user is: **von_trilla**  |
 | ------------- |
-| RT @shwetasinghkirt: We stand together as a nation for CBI Enquiry! Demanding an unbiased investigation is our right and we expect nothing… |
+| RT @sheIistens: me watching y’all get your $500 from the #WAPParty https://t.co/4rNXUg2z8j |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
