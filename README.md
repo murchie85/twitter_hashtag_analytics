@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "David Brooks"**
+&#x1F34E; **TOPIC = "#CBIForSSR"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| David Brooks would be a good addition by the way if the rumours are true, he’s just not going to take us to the nex… https://t.co/ayirMHaeUw |
-| RT @MotherJones: In recent years, Oakland has cut shootings in half—not by arresting more people, but by investing in social services and h… |
-| RT @MarshallProj: In Oakland, residents convinced the city to address gun violence not by putting more cops on the street, but by connectin… |
+| RT @republic: Jiah Khan’s mother thanks judiciary as Supreme Court orders CBI probe in Sushant case #CBIForSSR https://t.co/Xc48Pp8pD5 |
+| RT @Anushkarajputt: Finally....CBI For @itsSSR We won..Truth Comes out.. #CBITakesOver #JusticeforSushantSingRajput #CBIForSSR https://t.co… |
+| RT @theskindoctor13: #ArnabGoswami ka bas chale to he'll resign from Republic, join CBI and lead the SSR death probe himself.He'll straig… |
 
-The most popular user is: **David_L_Brooks**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: People forget how divided our Country was under ObamaBiden. The anger and hatred were unbelievable. They shouldn’t be…</div>
+The most popular user is: **ShubhangiS13**
+<div class="alert alert-block alert-danger"> RT @shwetasinghkirt: We stand together as a nation for CBI Enquiry! Demanding an unbiased investigation is our right and we expect nothing…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MotherJones** |
-| #2 Most tweeted to  | **Sport_Witness** |
-| #3 Most tweeted to  | **utdreport** |
-| NewProfiles (less than 10 days) | 0.87%  |
-| Tweeters with < 10 followers  | 3.24%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **republic** |
+| #2 Most tweeted to  | **theskindoctor13** |
+| #3 Most tweeted to  | **ihamsanandini** |
+| NewProfiles (less than 10 days) | 4.14%  |
+| Tweeters with < 10 followers  | 19.62%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **David_L_Brooks**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAVID**  |
-| second  | **BROOKS**  |
-| third  | **OAKLAND** |
-| fourth  | **@MOTHERJONES:**  |
-| fifth  | **PEOPLE**  |
+| first  | **CBIFORSSR**  |
+| second  | **CBI**  |
+| third  | **"HELL"** |
+| fourth  | **@REPUBLIC:**  |
+| fifth  | **PROBE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JuliusGoat: You know who isn't listening? Ironically enough, it's centrist pricks like David Brooks, who crank out the same lazy garbag… |
+|RT @republic: Send in your responses to today's massive developments; tell us in a video by using the hashtag what the #CBIForSSR victory m… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **David_L_Brooks**  |
+| The most retweeted user is: **ShubhangiS13**  |
 | ------------- |
-| RT @realDonaldTrump: People forget how divided our Country was under ObamaBiden. The anger and hatred were unbelievable. They shouldn’t be… |
+| RT @shwetasinghkirt: We stand together as a nation for CBI Enquiry! Demanding an unbiased investigation is our right and we expect nothing… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
