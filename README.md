@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Curt Schilling"**
+&#x1F34E; **TOPIC = "Austin Rivers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JohnJHarwood: Bannon, indicted today on charges of defrauding donors, chaired the advisory board of We Build the Wallother board memb… |
-| RT @adamcbest: Curt Schilling, David Clarke, Erik Prince and Kris Kobach are also caught up in this We Build the Wall griftapalooza. This i… |
-| RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as… |
+| RT @TheHoopCentral: AUSTIN RIVERS FEELING HIMSELFhttps://t.co/0wHA38lhdM |
+| RT @HoustonRockets: 🔥 Austin Rivers letting it fly 🏀 11pts https://t.co/AiL7tqNC71 |
+| Chris Paul had Austin rivers on skates! |
 
-The most popular user is: **revdavid53**
-<div class="alert alert-block alert-danger"> RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as…</div>
+The most popular user is: **Cam_Unstoppable**
+<div class="alert alert-block alert-danger"> RT @wojespn: Houston Rockets’ players James Harden, Trevor Ariza and Gerald Green pushed into Clippers locker room post-game looking to con…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **IsaacDovere** |
-| #2 Most tweeted to  | **adamcbest** |
-| #3 Most tweeted to  | **JohnJHarwood** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 1.58%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **HoustonRockets** |
+| #2 Most tweeted to  | **NBA** |
+| #3 Most tweeted to  | **overtime** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 2.23%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **revdavid53**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUILD**  |
-| second  | **SCHILLING**  |
-| third  | **WALL** |
-| fourth  | **CURT**  |
-| fifth  | **KOBACH**  |
+| first  | **RIVERS**  |
+| second  | **AUSTIN**  |
+| third  | **RT** |
+| fourth  | **@HOUSTONROCKETS:**  |
+| fifth  | **POST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BaddCompani: Correction, Schilling hasn't been arrested yet. He is in the Indictment and is on the Advisory Board.Here's the list of… |
+|AUSTIN RIVERS CLOWNING 😳 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **revdavid53**  |
+| The most retweeted user is: **Cam_Unstoppable**  |
 | ------------- |
-| RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as… |
+| RT @wojespn: Houston Rockets’ players James Harden, Trevor Ariza and Gerald Green pushed into Clippers locker room post-game looking to con… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
