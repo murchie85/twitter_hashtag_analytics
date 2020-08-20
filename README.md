@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WAPParty"**
+&#x1F34E; **TOPIC = "Curt Schilling"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #WAPParty I will use this money 2 help pay 4 my uncle &amp; aunt to come visit me in the US from Mongolia - their visas… https://t.co/JugZX51DnL |
-| The #WapParty over ? 😭 $allaboutendigo @theestallion @iamcardib |
-| @theestallion $brizzleb94 #WAPParty |
+| RT @JohnJHarwood: Bannon, indicted today on charges of defrauding donors, chaired the advisory board of We Build the Wallother board memb… |
+| RT @adamcbest: Curt Schilling, David Clarke, Erik Prince and Kris Kobach are also caught up in this We Build the Wall griftapalooza. This i… |
+| RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as… |
 
-The most popular user is: **von_trilla**
-<div class="alert alert-block alert-danger"> RT @sheIistens: me watching y’all get your $500 from the #WAPParty https://t.co/4rNXUg2z8j</div>
+The most popular user is: **revdavid53**
+<div class="alert alert-block alert-danger"> RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **iamcardib** |
-| #2 Most tweeted to  | **theestallion** |
-| #3 Most tweeted to  | **CashApp** |
-| NewProfiles (less than 10 days) | 9.2%  |
-| Tweeters with < 10 followers  | 27.07%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **IsaacDovere** |
+| #2 Most tweeted to  | **adamcbest** |
+| #3 Most tweeted to  | **JohnJHarwood** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 1.58%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **von_trilla**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WAPPARTY**  |
-| second  | **HELP**  |
-| third  | **@IAMCARDIB** |
-| fourth  | **@THEESTALLION**  |
-| fifth  | **I’M**  |
+| first  | **BUILD**  |
+| second  | **SCHILLING**  |
+| third  | **WALL** |
+| fourth  | **CURT**  |
+| fifth  | **KOBACH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (84.62%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Such a BLESSING! @iamcardib @theestallion #WAPParty $CeeYourJoy85 @CashApp I'm helping my mom, she is fighting Canc… https://t.co/SK8vg925CL |
+|RT @BaddCompani: Correction, Schilling hasn't been arrested yet. He is in the Indictment and is on the Advisory Board.Here's the list of… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **von_trilla**  |
+| The most retweeted user is: **revdavid53**  |
 | ------------- |
-| RT @sheIistens: me watching y’all get your $500 from the #WAPParty https://t.co/4rNXUg2z8j |
+| RT @IsaacDovere: Kris Kobach is the general counsel of the Build the Wall PAC that Steve Bannon was just arrested for being involved in as… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
