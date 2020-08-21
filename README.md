@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LuciferSeason5"**
+&#x1F34E; **TOPIC = "#DynamiteToday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @tomellis17 Lucy can't choose his family.I'm looking forward to watching tonight here in Edinburgh with a cheeky G… https://t.co/ghqG1ILjY3 |
-| #LuciferSeason5  give @tomellis17  his Emmy pls |
-| RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
+| RT @purpleulocks: ⌗ lockscreens hoseokDYNAMITE#BTS  #BTS_Dynamite #DynamiteToday@BTS_twt • fav de gostar | fav if u like• rt se salva… |
+| RT @kingtandesign: ❝ #Dynamite ᵐᵛ ❞ ᵈⁱˢᶜᵒ▹ headers; @BTS_twt❥ feel free to use them;➙ https://t.co/yuOgWz4UbU#BTS #DynamiteToday #BTS… |
+| @kissradiohits YESS &lt;3 YALL STREAM Dynamite by BTS! &lt;3 #BTS_Dynamite #BTSDynamite #Dynamite #DynamiteToday #DynamiteParty @BTS_twt |
 
-The most popular user is: **NomadGirl94**
-<div class="alert alert-block alert-danger"> RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!!</div>
+The most popular user is: **linacahayani**
+<div class="alert alert-block alert-danger"> RT @amazonmusic: #DynamiteToday 💥💥💥 
+
+Who is counting down with us? @BTS_twt @bts_bighit</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tomellis17** |
-| #2 Most tweeted to  | **netflix** |
-| #3 Most tweeted to  | **Ildymojo** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 4.23%|
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **kingtandesign** |
+| #3 Most tweeted to  | **BTS_History613** |
+| NewProfiles (less than 10 days) | 1.41%  |
+| Tweeters with < 10 followers  | 9.42%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **NomadGirl94**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LUCIFERSEASON5**  |
-| second  | **WATCH**  |
-| third  | **@NETFLIX** |
-| fourth  | **READY**  |
-| fifth  | **?**  |
+| first  | **DYNAMITETODAY**  |
+| second  | **@BTS_TWT**  |
+| third  | **BTS** |
+| fourth  | **DYNAMITE**  |
+| fifth  | **BTS_DYNAMITE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
+|RT @DiamondMiniMoni: Just came by after work and look who I found in #TimesSquare @BTS_twt #DynamiteToday #Dynamite_BTS #BTS https://t.co/f… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NomadGirl94**  |
+| The most retweeted user is: **linacahayani**  |
 | ------------- |
-| RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
+| RT @amazonmusic: #DynamiteToday 💥💥💥 Who is counting down with us? @BTS_twt @bts_bighit |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
