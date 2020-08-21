@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Austin Rivers"**
+&#x1F34E; **TOPIC = "#LuciferSeason5"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheHoopCentral: AUSTIN RIVERS FEELING HIMSELFhttps://t.co/0wHA38lhdM |
-| RT @HoustonRockets: 🔥 Austin Rivers letting it fly 🏀 11pts https://t.co/AiL7tqNC71 |
-| Chris Paul had Austin rivers on skates! |
+| @tomellis17 Lucy can't choose his family.I'm looking forward to watching tonight here in Edinburgh with a cheeky G… https://t.co/ghqG1ILjY3 |
+| #LuciferSeason5  give @tomellis17  his Emmy pls |
+| RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
 
-The most popular user is: **Cam_Unstoppable**
-<div class="alert alert-block alert-danger"> RT @wojespn: Houston Rockets’ players James Harden, Trevor Ariza and Gerald Green pushed into Clippers locker room post-game looking to con…</div>
+The most popular user is: **NomadGirl94**
+<div class="alert alert-block alert-danger"> RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HoustonRockets** |
-| #2 Most tweeted to  | **NBA** |
-| #3 Most tweeted to  | **overtime** |
-| NewProfiles (less than 10 days) | 0.57%  |
-| Tweeters with < 10 followers  | 2.23%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **tomellis17** |
+| #2 Most tweeted to  | **netflix** |
+| #3 Most tweeted to  | **Ildymojo** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 4.23%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Cam_Unstoppable**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RIVERS**  |
-| second  | **AUSTIN**  |
-| third  | **RT** |
-| fourth  | **@HOUSTONROCKETS:**  |
-| fifth  | **POST**  |
+| first  | **LUCIFERSEASON5**  |
+| second  | **WATCH**  |
+| third  | **@NETFLIX** |
+| fourth  | **READY**  |
+| fifth  | **?**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|AUSTIN RIVERS CLOWNING 😳 |
+|RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Cam_Unstoppable**  |
+| The most retweeted user is: **NomadGirl94**  |
 | ------------- |
-| RT @wojespn: Houston Rockets’ players James Harden, Trevor Ariza and Gerald Green pushed into Clippers locker room post-game looking to con… |
+| RT @tomellis17: So who’s ready to watch #LuciferSeason5 ? It’s out now on @netflix !!!!!!!! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
