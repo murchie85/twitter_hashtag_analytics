@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DynamiteToday"**
+&#x1F34E; **TOPIC = "#Dynamite100M"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @purpleulocks: ⌗ lockscreens hoseokDYNAMITE#BTS  #BTS_Dynamite #DynamiteToday@BTS_twt • fav de gostar | fav if u like• rt se salva… |
-| RT @kingtandesign: ❝ #Dynamite ᵐᵛ ❞ ᵈⁱˢᶜᵒ▹ headers; @BTS_twt❥ feel free to use them;➙ https://t.co/yuOgWz4UbU#BTS #DynamiteToday #BTS… |
-| @kissradiohits YESS &lt;3 YALL STREAM Dynamite by BTS! &lt;3 #BTS_Dynamite #BTSDynamite #Dynamite #DynamiteToday #DynamiteParty @BTS_twt |
+| RT @kookiejungggg: "we practiced                  the result18 hours a day"          they received#Dynamite100M #DynamiteParty #Dynamite… |
+| RT @kookiejungggg: "we practiced                  the result18 hours a day"          they received#Dynamite100M #DynamiteParty #Dynamite… |
+| RT @charts_k: @BigHitEnt Dynamite MV reached 100 million views on YouTube in a little over 24 hours! #Dynamite100M 🎉 https://t.co/kPiWZLmKe4 |
 
-The most popular user is: **linacahayani**
-<div class="alert alert-block alert-danger"> RT @amazonmusic: #DynamiteToday 💥💥💥 
-
-Who is counting down with us? @BTS_twt @bts_bighit</div>
+The most popular user is: **cherrylovesjk**
+<div class="alert alert-block alert-danger"> RT @eunwoosmilee: WHO GIVES A FCK ABOUT EARTH??? WE GOT 100M IN LESS THAN A DAY ON MARS I DON'T CARE
+#Dynamite100M https://t.co/eTF2Fb3pWu</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **kingtandesign** |
-| #3 Most tweeted to  | **BTS_History613** |
-| NewProfiles (less than 10 days) | 1.41%  |
-| Tweeters with < 10 followers  | 9.42%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #2 Most tweeted to  | **eunwoosmilee** |
+| #3 Most tweeted to  | **jeontatic** |
+| NewProfiles (less than 10 days) | 1.97%  |
+| Tweeters with < 10 followers  | 11.3%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +40,28 @@ Who is counting down with us? @BTS_twt @bts_bighit</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DYNAMITETODAY**  |
-| second  | **@BTS_TWT**  |
-| third  | **BTS** |
-| fourth  | **DYNAMITE**  |
-| fifth  | **BTS_DYNAMITE**  |
+| first  | **DYNAMITE100M**  |
+| second  | **VIEWS**  |
+| third  | **BTS_DYNAMITE** |
+| fourth  | **100M**  |
+| fifth  | **BTS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiamondMiniMoni: Just came by after work and look who I found in #TimesSquare @BTS_twt #DynamiteToday #Dynamite_BTS #BTS https://t.co/f… |
+|RT @jeontatic: YES I RECORDED THIS SEXY MOMENT IN HISTORY #BTS_Dynamite #Dynamite100M https://t.co/bocRCXoJ6i |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **linacahayani**  |
+| The most retweeted user is: **cherrylovesjk**  |
 | ------------- |
-| RT @amazonmusic: #DynamiteToday 💥💥💥 Who is counting down with us? @BTS_twt @bts_bighit |
+| RT @eunwoosmilee: WHO GIVES A FCK ABOUT EARTH??? WE GOT 100M IN LESS THAN A DAY ON MARS I DON'T CARE#Dynamite100M https://t.co/eTF2Fb3pWu |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
