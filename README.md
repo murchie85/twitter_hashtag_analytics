@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Dynamite100M"**
+&#x1F34E; **TOPIC = "Static Shock"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kookiejungggg: "we practiced                  the result18 hours a day"          they received#Dynamite100M #DynamiteParty #Dynamite… |
-| RT @kookiejungggg: "we practiced                  the result18 hours a day"          they received#Dynamite100M #DynamiteParty #Dynamite… |
-| RT @charts_k: @BigHitEnt Dynamite MV reached 100 million views on YouTube in a little over 24 hours! #Dynamite100M 🎉 https://t.co/kPiWZLmKe4 |
+| RT @Shybaka289: I see static shock is trending. I remember as a kid this scene made me really sad. Static Shock really taught me a lot of s… |
+| RT @MaadDabber: Static Shock is trending!!!!!! This is one of the most underrated super heroes ever! https://t.co/iJrHARgYYE |
+| RT @jmznia: Static Shock don’t count? Or Storm? Luke Cage? Misty Knight? Cyborg? Lmfao none? |
 
-The most popular user is: **cherrylovesjk**
-<div class="alert alert-block alert-danger"> RT @eunwoosmilee: WHO GIVES A FCK ABOUT EARTH??? WE GOT 100M IN LESS THAN A DAY ON MARS I DON'T CARE
-#Dynamite100M https://t.co/eTF2Fb3pWu</div>
+The most popular user is: **yamsinboyshorts**
+<div class="alert alert-block alert-danger"> RT @cSc_Honesty: Static Shock was a gem and ahead of its time. this episode aired almost 20 years ago and it’s just as relevant today https…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **eunwoosmilee** |
-| #3 Most tweeted to  | **jeontatic** |
-| NewProfiles (less than 10 days) | 1.97%  |
-| Tweeters with < 10 followers  | 11.3%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **bbyfaceidol** |
+| #2 Most tweeted to  | **MaadDabber** |
+| #3 Most tweeted to  | **tomreillyart** |
+| NewProfiles (less than 10 days) | 0.17%  |
+| Tweeters with < 10 followers  | 2.12%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **cherrylovesjk**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DYNAMITE100M**  |
-| second  | **VIEWS**  |
-| third  | **BTS_DYNAMITE** |
-| fourth  | **100M**  |
-| fifth  | **BTS**  |
+| first  | **STATIC**  |
+| second  | **SHOCK**  |
+| third  | **TRENDING** |
+| fourth  | **LUKE**  |
+| fifth  | **MOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jeontatic: YES I RECORDED THIS SEXY MOMENT IN HISTORY #BTS_Dynamite #Dynamite100M https://t.co/bocRCXoJ6i |
+|RT @tomreillyart: A Static warmup with colors. His first STATIC SHOCK look is still the coolest ⚡️⚡️ https://t.co/yRsb5Dwb5W |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cherrylovesjk**  |
+| The most retweeted user is: **yamsinboyshorts**  |
 | ------------- |
-| RT @eunwoosmilee: WHO GIVES A FCK ABOUT EARTH??? WE GOT 100M IN LESS THAN A DAY ON MARS I DON'T CARE#Dynamite100M https://t.co/eTF2Fb3pWu |
+| RT @cSc_Honesty: Static Shock was a gem and ahead of its time. this episode aired almost 20 years ago and it’s just as relevant today https… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
