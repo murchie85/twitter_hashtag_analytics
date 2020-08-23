@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Static Shock"**
+&#x1F34E; **TOPIC = "#DCFanDome"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Shybaka289: I see static shock is trending. I remember as a kid this scene made me really sad. Static Shock really taught me a lot of s… |
-| RT @MaadDabber: Static Shock is trending!!!!!! This is one of the most underrated super heroes ever! https://t.co/iJrHARgYYE |
-| RT @jmznia: Static Shock don’t count? Or Storm? Luke Cage? Misty Knight? Cyborg? Lmfao none? |
+| RT @The_jaber_khan: It's Not Exam ... It's Students Killing plan#DCFanDome #SundayThoughts #31StudentsInSCForJustice #StudentsKeMannKiBaa… |
+| RT @Fandango: "I'm vengeance."Robert Pattinson IS #TheBatman in this fairly extensive first look teaser for a film that's still in product… |
+| RT @SuicideSquadWB: When @JamesGunn says, “It’s going to be different from any superhero movie ever made,” he means it! See more in this of… |
 
-The most popular user is: **yamsinboyshorts**
-<div class="alert alert-block alert-danger"> RT @cSc_Honesty: Static Shock was a gem and ahead of its time. this episode aired almost 20 years ago and it’s just as relevant today https…</div>
+The most popular user is: **frosted_326**
+<div class="alert alert-block alert-danger"> RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bbyfaceidol** |
-| #2 Most tweeted to  | **MaadDabber** |
-| #3 Most tweeted to  | **tomreillyart** |
-| NewProfiles (less than 10 days) | 0.17%  |
-| Tweeters with < 10 followers  | 2.12%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **TheBatman** |
+| #2 Most tweeted to  | **IGN** |
+| #3 Most tweeted to  | **suicidesquadRS** |
+| NewProfiles (less than 10 days) | 1.14%  |
+| Tweeters with < 10 followers  | 5.67%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **yamsinboyshorts**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STATIC**  |
-| second  | **SHOCK**  |
-| third  | **TRENDING** |
-| fourth  | **LUKE**  |
-| fifth  | **MOST**  |
+| first  | **DCFANDOME**  |
+| second  | **THEBATMAN**  |
+| third  | **TRAILER** |
+| fourth  | **ROBERT**  |
+| fifth  | **PATTINSON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tomreillyart: A Static warmup with colors. His first STATIC SHOCK look is still the coolest ⚡️⚡️ https://t.co/yRsb5Dwb5W |
+|RT @RottenTomatoes: The Rock shares the history of #BlackAdam in a new teaser from #DCFanDome. https://t.co/wJFxtPxbyJ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **yamsinboyshorts**  |
+| The most retweeted user is: **frosted_326**  |
 | ------------- |
-| RT @cSc_Honesty: Static Shock was a gem and ahead of its time. this episode aired almost 20 years ago and it’s just as relevant today https… |
+| RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
