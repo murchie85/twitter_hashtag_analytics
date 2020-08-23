@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DCFanDome"**
+&#x1F34E; **TOPIC = "Coman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @The_jaber_khan: It's Not Exam ... It's Students Killing plan#DCFanDome #SundayThoughts #31StudentsInSCForJustice #StudentsKeMannKiBaa… |
-| RT @Fandango: "I'm vengeance."Robert Pattinson IS #TheBatman in this fairly extensive first look teaser for a film that's still in product… |
-| RT @SuicideSquadWB: When @JamesGunn says, “It’s going to be different from any superhero movie ever made,” he means it! See more in this of… |
+| RT @LosoLFC: Coman got one of the greatest football CVs of all time. |
+| Taboun mok coman |
+| RT @ChampionsLeague: 𝗗𝗶𝗱 𝘆𝗼𝘂 𝗸𝗻𝗼𝘄? Coman was born in Paris, joining the club's academy in 2004...#UCL https://t.co/JNCmV3oLkj |
 
-The most popular user is: **frosted_326**
-<div class="alert alert-block alert-danger"> RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA</div>
+The most popular user is: **IrmaJuten**
+<div class="alert alert-block alert-danger"> RT @ChampionsLeague: 🔴 𝗚𝗢𝗔𝗟!! Paris 0-1 Bayern (Coman 59)
+
+#UCLfinal https://t.co/JmVzk8Ni6J</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheBatman** |
-| #2 Most tweeted to  | **IGN** |
-| #3 Most tweeted to  | **suicidesquadRS** |
-| NewProfiles (less than 10 days) | 1.14%  |
-| Tweeters with < 10 followers  | 5.67%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **ChampionsLeague** |
+| #2 Most tweeted to  | **SkySportsNews** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 2.79%|
+| Tweeters with > 1000000 followers  | 0.23%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **frosted_326**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DCFANDOME**  |
-| second  | **THEBATMAN**  |
-| third  | **TRAILER** |
-| fourth  | **ROBERT**  |
-| fifth  | **PATTINSON**  |
+| first  | **COMAN**  |
+| second  | **KINGSLEY**  |
+| third  | **BAYERN** |
+| fourth  | **UCLFINAL**  |
+| fifth  | **PSG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RottenTomatoes: The Rock shares the history of #BlackAdam in a new teaser from #DCFanDome. https://t.co/wJFxtPxbyJ |
+|Imagine Coman and Choupo Moting scoring in a UCL final, LUHG twitter would be having a field day |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **frosted_326**  |
+| The most retweeted user is: **IrmaJuten**  |
 | ------------- |
-| RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA |
+| RT @ChampionsLeague: 🔴 𝗚𝗢𝗔𝗟!! Paris 0-1 Bayern (Coman 59)#UCLfinal https://t.co/JmVzk8Ni6J |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
