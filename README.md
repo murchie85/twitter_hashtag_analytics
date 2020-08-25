@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "chelsea"**
+&#x1F34E; **TOPIC = "iphone 12"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FabrizioRomano: @leonradburn @CFCDaily @GFFN Thiago Silva to Chelsea is done |
-| RT @b3naldo7: Champions League titles won since Ronaldo started playing:5️⃣Cristiano Ronaldo4️⃣Real Madrid4️⃣Barcelona2️⃣Bayern Munich… |
-| RT @TeleFootball: Leicester defender Ben Chilwell will complete his move to Chelsea in the next three days on a five-year deal worth around… |
+| Brazilian Supreme Court to judge the right to use the iPhone trademark in Brazil https://t.co/DVJZnVeOo5 |
+| Apple may launch iPhone 12 in 4 different variants and one of them might be cheaper than the previous year version.… https://t.co/aIq4JohZD5 |
+| RT @AyobanjiKazeem: Y'all are talking about the iPhone 12 when y'all don't have a PS5 https://t.co/L0mrOg6J2m |
 
-The most popular user is: **Chelsea_Bun13**
-<div class="alert alert-block alert-danger"> RT @thinking_panda: China's kindergarten game: Cooperation. https://t.co/2vxAsEetHm</div>
+The most popular user is: **oppai_expert**
+<div class="alert alert-block alert-danger"> RT @WeLuvGucci: everyone’s phones once the iPhone 12 comes out https://t.co/rnP4zSn7dM</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **GFFN** |
-| #3 Most tweeted to  | **CFCDaily** |
-| NewProfiles (less than 10 days) | 1.09%  |
-| Tweeters with < 10 followers  | 3.45%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **WeLuvGucci** |
+| #2 Most tweeted to  | **jon_prosser** |
+| #3 Most tweeted to  | **CrypticNo** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 5.66%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Chelsea_Bun13**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHELSEA**  |
-| second  | **SILVA**  |
-| third  | **THIAGO** |
-| fourth  | **@FABRIZIOROMANO:**  |
-| fifth  | **HAVERTZ**  |
+| first  | **IPHONE**  |
+| second  | **12**  |
+| third  | **COMES** |
+| fourth  | **PHONES**  |
+| fifth  | **ONCE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (61.54%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Chelsea fans eating good this transfer window. Pandemic got nothing on the club. |
+|RT @AyobanjiKazeem: Y'all are talking about the iPhone 12 when y'all don't have a PS5 https://t.co/L0mrOg6J2m |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Chelsea_Bun13**  |
+| The most retweeted user is: **oppai_expert**  |
 | ------------- |
-| RT @thinking_panda: China's kindergarten game: Cooperation. https://t.co/2vxAsEetHm |
+| RT @WeLuvGucci: everyone’s phones once the iPhone 12 comes out https://t.co/rnP4zSn7dM |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
