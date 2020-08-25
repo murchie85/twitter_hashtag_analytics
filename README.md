@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#dynamitebsidemv"**
+&#x1F34E; **TOPIC = "chelsea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @sceneryfortae: Slow mo Taehyung is doing things to me@BTS_twt #DynamiteBSideMVhttps://t.co/zsXakAlM9B |
-| RT @haneular__: The new MV showed what real hope and joy is ❤️ THANK YOU#Hoseok #정호석 #JHOPE #Dynamite #DynamiteBsideMV https://t.co/QjFfJi… |
-| RT @flirtaeguk: Taehyung grooving and looking brighter than the sun is everything ☀#DynamiteBsideMV @BTS_twt https://t.co/gg0QPzItv4 |
+| RT @FabrizioRomano: @leonradburn @CFCDaily @GFFN Thiago Silva to Chelsea is done |
+| RT @b3naldo7: Champions League titles won since Ronaldo started playing:5️⃣Cristiano Ronaldo4️⃣Real Madrid4️⃣Barcelona2️⃣Bayern Munich… |
+| RT @TeleFootball: Leicester defender Ben Chilwell will complete his move to Chelsea in the next three days on a five-year deal worth around… |
 
-The most popular user is: **loveyouelai**
-<div class="alert alert-block alert-danger"> RT @soompi: WATCH: #BTS Brings Another Dose Of Fun And Happiness With New B-Side MV For "Dynamite" #DynamiteBsideMV https://t.co/AJjmgdsDG3…</div>
+The most popular user is: **Chelsea_Bun13**
+<div class="alert alert-block alert-danger"> RT @thinking_panda: China's kindergarten game: Cooperation. https://t.co/2vxAsEetHm</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **setiogi** |
-| #3 Most tweeted to  | **sceneryfortae** |
-| NewProfiles (less than 10 days) | 1.33%  |
-| Tweeters with < 10 followers  | 12.18%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **GFFN** |
+| #3 Most tweeted to  | **CFCDaily** |
+| NewProfiles (less than 10 days) | 1.09%  |
+| Tweeters with < 10 followers  | 3.45%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **loveyouelai**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DYNAMITEBSIDEMV**  |
-| second  | **@BTS_TWT**  |
-| third  | **BTS_DYNAMITE** |
-| fourth  | **BTS**  |
-| fifth  | **MV**  |
+| first  | **CHELSEA**  |
+| second  | **SILVA**  |
+| third  | **THIAGO** |
+| fourth  | **@FABRIZIOROMANO:**  |
+| fifth  | **HAVERTZ**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @taekookfolder: TAEKOOK HOLDING HANDS AND JUMPING#DynamiteBsideMV https://t.co/haNcNs0ZY5 |
+|Chelsea fans eating good this transfer window. Pandemic got nothing on the club. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **loveyouelai**  |
+| The most retweeted user is: **Chelsea_Bun13**  |
 | ------------- |
-| RT @soompi: WATCH: #BTS Brings Another Dose Of Fun And Happiness With New B-Side MV For "Dynamite" #DynamiteBsideMV https://t.co/AJjmgdsDG3… |
+| RT @thinking_panda: China's kindergarten game: Cooperation. https://t.co/2vxAsEetHm |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
