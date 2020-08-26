@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "iphone 12"**
+&#x1F34E; **TOPIC = "#blacklivesmatter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Brazilian Supreme Court to judge the right to use the iPhone trademark in Brazil https://t.co/DVJZnVeOo5 |
-| Apple may launch iPhone 12 in 4 different variants and one of them might be cheaper than the previous year version.… https://t.co/aIq4JohZD5 |
-| RT @AyobanjiKazeem: Y'all are talking about the iPhone 12 when y'all don't have a PS5 https://t.co/L0mrOg6J2m |
+| RT @leahmcelrath: #Kenosha clip:Armed civilian discusses how law enforcement told him and his group that they were going to “push” #Black… |
+| RT @AnonOpsSE: Tense moment between Militia members and #BlackLivesMatter movement shortly before shooting in #Kenosha tonight. #KenoshaP… |
+| @espn 💔*justice4jacob #VOTE *Bk2God1st *NotReligionJesusSalvation  *1RaceHuman *DumpTrump*Justice4all… https://t.co/oRFegBIib5 |
 
-The most popular user is: **oppai_expert**
-<div class="alert alert-block alert-danger"> RT @WeLuvGucci: everyone’s phones once the iPhone 12 comes out https://t.co/rnP4zSn7dM</div>
+The most popular user is: **hachim_ousmane**
+<div class="alert alert-block alert-danger"> RT @tpwkhollands: A THREAD OF WHAT YOU CAN DO TO HELP
+#BlackLivesMatter</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WeLuvGucci** |
-| #2 Most tweeted to  | **jon_prosser** |
-| #3 Most tweeted to  | **CrypticNo** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 5.66%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **MrAndyNgo** |
+| #2 Most tweeted to  | **mefeater** |
+| #3 Most tweeted to  | **RexChapman** |
+| NewProfiles (less than 10 days) | 1.01%  |
+| Tweeters with < 10 followers  | 4.57%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **oppai_expert**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **IPHONE**  |
-| second  | **12**  |
-| third  | **COMES** |
-| fourth  | **PHONES**  |
-| fifth  | **ONCE**  |
+| first  | **BLACKLIVESMATTER**  |
+| second  | **SHOT**  |
+| third  | **JACOB** |
+| fourth  | **BLAKE**  |
+| fifth  | **BACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (61.54%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AyobanjiKazeem: Y'all are talking about the iPhone 12 when y'all don't have a PS5 https://t.co/L0mrOg6J2m |
+|RT @MrAndyNgo: This is what BLM rioters did. to a family-owned furniture business last night in #Kenosha. #BlackLivesMatter https://t.co/Zr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **oppai_expert**  |
+| The most retweeted user is: **hachim_ousmane**  |
 | ------------- |
-| RT @WeLuvGucci: everyone’s phones once the iPhone 12 comes out https://t.co/rnP4zSn7dM |
+| RT @tpwkhollands: A THREAD OF WHAT YOU CAN DO TO HELP#BlackLivesMatter |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
