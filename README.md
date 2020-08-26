@@ -15,23 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @leahmcelrath: #Kenosha clip:Armed civilian discusses how law enforcement told him and his group that they were going to “push” #Black… |
-| RT @AnonOpsSE: Tense moment between Militia members and #BlackLivesMatter movement shortly before shooting in #Kenosha tonight. #KenoshaP… |
-| @espn 💔*justice4jacob #VOTE *Bk2God1st *NotReligionJesusSalvation  *1RaceHuman *DumpTrump*Justice4all… https://t.co/oRFegBIib5 |
+| RT @40DBx4: For those of you who get upset when we say #BlackLivesMatter  this is why we say #BlackLivesMatter. #EqualityCantWait ✊🏾🆘 https… |
+| RT @carolynrodz: Straight from the source, here's what 28,000 Black business owners told us they need. @HelloAlice @BBFounders @DivIncatx @… |
+| RT @_shireenahmed_: This isn't "politics". It's about Black people being murdered by cops and systemic racism. #NBA #BlackLivesMatter @… |
 
-The most popular user is: **hachim_ousmane**
+The most popular user is: **n30ngut5**
 <div class="alert alert-block alert-danger"> RT @tpwkhollands: A THREAD OF WHAT YOU CAN DO TO HELP
 #BlackLivesMatter</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MrAndyNgo** |
-| #2 Most tweeted to  | **mefeater** |
+| #1 Most tweeted to  | **Bucks** |
+| #2 Most tweeted to  | **MrAndyNgo** |
 | #3 Most tweeted to  | **RexChapman** |
-| NewProfiles (less than 10 days) | 1.01%  |
-| Tweeters with < 10 followers  | 4.57%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 2.52%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,25 +41,25 @@ The most popular user is: **hachim_ousmane**
 | Popularity Rank  | Term |
 | ------------- | ------------- |
 | first  | **BLACKLIVESMATTER**  |
-| second  | **SHOT**  |
-| third  | **JACOB** |
-| fourth  | **BLAKE**  |
-| fifth  | **BACK**  |
+| second  | **BUCKS**  |
+| third  | **BLACKLIVESMATTERRT** |
+| fourth  | **@BUCKS**  |
+| fifth  | **BLACK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MrAndyNgo: This is what BLM rioters did. to a family-owned furniture business last night in #Kenosha. #BlackLivesMatter https://t.co/Zr… |
+|RT @LarryMadowo: President Trump has called #BlackLivesMatter a symbol of hate. He's also said @TheRevAl hates white people.'When did I s… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hachim_ousmane**  |
+| The most retweeted user is: **n30ngut5**  |
 | ------------- |
 | RT @tpwkhollands: A THREAD OF WHAT YOU CAN DO TO HELP#BlackLivesMatter |
 
