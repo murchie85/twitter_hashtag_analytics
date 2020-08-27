@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JusticeforJans: Another night of the #RNC2020 &amp; essential workers still don't have the PPE, Hazard Pay &amp; Job Protections they need to w… |
-| RT @GOP: 🐘MEET THE CANDIDATE: Marianette Miller-Meeks🐘 —Doctor, Veteran, and Iowa State Senator —@millermeeks is the Republican Nominee… |
-| RT @EricTrump: Can’t believe I’m watching the convention on @CNN - give credit where credit is due. They are playing the #RNC2020 in its en… |
+| RT @PolitiFact: Trump and his administration have not protected patients with preexisting conditions. His policy trajectory does exactly th… |
+| People murdered by #antifascists = 0 People murdered by #AltRight #DomesticTerrorists = 331. #BlackLivesMetter… https://t.co/26mdKHPnjP |
+| RT @DailyCaller: MSNBC interrupted Governor @KristiNoem, saying she was “very wrong” to say leftist-run cities are being overrun by crime a… |
 
-The most popular user is: **sc229**
-<div class="alert alert-block alert-danger"> RT @American_Bridge: The people who know Donald Trump best are sounding the alarm: our country cannot survive four more years of a Trump pr…</div>
+The most popular user is: **PaulObrienUSA**
+<div class="alert alert-block alert-danger"> RT @hammerandnigel: You may be cool, but you’ll never be “Nick Sandmann on CNN bashing CNN while being paid by CNN” cool. #RNC #RNC2020 htt…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **GOP** |
-| #3 Most tweeted to  | **TeamTrump** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 5.24%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **TeamTrump** |
+| #2 Most tweeted to  | **CawthornforNC** |
+| #3 Most tweeted to  | **GOPconvention** |
+| NewProfiles (less than 10 days) | 1.04%  |
+| Tweeters with < 10 followers  | 4.42%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -41,26 +41,26 @@ The most popular user is: **sc229**
 | ------------- | ------------- |
 | first  | **RNC2020**  |
 | second  | **TRUMP**  |
-| third  | **CNN** |
-| fourth  | **COOL**  |
-| fifth  | **NIGHT**  |
+| third  | **PRESIDENT** |
+| fourth  | **RADICAL**  |
+| fifth  | **@TEAMTRUMP:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CactusFlower_1: @HillaryClinton Oh stop lying and blaming @POTUS for what Obama did..🙄Many on the left are waking up &amp; you know it! #Fo… |
+|I'm pretty sure the #socialist #MSM did'nt allow most of the speeches at the #RNC2020 to be aired for all Americans… https://t.co/x2Ia339M7H |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sc229**  |
+| The most retweeted user is: **PaulObrienUSA**  |
 | ------------- |
-| RT @American_Bridge: The people who know Donald Trump best are sounding the alarm: our country cannot survive four more years of a Trump pr… |
+| RT @hammerandnigel: You may be cool, but you’ll never be “Nick Sandmann on CNN bashing CNN while being paid by CNN” cool. #RNC #RNC2020 htt… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
