@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#rncconvention2020"**
+&#x1F34E; **TOPIC = "Superbad"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SaraCarterDC: The #RNCConvention2020 Fireworks were amazing... never ending - no comparison! What a positive wonderful speech! So diffe… |
-| And I read that no one was tested beforehand #COVID19 #Covid_19 #RNCConvention2020 #WearAMask #SocialDistancing https://t.co/IfZx0cXYxC |
-| @cnni Regarding your hysterical concerns about #COVID19 Transmission at #RNCConvention2020 Can you do..The Riot… https://t.co/jaAXHA7ZYr |
+| "McLovin why were you smoking cigarettes with those cops?""Cause I f'n rule" McLovin classic!! #Superbad https://t.co/lKp2IjQcaV |
+| C’mon now, Superbad by a country mile https://t.co/fRH6gz1AIl |
+| 235. Superbad (2007) https://t.co/1CHU9eOZqn |
 
-The most popular user is: **InjectedmyLungs**
-<div class="alert alert-block alert-danger"> RT @TheFrankWhaley: Fuck Jon Voight. On Ray Donovan he slapped me across the face in the middle of a scene because he couldn’t keep up, the…</div>
+The most popular user is: **superbad_axe**
+<div class="alert alert-block alert-danger"> RT @abitofjoie: I def believe in pushing the boundaries with your parents. They need to learn your life is your own.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **glennbeck** |
-| #3 Most tweeted to  | **BGOnTheScene** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 3.41%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ringer** |
+| #2 Most tweeted to  | **UberFacts** |
+| #3 Most tweeted to  | **TheKipSabian** |
+| NewProfiles (less than 10 days) | 1.15%  |
+| Tweeters with < 10 followers  | 3.56%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **InjectedmyLungs**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RNCCONVENTION2020**  |
-| second  | **TRUMP**  |
-| third  | **EVER** |
-| fourth  | **@GLENNBECK:**  |
-| fifth  | **POLITICAL**  |
+| first  | **SUPERBAD**  |
+| second  | **MEAN**  |
+| third  | **GIRLS** |
+| fourth  | **MOVIE**  |
+| fifth  | **SCENE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (58.33%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Aliciastarr001: “Always remember they are coming after ME, because I am fighting for YOU."~ President D.J. Trump #RNC2020 🇺🇸🇺🇸🇺🇸#R… |
+|@ringer What % of people voting for Superbad have seen D&amp;C? 5%? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **InjectedmyLungs**  |
+| The most retweeted user is: **superbad_axe**  |
 | ------------- |
-| RT @TheFrankWhaley: Fuck Jon Voight. On Ray Donovan he slapped me across the face in the middle of a scene because he couldn’t keep up, the… |
+| RT @abitofjoie: I def believe in pushing the boundaries with your parents. They need to learn your life is your own. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
