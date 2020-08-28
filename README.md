@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#blacklivesmatter"**
+&#x1F34E; **TOPIC = "#rncconvention2020"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KingJames: Change doesn’t happen with just talk!! It happens with action and needs to happen NOW! For my @IPROMISESchool kids, kids and… |
-| I applaud the #NBA players who had the courage to be leaders follow Colin Kaepernick and all other activists in per… https://t.co/zTII2i921j |
-| RT @SKYRIDER4538: @AyannaPressley #ClarenceHenderson assembled to affirm value dignity &amp; worth for black lives, not by burning down communi… |
+| RT @SaraCarterDC: The #RNCConvention2020 Fireworks were amazing... never ending - no comparison! What a positive wonderful speech! So diffe… |
+| And I read that no one was tested beforehand #COVID19 #Covid_19 #RNCConvention2020 #WearAMask #SocialDistancing https://t.co/IfZx0cXYxC |
+| @cnni Regarding your hysterical concerns about #COVID19 Transmission at #RNCConvention2020 Can you do..The Riot… https://t.co/jaAXHA7ZYr |
 
-The most popular user is: **jjepriI**
-<div class="alert alert-block alert-danger"> RT @byersfilms: what you as a non-black person can do to support #BlackLivesMatter : a thread.</div>
+The most popular user is: **InjectedmyLungs**
+<div class="alert alert-block alert-danger"> RT @TheFrankWhaley: Fuck Jon Voight. On Ray Donovan he slapped me across the face in the middle of a scene because he couldn’t keep up, the…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KingJames** |
-| #2 Most tweeted to  | **IPROMISESchool** |
-| #3 Most tweeted to  | **YourAnonCentral** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 4.7%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **glennbeck** |
+| #3 Most tweeted to  | **BGOnTheScene** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 3.41%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jjepriI**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BLACKLIVESMATTER**  |
-| second  | **HAPPEN**  |
-| third  | **KIDS** |
-| fourth  | **NEEDS**  |
-| fifth  | **CHANGE**  |
+| first  | **RNCCONVENTION2020**  |
+| second  | **TRUMP**  |
+| third  | **EVER** |
+| fourth  | **@GLENNBECK:**  |
+| fifth  | **POLITICAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (58.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BretWeinstein: ‘2 + 2 = 5’ is to math as “mostly peaceful” is to journalism as “some men menstruate” is to biology as #shutdownstem is… |
+|RT @Aliciastarr001: “Always remember they are coming after ME, because I am fighting for YOU."~ President D.J. Trump #RNC2020 🇺🇸🇺🇸🇺🇸#R… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jjepriI**  |
+| The most retweeted user is: **InjectedmyLungs**  |
 | ------------- |
-| RT @byersfilms: what you as a non-black person can do to support #BlackLivesMatter : a thread. |
+| RT @TheFrankWhaley: Fuck Jon Voight. On Ray Donovan he slapped me across the face in the middle of a scene because he couldn’t keep up, the… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
