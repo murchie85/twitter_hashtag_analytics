@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Superbad"**
+&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "McLovin why were you smoking cigarettes with those cops?""Cause I f'n rule" McLovin classic!! #Superbad https://t.co/lKp2IjQcaV |
-| C’mon now, Superbad by a country mile https://t.co/fRH6gz1AIl |
-| 235. Superbad (2007) https://t.co/1CHU9eOZqn |
+| @majornelson @Wasteland @TellMeWhyGame Wasteland 3 #FreeCodeFridayContest |
+| @majornelson @Wasteland @TellMeWhyGame Sea of Thieves is a game everyone should try.Made by legendary developers a… https://t.co/1TUa7Botby |
+| @majornelson St. Lucia #freecodefridaycontest |
 
-The most popular user is: **superbad_axe**
-<div class="alert alert-block alert-danger"> RT @abitofjoie: I def believe in pushing the boundaries with your parents. They need to learn your life is your own.</div>
+The most popular user is: **JoaoSilva_2019**
+<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Xbox Game Pass Ultimate (6 month subscription) on Xbox…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ringer** |
-| #2 Most tweeted to  | **UberFacts** |
-| #3 Most tweeted to  | **TheKipSabian** |
-| NewProfiles (less than 10 days) | 1.15%  |
-| Tweeters with < 10 followers  | 3.56%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **TellMeWhyGame** |
+| #3 Most tweeted to  | **Wasteland** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 15.71%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **superbad_axe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SUPERBAD**  |
-| second  | **MEAN**  |
-| third  | **GIRLS** |
-| fourth  | **MOVIE**  |
-| fifth  | **SCENE**  |
+| first  | **@WASTELAND**  |
+| second  | **@TELLMEWHYGAME**  |
+| third  | **FREECODEFRIDAYCONTEST** |
+| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| fifth  | **XBOX**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ringer What % of people voting for Superbad have seen D&amp;C? 5%? |
+|@majornelson @Wasteland @TellMeWhyGame MCC best fps series ever! #FreeCodeFridayContest |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **superbad_axe**  |
+| The most retweeted user is: **JoaoSilva_2019**  |
 | ------------- |
-| RT @abitofjoie: I def believe in pushing the boundaries with your parents. They need to learn your life is your own. |
+| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Xbox Game Pass Ultimate (6 month subscription) on Xbox… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
