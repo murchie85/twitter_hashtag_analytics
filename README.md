@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rest In Peace"**
+&#x1F34E; **TOPIC = "Dort"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @theblackpanther: Our hearts are broken and our thoughts are with Chadwick Boseman's family. Your legacy will live on forever. Rest In P… |
-| RT @MarvelStudios: Our hearts are broken and our thoughts are with Chadwick Boseman’s family. Your legacy will live on forever. Rest In Pea… |
-| RT @cpriv0: Rest in peace 💔 https://t.co/CdaVKkId7J |
+| I'd love to see him say this to Lu Dort's face. https://t.co/MDqOueh975 |
+| @cemnisforever12 Dort |
+| RT @BrandonRahbar: 29 NBA GMs really looked at Lu Dort and said “nah, we’re good.” |
 
-The most popular user is: **densanchy**
-<div class="alert alert-block alert-danger"> RT @MarvelStudios: Our hearts are broken and our thoughts are with Chadwick Boseman’s family. Your legacy will live on forever. Rest In Pea…</div>
+The most popular user is: **Anissa_Dort**
+<div class="alert alert-block alert-danger"> RT @BernieSanders: The police who shot Jacob Blake in the back seven times must be fired, arrested and prosecuted to the fullest extent of…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MarvelStudios** |
-| #2 Most tweeted to  | **theblackpanther** |
-| #3 Most tweeted to  | **roopertpumpkin** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 4.51%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **TheHoopCentral** |
+| #2 Most tweeted to  | **balldontstop** |
+| #3 Most tweeted to  | **TheNBACentral** |
+| NewProfiles (less than 10 days) | 1.55%  |
+| Tweeters with < 10 followers  | 2.73%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **densanchy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REST**  |
-| second  | **CHADWICK**  |
-| third  | **PEACE** |
-| fourth  | **BOSEMAN**  |
-| fifth  | **LIVE**  |
+| first  | **DORT**  |
+| second  | **HARDEN**  |
+| third  | **LUGUENTZ** |
+| fourth  | **JAMES**  |
+| fifth  | **LU**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|sending prayers to his family and friends. Chadwick Boseman rest in peace, you'll be missed |
+|RT @Three_Cone: @LuDortBurner Dort |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **densanchy**  |
+| The most retweeted user is: **Anissa_Dort**  |
 | ------------- |
-| RT @MarvelStudios: Our hearts are broken and our thoughts are with Chadwick Boseman’s family. Your legacy will live on forever. Rest In Pea… |
+| RT @BernieSanders: The police who shot Jacob Blake in the back seven times must be fired, arrested and prosecuted to the fullest extent of… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
