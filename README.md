@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ted Wheeler"**
+&#x1F34E; **TOPIC = "Mavs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @thebradfordfile: Did Ted Wheeler forget he tweeted his vile letter **DECLINING** help from President Trump? |
-| RT @DonaldJTrumpJr: Ted Wheeler has blood on his hands. He decided to play politics and refused @realDonaldTrump's offer to send the Nation… |
-| RT @politvidchannel: Portland mayor Ted Wheeler to Trump: “Support us or stay the hell out of the way.” |
+| RT @Hou5ton4L: Luka Doncic trying to carry the Mavs in Game 6 https://t.co/MDfi9OEytV |
+| Great season by the Mavs. Two young cornerstones on our team, eventual cap space and a hell of a coach. The future… https://t.co/mBEDmsOxfh |
+| RT @chrisbrockman: .@BobanMarjanovic hands are bigger than Billy Kennedy’s head by A LOT. #NBAPlayoffs #Mavs https://t.co/IbKrIODzZz |
 
-The most popular user is: **rudyandcobie**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: If the incompetent Mayor of Portland, Ted Wheeler, doesn’t get control of his city and stop the Anarchists, Agitators,…</div>
+The most popular user is: **mykejoel_**
+<div class="alert alert-block alert-danger"> RT @saucegoddxx: clippers, flippers, lou will’s strippers, it don’t matter. MAVS IN 6.😤 https://t.co/dAHxFPOQri</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **kylegriffin1** |
-| #3 Most tweeted to  | **funder** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 3.19%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **dallasmavs** |
+| #2 Most tweeted to  | **Mavs_FFL** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 3.98%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **rudyandcobie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TED**  |
-| second  | **WHEELER**  |
-| third  | **MAYOR** |
-| fourth  | **PORTLAND**  |
-| fifth  | **TRUMP**  |
+| first  | **MAVS**  |
+| second  | **LUKA**  |
+| third  | **GAME** |
+| fourth  | **SERIES**  |
+| fifth  | **CLIPPERS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BuzzPatterson: Ted Wheeler’s Portland is Joe Biden’s America. |
+|RT @talkhoops: The internet: Luka won’t let the Mavs go down without a fight Kawhi: https://t.co/Jso0w6RiJn |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rudyandcobie**  |
+| The most retweeted user is: **mykejoel_**  |
 | ------------- |
-| RT @realDonaldTrump: If the incompetent Mayor of Portland, Ted Wheeler, doesn’t get control of his city and stop the Anarchists, Agitators,… |
+| RT @saucegoddxx: clippers, flippers, lou will’s strippers, it don’t matter. MAVS IN 6.😤 https://t.co/dAHxFPOQri |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
