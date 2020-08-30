@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dort"**
+&#x1F34E; **TOPIC = "Ted Wheeler"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I'd love to see him say this to Lu Dort's face. https://t.co/MDqOueh975 |
-| @cemnisforever12 Dort |
-| RT @BrandonRahbar: 29 NBA GMs really looked at Lu Dort and said “nah, we’re good.” |
+| RT @thebradfordfile: Did Ted Wheeler forget he tweeted his vile letter **DECLINING** help from President Trump? |
+| RT @DonaldJTrumpJr: Ted Wheeler has blood on his hands. He decided to play politics and refused @realDonaldTrump's offer to send the Nation… |
+| RT @politvidchannel: Portland mayor Ted Wheeler to Trump: “Support us or stay the hell out of the way.” |
 
-The most popular user is: **Anissa_Dort**
-<div class="alert alert-block alert-danger"> RT @BernieSanders: The police who shot Jacob Blake in the back seven times must be fired, arrested and prosecuted to the fullest extent of…</div>
+The most popular user is: **rudyandcobie**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: If the incompetent Mayor of Portland, Ted Wheeler, doesn’t get control of his city and stop the Anarchists, Agitators,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheHoopCentral** |
-| #2 Most tweeted to  | **balldontstop** |
-| #3 Most tweeted to  | **TheNBACentral** |
-| NewProfiles (less than 10 days) | 1.55%  |
-| Tweeters with < 10 followers  | 2.73%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **kylegriffin1** |
+| #3 Most tweeted to  | **funder** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 3.19%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Anissa_Dort**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DORT**  |
-| second  | **HARDEN**  |
-| third  | **LUGUENTZ** |
-| fourth  | **JAMES**  |
-| fifth  | **LU**  |
+| first  | **TED**  |
+| second  | **WHEELER**  |
+| third  | **MAYOR** |
+| fourth  | **PORTLAND**  |
+| fifth  | **TRUMP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Three_Cone: @LuDortBurner Dort |
+|RT @BuzzPatterson: Ted Wheeler’s Portland is Joe Biden’s America. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Anissa_Dort**  |
+| The most retweeted user is: **rudyandcobie**  |
 | ------------- |
-| RT @BernieSanders: The police who shot Jacob Blake in the back seven times must be fired, arrested and prosecuted to the fullest extent of… |
+| RT @realDonaldTrump: If the incompetent Mayor of Portland, Ted Wheeler, doesn’t get control of his city and stop the Anarchists, Agitators,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
