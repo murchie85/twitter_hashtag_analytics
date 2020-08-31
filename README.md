@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BTS1onHot100"**
+&#x1F34E; **TOPIC = "Niecy Nash"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JIMIN_ZIP: #BTS1onHot100"Having come from a small agency instead of a big entertainment company, slowly finding their place in the ind… |
-| BTS and ARMYs rn BUT CRYING#DynamiteNumber1Hit#BTS1onHot100 #WhatBTSWantBTSGet @BTS_twt https://t.co/B2ZcjohyLY |
-| RT @hyyhddaeng: .@BTS_twt you bow to no one #BTSHOT100 #BTS1onHot100 https://t.co/TAS97VFuJR |
+| RT @oyanoire: Niecy Nash being married to a woman is exactly what I needed to hear today 🥺 |
+| RT @iampuffdagoat: I was today years old when I found out that Niecy Nash was - https://t.co/mhI7uS1sxR |
+| RT @kremedelakitty_: please god don’t tell me I could have had a shot with Niecy Nash this whole time https://t.co/ZaoUYsBp8E |
 
-The most popular user is: **yoommfie**
-<div class="alert alert-block alert-danger"> RT @charts_k: You worked hard. 🥺 #BTS1onHot100 https://t.co/QxzYbx7MKI</div>
+The most popular user is: **Kikstiks3**
+<div class="alert alert-block alert-danger"> RT @WellDamn_Jess: In Conclusion: Niecy Nash https://t.co/wJUJxpAldU</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **BTSChartDaily** |
-| #3 Most tweeted to  | **fundsforbangtan** |
-| NewProfiles (less than 10 days) | 0.81%  |
-| Tweeters with < 10 followers  | 8.06%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **NotLaja** |
+| #2 Most tweeted to  | **iampuffdagoat** |
+| #3 Most tweeted to  | **thenikkidiaries** |
+| NewProfiles (less than 10 days) | 0.19%  |
+| Tweeters with < 10 followers  | 1.31%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **yoommfie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BTS1ONHOT100**  |
-| second  | **@BTS_TWT**  |
-| third  | **1** |
-| fourth  | **•**  |
-| fifth  | **@BTSCHARTDAILY:**  |
+| first  | **NIECY**  |
+| second  | **NASH**  |
+| third  | **QUEER** |
+| fourth  | **MARRIAGE**  |
+| fifth  | **QUIETLY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @introvertsuga: the way jiminie was probs crying writing this and you can tell cuz he didnt even spell his own name right &lt;//3  #BTS1o… |
+|So basically what happened Niecy Nash is what almost happened to Whitney Houston? Gotcha. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **yoommfie**  |
+| The most retweeted user is: **Kikstiks3**  |
 | ------------- |
-| RT @charts_k: You worked hard. 🥺 #BTS1onHot100 https://t.co/QxzYbx7MKI |
+| RT @WellDamn_Jess: In Conclusion: Niecy Nash https://t.co/wJUJxpAldU |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
