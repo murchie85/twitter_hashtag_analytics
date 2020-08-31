@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mavs"**
+&#x1F34E; **TOPIC = "#BTS1onHot100"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Hou5ton4L: Luka Doncic trying to carry the Mavs in Game 6 https://t.co/MDfi9OEytV |
-| Great season by the Mavs. Two young cornerstones on our team, eventual cap space and a hell of a coach. The future… https://t.co/mBEDmsOxfh |
-| RT @chrisbrockman: .@BobanMarjanovic hands are bigger than Billy Kennedy’s head by A LOT. #NBAPlayoffs #Mavs https://t.co/IbKrIODzZz |
+| RT @JIMIN_ZIP: #BTS1onHot100"Having come from a small agency instead of a big entertainment company, slowly finding their place in the ind… |
+| BTS and ARMYs rn BUT CRYING#DynamiteNumber1Hit#BTS1onHot100 #WhatBTSWantBTSGet @BTS_twt https://t.co/B2ZcjohyLY |
+| RT @hyyhddaeng: .@BTS_twt you bow to no one #BTSHOT100 #BTS1onHot100 https://t.co/TAS97VFuJR |
 
-The most popular user is: **mykejoel_**
-<div class="alert alert-block alert-danger"> RT @saucegoddxx: clippers, flippers, lou will’s strippers, it don’t matter. MAVS IN 6.😤 https://t.co/dAHxFPOQri</div>
+The most popular user is: **yoommfie**
+<div class="alert alert-block alert-danger"> RT @charts_k: You worked hard. 🥺 #BTS1onHot100 https://t.co/QxzYbx7MKI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dallasmavs** |
-| #2 Most tweeted to  | **Mavs_FFL** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 3.98%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **BTSChartDaily** |
+| #3 Most tweeted to  | **fundsforbangtan** |
+| NewProfiles (less than 10 days) | 0.81%  |
+| Tweeters with < 10 followers  | 8.06%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mykejoel_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MAVS**  |
-| second  | **LUKA**  |
-| third  | **GAME** |
-| fourth  | **SERIES**  |
-| fifth  | **CLIPPERS**  |
+| first  | **BTS1ONHOT100**  |
+| second  | **@BTS_TWT**  |
+| third  | **1** |
+| fourth  | **•**  |
+| fifth  | **@BTSCHARTDAILY:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @talkhoops: The internet: Luka won’t let the Mavs go down without a fight Kawhi: https://t.co/Jso0w6RiJn |
+|RT @introvertsuga: the way jiminie was probs crying writing this and you can tell cuz he didnt even spell his own name right &lt;//3  #BTS1o… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mykejoel_**  |
+| The most retweeted user is: **yoommfie**  |
 | ------------- |
-| RT @saucegoddxx: clippers, flippers, lou will’s strippers, it don’t matter. MAVS IN 6.😤 https://t.co/dAHxFPOQri |
+| RT @charts_k: You worked hard. 🥺 #BTS1onHot100 https://t.co/QxzYbx7MKI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
