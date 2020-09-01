@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Niecy Nash"**
+&#x1F34E; **TOPIC = "rockets"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @oyanoire: Niecy Nash being married to a woman is exactly what I needed to hear today 🥺 |
-| RT @iampuffdagoat: I was today years old when I found out that Niecy Nash was - https://t.co/mhI7uS1sxR |
-| RT @kremedelakitty_: please god don’t tell me I could have had a shot with Niecy Nash this whole time https://t.co/ZaoUYsBp8E |
+| RT @ErikkHorne: Game 7 coming.Thunder beat the Rockets 104-100. Chris Paul with 15 of his 28 points in the fourth quarter, including eigh… |
+| RT @sreekyshooter: If the Rockets lose in the first round to Chris Paul a year after paying OKC to take him, there will be slander on this… |
+| Rockets were playing 3 on 7. https://t.co/UA0K5hgKBw |
 
-The most popular user is: **Kikstiks3**
-<div class="alert alert-block alert-danger"> RT @WellDamn_Jess: In Conclusion: Niecy Nash https://t.co/wJUJxpAldU</div>
+The most popular user is: **MeghanSzpond**
+<div class="alert alert-block alert-danger"> RT @KimHuangNBA: If Carmelo Anthony goes to the Houston Rockets I’ll buy NBA 2k19 for everyone who RT this...and yes, I’m serious. @Ronnie2…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NotLaja** |
-| #2 Most tweeted to  | **iampuffdagoat** |
-| #3 Most tweeted to  | **thenikkidiaries** |
-| NewProfiles (less than 10 days) | 0.19%  |
-| Tweeters with < 10 followers  | 1.31%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **KevinOConnorNBA** |
+| #2 Most tweeted to  | **KingJosiah54** |
+| #3 Most tweeted to  | **WORLDMUSICAWARD** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Kikstiks3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NIECY**  |
-| second  | **NASH**  |
-| third  | **QUEER** |
-| fourth  | **MARRIAGE**  |
-| fifth  | **QUIETLY**  |
+| first  | **ROCKETS**  |
+| second  | **GAME**  |
+| third  | **HARDEN** |
+| fourth  | **7**  |
+| fifth  | **WESTBROOK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|So basically what happened Niecy Nash is what almost happened to Whitney Houston? Gotcha. |
+|@mtariq01 He tried to get the ball but got doubled setting a screen when the game was tied at 100. And Russ had a w… https://t.co/rWTnJJr0nA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kikstiks3**  |
+| The most retweeted user is: **MeghanSzpond**  |
 | ------------- |
-| RT @WellDamn_Jess: In Conclusion: Niecy Nash https://t.co/wJUJxpAldU |
+| RT @KimHuangNBA: If Carmelo Anthony goes to the Houston Rockets I’ll buy NBA 2k19 for everyone who RT this...and yes, I’m serious. @Ronnie2… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
