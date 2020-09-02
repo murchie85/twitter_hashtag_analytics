@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pelosi"**
+&#x1F34E; **TOPIC = "Sanu"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LATiffani1: Salon owners should sue the Vodka laced Fixodent outta Pelosi’s wretched ass and her pet rock, Gavin Newsom too |
-| RT @Bakari_Sellers: Nancy Pelosi got a Dominican Blowout and Trumps 2016 campaign was a bastion of indictments. Stay focused. |
-| RT @KateHydeNY: Pelosi: "We all need to take responsibility"Also Pelosi: "I was set up" https://t.co/bwSm8pBDcM |
+| RT @RapSheet: Source: The #Patriots are releasing veteran WR Mohamed Sanu. A surprise. |
+| RT @RapSheet: Source: The #Patriots are releasing veteran WR Mohamed Sanu. A surprise. |
+| RT @ezlazar: #Patriots notebook in thread form today: Cam is clearly the best QB on the team and gets better each day. Had his quickest rel… |
 
-The most popular user is: **Sharon_Lear**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari…</div>
+The most popular user is: **sanu_shaa**
+<div class="alert alert-block alert-danger"> RT @MatthewACherry: Chadwick was really out here shooting all of these huge action movies while fighting stage 4 colon cancer. Man. Strong…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JackPosobiec** |
-| #2 Most tweeted to  | **charliekirk11** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 3.89%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **RapSheet** |
+| #2 Most tweeted to  | **Mo_12_Sanu** |
+| #3 Most tweeted to  | **fayedsouza** |
+| NewProfiles (less than 10 days) | 1.49%  |
+| Tweeters with < 10 followers  | 4.17%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Sharon_Lear**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PELOSI**  |
-| second  | **SALON**  |
-| third  | **NANCY** |
-| fourth  | **HAIR**  |
-| fifth  | **SET**  |
+| first  | **SANU**  |
+| second  | **PATRIOTS**  |
+| third  | **MOHAMED** |
+| fourth  | **WR**  |
+| fifth  | **VETERAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (61.54%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (15.38%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Liz_Wheeler: Always a great look for an elitist Democrat politician like Nancy Pelosi to blame a single mother business owner... becaus… |
+|RT @RapSheet: Source: The #Patriots are releasing veteran WR Mohamed Sanu. A surprise. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sharon_Lear**  |
+| The most retweeted user is: **sanu_shaa**  |
 | ------------- |
-| RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari… |
+| RT @MatthewACherry: Chadwick was really out here shooting all of these huge action movies while fighting stage 4 colon cancer. Man. Strong… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
