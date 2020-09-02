@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kennedy"**
+&#x1F34E; **TOPIC = "Pelosi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BetoORourke: I’ve known Joe Kennedy as a friend, as a colleague in Congress and as a champion for the values we’re most proud of as Dem… |
-| RT @LCosmonaut647: Millenials are killing the Kennedy industry |
-| RT @johngizzi: Amended remarks: Defeat of Joe Kennedy in U.S. Senate primary by EdvMarkey is 1st for his family IN MASSACHUSETTS since grea… |
+| RT @LATiffani1: Salon owners should sue the Vodka laced Fixodent outta Pelosi’s wretched ass and her pet rock, Gavin Newsom too |
+| RT @Bakari_Sellers: Nancy Pelosi got a Dominican Blowout and Trumps 2016 campaign was a bastion of indictments. Stay focused. |
+| RT @KateHydeNY: Pelosi: "We all need to take responsibility"Also Pelosi: "I was set up" https://t.co/bwSm8pBDcM |
 
-The most popular user is: **Kennedy__Jeff**
-<div class="alert alert-block alert-danger"> RT @O_Dolly: i got these glasses so I can read laying down and I- https://t.co/jSvVDN5tFh</div>
+The most popular user is: **Sharon_Lear**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **LCosmonaut647** |
-| #3 Most tweeted to  | **Redistrict** |
-| NewProfiles (less than 10 days) | 1.04%  |
-| Tweeters with < 10 followers  | 3.03%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **JackPosobiec** |
+| #2 Most tweeted to  | **charliekirk11** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 3.89%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Kennedy__Jeff**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KENNEDY**  |
-| second  | **JOE**  |
-| third  | **MARKEY** |
-| fourth  | **PRIMARY**  |
-| fifth  | **MASSACHUSETTS**  |
+| first  | **PELOSI**  |
+| second  | **SALON**  |
+| third  | **NANCY** |
+| fourth  | **HAIR**  |
+| fifth  | **SET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (61.54%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (15.38%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LCosmonaut647: Millenials are killing the Kennedy industry |
+|RT @Liz_Wheeler: Always a great look for an elitist Democrat politician like Nancy Pelosi to blame a single mother business owner... becaus… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kennedy__Jeff**  |
+| The most retweeted user is: **Sharon_Lear**  |
 | ------------- |
-| RT @O_Dolly: i got these glasses so I can read laying down and I- https://t.co/jSvVDN5tFh |
+| RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
