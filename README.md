@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#InTrumpsAmerica"**
+&#x1F34E; **TOPIC = "Kennedy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Strandjunker: @mmpadellan #InTrumpsAmerica it’s easier to get a gun and kill some people than to get a coronavirus test and save some p… |
-| RT @Speed_Peete: @ReallyAmerican1 That’s how it looks like #InTrumpsAmerica https://t.co/zyHbpSBsZ3 |
-| RT @mmpadellan: #InTrumpsAmerica, people who kill because of damaged property are praised, but people who damage property because Blacks ar… |
+| RT @BetoORourke: I’ve known Joe Kennedy as a friend, as a colleague in Congress and as a champion for the values we’re most proud of as Dem… |
+| RT @LCosmonaut647: Millenials are killing the Kennedy industry |
+| RT @johngizzi: Amended remarks: Defeat of Joe Kennedy in U.S. Senate primary by EdvMarkey is 1st for his family IN MASSACHUSETTS since grea… |
 
-The most popular user is: **picklemonstern**
-<div class="alert alert-block alert-danger"> RT @ReallyAmerican1: We'll release our next video once we have 1,000 replies with the hashtag #InTrumpsAmerica</div>
+The most popular user is: **Kennedy__Jeff**
+<div class="alert alert-block alert-danger"> RT @O_Dolly: i got these glasses so I can read laying down and I- https://t.co/jSvVDN5tFh</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mmpadellan** |
-| #2 Most tweeted to  | **ReallyAmerican1** |
-| #3 Most tweeted to  | **chipfranklin** |
-| NewProfiles (less than 10 days) | 1.68%  |
-| Tweeters with < 10 followers  | 5.78%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **LCosmonaut647** |
+| #3 Most tweeted to  | **Redistrict** |
+| NewProfiles (less than 10 days) | 1.04%  |
+| Tweeters with < 10 followers  | 3.03%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **picklemonstern**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INTRUMPSAMERICA**  |
-| second  | **@MMPADELLAN:**  |
-| third  | **1000** |
-| fourth  | **REPLIES**  |
-| fifth  | **PEOPLE**  |
+| first  | **KENNEDY**  |
+| second  | **JOE**  |
+| third  | **MARKEY** |
+| fourth  | **PRIMARY**  |
+| fifth  | **MASSACHUSETTS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mmpadellan: #InTrumpsAmerica a 17 year old can drive across state lines with an AR-15, kill 2 people, and the asshole in the Oval Offic… |
+|RT @LCosmonaut647: Millenials are killing the Kennedy industry |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **picklemonstern**  |
+| The most retweeted user is: **Kennedy__Jeff**  |
 | ------------- |
-| RT @ReallyAmerican1: We'll release our next video once we have 1,000 replies with the hashtag #InTrumpsAmerica |
+| RT @O_Dolly: i got these glasses so I can read laying down and I- https://t.co/jSvVDN5tFh |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
