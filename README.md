@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "No Brexit"**
+&#x1F34E; **TOPIC = "Jay Cutler"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BookcaseTruth No Brexit mitigates the damage done by this shower of a "Government", insulates us from bad trade de… https://t.co/BO8WyFgtIR |
-| RT @taru_sisko: Come on @Conservatives rebels:You have all the power to destroy Johnson and Cummings.UK needs and wants No Brexit: no p… |
-| A No Deal Brexit would be a disaster for our economy and our NHS. I'm telling the government to say #No2NoDeal. Joi… https://t.co/kDNIeQhGJC |
+| RT @_nsmorgan: It makes sense that Jay Cutler is dating Tomi Lahren because 95% of his passes wound up going Far Right |
+| RT @Smoove2you_: Are we really surprised that jay cutler has bad decision making...... ask @stephenasmith 😂😂😂 |
+| RT @wyshynski: The Jay Cutler news today means it's time to revisit a top 5 tweet of all-time. https://t.co/O9an2SyPCM |
 
-The most popular user is: **AlanLewCh**
-<div class="alert alert-block alert-danger"> RT @t0mb16: I'm 16.
-
-I can't vote.
-
-I didn't have a say in the last referendum or GE, and my voice effectively counts for nothing.
-
-But I p…</div>
+The most popular user is: **FNFAngel**
+<div class="alert alert-block alert-danger"> RT @Austin_Vols: I want to buy a Jay Cutler jersey now https://t.co/iXF9YZK8GW</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **faisalislam** |
-| #2 Most tweeted to  | **BookcaseTruth** |
-| #3 Most tweeted to  | **nickreeves9876** |
-| NewProfiles (less than 10 days) | 0.29%  |
-| Tweeters with < 10 followers  | 2.11%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SourdeathSam** |
+| #2 Most tweeted to  | **_nsmorgan** |
+| #3 Most tweeted to  | **r__og** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 2.04%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -45,28 +39,28 @@ But I p…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BREXIT**  |
-| second  | **DEAL**  |
-| third  | **EU** |
-| fourth  | **UK**  |
-| fifth  | **TRADE**  |
+| first  | **WAIT**  |
+| second  | **JAY**  |
+| third  | **CUTLER** |
+| fourth  | **TOMI**  |
+| fifth  | **LAHREN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BestForBritain: "Those around Johnson are optimistic that if [the UK] can weather the first few months of no deal, talks might resume i… |
+|RT @SourdeathSam: Jay Cutler and Tomi Lahren in 30 years https://t.co/rA5PkGlcqR |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AlanLewCh**  |
+| The most retweeted user is: **FNFAngel**  |
 | ------------- |
-| RT @t0mb16: I'm 16.I can't vote.I didn't have a say in the last referendum or GE, and my voice effectively counts for nothing.But I p… |
+| RT @Austin_Vols: I want to buy a Jay Cutler jersey now https://t.co/iXF9YZK8GW |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
