@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RHOBH"**
+&#x1F34E; **TOPIC = "No Brexit"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KenyasWig: Someone HAS to tell these women that Denise doesn’t have to work to make them look bad. They do it to themselves every seaso… |
-| i missed the #RHOBH reunion but the tweets give me life 🤣 |
-| RT @trentclause: are we suppose to believe that kyle’s family talks about black lives matter at the dinner table #RHOBH  https://t.co/MZ0Au… |
+| @BookcaseTruth No Brexit mitigates the damage done by this shower of a "Government", insulates us from bad trade de… https://t.co/BO8WyFgtIR |
+| RT @taru_sisko: Come on @Conservatives rebels:You have all the power to destroy Johnson and Cummings.UK needs and wants No Brexit: no p… |
+| A No Deal Brexit would be a disaster for our economy and our NHS. I'm telling the government to say #No2NoDeal. Joi… https://t.co/kDNIeQhGJC |
 
-The most popular user is: **oldsoul369**
-<div class="alert alert-block alert-danger"> RT @EricMata: The true villain of RHOBH this season? The producers for thinking we would back Kyle, Rinna, and John mellencamp’s daughter o…</div>
+The most popular user is: **AlanLewCh**
+<div class="alert alert-block alert-danger"> RT @t0mb16: I'm 16.
+
+I can't vote.
+
+I didn't have a say in the last referendum or GE, and my voice effectively counts for nothing.
+
+But I p…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lisarinna** |
-| #2 Most tweeted to  | **BravoTV** |
-| #3 Most tweeted to  | **DENISE_RICHARDS** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 9.16%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **faisalislam** |
+| #2 Most tweeted to  | **BookcaseTruth** |
+| #3 Most tweeted to  | **nickreeves9876** |
+| NewProfiles (less than 10 days) | 0.29%  |
+| Tweeters with < 10 followers  | 2.11%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **oldsoul369**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RHOBH**  |
-| second  | **RINNA**  |
-| third  | **DENISE** |
-| fourth  | **GARCELLE**  |
-| fifth  | **ERIKA**  |
+| first  | **BREXIT**  |
+| second  | **DEAL**  |
+| third  | **EU** |
+| fourth  | **UK**  |
+| fifth  | **TRADE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Who the fuck styles Denise #RHOBH |
+|RT @BestForBritain: "Those around Johnson are optimistic that if [the UK] can weather the first few months of no deal, talks might resume i… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **oldsoul369**  |
+| The most retweeted user is: **AlanLewCh**  |
 | ------------- |
-| RT @EricMata: The true villain of RHOBH this season? The producers for thinking we would back Kyle, Rinna, and John mellencamp’s daughter o… |
+| RT @t0mb16: I'm 16.I can't vote.I didn't have a say in the last referendum or GE, and my voice effectively counts for nothing.But I p… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
