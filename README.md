@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pelosi"**
+&#x1F34E; **TOPIC = "#HiKai"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @CNNPolitics Pelosi won’t wear one either |
-| RT @DineshDSouza: .@PressSec made the media watch Nancy Pelosi walking into the closed salon on a loop today.It's incredibly satisfying t… |
-| RT @realDonaldTrump: Crazy Nancy Pelosi said she was “set up” by the beauty parlor owner when she improperly had the salon opened (and didn… |
+| RT @ChelseaFC: He’s here! Welcome to Chelsea, @KaiHavertz29! 🔵#HiKai 👋 |
+| RT @ogbeni_ceejay: From Ziyech to Timo Werner to Thiago Silva to Sarr to Chilwell now #Havertz. The way Chelsea are signing, may God not le… |
+| RT @ChelseaFCinUSA: .@kaihavertz29 and Stamford Bridge. That's it, that's the tweet. #HiKai https://t.co/Cjq9bCV7Nb |
 
-The most popular user is: **manamajef1673**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari…</div>
+The most popular user is: **abdbsth**
+<div class="alert alert-block alert-danger"> RT @ChelseaFC: He’s here! 
+
+Welcome to Chelsea, @KaiHavertz29! 🔵
+
+#HiKai 👋</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **PressSec** |
-| #3 Most tweeted to  | **Lrihendry** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 5.49%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **ChelseaFC** |
+| #2 Most tweeted to  | **kaihavertz29** |
+| #3 Most tweeted to  | **FabrizioRomano** |
+| NewProfiles (less than 10 days) | 0.63%  |
+| Tweeters with < 10 followers  | 4.07%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **manamajef1673**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PELOSI**  |
-| second  | **NANCY**  |
-| third  | **SALON** |
-| fourth  | **OWNER**  |
-| fifth  | **BEAUTY**  |
+| first  | **HIKAI**  |
+| second  | **@CHELSEAFC:**  |
+| third  | **CHELSEA** |
+| fourth  | **NEW**  |
+| fifth  | **@KAIHAVERTZ29!**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SteveHiltonx: the Pelosi story is not about her hairit's not even about her hypocrisy. we're used to thatit's about millions of Ame… |
+|RT @ChelseaFC: Nothing but praise. 👌 #HiKai https://t.co/cbSvHP59JX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **manamajef1673**  |
+| The most retweeted user is: **abdbsth**  |
 | ------------- |
-| RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari… |
+| RT @ChelseaFC: He’s here! Welcome to Chelsea, @KaiHavertz29! 🔵#HiKai 👋 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
