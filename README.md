@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jay Cutler"**
+&#x1F34E; **TOPIC = "Pelosi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @_nsmorgan: It makes sense that Jay Cutler is dating Tomi Lahren because 95% of his passes wound up going Far Right |
-| RT @Smoove2you_: Are we really surprised that jay cutler has bad decision making...... ask @stephenasmith 😂😂😂 |
-| RT @wyshynski: The Jay Cutler news today means it's time to revisit a top 5 tweet of all-time. https://t.co/O9an2SyPCM |
+| @CNNPolitics Pelosi won’t wear one either |
+| RT @DineshDSouza: .@PressSec made the media watch Nancy Pelosi walking into the closed salon on a loop today.It's incredibly satisfying t… |
+| RT @realDonaldTrump: Crazy Nancy Pelosi said she was “set up” by the beauty parlor owner when she improperly had the salon opened (and didn… |
 
-The most popular user is: **FNFAngel**
-<div class="alert alert-block alert-danger"> RT @Austin_Vols: I want to buy a Jay Cutler jersey now https://t.co/iXF9YZK8GW</div>
+The most popular user is: **manamajef1673**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SourdeathSam** |
-| #2 Most tweeted to  | **_nsmorgan** |
-| #3 Most tweeted to  | **r__og** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 2.04%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **PressSec** |
+| #3 Most tweeted to  | **Lrihendry** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 5.49%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **FNFAngel**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WAIT**  |
-| second  | **JAY**  |
-| third  | **CUTLER** |
-| fourth  | **TOMI**  |
-| fifth  | **LAHREN**  |
+| first  | **PELOSI**  |
+| second  | **NANCY**  |
+| third  | **SALON** |
+| fourth  | **OWNER**  |
+| fifth  | **BEAUTY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SourdeathSam: Jay Cutler and Tomi Lahren in 30 years https://t.co/rA5PkGlcqR |
+|RT @SteveHiltonx: the Pelosi story is not about her hairit's not even about her hypocrisy. we're used to thatit's about millions of Ame… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FNFAngel**  |
+| The most retweeted user is: **manamajef1673**  |
 | ------------- |
-| RT @Austin_Vols: I want to buy a Jay Cutler jersey now https://t.co/iXF9YZK8GW |
+| RT @realDonaldTrump: Crazy Nancy Pelosi is being decimated for having a beauty parlor opened, when all others are closed, and for not weari… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
