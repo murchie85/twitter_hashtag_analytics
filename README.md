@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HiKai"**
+&#x1F34E; **TOPIC = "Lakers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChelseaFC: He’s here! Welcome to Chelsea, @KaiHavertz29! 🔵#HiKai 👋 |
-| RT @ogbeni_ceejay: From Ziyech to Timo Werner to Thiago Silva to Sarr to Chilwell now #Havertz. The way Chelsea are signing, may God not le… |
-| RT @ChelseaFCinUSA: .@kaihavertz29 and Stamford Bridge. That's it, that's the tweet. #HiKai https://t.co/Cjq9bCV7Nb |
+| Weekend pod:- 60 minutes on the Bucks collapse- How this happened, who shares blame, and implications for the fut… https://t.co/KqSF5CsUyh |
+| RT @LakerFiles: Yup, Lakers in 5... https://t.co/AI9zpBRRt2 |
+| The Lakers better learn quickly. Too many turnovers, LeBron and AD are going to have to be better. The Rockets are… https://t.co/D3H5kMYOky |
 
-The most popular user is: **abdbsth**
-<div class="alert alert-block alert-danger"> RT @ChelseaFC: He’s here! 
-
-Welcome to Chelsea, @KaiHavertz29! 🔵
-
-#HiKai 👋</div>
+The most popular user is: **Lakers_sweet16**
+<div class="alert alert-block alert-danger"> RT @BarackObama: It might be Labor Day weekend, but let’s all remember that we're still in the middle of a pandemic. Wear a mask, practice…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChelseaFC** |
-| #2 Most tweeted to  | **kaihavertz29** |
-| #3 Most tweeted to  | **FabrizioRomano** |
-| NewProfiles (less than 10 days) | 0.63%  |
-| Tweeters with < 10 followers  | 4.07%|
+| #1 Most tweeted to  | **LakeShowYo** |
+| #2 Most tweeted to  | **Lakers** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.28%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -43,28 +39,28 @@ Welcome to Chelsea, @KaiHavertz29! 🔵
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HIKAI**  |
-| second  | **@CHELSEAFC:**  |
-| third  | **CHELSEA** |
-| fourth  | **NEW**  |
-| fifth  | **@KAIHAVERTZ29!**  |
+| first  | **LAKERS**  |
+| second  | **GAME**  |
+| third  | **HOUSTON** |
+| fourth  | **ROCKETS**  |
+| fifth  | **5**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ChelseaFC: Nothing but praise. 👌 #HiKai https://t.co/cbSvHP59JX |
+|RT @BleacherReport: Houston’s small ball proved too much for Bron and the Lakers 😂 https://t.co/wGaHPrsHGf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **abdbsth**  |
+| The most retweeted user is: **Lakers_sweet16**  |
 | ------------- |
-| RT @ChelseaFC: He’s here! Welcome to Chelsea, @KaiHavertz29! 🔵#HiKai 👋 |
+| RT @BarackObama: It might be Labor Day weekend, but let’s all remember that we're still in the middle of a pandemic. Wear a mask, practice… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
