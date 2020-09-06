@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Maya Jama"**
+&#x1F34E; **TOPIC = "Middleton"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AC3UTD: Stormzy trying to impress Maya Jama when he sees her in the standshttps://t.co/ua6glSTWZk |
-| RT @Aychceo: Chunkz after hearing Maya Jama saying all these nice things about him 😭😭😭😭 #SoccerAid https://t.co/qNTkz8lfWS |
-| Maya jama on #SoccerAid, not my proudest wank if I’m honest |
+| RT @LakeShowYo: God: you want waves or a 25ft pull-up?Khris Middleton: https://t.co/UO09hFY9EV |
+| RT @DrizzyKev: Khris Middleton tonight without Giannis https://t.co/MuZVB15cgB |
+| RT @BryMontana: @BleacherReport Miami Heat: “No Giannis, it’s over we got the sweep in the bag now”Khris Middleton: https://t.co/f7QwrNbs… |
 
-The most popular user is: **LostComposure**
-<div class="alert alert-block alert-danger"> RT @mo2montana: Stormzy after hearing Maya Jama's name in Drake's freestyle https://t.co/FfIFo72mpZ</div>
+The most popular user is: **ThatCaliSigma**
+<div class="alert alert-block alert-danger"> RT @SASBurnerAcct: Giannis watching Middleton in the locker room finally play like an All-Star https://t.co/DdcOo5mT6n</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Aychceo** |
-| #2 Most tweeted to  | **AfricanEliV2** |
-| #3 Most tweeted to  | **ReviloLDN_** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.33%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SASBurnerAcct** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **Bucks** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 3.37%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LostComposure**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAMA**  |
-| second  | **MAYA**  |
-| third  | **WATCHING** |
-| fourth  | **SOCCERAID**  |
-| fifth  | **AFTER**  |
+| first  | **MIDDLETON**  |
+| second  | **KHRIS**  |
+| third  | **GIANNIS** |
+| fourth  | **BUCKS**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ReviloLDN_: Me playing knowing Maya Jama is watching https://t.co/9Mzy8ypChC |
+|RT @stephenasmith: Major major props to @Khris22m and @EBled2 for saving the @Bucks season. I honestly didn’t think they would do it — or c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LostComposure**  |
+| The most retweeted user is: **ThatCaliSigma**  |
 | ------------- |
-| RT @mo2montana: Stormzy after hearing Maya Jama's name in Drake's freestyle https://t.co/FfIFo72mpZ |
+| RT @SASBurnerAcct: Giannis watching Middleton in the locker room finally play like an All-Star https://t.co/DdcOo5mT6n |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
