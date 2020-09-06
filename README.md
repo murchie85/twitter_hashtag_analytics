@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "croatia"**
+&#x1F34E; **TOPIC = "McCain"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ManCity: Joao Cancelo smashed in the first and @BernardoCSilva set up the third as Portugal ran riot 4-1 against Croatia in the #Nation… |
-| RT @brfootball: You won’t see a ball hit much harder than Cancelo’s goal against Croatia 🚀 https://t.co/pxcD3sDF4x |
-| #SpookyScarySunday @CoryxKenshin for the shogun himself. Have a great week. Love from Croatia! https://t.co/w0k2H98WHU |
+| RT @clairecmc: No question he was a draft dodger. No question he disrespected  a POW named John McCain because “he got caught”. He lies to… |
+| Amen. Not sure about the other only cause McCain wasn't right enough in the head to not be a patsy for the left. I… https://t.co/gU6gGKy03I |
+| RT @w_terrence: Yes President Trump attacked the late John McCain because John McCain attacked him so what did y’all expect? Trump respecte… |
 
-The most popular user is: **JimBrad85306390**
-<div class="alert alert-block alert-danger"> RT @NiggazWILIN: Bosnian niggas: i wanna swim 
-
-Croatia: no https://t.co/MnWle8OMGP</div>
+The most popular user is: **ray_mccain**
+<div class="alert alert-block alert-danger"> RT @heckingmexican: nothing will ever top this https://t.co/heoiZzquw3</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Squawka** |
-| #2 Most tweeted to  | **ManUnitedZone_** |
-| #3 Most tweeted to  | **utdreport** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 2.75%|
-| Tweeters with > 1000000 followers  | 0.31%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **JenGriffinFNC** |
+| #3 Most tweeted to  | **w_terrence** |
+| NewProfiles (less than 10 days) | 0.73%  |
+| Tweeters with < 10 followers  | 5.56%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ Croatia: no https://t.co/MnWle8OMGP</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CROATIA**  |
-| second  | **BRUNO**  |
-| third  | **FERNANDES** |
-| fourth  | **AGAINST**  |
-| fifth  | **PORTUGAL**  |
+| first  | **MCCAIN**  |
+| second  | **TRUMP**  |
+| third  | **JOHN** |
+| fourth  | **ATTACKED**  |
+| fifth  | **PRESIDENT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (38.46%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ManUnitedZone_: Bruno Fernandes first half vs Croatia1 Assist5 Key Passes84% pass accuracy 2/2 dribbled completed Magnifico 🎩 ht… |
+|RT @Roshan_Rinaldi: On the left: John McCain's sons.On the right: Donald Trump's sons.Any questions? https://t.co/hI93tDnx7W |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JimBrad85306390**  |
+| The most retweeted user is: **ray_mccain**  |
 | ------------- |
-| RT @NiggazWILIN: Bosnian niggas: i wanna swim Croatia: no https://t.co/MnWle8OMGP |
+| RT @heckingmexican: nothing will ever top this https://t.co/heoiZzquw3 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
