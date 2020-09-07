@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ocean Beach"**
+&#x1F34E; **TOPIC = "#PowerBook2"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @sfchronicle: More than 1,000 people gathered on Ocean Beach Saturday to celebrate the canceled Burning Man festival. Mayor London Breed… |
-| The Meridian luxury condominiums for sale, East Boca Raton.Walk to the beach! 1 N Ocean Blvd, Boca Raton, FL 3343… https://t.co/IpHMPNhc0K |
-| @benwilson1130 @NEWS1130 Correct me if I’m wrong, but I thought that in Canada, ocean front homes don’t include own… https://t.co/YE5lh3yw4r |
+| RT @LivingLikeJT: Tariq got mad at Ghost being with Angela and bro already got 3 girls in the first episode. #PowerGhost #PowerBook2 #Power… |
+| RT @_________Phalon: Now you know zeek got more followers then you lol 😂 why Tariq do him like that #PowerBook2 |
+| @50cent SALUTE 📽👁📽🎬🎼🍿🍫🍾🥂 #PowerBook2 https://t.co/9KL1kQf6dG |
 
-The most popular user is: **ItsLy_x**
-<div class="alert alert-block alert-danger"> RT @funforlouis: I got to witness a once in a lifetime phenomenon, bioluminescent algae appeared in the ocean and beaches in California. We…</div>
+The most popular user is: **she_mecc**
+<div class="alert alert-block alert-danger"> RT @ikeepit2hunnit: When I heard “They say this is a Big Rich Town” after 45 years of waiting... #PowerGhost #PowerBook2 #PowerTV https://t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LondonBreed** |
-| #2 Most tweeted to  | **harvardgraduat** |
-| #3 Most tweeted to  | **AfrozShah1** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **ikeepit2hunnit** |
+| #2 Most tweeted to  | **HavMarley** |
+| #3 Most tweeted to  | **realjustsmith** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 1.95%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ItsLy_x**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEACH**  |
-| second  | **OCEAN**  |
-| third  | **PEOPLE** |
-| fourth  | **BURNING**  |
-| fifth  | **MAN**  |
+| first  | **POWERBOOK2**  |
+| second  | **POWERGHOST**  |
+| third  | **1** |
+| fourth  | **TARIQ**  |
+| fifth  | **POWERBOOK2RT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RMac18: Burners throwing a party at Ocean Beach is the SF superspreading event this city has been waiting for. |
+|RT @nyalathan: Woodyyyy😍 #PowerBook2 #PowerGhost |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ItsLy_x**  |
+| The most retweeted user is: **she_mecc**  |
 | ------------- |
-| RT @funforlouis: I got to witness a once in a lifetime phenomenon, bioluminescent algae appeared in the ocean and beaches in California. We… |
+| RT @ikeepit2hunnit: When I heard “They say this is a Big Rich Town” after 45 years of waiting... #PowerGhost #PowerBook2 #PowerTV https://t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
