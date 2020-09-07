@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Middleton"**
+&#x1F34E; **TOPIC = "Djokovic"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LakeShowYo: God: you want waves or a 25ft pull-up?Khris Middleton: https://t.co/UO09hFY9EV |
-| RT @DrizzyKev: Khris Middleton tonight without Giannis https://t.co/MuZVB15cgB |
-| RT @BryMontana: @BleacherReport Miami Heat: “No Giannis, it’s over we got the sweep in the bag now”Khris Middleton: https://t.co/f7QwrNbs… |
+| RT @iresimpsonsfans: Novak Djokovic productions presents... https://t.co/3sR3BILKdP |
+| RT @Tennis: BREAKING: World No. 1 Novak Djokovic has been DEFAULTED from the #USOpen, during the first set of his match against Pablo Carre… |
+| RT @BenRothenberg: This amusingly crappy video is all I can find, a but a reminder that Novak Djokovic narrowly avoided a default for strik… |
 
-The most popular user is: **ThatCaliSigma**
-<div class="alert alert-block alert-danger"> RT @SASBurnerAcct: Giannis watching Middleton in the locker room finally play like an All-Star https://t.co/DdcOo5mT6n</div>
+The most popular user is: **Dragons0859**
+<div class="alert alert-block alert-danger"> RT @NFL_DovKleiman: Oh my god, Djokovic got disqualified from the US Open.
+
+https://t.co/yCo3Lqw0tg</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SASBurnerAcct** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **Bucks** |
-| NewProfiles (less than 10 days) | 0.47%  |
-| Tweeters with < 10 followers  | 3.37%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **usopen** |
+| #2 Most tweeted to  | **AwanishSharan** |
+| #3 Most tweeted to  | **NFL_DovKleiman** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 4.82%|
+| Tweeters with > 1000000 followers  | 0.63%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ThatCaliSigma**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MIDDLETON**  |
-| second  | **KHRIS**  |
-| third  | **GIANNIS** |
-| fourth  | **BUCKS**  |
-| fifth  | **GAME**  |
+| first  | **DJOKOVIC**  |
+| second  | **NOVAK**  |
+| third  | **US** |
+| fourth  | **AFTER**  |
+| fifth  | **OPEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @stephenasmith: Major major props to @Khris22m and @EBled2 for saving the @Bucks season. I honestly didn’t think they would do it — or c… |
+|What happened to djokovic could have happened to any sportsman/woman,It is a norm in sports, it isnt about you winning or losing, |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ThatCaliSigma**  |
+| The most retweeted user is: **Dragons0859**  |
 | ------------- |
-| RT @SASBurnerAcct: Giannis watching Middleton in the locker room finally play like an All-Star https://t.co/DdcOo5mT6n |
+| RT @NFL_DovKleiman: Oh my god, Djokovic got disqualified from the US Open.https://t.co/yCo3Lqw0tg |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
