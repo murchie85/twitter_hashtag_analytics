@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PowerBook2"**
+&#x1F34E; **TOPIC = "woojin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LivingLikeJT: Tariq got mad at Ghost being with Angela and bro already got 3 girls in the first episode. #PowerGhost #PowerBook2 #Power… |
-| RT @_________Phalon: Now you know zeek got more followers then you lol 😂 why Tariq do him like that #PowerBook2 |
-| @50cent SALUTE 📽👁📽🎬🎼🍿🍫🍾🥂 #PowerBook2 https://t.co/9KL1kQf6dG |
+| RT @MARKSFART: HOW IS WOOJIN NOT HERE WHEN HE IS THE ONE WHO MOLESTED THE OP? IT DOESN'T MAKE SENSE https://t.co/7wyg4Rr6s4 |
+| RT @allkpop: Many netizens question the legitimacy of Woojin's new "entertainment company" in light of the recent allegations of sexual har… |
+| RT @jiihung: IM ABOUT TO BEAT WOOJIN INTO ANOTHER DIMENSION. SOMEONE EITHER HOLD ME BACK OR JOIN ME |
 
-The most popular user is: **she_mecc**
-<div class="alert alert-block alert-danger"> RT @ikeepit2hunnit: When I heard “They say this is a Big Rich Town” after 45 years of waiting... #PowerGhost #PowerBook2 #PowerTV https://t…</div>
+The most popular user is: **agstxart**
+<div class="alert alert-block alert-danger"> RT @NE0CB97: red flags in woojin’s ‘statement’
+
+- called sexual assault accusations ‘weird rumours’
+-promoted his debut in the same sentenc…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ikeepit2hunnit** |
-| #2 Most tweeted to  | **HavMarley** |
-| #3 Most tweeted to  | **realjustsmith** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 1.95%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **wxnpillie** |
+| #2 Most tweeted to  | **LmVdxhVa0Mg** |
+| #3 Most tweeted to  | **ncityarea** |
+| NewProfiles (less than 10 days) | 2.8%  |
+| Tweeters with < 10 followers  | 10.21%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **she_mecc**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POWERBOOK2**  |
-| second  | **POWERGHOST**  |
-| third  | **1** |
-| fourth  | **TARIQ**  |
-| fifth  | **POWERBOOK2RT**  |
+| first  | **WOOJIN**  |
+| second  | **COMPANY**  |
+| third  | **FAKE** |
+| fourth  | **BLACKLISTED**  |
+| fifth  | **KICKED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nyalathan: Woodyyyy😍 #PowerBook2 #PowerGhost |
+|RT @yOhhCB: I CANT BREATHE, BOI WOOJIN MAde HIMSELF A (FAKE) ENTERTAINMENT, (10x ent ?????2!2!) THEN USED A FUNITURE STORE LOGO AS HIS AND… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **she_mecc**  |
+| The most retweeted user is: **agstxart**  |
 | ------------- |
-| RT @ikeepit2hunnit: When I heard “They say this is a Big Rich Town” after 45 years of waiting... #PowerGhost #PowerBook2 #PowerTV https://t… |
+| RT @NE0CB97: red flags in woojin’s ‘statement’- called sexual assault accusations ‘weird rumours’-promoted his debut in the same sentenc… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
