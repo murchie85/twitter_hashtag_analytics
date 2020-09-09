@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "woojin"**
+&#x1F34E; **TOPIC = "Blade Runner 2049"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MARKSFART: HOW IS WOOJIN NOT HERE WHEN HE IS THE ONE WHO MOLESTED THE OP? IT DOESN'T MAKE SENSE https://t.co/7wyg4Rr6s4 |
-| RT @allkpop: Many netizens question the legitimacy of Woojin's new "entertainment company" in light of the recent allegations of sexual har… |
-| RT @jiihung: IM ABOUT TO BEAT WOOJIN INTO ANOTHER DIMENSION. SOMEONE EITHER HOLD ME BACK OR JOIN ME |
+| RT @Klee_FilmReview: It is LITERALLY Blade Runner 2049 in California right now. https://t.co/FAggbTQeNB |
+| RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU |
+| RT @LumpyTheCook: I still remember when people complained that the Vegas desert scene in Blade Runner 2049 was "unrealistically filtered to… |
 
-The most popular user is: **agstxart**
-<div class="alert alert-block alert-danger"> RT @NE0CB97: red flags in woojin’s ‘statement’
-
-- called sexual assault accusations ‘weird rumours’
--promoted his debut in the same sentenc…</div>
+The most popular user is: **NAMSEOKFATTITTY**
+<div class="alert alert-block alert-danger"> RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wxnpillie** |
-| #2 Most tweeted to  | **LmVdxhVa0Mg** |
-| #3 Most tweeted to  | **ncityarea** |
-| NewProfiles (less than 10 days) | 2.8%  |
-| Tweeters with < 10 followers  | 10.21%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **anaisisdrawing** |
+| #2 Most tweeted to  | **Klee_FilmReview** |
+| #3 Most tweeted to  | **chr1sa** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 3.12%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -42,28 +39,28 @@ The most popular user is: **agstxart**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WOOJIN**  |
-| second  | **COMPANY**  |
-| third  | **FAKE** |
-| fourth  | **BLACKLISTED**  |
-| fifth  | **KICKED**  |
+| first  | **RUNNER**  |
+| second  | **BLADE**  |
+| third  | **2049** |
+| fourth  | **AREA**  |
+| fifth  | **SAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @yOhhCB: I CANT BREATHE, BOI WOOJIN MAde HIMSELF A (FAKE) ENTERTAINMENT, (10x ent ?????2!2!) THEN USED A FUNITURE STORE LOGO AS HIS AND… |
+|@flamester @biobot Hot take: Blade Runner 2049 is better than Blade Runner https://t.co/z8lnbWW4JP |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **agstxart**  |
+| The most retweeted user is: **NAMSEOKFATTITTY**  |
 | ------------- |
-| RT @NE0CB97: red flags in woojin’s ‘statement’- called sexual assault accusations ‘weird rumours’-promoted his debut in the same sentenc… |
+| RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
