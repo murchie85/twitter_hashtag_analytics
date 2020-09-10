@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chiefs"**
+&#x1F34E; **TOPIC = "Kacey"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Chiefs Kingdom! I'm taking Patrick Mahomes and the Kansas City Chiefs. |
-| @smabeaudette @PatrickMahomes Same. Having the Chiefs and Raptors win within 8 months of each other was amazing. Jays up next! |
-| Haven’t been active. Had some family troubles and work stuff going on. I’m back and dropping 1 play tonight and a f… https://t.co/3lCjnwmSXr |
+| RT @honeybottIe: in loving memory of kacey, here are her numerous background changes throughout loh https://t.co/nTcqqMqcT3 |
+| RT @marcysdreaming: KACEY IS PREPARED  !!!THIS GIRL IS CARRYING!!!!!!!! |
+| RT @hannernotfound: IM SORRY WHAT WHY IS KACEY SAFE- |
 
-The most popular user is: **Chiefs_Kingdom_**
-<div class="alert alert-block alert-danger"> RT @JoeBiden: Donald Trump said he didn't want to tell the truth and create a panic. So he did nothing and created a disaster.</div>
+The most popular user is: **vicky_whedbee**
+<div class="alert alert-block alert-danger"> RT @KaceyKells: KELLCEY "This story not only bears witness to what countless other women have gone through, but also offers a message of ho…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Chiefs** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **HoustonTexans** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 5.32%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **bedtimetwt** |
+| #2 Most tweeted to  | **Punztw** |
+| #3 Most tweeted to  | **nathansmokee** |
+| NewProfiles (less than 10 days) | 4.94%  |
+| Tweeters with < 10 followers  | 15.64%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Chiefs_Kingdom_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHIEFS**  |
-| second  | **TONIGHT**  |
-| third  | **@CHIEFS** |
-| fourth  | **TEXANS**  |
-| fifth  | **NFL**  |
+| first  | **KACEY**  |
+| second  | **SHOW**  |
+| third  | **IM** |
+| fourth  | **REALLY**  |
+| fifth  | **LOVE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Here are the candidates believed to be in the running for the vacant Kaizer Chiefs coach post: https://t.co/9IiPJUDu38 |
+|@dreamwastaken2 Are we just gonna ignore Kacey 😮 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Chiefs_Kingdom_**  |
+| The most retweeted user is: **vicky_whedbee**  |
 | ------------- |
-| RT @JoeBiden: Donald Trump said he didn't want to tell the truth and create a panic. So he did nothing and created a disaster. |
+| RT @KaceyKells: KELLCEY "This story not only bears witness to what countless other women have gone through, but also offers a message of ho… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
