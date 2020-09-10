@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Blade Runner 2049"**
+&#x1F34E; **TOPIC = "Kyle"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Klee_FilmReview: It is LITERALLY Blade Runner 2049 in California right now. https://t.co/FAggbTQeNB |
-| RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU |
-| RT @LumpyTheCook: I still remember when people complained that the Vegas desert scene in Blade Runner 2049 was "unrealistically filtered to… |
+| RT @JoeyARamirez: Lakers are shooting 79.5% (!) in the restricted area this series, including: - Anthony Davis: 17-of-19- LeBron James:… |
+| RT @JoelEmbiid: Kyle Lowry is not appreciated as he should be #Winner |
+| RT @william_lou: most intense game of the year and kyle lowry doing this lmaooooo https://t.co/6fh5XRd1R0 |
 
-The most popular user is: **NAMSEOKFATTITTY**
-<div class="alert alert-block alert-danger"> RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU</div>
+The most popular user is: **Taufiqsaab**
+<div class="alert alert-block alert-danger"> RT @IllerPartigiano: Most people completely missing this part. People like Kyle become the soldiers, the police, the judges, the bosses...</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **anaisisdrawing** |
-| #2 Most tweeted to  | **Klee_FilmReview** |
-| #3 Most tweeted to  | **chr1sa** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 3.12%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **Raptors** |
+| #2 Most tweeted to  | **ComplexSports** |
+| #3 Most tweeted to  | **JoelEmbiid** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 5.08%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **NAMSEOKFATTITTY**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RUNNER**  |
-| second  | **BLADE**  |
-| third  | **2049** |
-| fourth  | **AREA**  |
-| fifth  | **SAN**  |
+| first  | **KYLE**  |
+| second  | **LOWRY**  |
+| third  | **GAME** |
+| fourth  | **6**  |
+| fifth  | **@RAPTORS:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (7.14%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@flamester @biobot Hot take: Blade Runner 2049 is better than Blade Runner https://t.co/z8lnbWW4JP |
+|@yunggcharless @amreii_ So it’s not okay for Kyle to break the law to do what he believes in, but it’s okay for ant… https://t.co/bvNZwPbB3E |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NAMSEOKFATTITTY**  |
+| The most retweeted user is: **Taufiqsaab**  |
 | ------------- |
-| RT @anaisisdrawing: left: san francisco/bay area rn          right: blade runner 2049 https://t.co/52JPRuHIBU |
+| RT @IllerPartigiano: Most people completely missing this part. People like Kyle become the soldiers, the police, the judges, the bosses... |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
