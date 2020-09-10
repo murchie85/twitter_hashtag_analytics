@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kyle"**
+&#x1F34E; **TOPIC = "Chiefs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JoeyARamirez: Lakers are shooting 79.5% (!) in the restricted area this series, including: - Anthony Davis: 17-of-19- LeBron James:… |
-| RT @JoelEmbiid: Kyle Lowry is not appreciated as he should be #Winner |
-| RT @william_lou: most intense game of the year and kyle lowry doing this lmaooooo https://t.co/6fh5XRd1R0 |
+| Chiefs Kingdom! I'm taking Patrick Mahomes and the Kansas City Chiefs. |
+| @smabeaudette @PatrickMahomes Same. Having the Chiefs and Raptors win within 8 months of each other was amazing. Jays up next! |
+| Haven’t been active. Had some family troubles and work stuff going on. I’m back and dropping 1 play tonight and a f… https://t.co/3lCjnwmSXr |
 
-The most popular user is: **Taufiqsaab**
-<div class="alert alert-block alert-danger"> RT @IllerPartigiano: Most people completely missing this part. People like Kyle become the soldiers, the police, the judges, the bosses...</div>
+The most popular user is: **Chiefs_Kingdom_**
+<div class="alert alert-block alert-danger"> RT @JoeBiden: Donald Trump said he didn't want to tell the truth and create a panic. So he did nothing and created a disaster.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Raptors** |
-| #2 Most tweeted to  | **ComplexSports** |
-| #3 Most tweeted to  | **JoelEmbiid** |
-| NewProfiles (less than 10 days) | 0.82%  |
-| Tweeters with < 10 followers  | 5.08%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **Chiefs** |
+| #2 Most tweeted to  | **NFL** |
+| #3 Most tweeted to  | **HoustonTexans** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 5.32%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Taufiqsaab**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KYLE**  |
-| second  | **LOWRY**  |
-| third  | **GAME** |
-| fourth  | **6**  |
-| fifth  | **@RAPTORS:**  |
+| first  | **CHIEFS**  |
+| second  | **TONIGHT**  |
+| third  | **@CHIEFS** |
+| fourth  | **TEXANS**  |
+| fifth  | **NFL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (7.14%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (57.14%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@yunggcharless @amreii_ So it’s not okay for Kyle to break the law to do what he believes in, but it’s okay for ant… https://t.co/bvNZwPbB3E |
+|Here are the candidates believed to be in the running for the vacant Kaizer Chiefs coach post: https://t.co/9IiPJUDu38 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Taufiqsaab**  |
+| The most retweeted user is: **Chiefs_Kingdom_**  |
 | ------------- |
-| RT @IllerPartigiano: Most people completely missing this part. People like Kyle become the soldiers, the police, the judges, the bosses... |
+| RT @JoeBiden: Donald Trump said he didn't want to tell the truth and create a panic. So he did nothing and created a disaster. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
