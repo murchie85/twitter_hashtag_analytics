@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kacey"**
+&#x1F34E; **TOPIC = "#HappyBirthdayNamjoon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @honeybottIe: in loving memory of kacey, here are her numerous background changes throughout loh https://t.co/nTcqqMqcT3 |
-| RT @marcysdreaming: KACEY IS PREPARED  !!!THIS GIRL IS CARRYING!!!!!!!! |
-| RT @hannernotfound: IM SORRY WHAT WHY IS KACEY SAFE- |
+| RT @setiogi: 7️⃣ Encourage others.“It’s been a strange year so far, but you made it. Today we might not have flowers, graduation caps.Wh… |
+| Happy birthday our Leader 💜🥺 Wish you all the best 🥺 Love You ❤️#HappyBirthdayNamjoon #NamjoonDay… https://t.co/Q95Eu1790n |
+| RT @Strawberries321: "If RM hyung wasn't around, there wouldn't be any bangtan either"- Taehyung#HappyBirthdayNamjoon#NamjoonDayhttps://… |
 
-The most popular user is: **vicky_whedbee**
-<div class="alert alert-block alert-danger"> RT @KaceyKells: KELLCEY "This story not only bears witness to what countless other women have gone through, but also offers a message of ho…</div>
+The most popular user is: **Gkst0709**
+<div class="alert alert-block alert-danger"> RT @unicefchief: #HappyBirthdayNamjoon!
+
+Thank you for all that you and @BTS_twt do to support young people around the world. https://t.co/…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bedtimetwt** |
-| #2 Most tweeted to  | **Punztw** |
-| #3 Most tweeted to  | **nathansmokee** |
-| NewProfiles (less than 10 days) | 4.94%  |
-| Tweeters with < 10 followers  | 15.64%|
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **unicefchief** |
+| #3 Most tweeted to  | **Randomsplashes** |
+| NewProfiles (less than 10 days) | 1.01%  |
+| Tweeters with < 10 followers  | 11.27%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **vicky_whedbee**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KACEY**  |
-| second  | **SHOW**  |
-| third  | **IM** |
-| fourth  | **REALLY**  |
-| fifth  | **LOVE**  |
+| first  | **HAPPYBIRTHDAYNAMJOON**  |
+| second  | **BIRTHDAY**  |
+| third  | **HAPPY** |
+| fourth  | **NAMJOONDAY**  |
+| fifth  | **@BTS_TWT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@dreamwastaken2 Are we just gonna ignore Kacey 😮 |
+|JOON DAY !! 💗🐨#HappyBirthdayNamjoon #RMBestLeader |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **vicky_whedbee**  |
+| The most retweeted user is: **Gkst0709**  |
 | ------------- |
-| RT @KaceyKells: KELLCEY "This story not only bears witness to what countless other women have gone through, but also offers a message of ho… |
+| RT @unicefchief: #HappyBirthdayNamjoon!Thank you for all that you and @BTS_twt do to support young people around the world. https://t.co/… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
