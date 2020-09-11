@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HappyBirthdayNamjoon"**
+&#x1F34E; **TOPIC = "#WhoWantsToBeAMillionaire"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @setiogi: 7️⃣ Encourage others.“It’s been a strange year so far, but you made it. Today we might not have flowers, graduation caps.Wh… |
-| Happy birthday our Leader 💜🥺 Wish you all the best 🥺 Love You ❤️#HappyBirthdayNamjoon #NamjoonDay… https://t.co/Q95Eu1790n |
-| RT @Strawberries321: "If RM hyung wasn't around, there wouldn't be any bangtan either"- Taehyung#HappyBirthdayNamjoon#NamjoonDayhttps://… |
+| Congratulations Donald fear. What an achievement! @JeremyClarkson #WhoWantsToBeAMillionaire |
+| This guy is gonna win a million #WhoWantsToBeAMillionaire |
+| Told you ........ well at least she has a grand to spend on chips &amp; beer in the student union… https://t.co/XRk1qoQbFS |
 
-The most popular user is: **Gkst0709**
-<div class="alert alert-block alert-danger"> RT @unicefchief: #HappyBirthdayNamjoon!
-
-Thank you for all that you and @BTS_twt do to support young people around the world. https://t.co/…</div>
+The most popular user is: **Andrew_Clarke91**
+<div class="alert alert-block alert-danger"> RT @MillionaireUK: 🙌👏 DONALD FEAR… YOU HAVE JUST WON A MILLION POUNDS! 👏🙌 #WhoWantsToBeAMillionaire https://t.co/YNiesI1jCm</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **unicefchief** |
-| #3 Most tweeted to  | **Randomsplashes** |
-| NewProfiles (less than 10 days) | 1.01%  |
-| Tweeters with < 10 followers  | 11.27%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MillionaireUK** |
+| #2 Most tweeted to  | **JeremyClarkson** |
+| #3 Most tweeted to  | **StellifyMedia** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 4.15%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -41,28 +39,28 @@ Thank you for all that you and @BTS_twt do to support young people around the wo
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAPPYBIRTHDAYNAMJOON**  |
-| second  | **BIRTHDAY**  |
-| third  | **HAPPY** |
-| fourth  | **NAMJOONDAY**  |
-| fifth  | **@BTS_TWT**  |
+| first  | **WHOWANTSTOBEAMILLIONAIRE**  |
+| second  | **MILLION**  |
+| third  | **DONALD** |
+| fourth  | **@MILLIONAIREUK:**  |
+| fifth  | **WON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|JOON DAY !! 💗🐨#HappyBirthdayNamjoon #RMBestLeader |
+|This geezer is like the Messi of quiz shows! #WhoWantsToBeAMillionaire |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gkst0709**  |
+| The most retweeted user is: **Andrew_Clarke91**  |
 | ------------- |
-| RT @unicefchief: #HappyBirthdayNamjoon!Thank you for all that you and @BTS_twt do to support young people around the world. https://t.co/… |
+| RT @MillionaireUK: 🙌👏 DONALD FEAR… YOU HAVE JUST WON A MILLION POUNDS! 👏🙌 #WhoWantsToBeAMillionaire https://t.co/YNiesI1jCm |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
