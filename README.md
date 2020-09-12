@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DCFanDome"**
+&#x1F34E; **TOPIC = "#NeverForget"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I think like some employees of Detective Comics Comics told me there was going to be comic content at #DCFANDOME bu… https://t.co/4zIE9eB4RL |
-| RT @thedcnation: #DCFanDome is happening right now and you can watch "Mostly DCeased" with @TomTaylorMade, Trevor Hairsine, @Kamo_1981, @je… |
-| RT @HarleyMovieNews: Margot Robbie says she still feels like she’s only scratched the surface of Harley Quinn as a character on the big scr… |
+| RT @redfishstream: On 9/11, we remember a terrible crime. An attack which resulted in the deaths of thousands and a reign of terror. Never… |
+| RT @cjtruth: This was @realDonaldTrump giving an interview on the morning of September 11th, 2001. Trump knows...he always knows.  #Remembe… |
+| RT @funder: Here’s video of @realDonaldTrump claiming he helped look for survivors &amp; clear rubble on 9/11. He didn't. He was lying. #NeverF… |
 
-The most popular user is: **ClunkSpider**
-<div class="alert alert-block alert-danger"> RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA</div>
+The most popular user is: **wowitsprasad**
+<div class="alert alert-block alert-danger"> RT @coherentstates: On this September 11th we commemorate the third anniversary of Ted Cruz liking porn on main #NeverForget https://t.co/K…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DCComics** |
-| #2 Most tweeted to  | **getFANDOM** |
-| #3 Most tweeted to  | **ZackSnyderBible** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.6%|
-| Tweeters with > 1000000 followers  | 0.45%  |
+| #1 Most tweeted to  | **MarkGeistSWP** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **CaslerNoel** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 4.57%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ClunkSpider**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DCFANDOME**  |
-| second  | **NEW**  |
-| third  | **PANEL** |
-| fourth  | **JUSTICE**  |
-| fifth  | **@GETFANDOM:**  |
+| first  | **NEVERFORGET**  |
+| second  | **9/11**  |
+| third  | **MORNING** |
+| fourth  | **LAST**  |
+| fifth  | **DEAD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @xfreakingfray: Waiting to see if we have news from #GreenArrowandtheCanaries at #DCFanDome...I'm kinda nervous. We need it to be picked… |
+|RT @USAmbUN: No one will ever forget the tragedy &amp; terror of 9/11, nor will we forget the heroism &amp; patriotism that followed. My thoughts t… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ClunkSpider**  |
+| The most retweeted user is: **wowitsprasad**  |
 | ------------- |
-| RT @TheBatman: Robert Pattinson is #TheBatman. Watch the #DCFandome Teaser Trailer now. https://t.co/vhRXE7YlCA |
+| RT @coherentstates: On this September 11th we commemorate the third anniversary of Ted Cruz liking porn on main #NeverForget https://t.co/K… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
