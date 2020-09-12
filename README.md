@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WhoWantsToBeAMillionaire"**
+&#x1F34E; **TOPIC = "#NeverForget"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Congratulations Donald fear. What an achievement! @JeremyClarkson #WhoWantsToBeAMillionaire |
-| This guy is gonna win a million #WhoWantsToBeAMillionaire |
-| Told you ........ well at least she has a grand to spend on chips &amp; beer in the student union… https://t.co/XRk1qoQbFS |
+| RT @DeanaMartin_: Remembering the victims #NeverForget 🇺🇲 https://t.co/u662CauKwQ |
+| RT @MatthewFoldi: Never bet against America; you’ll lose every time #NeverForget 🇺🇸 https://t.co/SFHUPpBpM9 |
+| RT @NATO: NATO will #neverforget #September11 https://t.co/rgTgDervab |
 
-The most popular user is: **Andrew_Clarke91**
-<div class="alert alert-block alert-danger"> RT @MillionaireUK: 🙌👏 DONALD FEAR… YOU HAVE JUST WON A MILLION POUNDS! 👏🙌 #WhoWantsToBeAMillionaire https://t.co/YNiesI1jCm</div>
+The most popular user is: **JackCosgrove11**
+<div class="alert alert-block alert-danger"> RT @coherentstates: On this September 11th we commemorate the third anniversary of Ted Cruz liking porn on main #NeverForget https://t.co/K…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MillionaireUK** |
-| #2 Most tweeted to  | **JeremyClarkson** |
-| #3 Most tweeted to  | **StellifyMedia** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 4.15%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **funder** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **RudyGiuliani** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 5.31%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Andrew_Clarke91**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WHOWANTSTOBEAMILLIONAIRE**  |
-| second  | **MILLION**  |
-| third  | **DONALD** |
-| fourth  | **@MILLIONAIREUK:**  |
-| fifth  | **WON**  |
+| first  | **NEVERFORGET**  |
+| second  | **9/11**  |
+| third  | **LOST** |
+| fourth  | **SEPTEMBER**  |
+| fifth  | **LIVES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|This geezer is like the Messi of quiz shows! #WhoWantsToBeAMillionaire |
+|RT @SInow: Volunteer firefighter Mike Bruno climbs 110 flights every year to honor the firefighters who lost their lives at the World Trade… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Andrew_Clarke91**  |
+| The most retweeted user is: **JackCosgrove11**  |
 | ------------- |
-| RT @MillionaireUK: 🙌👏 DONALD FEAR… YOU HAVE JUST WON A MILLION POUNDS! 👏🙌 #WhoWantsToBeAMillionaire https://t.co/YNiesI1jCm |
+| RT @coherentstates: On this September 11th we commemorate the third anniversary of Ted Cruz liking porn on main #NeverForget https://t.co/K… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
