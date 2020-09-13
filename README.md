@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Compton"**
+&#x1F34E; **TOPIC = "Wentz"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @themetskipper: Two police officers ambushed in #LA Both critical. Protestors now blocking the Hosptial emergency room yelling ‘We hope… |
-| RT @stillgray: This is the scene where two police officers were ambushed in Compton. Both officers were shot in the head.  https://t.co/Zoc… |
-| RT @stillgray: This is the scene where two police officers were ambushed in Compton. Both officers were shot in the head.  https://t.co/Zoc… |
+| RT @kevinsheehanDC: Defense totally dominated after 17-nothing. Next 10 drives #Eagles zero pts, 93 yds, 1-8 on 3rd downs. @WashingtonNFL h… |
+| RT @Kelly_K_9: Keep that same energy next time you put my QB Dak Prescott’s name in your mouth!! You STAY on Wentz nuts like a jock strap! |
+| Wentz got sacked 8 times lmao |
 
-The most popular user is: **spine_time**
-<div class="alert alert-block alert-danger"> RT @cupofkeyshae: That chemical spill in Compton should be making bigger headlines. Very clear example of the lack of environmental protect…</div>
+The most popular user is: **lolarsystem**
+<div class="alert alert-block alert-danger"> RT @AdamSchefter: MRI showed that Eagles’ QB and NFL MVP candidate Carson Wentz did tear his ACL. Wentz is our for season.
+
+Nick Foles time.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LASDHQ** |
-| #2 Most tweeted to  | **RealJamesWoods** |
-| #3 Most tweeted to  | **Breaking911** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 3.5%|
+| #1 Most tweeted to  | **Eagles** |
+| #2 Most tweeted to  | **cj_wentz** |
+| #3 Most tweeted to  | **Ike58Reese** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 5.16%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **spine_time**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **2**  |
-| second  | **COMPTON**  |
-| third  | **HOSPITAL** |
-| fourth  | **HOPE**  |
-| fifth  | **PROTESTERS**  |
+| first  | **WENTZ**  |
+| second  | **CARSON**  |
+| third  | **EAGLES** |
+| fourth  | **TEAM**  |
+| fifth  | **LINE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @latimes: Two L.A. County sheriff’s deputies shot, gravely injured in Compton near Blue Line stationhttps://t.co/FBXT8zSJHF |
+|@Ike58Reese Oh man Ike, wentz hanging on the ball too long against a good d line and bad o line. Forcing two bad th… https://t.co/Wj6oIDWTDX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **spine_time**  |
+| The most retweeted user is: **lolarsystem**  |
 | ------------- |
-| RT @cupofkeyshae: That chemical spill in Compton should be making bigger headlines. Very clear example of the lack of environmental protect… |
+| RT @AdamSchefter: MRI showed that Eagles’ QB and NFL MVP candidate Carson Wentz did tear his ACL. Wentz is our for season.Nick Foles time. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
