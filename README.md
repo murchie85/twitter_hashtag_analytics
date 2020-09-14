@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Verzuz"**
+&#x1F34E; **TOPIC = "Jimmy G"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MzGossipGirl: #Verzuz trending over the NFL tho... please don’t ever let anyone tell you Black women don’t move the world!! |
-| RT @Vince_Aries: I love that Dionne, Gladys, and Patti are ALWAYS holding each other down. #Verzuz salute our legends. Glad they getting th… |
-| RT @jemelehill: I was so triggered when Gladys said WHATCHALL DOING OVER THERE #Verzuz |
+| @49erswebzone I think Shanahan and Lynch have never got pressed or anything.They both got guaranteed 6 yr deals off… https://t.co/5mf4eOCbYq |
+| RT @DVSWhatItTweets: Jimmy G trying to avoid the sack https://t.co/do5pfXm4F0 |
+| JIMMY G HAD A TERRIBLE GAME. MISSED ALOT OF WIDE WIDE OPEN TARGETS. COULDNT GENERATE MUCH PRESSURE. COULDNT COVER H… https://t.co/T2zJwrNSBA |
 
-The most popular user is: **tonylove63**
-<div class="alert alert-block alert-danger"> RT @SinnamonS: Ready for the vibes on Sunday! #Verzuz 
-https://t.co/70B5p7h0Do</div>
+The most popular user is: **g_06_chevy**
+<div class="alert alert-block alert-danger"> RT @BleacherReport: Jimmy Butler turns 31 today.
+
+He was never supposed to be here 💯 @brhoops https://t.co/D4f3QIhy5L</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LUXURY0RNOTHING** |
-| #2 Most tweeted to  | **MsPattiPatti** |
-| #3 Most tweeted to  | **Phil_Lewis_** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 1.59%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **big_business_** |
+| #2 Most tweeted to  | **JimmyButler** |
+| #3 Most tweeted to  | **NBA** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 3.54%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -40,28 +41,28 @@ https://t.co/70B5p7h0Do</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VERZUZ**  |
-| second  | **GLADYS**  |
-| third  | **PATTI** |
-| fourth  | **KNIGHT**  |
-| fifth  | **LABELLE**  |
+| first  | **G**  |
+| second  | **JIMMY**  |
+| third  | **BRADY** |
+| fourth  | **TOM**  |
+| fifth  | **LOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JC_Verbs: this #Verzuz got the brothas talking about starting two families on a General Motors salary. |
+|RT @A1palma: JIMMY G PLAYED TERRRIBLE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tonylove63**  |
+| The most retweeted user is: **g_06_chevy**  |
 | ------------- |
-| RT @SinnamonS: Ready for the vibes on Sunday! #Verzuz https://t.co/70B5p7h0Do |
+| RT @BleacherReport: Jimmy Butler turns 31 today.He was never supposed to be here 💯 @brhoops https://t.co/D4f3QIhy5L |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
