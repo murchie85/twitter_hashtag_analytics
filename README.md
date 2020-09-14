@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TBvsNO"**
+&#x1F34E; **TOPIC = "#Verzuz"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| TB 7x24 NO #TBvsNO #GoBucs #Saints #NFL #NFLnaESPN |
-| RT @TDExperience: No bueno. Definitely a miscommunication between Brady and Evans there. #GoBucs #TBvsNO |
-| #TBvsNO last year #Saints swept #Buccaneers |
+| RT @MzGossipGirl: #Verzuz trending over the NFL tho... please don’t ever let anyone tell you Black women don’t move the world!! |
+| RT @Vince_Aries: I love that Dionne, Gladys, and Patti are ALWAYS holding each other down. #Verzuz salute our legends. Glad they getting th… |
+| RT @jemelehill: I was so triggered when Gladys said WHATCHALL DOING OVER THERE #Verzuz |
 
-The most popular user is: **BrianHHough**
-<div class="alert alert-block alert-danger"> RT @Saints: ⬛️ Week 1: Black jerseys, black pants ⬛️
-
-@EAMaddenNFL | #TBvsNO https://t.co/iYrfSecoxM</div>
+The most popular user is: **tonylove63**
+<div class="alert alert-block alert-danger"> RT @SinnamonS: Ready for the vibes on Sunday! #Verzuz 
+https://t.co/70B5p7h0Do</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NFL** |
-| #2 Most tweeted to  | **Saints** |
-| #3 Most tweeted to  | **Buccaneers** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 3.99%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **LUXURY0RNOTHING** |
+| #2 Most tweeted to  | **MsPattiPatti** |
+| #3 Most tweeted to  | **Phil_Lewis_** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 1.59%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +40,28 @@ The most popular user is: **BrianHHough**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TBVSNO**  |
-| second  | **📺:**  |
-| third  | **APP** |
-| fourth  | **FOX**  |
-| fifth  | **GOBUCS**  |
+| first  | **VERZUZ**  |
+| second  | **GLADYS**  |
+| third  | **PATTI** |
+| fourth  | **KNIGHT**  |
+| fifth  | **LABELLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Kamara takes a catch out of the backfield to the house! 7-7 #GoBucs  #TBvsNO |
+|RT @JC_Verbs: this #Verzuz got the brothas talking about starting two families on a General Motors salary. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BrianHHough**  |
+| The most retweeted user is: **tonylove63**  |
 | ------------- |
-| RT @Saints: ⬛️ Week 1: Black jerseys, black pants ⬛️@EAMaddenNFL | #TBvsNO https://t.co/iYrfSecoxM |
+| RT @SinnamonS: Ready for the vibes on Sunday! #Verzuz https://t.co/70B5p7h0Do |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
