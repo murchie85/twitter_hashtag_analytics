@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jimmy G"**
+&#x1F34E; **TOPIC = "Stars"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @49erswebzone I think Shanahan and Lynch have never got pressed or anything.They both got guaranteed 6 yr deals off… https://t.co/5mf4eOCbYq |
-| RT @DVSWhatItTweets: Jimmy G trying to avoid the sack https://t.co/do5pfXm4F0 |
-| JIMMY G HAD A TERRIBLE GAME. MISSED ALOT OF WIDE WIDE OPEN TARGETS. COULDNT GENERATE MUCH PRESSURE. COULDNT COVER H… https://t.co/T2zJwrNSBA |
+| RT @sbsmtvtheshow: [★Ep.238 THE SHOW Choice Nominee ③] YooA beauty is like the moon glowing in the  dark.🌙YooA eyes shine brighter than… |
+| RT @backt0nature: This blind pup just discovered a puddle he can play in! 😭🐶 This is best thing I've seen today.. https://t.co/hkmWAGfOdc |
+| Y’all be reaching for the fucking stars lmao goddamn jokes are jokes ppl wtf folks are really extra sensitive nowad… https://t.co/VpJxHtCqQI |
 
-The most popular user is: **g_06_chevy**
-<div class="alert alert-block alert-danger"> RT @BleacherReport: Jimmy Butler turns 31 today.
-
-He was never supposed to be here 💯 @brhoops https://t.co/D4f3QIhy5L</div>
+The most popular user is: **ReflectsMirror**
+<div class="alert alert-block alert-danger"> RT @itselleokay: can we pretend airplanes in the night sky are like shooting stars? https://t.co/fZoLiLYxES</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **big_business_** |
-| #2 Most tweeted to  | **JimmyButler** |
-| #3 Most tweeted to  | **NBA** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 3.54%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **darIingful** |
+| #2 Most tweeted to  | **kpophappenings_** |
+| #3 Most tweeted to  | **OatmealDome** |
+| NewProfiles (less than 10 days) | 1.68%  |
+| Tweeters with < 10 followers  | 6.44%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -41,28 +39,28 @@ He was never supposed to be here 💯 @brhoops https://t.co/D4f3QIhy5L</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **G**  |
-| second  | **JIMMY**  |
-| third  | **BRADY** |
-| fourth  | **TOM**  |
-| fifth  | **LOST**  |
+| first  | **STARS**  |
+| second  | **DANCING**  |
+| third  | **MOON** |
+| fourth  | **MARIO**  |
+| fifth  | **SUPER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @A1palma: JIMMY G PLAYED TERRRIBLE |
+|RT @craveries: S’mores https://t.co/sYQ7Dhmsw2 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **g_06_chevy**  |
+| The most retweeted user is: **ReflectsMirror**  |
 | ------------- |
-| RT @BleacherReport: Jimmy Butler turns 31 today.He was never supposed to be here 💯 @brhoops https://t.co/D4f3QIhy5L |
+| RT @itselleokay: can we pretend airplanes in the night sky are like shooting stars? https://t.co/fZoLiLYxES |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
