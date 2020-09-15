@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Broncos"**
+&#x1F34E; **TOPIC = "Bahrain"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Broncos: "I feel like it was promising. Made some plays, but we want to be an elite offense."Drew Lock's Week 1 performance defined b… |
-| @jerryjeudy Broncos Country got your back Jerry🔶🔷you’ll make up for it |
-| RT @solodolo271: AFC road game, redemption from last year, NO pics NO fumbles, tannehill 2tds, Davis looked alive, Henry looked sluggish an… |
+| RT @MaxBoot: UAE &amp; Bahrain recognizing Israel is good news, but don’t lose sight of the bigger picture: “Trump will leave the Middle East… |
+| RT @realDonaldTrump: HISTORIC day for PEACE in the Middle East — I am welcoming leaders from Israel, the United Arab Emirates, and the King… |
+| RT @HillelNeuer: With Israel achieving peace treaties with Egypt, Jordan, United Arab Emirates &amp; Bahrain, and unprecedented ties with Oman,… |
 
-The most popular user is: **Boise_Broncos**
-<div class="alert alert-block alert-danger"> RT @ChrisEvans: Now that I have your attention
-🤦🏻‍♂️🤷🏻‍♂️....
-
-VOTE Nov 3rd!!!</div>
+The most popular user is: **BradHummel36**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Another HISTORIC breakthrough today! Our two GREAT friends Israel and the Kingdom of Bahrain agree to a Peace Deal – t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Titans** |
-| #2 Most tweeted to  | **Broncos** |
-| #3 Most tweeted to  | **BreitbartNews** |
-| NewProfiles (less than 10 days) | 1.07%  |
-| Tweeters with < 10 followers  | 5.38%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **WhiteHouse** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 3.66%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -42,28 +39,28 @@ VOTE Nov 3rd!!!</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRONCOS**  |
-| second  | **GAME**  |
-| third  | **BALL** |
-| fourth  | **TITANS**  |
-| fifth  | **WIN**  |
+| first  | **ISRAEL**  |
+| second  | **UAE**  |
+| third  | **MIDDLE** |
+| fourth  | **EAST**  |
+| fifth  | **BAHRAIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Outlaw doing thangs https://t.co/kmpp8ftDxM |
+|RT @SenatorTimScott: I want to congratulate Israel, U.A.E., and Bahrain on signing the Abraham Accords. This is a monumental step for peace… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Boise_Broncos**  |
+| The most retweeted user is: **BradHummel36**  |
 | ------------- |
-| RT @ChrisEvans: Now that I have your attention🤦🏻‍♂️🤷🏻‍♂️....VOTE Nov 3rd!!! |
+| RT @realDonaldTrump: Another HISTORIC breakthrough today! Our two GREAT friends Israel and the Kingdom of Bahrain agree to a Peace Deal – t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
