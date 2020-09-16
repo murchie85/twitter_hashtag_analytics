@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bahrain"**
+&#x1F34E; **TOPIC = "Kawhi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MaxBoot: UAE &amp; Bahrain recognizing Israel is good news, but don’t lose sight of the bigger picture: “Trump will leave the Middle East… |
-| RT @realDonaldTrump: HISTORIC day for PEACE in the Middle East — I am welcoming leaders from Israel, the United Arab Emirates, and the King… |
-| RT @HillelNeuer: With Israel achieving peace treaties with Egypt, Jordan, United Arab Emirates &amp; Bahrain, and unprecedented ties with Oman,… |
+| RT @NBAMemes: Kawhi and PG paying tribute to Kobe Bryant by scoring 24 points combined https://t.co/Z5hFYI6cjh |
+| RT @stonecolddom: Niggas was saying what the lakers gone do with Pg, Trezz, Kawhi, and Lou Will?😭😭😭😭 https://t.co/GiAozkc9gV |
+| RT @MikePradaNBA: Kawhi's starting to realize that most teams aren't the Duncan-era Spurs or the 2019 Raptors. https://t.co/dJrZdEnb6Q |
 
-The most popular user is: **BradHummel36**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Another HISTORIC breakthrough today! Our two GREAT friends Israel and the Kingdom of Bahrain agree to a Peace Deal – t…</div>
+The most popular user is: **Naim___7**
+<div class="alert alert-block alert-danger"> RT @Raptors: KAWHI CALLED SERIES! https://t.co/V4AIuMULNO</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **WhiteHouse** |
-| #3 Most tweeted to  | **POTUS** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 3.66%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **SportsCenter** |
+| #2 Most tweeted to  | **espn** |
+| #3 Most tweeted to  | **TheTrackMamba** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 3.8%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BradHummel36**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ISRAEL**  |
-| second  | **UAE**  |
-| third  | **MIDDLE** |
-| fourth  | **EAST**  |
-| fifth  | **BAHRAIN**  |
+| first  | **KAWHI**  |
+| second  | **LEBRON**  |
+| third  | **LEONARD** |
+| fourth  | **GAME**  |
+| fifth  | **PAUL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SenatorTimScott: I want to congratulate Israel, U.A.E., and Bahrain on signing the Abraham Accords. This is a monumental step for peace… |
+|RT @theScore: HIGHLIGHTS: Kawhi Leonard's Game 7 vs. Denver. https://t.co/iigFVOINPE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BradHummel36**  |
+| The most retweeted user is: **Naim___7**  |
 | ------------- |
-| RT @realDonaldTrump: Another HISTORIC breakthrough today! Our two GREAT friends Israel and the Kingdom of Bahrain agree to a Peace Deal – t… |
+| RT @Raptors: KAWHI CALLED SERIES! https://t.co/V4AIuMULNO |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
