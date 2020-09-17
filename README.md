@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kawhi"**
+&#x1F34E; **TOPIC = "Argos"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NBAMemes: Kawhi and PG paying tribute to Kobe Bryant by scoring 24 points combined https://t.co/Z5hFYI6cjh |
-| RT @stonecolddom: Niggas was saying what the lakers gone do with Pg, Trezz, Kawhi, and Lou Will?😭😭😭😭 https://t.co/GiAozkc9gV |
-| RT @MikePradaNBA: Kawhi's starting to realize that most teams aren't the Duncan-era Spurs or the 2019 Raptors. https://t.co/dJrZdEnb6Q |
+| I am so beyond excited to announce my verbal commitment to play soccer at the University of West Florida!! Thank yo… https://t.co/jLEuCgM3ch |
+| RT @SoccerNorthwood: Upset Alert: 2A #11 NorthWood Boys Soccer with the win over 3A #4 Zionsville 2-1. What a game! We play 1A #1 Argos at… |
+| @PapaJordd Just get an office chair from argos |
 
-The most popular user is: **Naim___7**
-<div class="alert alert-block alert-danger"> RT @Raptors: KAWHI CALLED SERIES! https://t.co/V4AIuMULNO</div>
+The most popular user is: **argus_argos**
+<div class="alert alert-block alert-danger"> RT @kanyewest: Trust me ... I WONT STOP https://t.co/RmVkqrSa4F</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SportsCenter** |
-| #2 Most tweeted to  | **espn** |
-| #3 Most tweeted to  | **TheTrackMamba** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 3.8%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Argos_Online** |
+| #2 Most tweeted to  | **JamieKay22** |
+| #3 Most tweeted to  | **xboxuk** |
+| NewProfiles (less than 10 days) | 1.18%  |
+| Tweeters with < 10 followers  | 6.31%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Naim___7**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KAWHI**  |
-| second  | **LEBRON**  |
-| third  | **LEONARD** |
-| fourth  | **GAME**  |
-| fifth  | **PAUL**  |
+| first  | **ARGOS**  |
+| second  | **YET**  |
+| third  | **LOVE** |
+| fourth  | **DANCE**  |
+| fifth  | **ROUTINE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @theScore: HIGHLIGHTS: Kawhi Leonard's Game 7 vs. Denver. https://t.co/iigFVOINPE |
+|Why is Argos suggesting I travel 269 miles to Dundee to pick up a set of dumbbells? 🤔 Think I might leave it. https://t.co/oa0PXtXM1C |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Naim___7**  |
+| The most retweeted user is: **argus_argos**  |
 | ------------- |
-| RT @Raptors: KAWHI CALLED SERIES! https://t.co/V4AIuMULNO |
+| RT @kanyewest: Trust me ... I WONT STOP https://t.co/RmVkqrSa4F |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
