@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Argos"**
+&#x1F34E; **TOPIC = "Best Buy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I am so beyond excited to announce my verbal commitment to play soccer at the University of West Florida!! Thank yo… https://t.co/jLEuCgM3ch |
-| RT @SoccerNorthwood: Upset Alert: 2A #11 NorthWood Boys Soccer with the win over 3A #4 Zionsville 2-1. What a game! We play 1A #1 Argos at… |
-| @PapaJordd Just get an office chair from argos |
+| How did people get the PS5 on Best Buy? It says “coming soon.” I’m going crazy bruh |
+| RT @mizzymicole: It is legit in my cart on best buy and it wont let me check out https://t.co/XRGJXbM3AH |
+| RT @HollowPoiint: Best Buy has removed the 5 PS5 bundles I had in my cart.GameStop doesn’t let me checkout, and has taken the PS5 of thei… |
 
-The most popular user is: **argus_argos**
-<div class="alert alert-block alert-danger"> RT @kanyewest: Trust me ... I WONT STOP https://t.co/RmVkqrSa4F</div>
+The most popular user is: **blackmanmagik**
+<div class="alert alert-block alert-danger"> RT @2realmacdatfeee: Best Buy really don’t give a fuck about us !!! https://t.co/d92f6FRuJE</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Argos_Online** |
-| #2 Most tweeted to  | **JamieKay22** |
-| #3 Most tweeted to  | **xboxuk** |
-| NewProfiles (less than 10 days) | 1.18%  |
-| Tweeters with < 10 followers  | 6.31%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **JayzTwoCents** |
+| #2 Most tweeted to  | **tomwarren** |
+| #3 Most tweeted to  | **TimiBam** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 7.63%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **argus_argos**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARGOS**  |
-| second  | **YET**  |
-| third  | **LOVE** |
-| fourth  | **DANCE**  |
-| fifth  | **ROUTINE**  |
+| first  | **BEST**  |
+| second  | **BUY**  |
+| third  | **PS5** |
+| fourth  | **SOLD**  |
+| fifth  | **/**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Why is Argos suggesting I travel 269 miles to Dundee to pick up a set of dumbbells? 🤔 Think I might leave it. https://t.co/oa0PXtXM1C |
+|Go to your local gamestop or Best Buy and preorder physically. There is still hope. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **argus_argos**  |
+| The most retweeted user is: **blackmanmagik**  |
 | ------------- |
-| RT @kanyewest: Trust me ... I WONT STOP https://t.co/RmVkqrSa4F |
+| RT @2realmacdatfeee: Best Buy really don’t give a fuck about us !!! https://t.co/d92f6FRuJE |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
