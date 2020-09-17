@@ -15,9 +15,9 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| How did people get the PS5 on Best Buy? It says “coming soon.” I’m going crazy bruh |
-| RT @mizzymicole: It is legit in my cart on best buy and it wont let me check out https://t.co/XRGJXbM3AH |
-| RT @HollowPoiint: Best Buy has removed the 5 PS5 bundles I had in my cart.GameStop doesn’t let me checkout, and has taken the PS5 of thei… |
+| RT @Martin_Simmonds: I’ve been lucky enough to read some of HOME SICK PILOTS, and it’s one of the best things I’ve read in a long time. Com… |
+| RT @LitCleland: Starting an only fans to buy the PS5 for him. He deserves the best 🥺🙈 |
+| @_BryceCross @Khalifist Best Buy! I just sat there refreshing my cart for hours till I could finally purchase |
 
 The most popular user is: **blackmanmagik**
 <div class="alert alert-block alert-danger"> RT @2realmacdatfeee: Best Buy really don’t give a fuck about us !!! https://t.co/d92f6FRuJE</div>
@@ -28,9 +28,9 @@ The most popular user is: **blackmanmagik**
 | #1 Most tweeted to  | **JayzTwoCents** |
 | #2 Most tweeted to  | **tomwarren** |
 | #3 Most tweeted to  | **TimiBam** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 7.63%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| NewProfiles (less than 10 days) | 0.93%  |
+| Tweeters with < 10 followers  | 7.78%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -54,7 +54,7 @@ VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJE
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Go to your local gamestop or Best Buy and preorder physically. There is still hope. |
+|RT @parkinsbrea: Today is the day you can buy @PatrickFreyne1’s book. Every sentence is a joy to read. Your other half will ask not to read… |
 
 ### MOST RETWEETED 
 
