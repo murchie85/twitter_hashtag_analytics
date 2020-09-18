@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Eastenders"**
+&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bensfrankie: tw / domestic abuse , violence if you’re in this position please reach out, you’re never alone there’s help out there. T… |
-| This has made me physically sick #Eastenders |
-| RT @bbceastenders: A bully is always a coward. #EastEnders Details of organisations offering information and support with domestic abuse… |
+| @majornelson @2KBattlegrounds #freecodefridaycontest My favorite superstar is Asuka and i would love to see her duk… https://t.co/jHFZYqdXth |
+| RT @WiredP: 🚨🏁Giveaway Alert☀️🚨We've got that Friday feeling - so we're giving a code for #AviciiInvector, @GRIPVideoGame and #CloseToThe… |
+| RT @majornelson: And as I mentioned yesterday, one lucky #freecodefridaycontest winner is also getting a new @TurtleBeach Stealth 600 Gen 2… |
 
-The most popular user is: **pbasset12**
-<div class="alert alert-block alert-danger"> RT @bbceastenders: A bully is always a coward. #EastEnders 
-
-Details of organisations offering information and support with domestic abuse…</div>
+The most popular user is: **KennyTCB**
+<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Marvel's Avengers (@PlayAvengers) on Xbox One. Good lu…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bbceastenders** |
-| #2 Most tweeted to  | **kenziannell** |
-| #3 Most tweeted to  | **lewisa95** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 3.31%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **2KBattlegrounds** |
+| #3 Most tweeted to  | **ReckoningGame** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 14.64%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ Details of organisations offering information and support with domestic abuse…
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EASTENDERS**  |
-| second  | **DOMESTIC**  |
-| third  | **EASTENDERSRT** |
-| fourth  | **@BBCEASTENDERS:**  |
-| fifth  | **ABUSE**  |
+| first  | **@2KBATTLEGROUNDS**  |
+| second  | **FREECODEFRIDAYCONTEST**  |
+| third  | **@RECKONINGGAME** |
+| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| fifth  | **WIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (81.82%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (18.18%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kittygirIfriend: me if chantelle doesn’t get the justice she deserves for getting murdered by gray after tonights episode #EastEnders h… |
+|RT @mvouchercodes1: The PS5 GIVEAWAY #Win a #PlayStation5 with #Mvouchercodes PS5 DigitalRT&amp;F for a chance to #win a #ContestAlert@mvouc… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **pbasset12**  |
+| The most retweeted user is: **KennyTCB**  |
 | ------------- |
-| RT @bbceastenders: A bully is always a coward. #EastEnders Details of organisations offering information and support with domestic abuse… |
+| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Marvel's Avengers (@PlayAvengers) on Xbox One. Good lu… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
