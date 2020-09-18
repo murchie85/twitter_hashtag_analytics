@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Best Buy"**
+&#x1F34E; **TOPIC = "#Eastenders"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Martin_Simmonds: I’ve been lucky enough to read some of HOME SICK PILOTS, and it’s one of the best things I’ve read in a long time. Com… |
-| RT @LitCleland: Starting an only fans to buy the PS5 for him. He deserves the best 🥺🙈 |
-| @_BryceCross @Khalifist Best Buy! I just sat there refreshing my cart for hours till I could finally purchase |
+| RT @bensfrankie: tw / domestic abuse , violence if you’re in this position please reach out, you’re never alone there’s help out there. T… |
+| This has made me physically sick #Eastenders |
+| RT @bbceastenders: A bully is always a coward. #EastEnders Details of organisations offering information and support with domestic abuse… |
 
-The most popular user is: **blackmanmagik**
-<div class="alert alert-block alert-danger"> RT @2realmacdatfeee: Best Buy really don’t give a fuck about us !!! https://t.co/d92f6FRuJE</div>
+The most popular user is: **pbasset12**
+<div class="alert alert-block alert-danger"> RT @bbceastenders: A bully is always a coward. #EastEnders 
+
+Details of organisations offering information and support with domestic abuse…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JayzTwoCents** |
-| #2 Most tweeted to  | **tomwarren** |
-| #3 Most tweeted to  | **TimiBam** |
-| NewProfiles (less than 10 days) | 0.93%  |
-| Tweeters with < 10 followers  | 7.78%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **bbceastenders** |
+| #2 Most tweeted to  | **kenziannell** |
+| #3 Most tweeted to  | **lewisa95** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 3.31%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **blackmanmagik**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEST**  |
-| second  | **BUY**  |
-| third  | **PS5** |
-| fourth  | **SOLD**  |
-| fifth  | **/**  |
+| first  | **EASTENDERS**  |
+| second  | **DOMESTIC**  |
+| third  | **EASTENDERSRT** |
+| fourth  | **@BBCEASTENDERS:**  |
+| fifth  | **ABUSE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @parkinsbrea: Today is the day you can buy @PatrickFreyne1’s book. Every sentence is a joy to read. Your other half will ask not to read… |
+|RT @kittygirIfriend: me if chantelle doesn’t get the justice she deserves for getting murdered by gray after tonights episode #EastEnders h… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **blackmanmagik**  |
+| The most retweeted user is: **pbasset12**  |
 | ------------- |
-| RT @2realmacdatfeee: Best Buy really don’t give a fuck about us !!! https://t.co/d92f6FRuJE |
+| RT @bbceastenders: A bully is always a coward. #EastEnders Details of organisations offering information and support with domestic abuse… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
