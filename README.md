@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
+&#x1F34E; **TOPIC = "Clemson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @majornelson @2KBattlegrounds #freecodefridaycontest My favorite superstar is Asuka and i would love to see her duk… https://t.co/jHFZYqdXth |
-| RT @WiredP: 🚨🏁Giveaway Alert☀️🚨We've got that Friday feeling - so we're giving a code for #AviciiInvector, @GRIPVideoGame and #CloseToThe… |
-| RT @majornelson: And as I mentioned yesterday, one lucky #freecodefridaycontest winner is also getting a new @TurtleBeach Stealth 600 Gen 2… |
+| In this bizarre college football season; how Clemson still gets to play Citadel is beyond me. |
+| @TaylorGiesige48 Clemson and Alabama have made them a household name. |
+| RT @ClemsonUniv: Happy #SolidOrangeFriday to our Clemson Family! 🧡As we come together to cheer on @ClemsonFB tomorrow, let's remember to… |
 
-The most popular user is: **KennyTCB**
-<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Marvel's Avengers (@PlayAvengers) on Xbox One. Good lu…</div>
+The most popular user is: **Clemson_U_4_Me**
+<div class="alert alert-block alert-danger"> RT @vanitaguptaCR: “I want you to use my words against me. If there’s a Republican president in 2016 and a vacancy occurs in the last year…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **2KBattlegrounds** |
-| #3 Most tweeted to  | **ReckoningGame** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 14.64%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **KegsnEggs** |
+| #2 Most tweeted to  | **ClemsonFB** |
+| #3 Most tweeted to  | **apthirteen** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 2.79%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **KennyTCB**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@2KBATTLEGROUNDS**  |
-| second  | **FREECODEFRIDAYCONTEST**  |
-| third  | **@RECKONINGGAME** |
-| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
-| fifth  | **WIN**  |
+| first  | **CLEMSON**  |
+| second  | **@**  |
+| third  | **VS** |
+| fourth  | **CITADEL**  |
+| fifth  | **STATE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (81.82%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (18.18%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mvouchercodes1: The PS5 GIVEAWAY #Win a #PlayStation5 with #Mvouchercodes PS5 DigitalRT&amp;F for a chance to #win a #ContestAlert@mvouc… |
+|RT @Overnundergirl: Saturdays PlaysMiami +3Miami under 207.5NCaa FootballUCF -7.5Miami +2.5Duke under 52ND under 48.5Clemson under… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KennyTCB**  |
+| The most retweeted user is: **Clemson_U_4_Me**  |
 | ------------- |
-| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for Marvel's Avengers (@PlayAvengers) on Xbox One. Good lu… |
+| RT @vanitaguptaCR: “I want you to use my words against me. If there’s a Republican president in 2016 and a vacancy occurs in the last year… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
