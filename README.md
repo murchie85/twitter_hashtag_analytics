@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Clemson"**
+&#x1F34E; **TOPIC = "Usman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| In this bizarre college football season; how Clemson still gets to play Citadel is beyond me. |
-| @TaylorGiesige48 Clemson and Alabama have made them a household name. |
-| RT @ClemsonUniv: Happy #SolidOrangeFriday to our Clemson Family! 🧡As we come together to cheer on @ClemsonFB tomorrow, let's remember to… |
+| RT @shamsa_nawaz: Hope of Nation❤❤#TwitterWelcomesNawazSharif https://t.co/XrcvJr1jLv |
+| Usman living in this boys head rent free 😂 https://t.co/ia9Josq230 |
+| RT @blackhawks569: Masvidal and Usman when Colby called them out #UFCVegas11 #UFCFightNight https://t.co/m5Z9AdjVd8 |
 
-The most popular user is: **Clemson_U_4_Me**
-<div class="alert alert-block alert-danger"> RT @vanitaguptaCR: “I want you to use my words against me. If there’s a Republican president in 2016 and a vacancy occurs in the last year…</div>
+The most popular user is: **usman_mashall**
+<div class="alert alert-block alert-danger"> RT @JoeBiden: I’m Joe Biden and I approve this message. https://t.co/TuRZXPE5xK</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KegsnEggs** |
-| #2 Most tweeted to  | **ClemsonFB** |
-| #3 Most tweeted to  | **apthirteen** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 2.79%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **ColbyCovMMA** |
+| #2 Most tweeted to  | **espnmma** |
+| #3 Most tweeted to  | **arielhelwani** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 7.66%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Clemson_U_4_Me**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLEMSON**  |
-| second  | **@**  |
-| third  | **VS** |
-| fourth  | **CITADEL**  |
-| fifth  | **STATE**  |
+| first  | **USMAN**  |
+| second  | **COLBY**  |
+| third  | **COVINGTON** |
+| fourth  | **@COLBYCOVMMA**  |
+| fifth  | **KAMARU**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Overnundergirl: Saturdays PlaysMiami +3Miami under 207.5NCaa FootballUCF -7.5Miami +2.5Duke under 52ND under 48.5Clemson under… |
+|@augustocs79 @oakland510 @stableaqua @OlfordX @USMAN84kg I understand where you coming from but Saying he only has… https://t.co/N8XkusMNnm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Clemson_U_4_Me**  |
+| The most retweeted user is: **usman_mashall**  |
 | ------------- |
-| RT @vanitaguptaCR: “I want you to use my words against me. If there’s a Republican president in 2016 and a vacancy occurs in the last year… |
+| RT @JoeBiden: I’m Joe Biden and I approve this message. https://t.co/TuRZXPE5xK |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
