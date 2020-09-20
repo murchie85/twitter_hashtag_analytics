@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Eagles"**
+&#x1F34E; **TOPIC = "Bad Bunny"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @rjochoa: An important detail to Sunday's NFL action besides the Cowboys winning (and Dak Prescott ballin):The Philadelphia Eagles los… |
-| RT @JeffKerrCBS: J.J. Arcega-Whiteside has failed to record a catch in 11 of his 19 career games.No catches in 2020 #Eagles |
-| RT @ZachErtz: Pathetic performance by the Eagles #LARvsPHI https://t.co/c6du6pRRmC |
+| at the bad bunny concert wbuu ? |
+| RT @GarciaAreli: 😭😭😭😭😭 we don’t deserve bad bunny |
+| RT @MarinCPhoto: what if we kissed on Bad Bunny’s bus 🥺👉🏽👈🏽 |
 
-The most popular user is: **Eagles_Fandango**
-<div class="alert alert-block alert-danger"> RT @dog_rates: This is Brody. He’ll be the first to tell you his first attempt at getting in the kayak wasn’t great, but he never gave pup.…</div>
+The most popular user is: **enijaahh**
+<div class="alert alert-block alert-danger"> RT @InfamyBeats: when Bad Bunny performs La Cancion tonight https://t.co/90iJPcf4rc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Eagles** |
-| #2 Most tweeted to  | **UnibetUS** |
-| #3 Most tweeted to  | **RealSkipBayless** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 4.18%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **sanbenito** |
+| #2 Most tweeted to  | **DavidBegnaud** |
+| #3 Most tweeted to  | **ElGordiflow** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 1.29%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Eagles_Fandango**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EAGLES**  |
-| second  | **COWBOYS**  |
-| third  | **0-2** |
-| fourth  | **@EAGLES**  |
-| fifth  | **WENTZ**  |
+| first  | **BAD**  |
+| second  | **BUNNY**  |
+| third  | **CONCERT** |
+| fourth  | **BUNNY’S**  |
+| fifth  | **BUS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (100.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kenvogel: So glad I fought through all the bad links, pop-ups &amp; malware offers so I could watch the @Eagles get their asses kicked. |
+|RT @DavidBegnaud: Y’all did not tell me Bad Bunny (@sanbenito) was going to be on top of an 18 wheeler, ducking traffic lights and tree lim… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Eagles_Fandango**  |
+| The most retweeted user is: **enijaahh**  |
 | ------------- |
-| RT @dog_rates: This is Brody. He’ll be the first to tell you his first attempt at getting in the kayak wasn’t great, but he never gave pup.… |
+| RT @InfamyBeats: when Bad Bunny performs La Cancion tonight https://t.co/90iJPcf4rc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
