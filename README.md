@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bad Bunny"**
+&#x1F34E; **TOPIC = "Zendaya"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| at the bad bunny concert wbuu ? |
-| RT @GarciaAreli: 😭😭😭😭😭 we don’t deserve bad bunny |
-| RT @MarinCPhoto: what if we kissed on Bad Bunny’s bus 🥺👉🏽👈🏽 |
+| RT @TelevisionAcad: The #Emmy for Outstanding Lead Actress In A Drama Series goes to @Zendaya (@euphoriaHBO)! This is her first #Emmys nomi… |
+| RT @eliesaaabs: Zendaya, youngest Emmy award winner for lead actress in a drama series https://t.co/S7ce41Bp3e |
+| RT @tchalafilms: zendaya and jharrel jerome are the youngest emmy winners in their categories, and they deserve it https://t.co/t3R1m5SXeH |
 
-The most popular user is: **enijaahh**
-<div class="alert alert-block alert-danger"> RT @InfamyBeats: when Bad Bunny performs La Cancion tonight https://t.co/90iJPcf4rc</div>
+The most popular user is: **ahmedhashishhh**
+<div class="alert alert-block alert-danger"> RT @euphoriaHBO: for rue. 
+congratulations @zendaya!!!!!!!!!!!!!!!!!! ALL THE LOVE &lt;3 https://t.co/OVVXUKvZ6B</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **sanbenito** |
-| #2 Most tweeted to  | **DavidBegnaud** |
-| #3 Most tweeted to  | **ElGordiflow** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 1.29%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Zendaya** |
+| #2 Most tweeted to  | **euphoriaHBO** |
+| #3 Most tweeted to  | **LUSTFORLlVE** |
+| NewProfiles (less than 10 days) | 0.95%  |
+| Tweeters with < 10 followers  | 3.27%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **enijaahh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BAD**  |
-| second  | **BUNNY**  |
-| third  | **CONCERT** |
-| fourth  | **BUNNY’S**  |
-| fifth  | **BUS**  |
+| first  | **ZENDAYA**  |
+| second  | **ACTRESS**  |
+| third  | **DRAMA** |
+| fourth  | **EMMY**  |
+| fifth  | **LEAD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (100.0%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DavidBegnaud: Y’all did not tell me Bad Bunny (@sanbenito) was going to be on top of an 18 wheeler, ducking traffic lights and tree lim… |
+|RT @GMA: .@Zendaya wins lead actress in a drama series for her role in "Euphoria," becoming the youngest-ever winner of the category at age… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **enijaahh**  |
+| The most retweeted user is: **ahmedhashishhh**  |
 | ------------- |
-| RT @InfamyBeats: when Bad Bunny performs La Cancion tonight https://t.co/90iJPcf4rc |
+| RT @euphoriaHBO: for rue. congratulations @zendaya!!!!!!!!!!!!!!!!!! ALL THE LOVE &lt;3 https://t.co/OVVXUKvZ6B |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
