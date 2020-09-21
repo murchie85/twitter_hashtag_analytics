@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Zendaya"**
+&#x1F34E; **TOPIC = "#WearAMask"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TelevisionAcad: The #Emmy for Outstanding Lead Actress In A Drama Series goes to @Zendaya (@euphoriaHBO)! This is her first #Emmys nomi… |
-| RT @eliesaaabs: Zendaya, youngest Emmy award winner for lead actress in a drama series https://t.co/S7ce41Bp3e |
-| RT @tchalafilms: zendaya and jharrel jerome are the youngest emmy winners in their categories, and they deserve it https://t.co/t3R1m5SXeH |
+| RT @reIagz: Tap the like button it’s so cool #WearAMask https://t.co/Qex4cprJff |
+| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
+| RT @louiestruggles: like this for a surprise and do what it says if you want to see louis tomlinson and all your other faves live next year… |
 
-The most popular user is: **ahmedhashishhh**
-<div class="alert alert-block alert-danger"> RT @euphoriaHBO: for rue. 
-congratulations @zendaya!!!!!!!!!!!!!!!!!! ALL THE LOVE &lt;3 https://t.co/OVVXUKvZ6B</div>
+The most popular user is: **WeisongJi**
+<div class="alert alert-block alert-danger"> RT @Twitter: The only thing we want going viral is this Tweet
+
+#WearAMask</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Zendaya** |
-| #2 Most tweeted to  | **euphoriaHBO** |
-| #3 Most tweeted to  | **LUSTFORLlVE** |
-| NewProfiles (less than 10 days) | 0.95%  |
-| Tweeters with < 10 followers  | 3.27%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **Twitter** |
+| #2 Most tweeted to  | **marcusy_** |
+| #3 Most tweeted to  | **reIagz** |
+| NewProfiles (less than 10 days) | 0.97%  |
+| Tweeters with < 10 followers  | 3.77%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -40,28 +41,28 @@ congratulations @zendaya!!!!!!!!!!!!!!!!!! ALL THE LOVE &lt;3 https://t.co/OVVXU
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ZENDAYA**  |
-| second  | **ACTRESS**  |
-| third  | **DRAMA** |
-| fourth  | **EMMY**  |
-| fifth  | **LEAD**  |
+| first  | **WEARAMASK**  |
+| second  | **WEARAMASKRT**  |
+| third  | **TWEET** |
+| fourth  | **THING**  |
+| fifth  | **GOING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GMA: .@Zendaya wins lead actress in a drama series for her role in "Euphoria," becoming the youngest-ever winner of the category at age… |
+|RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ahmedhashishhh**  |
+| The most retweeted user is: **WeisongJi**  |
 | ------------- |
-| RT @euphoriaHBO: for rue. congratulations @zendaya!!!!!!!!!!!!!!!!!! ALL THE LOVE &lt;3 https://t.co/OVVXUKvZ6B |
+| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
