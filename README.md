@@ -15,11 +15,11 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @reIagz: Tap the like button it’s so cool #WearAMask https://t.co/Qex4cprJff |
 | RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
-| RT @louiestruggles: like this for a surprise and do what it says if you want to see louis tomlinson and all your other faves live next year… |
+| RT @NJGov: kick. covid. butt. #WearAMask https://t.co/7U4w3k68s2 |
+| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
 
-The most popular user is: **WeisongJi**
+The most popular user is: **DMenz1206**
 <div class="alert alert-block alert-danger"> RT @Twitter: The only thing we want going viral is this Tweet
 
 #WearAMask</div>
@@ -30,9 +30,9 @@ The most popular user is: **WeisongJi**
 | #1 Most tweeted to  | **Twitter** |
 | #2 Most tweeted to  | **marcusy_** |
 | #3 Most tweeted to  | **reIagz** |
-| NewProfiles (less than 10 days) | 0.97%  |
-| Tweeters with < 10 followers  | 3.77%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| NewProfiles (less than 10 days) | 0.88%  |
+| Tweeters with < 10 followers  | 3.7%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -51,16 +51,16 @@ The most popular user is: **WeisongJi**
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (61.54%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
+|RT @kkoobap: click the heart button and see what happens #WearAMask https://t.co/v3bzCL34s3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WeisongJi**  |
+| The most retweeted user is: **DMenz1206**  |
 | ------------- |
 | RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
 
