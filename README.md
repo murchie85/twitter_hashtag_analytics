@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WearAMask"**
+&#x1F34E; **TOPIC = "#NCT2020_YearParty"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
-| RT @NJGov: kick. covid. butt. #WearAMask https://t.co/7U4w3k68s2 |
-| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
+| RT @cheondsa: @henvderi NCT 2020 YEARPARTY#NCT2020_YEARPARTY#WelcomeToNCT_XiaoHenYang_ShoChan@NCTsmtown @NCTsmtown_DREAM @NCTsmtown_127… |
+| RT @haechanfairy: OUR PRINCE HAECHAN #NCT2020_YearParty #NCT2020 #HAECHAN #해찬 ☀️☁️ https://t.co/y42XbFMhFg |
+| RT @NCTsmtown: NCT 2020 YearParty#NCT2020 #RESONANCE#RESONANCE_Pt1#NCT #NCT2020_RESONANCE#YearParty #NCT2020_YearParty https://t.co/Ul… |
 
-The most popular user is: **DMenz1206**
-<div class="alert alert-block alert-danger"> RT @Twitter: The only thing we want going viral is this Tweet
+The most popular user is: **09_panisa**
+<div class="alert alert-block alert-danger"> RT @NCTsmtown: NCT 2020 YearParty
 
-#WearAMask</div>
+#NCT2020 #RESONANCE
+#RESONANCE_Pt1
+#NCT #NCT2020_RESONANCE
+#YearParty #NCT2020_YearParty https://t.co/UW…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Twitter** |
-| #2 Most tweeted to  | **marcusy_** |
-| #3 Most tweeted to  | **reIagz** |
-| NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 3.7%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **NCTsmtown** |
+| #2 Most tweeted to  | **NCTsmtown_DREAM** |
+| #3 Most tweeted to  | **jaehyunbom__** |
+| NewProfiles (less than 10 days) | 1.79%  |
+| Tweeters with < 10 followers  | 11.64%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +44,28 @@ The most popular user is: **DMenz1206**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WEARAMASK**  |
-| second  | **WEARAMASKRT**  |
-| third  | **TWEET** |
-| fourth  | **THING**  |
-| fifth  | **GOING**  |
+| first  | **NCT**  |
+| second  | **YEARPARTY**  |
+| third  | **NCT2020_YEARPARTY** |
+| fourth  | **2020**  |
+| fifth  | **NCT2020**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (61.54%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kkoobap: click the heart button and see what happens #WearAMask https://t.co/v3bzCL34s3 |
+|@queenicecreamm NCT 2020 YEARPARTY#NCT2020_YEARPARTY#NCT2020 #RESONANCE#RESONANCE_Pt1… https://t.co/727cxzmRUK |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DMenz1206**  |
+| The most retweeted user is: **09_panisa**  |
 | ------------- |
-| RT @Twitter: The only thing we want going viral is this Tweet#WearAMask |
+| RT @NCTsmtown: NCT 2020 YearParty#NCT2020 #RESONANCE#RESONANCE_Pt1#NCT #NCT2020_RESONANCE#YearParty #NCT2020_YearParty https://t.co/UW… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
