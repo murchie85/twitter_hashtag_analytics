@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NCT2020_YearParty"**
+&#x1F34E; **TOPIC = "#NationalVoterRegistrationDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @cheondsa: @henvderi NCT 2020 YEARPARTY#NCT2020_YEARPARTY#WelcomeToNCT_XiaoHenYang_ShoChan@NCTsmtown @NCTsmtown_DREAM @NCTsmtown_127… |
-| RT @haechanfairy: OUR PRINCE HAECHAN #NCT2020_YearParty #NCT2020 #HAECHAN #해찬 ☀️☁️ https://t.co/y42XbFMhFg |
-| RT @NCTsmtown: NCT 2020 YearParty#NCT2020 #RESONANCE#RESONANCE_Pt1#NCT #NCT2020_RESONANCE#YearParty #NCT2020_YearParty https://t.co/Ul… |
+| RT @aucampuslife: Today is #NationalVoterRegistrationDay! Have you registered to vote in your state? Have you requested your ballot? See be… |
+| RT @GeoffMiami: Happy #NationalVoterRegistrationDay To sign up in Florida please visit https://t.co/IsUgKA1yO7.  🇺🇸 🇺🇸🇺🇸 https://t.co/p8MG… |
+| RT @romyreiner: TODAY IS NATIONAL VOTER REGISTRATION DAY!! REGISTER TO VOTE FOR THE FUTURE OF EVERYTHING! @FeelGoodVoting #NationalVoterReg… |
 
-The most popular user is: **09_panisa**
-<div class="alert alert-block alert-danger"> RT @NCTsmtown: NCT 2020 YearParty
-
-#NCT2020 #RESONANCE
-#RESONANCE_Pt1
-#NCT #NCT2020_RESONANCE
-#YearParty #NCT2020_YearParty https://t.co/UW…</div>
+The most popular user is: **USCGwife422**
+<div class="alert alert-block alert-danger"> RT @NatlVoterRegDay: Good morning sunshine! TODAY is #NationalVoterRegistrationDay and that means TODAY is the day you check your voter reg…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NCTsmtown** |
-| #2 Most tweeted to  | **NCTsmtown_DREAM** |
-| #3 Most tweeted to  | **jaehyunbom__** |
-| NewProfiles (less than 10 days) | 1.79%  |
-| Tweeters with < 10 followers  | 11.64%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **JoeBiden** |
+| #2 Most tweeted to  | **romyreiner** |
+| #3 Most tweeted to  | **FeelGoodVoting** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 2.94%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -44,28 +39,28 @@ The most popular user is: **09_panisa**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NCT**  |
-| second  | **YEARPARTY**  |
-| third  | **NCT2020_YEARPARTY** |
-| fourth  | **2020**  |
-| fifth  | **NCT2020**  |
+| first  | **VOTE**  |
+| second  | **NATIONALVOTERREGISTRATIONDAY**  |
+| third  | **REGISTER** |
+| fourth  | **DAYS**  |
+| fifth  | **REGISTERED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@queenicecreamm NCT 2020 YEARPARTY#NCT2020_YEARPARTY#NCT2020 #RESONANCE#RESONANCE_Pt1… https://t.co/727cxzmRUK |
+|RT @KeshaRose: ANIMALS!! It’s #NationalVoterRegistrationDay!! text VOTER to 40649 or go to https://t.co/pNgIlLYI17 to register to vote or t… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **09_panisa**  |
+| The most retweeted user is: **USCGwife422**  |
 | ------------- |
-| RT @NCTsmtown: NCT 2020 YearParty#NCT2020 #RESONANCE#RESONANCE_Pt1#NCT #NCT2020_RESONANCE#YearParty #NCT2020_YearParty https://t.co/UW… |
+| RT @NatlVoterRegDay: Good morning sunshine! TODAY is #NationalVoterRegistrationDay and that means TODAY is the day you check your voter reg… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
