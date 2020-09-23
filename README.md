@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalVoterRegistrationDay"**
+&#x1F34E; **TOPIC = "Jamal Murray"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @aucampuslife: Today is #NationalVoterRegistrationDay! Have you registered to vote in your state? Have you requested your ballot? See be… |
-| RT @GeoffMiami: Happy #NationalVoterRegistrationDay To sign up in Florida please visit https://t.co/IsUgKA1yO7.  🇺🇸 🇺🇸🇺🇸 https://t.co/p8MG… |
-| RT @romyreiner: TODAY IS NATIONAL VOTER REGISTRATION DAY!! REGISTER TO VOTE FOR THE FUTURE OF EVERYTHING! @FeelGoodVoting #NationalVoterReg… |
+| RT @NBA: 🏹 Jamal Murray caps off his 28-point night and the @nuggets win with a DEEP triple.. bullseye! 🏹 https://t.co/ii3WqMEYpJ |
+| RT @WorldWideWob: Jamal Murray is officially on my Steph Curry/Damian Lillard "when he's on fire, only an asteroid hitting the earth can ma… |
+| RT @overtime: JAMAL MURRAY FEELING IT 😈 https://t.co/JsHrNQPItB |
 
-The most popular user is: **USCGwife422**
-<div class="alert alert-block alert-danger"> RT @NatlVoterRegDay: Good morning sunshine! TODAY is #NationalVoterRegistrationDay and that means TODAY is the day you check your voter reg…</div>
+The most popular user is: **MrNoelV**
+<div class="alert alert-block alert-danger"> RT @espn: Wow. 
+
+Listen to Jamal Murray 🙏 https://t.co/Tj6URs5kXk</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JoeBiden** |
-| #2 Most tweeted to  | **romyreiner** |
-| #3 Most tweeted to  | **FeelGoodVoting** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 2.94%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **WorldWideWob** |
+| #3 Most tweeted to  | **nuggets** |
+| NewProfiles (less than 10 days) | 0.89%  |
+| Tweeters with < 10 followers  | 3.67%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **USCGwife422**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VOTE**  |
-| second  | **NATIONALVOTERREGISTRATIONDAY**  |
-| third  | **REGISTER** |
-| fourth  | **DAYS**  |
-| fifth  | **REGISTERED**  |
+| first  | **JAMAL**  |
+| second  | **MURRAY**  |
+| third  | **GAME** |
+| fourth  | **@ESPN:**  |
+| fifth  | **DAGGER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @KeshaRose: ANIMALS!! It’s #NationalVoterRegistrationDay!! text VOTER to 40649 or go to https://t.co/pNgIlLYI17 to register to vote or t… |
+|Attacking Jamal Murray sparks Nuggets, who hold off Lakers for Game 3 win https://t.co/DzlqV6W6Hf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **USCGwife422**  |
+| The most retweeted user is: **MrNoelV**  |
 | ------------- |
-| RT @NatlVoterRegDay: Good morning sunshine! TODAY is #NationalVoterRegistrationDay and that means TODAY is the day you check your voter reg… |
+| RT @espn: Wow. Listen to Jamal Murray 🙏 https://t.co/Tj6URs5kXk |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
