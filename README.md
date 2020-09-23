@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jamal Murray"**
+&#x1F34E; **TOPIC = "#ListenToBernie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NBA: 🏹 Jamal Murray caps off his 28-point night and the @nuggets win with a DEEP triple.. bullseye! 🏹 https://t.co/ii3WqMEYpJ |
-| RT @WorldWideWob: Jamal Murray is officially on my Steph Curry/Damian Lillard "when he's on fire, only an asteroid hitting the earth can ma… |
-| RT @overtime: JAMAL MURRAY FEELING IT 😈 https://t.co/JsHrNQPItB |
+| RT @Eric_Hanke: I preferred Bernie to Biden. But, the primary didn't turn out the way I'd hoped. I did #ListenToBernie, and voted for Biden… |
+| RT @BlackBernieBabe: Instead of asking MILLIONS of progressives to #ListenToBernie, wouldnt it be more effective to get just ONE person,  J… |
+| RT @mmpadellan: #ListenToBernie and vote for Joe Biden because it's LITERALLY a matter of life or death.RETWEET TO SPREAD THE WORD.https… |
 
-The most popular user is: **MrNoelV**
-<div class="alert alert-block alert-danger"> RT @espn: Wow. 
+The most popular user is: **michelestx**
+<div class="alert alert-block alert-danger"> RT @mmpadellan: Let's AMPLIFY Bernie's message to Progressives.
 
-Listen to Jamal Murray 🙏 https://t.co/Tj6URs5kXk</div>
+Can we get 5,000 RETWEETS in 3 HOURS?
+
+Help spread this far and wide!
+#Lis…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **WorldWideWob** |
-| #3 Most tweeted to  | **nuggets** |
-| NewProfiles (less than 10 days) | 0.89%  |
-| Tweeters with < 10 followers  | 3.67%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **ReallyAmerican1** |
+| #2 Most tweeted to  | **mmpadellan** |
+| #3 Most tweeted to  | **JoeBiden** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +44,28 @@ Listen to Jamal Murray 🙏 https://t.co/Tj6URs5kXk</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAMAL**  |
-| second  | **MURRAY**  |
-| third  | **GAME** |
-| fourth  | **@ESPN:**  |
-| fifth  | **DAGGER**  |
+| first  | **LISTENTOBERNIE**  |
+| second  | **@REALLYAMERICAN1:**  |
+| third  | **BERNIE** |
+| fourth  | **TRUMP**  |
+| fifth  | **PROGRESSIVES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Attacking Jamal Murray sparks Nuggets, who hold off Lakers for Game 3 win https://t.co/DzlqV6W6Hf |
+|RT @DrDooleyMD: We loved Bernie because of his POLICIES which favored everyday people, the poor, &amp; the vulnerable.  Adopt his policies an… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MrNoelV**  |
+| The most retweeted user is: **michelestx**  |
 | ------------- |
-| RT @espn: Wow. Listen to Jamal Murray 🙏 https://t.co/Tj6URs5kXk |
+| RT @mmpadellan: Let's AMPLIFY Bernie's message to Progressives.Can we get 5,000 RETWEETS in 3 HOURS?Help spread this far and wide!#Lis… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
