@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tatum"**
+&#x1F34E; **TOPIC = "#loveorhost"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,27 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @TheAthletic @garyvee but to think if I was a kid, instead of stocks and bonds we could learn more about Mookie bet… https://t.co/gEGm73N08X |
-| @NBCSCeltics Play kanter- play Javonte too much theis and too long waiting for Tatum to get going |
-| @MowattCity Tatum with a OBVIOUS offensive foul, kemba with the Oscar winning flop 😂😂 |
+| RT @kaceytron: about to find myself a husband, wish me luck#loveorhost https://t.co/1ZdMv6lYgM |
+| @Rawssy Nothing beats this #LoveorHost https://t.co/4FqXjyoSTs |
+| RT @naninotfound: LOVE OR HOST FT. @Technothepig  THIS THURSDAY (09/24) 4PM EST Ladies if you’re interested DM @GetOnAustinShow. You m… |
 
-The most popular user is: **____tatum**
-<div class="alert alert-block alert-danger"> RT @zaynmalik: Our baby girl is here, healthy &amp; beautiful🙏🏽❤️to try put into words how i am feeling right now would be an impossible task.…</div>
+The most popular user is: **blockmansimpp**
+<div class="alert alert-block alert-danger"> RT @AustinOnTwitter: LOVE OR HOST FT. @sapnap 
+ 
+THIS THURSDAY (09/24) 4PM EST 
+
+Ladies if you’re interested DM 
+@GetOnAustinShow. You must…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NBA** |
-| #2 Most tweeted to  | **MiamiHEAT** |
-| #3 Most tweeted to  | **TheLeadSM** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 3.63%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **sapnap** |
+| #2 Most tweeted to  | **AustinOnTwitter** |
+| #3 Most tweeted to  | **GetOnAustinShow** |
+| NewProfiles (less than 10 days) | 2.69%  |
+| Tweeters with < 10 followers  | 20.35%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +44,28 @@ The most popular user is: **____tatum**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TATUM**  |
-| second  | **🏀**  |
-| third  | **JAYSON** |
-| fourth  | **GAME**  |
-| fifth  | **HERRO**  |
+| first  | **LOVEORHOST**  |
+| second  | **LOVE**  |
+| third  | **HOST** |
+| fourth  | **SAPNAP**  |
+| fifth  | **@SAPNAP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@GHardbody @M_Burgoyne4 @celtics Heat needed a 37 point game by a rookie, Tatum to go scoreless the first half, and… https://t.co/2nBMiBI5Pu |
+|RT @eefsimp: yall know damn well sapnap’s pulling up with this fit 😈🔥💯 #loveorhost https://t.co/XLPzSnogKo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **____tatum**  |
+| The most retweeted user is: **blockmansimpp**  |
 | ------------- |
-| RT @zaynmalik: Our baby girl is here, healthy &amp; beautiful🙏🏽❤️to try put into words how i am feeling right now would be an impossible task.… |
+| RT @AustinOnTwitter: LOVE OR HOST FT. @sapnap  THIS THURSDAY (09/24) 4PM EST Ladies if you’re interested DM @GetOnAustinShow. You must… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
