@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ListenToBernie"**
+&#x1F34E; **TOPIC = "Tatum"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Eric_Hanke: I preferred Bernie to Biden. But, the primary didn't turn out the way I'd hoped. I did #ListenToBernie, and voted for Biden… |
-| RT @BlackBernieBabe: Instead of asking MILLIONS of progressives to #ListenToBernie, wouldnt it be more effective to get just ONE person,  J… |
-| RT @mmpadellan: #ListenToBernie and vote for Joe Biden because it's LITERALLY a matter of life or death.RETWEET TO SPREAD THE WORD.https… |
+| @TheAthletic @garyvee but to think if I was a kid, instead of stocks and bonds we could learn more about Mookie bet… https://t.co/gEGm73N08X |
+| @NBCSCeltics Play kanter- play Javonte too much theis and too long waiting for Tatum to get going |
+| @MowattCity Tatum with a OBVIOUS offensive foul, kemba with the Oscar winning flop 😂😂 |
 
-The most popular user is: **michelestx**
-<div class="alert alert-block alert-danger"> RT @mmpadellan: Let's AMPLIFY Bernie's message to Progressives.
-
-Can we get 5,000 RETWEETS in 3 HOURS?
-
-Help spread this far and wide!
-#Lis…</div>
+The most popular user is: **____tatum**
+<div class="alert alert-block alert-danger"> RT @zaynmalik: Our baby girl is here, healthy &amp; beautiful🙏🏽❤️to try put into words how i am feeling right now would be an impossible task.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ReallyAmerican1** |
-| #2 Most tweeted to  | **mmpadellan** |
-| #3 Most tweeted to  | **JoeBiden** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 5.0%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **NBA** |
+| #2 Most tweeted to  | **MiamiHEAT** |
+| #3 Most tweeted to  | **TheLeadSM** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 3.63%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -44,28 +39,28 @@ Help spread this far and wide!
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LISTENTOBERNIE**  |
-| second  | **@REALLYAMERICAN1:**  |
-| third  | **BERNIE** |
-| fourth  | **TRUMP**  |
-| fifth  | **PROGRESSIVES**  |
+| first  | **TATUM**  |
+| second  | **🏀**  |
+| third  | **JAYSON** |
+| fourth  | **GAME**  |
+| fifth  | **HERRO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DrDooleyMD: We loved Bernie because of his POLICIES which favored everyday people, the poor, &amp; the vulnerable.  Adopt his policies an… |
+|@GHardbody @M_Burgoyne4 @celtics Heat needed a 37 point game by a rookie, Tatum to go scoreless the first half, and… https://t.co/2nBMiBI5Pu |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **michelestx**  |
+| The most retweeted user is: **____tatum**  |
 | ------------- |
-| RT @mmpadellan: Let's AMPLIFY Bernie's message to Progressives.Can we get 5,000 RETWEETS in 3 HOURS?Help spread this far and wide!#Lis… |
+| RT @zaynmalik: Our baby girl is here, healthy &amp; beautiful🙏🏽❤️to try put into words how i am feeling right now would be an impossible task.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
