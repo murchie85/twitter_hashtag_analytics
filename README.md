@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#loveorhost"**
+&#x1F34E; **TOPIC = "Origi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,27 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kaceytron: about to find myself a husband, wish me luck#loveorhost https://t.co/1ZdMv6lYgM |
-| @Rawssy Nothing beats this #LoveorHost https://t.co/4FqXjyoSTs |
-| RT @naninotfound: LOVE OR HOST FT. @Technothepig  THIS THURSDAY (09/24) 4PM EST Ladies if you’re interested DM @GetOnAustinShow. You m… |
+| Origi gets one,price just gone up Red's 👍😀 |
+| Well guess he's going and Origi is staying then https://t.co/Sg2sRs6ynJ |
+| Well give PSG Harry Wilson Origi and 40m |
 
-The most popular user is: **blockmansimpp**
-<div class="alert alert-block alert-danger"> RT @AustinOnTwitter: LOVE OR HOST FT. @sapnap 
- 
-THIS THURSDAY (09/24) 4PM EST 
-
-Ladies if you’re interested DM 
-@GetOnAustinShow. You must…</div>
+The most popular user is: **Origi_goat**
+<div class="alert alert-block alert-danger"> RT @Ibra_official: I tested negative to Covid yesterday and positive today. No symptoms what so ever. Covid had the courage to challenge me…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **sapnap** |
-| #2 Most tweeted to  | **AustinOnTwitter** |
-| #3 Most tweeted to  | **GetOnAustinShow** |
-| NewProfiles (less than 10 days) | 2.69%  |
-| Tweeters with < 10 followers  | 20.35%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **CTQ_Origi** |
+| #2 Most tweeted to  | **JamesPearceLFC** |
+| #3 Most tweeted to  | **LFC** |
+| NewProfiles (less than 10 days) | 0.91%  |
+| Tweeters with < 10 followers  | 2.71%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -44,28 +39,28 @@ Ladies if you’re interested DM
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LOVEORHOST**  |
-| second  | **LOVE**  |
-| third  | **HOST** |
-| fourth  | **SAPNAP**  |
-| fifth  | **@SAPNAP**  |
+| first  | **ORIGI**  |
+| second  | **LFC**  |
+| third  | **MINAMINO** |
+| fourth  | **BREWSTER**  |
+| fifth  | **LIVERPOOL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @eefsimp: yall know damn well sapnap’s pulling up with this fit 😈🔥💯 #loveorhost https://t.co/XLPzSnogKo |
+|RT @ronnui_: parents: Stop thrashing around up there, what are you listening to death metal?me: yes.my stereo:          Phil Collins… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **blockmansimpp**  |
+| The most retweeted user is: **Origi_goat**  |
 | ------------- |
-| RT @AustinOnTwitter: LOVE OR HOST FT. @sapnap  THIS THURSDAY (09/24) 4PM EST Ladies if you’re interested DM @GetOnAustinShow. You must… |
+| RT @Ibra_official: I tested negative to Covid yesterday and positive today. No symptoms what so ever. Covid had the courage to challenge me… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
