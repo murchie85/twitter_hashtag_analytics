@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#nationaldaughtersday"**
+&#x1F34E; **TOPIC = "Ron Paul"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| One of a kind... Love her so much ❤️💕 #nationaldaughtersday  @rachelarreguin_ #DaughtersDay #daughterlove… https://t.co/3CO5p8IRre |
-| My beautiful, loving, compassionate daughter! ❤️❤️@M_urbanski2 #nationaldaughtersday https://t.co/Le0NfJFD0N |
-| RT @kennethcolereal: “The state controlling a woman would mean denying her full autonomy and full equality” #RGB… |
+| @Torsk19 @realDonaldTrump If anyone would get my vote, he is the one. Ron Paul.https://t.co/r9SKVtg31N |
+| RT @adam22: Ron Paul just had a stroke while on live stream. Holy shit https://t.co/0aLw7rDIeZ |
+| @ChrisVogtMac @LarryFa16499701 @RockiWingard @mmpadellan WHY? Evil people should EARN compassion just like Libertar… https://t.co/qujaUkU2pv |
 
-The most popular user is: **NarendraPawank5**
-<div class="alert alert-block alert-danger"> RT @upasanakonidela: Check out My sweetest Mamaya #MegastarChiranjeevi in the reflection taking my pic post the #syeeranarasimhareddy event…</div>
+The most popular user is: **queenzoso_scott**
+<div class="alert alert-block alert-danger"> RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DCBatman** |
-| #2 Most tweeted to  | **GregAbbott_TX** |
-| #3 Most tweeted to  | **BobsBurgersFOX** |
-| NewProfiles (less than 10 days) | 1.05%  |
-| Tweeters with < 10 followers  | 3.66%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **RonPaul** |
+| #2 Most tweeted to  | **mmpadellan** |
+| #3 Most tweeted to  | **stillgray** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 3.95%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **NarendraPawank5**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALDAUGHTERSDAY**  |
-| second  | **LOVE**  |
-| third  | **DAUGHTERS** |
-| fourth  | **DAUGHTER**  |
-| fifth  | **DAY**  |
+| first  | **RON**  |
+| second  | **PAUL**  |
+| third  | **DOING** |
+| fourth  | **FINE**  |
+| fifth  | **THANK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Happy National Daughters Day Little Girl! I Love You With All My Heart!! ❤️#nationaldaughtersday #loveher https://t.co/4YOhNF7sYj |
+|RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NarendraPawank5**  |
+| The most retweeted user is: **queenzoso_scott**  |
 | ------------- |
-| RT @upasanakonidela: Check out My sweetest Mamaya #MegastarChiranjeevi in the reflection taking my pic post the #syeeranarasimhareddy event… |
+| RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
