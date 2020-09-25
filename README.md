@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Origi"**
+&#x1F34E; **TOPIC = "#nationaldaughtersday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Origi gets one,price just gone up Red's 👍😀 |
-| Well guess he's going and Origi is staying then https://t.co/Sg2sRs6ynJ |
-| Well give PSG Harry Wilson Origi and 40m |
+| One of a kind... Love her so much ❤️💕 #nationaldaughtersday  @rachelarreguin_ #DaughtersDay #daughterlove… https://t.co/3CO5p8IRre |
+| My beautiful, loving, compassionate daughter! ❤️❤️@M_urbanski2 #nationaldaughtersday https://t.co/Le0NfJFD0N |
+| RT @kennethcolereal: “The state controlling a woman would mean denying her full autonomy and full equality” #RGB… |
 
-The most popular user is: **Origi_goat**
-<div class="alert alert-block alert-danger"> RT @Ibra_official: I tested negative to Covid yesterday and positive today. No symptoms what so ever. Covid had the courage to challenge me…</div>
+The most popular user is: **NarendraPawank5**
+<div class="alert alert-block alert-danger"> RT @upasanakonidela: Check out My sweetest Mamaya #MegastarChiranjeevi in the reflection taking my pic post the #syeeranarasimhareddy event…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CTQ_Origi** |
-| #2 Most tweeted to  | **JamesPearceLFC** |
-| #3 Most tweeted to  | **LFC** |
-| NewProfiles (less than 10 days) | 0.91%  |
-| Tweeters with < 10 followers  | 2.71%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **DCBatman** |
+| #2 Most tweeted to  | **GregAbbott_TX** |
+| #3 Most tweeted to  | **BobsBurgersFOX** |
+| NewProfiles (less than 10 days) | 1.05%  |
+| Tweeters with < 10 followers  | 3.66%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Origi_goat**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ORIGI**  |
-| second  | **LFC**  |
-| third  | **MINAMINO** |
-| fourth  | **BREWSTER**  |
-| fifth  | **LIVERPOOL**  |
+| first  | **NATIONALDAUGHTERSDAY**  |
+| second  | **LOVE**  |
+| third  | **DAUGHTERS** |
+| fourth  | **DAUGHTER**  |
+| fifth  | **DAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ronnui_: parents: Stop thrashing around up there, what are you listening to death metal?me: yes.my stereo:          Phil Collins… |
+|Happy National Daughters Day Little Girl! I Love You With All My Heart!! ❤️#nationaldaughtersday #loveher https://t.co/4YOhNF7sYj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Origi_goat**  |
+| The most retweeted user is: **NarendraPawank5**  |
 | ------------- |
-| RT @Ibra_official: I tested negative to Covid yesterday and positive today. No symptoms what so ever. Covid had the courage to challenge me… |
+| RT @upasanakonidela: Check out My sweetest Mamaya #MegastarChiranjeevi in the reflection taking my pic post the #syeeranarasimhareddy event… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
