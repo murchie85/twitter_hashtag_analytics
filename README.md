@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ron Paul"**
+&#x1F34E; **TOPIC = "Jill Stein"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Torsk19 @realDonaldTrump If anyone would get my vote, he is the one. Ron Paul.https://t.co/r9SKVtg31N |
-| RT @adam22: Ron Paul just had a stroke while on live stream. Holy shit https://t.co/0aLw7rDIeZ |
-| @ChrisVogtMac @LarryFa16499701 @RockiWingard @mmpadellan WHY? Evil people should EARN compassion just like Libertar… https://t.co/qujaUkU2pv |
+| @krystalball Black men who stayed home weren’t on the campaign trail tearing down the only person who could beat Tr… https://t.co/28Tn2XS7xf |
+| RT @PalmerReport: If you voted for Jill Stein in 2016, you should be spending every waking moment trying to atone for it by working to get… |
+| RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could… |
 
-The most popular user is: **queenzoso_scott**
-<div class="alert alert-block alert-danger"> RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj</div>
+The most popular user is: **suma_sue**
+<div class="alert alert-block alert-danger"> RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonPaul** |
-| #2 Most tweeted to  | **mmpadellan** |
-| #3 Most tweeted to  | **stillgray** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 3.95%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **atrupar** |
+| #2 Most tweeted to  | **GabbieKDrice** |
+| #3 Most tweeted to  | **SnarkyL** |
+| NewProfiles (less than 10 days) | 0.35%  |
+| Tweeters with < 10 followers  | 2.15%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **queenzoso_scott**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RON**  |
-| second  | **PAUL**  |
-| third  | **DOING** |
-| fourth  | **FINE**  |
-| fifth  | **THANK**  |
+| first  | **JILL**  |
+| second  | **STEIN**  |
+| third  | **VOTED** |
+| fourth  | **@ATRUPAR:**  |
+| fifth  | **EVEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj |
+|"Jill Stein" I always thought that an interesting Presidential ticket would be Al Franken and Jill Stein. It would… https://t.co/1cGO9sg2mM |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **queenzoso_scott**  |
+| The most retweeted user is: **suma_sue**  |
 | ------------- |
-| RT @RonPaul: Message from Ron Paul: "I am doing fine. Thank you for your concern." https://t.co/aALmLn8xIj |
+| RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
