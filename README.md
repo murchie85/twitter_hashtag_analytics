@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Proud Boys"**
+&#x1F34E; **TOPIC = "Chelsea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @andrewkimmel: Armed supporters of the Proud Boys, dressed in full military fatigues and wearing “body cams” are directing us where to g… |
-| Live updates: Portland braces for Proud Boys rally weeks after far-right activist fatally shot https://t.co/wn3e37FaGd |
-| RT @vote4robgill: I’m not a betting man, but I’d bet $100 that at least 80% of “Proud Boys” are single. RT if you agree. https://t.co/w6KNj… |
+| RT @ogbeni_ceejay: Chelsea's rival fans looking at West Brom players after they thought Chelsea lost already:            #WBACHE |
+| RT @FrankKhalidUK: Missing Chelsea away trips. Exciting feeling from the moment you start your journey &amp; then in the stadium. Just want thi… |
+| RT @CFCYahya: Just realised if VAR existed in 2009 Chelsea would have been through to the Champions League Final... https://t.co/HSBWbhfPeW |
 
-The most popular user is: **flowershouis**
-<div class="alert alert-block alert-danger"> RT @zaynmalik: Proud of my boys the new single is sick.
-Big love. :) x</div>
+The most popular user is: **chelsea_lately8**
+<div class="alert alert-block alert-danger"> RT @Iennonstella: um americans who are voting pls watch this vid https://t.co/6PiqmGEyfy</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Amy_Siskind** |
-| #2 Most tweeted to  | **PDXzane** |
-| #3 Most tweeted to  | **RichieMcGinniss** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 3.41%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **TrollFootball** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 3.68%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -40,28 +39,28 @@ Big love. :) x</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PROUD**  |
-| second  | **BOYS**  |
-| third  | **PORTLAND** |
-| fourth  | **RALLY**  |
-| fifth  | **POLICE**  |
+| first  | **CHELSEA**  |
+| second  | **AFTER**  |
+| third  | **WEST** |
+| fourth  | **FANS**  |
+| fifth  | **MINUTE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PDXzane: Another media person is pushed near entrance to Delta Park in Portland during Proud Boys rally https://t.co/7Q21wxkeHe |
+|RT @ConnCFC: "Stop Celebrating a draw"Chelsea fans can be happy we didn't lose and still be annoyed by the performance btw.. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **flowershouis**  |
+| The most retweeted user is: **chelsea_lately8**  |
 | ------------- |
-| RT @zaynmalik: Proud of my boys the new single is sick.Big love. :) x |
+| RT @Iennonstella: um americans who are voting pls watch this vid https://t.co/6PiqmGEyfy |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
