@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jill Stein"**
+&#x1F34E; **TOPIC = "Proud Boys"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @krystalball Black men who stayed home weren’t on the campaign trail tearing down the only person who could beat Tr… https://t.co/28Tn2XS7xf |
-| RT @PalmerReport: If you voted for Jill Stein in 2016, you should be spending every waking moment trying to atone for it by working to get… |
-| RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could… |
+| RT @andrewkimmel: Armed supporters of the Proud Boys, dressed in full military fatigues and wearing “body cams” are directing us where to g… |
+| Live updates: Portland braces for Proud Boys rally weeks after far-right activist fatally shot https://t.co/wn3e37FaGd |
+| RT @vote4robgill: I’m not a betting man, but I’d bet $100 that at least 80% of “Proud Boys” are single. RT if you agree. https://t.co/w6KNj… |
 
-The most popular user is: **suma_sue**
-<div class="alert alert-block alert-danger"> RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could…</div>
+The most popular user is: **flowershouis**
+<div class="alert alert-block alert-danger"> RT @zaynmalik: Proud of my boys the new single is sick.
+Big love. :) x</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **atrupar** |
-| #2 Most tweeted to  | **GabbieKDrice** |
-| #3 Most tweeted to  | **SnarkyL** |
-| NewProfiles (less than 10 days) | 0.35%  |
-| Tweeters with < 10 followers  | 2.15%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Amy_Siskind** |
+| #2 Most tweeted to  | **PDXzane** |
+| #3 Most tweeted to  | **RichieMcGinniss** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 3.41%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **suma_sue**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JILL**  |
-| second  | **STEIN**  |
-| third  | **VOTED** |
-| fourth  | **@ATRUPAR:**  |
-| fifth  | **EVEN**  |
+| first  | **PROUD**  |
+| second  | **BOYS**  |
+| third  | **PORTLAND** |
+| fourth  | **RALLY**  |
+| fifth  | **POLICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|"Jill Stein" I always thought that an interesting Presidential ticket would be Al Franken and Jill Stein. It would… https://t.co/1cGO9sg2mM |
+|RT @PDXzane: Another media person is pushed near entrance to Delta Park in Portland during Proud Boys rally https://t.co/7Q21wxkeHe |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **suma_sue**  |
+| The most retweeted user is: **flowershouis**  |
 | ------------- |
-| RT @atrupar: Amy Coney Barrett is anti-abortion, anti-gun control, anti-health care, and even seems to oppose same-sex marriage. She could… |
+| RT @zaynmalik: Proud of my boys the new single is sick.Big love. :) x |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
