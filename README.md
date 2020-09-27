@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chelsea"**
+&#x1F34E; **TOPIC = "Falcons"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ogbeni_ceejay: Chelsea's rival fans looking at West Brom players after they thought Chelsea lost already:            #WBACHE |
-| RT @FrankKhalidUK: Missing Chelsea away trips. Exciting feeling from the moment you start your journey &amp; then in the stadium. Just want thi… |
-| RT @CFCYahya: Just realised if VAR existed in 2009 Chelsea would have been through to the Champions League Final... https://t.co/HSBWbhfPeW |
+| @ajohnsocyber Because anyone can beat the Falcons.  I JUST DON’T GET IT |
+| RT @KarlousM: All the falcons fans right now. https://t.co/SuKll5JDK7 |
+| RT @ShannonSharpe: Falcons owner, Arthur Blank can write all the books he like about not reacting out of anger or frustration, but Dan Quin… |
 
-The most popular user is: **chelsea_lately8**
-<div class="alert alert-block alert-danger"> RT @Iennonstella: um americans who are voting pls watch this vid https://t.co/6PiqmGEyfy</div>
+The most popular user is: **falcons_celtics**
+<div class="alert alert-block alert-danger"> RT @SenSchumer: President Trump just admitted his nominee will strike down the Affordable Care Act.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **TrollFootball** |
-| #3 Most tweeted to  | **ESPNFC** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 3.68%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **NFL_Memes** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **brgridiron** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 3.16%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **chelsea_lately8**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHELSEA**  |
-| second  | **AFTER**  |
-| third  | **WEST** |
-| fourth  | **FANS**  |
-| fifth  | **MINUTE**  |
+| first  | **FALCONS**  |
+| second  | **LEAD**  |
+| third  | **FANS** |
+| fourth  | **TEAM**  |
+| fifth  | **DAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ConnCFC: "Stop Celebrating a draw"Chelsea fans can be happy we didn't lose and still be annoyed by the performance btw.. |
+|RT @NOTSportsCenter: Falcons fans, watching Dan Quinn blow a huge 2nd half lead and lose for the 2nd week in a row https://t.co/lmrBQAqFq5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **chelsea_lately8**  |
+| The most retweeted user is: **falcons_celtics**  |
 | ------------- |
-| RT @Iennonstella: um americans who are voting pls watch this vid https://t.co/6PiqmGEyfy |
+| RT @SenSchumer: President Trump just admitted his nominee will strike down the Affordable Care Act. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
