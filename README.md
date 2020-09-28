@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jota"**
+&#x1F34E; **TOPIC = "Doc Rivers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,30 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| What a performance that. Dominated throughout, happy for Jota, front 3 were something else. Some off the link up pl… https://t.co/JujjFj6uP8 |
-| RT @premierleague: GOAL Liverpool 3-1 Arsenal (88 mins)Debutant Diogo Jota finds the bottom corner with a volley to extend Liverpool's le… |
-| RT @_Champ19ns: @LFC Diogo Jota on his Anfield debut scores at the kop end ⚽#LFC#YNWA |
+| RT @arrestful: @SportsCenter @wojespn Paul George: “We’ll run it back next year” Doc Rivers:  https://t.co/kMkScXJTOY |
+| RT @TheOffTheGlass: Let’s not forget Doc Rivers help make the Clippers a relevant franchise in a city that already has a cornerstone histor… |
+| RT @KingJosiah54: How Doc Rivers pulling up to the Rockets facility https://t.co/Tp9FylQaOt |
 
-The most popular user is: **PTBooms**
-<div class="alert alert-block alert-danger"> RT @dhulligan: diogo jota song 
-
-🎼 diogo jota 
-ele e um ala 
-he was born to entertain 
-
-diogo jota 
-how can they stop yer 
-when we keep sin…</div>
+The most popular user is: **WhyTryJustDo**
+<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: Doc Rivers in the Clippers Locker Room after Game 7 😂💀🏀 https://t.co/yFVyKmPXK2</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LFC** |
-| #2 Most tweeted to  | **premierleague** |
-| #3 Most tweeted to  | **JamesPearceLFC** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 2.13%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **MarcJSpears** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 2.48%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -47,28 +39,28 @@ when we keep sin…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOTA**  |
-| second  | **LIVERPOOL**  |
-| third  | **DIOGO** |
-| fourth  | **GOAL**  |
-| fifth  | **ARSENAL**  |
+| first  | **DOC**  |
+| second  | **RIVERS**  |
+| third  | **CLIPPERS** |
+| fourth  | **COACH**  |
+| fifth  | **TELL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (9.09%) & **NEGATIVELY-SUBJECTIVE** (9.09%) **OBJECTIVE** (81.82%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LFC @LFC we see clearly the difference between klopp and guardiola. Klopp bring 2 players jota and thiago who hel… https://t.co/0YSNkX7qbw |
+|RT @BA_Turner: Sources: Names that will come up to replace fired Doc Rivers; Clippers assistant coach Ty Lue, who supposed to interview for… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PTBooms**  |
+| The most retweeted user is: **WhyTryJustDo**  |
 | ------------- |
-| RT @dhulligan: diogo jota song 🎼 diogo jota ele e um ala he was born to entertain diogo jota how can they stop yer when we keep sin… |
+| RT @SupremeDreams_1: Doc Rivers in the Clippers Locker Room after Game 7 😂💀🏀 https://t.co/yFVyKmPXK2 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
