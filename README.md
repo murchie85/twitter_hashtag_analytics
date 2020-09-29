@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Reddick"**
+&#x1F34E; **TOPIC = "David Dobrik"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Bases loaded, Reddick hitting, 2 outs...inning over 🙄 |
-| RT @DustyBakerTV: The fact that Reddick was hitting .314 really should have been an early indicator that something was up. These numbers ar… |
-| REDDICK!!! |
+| RT @foIklorey: no ill never win a tesla from david dobrik yes im gonna try every time anyways like a fool  https://t.co/di3eZgaMN1 |
+| saw david dobrik was trending and i didn’t even have to tap on his name bc i knew it was for teslas |
+| i miss david dobrik vlogs |
 
-The most popular user is: **sabrina_reddick**
-<div class="alert alert-block alert-danger"> RT @muslimahpaintsx: The art               Vs        The artist https://t.co/dJm3Cdi4Xe</div>
+The most popular user is: **maxwilliams3501**
+<div class="alert alert-block alert-danger"> RT @eddaelizabeth_: i don’t know who needs to hear this but david dobrik is not giving u a tesla</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DustyBakerTV** |
-| #2 Most tweeted to  | **brianmctaggart** |
-| #3 Most tweeted to  | **Chandler_Rome** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 3.04%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **lorimaresky** |
+| #2 Most tweeted to  | **ianrborthwick** |
+| #3 Most tweeted to  | **danesh_khan10** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 4.84%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sabrina_reddick**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REDDICK**  |
-| second  | **JOSH**  |
-| third  | **REALLY** |
-| fourth  | **THESE**  |
-| fifth  | **SOMETHING**  |
+| first  | **DAVID**  |
+| second  | **DOBRIK**  |
+| third  | **TESLA** |
+| fourth  | **AWAY**  |
+| fifth  | **@LORIMARESKY:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@RCRracing @austindillon3 @DowSports @LVMotorSpeedway @TeamChevy Getting Reddick back on the lead lap |
+|RT @ahoyladiessss: i may be down bad but you ain’t finna see David dobrik shared on my story |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sabrina_reddick**  |
+| The most retweeted user is: **maxwilliams3501**  |
 | ------------- |
-| RT @muslimahpaintsx: The art               Vs        The artist https://t.co/dJm3Cdi4Xe |
+| RT @eddaelizabeth_: i don’t know who needs to hear this but david dobrik is not giving u a tesla |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
