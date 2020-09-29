@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Doc Rivers"**
+&#x1F34E; **TOPIC = "Reddick"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @arrestful: @SportsCenter @wojespn Paul George: “We’ll run it back next year” Doc Rivers:  https://t.co/kMkScXJTOY |
-| RT @TheOffTheGlass: Let’s not forget Doc Rivers help make the Clippers a relevant franchise in a city that already has a cornerstone histor… |
-| RT @KingJosiah54: How Doc Rivers pulling up to the Rockets facility https://t.co/Tp9FylQaOt |
+| Bases loaded, Reddick hitting, 2 outs...inning over 🙄 |
+| RT @DustyBakerTV: The fact that Reddick was hitting .314 really should have been an early indicator that something was up. These numbers ar… |
+| REDDICK!!! |
 
-The most popular user is: **WhyTryJustDo**
-<div class="alert alert-block alert-danger"> RT @SupremeDreams_1: Doc Rivers in the Clippers Locker Room after Game 7 😂💀🏀 https://t.co/yFVyKmPXK2</div>
+The most popular user is: **sabrina_reddick**
+<div class="alert alert-block alert-danger"> RT @muslimahpaintsx: The art               Vs        The artist https://t.co/dJm3Cdi4Xe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **MarcJSpears** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.48%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **DustyBakerTV** |
+| #2 Most tweeted to  | **brianmctaggart** |
+| #3 Most tweeted to  | **Chandler_Rome** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 3.04%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **WhyTryJustDo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOC**  |
-| second  | **RIVERS**  |
-| third  | **CLIPPERS** |
-| fourth  | **COACH**  |
-| fifth  | **TELL**  |
+| first  | **REDDICK**  |
+| second  | **JOSH**  |
+| third  | **REALLY** |
+| fourth  | **THESE**  |
+| fifth  | **SOMETHING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (9.09%) & **NEGATIVELY-SUBJECTIVE** (9.09%) **OBJECTIVE** (81.82%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BA_Turner: Sources: Names that will come up to replace fired Doc Rivers; Clippers assistant coach Ty Lue, who supposed to interview for… |
+|@RCRracing @austindillon3 @DowSports @LVMotorSpeedway @TeamChevy Getting Reddick back on the lead lap |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WhyTryJustDo**  |
+| The most retweeted user is: **sabrina_reddick**  |
 | ------------- |
-| RT @SupremeDreams_1: Doc Rivers in the Clippers Locker Room after Game 7 😂💀🏀 https://t.co/yFVyKmPXK2 |
+| RT @muslimahpaintsx: The art               Vs        The artist https://t.co/dJm3Cdi4Xe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
