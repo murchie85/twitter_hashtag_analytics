@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "David Dobrik"**
+&#x1F34E; **TOPIC = "#BadThingsHappenInPhilly"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @foIklorey: no ill never win a tesla from david dobrik yes im gonna try every time anyways like a fool  https://t.co/di3eZgaMN1 |
-| saw david dobrik was trending and i didn’t even have to tap on his name bc i knew it was for teslas |
-| i miss david dobrik vlogs |
+| RT @Methexis1: Well, if you really don't like this document, sure.#BadThingsHappenInPhilly https://t.co/f7J17Tg8pv |
+| No one likes us, No one likes us, No one likes us, We don't care. We're from Philly, Fucking Philly, No one l… https://t.co/RWEMGhESwr |
+| RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou… |
 
-The most popular user is: **maxwilliams3501**
-<div class="alert alert-block alert-danger"> RT @eddaelizabeth_: i don’t know who needs to hear this but david dobrik is not giving u a tesla</div>
+The most popular user is: **johnkylegordon**
+<div class="alert alert-block alert-danger"> RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lorimaresky** |
-| #2 Most tweeted to  | **ianrborthwick** |
-| #3 Most tweeted to  | **danesh_khan10** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 4.84%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **TheRealRobertIs** |
+| #2 Most tweeted to  | **Methexis1** |
+| #3 Most tweeted to  | **6oclockJessie** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 3.53%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **maxwilliams3501**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAVID**  |
-| second  | **DOBRIK**  |
-| third  | **TESLA** |
-| fourth  | **AWAY**  |
-| fifth  | **@LORIMARESKY:**  |
+| first  | **BADTHINGSHAPPENINPHILLY**  |
+| second  | **PHILLY**  |
+| third  | **PHILADELPHIA** |
+| fourth  | **BAD**  |
+| fifth  | **THOU**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ahoyladiessss: i may be down bad but you ain’t finna see David dobrik shared on my story |
+|RT @ellelljaytoo: Big dumb orange Jabroni! And I am NOT talking about #Gritty. IT'S ALWAYS SUNNY IN PHILADELPHIA dumbass.#BadThingsHapp… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **maxwilliams3501**  |
+| The most retweeted user is: **johnkylegordon**  |
 | ------------- |
-| RT @eddaelizabeth_: i don’t know who needs to hear this but david dobrik is not giving u a tesla |
+| RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
