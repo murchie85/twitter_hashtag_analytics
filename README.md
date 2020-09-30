@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BadThingsHappenInPhilly"**
+&#x1F34E; **TOPIC = "#BlueJays"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Methexis1: Well, if you really don't like this document, sure.#BadThingsHappenInPhilly https://t.co/f7J17Tg8pv |
-| No one likes us, No one likes us, No one likes us, We don't care. We're from Philly, Fucking Philly, No one l… https://t.co/RWEMGhESwr |
-| RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou… |
+| Not sure if this could have gone any worse. #bluejays |
+| RT @spiritualtime: #BlueJaysEveryone should listen to the spiritual discourse by True Spiritual Master Saint Rampal Ji Maharaj for eternal… |
+| People bet against Blake Snell ???#rays #bluejays #MLBPlayoffs |
 
-The most popular user is: **johnkylegordon**
-<div class="alert alert-block alert-danger"> RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou…</div>
+The most popular user is: **USA_cocoa_farmr**
+<div class="alert alert-block alert-danger"> RT @BlueJays: This is for YOU, #BlueJays fans! https://t.co/pypWmbpUSc</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheRealRobertIs** |
-| #2 Most tweeted to  | **Methexis1** |
-| #3 Most tweeted to  | **6oclockJessie** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 3.53%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Shalumehta95** |
+| #2 Most tweeted to  | **BlueJays** |
+| #3 Most tweeted to  | **IMsweety_1** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 2.65%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **johnkylegordon**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BADTHINGSHAPPENINPHILLY**  |
-| second  | **PHILLY**  |
-| third  | **PHILADELPHIA** |
-| fourth  | **BAD**  |
-| fifth  | **THOU**  |
+| first  | **BLUEJAYS**  |
+| second  | **TRUE**  |
+| third  | **GOD** |
+| fourth  | **SAINT**  |
+| fifth  | **RAMPAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ellelljaytoo: Big dumb orange Jabroni! And I am NOT talking about #Gritty. IT'S ALWAYS SUNNY IN PHILADELPHIA dumbass.#BadThingsHapp… |
+|#BlueJaysEveryone should listen to the spiritual discourse by True Spiritual Master Saint Rampal Ji Maharaj for et… https://t.co/BR2X471jIi |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **johnkylegordon**  |
+| The most retweeted user is: **USA_cocoa_farmr**  |
 | ------------- |
-| RT @TheRealRobertIs: Thou shall not talk shit on Philadelphia if thou aren't from Philadelphia. If bad stuff happens in Philadelphia, thou… |
+| RT @BlueJays: This is for YOU, #BlueJays fans! https://t.co/pypWmbpUSc |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
