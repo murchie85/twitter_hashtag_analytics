@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BlueJays"**
+&#x1F34E; **TOPIC = "#JeffreeStarByeBills"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Not sure if this could have gone any worse. #bluejays |
-| RT @spiritualtime: #BlueJaysEveryone should listen to the spiritual discourse by True Spiritual Master Saint Rampal Ji Maharaj for eternal… |
-| People bet against Blake Snell ???#rays #bluejays #MLBPlayoffs |
+| @JeffreeStar @CashApp $Felichia2010 #JeffreeStarByeBills I can’t tell you how amazing it would be to get some help :) |
+| @JeffreeStar @CashApp Why not try this.  #JeffreeStarByeBills $dotOchoah is the username.  Please n thank you ☺️ |
+| RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time… |
 
-The most popular user is: **USA_cocoa_farmr**
-<div class="alert alert-block alert-danger"> RT @BlueJays: This is for YOU, #BlueJays fans! https://t.co/pypWmbpUSc</div>
+The most popular user is: **Deliciously1st**
+<div class="alert alert-block alert-danger"> RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Shalumehta95** |
-| #2 Most tweeted to  | **BlueJays** |
-| #3 Most tweeted to  | **IMsweety_1** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 2.65%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **JeffreeStar** |
+| #2 Most tweeted to  | **CashApp** |
+| #3 Most tweeted to  | **BruhMom08361543** |
+| NewProfiles (less than 10 days) | 2.1%  |
+| Tweeters with < 10 followers  | 24.09%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **USA_cocoa_farmr**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BLUEJAYS**  |
-| second  | **TRUE**  |
-| third  | **GOD** |
-| fourth  | **SAINT**  |
-| fifth  | **RAMPAL**  |
+| first  | **@CASHAPP**  |
+| second  | **JEFFREESTARBYEBILLS**  |
+| third  | **BILLS** |
+| fourth  | **USE**  |
+| fifth  | **NEEDS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#BlueJaysEveryone should listen to the spiritual discourse by True Spiritual Master Saint Rampal Ji Maharaj for et… https://t.co/BR2X471jIi |
+|@JeffreeStar @CashApp @SullyMaegan you probably not gonna see this but hopefully i can get some blessings❤️ #JeffreeStarByeBills |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **USA_cocoa_farmr**  |
+| The most retweeted user is: **Deliciously1st**  |
 | ------------- |
-| RT @BlueJays: This is for YOU, #BlueJays fans! https://t.co/pypWmbpUSc |
+| RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
