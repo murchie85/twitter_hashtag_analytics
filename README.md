@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#JeffreeStarByeBills"**
+&#x1F34E; **TOPIC = "#RootedInOakland"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @JeffreeStar @CashApp $Felichia2010 #JeffreeStarByeBills I can’t tell you how amazing it would be to get some help :) |
-| @JeffreeStar @CashApp Why not try this.  #JeffreeStarByeBills $dotOchoah is the username.  Please n thank you ☺️ |
-| RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time… |
+| Omg that was nerve-racking!! Phew 😅 @JakeDiekman 🥳 ty! #RootedInOakland |
+| Now that hockey is over... It's time to get up for the baseball playoffs... #LETOGOOAKLAND #RootedInOakland… https://t.co/f8qw6fpzB5 |
+| RT @Athletics: CANHA GET A WALK-OFF HOMER?!FINAL: #Athletics 3, Mariners 1#RootedInOakland https://t.co/Lv4sLDL4fi |
 
-The most popular user is: **Deliciously1st**
-<div class="alert alert-block alert-danger"> RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time…</div>
+The most popular user is: **markbnewt**
+<div class="alert alert-block alert-danger"> RT @Athletics: Crown the Town as the best of the American League West.
+#RootedInOakland https://t.co/Gj3kQYMRYg</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JeffreeStar** |
-| #2 Most tweeted to  | **CashApp** |
-| #3 Most tweeted to  | **BruhMom08361543** |
-| NewProfiles (less than 10 days) | 2.1%  |
-| Tweeters with < 10 followers  | 24.09%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Athletics** |
+| #2 Most tweeted to  | **WCoastScouting** |
+| #3 Most tweeted to  | **AmazinAsCraze** |
+| NewProfiles (less than 10 days) | 0.61%  |
+| Tweeters with < 10 followers  | 1.82%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **Deliciously1st**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@CASHAPP**  |
-| second  | **JEFFREESTARBYEBILLS**  |
-| third  | **BILLS** |
-| fourth  | **USE**  |
-| fifth  | **NEEDS**  |
+| first  | **ROOTEDINOAKLAND**  |
+| second  | **@ATHLETICS:**  |
+| third  | **ATHLETICS** |
+| fourth  | **SEASON**  |
+| fifth  | **A’S**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@JeffreeStar @CashApp @SullyMaegan you probably not gonna see this but hopefully i can get some blessings❤️ #JeffreeStarByeBills |
+|It’s A’s SZN baby. Playoff time! #RootedInOakland |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Deliciously1st**  |
+| The most retweeted user is: **markbnewt**  |
 | ------------- |
-| RT @JeffreeStar: Serious question, who needs their bills paid tonight? ✅ Drop me your @CashApp username and use #JeffreeStarByeBills - Time… |
+| RT @Athletics: Crown the Town as the best of the American League West.#RootedInOakland https://t.co/Gj3kQYMRYg |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
