@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "COVID"**
+&#x1F34E; **TOPIC = "Marine One"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @keithedwards: Why did the president continue campaigning even after he knew Hope Hicks tested positive for COVID-19? |
-| RT @PDinCanada: If Stephen Miller gets COVID it will be the first time in medical history a virus has been transferred from bat to human ba… |
-| RT @notThreat3x: Trump getting COVID right after making fun of Biden for wearing masks is so 2020 |
+| RT @TeamTrump: President @realDonaldTrump gives a thumbs up as he leaves the White House and boards Marine One https://t.co/vwLXsFn7qK |
+| RT @MSNBC: WATCH: Marine One departs the White House for the president's flight to Walter Reed medical center for further medical review. h… |
+| RT @markknoller: Pres Trump gingerly steps off Marine One upon landing on the LZ at Walter Reed National Military Medical Center. He then b… |
 
-The most popular user is: **Pluto_Honey**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We…</div>
+The most popular user is: **JustGussie**
+<div class="alert alert-block alert-danger"> RT @weijia: White House Chief of Staff said “we discovered that right as Marine One was taking off yesterday” for the NJ fundraiser about w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **FLOTUS** |
-| #3 Most tweeted to  | **POTUS** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 4.99%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #2 Most tweeted to  | **TeamTrump** |
+| #3 Most tweeted to  | **bennyjohnson** |
+| NewProfiles (less than 10 days) | 0.59%  |
+| Tweeters with < 10 followers  | 2.78%|
+| Tweeters with > 1000000 followers  | 0.21%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Pluto_Honey**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COVID**  |
+| first  | **MARINE**  |
 | second  | **TRUMP**  |
-| third  | **COVID-19** |
-| fourth  | **POSITIVE**  |
-| fifth  | **TESTED**  |
+| third  | **PRESIDENT** |
+| fourth  | **WALTER**  |
+| fifth  | **REED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @sarahcpr: Breaking: Trump says he cannot release the results of his Covid test because they are under audit |
+|RT @Sam2323_43433: Trump Be Transported To Walter Reed Medical Center 🙏🙏🙏🙏The Move Is Precautionary Measure By The President Physician✅✅… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Pluto_Honey**  |
+| The most retweeted user is: **JustGussie**  |
 | ------------- |
-| RT @realDonaldTrump: Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We… |
+| RT @weijia: White House Chief of Staff said “we discovered that right as Marine One was taking off yesterday” for the NJ fundraiser about w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
