@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RootedInOakland"**
+&#x1F34E; **TOPIC = "COVID"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Omg that was nerve-racking!! Phew 😅 @JakeDiekman 🥳 ty! #RootedInOakland |
-| Now that hockey is over... It's time to get up for the baseball playoffs... #LETOGOOAKLAND #RootedInOakland… https://t.co/f8qw6fpzB5 |
-| RT @Athletics: CANHA GET A WALK-OFF HOMER?!FINAL: #Athletics 3, Mariners 1#RootedInOakland https://t.co/Lv4sLDL4fi |
+| RT @keithedwards: Why did the president continue campaigning even after he knew Hope Hicks tested positive for COVID-19? |
+| RT @PDinCanada: If Stephen Miller gets COVID it will be the first time in medical history a virus has been transferred from bat to human ba… |
+| RT @notThreat3x: Trump getting COVID right after making fun of Biden for wearing masks is so 2020 |
 
-The most popular user is: **markbnewt**
-<div class="alert alert-block alert-danger"> RT @Athletics: Crown the Town as the best of the American League West.
-#RootedInOakland https://t.co/Gj3kQYMRYg</div>
+The most popular user is: **Pluto_Honey**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Athletics** |
-| #2 Most tweeted to  | **WCoastScouting** |
-| #3 Most tweeted to  | **AmazinAsCraze** |
-| NewProfiles (less than 10 days) | 0.61%  |
-| Tweeters with < 10 followers  | 1.82%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **FLOTUS** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 4.99%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **markbnewt**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROOTEDINOAKLAND**  |
-| second  | **@ATHLETICS:**  |
-| third  | **ATHLETICS** |
-| fourth  | **SEASON**  |
-| fifth  | **A’S**  |
+| first  | **COVID**  |
+| second  | **TRUMP**  |
+| third  | **COVID-19** |
+| fourth  | **POSITIVE**  |
+| fifth  | **TESTED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|It’s A’s SZN baby. Playoff time! #RootedInOakland |
+|RT @sarahcpr: Breaking: Trump says he cannot release the results of his Covid test because they are under audit |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **markbnewt**  |
+| The most retweeted user is: **Pluto_Honey**  |
 | ------------- |
-| RT @Athletics: Crown the Town as the best of the American League West.#RootedInOakland https://t.co/Gj3kQYMRYg |
+| RT @realDonaldTrump: Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
