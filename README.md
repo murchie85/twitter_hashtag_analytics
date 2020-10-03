@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalBoyfriendDay"**
+&#x1F34E; **TOPIC = "Bama"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| heard it was #NationalBoyfriendDay 💜 https://t.co/K2tgAvGLOP |
-| RT @Twilight: Happy #NationalBoyfriendDay to our #Twilight boyfriends! 😍 https://t.co/ssLigFX3GN |
-| RT @LuluLuvely: Happy #NationalBoyfriendDay isn’t he the cutest??? 😍😍😍😍😍😍 https://t.co/VNb0pcFKLN |
+| Someone needs to tell Bama that we are coming. #Buckeyes |
+| @BigbodyBall And LSU.. but when you talking LSU &amp; Bama.. might as well say NFL U lol |
+| RT @CarterKarels: Texas A&amp;M fans during every Bama week:Monday- Hello darkness, my old friend.Tuesday- Remember 59-0? This might be wor… |
 
-The most popular user is: **nkyutabom**
-<div class="alert alert-block alert-danger"> RT @ericnamofficial: It’s #NationalBoyfriendDay ... hollaaaaa</div>
+The most popular user is: **bama_fan15**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Going welI, I think! Thank you to all. LOVE!!!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kaylaadempsey** |
-| #2 Most tweeted to  | **danixxmoreno** |
-| #3 Most tweeted to  | **ericnamofficial** |
-| NewProfiles (less than 10 days) | 1.09%  |
-| Tweeters with < 10 followers  | 3.99%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **BarstoolTexasAM** |
+| #2 Most tweeted to  | **BarstoolBigCat** |
+| #3 Most tweeted to  | **BigPooh_91** |
+| NewProfiles (less than 10 days) | 0.51%  |
+| Tweeters with < 10 followers  | 2.33%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nkyutabom**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALBOYFRIENDDAY**  |
-| second  | **HAPPY**  |
-| third  | **BOYFRIEND** |
-| fourth  | **LOVE**  |
-| fifth  | **POST**  |
+| first  | **BAMA**  |
+| second  | **A&AMP;M**  |
+| third  | **GAME** |
+| fourth  | **TEXAS**  |
+| fifth  | **PLAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|happy #NationalBoyfriendDay to my man &lt;3 https://t.co/o0IfB8y2AY |
+|RT @BarstoolTexasAM: BEAT. THE. HELL. OUTTA. BAMA. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nkyutabom**  |
+| The most retweeted user is: **bama_fan15**  |
 | ------------- |
-| RT @ericnamofficial: It’s #NationalBoyfriendDay ... hollaaaaa |
+| RT @realDonaldTrump: Going welI, I think! Thank you to all. LOVE!!! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
