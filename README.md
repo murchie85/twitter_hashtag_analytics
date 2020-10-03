@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#btsonfallon_d5"**
+&#x1F34E; **TOPIC = "#NationalBoyfriendDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FallonTonight: 💥🧨 Ending #BTSWEEK with a bang! 🧨💥@BTS_twt performs their No.1 hit #BTS_Dynamite ▶️ https://t.co/OxKfmybu7g#BTSonFal… |
-| RT @FallonTonight: 💥🧨 Ending #BTSWEEK with a bang! 🧨💥@BTS_twt performs their No.1 hit #BTS_Dynamite ▶️ https://t.co/OxKfmybu7g#BTSonFal… |
-| RT @FallonTonight: Thank you 𝔸ℝ𝕄𝕐 💜 #BTSonFallon_D5 #BTSWEEK #BTSMONTH |
+| heard it was #NationalBoyfriendDay 💜 https://t.co/K2tgAvGLOP |
+| RT @Twilight: Happy #NationalBoyfriendDay to our #Twilight boyfriends! 😍 https://t.co/ssLigFX3GN |
+| RT @LuluLuvely: Happy #NationalBoyfriendDay isn’t he the cutest??? 😍😍😍😍😍😍 https://t.co/VNb0pcFKLN |
 
-The most popular user is: **Fitrian22127032**
-<div class="alert alert-block alert-danger"> RT @FallonTonight: 💥🧨 Ending #BTSWEEK with a bang! 🧨💥
-
-@BTS_twt performs their No.1 hit #BTS_Dynamite ▶️ https://t.co/OxKfmybu7g
-
-#BTSonFal…</div>
+The most popular user is: **nkyutabom**
+<div class="alert alert-block alert-danger"> RT @ericnamofficial: It’s #NationalBoyfriendDay ... hollaaaaa</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FallonTonight** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **BTSChartDaily** |
-| NewProfiles (less than 10 days) | 1.82%  |
-| Tweeters with < 10 followers  | 14.7%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **kaylaadempsey** |
+| #2 Most tweeted to  | **danixxmoreno** |
+| #3 Most tweeted to  | **ericnamofficial** |
+| NewProfiles (less than 10 days) | 1.09%  |
+| Tweeters with < 10 followers  | 3.99%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Fitrian22127032**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BTSWEEK**  |
-| second  | **@FALLONTONIGHT:**  |
-| third  | **BTSONFALLON_D5** |
-| fourth  | **@BTS_TWT**  |
-| fifth  | **BTS_DYNAMITE**  |
+| first  | **NATIONALBOYFRIENDDAY**  |
+| second  | **HAPPY**  |
+| third  | **BOYFRIEND** |
+| fourth  | **LOVE**  |
+| fifth  | **POST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @vocaljking: Bringing this thread back after that amazing, crystal clear performance of Dynamite on #BTSonFallon_D5 !! |
+|happy #NationalBoyfriendDay to my man &lt;3 https://t.co/o0IfB8y2AY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Fitrian22127032**  |
+| The most retweeted user is: **nkyutabom**  |
 | ------------- |
-| RT @FallonTonight: 💥🧨 Ending #BTSWEEK with a bang! 🧨💥@BTS_twt performs their No.1 hit #BTS_Dynamite ▶️ https://t.co/OxKfmybu7g#BTSonFal… |
+| RT @ericnamofficial: It’s #NationalBoyfriendDay ... hollaaaaa |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
