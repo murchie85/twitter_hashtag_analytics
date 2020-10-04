@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bama"**
+&#x1F34E; **TOPIC = "#PowerGhost"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Someone needs to tell Bama that we are coming. #Buckeyes |
-| @BigbodyBall And LSU.. but when you talking LSU &amp; Bama.. might as well say NFL U lol |
-| RT @CarterKarels: Texas A&amp;M fans during every Bama week:Monday- Hello darkness, my old friend.Tuesday- Remember 59-0? This might be wor… |
+| RT @SuchislifeCee_: Since #PowerGhost isn't coming back until December, my Starz subscription  about to be https://t.co/9HDfOIrdit |
+| RT @PowerTVFans: Mid Season Finale of #PowerGhosttonight at Midnight on the @STARZ  app! @ghoststarz #Powerbook2 https://t.co/fLj4GgISwk |
+| RT @LSince98: Dru had Jussie Smollet vibes since day 1  #PowerGhost |
 
-The most popular user is: **bama_fan15**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Going welI, I think! Thank you to all. LOVE!!!</div>
+The most popular user is: **Andrew_AM1**
+<div class="alert alert-block alert-danger"> RT @Power_STARZ: Get ready, the legacy continues. #PowerGhost #PowerNeverEnds https://t.co/MRJc14ShQh</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarstoolTexasAM** |
-| #2 Most tweeted to  | **BarstoolBigCat** |
-| #3 Most tweeted to  | **BigPooh_91** |
-| NewProfiles (less than 10 days) | 0.51%  |
-| Tweeters with < 10 followers  | 2.33%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **ghoststarz** |
+| #2 Most tweeted to  | **STARZ** |
+| #3 Most tweeted to  | **MGExclusiveSA** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 3.3%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **bama_fan15**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BAMA**  |
-| second  | **A&AMP;M**  |
-| third  | **GAME** |
-| fourth  | **TEXAS**  |
-| fifth  | **PLAY**  |
+| first  | **POWERGHOST**  |
+| second  | **TARIQ**  |
+| third  | **POWERBOOK2** |
+| fourth  | **EPISODE**  |
+| fifth  | **POWERGHOSTRT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (23.08%) & **NEGATIVELY-SUBJECTIVE** (46.15%) **OBJECTIVE** (30.77%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarstoolTexasAM: BEAT. THE. HELL. OUTTA. BAMA. |
+|RT @ghoststarz: Has Tariq taken on more than he can handle? Find out on the explosive mid-season finale of #PowerGhost this Sunday on @STAR… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bama_fan15**  |
+| The most retweeted user is: **Andrew_AM1**  |
 | ------------- |
-| RT @realDonaldTrump: Going welI, I think! Thank you to all. LOVE!!! |
+| RT @Power_STARZ: Get ready, the legacy continues. #PowerGhost #PowerNeverEnds https://t.co/MRJc14ShQh |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
