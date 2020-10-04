@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PowerGhost"**
+&#x1F34E; **TOPIC = "Josh Allen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SuchislifeCee_: Since #PowerGhost isn't coming back until December, my Starz subscription  about to be https://t.co/9HDfOIrdit |
-| RT @PowerTVFans: Mid Season Finale of #PowerGhosttonight at Midnight on the @STARZ  app! @ghoststarz #Powerbook2 https://t.co/fLj4GgISwk |
-| RT @LSince98: Dru had Jussie Smollet vibes since day 1  #PowerGhost |
+| RT @lisaunger_716: Retweet if you would give up your arm for Josh Allen |
+| Josh Allen to the locker room. Concern for his hand/wrist perhaps shoulder here. #Bills #Billsmafia @nflnetwork… https://t.co/j3e5yXt4gv |
+| RT @JoeBuscaglia: Josh Allen is 10-of-13 for 122 yards and 2 TD so far. The three incompletions were two throwaways and a drop by Diggs. Al… |
 
-The most popular user is: **Andrew_AM1**
-<div class="alert alert-block alert-danger"> RT @Power_STARZ: Get ready, the legacy continues. #PowerGhost #PowerNeverEnds https://t.co/MRJc14ShQh</div>
+The most popular user is: **BeansIAm_**
+<div class="alert alert-block alert-danger"> RT @BuffaloBills: AFC Offensive Player of the Month‼️
+
+Congratulations, @JoshAllenQB: https://t.co/51JPdetQFd https://t.co/c2ehFuEs7Z</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ghoststarz** |
-| #2 Most tweeted to  | **STARZ** |
-| #3 Most tweeted to  | **MGExclusiveSA** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 3.3%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BarstoolBigCat** |
+| #2 Most tweeted to  | **AdamSchefter** |
+| #3 Most tweeted to  | **stoolpresidente** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 2.23%|
+| Tweeters with > 1000000 followers  | 0.21%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Andrew_AM1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POWERGHOST**  |
-| second  | **TARIQ**  |
-| third  | **POWERBOOK2** |
-| fourth  | **EPISODE**  |
-| fifth  | **POWERGHOSTRT**  |
+| first  | **ALLEN**  |
+| second  | **JOSH**  |
+| third  | **ALLENRT** |
+| fourth  | **PLEASE**  |
+| fifth  | **OK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (23.08%) & **NEGATIVELY-SUBJECTIVE** (46.15%) **OBJECTIVE** (30.77%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ghoststarz: Has Tariq taken on more than he can handle? Find out on the explosive mid-season finale of #PowerGhost this Sunday on @STAR… |
+|RT @stoolpresidente: JOSH FUCKING ALLEN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Andrew_AM1**  |
+| The most retweeted user is: **BeansIAm_**  |
 | ------------- |
-| RT @Power_STARZ: Get ready, the legacy continues. #PowerGhost #PowerNeverEnds https://t.co/MRJc14ShQh |
+| RT @BuffaloBills: AFC Offensive Player of the Month‼️Congratulations, @JoshAllenQB: https://t.co/51JPdetQFd https://t.co/c2ehFuEs7Z |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
