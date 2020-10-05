@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Josh Allen"**
+&#x1F34E; **TOPIC = "#LovecraftCountry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lisaunger_716: Retweet if you would give up your arm for Josh Allen |
-| Josh Allen to the locker room. Concern for his hand/wrist perhaps shoulder here. #Bills #Billsmafia @nflnetwork… https://t.co/j3e5yXt4gv |
-| RT @JoeBuscaglia: Josh Allen is 10-of-13 for 122 yards and 2 TD so far. The three incompletions were two throwaways and a drop by Diggs. Al… |
+| RT @thatwithergal: #LoveCraftCountry Everytime those girls pop up... https://t.co/Pf08oIMoKz |
+| I've never seen anything like #LovecraftCountry in my life. They better get all the awards. |
+| RT @shannonmhouston: Dee is going THROUGH it and her whole family is too busy to hear her, or help. So much we're trying to say about littl… |
 
-The most popular user is: **BeansIAm_**
-<div class="alert alert-block alert-danger"> RT @BuffaloBills: AFC Offensive Player of the Month‼️
+The most popular user is: **fatshenanigans**
+<div class="alert alert-block alert-danger"> RT @jurneesmollett: Anybody remember this shirt? Talk about a throwback 🤪 I recently told Lynn about this. Wild!! 
 
-Congratulations, @JoshAllenQB: https://t.co/51JPdetQFd https://t.co/c2ehFuEs7Z</div>
+@LovecraftHBO @moreacid…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarstoolBigCat** |
-| #2 Most tweeted to  | **AdamSchefter** |
-| #3 Most tweeted to  | **stoolpresidente** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 2.23%|
-| Tweeters with > 1000000 followers  | 0.21%  |
+| #1 Most tweeted to  | **MishaGreen** |
+| #2 Most tweeted to  | **shannonmhouston** |
+| #3 Most tweeted to  | **jurneesmollett** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 2.68%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ Congratulations, @JoshAllenQB: https://t.co/51JPdetQFd https://t.co/c2ehFuEs7Z</
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALLEN**  |
-| second  | **JOSH**  |
-| third  | **ALLENRT** |
-| fourth  | **PLEASE**  |
-| fifth  | **OK**  |
+| first  | **LOVECRAFTCOUNTRY**  |
+| second  | **DEE**  |
+| third  | **EPISODE** |
+| fourth  | **@SHANNONMHOUSTON:**  |
+| fifth  | **GIRLS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (42.86%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @stoolpresidente: JOSH FUCKING ALLEN |
+|Me every Sunday pretending I’m not slightly confused af watching #LovecraftCountry https://t.co/sNIx7A8RTe |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BeansIAm_**  |
+| The most retweeted user is: **fatshenanigans**  |
 | ------------- |
-| RT @BuffaloBills: AFC Offensive Player of the Month‼️Congratulations, @JoshAllenQB: https://t.co/51JPdetQFd https://t.co/c2ehFuEs7Z |
+| RT @jurneesmollett: Anybody remember this shirt? Talk about a throwback 🤪 I recently told Lynn about this. Wild!! @LovecraftHBO @moreacid… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
