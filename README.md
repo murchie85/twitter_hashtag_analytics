@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LovecraftCountry"**
+&#x1F34E; **TOPIC = "trisha paytas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @thatwithergal: #LoveCraftCountry Everytime those girls pop up... https://t.co/Pf08oIMoKz |
-| I've never seen anything like #LovecraftCountry in my life. They better get all the awards. |
-| RT @shannonmhouston: Dee is going THROUGH it and her whole family is too busy to hear her, or help. So much we're trying to say about littl… |
+| RT @Hamaaaaaaaaaaad: Trisha Paytas on the internet anytime her bills are due https://t.co/fGaJzPyVMZ |
+| 2. trisha paytas' crusty hole 🤢 https://t.co/l90ZPyZvt6 |
+| @lukesIight where’s the fucking trisha paytas tweet woo finally free worst experience of my life |
 
-The most popular user is: **fatshenanigans**
-<div class="alert alert-block alert-danger"> RT @jurneesmollett: Anybody remember this shirt? Talk about a throwback 🤪 I recently told Lynn about this. Wild!! 
-
-@LovecraftHBO @moreacid…</div>
+The most popular user is: **lexxxs_wrld**
+<div class="alert alert-block alert-danger"> RT @claraxjimenez: stop watching shane dawson, stop watching jeffree star, stop watching tana mongeau, stop watching jake paul, stop watchi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MishaGreen** |
-| #2 Most tweeted to  | **shannonmhouston** |
-| #3 Most tweeted to  | **jurneesmollett** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 2.68%|
+| #1 Most tweeted to  | **sophie_bird2704** |
+| #2 Most tweeted to  | **ashisannoyed** |
+| #3 Most tweeted to  | **BritneyHiatus** |
+| NewProfiles (less than 10 days) | 1.93%  |
+| Tweeters with < 10 followers  | 8.97%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +39,28 @@ The most popular user is: **fatshenanigans**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LOVECRAFTCOUNTRY**  |
-| second  | **DEE**  |
-| third  | **EPISODE** |
-| fourth  | **@SHANNONMHOUSTON:**  |
-| fifth  | **GIRLS**  |
+| first  | **TRISHA**  |
+| second  | **PAYTAS**  |
+| third  | **TRENDING** |
+| fourth  | **ASSHOLE**  |
+| fifth  | **SAW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (42.86%)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Me every Sunday pretending I’m not slightly confused af watching #LovecraftCountry https://t.co/sNIx7A8RTe |
+|I’d rather see Trisha Paytas’s ass than all of your trash fancams... https://t.co/80O03dByXr |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fatshenanigans**  |
+| The most retweeted user is: **lexxxs_wrld**  |
 | ------------- |
-| RT @jurneesmollett: Anybody remember this shirt? Talk about a throwback 🤪 I recently told Lynn about this. Wild!! @LovecraftHBO @moreacid… |
+| RT @claraxjimenez: stop watching shane dawson, stop watching jeffree star, stop watching tana mongeau, stop watching jake paul, stop watchi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
