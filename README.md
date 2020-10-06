@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpLied200KDied"**
+&#x1F34E; **TOPIC = "#Mixitup"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @MpaMatthew @health3210 @NanLizKen @realDonaldTrump Who knows better than him. You believe the Conman so who is the… https://t.co/BnN5mqTbYT |
-| RT @LaurenCurtisArt: HE KNOWLINGLY INFECTED HIS STAFF &amp; BASE SUPPORTERS...WHAT MORE NEEDS TO BE KNOWN TO VOTE HIM OUT???!!!  #TrumpLied200K… |
-| Socialized medicine should be available to EVERYONE not just tax dodgers like @realDonaldTrump who doesn't pay his… https://t.co/u4mGHwDaPK |
+| RT @MLB: #MixItUp in the 7th.6-run inning powers Braves to Game 1 victory. #NLDS https://t.co/s7q6S4tUMg |
+| RT @Braves: Rip it and flip it.@ronaldacunajr24 | #MixItUp https://t.co/bQweUeZR3j |
+| TRAVIS FREAKIN' d'ARNAUD!!!!! #ForTheA #MixItUp |
 
-The most popular user is: **_zairejones**
-<div class="alert alert-block alert-danger"> RT @DebraMessing: Trump is MAKING MONEY OFF OF HIS COVID.
+The most popular user is: **savvy6_**
+<div class="alert alert-block alert-danger"> RT @Braves: Congratulations to @FreddieFreeman5 for being named @BaseballDigest’s 2020 MLB Player of the Year!
 
-🔥”President Trump Defeats COVID Commemorative Coin.🔥
-
-He is a malignant, vile, n…</div>
+#MixItUp https://t.co/WgN8q…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **DeanObeidallah** |
-| #3 Most tweeted to  | **Tinker_Bell_04** |
-| NewProfiles (less than 10 days) | 0.83%  |
-| Tweeters with < 10 followers  | 6.36%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Braves** |
+| #2 Most tweeted to  | **ronaldacunajr24** |
+| #3 Most tweeted to  | **MLB** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 1.78%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -43,28 +41,28 @@ He is a malignant, vile, n…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **TRUMPLIED200KDIED**  |
-| third  | **COVID** |
-| fourth  | **@REALDONALDTRUMP**  |
-| fifth  | **HOSPITAL**  |
+| first  | **MIXITUP**  |
+| second  | **@BRAVES:**  |
+| third  | **FORTHEA** |
+| fourth  | **BRAVES**  |
+| fifth  | **GAME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@realDonaldTrump Where are the adults?#TrumpLied200KDied |
+|RT @Braves: That inning was fun. #analysis#MixItUp | #ForTheA https://t.co/CzEC8pLz7c |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_zairejones**  |
+| The most retweeted user is: **savvy6_**  |
 | ------------- |
-| RT @DebraMessing: Trump is MAKING MONEY OFF OF HIS COVID.🔥”President Trump Defeats COVID Commemorative Coin.🔥He is a malignant, vile, n… |
+| RT @Braves: Congratulations to @FreddieFreeman5 for being named @BaseballDigest’s 2020 MLB Player of the Year!#MixItUp https://t.co/WgN8q… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
