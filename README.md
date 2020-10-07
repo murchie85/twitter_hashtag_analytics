@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#OneOfMcAfeesMillion"**
+&#x1F34E; **TOPIC = "Eddie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #Oneofmcafeesmillion this announcement video gives me the chills. Loyal listener of the show congrats on 1 milli!!! https://t.co/nuXuhtI3Dr |
-| Love the show boys #oneofmcafeesmillion https://t.co/zq5Qc3140E |
-| Bye bye billy o stooge @PatMcAfeeShow @VivalaZito #ONEOFMCAFEESMILLION https://t.co/VEP8CcwGns |
+| Heavy smoker Eddie Van Halen blamed his tongue cancer on the fact that he used to hold his ... https://t.co/7YUQylY4xq via @MailOnline |
+| RT @RexChapman: “Now, let us celebrate under one symbol.” South Park - always on point.Rest, Eddie Van Halen.And thanks... https://t.… |
+| RT @ToddMichaelsen: The biggest takeaway I get from geniuses like Eddie Van Halen is to be unique. Have your OWN sound. Only Eddie sounded… |
 
-The most popular user is: **AlecCTaylor**
-<div class="alert alert-block alert-danger"> RT @PatMcAfeeShow: 🗣TEAM
-
-It's time to give away $100,000 #OneOfMcAfeesMillion
-
-#PatMcAfeeShowLIVE https://t.co/oJEJnMB0vN</div>
+The most popular user is: **Eddie_Garcilazo**
+<div class="alert alert-block alert-danger"> RT @bbylayaaa: Trump said he not supporting another stimulus package until after the election. Your president said he’s not providing relie…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PatMcAfeeShow** |
-| #2 Most tweeted to  | **VivalaZito** |
-| #3 Most tweeted to  | **tyschmit** |
-| NewProfiles (less than 10 days) | 3.06%  |
-| Tweeters with < 10 followers  | 27.09%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **RexChapman** |
+| #2 Most tweeted to  | **perlmutations** |
+| #3 Most tweeted to  | **tmorello** |
+| NewProfiles (less than 10 days) | 1.13%  |
+| Tweeters with < 10 followers  | 4.92%|
+| Tweeters with > 1000000 followers  | 0.17%  |
 
 
 
@@ -43,28 +39,28 @@ It's time to give away $100,000 #OneOfMcAfeesMillion
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ONEOFMCAFEESMILLION**  |
-| second  | **@PATMCAFEESHOW**  |
-| third  | **SHOW** |
-| fourth  | **VIDEO**  |
-| fifth  | **FAVORITE**  |
+| first  | **EDDIE**  |
+| second  | **VAN**  |
+| third  | **HALEN** |
+| fourth  | **MOST**  |
+| fifth  | **GUITAR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|This is easily one of the most quotable things you boys have put out. #oneofmcafeesmillion https://t.co/WVodv4yQ5J |
+|RT @Arsenal: Proud, @EddieNketiah9 ❤️Eddie has now equalled the record for most goals for @England at Under-21 level 📞His 13 goals mean… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AlecCTaylor**  |
+| The most retweeted user is: **Eddie_Garcilazo**  |
 | ------------- |
-| RT @PatMcAfeeShow: 🗣TEAMIt's time to give away $100,000 #OneOfMcAfeesMillion#PatMcAfeeShowLIVE https://t.co/oJEJnMB0vN |
+| RT @bbylayaaa: Trump said he not supporting another stimulus package until after the election. Your president said he’s not providing relie… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
