@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Mixitup"**
+&#x1F34E; **TOPIC = "#OneOfMcAfeesMillion"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MLB: #MixItUp in the 7th.6-run inning powers Braves to Game 1 victory. #NLDS https://t.co/s7q6S4tUMg |
-| RT @Braves: Rip it and flip it.@ronaldacunajr24 | #MixItUp https://t.co/bQweUeZR3j |
-| TRAVIS FREAKIN' d'ARNAUD!!!!! #ForTheA #MixItUp |
+| #Oneofmcafeesmillion this announcement video gives me the chills. Loyal listener of the show congrats on 1 milli!!! https://t.co/nuXuhtI3Dr |
+| Love the show boys #oneofmcafeesmillion https://t.co/zq5Qc3140E |
+| Bye bye billy o stooge @PatMcAfeeShow @VivalaZito #ONEOFMCAFEESMILLION https://t.co/VEP8CcwGns |
 
-The most popular user is: **savvy6_**
-<div class="alert alert-block alert-danger"> RT @Braves: Congratulations to @FreddieFreeman5 for being named @BaseballDigest’s 2020 MLB Player of the Year!
+The most popular user is: **AlecCTaylor**
+<div class="alert alert-block alert-danger"> RT @PatMcAfeeShow: 🗣TEAM
 
-#MixItUp https://t.co/WgN8q…</div>
+It's time to give away $100,000 #OneOfMcAfeesMillion
+
+#PatMcAfeeShowLIVE https://t.co/oJEJnMB0vN</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Braves** |
-| #2 Most tweeted to  | **ronaldacunajr24** |
-| #3 Most tweeted to  | **MLB** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 1.78%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **PatMcAfeeShow** |
+| #2 Most tweeted to  | **VivalaZito** |
+| #3 Most tweeted to  | **tyschmit** |
+| NewProfiles (less than 10 days) | 3.06%  |
+| Tweeters with < 10 followers  | 27.09%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +43,28 @@ The most popular user is: **savvy6_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MIXITUP**  |
-| second  | **@BRAVES:**  |
-| third  | **FORTHEA** |
-| fourth  | **BRAVES**  |
-| fifth  | **GAME**  |
+| first  | **ONEOFMCAFEESMILLION**  |
+| second  | **@PATMCAFEESHOW**  |
+| third  | **SHOW** |
+| fourth  | **VIDEO**  |
+| fifth  | **FAVORITE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Braves: That inning was fun. #analysis#MixItUp | #ForTheA https://t.co/CzEC8pLz7c |
+|This is easily one of the most quotable things you boys have put out. #oneofmcafeesmillion https://t.co/WVodv4yQ5J |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **savvy6_**  |
+| The most retweeted user is: **AlecCTaylor**  |
 | ------------- |
-| RT @Braves: Congratulations to @FreddieFreeman5 for being named @BaseballDigest’s 2020 MLB Player of the Year!#MixItUp https://t.co/WgN8q… |
+| RT @PatMcAfeeShow: 🗣TEAMIt's time to give away $100,000 #OneOfMcAfeesMillion#PatMcAfeeShowLIVE https://t.co/oJEJnMB0vN |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
