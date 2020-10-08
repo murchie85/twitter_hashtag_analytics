@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Eddie"**
+&#x1F34E; **TOPIC = "#TrumpIsACoward"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Heavy smoker Eddie Van Halen blamed his tongue cancer on the fact that he used to hold his ... https://t.co/7YUQylY4xq via @MailOnline |
-| RT @RexChapman: “Now, let us celebrate under one symbol.” South Park - always on point.Rest, Eddie Van Halen.And thanks... https://t.… |
-| RT @ToddMichaelsen: The biggest takeaway I get from geniuses like Eddie Van Halen is to be unique. Have your OWN sound. Only Eddie sounded… |
+| RT @lindyli: .@CNN poll by gender:Men:Trump 49%Biden 47%Women:Biden 66%Trump 32%Ladies, we’re going to be the ones who save our r… |
+| RT @lindyli: .@CNN poll by gender:Men:Trump 49%Biden 47%Women:Biden 66%Trump 32%Ladies, we’re going to be the ones who save our r… |
+| RT @DogginTrump: Don't Let Trump Fool You. With His Poll Numbers In The Tank, It Has Nothing To Do With A Virtual Debate. And Everything To… |
 
-The most popular user is: **Eddie_Garcilazo**
-<div class="alert alert-block alert-danger"> RT @bbylayaaa: Trump said he not supporting another stimulus package until after the election. Your president said he’s not providing relie…</div>
+The most popular user is: **kurtssphincter**
+<div class="alert alert-block alert-danger"> RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RexChapman** |
-| #2 Most tweeted to  | **perlmutations** |
-| #3 Most tweeted to  | **tmorello** |
-| NewProfiles (less than 10 days) | 1.13%  |
-| Tweeters with < 10 followers  | 4.92%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **CNN** |
+| #2 Most tweeted to  | **lindyli** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 1.32%  |
+| Tweeters with < 10 followers  | 7.61%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Eddie_Garcilazo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EDDIE**  |
-| second  | **VAN**  |
-| third  | **HALEN** |
-| fourth  | **MOST**  |
-| fifth  | **GUITAR**  |
+| first  | **TRUMP**  |
+| second  | **BIDEN**  |
+| third  | **GOING** |
+| fourth  | **POLL**  |
+| fifth  | **WE’RE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Arsenal: Proud, @EddieNketiah9 ❤️Eddie has now equalled the record for most goals for @England at Under-21 level 📞His 13 goals mean… |
+|RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Eddie_Garcilazo**  |
+| The most retweeted user is: **kurtssphincter**  |
 | ------------- |
-| RT @bbylayaaa: Trump said he not supporting another stimulus package until after the election. Your president said he’s not providing relie… |
+| RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
