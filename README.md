@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpIsACoward"**
+&#x1F34E; **TOPIC = "#TheBoys"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lindyli: .@CNN poll by gender:Men:Trump 49%Biden 47%Women:Biden 66%Trump 32%Ladies, we’re going to be the ones who save our r… |
-| RT @lindyli: .@CNN poll by gender:Men:Trump 49%Biden 47%Women:Biden 66%Trump 32%Ladies, we’re going to be the ones who save our r… |
-| RT @DogginTrump: Don't Let Trump Fool You. With His Poll Numbers In The Tank, It Has Nothing To Do With A Virtual Debate. And Everything To… |
+| RT @Goughy_7: “It’s called white genocide” Homelander:  #TheBoys https://t.co/etvRR7nd5d |
+| RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE |
+| RT @SamRich56980032: The Boys episode 8 without context#TheBoys https://t.co/VWXKoP5Lzx |
 
-The most popular user is: **kurtssphincter**
-<div class="alert alert-block alert-danger"> RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message…</div>
+The most popular user is: **mannyv1997**
+<div class="alert alert-block alert-danger"> RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CNN** |
-| #2 Most tweeted to  | **lindyli** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 1.32%  |
-| Tweeters with < 10 followers  | 7.61%|
+| #1 Most tweeted to  | **ryseofkylo** |
+| #2 Most tweeted to  | **captmarveI** |
+| #3 Most tweeted to  | **Apollo2Bohemian** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 4.82%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kurtssphincter**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **BIDEN**  |
-| third  | **GOING** |
-| fourth  | **POLL**  |
-| fifth  | **WE’RE**  |
+| first  | **THEBOYS**  |
+| second  | **THEBOYSTV**  |
+| third  | **SEASON** |
+| fourth  | **GIRLS**  |
+| fifth  | **STORMFRONT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message… |
+|Starting the finale off with Homelander with a PSA ala Captain America! 😂 😂 😂 OMFG! #TheBoys |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kurtssphincter**  |
+| The most retweeted user is: **mannyv1997**  |
 | ------------- |
-| RT @Ojeda4America: Wolverine Watchman are domestic terrorists, chicken shit Trump worshippers. I want every Republican to hear this message… |
+| RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
