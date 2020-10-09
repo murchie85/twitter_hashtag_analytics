@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
+&#x1F34E; **TOPIC = "Franklin County"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FindDigital2: hurry upoffer valid untill 12 Oct onlyGet a 3-month family plan of #Amazon Kids+ (formerly FreeTime Unlimited) for $… |
-| @majornelson #FreeCodeFridayContest I've never won, hopefully today will be the day |
-| RT @__Kanta_1: Cycle of birth and death#FreeCodeFridayContestIf your spiritual master is incomplete, then you cannot escape the cycle of… |
+| RT @marmarhastweets: Everyone in Columbus Franklin county, the lines look long but they keep moving. Don't be discouraged, literally only t… |
+| RT @FranklinCoBOE: We can now confirm that 49,669 voters received an incorrect ballot.Those voters will be contacted directly by the Fran… |
+| @dailybriefing @DanaPerino @SecPompeo Nearly 50,000 voters in Franklin County -- Ohio's most populous county -- rec… https://t.co/vqP2845I1g |
 
-The most popular user is: **KennyTCB**
-<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l…</div>
+The most popular user is: **Balistics6**
+<div class="alert alert-block alert-danger"> RT @joshdcaplan: UPDATE: 49,669 incorrect absentee ballots sent out in Franklin County, Ohio, say election board officials</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **Shalumehta95** |
-| #3 Most tweeted to  | **Dapper_Tux** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 10.59%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **joshdcaplan** |
+| #2 Most tweeted to  | **EricTrump** |
+| #3 Most tweeted to  | **ChuckCallesto** |
+| NewProfiles (less than 10 days) | 1.62%  |
+| Tweeters with < 10 followers  | 4.94%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **KennyTCB**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FREECODEFRIDAYCONTEST**  |
-| second  | **MEET**  |
-| third  | **BIRTH** |
-| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
-| fifth  | **SPORT**  |
+| first  | **COUNTY**  |
+| second  | **FRANKLIN**  |
+| third  | **ABSENTEE** |
+| fourth  | **INCORRECT**  |
+| fifth  | **BALLOTS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheGreat_God: #FreeCodeFridayContestThe Devil is the king of this mortal world.Everyday he takes out the grime from the immaterial bo… |
+|RT @ChuckCallesto: BREAKING REPORT: Franklin County, Ohio's MOST POPULOUS COUNTY sees nearly 50K voters get INCORRECT ABSENTEE BALLOTS...… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KennyTCB**  |
+| The most retweeted user is: **Balistics6**  |
 | ------------- |
-| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l… |
+| RT @joshdcaplan: UPDATE: 49,669 incorrect absentee ballots sent out in Franklin County, Ohio, say election board officials |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
