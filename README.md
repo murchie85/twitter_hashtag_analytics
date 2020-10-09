@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TheBoys"**
+&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Goughy_7: “It’s called white genocide” Homelander:  #TheBoys https://t.co/etvRR7nd5d |
-| RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE |
-| RT @SamRich56980032: The Boys episode 8 without context#TheBoys https://t.co/VWXKoP5Lzx |
+| RT @FindDigital2: hurry upoffer valid untill 12 Oct onlyGet a 3-month family plan of #Amazon Kids+ (formerly FreeTime Unlimited) for $… |
+| @majornelson #FreeCodeFridayContest I've never won, hopefully today will be the day |
+| RT @__Kanta_1: Cycle of birth and death#FreeCodeFridayContestIf your spiritual master is incomplete, then you cannot escape the cycle of… |
 
-The most popular user is: **mannyv1997**
-<div class="alert alert-block alert-danger"> RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE</div>
+The most popular user is: **KennyTCB**
+<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ryseofkylo** |
-| #2 Most tweeted to  | **captmarveI** |
-| #3 Most tweeted to  | **Apollo2Bohemian** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 4.82%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **Shalumehta95** |
+| #3 Most tweeted to  | **Dapper_Tux** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 10.59%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mannyv1997**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THEBOYS**  |
-| second  | **THEBOYSTV**  |
-| third  | **SEASON** |
-| fourth  | **GIRLS**  |
-| fifth  | **STORMFRONT**  |
+| first  | **FREECODEFRIDAYCONTEST**  |
+| second  | **MEET**  |
+| third  | **BIRTH** |
+| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| fifth  | **SPORT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Starting the finale off with Homelander with a PSA ala Captain America! 😂 😂 😂 OMFG! #TheBoys |
+|RT @TheGreat_God: #FreeCodeFridayContestThe Devil is the king of this mortal world.Everyday he takes out the grime from the immaterial bo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mannyv1997**  |
+| The most retweeted user is: **KennyTCB**  |
 | ------------- |
-| RT @ryseofkylo: But you're not ready for this conversation #TheBoys https://t.co/JBhIEmz2pE |
+| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
