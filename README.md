@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Franklin County"**
+&#x1F34E; **TOPIC = "#RedRiverRivalry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @marmarhastweets: Everyone in Columbus Franklin county, the lines look long but they keep moving. Don't be discouraged, literally only t… |
-| RT @FranklinCoBOE: We can now confirm that 49,669 voters received an incorrect ballot.Those voters will be contacted directly by the Fran… |
-| @dailybriefing @DanaPerino @SecPompeo Nearly 50,000 voters in Franklin County -- Ohio's most populous county -- rec… https://t.co/vqP2845I1g |
+| I think Rattler was down - but I'm not sure you can overturn that. #RedRiverRivalry |
+| I honestly want Texas to win. Sure they’re a rival but I’ll take the whole state of Texas over any other out of sta… https://t.co/0q9OnczaeI |
+| RT @_KeithFletcher: Nothing is like it was, but the @cottonbowlstad should have the most festive college football atmosphere in all of 2020… |
 
-The most popular user is: **Balistics6**
-<div class="alert alert-block alert-danger"> RT @joshdcaplan: UPDATE: 49,669 incorrect absentee ballots sent out in Franklin County, Ohio, say election board officials</div>
+The most popular user is: **muuhhriaahh**
+<div class="alert alert-block alert-danger"> RT @kyleumlang: The annual @txdot I-35 road signs are already up 🤘🏽
+
+#ThisIsTexas #HookEm
+#RedRiverRivalry #TEXvsOU https://t.co/3kUHye8qw5</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **joshdcaplan** |
-| #2 Most tweeted to  | **EricTrump** |
-| #3 Most tweeted to  | **ChuckCallesto** |
-| NewProfiles (less than 10 days) | 1.62%  |
-| Tweeters with < 10 followers  | 4.94%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **kyleumlang** |
+| #2 Most tweeted to  | **TxDOT** |
+| #3 Most tweeted to  | **OU_Football** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 2.29%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **Balistics6**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COUNTY**  |
-| second  | **FRANKLIN**  |
-| third  | **ABSENTEE** |
-| fourth  | **INCORRECT**  |
-| fifth  | **BALLOTS**  |
+| first  | **REDRIVERRIVALRY**  |
+| second  | **TEXAS**  |
+| third  | **GAME** |
+| fourth  | **HOOKEM**  |
+| fifth  | **TEXVSOU**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ChuckCallesto: BREAKING REPORT: Franklin County, Ohio's MOST POPULOUS COUNTY sees nearly 50K voters get INCORRECT ABSENTEE BALLOTS...… |
+|No air under this duck! 😂 🦆 #RedRiverRivalry #ouvstexas https://t.co/DJlYaHxYLf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Balistics6**  |
+| The most retweeted user is: **muuhhriaahh**  |
 | ------------- |
-| RT @joshdcaplan: UPDATE: 49,669 incorrect absentee ballots sent out in Franklin County, Ohio, say election board officials |
+| RT @kyleumlang: The annual @txdot I-35 road signs are already up 🤘🏽#ThisIsTexas #HookEm#RedRiverRivalry #TEXvsOU https://t.co/3kUHye8qw5 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
