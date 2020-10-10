@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RedRiverRivalry"**
+&#x1F34E; **TOPIC = "Candace Owens"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I think Rattler was down - but I'm not sure you can overturn that. #RedRiverRivalry |
-| I honestly want Texas to win. Sure they’re a rival but I’ll take the whole state of Texas over any other out of sta… https://t.co/0q9OnczaeI |
-| RT @_KeithFletcher: Nothing is like it was, but the @cottonbowlstad should have the most festive college football atmosphere in all of 2020… |
+| RT @duty2warn: ABC News confirmed, and have emails to prove, that the attendees at Trump’s WH event today were paid for. Candace Owens paid… |
+| RT @SethAbramson: BREAKING NEWS: Some of the Attendees at Trump's White House Event Had Their Travel and Lodging Paid for to Convince Them… |
+| RT @zei_squirrel: candace owens and blexit trending is a good occasion to share malcolm x's great analysis of what they are but the contemp… |
 
-The most popular user is: **muuhhriaahh**
-<div class="alert alert-block alert-danger"> RT @kyleumlang: The annual @txdot I-35 road signs are already up 🤘🏽
+The most popular user is: **d1f29e72326546a**
+<div class="alert alert-block alert-danger"> RT @charliekirk11: Today Candace Owens is mounting the largest counter offensive to BLM inc. and the Democrats’ power masters
 
-#ThisIsTexas #HookEm
-#RedRiverRivalry #TEXvsOU https://t.co/3kUHye8qw5</div>
+So proud of…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kyleumlang** |
-| #2 Most tweeted to  | **TxDOT** |
-| #3 Most tweeted to  | **OU_Football** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 2.29%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **duty2warn** |
+| #2 Most tweeted to  | **SethAbramson** |
+| #3 Most tweeted to  | **Eugene_Scott** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.83%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -42,28 +41,28 @@ The most popular user is: **muuhhriaahh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REDRIVERRIVALRY**  |
-| second  | **TEXAS**  |
-| third  | **GAME** |
-| fourth  | **HOOKEM**  |
-| fifth  | **TEXVSOU**  |
+| first  | **CANDACE**  |
+| second  | **OWENS**  |
+| third  | **PAID** |
+| fourth  | **EVENT**  |
+| fifth  | **ATTENDEES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|No air under this duck! 😂 🦆 #RedRiverRivalry #ouvstexas https://t.co/DJlYaHxYLf |
+|RT @duty2warn: ABC News confirmed, and have emails to prove, that the attendees at Trump’s WH event today were paid for. Candace Owens paid… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **muuhhriaahh**  |
+| The most retweeted user is: **d1f29e72326546a**  |
 | ------------- |
-| RT @kyleumlang: The annual @txdot I-35 road signs are already up 🤘🏽#ThisIsTexas #HookEm#RedRiverRivalry #TEXvsOU https://t.co/3kUHye8qw5 |
+| RT @charliekirk11: Today Candace Owens is mounting the largest counter offensive to BLM inc. and the Democrats’ power mastersSo proud of… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
