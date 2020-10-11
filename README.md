@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Candace Owens"**
+&#x1F34E; **TOPIC = "Peckham"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @duty2warn: ABC News confirmed, and have emails to prove, that the attendees at Trump’s WH event today were paid for. Candace Owens paid… |
-| RT @SethAbramson: BREAKING NEWS: Some of the Attendees at Trump's White House Event Had Their Travel and Lodging Paid for to Convince Them… |
-| RT @zei_squirrel: candace owens and blexit trending is a good occasion to share malcolm x's great analysis of what they are but the contemp… |
+| RT @jamesjonesfilm: Peckham curfew. https://t.co/4DZL06rPD3 |
+| RT @HeronChe: Cricket in Peckham uno. Gentrification has gone too far |
+| @turizemptuj @Colt1954 @Teresa_Peckham @Richard90850020 yeah the Nazis looked in to this as a way to make people mo… https://t.co/LsEvobtGAr |
 
-The most popular user is: **d1f29e72326546a**
-<div class="alert alert-block alert-danger"> RT @charliekirk11: Today Candace Owens is mounting the largest counter offensive to BLM inc. and the Democrats’ power masters
-
-So proud of…</div>
+The most popular user is: **kiana_peckham**
+<div class="alert alert-block alert-danger"> RT @coolchicblonde: Thinking about this 1400 year old ginkgo tree. https://t.co/l7eu2HDHJ5</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **duty2warn** |
-| #2 Most tweeted to  | **SethAbramson** |
-| #3 Most tweeted to  | **Eugene_Scott** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.83%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **jamesjonesfilm** |
+| #2 Most tweeted to  | **HeronChe** |
+| #3 Most tweeted to  | **dbcxptures** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 1.42%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ So proud of…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CANDACE**  |
-| second  | **OWENS**  |
-| third  | **PAID** |
-| fourth  | **EVENT**  |
-| fifth  | **ATTENDEES**  |
+| first  | **PECKHAM**  |
+| second  | **CURFEW**  |
+| third  | **@JAMESJONESFILM:** |
+| fourth  | **HTTPS://TCO/4DZL06RPD3RT**  |
+| fifth  | **CRICKET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @duty2warn: ABC News confirmed, and have emails to prove, that the attendees at Trump’s WH event today were paid for. Candace Owens paid… |
+|RT @jamesjonesfilm: Peckham curfew. https://t.co/4DZL06rPD3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **d1f29e72326546a**  |
+| The most retweeted user is: **kiana_peckham**  |
 | ------------- |
-| RT @charliekirk11: Today Candace Owens is mounting the largest counter offensive to BLM inc. and the Democrats’ power mastersSo proud of… |
+| RT @coolchicblonde: Thinking about this 1400 year old ginkgo tree. https://t.co/l7eu2HDHJ5 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
