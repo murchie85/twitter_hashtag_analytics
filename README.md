@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Peckham"**
+&#x1F34E; **TOPIC = "Chiefs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jamesjonesfilm: Peckham curfew. https://t.co/4DZL06rPD3 |
-| RT @HeronChe: Cricket in Peckham uno. Gentrification has gone too far |
-| @turizemptuj @Colt1954 @Teresa_Peckham @Richard90850020 yeah the Nazis looked in to this as a way to make people mo… https://t.co/LsEvobtGAr |
+| RT @BleacherReport: Raiders fans after beating the Chiefs @brgridiron https://t.co/FecPM1CDuN |
+| Knew the Chiefs was finna lose as soon as I seen this on my fyp before the game https://t.co/9qTWd9L7AL |
+| RT @DrOlufunmilayo: The king of Ogbomosho traditionally referred to as “Soun” and some chiefs have said to run 🏃‍♂️ out of the palace.Wha… |
 
-The most popular user is: **kiana_peckham**
-<div class="alert alert-block alert-danger"> RT @coolchicblonde: Thinking about this 1400 year old ginkgo tree. https://t.co/l7eu2HDHJ5</div>
+The most popular user is: **twiDAQ**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: I was honored to receive the first ever Presidential Endorsement from the Florida Police Chiefs Association. Thank you…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jamesjonesfilm** |
-| #2 Most tweeted to  | **HeronChe** |
-| #3 Most tweeted to  | **dbcxptures** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 1.42%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **brgridiron** |
+| #3 Most tweeted to  | **Chiefs** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.91%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kiana_peckham**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PECKHAM**  |
-| second  | **CURFEW**  |
-| third  | **@JAMESJONESFILM:** |
-| fourth  | **HTTPS://TCO/4DZL06RPD3RT**  |
-| fifth  | **CRICKET**  |
+| first  | **CHIEFS**  |
+| second  | **RAIDERS**  |
+| third  | **WIN** |
+| fourth  | **STREAK**  |
+| fifth  | **@BRGRIDIRON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jamesjonesfilm: Peckham curfew. https://t.co/4DZL06rPD3 |
+|Hard fought game... You got this next week against the Bills❤ @Chiefs https://t.co/KA8bTVwpD1 https://t.co/IKxsnNmvhg |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kiana_peckham**  |
+| The most retweeted user is: **twiDAQ**  |
 | ------------- |
-| RT @coolchicblonde: Thinking about this 1400 year old ginkgo tree. https://t.co/l7eu2HDHJ5 |
+| RT @realDonaldTrump: I was honored to receive the first ever Presidential Endorsement from the Florida Police Chiefs Association. Thank you… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
