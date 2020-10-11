@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chiefs"**
+&#x1F34E; **TOPIC = "Raiders"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
+| RT @Raiders: The RBs set the TONE today.Some of their best runs ⬇️Next: #TBvsLV | NBC | 10.25 https://t.co/iUpjY2KOjd |
+| RT @RaiderPosts: I’ll just leave this. #Raiders https://t.co/jcrrBUo8NH |
 | RT @BleacherReport: Raiders fans after beating the Chiefs @brgridiron https://t.co/FecPM1CDuN |
-| Knew the Chiefs was finna lose as soon as I seen this on my fyp before the game https://t.co/9qTWd9L7AL |
-| RT @DrOlufunmilayo: The king of Ogbomosho traditionally referred to as “Soun” and some chiefs have said to run 🏃‍♂️ out of the palace.Wha… |
 
-The most popular user is: **twiDAQ**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: I was honored to receive the first ever Presidential Endorsement from the Florida Police Chiefs Association. Thank you…</div>
+The most popular user is: **Raiders_sexual**
+<div class="alert alert-block alert-danger"> RT @FreddieBailey96: Name me one member of the Royal Family who has 'earned' their title.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **brgridiron** |
-| #3 Most tweeted to  | **Chiefs** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.91%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Raiders** |
+| #2 Most tweeted to  | **iAM_JoshJacobs** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.69%  |
+| Tweeters with < 10 followers  | 4.11%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **twiDAQ**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHIEFS**  |
-| second  | **RAIDERS**  |
+| first  | **RAIDERS**  |
+| second  | **@RAIDERS**  |
 | third  | **WIN** |
-| fourth  | **STREAK**  |
-| fifth  | **@BRGRIDIRON**  |
+| fourth  | **CHIEFS**  |
+| fifth  | **@RAIDERS:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Hard fought game... You got this next week against the Bills❤ @Chiefs https://t.co/KA8bTVwpD1 https://t.co/IKxsnNmvhg |
+|RT @RedZoneRuggs: congrats to #Raiders QB Derek Carr and wife @brittanylynne8 on the announcement of their beautiful new baby boy! https://… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **twiDAQ**  |
+| The most retweeted user is: **Raiders_sexual**  |
 | ------------- |
-| RT @realDonaldTrump: I was honored to receive the first ever Presidential Endorsement from the Florida Police Chiefs Association. Thank you… |
+| RT @FreddieBailey96: Name me one member of the Royal Family who has 'earned' their title. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
