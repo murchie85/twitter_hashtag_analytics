@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Raiders"**
+&#x1F34E; **TOPIC = "Altuve"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Raiders: The RBs set the TONE today.Some of their best runs ⬇️Next: #TBvsLV | NBC | 10.25 https://t.co/iUpjY2KOjd |
-| RT @RaiderPosts: I’ll just leave this. #Raiders https://t.co/jcrrBUo8NH |
-| RT @BleacherReport: Raiders fans after beating the Chiefs @brgridiron https://t.co/FecPM1CDuN |
+| RT @BNightengale: Jose Altuve strikes out, and the #Rays have a 1-0 lead in the #ALCS |
+| Dawww the widdle guy Altuve hit a homer |
+| RT @mbpRivals: No Verlander. No Alvarez. No Osuna. No Devo. No Peacock. No Joe Smith. Altuve on one leg.ALCS.Love them or hate them, the… |
 
-The most popular user is: **Raiders_sexual**
-<div class="alert alert-block alert-danger"> RT @FreddieBailey96: Name me one member of the Royal Family who has 'earned' their title.</div>
+The most popular user is: **ramoso1978**
+<div class="alert alert-block alert-danger"> RT @MLB: ALTUVE SENDS THE @ASTROS TO THE #WORLDSERIES! https://t.co/NYx1yzRFDY</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Raiders** |
-| #2 Most tweeted to  | **iAM_JoshJacobs** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.69%  |
-| Tweeters with < 10 followers  | 4.11%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **astros** |
+| #2 Most tweeted to  | **MLBONFOX** |
+| #3 Most tweeted to  | **michaelschwab13** |
+| NewProfiles (less than 10 days) | 0.43%  |
+| Tweeters with < 10 followers  | 3.08%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Raiders_sexual**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAIDERS**  |
-| second  | **@RAIDERS**  |
-| third  | **WIN** |
-| fourth  | **CHIEFS**  |
-| fifth  | **@RAIDERS:**  |
+| first  | **ALTUVE**  |
+| second  | **JOSE**  |
+| third  | **ASTROS** |
+| fourth  | **HOME**  |
+| fifth  | **YEAR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RedZoneRuggs: congrats to #Raiders QB Derek Carr and wife @brittanylynne8 on the announcement of their beautiful new baby boy! https://… |
+|@Jared_Carrabis First off, fuck the Astros, let’s see altuve turn 100 high outside with out knowing, I would take C… https://t.co/5stwlGfWsz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Raiders_sexual**  |
+| The most retweeted user is: **ramoso1978**  |
 | ------------- |
-| RT @FreddieBailey96: Name me one member of the Royal Family who has 'earned' their title. |
+| RT @MLB: ALTUVE SENDS THE @ASTROS TO THE #WORLDSERIES! https://t.co/NYx1yzRFDY |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
