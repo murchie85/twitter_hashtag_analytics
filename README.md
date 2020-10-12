@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Altuve"**
+&#x1F34E; **TOPIC = "#covidbriefing"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BNightengale: Jose Altuve strikes out, and the #Rays have a 1-0 lead in the #ALCS |
-| Dawww the widdle guy Altuve hit a homer |
-| RT @mbpRivals: No Verlander. No Alvarez. No Osuna. No Devo. No Peacock. No Joe Smith. Altuve on one leg.ALCS.Love them or hate them, the… |
+| RT @snowleopardess: Two thirds of the living wage is...not a living wage. #covidbriefing |
+| RT @rachelburden: The figures around hospitalisations were stark tonight. I know there are loads of apparent inconsistencies with how this… |
+| RT @Femi_Sorry: Philip Davies (MP who tried to block Domestic Violence Bill) just nailed the reason Tories can't handle a pandemic emergenc… |
 
-The most popular user is: **ramoso1978**
-<div class="alert alert-block alert-danger"> RT @MLB: ALTUVE SENDS THE @ASTROS TO THE #WORLDSERIES! https://t.co/NYx1yzRFDY</div>
+The most popular user is: **Odimab**
+<div class="alert alert-block alert-danger"> RT @Number10cat: What’s happening isn’t your fault. You’ve made sacrifices, while given advice that’s been inconsistent at best and contrad…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **astros** |
-| #2 Most tweeted to  | **MLBONFOX** |
-| #3 Most tweeted to  | **michaelschwab13** |
-| NewProfiles (less than 10 days) | 0.43%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **Number10cat** |
+| #2 Most tweeted to  | **BorisJohnson_MP** |
+| #3 Most tweeted to  | **BorisJohnson** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.65%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ramoso1978**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALTUVE**  |
-| second  | **JOSE**  |
-| third  | **ASTROS** |
-| fourth  | **HOME**  |
-| fifth  | **YEAR**  |
+| first  | **COVIDBRIEFING**  |
+| second  | **ADVICE**  |
+| third  | **THAT’S** |
+| fourth  | **LEADERSHIP**  |
+| fifth  | **YOU’VE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Jared_Carrabis First off, fuck the Astros, let’s see altuve turn 100 high outside with out knowing, I would take C… https://t.co/5stwlGfWsz |
+|RT @ShiningSadaf: Twitter flags Trump tweet about being 'immune' to coronavirus...Twitter disabled sharing options on the tweet from Trump… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ramoso1978**  |
+| The most retweeted user is: **Odimab**  |
 | ------------- |
-| RT @MLB: ALTUVE SENDS THE @ASTROS TO THE #WORLDSERIES! https://t.co/NYx1yzRFDY |
+| RT @Number10cat: What’s happening isn’t your fault. You’ve made sacrifices, while given advice that’s been inconsistent at best and contrad… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
