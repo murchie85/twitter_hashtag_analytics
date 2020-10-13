@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#tuesdayvibes"**
+&#x1F34E; **TOPIC = "Hirono"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Manisha63283583: #कबीरा_तेरे_जगत_में, #उल्टी_देखी_रीत।#पापी_मिलकर_राज_करें, #साधु_मांगे_भीख।।#LordRampalJi#GodMorningTuesday#tuesd… |
-| RT @NoToMadeInChina: Even if you don't need it, just buy their products. They spend hours on streets just to earn 2 times food. #Tuesda… |
-| 1 cup of gratitude  +2spoon of love+2spoon of kindness wid addn of joy, laughs, care.. Make an amazing tea of ur li… https://t.co/5SCXNgGlLY |
+| RT @dbongino: If you ever had the unfortunate urge to vote Democrat then please tune in to watch Mazie Hirono. You’ll be instantly cured of… |
+| Hirono asking if ACB if real-world results of her rulings factor into her decisions, and she again denies that she… https://t.co/Azstl4eTO4 |
+| RT @charliekirk11: Never forget how Senator Mazie Hirono treated Brett Kavanaugh and his family. |
 
-The most popular user is: **Shehnaaz1478**
-<div class="alert alert-block alert-danger"> RT @JioCinema: If we could have either of them wouldn't that be AwSIM ?
+The most popular user is: **703Kyle**
+<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
 
-🔁RT for #ShehnaazGill, ❤️LIKE for #AsimRiaz!
-
-Watch them on #JioCi…</div>
+in 1992 Sen. Hirono of Hawaii, who doesn’t believe in presumed innocence and is leading the witch hunt ag…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SatlokChannel** |
-| #2 Most tweeted to  | **JioCinema** |
-| #3 Most tweeted to  | **sanjaybhind3** |
-| NewProfiles (less than 10 days) | 2.03%  |
-| Tweeters with < 10 followers  | 7.04%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **charliekirk11** |
+| #2 Most tweeted to  | **dbongino** |
+| #3 Most tweeted to  | **funder** |
+| NewProfiles (less than 10 days) | 1.48%  |
+| Tweeters with < 10 followers  | 5.73%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -43,28 +41,28 @@ Watch them on #JioCi…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TUESDAYVIBES**  |
-| second  | **ALLAH**  |
-| third  | **TUESDAYTHOUGHTS** |
-| fourth  | **GODMORNINGTUESDAY**  |
-| fifth  | **TUESDAYMOTIVATION**  |
+| first  | **HIRONO**  |
+| second  | **MAZIE**  |
+| third  | **BARRETT** |
+| fourth  | **SENATOR**  |
+| fifth  | **SEN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (42.86%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SatlokChannel: Allah Kabir is the father of all souls.Only Baakhabar Saint Rampal Ji Maharaj is the knower of that Allah.Take refuge… |
+|@business It doesn't get any worse than Hirono. Complete idiot nonsensical drivel spewing professional narrative propagator. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Shehnaaz1478**  |
+| The most retweeted user is: **703Kyle**  |
 | ------------- |
-| RT @JioCinema: If we could have either of them wouldn't that be AwSIM ?🔁RT for #ShehnaazGill, ❤️LIKE for #AsimRiaz!Watch them on #JioCi… |
+| RT @charliekirk11: Did you know:in 1992 Sen. Hirono of Hawaii, who doesn’t believe in presumed innocence and is leading the witch hunt ag… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
