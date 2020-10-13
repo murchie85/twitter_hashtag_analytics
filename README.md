@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hirono"**
+&#x1F34E; **TOPIC = "Cory Booker"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @dbongino: If you ever had the unfortunate urge to vote Democrat then please tune in to watch Mazie Hirono. You’ll be instantly cured of… |
-| Hirono asking if ACB if real-world results of her rulings factor into her decisions, and she again denies that she… https://t.co/Azstl4eTO4 |
-| RT @charliekirk11: Never forget how Senator Mazie Hirono treated Brett Kavanaugh and his family. |
+| RT @JasonOverstreet: Cory Booker just asked Amy Coney Barrett if she believes that every president should commit to a peaceful transfer of… |
+| RT @stclairashley: My sexual preference is Cory Booker never speaking again |
+| RT @GeorgeTakei: You know who IS a Rhodes Scholar? Mayor Pete Buttigieg. Also, Senator Cory Booker. Just saying. |
 
-The most popular user is: **703Kyle**
-<div class="alert alert-block alert-danger"> RT @charliekirk11: Did you know:
-
-in 1992 Sen. Hirono of Hawaii, who doesn’t believe in presumed innocence and is leading the witch hunt ag…</div>
+The most popular user is: **Landry777Tom**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Biden supports Cory Booker’s Bill that will force low income housing in the Suburbs, which will lower property values…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **charliekirk11** |
-| #2 Most tweeted to  | **dbongino** |
-| #3 Most tweeted to  | **funder** |
-| NewProfiles (less than 10 days) | 1.48%  |
-| Tweeters with < 10 followers  | 5.73%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **mmpadellan** |
+| #2 Most tweeted to  | **cmclymer** |
+| #3 Most tweeted to  | **CBSNews** |
+| NewProfiles (less than 10 days) | 1.18%  |
+| Tweeters with < 10 followers  | 3.48%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ in 1992 Sen. Hirono of Hawaii, who doesn’t believe in presumed innocence and i
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HIRONO**  |
-| second  | **MAZIE**  |
+| first  | **CORY**  |
+| second  | **BOOKER**  |
 | third  | **BARRETT** |
-| fourth  | **SENATOR**  |
-| fifth  | **SEN**  |
+| fourth  | **AMY**  |
+| fifth  | **CONEY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (42.86%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (16.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@business It doesn't get any worse than Hirono. Complete idiot nonsensical drivel spewing professional narrative propagator. |
+|@realDonaldTrump @CoryBooker I would take Cory Booker over you every single day. He has integrity, manners, intelli… https://t.co/udlTiKHepQ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **703Kyle**  |
+| The most retweeted user is: **Landry777Tom**  |
 | ------------- |
-| RT @charliekirk11: Did you know:in 1992 Sen. Hirono of Hawaii, who doesn’t believe in presumed innocence and is leading the witch hunt ag… |
+| RT @realDonaldTrump: Biden supports Cory Booker’s Bill that will force low income housing in the Suburbs, which will lower property values… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
