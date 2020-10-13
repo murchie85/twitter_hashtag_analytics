@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#covidbriefing"**
+&#x1F34E; **TOPIC = "#tuesdayvibes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @snowleopardess: Two thirds of the living wage is...not a living wage. #covidbriefing |
-| RT @rachelburden: The figures around hospitalisations were stark tonight. I know there are loads of apparent inconsistencies with how this… |
-| RT @Femi_Sorry: Philip Davies (MP who tried to block Domestic Violence Bill) just nailed the reason Tories can't handle a pandemic emergenc… |
+| RT @Manisha63283583: #कबीरा_तेरे_जगत_में, #उल्टी_देखी_रीत।#पापी_मिलकर_राज_करें, #साधु_मांगे_भीख।।#LordRampalJi#GodMorningTuesday#tuesd… |
+| RT @NoToMadeInChina: Even if you don't need it, just buy their products. They spend hours on streets just to earn 2 times food. #Tuesda… |
+| 1 cup of gratitude  +2spoon of love+2spoon of kindness wid addn of joy, laughs, care.. Make an amazing tea of ur li… https://t.co/5SCXNgGlLY |
 
-The most popular user is: **Odimab**
-<div class="alert alert-block alert-danger"> RT @Number10cat: What’s happening isn’t your fault. You’ve made sacrifices, while given advice that’s been inconsistent at best and contrad…</div>
+The most popular user is: **Shehnaaz1478**
+<div class="alert alert-block alert-danger"> RT @JioCinema: If we could have either of them wouldn't that be AwSIM ?
+
+🔁RT for #ShehnaazGill, ❤️LIKE for #AsimRiaz!
+
+Watch them on #JioCi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Number10cat** |
-| #2 Most tweeted to  | **BorisJohnson_MP** |
-| #3 Most tweeted to  | **BorisJohnson** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.65%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **SatlokChannel** |
+| #2 Most tweeted to  | **JioCinema** |
+| #3 Most tweeted to  | **sanjaybhind3** |
+| NewProfiles (less than 10 days) | 2.03%  |
+| Tweeters with < 10 followers  | 7.04%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Odimab**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COVIDBRIEFING**  |
-| second  | **ADVICE**  |
-| third  | **THAT’S** |
-| fourth  | **LEADERSHIP**  |
-| fifth  | **YOU’VE**  |
+| first  | **TUESDAYVIBES**  |
+| second  | **ALLAH**  |
+| third  | **TUESDAYTHOUGHTS** |
+| fourth  | **GODMORNINGTUESDAY**  |
+| fifth  | **TUESDAYMOTIVATION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ShiningSadaf: Twitter flags Trump tweet about being 'immune' to coronavirus...Twitter disabled sharing options on the tweet from Trump… |
+|RT @SatlokChannel: Allah Kabir is the father of all souls.Only Baakhabar Saint Rampal Ji Maharaj is the knower of that Allah.Take refuge… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Odimab**  |
+| The most retweeted user is: **Shehnaaz1478**  |
 | ------------- |
-| RT @Number10cat: What’s happening isn’t your fault. You’ve made sacrifices, while given advice that’s been inconsistent at best and contrad… |
+| RT @JioCinema: If we could have either of them wouldn't that be AwSIM ?🔁RT for #ShehnaazGill, ❤️LIKE for #AsimRiaz!Watch them on #JioCi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
