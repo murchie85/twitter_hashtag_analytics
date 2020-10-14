@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TheBachelorette"**
+&#x1F34E; **TOPIC = "Russian"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @implummie: YOU KISSED THE MOST GORGEOUS MAN ON THE PLANet and HE WAS THINKING OF YOU THROUGHOUT SUCH A TOUGH TIME AND YOU SHARED YOUR H… |
-| RT @BrettSVergara: Who tried insulting Clare by saying she’s the ‘oldest Bachelorette’ I just wanna talk... #TheBachelorette https://t.co/B… |
-| Every hint about Clare Crawley’s 180 degree turn in #TheBachelorette season premiere https://t.co/hmlEgEmbmz |
+| RT @NatashaBertrand: New: Amos Hochstein, former Biden adviser, says of Burisma exec named in NY Post story—"I’ve literally never heard of… |
+| RT @DavidCornDC: JUST POSTED: I explain how the NY Post embraced and promoted Russian disinformation with its supposed Biden bombshell. Wil… |
+| @tedcruz @nypost @jack @Twitter Why is the GOP trying to push Russian disinformation all the time? |
 
-The most popular user is: **hayleyhoey**
-<div class="alert alert-block alert-danger"> RT @chrisbharrison: Waking up on #TheBachelorette premiere day like it’s Christmas morning!  See you tonight #BachelorNation</div>
+The most popular user is: **OrwellDream**
+<div class="alert alert-block alert-danger"> RT @ChrisMurphyCT: This hasn't gotten enough attention, but you need to know. Everybody needs to know.
+
+1/ It's about the massive coverup c…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BrettSVergara** |
-| #2 Most tweeted to  | **BachPartyPod** |
-| #3 Most tweeted to  | **Bachelorbruh1** |
-| NewProfiles (less than 10 days) | 1.03%  |
-| Tweeters with < 10 followers  | 4.66%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **NatashaBertrand** |
+| #2 Most tweeted to  | **nypost** |
+| #3 Most tweeted to  | **DavidCornDC** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 3.81%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **hayleyhoey**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THEBACHELORETTE**  |
-| second  | **THEBACHELORETTERT**  |
-| third  | **CLARE** |
-| fourth  | **@BRETTSVERGARA:**  |
-| fifth  | **DALE**  |
+| first  | **RUSSIAN**  |
+| second  | **BIDEN**  |
+| third  | **POST** |
+| fourth  | **NY**  |
+| fifth  | **DISINFORMATION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (7.14%) **OBJECTIVE** (64.29%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BrettSVergara: If straight jacket guy gets a rose how will he accept it #TheBachelorette |
+|RT @NatashaBertrand: New: Amos Hochstein, former Biden adviser, says of Burisma exec named in NY Post story—"I’ve literally never heard of… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hayleyhoey**  |
+| The most retweeted user is: **OrwellDream**  |
 | ------------- |
-| RT @chrisbharrison: Waking up on #TheBachelorette premiere day like it’s Christmas morning!  See you tonight #BachelorNation |
+| RT @ChrisMurphyCT: This hasn't gotten enough attention, but you need to know. Everybody needs to know.1/ It's about the massive coverup c… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
