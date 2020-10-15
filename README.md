@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Russian"**
+&#x1F34E; **TOPIC = "#FireChuckTodd"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NatashaBertrand: New: Amos Hochstein, former Biden adviser, says of Burisma exec named in NY Post story—"I’ve literally never heard of… |
-| RT @DavidCornDC: JUST POSTED: I explain how the NY Post embraced and promoted Russian disinformation with its supposed Biden bombshell. Wil… |
-| @tedcruz @nypost @jack @Twitter Why is the GOP trying to push Russian disinformation all the time? |
+| RT @VABVOX: #FireChuckTodd is trending. How many know the women at @MSNBC--Joy Reid, Nicolle Wallace, Rachel Maddow--all have advanced degr… |
+| RT @tomiahonen: OBITUARYR.I.P.NBCThe National Broadcasting Company died in 2020 when suddenly assassinated by Chuck Todd who rewarded… |
+| RT @LynnSharig8: Chuck Todd needs to go. Like yesterday. #FireChuckTodd |
 
-The most popular user is: **OrwellDream**
-<div class="alert alert-block alert-danger"> RT @ChrisMurphyCT: This hasn't gotten enough attention, but you need to know. Everybody needs to know.
-
-1/ It's about the massive coverup c…</div>
+The most popular user is: **GoEcomania**
+<div class="alert alert-block alert-danger"> RT @MysterySolvent: Chuck Todd is responsible for arranging Trump’s Town Hall in Miami on Thursday on NBC. He is the political director. He…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NatashaBertrand** |
-| #2 Most tweeted to  | **nypost** |
-| #3 Most tweeted to  | **DavidCornDC** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 3.81%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **MSNBC** |
+| #2 Most tweeted to  | **nbc** |
+| #3 Most tweeted to  | **MysterySolvent** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.78%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **OrwellDream**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RUSSIAN**  |
-| second  | **BIDEN**  |
-| third  | **POST** |
-| fourth  | **NY**  |
-| fifth  | **DISINFORMATION**  |
+| first  | **FIRECHUCKTODD**  |
+| second  | **CHUCK**  |
+| third  | **TODD** |
+| fourth  | **TOWN**  |
+| fifth  | **NBC**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NatashaBertrand: New: Amos Hochstein, former Biden adviser, says of Burisma exec named in NY Post story—"I’ve literally never heard of… |
+|RT @MrsWailand: The three of them look cozy.#FireChuckTodd https://t.co/K3Z99j56MC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OrwellDream**  |
+| The most retweeted user is: **GoEcomania**  |
 | ------------- |
-| RT @ChrisMurphyCT: This hasn't gotten enough attention, but you need to know. Everybody needs to know.1/ It's about the massive coverup c… |
+| RT @MysterySolvent: Chuck Todd is responsible for arranging Trump’s Town Hall in Miami on Thursday on NBC. He is the political director. He… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
