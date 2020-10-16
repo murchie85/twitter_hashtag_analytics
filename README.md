@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TogetherAgainstHate"**
+&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @coopuk: We've seen over 212,000 crime incidents including violent, non-violent and shoplifting in our stores. This has increased 140% f… |
-| RT @BexBeckett: The team on ward 109 @UHNM_NHS supporting @SRTRC_England the team looked amazing sporting their red today @keptlett_uhnm @m… |
-| We’re taking a stand against abuse that customer-facing staff experience daily, along with @coopuk, @networkrail,… https://t.co/D4stYr2ZMJ |
+| @majornelson Yeah I can't decide but #freecodefridaycontest |
+| @majornelson @PlayTorchlight Go with the alpaca and name it Llama Llama Duck #FreeCodeFridayContest |
+| @majornelson My favourite sport is football and I'd love to meet Ooo Aah Cantona ⚽️🥅#FreeCodeFridayContest https://t.co/2081GBat1o |
 
-The most popular user is: **iam_bobsmith**
-<div class="alert alert-block alert-danger"> RT @Channel4: At Channel 4 we champion unheard voices and stand up for inclusivity. Abusive behaviour is never okay. We’ve joined forces wi…</div>
+The most popular user is: **DouStudioDave**
+<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **coopuk** |
-| #2 Most tweeted to  | **Channel4** |
-| #3 Most tweeted to  | **AskNationwide** |
-| NewProfiles (less than 10 days) | 1.96%  |
-| Tweeters with < 10 followers  | 5.89%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **PlayTorchlight** |
+| #3 Most tweeted to  | **Dapper_Tux** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 15.43%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **iam_bobsmith**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@COOPUK**  |
-| second  | **@NETWORKRAIL**  |
-| third  | **TOGETHERAGAINSTHATE** |
-| fourth  | **@CHANNEL4**  |
-| fifth  | **ABUSE**  |
+| first  | **FREECODEFRIDAYCONTEST**  |
+| second  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| third  | **@PLAYTORCHLIGHT** |
+| fourth  | **WIN**  |
+| fifth  | **XBOX**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @StopFundingHate: Earlier this year @Channel4 ran a toxic TV show which was widely condemned for promoting racist stereotypes &amp; fuelling… |
+|@majornelson @PlayTorchlight A retriever named Sir Barkingtons #FreeCodeFridayContest |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **iam_bobsmith**  |
+| The most retweeted user is: **DouStudioDave**  |
 | ------------- |
-| RT @Channel4: At Channel 4 we champion unheard voices and stand up for inclusivity. Abusive behaviour is never okay. We’ve joined forces wi… |
+| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
