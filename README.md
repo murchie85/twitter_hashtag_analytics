@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kershaw"**
+&#x1F34E; **TOPIC = "#TogetherAgainstHate"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @pennyhendrixx: So it’s Kershaw fault lol |
-| I do not like the Dodgers, but Kershaw is someone I have a hard time rooting against.  There was once a time I reve… https://t.co/Kw1JbOrKVI |
-| RT @DavisMullvain: Re did the Kershaw commercial https://t.co/01uS20LQSd |
+| RT @coopuk: We've seen over 212,000 crime incidents including violent, non-violent and shoplifting in our stores. This has increased 140% f… |
+| RT @BexBeckett: The team on ward 109 @UHNM_NHS supporting @SRTRC_England the team looked amazing sporting their red today @keptlett_uhnm @m… |
+| We’re taking a stand against abuse that customer-facing staff experience daily, along with @coopuk, @networkrail,… https://t.co/D4stYr2ZMJ |
 
-The most popular user is: **alex_kershaw**
-<div class="alert alert-block alert-danger"> RT @MarcusRashford: Remember when I said I was going to need your help...
-
-For the millions who do not have the platform to be heard.
-
-Let'…</div>
+The most popular user is: **iam_bobsmith**
+<div class="alert alert-block alert-danger"> RT @Channel4: At Channel 4 we champion unheard voices and stand up for inclusivity. Abusive behaviour is never okay. We’ve joined forces wi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DavisMullvain** |
-| #2 Most tweeted to  | **FOXSportsBraves** |
-| #3 Most tweeted to  | **barstoolsports** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **coopuk** |
+| #2 Most tweeted to  | **Channel4** |
+| #3 Most tweeted to  | **AskNationwide** |
+| NewProfiles (less than 10 days) | 1.96%  |
+| Tweeters with < 10 followers  | 5.89%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Let'…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KERSHAW**  |
-| second  | **CLAYTON**  |
-| third  | **COMMERCIAL** |
-| fourth  | **BRAVES**  |
-| fifth  | **RE**  |
+| first  | **@COOPUK**  |
+| second  | **@NETWORKRAIL**  |
+| third  | **TOGETHERAGAINSTHATE** |
+| fourth  | **@CHANNEL4**  |
+| fifth  | **ABUSE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TalkingChop @SBNation Have you never seen Kershaw in the playoffs? 🤨 |
+|RT @StopFundingHate: Earlier this year @Channel4 ran a toxic TV show which was widely condemned for promoting racist stereotypes &amp; fuelling… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alex_kershaw**  |
+| The most retweeted user is: **iam_bobsmith**  |
 | ------------- |
-| RT @MarcusRashford: Remember when I said I was going to need your help...For the millions who do not have the platform to be heard.Let'… |
+| RT @Channel4: At Channel 4 we champion unheard voices and stand up for inclusivity. Abusive behaviour is never okay. We’ve joined forces wi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
