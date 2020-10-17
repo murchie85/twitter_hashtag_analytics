@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bo Nix"**
+&#x1F34E; **TOPIC = "#Dodgers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Somebody's going to help me with Bo Nix; he's athletic with a very good arm. I'm not seeing much else. What am I missing? |
-| I will not watch another second of auburn football until either Bo Nix is benched or Gus Malzahn is fired |
-| RT @AUGoldMine: TV shows Bo Nix, Chad Morris and Seth Williams in animated conversations after that last incomplete pass.Nix has thrown t… |
+| mookie!!! #dodgers |
+| What a start!!!! Back to back homers 😍 #Dodgers |
+| #Dodgers Dave Roberts said Chris Taylor's ankle is feeling better than expected, moving around and "I expect him to… https://t.co/IGQYwQ1ojC |
 
-The most popular user is: **Maisie_Nix**
-<div class="alert alert-block alert-danger"> RT @vanteficient: when the boys were meeting park bo gum and while talking to him taehyung said ‘hyung’ and the hyung line immediately look…</div>
+The most popular user is: **boning88_**
+<div class="alert alert-block alert-danger"> RT @Dodgers: #DodgersWin! 
+
+FINAL: #Dodgers 7, Braves 3 https://t.co/aM7BZ8ORA7</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarstoolBigCat** |
-| #2 Most tweeted to  | **MichaelWBratton** |
-| #3 Most tweeted to  | **BR_CFB** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 2.79%|
+| #1 Most tweeted to  | **Dodgers** |
+| #2 Most tweeted to  | **alannarizzo** |
+| #3 Most tweeted to  | **TheRealJHair** |
+| NewProfiles (less than 10 days) | 0.83%  |
+| Tweeters with < 10 followers  | 2.59%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Maisie_Nix**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NIX**  |
-| second  | **BO**  |
-| third  | **AUBURN** |
-| fourth  | **THAT’S**  |
-| fifth  | **CAROLINA**  |
+| first  | **DODGERS**  |
+| second  | **GAME**  |
+| third  | **GO** |
+| fourth  | **BRAVES**  |
+| fifth  | **DODGERSRT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TGurley81: Jaycee Horn and #GamecockNation got BO Nix out there seeing ghost lol |
+|BIG RED !!!!! WE GOIN BACK TO BACK!! #dodgers |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Maisie_Nix**  |
+| The most retweeted user is: **boning88_**  |
 | ------------- |
-| RT @vanteficient: when the boys were meeting park bo gum and while talking to him taehyung said ‘hyung’ and the hyung line immediately look… |
+| RT @Dodgers: #DodgersWin! FINAL: #Dodgers 7, Braves 3 https://t.co/aM7BZ8ORA7 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
