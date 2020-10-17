@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
+&#x1F34E; **TOPIC = "Bo Nix"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @majornelson Yeah I can't decide but #freecodefridaycontest |
-| @majornelson @PlayTorchlight Go with the alpaca and name it Llama Llama Duck #FreeCodeFridayContest |
-| @majornelson My favourite sport is football and I'd love to meet Ooo Aah Cantona ⚽️🥅#FreeCodeFridayContest https://t.co/2081GBat1o |
+| Somebody's going to help me with Bo Nix; he's athletic with a very good arm. I'm not seeing much else. What am I missing? |
+| I will not watch another second of auburn football until either Bo Nix is benched or Gus Malzahn is fired |
+| RT @AUGoldMine: TV shows Bo Nix, Chad Morris and Seth Williams in animated conversations after that last incomplete pass.Nix has thrown t… |
 
-The most popular user is: **DouStudioDave**
-<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l…</div>
+The most popular user is: **Maisie_Nix**
+<div class="alert alert-block alert-danger"> RT @vanteficient: when the boys were meeting park bo gum and while talking to him taehyung said ‘hyung’ and the hyung line immediately look…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **PlayTorchlight** |
-| #3 Most tweeted to  | **Dapper_Tux** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 15.43%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **BarstoolBigCat** |
+| #2 Most tweeted to  | **MichaelWBratton** |
+| #3 Most tweeted to  | **BR_CFB** |
+| NewProfiles (less than 10 days) | 0.59%  |
+| Tweeters with < 10 followers  | 2.79%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DouStudioDave**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FREECODEFRIDAYCONTEST**  |
-| second  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
-| third  | **@PLAYTORCHLIGHT** |
-| fourth  | **WIN**  |
-| fifth  | **XBOX**  |
+| first  | **NIX**  |
+| second  | **BO**  |
+| third  | **AUBURN** |
+| fourth  | **THAT’S**  |
+| fifth  | **CAROLINA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@majornelson @PlayTorchlight A retriever named Sir Barkingtons #FreeCodeFridayContest |
+|RT @TGurley81: Jaycee Horn and #GamecockNation got BO Nix out there seeing ghost lol |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DouStudioDave**  |
+| The most retweeted user is: **Maisie_Nix**  |
 | ------------- |
-| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for @CrashBandicoot 4: It’s About Time on Xbox One. Good l… |
+| RT @vanteficient: when the boys were meeting park bo gum and while talking to him taehyung said ‘hyung’ and the hyung line immediately look… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
