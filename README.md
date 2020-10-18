@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Dodgers"**
+&#x1F34E; **TOPIC = "Coffee Crisp"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| mookie!!! #dodgers |
-| What a start!!!! Back to back homers 😍 #Dodgers |
-| #Dodgers Dave Roberts said Chris Taylor's ankle is feeling better than expected, moving around and "I expect him to… https://t.co/IGQYwQ1ojC |
+| I was about 7 or 8. An older cousin was over to visit. We were on the swing set in the backyard. She presented me w… https://t.co/6WG1D6SK2a |
+| @Rajio 5 kitkat = 1 coffee crisp |
+| Beautiful bright crisp fresh morning!A day mad for #coffee |
 
-The most popular user is: **boning88_**
-<div class="alert alert-block alert-danger"> RT @Dodgers: #DodgersWin! 
-
-FINAL: #Dodgers 7, Braves 3 https://t.co/aM7BZ8ORA7</div>
+The most popular user is: **coffee_sl**
+<div class="alert alert-block alert-danger"> RT @Xouped: why is this cow so CRISP https://t.co/kYXxymwm3H</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Dodgers** |
-| #2 Most tweeted to  | **alannarizzo** |
-| #3 Most tweeted to  | **TheRealJHair** |
-| NewProfiles (less than 10 days) | 0.83%  |
-| Tweeters with < 10 followers  | 2.59%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **TorontoUltra** |
+| #2 Most tweeted to  | **AvishSood** |
+| #3 Most tweeted to  | **jreganwilliams** |
+| NewProfiles (less than 10 days) | 0.35%  |
+| Tweeters with < 10 followers  | 3.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ FINAL: #Dodgers 7, Braves 3 https://t.co/aM7BZ8ORA7</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DODGERS**  |
-| second  | **GAME**  |
-| third  | **GO** |
-| fourth  | **BRAVES**  |
-| fifth  | **DODGERSRT**  |
+| first  | **COFFEE**  |
+| second  | **CRISP**  |
+| third  | **AERO** |
+| fourth  | **SOME**  |
+| fifth  | **FALL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|BIG RED !!!!! WE GOIN BACK TO BACK!! #dodgers |
+|@BigWurmMusic coffee crisp is like coffee flavoured chocolate over wafers, aero is just chocolate with bubbles in i… https://t.co/Ffrlu7ojKt |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **boning88_**  |
+| The most retweeted user is: **coffee_sl**  |
 | ------------- |
-| RT @Dodgers: #DodgersWin! FINAL: #Dodgers 7, Braves 3 https://t.co/aM7BZ8ORA7 |
+| RT @Xouped: why is this cow so CRISP https://t.co/kYXxymwm3H |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
