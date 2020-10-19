@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#zoomdick"**
+&#x1F34E; **TOPIC = "Toobin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChurchofSatan: During a pandemic, it's important to apply social norms to virtual interactions. Don't whip your dick out on a zoom call… |
-| @MarkBeach5150 @VICE He apologizes for not turning the camera off, but not whacking off? I want to know who was on… https://t.co/h7nfK1n6U1 |
-| RT @ChurchofSatan: During a pandemic, it's important to apply social norms to virtual interactions. Don't whip your dick out on a zoom call… |
+| RT @SirajAHashmi: has Jeffrey Toobin been arrested yet? https://t.co/JtWcNPCwb2 |
+| RT @rysimmons: the new game is to replace every new yorker cartoon caption with "Jeffrey Toobin took his dick  out on a Zoom call." https:/… |
+| RT @anangbhai: The Jeffrey Toobin of his time https://t.co/m3gPZT9IO7 |
 
-The most popular user is: **sherrieholbroo3**
-<div class="alert alert-block alert-danger"> RT @no_silenced: Jeffrey Toobin’s penis has now gotten more News coverage than Hunter Biden’s Laptop....
+The most popular user is: **theOtherDeaton**
+<div class="alert alert-block alert-danger"> RT @JoeConchaTV: BREAKING: New Yorker suspends CNN legal analyst Jeffery Toobin after exposing himself on a Zoom call. 
 
-#TRUMP2020ToSaveAmerica #zoomdick</div>
+CNN saying he has…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChurchofSatan** |
-| #2 Most tweeted to  | **MysterySolvent** |
-| #3 Most tweeted to  | **no_silenced** |
-| NewProfiles (less than 10 days) | 1.69%  |
-| Tweeters with < 10 followers  | 4.43%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MZHemingway** |
+| #2 Most tweeted to  | **rysimmons** |
+| #3 Most tweeted to  | **grace_panetta** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 2.49%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **sherrieholbroo3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ZOOMDICK**  |
-| second  | **ZOOM**  |
-| third  | **DICK** |
-| fourth  | **ZOOMDICKRT**  |
-| fifth  | **DURING**  |
+| first  | **TOOBIN**  |
+| second  | **JEFFREY**  |
+| third  | **ZOOM** |
+| fourth  | **NEW**  |
+| fifth  | **YORKER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (62.5%)
+VIEWS WERE : **SUBJECTIVE**  (54.55%) & **NEGATIVELY-SUBJECTIVE** (18.18%) **OBJECTIVE** (27.27%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Susaninlaguna: Everyone talking about #zoomdickBut this is the story 👇🏻 https://t.co/rskvBeAzp4 |
+|RT @IwriteOK: @gonzo_mercenary Excitedly awaiting the vaporwaved screengrab of Toobin pounding it |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sherrieholbroo3**  |
+| The most retweeted user is: **theOtherDeaton**  |
 | ------------- |
-| RT @no_silenced: Jeffrey Toobin’s penis has now gotten more News coverage than Hunter Biden’s Laptop....#TRUMP2020ToSaveAmerica #zoomdick |
+| RT @JoeConchaTV: BREAKING: New Yorker suspends CNN legal analyst Jeffery Toobin after exposing himself on a Zoom call. CNN saying he has… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
