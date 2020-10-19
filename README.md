@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Coffee Crisp"**
+&#x1F34E; **TOPIC = "#zoomdick"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I was about 7 or 8. An older cousin was over to visit. We were on the swing set in the backyard. She presented me w… https://t.co/6WG1D6SK2a |
-| @Rajio 5 kitkat = 1 coffee crisp |
-| Beautiful bright crisp fresh morning!A day mad for #coffee |
+| RT @ChurchofSatan: During a pandemic, it's important to apply social norms to virtual interactions. Don't whip your dick out on a zoom call… |
+| @MarkBeach5150 @VICE He apologizes for not turning the camera off, but not whacking off? I want to know who was on… https://t.co/h7nfK1n6U1 |
+| RT @ChurchofSatan: During a pandemic, it's important to apply social norms to virtual interactions. Don't whip your dick out on a zoom call… |
 
-The most popular user is: **coffee_sl**
-<div class="alert alert-block alert-danger"> RT @Xouped: why is this cow so CRISP https://t.co/kYXxymwm3H</div>
+The most popular user is: **sherrieholbroo3**
+<div class="alert alert-block alert-danger"> RT @no_silenced: Jeffrey Toobin’s penis has now gotten more News coverage than Hunter Biden’s Laptop....
+
+#TRUMP2020ToSaveAmerica #zoomdick</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TorontoUltra** |
-| #2 Most tweeted to  | **AvishSood** |
-| #3 Most tweeted to  | **jreganwilliams** |
-| NewProfiles (less than 10 days) | 0.35%  |
-| Tweeters with < 10 followers  | 3.0%|
+| #1 Most tweeted to  | **ChurchofSatan** |
+| #2 Most tweeted to  | **MysterySolvent** |
+| #3 Most tweeted to  | **no_silenced** |
+| NewProfiles (less than 10 days) | 1.69%  |
+| Tweeters with < 10 followers  | 4.43%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **coffee_sl**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COFFEE**  |
-| second  | **CRISP**  |
-| third  | **AERO** |
-| fourth  | **SOME**  |
-| fifth  | **FALL**  |
+| first  | **ZOOMDICK**  |
+| second  | **ZOOM**  |
+| third  | **DICK** |
+| fourth  | **ZOOMDICKRT**  |
+| fifth  | **DURING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (6.67%)
+VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (62.5%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BigWurmMusic coffee crisp is like coffee flavoured chocolate over wafers, aero is just chocolate with bubbles in i… https://t.co/Ffrlu7ojKt |
+|RT @Susaninlaguna: Everyone talking about #zoomdickBut this is the story 👇🏻 https://t.co/rskvBeAzp4 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **coffee_sl**  |
+| The most retweeted user is: **sherrieholbroo3**  |
 | ------------- |
-| RT @Xouped: why is this cow so CRISP https://t.co/kYXxymwm3H |
+| RT @no_silenced: Jeffrey Toobin’s penis has now gotten more News coverage than Hunter Biden’s Laptop....#TRUMP2020ToSaveAmerica #zoomdick |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
