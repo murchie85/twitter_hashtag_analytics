@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Toobin"**
+&#x1F34E; **TOPIC = "Rashford"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SirajAHashmi: has Jeffrey Toobin been arrested yet? https://t.co/JtWcNPCwb2 |
-| RT @rysimmons: the new game is to replace every new yorker cartoon caption with "Jeffrey Toobin took his dick  out on a Zoom call." https:/… |
-| RT @anangbhai: The Jeffrey Toobin of his time https://t.co/m3gPZT9IO7 |
+| RT @ChampionsLeague: 🔴 Who else? Marcus Rashford leads Manchester United to victory in Paris ⚽️ #UCL https://t.co/AiIB4FP2Kj |
+| Marcus Rashford MBE🐐 https://t.co/upNJURbyhu |
+| Superb from Man Utd. Bruno, Tuanzebe, Fred, and Wan Bissaka were outstanding. Firecracker performace.… https://t.co/OD91Ik3Jkp |
 
-The most popular user is: **theOtherDeaton**
-<div class="alert alert-block alert-danger"> RT @JoeConchaTV: BREAKING: New Yorker suspends CNN legal analyst Jeffery Toobin after exposing himself on a Zoom call. 
-
-CNN saying he has…</div>
+The most popular user is: **Khaloud_123**
+<div class="alert alert-block alert-danger"> RT @gymIad: Rashford waking up Wan Bissaka to tell his baby momma to sign up for the free meals scheme  https://t.co/D0hJCHIkLL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MZHemingway** |
-| #2 Most tweeted to  | **rysimmons** |
-| #3 Most tweeted to  | **grace_panetta** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 2.49%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **UCLonCBSSports** |
+| #3 Most tweeted to  | **ChampionsLeague** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 2.59%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ CNN saying he has…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOOBIN**  |
-| second  | **JEFFREY**  |
-| third  | **ZOOM** |
-| fourth  | **NEW**  |
-| fifth  | **YORKER**  |
+| first  | **RASHFORD**  |
+| second  | **MARCUS**  |
+| third  | **PARIS** |
+| fourth  | **PSG**  |
+| fifth  | **UNITED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (54.55%) & **NEGATIVELY-SUBJECTIVE** (18.18%) **OBJECTIVE** (27.27%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @IwriteOK: @gonzo_mercenary Excitedly awaiting the vaporwaved screengrab of Toobin pounding it |
+|RT @NBCSportsSoccer: RASHFORD GETS IT DONE AGAINST PARIS https://t.co/5PlvkabiLO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **theOtherDeaton**  |
+| The most retweeted user is: **Khaloud_123**  |
 | ------------- |
-| RT @JoeConchaTV: BREAKING: New Yorker suspends CNN legal analyst Jeffery Toobin after exposing himself on a Zoom call. CNN saying he has… |
+| RT @gymIad: Rashford waking up Wan Bissaka to tell his baby momma to sign up for the free meals scheme  https://t.co/D0hJCHIkLL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
