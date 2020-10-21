@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LekkiMassacre"**
+&#x1F34E; **TOPIC = "Mel Brooks"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @drpenking: Bullet that is not usually available to fight Boko Haram is available all of a sudden to shoot civilians  #LekkiMassacre #L… |
-| RT @Iam_vwede: A US soldier has a message for Buhari, Tinubu and Sanwo Olu. #LekkiGenocide #LekkiMassacre #EndSARS #EndSWAT https://t.co/vm… |
-| RT @HeraldNG: Snipers sighted on the roof of Oriental hotel, VI, Lagos.Stay safe!_____________#LekkiMassacre CCTV #LekkitollgateMassac… |
+| Mel Brooks is practically my father, so please listen to my dad. https://t.co/MzOcsSW0HE |
+| RT @PalmerReport: Donald Trump's day so far:- Keeps tweeting weird things about Lesley Stahl- Just how bad did that 60 Minutes interview… |
+| RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t… |
 
-The most popular user is: **Temmyboy17**
-<div class="alert alert-block alert-danger"> RT @OgbeniDipo: The DG DSS, the Chief of Army Staff and the IGP should all be fired. Pass this on. #EndSARS #LekkiMassacre 💔</div>
+The most popular user is: **SSchmadkins**
+<div class="alert alert-block alert-danger"> RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **burnaboy** |
-| #2 Most tweeted to  | **jidesanwoolu** |
-| #3 Most tweeted to  | **DJ_Swiitch** |
-| NewProfiles (less than 10 days) | 4.12%  |
-| Tweeters with < 10 followers  | 7.47%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **OhNoSheTwitnt** |
+| #2 Most tweeted to  | **PalmerReport** |
+| #3 Most tweeted to  | **JoeBiden** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 2.68%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Temmyboy17**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEKKIMASSACRE**  |
-| second  | **ENDSARS**  |
-| third  | **@BURNABOY:** |
-| fourth  | **LET**  |
-| fifth  | **RETWEET**  |
+| first  | **MEL**  |
+| second  | **BROOKS**  |
+| third  | **ENDORSED** |
+| fourth  | **BIDEN**  |
+| fifth  | **TRUMP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DJ_Swiitch: Internet is down, Twitter retweet button is not working! #EndSARS  #BaseOnWhat #LekkiMassacre #StopNigeriaGovernment |
+|RT @TeaPainUSA: Mel Brooks puts a blaze underneath Trump's saddle.https://t.co/zsZCJRaBFN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Temmyboy17**  |
+| The most retweeted user is: **SSchmadkins**  |
 | ------------- |
-| RT @OgbeniDipo: The DG DSS, the Chief of Army Staff and the IGP should all be fired. Pass this on. #EndSARS #LekkiMassacre 💔 |
+| RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
