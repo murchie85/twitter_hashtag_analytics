@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rashford"**
+&#x1F34E; **TOPIC = "#LekkiMassacre"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChampionsLeague: 🔴 Who else? Marcus Rashford leads Manchester United to victory in Paris ⚽️ #UCL https://t.co/AiIB4FP2Kj |
-| Marcus Rashford MBE🐐 https://t.co/upNJURbyhu |
-| Superb from Man Utd. Bruno, Tuanzebe, Fred, and Wan Bissaka were outstanding. Firecracker performace.… https://t.co/OD91Ik3Jkp |
+| RT @drpenking: Bullet that is not usually available to fight Boko Haram is available all of a sudden to shoot civilians  #LekkiMassacre #L… |
+| RT @Iam_vwede: A US soldier has a message for Buhari, Tinubu and Sanwo Olu. #LekkiGenocide #LekkiMassacre #EndSARS #EndSWAT https://t.co/vm… |
+| RT @HeraldNG: Snipers sighted on the roof of Oriental hotel, VI, Lagos.Stay safe!_____________#LekkiMassacre CCTV #LekkitollgateMassac… |
 
-The most popular user is: **Khaloud_123**
-<div class="alert alert-block alert-danger"> RT @gymIad: Rashford waking up Wan Bissaka to tell his baby momma to sign up for the free meals scheme  https://t.co/D0hJCHIkLL</div>
+The most popular user is: **Temmyboy17**
+<div class="alert alert-block alert-danger"> RT @OgbeniDipo: The DG DSS, the Chief of Army Staff and the IGP should all be fired. Pass this on. #EndSARS #LekkiMassacre 💔</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **UCLonCBSSports** |
-| #3 Most tweeted to  | **ChampionsLeague** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 2.59%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **burnaboy** |
+| #2 Most tweeted to  | **jidesanwoolu** |
+| #3 Most tweeted to  | **DJ_Swiitch** |
+| NewProfiles (less than 10 days) | 4.12%  |
+| Tweeters with < 10 followers  | 7.47%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Khaloud_123**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RASHFORD**  |
-| second  | **MARCUS**  |
-| third  | **PARIS** |
-| fourth  | **PSG**  |
-| fifth  | **UNITED**  |
+| first  | **LEKKIMASSACRE**  |
+| second  | **ENDSARS**  |
+| third  | **@BURNABOY:** |
+| fourth  | **LET**  |
+| fifth  | **RETWEET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NBCSportsSoccer: RASHFORD GETS IT DONE AGAINST PARIS https://t.co/5PlvkabiLO |
+|RT @DJ_Swiitch: Internet is down, Twitter retweet button is not working! #EndSARS  #BaseOnWhat #LekkiMassacre #StopNigeriaGovernment |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Khaloud_123**  |
+| The most retweeted user is: **Temmyboy17**  |
 | ------------- |
-| RT @gymIad: Rashford waking up Wan Bissaka to tell his baby momma to sign up for the free meals scheme  https://t.co/D0hJCHIkLL |
+| RT @OgbeniDipo: The DG DSS, the Chief of Army Staff and the IGP should all be fired. Pass this on. #EndSARS #LekkiMassacre 💔 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
