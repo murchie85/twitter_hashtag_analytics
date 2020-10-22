@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mel Brooks"**
+&#x1F34E; **TOPIC = "60 Minutes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Mel Brooks is practically my father, so please listen to my dad. https://t.co/MzOcsSW0HE |
-| RT @PalmerReport: Donald Trump's day so far:- Keeps tweeting weird things about Lesley Stahl- Just how bad did that 60 Minutes interview… |
-| RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t… |
+| RT @maggieNYT: The president sat down, was asked if he was ready for tough questions, and complained from there. More on a CBS interview wi… |
+| RT @MeidasTouch: 📺 NEW VIDEOThanks for the raw 60 minutes footage#TrumpIsPathetic https://t.co/MuUUWKbNtB |
+| RT @BecketAdams: Trump does indeed complain about the 60 Minutes questions, but i was told he stormed out/walked out of the interview. i ..… |
 
-The most popular user is: **SSchmadkins**
-<div class="alert alert-block alert-danger"> RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t…</div>
+The most popular user is: **mrtaz007**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: I am pleased to inform you that, for the sake of accuracy in reporting, I am considering posting my interview with Les…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **OhNoSheTwitnt** |
-| #2 Most tweeted to  | **PalmerReport** |
-| #3 Most tweeted to  | **JoeBiden** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 2.68%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **MeidasTouch** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **greggutfeld** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 4.93%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SSchmadkins**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEL**  |
-| second  | **BROOKS**  |
-| third  | **ENDORSED** |
-| fourth  | **BIDEN**  |
-| fifth  | **TRUMP**  |
+| first  | **TRUMP**  |
+| second  | **60**  |
+| third  | **MINUTES** |
+| fourth  | **INTERVIEW**  |
+| fifth  | **STAHL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TeaPainUSA: Mel Brooks puts a blaze underneath Trump's saddle.https://t.co/zsZCJRaBFN |
+|RT @MeidasTouch: If he can’t handle 60 minutes he can’t handle four more years |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SSchmadkins**  |
+| The most retweeted user is: **mrtaz007**  |
 | ------------- |
-| RT @OhNoSheTwitnt: Mister Rogers’ wife and Mel Brooks endorsed Biden and the Taliban and the KKK endorsed Trump in case you were still on t… |
+| RT @realDonaldTrump: I am pleased to inform you that, for the sake of accuracy in reporting, I am considering posting my interview with Les… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
