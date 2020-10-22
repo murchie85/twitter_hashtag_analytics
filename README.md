@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "60 Minutes"**
+&#x1F34E; **TOPIC = "Ravens"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @maggieNYT: The president sat down, was asked if he was ready for tough questions, and complained from there. More on a CBS interview wi… |
-| RT @MeidasTouch: 📺 NEW VIDEOThanks for the raw 60 minutes footage#TrumpIsPathetic https://t.co/MuUUWKbNtB |
-| RT @BecketAdams: Trump does indeed complain about the 60 Minutes questions, but i was told he stormed out/walked out of the interview. i ..… |
+| *waits for someone to say‘gO bE a rAvEnS fAn ThEn’ https://t.co/BhcHaRwYOP |
+| @chadp71 That would be nice but not sure it would all that much, not after the trade the Ravens are pulling off. |
+| @LateRoundCorner @PFF_Gordon We need to get some balance back, Steelers and Ravens tend to mirror each other, i thi… https://t.co/9d3HsnR9Zj |
 
-The most popular user is: **mrtaz007**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: I am pleased to inform you that, for the sake of accuracy in reporting, I am considering posting my interview with Les…</div>
+The most popular user is: **rock_ravens**
+<div class="alert alert-block alert-danger"> RT @jennangee: rt for good luck https://t.co/ymMEeiNk3l</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MeidasTouch** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **greggutfeld** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 4.93%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **RapSheet** |
+| #2 Most tweeted to  | **Ravens** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.55%  |
+| Tweeters with < 10 followers  | 3.5%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mrtaz007**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **60**  |
-| third  | **MINUTES** |
-| fourth  | **INTERVIEW**  |
-| fifth  | **STAHL**  |
+| first  | **RAVENS**  |
+| second  | **DEZ**  |
+| third  | **BRYANT** |
+| fourth  | **PRACTICE**  |
+| fifth  | **SQUAD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (10.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MeidasTouch: If he can’t handle 60 minutes he can’t handle four more years |
+|RT @RapSheet: From TNF First Look: The #Vikings traded Yannick Ngakoue to the #Ravens, while we learned that star DE Danielle Hunter would… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mrtaz007**  |
+| The most retweeted user is: **rock_ravens**  |
 | ------------- |
-| RT @realDonaldTrump: I am pleased to inform you that, for the sake of accuracy in reporting, I am considering posting my interview with Les… |
+| RT @jennangee: rt for good luck https://t.co/ymMEeiNk3l |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
