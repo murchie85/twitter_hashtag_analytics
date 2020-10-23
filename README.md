@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ravens"**
+&#x1F34E; **TOPIC = "Bamford"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| *waits for someone to say‘gO bE a rAvEnS fAn ThEn’ https://t.co/BhcHaRwYOP |
-| @chadp71 That would be nice but not sure it would all that much, not after the trade the Ravens are pulling off. |
-| @LateRoundCorner @PFF_Gordon We need to get some balance back, Steelers and Ravens tend to mirror each other, i thi… https://t.co/9d3HsnR9Zj |
+| Leeds really spent 30m on Rodrigo just for Bamford to outshine him dfkm |
+| RT @miniminter: BAMAWHO....BAMAWHAT....BAMFORD! |
+| RT @brfootball: Patrick Bamford against Aston Villa: ⚽️—55’⚽️—67’⚽️—74' https://t.co/ZyDM7fiDJN |
 
-The most popular user is: **rock_ravens**
-<div class="alert alert-block alert-danger"> RT @jennangee: rt for good luck https://t.co/ymMEeiNk3l</div>
+The most popular user is: **lukemccarthyafc**
+<div class="alert alert-block alert-danger"> RT @LUFC: HAT-TRICK BAMFORD!!! https://t.co/cBBgUDGa2O</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RapSheet** |
-| #2 Most tweeted to  | **Ravens** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.55%  |
-| Tweeters with < 10 followers  | 3.5%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **LUFC** |
+| #2 Most tweeted to  | **Patrick_Bamford** |
+| #3 Most tweeted to  | **brfootball** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 2.39%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **rock_ravens**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAVENS**  |
-| second  | **DEZ**  |
-| third  | **BRYANT** |
-| fourth  | **PRACTICE**  |
-| fifth  | **SQUAD**  |
+| first  | **BAMFORD**  |
+| second  | **PATRICK**  |
+| third  | **HAT-TRICK** |
+| fourth  | **LEEDS**  |
+| fifth  | **ASTON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RapSheet: From TNF First Look: The #Vikings traded Yannick Ngakoue to the #Ravens, while we learned that star DE Danielle Hunter would… |
+|RT @cenkoza: Bamford has a PL hattrick before Aubameyang and Lacazette https://t.co/bqyPCDwdYP |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rock_ravens**  |
+| The most retweeted user is: **lukemccarthyafc**  |
 | ------------- |
-| RT @jennangee: rt for good luck https://t.co/ymMEeiNk3l |
+| RT @LUFC: HAT-TRICK BAMFORD!!! https://t.co/cBBgUDGa2O |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
