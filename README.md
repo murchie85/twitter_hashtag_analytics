@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bamford"**
+&#x1F34E; **TOPIC = "kenma"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Leeds really spent 30m on Rodrigo just for Bamford to outshine him dfkm |
-| RT @miniminter: BAMAWHO....BAMAWHAT....BAMFORD! |
-| RT @brfootball: Patrick Bamford against Aston Villa: ⚽️—55’⚽️—67’⚽️—74' https://t.co/ZyDM7fiDJN |
+| NO BC WHAT THE FUCK KUROO AND KENMA https://t.co/umq8pdVyo2 |
+| RT @MSBYato: "are ya winning, kenma?" https://t.co/V1pnypyRHh |
+| RT @kozqme: just kenma being pissed off but in tiny font https://t.co/twuITdHysb |
 
-The most popular user is: **lukemccarthyafc**
-<div class="alert alert-block alert-danger"> RT @LUFC: HAT-TRICK BAMFORD!!! https://t.co/cBBgUDGa2O</div>
+The most popular user is: **Kenma_hoe**
+<div class="alert alert-block alert-danger"> RT @KISESCOEUR: here's an attempt to make it high quality
+
+the monster generation's signatures (1/2) https://t.co/wA2Eo7cRYT</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LUFC** |
-| #2 Most tweeted to  | **Patrick_Bamford** |
-| #3 Most tweeted to  | **brfootball** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 2.39%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **todxrxki** |
+| #2 Most tweeted to  | **mookie000** |
+| #3 Most tweeted to  | **Haikyu_EN** |
+| NewProfiles (less than 10 days) | 1.31%  |
+| Tweeters with < 10 followers  | 7.43%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **lukemccarthyafc**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BAMFORD**  |
-| second  | **PATRICK**  |
-| third  | **HAT-TRICK** |
-| fourth  | **LEEDS**  |
-| fifth  | **ASTON**  |
+| first  | **KENMA**  |
+| second  | **KUROO**  |
+| third  | **WAY** |
+| fourth  | **LOOKS**  |
+| fifth  | **@TODXRXKI:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @cenkoza: Bamford has a PL hattrick before Aubameyang and Lacazette https://t.co/bqyPCDwdYP |
+|RT @Crunchyroll: KENMA IS TRENDING AGAIN 🐱 LET'S GO 🎉🎉🎉 https://t.co/asjHQj5eqU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lukemccarthyafc**  |
+| The most retweeted user is: **Kenma_hoe**  |
 | ------------- |
-| RT @LUFC: HAT-TRICK BAMFORD!!! https://t.co/cBBgUDGa2O |
+| RT @KISESCOEUR: here's an attempt to make it high qualitythe monster generation's signatures (1/2) https://t.co/wA2Eo7cRYT |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
