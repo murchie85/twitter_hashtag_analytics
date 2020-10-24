@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#VoteEarlyDay"**
+&#x1F34E; **TOPIC = "#onlystrands"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ladygaga: Ballot’s here! And it’s #VoteEarlyDay! Today’s the perfect day to join the 46 million people who have already cast their ball… |
-| RT @KristenClarkeJD: Another shot of this amazing marching band at Barclay’s Center in Brooklyn. #VoteEarlyDay #EarlyVoting #BK Early vot… |
-| RT @ewarren: The best way to fight Donald Trump’s attempts to undermine the results of this election? A landslide victory. Don’t wait t… |
+| @zokyreroe @Corpse_Husband YES IT'S TOTALLY OKAY 💖💖💖#onlystrands |
+| i was about to tweet that want corpse music video but i don’t think that would even work #onlystrands |
+| #onlystrands say it back😡😡 |
 
-The most popular user is: **joaodomenech**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Hello, Florida! It's #VoteEarlyDay and we’re just 10 days away from this election. I want to see you make a plan today for…</div>
+The most popular user is: **faitthhrb**
+<div class="alert alert-block alert-danger"> RT @Corpse_Husband: LETS GO BABY!! #onlystrands</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **ladygaga** |
-| #3 Most tweeted to  | **JoeBiden** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 2.61%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **Corpse_Husband** |
+| #2 Most tweeted to  | **CorpseClips** |
+| #3 Most tweeted to  | **MrBeastYT** |
+| NewProfiles (less than 10 days) | 11.82%  |
+| Tweeters with < 10 followers  | 25.6%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **joaodomenech**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VOTEEARLYDAY**  |
-| second  | **VOTE**  |
-| third  | **MAKE** |
-| fourth  | **DAYS**  |
-| fifth  | **PLAN**  |
+| first  | **ONLYSTRANDS**  |
+| second  | **@CORPSE_HUSBAND**  |
+| third  | **ONLYSTRANDSRT** |
+| fourth  | **CORPSE**  |
+| fifth  | **GO**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (92.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (7.14%)
+VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @votesaveamerica: RT if you voted early! #VoteEarlyDay https://t.co/YVqSrehxGc |
+|@Corpse_Husband love YOU SM!! you deserve THE WORLD AND EVERYTHING MORE!! &lt;3 #onlystrands #ONLYSTRANDS https://t.co/Fy5UzzeDfZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joaodomenech**  |
+| The most retweeted user is: **faitthhrb**  |
 | ------------- |
-| RT @BarackObama: Hello, Florida! It's #VoteEarlyDay and we’re just 10 days away from this election. I want to see you make a plan today for… |
+| RT @Corpse_Husband: LETS GO BABY!! #onlystrands |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
