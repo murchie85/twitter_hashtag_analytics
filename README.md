@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "kenma"**
+&#x1F34E; **TOPIC = "joon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| NO BC WHAT THE FUCK KUROO AND KENMA https://t.co/umq8pdVyo2 |
-| RT @MSBYato: "are ya winning, kenma?" https://t.co/V1pnypyRHh |
-| RT @kozqme: just kenma being pissed off but in tiny font https://t.co/twuITdHysb |
+| RT @artisqueer: whoever ends up with joon gonna be likeAh yes. Me. My lover. And his 500 plushies. 🥺 https://t.co/iHfYkhBgt1 |
+| RT @THICJ00N: how joon post a cute picture and then tell us he’s a hulking muscle covered human being? i hate him. |
+| RT @jeonbubbles: joon working out back in 2019 (?) https://t.co/oDAjp3BfDW |
 
-The most popular user is: **Kenma_hoe**
-<div class="alert alert-block alert-danger"> RT @KISESCOEUR: here's an attempt to make it high quality
-
-the monster generation's signatures (1/2) https://t.co/wA2Eo7cRYT</div>
+The most popular user is: **joon_knows**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: Savage Love 🎶 #SavageLoveRemix https://t.co/IY0iKYP1eu</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **todxrxki** |
-| #2 Most tweeted to  | **mookie000** |
-| #3 Most tweeted to  | **Haikyu_EN** |
-| NewProfiles (less than 10 days) | 1.31%  |
-| Tweeters with < 10 followers  | 7.43%|
+| #1 Most tweeted to  | **jeonbubbles** |
+| #2 Most tweeted to  | **THICJ00N** |
+| #3 Most tweeted to  | **monipersona** |
+| NewProfiles (less than 10 days) | 0.81%  |
+| Tweeters with < 10 followers  | 2.47%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +39,28 @@ the monster generation's signatures (1/2) https://t.co/wA2Eo7cRYT</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KENMA**  |
-| second  | **KUROO**  |
-| third  | **WAY** |
-| fourth  | **LOOKS**  |
-| fifth  | **@TODXRXKI:**  |
+| first  | **JOON**  |
+| second  | **US**  |
+| third  | **@JEONBUBBLES:** |
+| fourth  | **LOVE**  |
+| fifth  | **CUTE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Crunchyroll: KENMA IS TRENDING AGAIN 🐱 LET'S GO 🎉🎉🎉 https://t.co/asjHQj5eqU |
+|And Joon... said Jungkook... is at 10%...... https://t.co/2FBT0BJxTh |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kenma_hoe**  |
+| The most retweeted user is: **joon_knows**  |
 | ------------- |
-| RT @KISESCOEUR: here's an attempt to make it high qualitythe monster generation's signatures (1/2) https://t.co/wA2Eo7cRYT |
+| RT @BTS_twt: Savage Love 🎶 #SavageLoveRemix https://t.co/IY0iKYP1eu |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
