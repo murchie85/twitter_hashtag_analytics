@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "joon"**
+&#x1F34E; **TOPIC = "#VoteEarlyDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @artisqueer: whoever ends up with joon gonna be likeAh yes. Me. My lover. And his 500 plushies. 🥺 https://t.co/iHfYkhBgt1 |
-| RT @THICJ00N: how joon post a cute picture and then tell us he’s a hulking muscle covered human being? i hate him. |
-| RT @jeonbubbles: joon working out back in 2019 (?) https://t.co/oDAjp3BfDW |
+| RT @ladygaga: Ballot’s here! And it’s #VoteEarlyDay! Today’s the perfect day to join the 46 million people who have already cast their ball… |
+| RT @KristenClarkeJD: Another shot of this amazing marching band at Barclay’s Center in Brooklyn. #VoteEarlyDay #EarlyVoting #BK Early vot… |
+| RT @ewarren: The best way to fight Donald Trump’s attempts to undermine the results of this election? A landslide victory. Don’t wait t… |
 
-The most popular user is: **joon_knows**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: Savage Love 🎶 #SavageLoveRemix https://t.co/IY0iKYP1eu</div>
+The most popular user is: **joaodomenech**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Hello, Florida! It's #VoteEarlyDay and we’re just 10 days away from this election. I want to see you make a plan today for…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jeonbubbles** |
-| #2 Most tweeted to  | **THICJ00N** |
-| #3 Most tweeted to  | **monipersona** |
-| NewProfiles (less than 10 days) | 0.81%  |
-| Tweeters with < 10 followers  | 2.47%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **ladygaga** |
+| #3 Most tweeted to  | **JoeBiden** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 2.61%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **joon_knows**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOON**  |
-| second  | **US**  |
-| third  | **@JEONBUBBLES:** |
-| fourth  | **LOVE**  |
-| fifth  | **CUTE**  |
+| first  | **VOTEEARLYDAY**  |
+| second  | **VOTE**  |
+| third  | **MAKE** |
+| fourth  | **DAYS**  |
+| fifth  | **PLAN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (92.86%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (7.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|And Joon... said Jungkook... is at 10%...... https://t.co/2FBT0BJxTh |
+|RT @votesaveamerica: RT if you voted early! #VoteEarlyDay https://t.co/YVqSrehxGc |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joon_knows**  |
+| The most retweeted user is: **joaodomenech**  |
 | ------------- |
-| RT @BTS_twt: Savage Love 🎶 #SavageLoveRemix https://t.co/IY0iKYP1eu |
+| RT @BarackObama: Hello, Florida! It's #VoteEarlyDay and we’re just 10 days away from this election. I want to see you make a plan today for… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
