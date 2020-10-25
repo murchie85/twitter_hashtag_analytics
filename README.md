@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#onlystrands"**
+&#x1F34E; **TOPIC = "Gase"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @zokyreroe @Corpse_Husband YES IT'S TOTALLY OKAY 💖💖💖#onlystrands |
-| i was about to tweet that want corpse music video but i don’t think that would even work #onlystrands |
-| #onlystrands say it back😡😡 |
+| @Connor_J_Hughes He talks to no players. It’s like there is a force field around gase. Not dowel |
+| @Michael_Nania Gase will give him 15 snaps today so he doesn't overload him like Perine |
+| RT @nyjetsdan16: Some clarity as to why Gase is still the #jets HC. Worth a listen.. @TyeJohnson54 @KS1988NYJ@TRauch21 #jetshttps://t.c… |
 
-The most popular user is: **faitthhrb**
-<div class="alert alert-block alert-danger"> RT @Corpse_Husband: LETS GO BABY!! #onlystrands</div>
+The most popular user is: **gase_nino216**
+<div class="alert alert-block alert-danger"> RT @arashi5official: Cheers to Whenever You Call! @brunomars
+#BrunoMars #ARASHI #嵐 #WheneverYouCall https://t.co/YLTi1r828w</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Corpse_Husband** |
-| #2 Most tweeted to  | **CorpseClips** |
-| #3 Most tweeted to  | **MrBeastYT** |
-| NewProfiles (less than 10 days) | 11.82%  |
-| Tweeters with < 10 followers  | 25.6%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **nyjets** |
+| #2 Most tweeted to  | **TheOnion** |
+| #3 Most tweeted to  | **BrianCoz** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 5.12%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **faitthhrb**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ONLYSTRANDS**  |
-| second  | **@CORPSE_HUSBAND**  |
-| third  | **ONLYSTRANDSRT** |
-| fourth  | **CORPSE**  |
-| fifth  | **GO**  |
+| first  | **GASE**  |
+| second  | **ADAM**  |
+| third  | **JETS** |
+| fourth  | **CALLING**  |
+| fifth  | **PLAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (21.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (64.29%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Corpse_Husband love YOU SM!! you deserve THE WORLD AND EVERYTHING MORE!! &lt;3 #onlystrands #ONLYSTRANDS https://t.co/Fy5UzzeDfZ |
+|@FinalE33 @BrandonDavisBD Adam Gase will be available soon. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **faitthhrb**  |
+| The most retweeted user is: **gase_nino216**  |
 | ------------- |
-| RT @Corpse_Husband: LETS GO BABY!! #onlystrands |
+| RT @arashi5official: Cheers to Whenever You Call! @brunomars#BrunoMars #ARASHI #嵐 #WheneverYouCall https://t.co/YLTi1r828w |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
