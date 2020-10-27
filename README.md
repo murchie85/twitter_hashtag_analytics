@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gase"**
+&#x1F34E; **TOPIC = "Amish"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Connor_J_Hughes He talks to no players. It’s like there is a force field around gase. Not dowel |
-| @Michael_Nania Gase will give him 15 snaps today so he doesn't overload him like Perine |
-| RT @nyjetsdan16: Some clarity as to why Gase is still the #jets HC. Worth a listen.. @TyeJohnson54 @KS1988NYJ@TRauch21 #jetshttps://t.c… |
+| @netcom_cosmic That’s like asking when Catholics started eating meat on Fri. Some Amish use technology that live ar… https://t.co/lo4GkneYeE |
+| @Blacklace40 They aren't forbidden from voting but generally only 10% of their community vote, if at all.The Amis… https://t.co/cg7dLuzXI2 |
+| RT @lindarchilders: Trump had nuns at his Ohio rally and the Amish in Pennsylvania.Here’s a sneak peak at tomorrow’s rally in Nebraska. 😳… |
 
-The most popular user is: **gase_nino216**
-<div class="alert alert-block alert-danger"> RT @arashi5official: Cheers to Whenever You Call! @brunomars
-#BrunoMars #ARASHI #嵐 #WheneverYouCall https://t.co/YLTi1r828w</div>
+The most popular user is: **_XNanaA**
+<div class="alert alert-block alert-danger"> RT @rauhling_bizzle: IT TOOK ALL 50 STATES, THE AMISH, KPOP STANS, 13 OTHER COUNTRIES, WITCHES, ANONYMOUS, THE LGBT COMMUNITY, CELEBRITIES,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nyjets** |
-| #2 Most tweeted to  | **TheOnion** |
-| #3 Most tweeted to  | **BrianCoz** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 5.12%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Blacklace40** |
+| #2 Most tweeted to  | **abigailmarone** |
+| #3 Most tweeted to  | **lindarchilders** |
+| NewProfiles (less than 10 days) | 0.87%  |
+| Tweeters with < 10 followers  | 4.35%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **gase_nino216**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GASE**  |
-| second  | **ADAM**  |
-| third  | **JETS** |
-| fourth  | **CALLING**  |
-| fifth  | **PLAY**  |
+| first  | **AMISH**  |
+| second  | **TRUMP**  |
+| third  | **FAKE** |
+| fourth  | **RALLY**  |
+| fifth  | **NUNS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@FinalE33 @BrandonDavisBD Adam Gase will be available soon. |
+|RT @lindarchilders: Trump had nuns at his Ohio rally and the Amish in Pennsylvania.Here’s a sneak peak at tomorrow’s rally in Nebraska. 😳… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gase_nino216**  |
+| The most retweeted user is: **_XNanaA**  |
 | ------------- |
-| RT @arashi5official: Cheers to Whenever You Call! @brunomars#BrunoMars #ARASHI #嵐 #WheneverYouCall https://t.co/YLTi1r828w |
+| RT @rauhling_bizzle: IT TOOK ALL 50 STATES, THE AMISH, KPOP STANS, 13 OTHER COUNTRIES, WITCHES, ANONYMOUS, THE LGBT COMMUNITY, CELEBRITIES,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
