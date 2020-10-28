@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Amish"**
+&#x1F34E; **TOPIC = "Goodyear"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @netcom_cosmic That’s like asking when Catholics started eating meat on Fri. Some Amish use technology that live ar… https://t.co/lo4GkneYeE |
-| @Blacklace40 They aren't forbidden from voting but generally only 10% of their community vote, if at all.The Amis… https://t.co/cg7dLuzXI2 |
-| RT @lindarchilders: Trump had nuns at his Ohio rally and the Amish in Pennsylvania.Here’s a sneak peak at tomorrow’s rally in Nebraska. 😳… |
+| RT @evpac: Goodyear touts mileage gains in 2nd-gen EfficientGrip EV tires https://t.co/wNDgBnjkVI |
+| RT @TheRealRoshod: OG CCU let’s take a walk down memory lane: Chocs, Parrots Cove, Goodyear House, Kokomos, Kahunas, Breakroom, SoHo on Thu… |
+| Photo and video recording in polling places is verboten most places. Don't do it:A cautionary tale: Goodyear man… https://t.co/inpHjDORTg |
 
-The most popular user is: **_XNanaA**
-<div class="alert alert-block alert-danger"> RT @rauhling_bizzle: IT TOOK ALL 50 STATES, THE AMISH, KPOP STANS, 13 OTHER COUNTRIES, WITCHES, ANONYMOUS, THE LGBT COMMUNITY, CELEBRITIES,…</div>
+The most popular user is: **MrFutbol**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Don’t buy GOODYEAR TIRES - They announced a BAN ON MAGA HATS. Get better tires for far less! (This is what the Radical…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Blacklace40** |
-| #2 Most tweeted to  | **abigailmarone** |
-| #3 Most tweeted to  | **lindarchilders** |
-| NewProfiles (less than 10 days) | 0.87%  |
-| Tweeters with < 10 followers  | 4.35%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **goodyear** |
+| #3 Most tweeted to  | **Baligubadle1** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 5.46%|
+| Tweeters with > 1000000 followers  | 0.23%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **_XNanaA**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMISH**  |
+| first  | **GOODYEAR**  |
 | second  | **TRUMP**  |
-| third  | **FAKE** |
-| fourth  | **RALLY**  |
-| fifth  | **NUNS**  |
+| third  | **TIRES** |
+| fourth  | **BOYCOTT**  |
+| fifth  | **DONALD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (87.5%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (12.5%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @lindarchilders: Trump had nuns at his Ohio rally and the Amish in Pennsylvania.Here’s a sneak peak at tomorrow’s rally in Nebraska. 😳… |
+|@JonObriBri The rain tires nascar used at their first ever rain race (Montreal 2008) were leftover tires that Goody… https://t.co/5S2INSiLYP |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_XNanaA**  |
+| The most retweeted user is: **MrFutbol**  |
 | ------------- |
-| RT @rauhling_bizzle: IT TOOK ALL 50 STATES, THE AMISH, KPOP STANS, 13 OTHER COUNTRIES, WITCHES, ANONYMOUS, THE LGBT COMMUNITY, CELEBRITIES,… |
+| RT @realDonaldTrump: Don’t buy GOODYEAR TIRES - They announced a BAN ON MAGA HATS. Get better tires for far less! (This is what the Radical… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
