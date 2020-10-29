@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Goodyear"**
+&#x1F34E; **TOPIC = "Rashford"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @evpac: Goodyear touts mileage gains in 2nd-gen EfficientGrip EV tires https://t.co/wNDgBnjkVI |
-| RT @TheRealRoshod: OG CCU let’s take a walk down memory lane: Chocs, Parrots Cove, Goodyear House, Kokomos, Kahunas, Breakroom, SoHo on Thu… |
-| Photo and video recording in polling places is verboten most places. Don't do it:A cautionary tale: Goodyear man… https://t.co/inpHjDORTg |
+| RT @utdarena: Imagine facing Pogba, Donny, Martial and Greenwood for 60-65 minutes and then Bruno, Rashford and Cavani come off the bench.… |
+| RT @UtdMohamad: Rashford could have gotten the hattrick earlier but chose to give the penalty for Martial to get his first goal of the seas… |
+| RT @ManUtdInPidgin: Marcus Rashford na wicked boy. See as e disgrace Upamecano. E con dey laugh am. 😂#MUFC #UCL 🔴⚫️ #MUNRBL https://t.co/9… |
 
-The most popular user is: **MrFutbol**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Don’t buy GOODYEAR TIRES - They announced a BAN ON MAGA HATS. Get better tires for far less! (This is what the Radical…</div>
+The most popular user is: **ErreDablioFTV**
+<div class="alert alert-block alert-danger"> RT @brfootball: Marcus Rashford's campaign to feed hungry kids during the school holidays in the UK was rejected by the government.
+
+Today,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **goodyear** |
-| #3 Most tweeted to  | **Baligubadle1** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 5.46%|
-| Tweeters with > 1000000 followers  | 0.23%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **utdreport** |
+| #3 Most tweeted to  | **utdarena** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 2.1%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **MrFutbol**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GOODYEAR**  |
-| second  | **TRUMP**  |
-| third  | **TIRES** |
-| fourth  | **BOYCOTT**  |
-| fifth  | **DONALD**  |
+| first  | **RASHFORD**  |
+| second  | **MARCUS**  |
+| third  | **HAT-TRICK** |
+| fourth  | **MARTIAL**  |
+| fifth  | **LEAGUE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (87.5%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (12.5%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@JonObriBri The rain tires nascar used at their first ever rain race (Montreal 2008) were leftover tires that Goody… https://t.co/5S2INSiLYP |
+|RT @utdreport: Solskjær: "I think Marcus [Rashford] has shown he can keep focused on what's important on and off the pitch." #mulive [mu] |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MrFutbol**  |
+| The most retweeted user is: **ErreDablioFTV**  |
 | ------------- |
-| RT @realDonaldTrump: Don’t buy GOODYEAR TIRES - They announced a BAN ON MAGA HATS. Get better tires for far less! (This is what the Radical… |
+| RT @brfootball: Marcus Rashford's campaign to feed hungry kids during the school holidays in the UK was rejected by the government.Today,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
