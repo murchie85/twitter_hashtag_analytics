@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rashford"**
+&#x1F34E; **TOPIC = "#Taskmaster"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @utdarena: Imagine facing Pogba, Donny, Martial and Greenwood for 60-65 minutes and then Bruno, Rashford and Cavani come off the bench.… |
-| RT @UtdMohamad: Rashford could have gotten the hattrick earlier but chose to give the penalty for Martial to get his first goal of the seas… |
-| RT @ManUtdInPidgin: Marcus Rashford na wicked boy. See as e disgrace Upamecano. E con dey laugh am. 😂#MUFC #UCL 🔴⚫️ #MUNRBL https://t.co/9… |
+| The red green is back #taskmaster |
+| RT @NikolaCizmesija: [ Ctrl C + Ctrl V ]Long time piece for @elbowrocket #taskmaster #marvel https://t.co/4XVBJiJDuR |
+| RT @TheTodaysGolfer: We love having Taskmaster back! Find out why series creator 'Little' Alex Horne and fellow comedian John Robins have a… |
 
-The most popular user is: **ErreDablioFTV**
-<div class="alert alert-block alert-danger"> RT @brfootball: Marcus Rashford's campaign to feed hungry kids during the school holidays in the UK was rejected by the government.
+The most popular user is: **HannahM91421767**
+<div class="alert alert-block alert-danger"> RT @taskmaster: So it begins... Happy #Taskmaster day everyone!
 
-Today,…</div>
+#DaisyMayCooper, @JohnnyVegasReal, @MawaanR, @Herring1967, #KatherineParki…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **utdreport** |
-| #3 Most tweeted to  | **utdarena** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 2.1%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **taskmaster** |
+| #2 Most tweeted to  | **AlexHorne** |
+| #3 Most tweeted to  | **gdavies** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.87%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ Today,…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RASHFORD**  |
-| second  | **MARCUS**  |
-| third  | **HAT-TRICK** |
-| fourth  | **MARTIAL**  |
-| fifth  | **LEAGUE**  |
+| first  | **TASKMASTER**  |
+| second  | **@ALEXHORNE**  |
+| third  | **@TASKMASTER:** |
+| fourth  | **PRIZE**  |
+| fifth  | **WIN**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @utdreport: Solskjær: "I think Marcus [Rashford] has shown he can keep focused on what's important on and off the pitch." #mulive [mu] |
+|@TheLastLeg #IsItOK that @JohnnyVegasReal gave us some world-class hip action on #TaskMaster https://t.co/3rGiB7p7QA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ErreDablioFTV**  |
+| The most retweeted user is: **HannahM91421767**  |
 | ------------- |
-| RT @brfootball: Marcus Rashford's campaign to feed hungry kids during the school holidays in the UK was rejected by the government.Today,… |
+| RT @taskmaster: So it begins... Happy #Taskmaster day everyone!#DaisyMayCooper, @JohnnyVegasReal, @MawaanR, @Herring1967, #KatherineParki… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
