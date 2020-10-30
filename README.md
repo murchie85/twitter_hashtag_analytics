@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Taskmaster"**
+&#x1F34E; **TOPIC = "#FreeCodeFridayContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The red green is back #taskmaster |
-| RT @NikolaCizmesija: [ Ctrl C + Ctrl V ]Long time piece for @elbowrocket #taskmaster #marvel https://t.co/4XVBJiJDuR |
-| RT @TheTodaysGolfer: We love having Taskmaster back! Find out why series creator 'Little' Alex Horne and fellow comedian John Robins have a… |
+| @majornelson Winos, because they see everything.  #FreeCodeFridayContest |
+| @majornelson @majornelson here speaks, I am part of Dedsec and it was canceled #FreeCodeFridayContest today, here i… https://t.co/WePMeuwnH8 |
+| NACC to probe gloves graft...  Check at https://t.co/2z7T5l96Hh Follow @insubcontinent also TRNDN Bobby Orr Happy H… https://t.co/H5AduPBHai |
 
-The most popular user is: **HannahM91421767**
-<div class="alert alert-block alert-danger"> RT @taskmaster: So it begins... Happy #Taskmaster day everyone!
-
-#DaisyMayCooper, @JohnnyVegasReal, @MawaanR, @Herring1967, #KatherineParki…</div>
+The most popular user is: **JoseRaulSM**
+<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for #WatchDogsLegion on Xbox One (and with Smart Delivery…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **taskmaster** |
-| #2 Most tweeted to  | **AlexHorne** |
-| #3 Most tweeted to  | **gdavies** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.87%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **GhostrunnerGame** |
+| #3 Most tweeted to  | **TygerLadi7** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 18.21%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **HannahM91421767**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TASKMASTER**  |
-| second  | **@ALEXHORNE**  |
-| third  | **@TASKMASTER:** |
-| fourth  | **PRIZE**  |
-| fifth  | **WIN**  |
+| first  | **FREECODEFRIDAYCONTEST**  |
+| second  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
+| third  | **RECRUIT** |
+| fourth  | **@GHOSTRUNNERGAME**  |
+| fifth  | **XBOX**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (69.23%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TheLastLeg #IsItOK that @JohnnyVegasReal gave us some world-class hip action on #TaskMaster https://t.co/3rGiB7p7QA |
+|@majornelson I would recruit someone who doesn't seem to know how to use electronic devices, so people wouldn't sus… https://t.co/GscvwmOpIX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **HannahM91421767**  |
+| The most retweeted user is: **JoseRaulSM**  |
 | ------------- |
-| RT @taskmaster: So it begins... Happy #Taskmaster day everyone!#DaisyMayCooper, @JohnnyVegasReal, @MawaanR, @Herring1967, #KatherineParki… |
+| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for #WatchDogsLegion on Xbox One (and with Smart Delivery… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
