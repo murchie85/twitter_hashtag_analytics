@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Melania"**
+&#x1F34E; **TOPIC = "#Lockdown2"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @crissles: it’s the way she can’t even pass for melania at all 💀 |
-| RT @mmpadellan: Seriously...why is there a fake Melania? |
-| RT @TheRealHoarse: Wow. They negotiated some affection into Fake Melania’s stunt double contract.  https://t.co/dB2PDsM7Rl |
+| How I’ll be spending #Lockdown2 https://t.co/ByrU8TlzSC |
+| RT @drgandalf52: If @BorisJohnson justification for #Lockdown2 is to 'save Christmas' rather than purely for the safety &amp; health of our nat… |
+| By the way, if you think this will last a month, you are clueless. #Lockdown2 |
 
-The most popular user is: **LauraHerMei**
-<div class="alert alert-block alert-danger"> RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised 
-
-Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C…</div>
+The most popular user is: **timmyd10**
+<div class="alert alert-block alert-danger"> RT @case1497: We’re gonna #Lockdown2 electric avenue</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mmpadellan** |
-| #2 Most tweeted to  | **DGComedy** |
-| #3 Most tweeted to  | **crissles** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 3.16%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **paul__johnson** |
+| #2 Most tweeted to  | **Anna_Soubry** |
+| #3 Most tweeted to  | **RDHale_** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 4.09%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -41,28 +39,28 @@ Audio evidence of Hunter Biden admitting to being in a partnership with the “S
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MELANIA**  |
-| second  | **FAKE**  |
-| third  | **TRUMP** |
-| fourth  | **EVEN**  |
-| fifth  | **REAL**  |
+| first  | **LOCKDOWN2**  |
+| second  | **LOCKDOWN**  |
+| third  | **BORIS** |
+| fourth  | **LATE**  |
+| fifth  | **SAGE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (21.43%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheSciBabe: @bdgrabinski It’s her.Every time I see “fake Melania” trending it’s just her in sunglasses. I swear to god, y’all are pro… |
+|RT @SuperSySez: 🔥 Bad Language 🔥 #FakeNewsMedia in the UK want you to be afraid about #COVID / #COVID19 and a #lockdownUK. Be aware of the… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LauraHerMei**  |
+| The most retweeted user is: **timmyd10**  |
 | ------------- |
-| RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C… |
+| RT @case1497: We’re gonna #Lockdown2 electric avenue |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
