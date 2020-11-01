@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Busquets"**
+&#x1F34E; **TOPIC = "Dolphins"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BarcAddicts: If Busquets is allowed near a football pitch again I won’t be responsible for my actions. |
-| Busquets and S. Roberto on that right side, this is gonna be a long game https://t.co/pInqM0UVFq |
-| @RansfordJeffery @Unclegold1 That goal is in no way pique,s fault he did the right thing. Busquets was at fault |
+| Noon Slate recap for clients Dolphins +3.5 2U💰Ravens -4 1U🚫Pats +4.5 1U💰2-1 +1.57UCurrently have Chargers U… https://t.co/i5kIIAsykh |
+| RT @BleacherReport: Dolphins 79-yard scoop and score 😳Jared Goff got rocked on this one. (via @MiamiDolphins) https://t.co/fGZKHuHBUU |
+| RT @carracecargame: NFL Live Streams On redditPatriots vs BillsSteelers vs RavensLive&lt;&gt;https://t.co/m750fyYU3sTitans vs BengalsRaid… |
 
-The most popular user is: **Elena_Busquets**
-<div class="alert alert-block alert-danger"> RT @MikeNicolella: it's happening https://t.co/szvWGv9DVW</div>
+The most popular user is: **BLACK_DOLPHINS**
+<div class="alert alert-block alert-danger"> RT @XXL: A Boogie and his fam dressed up as The Proud Family https://t.co/IQUo4sqxf4</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **barcacentre** |
-| #2 Most tweeted to  | **FCBarcelona** |
-| #3 Most tweeted to  | **BarcaUniversal** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 6.4%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **MiamiDolphins** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **AdamHBeasley** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 2.93%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Elena_Busquets**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUSQUETS**  |
-| second  | **PJANIC**  |
-| third  | **KOEMAN** |
-| fourth  | **ROBERTO**  |
-| fifth  | **FIRST**  |
+| first  | **DOLPHINS**  |
+| second  | **RAMS**  |
+| third  | **FIRST** |
+| fourth  | **TUA**  |
+| fifth  | **DEFENSE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Pcruc25 @MaestroRiqui @FCBarcelona He is better than Busquets and Pjanic Lmaooo |
+|This dolphins defence is playing absolutely lights out todayWhatever they did this morning, make it a habitIf t… https://t.co/fhjyAIQiRf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Elena_Busquets**  |
+| The most retweeted user is: **BLACK_DOLPHINS**  |
 | ------------- |
-| RT @MikeNicolella: it's happening https://t.co/szvWGv9DVW |
+| RT @XXL: A Boogie and his fam dressed up as The Proud Family https://t.co/IQUo4sqxf4 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
