@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Lockdown2"**
+&#x1F34E; **TOPIC = "Busquets"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| How I’ll be spending #Lockdown2 https://t.co/ByrU8TlzSC |
-| RT @drgandalf52: If @BorisJohnson justification for #Lockdown2 is to 'save Christmas' rather than purely for the safety &amp; health of our nat… |
-| By the way, if you think this will last a month, you are clueless. #Lockdown2 |
+| RT @BarcAddicts: If Busquets is allowed near a football pitch again I won’t be responsible for my actions. |
+| Busquets and S. Roberto on that right side, this is gonna be a long game https://t.co/pInqM0UVFq |
+| @RansfordJeffery @Unclegold1 That goal is in no way pique,s fault he did the right thing. Busquets was at fault |
 
-The most popular user is: **timmyd10**
-<div class="alert alert-block alert-danger"> RT @case1497: We’re gonna #Lockdown2 electric avenue</div>
+The most popular user is: **Elena_Busquets**
+<div class="alert alert-block alert-danger"> RT @MikeNicolella: it's happening https://t.co/szvWGv9DVW</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **paul__johnson** |
-| #2 Most tweeted to  | **Anna_Soubry** |
-| #3 Most tweeted to  | **RDHale_** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 4.09%|
+| #1 Most tweeted to  | **barcacentre** |
+| #2 Most tweeted to  | **FCBarcelona** |
+| #3 Most tweeted to  | **BarcaUniversal** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 6.4%|
 | Tweeters with > 1000000 followers  | 0.03%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **timmyd10**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LOCKDOWN2**  |
-| second  | **LOCKDOWN**  |
-| third  | **BORIS** |
-| fourth  | **LATE**  |
-| fifth  | **SAGE**  |
+| first  | **BUSQUETS**  |
+| second  | **PJANIC**  |
+| third  | **KOEMAN** |
+| fourth  | **ROBERTO**  |
+| fifth  | **FIRST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SuperSySez: 🔥 Bad Language 🔥 #FakeNewsMedia in the UK want you to be afraid about #COVID / #COVID19 and a #lockdownUK. Be aware of the… |
+|@Pcruc25 @MaestroRiqui @FCBarcelona He is better than Busquets and Pjanic Lmaooo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **timmyd10**  |
+| The most retweeted user is: **Elena_Busquets**  |
 | ------------- |
-| RT @case1497: We’re gonna #Lockdown2 electric avenue |
+| RT @MikeNicolella: it's happening https://t.co/szvWGv9DVW |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
