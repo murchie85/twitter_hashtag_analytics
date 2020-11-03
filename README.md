@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dolphins"**
+&#x1F34E; **TOPIC = "LeBron James"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Noon Slate recap for clients Dolphins +3.5 2U💰Ravens -4 1U🚫Pats +4.5 1U💰2-1 +1.57UCurrently have Chargers U… https://t.co/i5kIIAsykh |
-| RT @BleacherReport: Dolphins 79-yard scoop and score 😳Jared Goff got rocked on this one. (via @MiamiDolphins) https://t.co/fGZKHuHBUU |
-| RT @carracecargame: NFL Live Streams On redditPatriots vs BillsSteelers vs RavensLive&lt;&gt;https://t.co/m750fyYU3sTitans vs BengalsRaid… |
+| RT @KingJosiah54: “LEBRON JAMES SU—“ https://t.co/sSowJa60oT |
+| RT @LeighEllis: LeBron James opened his own school which gave struggling children access to an education. Trump university had to pay a $25… |
+| RT @johncusack: Trumps closing argument . Hate doctor faucci  Hate Lebron James  believe q non I hope this loser doesn’t have a heart att… |
 
-The most popular user is: **BLACK_DOLPHINS**
-<div class="alert alert-block alert-danger"> RT @XXL: A Boogie and his fam dressed up as The Proud Family https://t.co/IQUo4sqxf4</div>
+The most popular user is: **AbbieGo93281135**
+<div class="alert alert-block alert-danger"> RT @MagicJohnson: You can’t tell me that LeBron James is not the MVP of the league with a 38-16-10 performance tonight to lead the @Lakers…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MiamiDolphins** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **AdamHBeasley** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 2.93%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **LeighEllis** |
+| #2 Most tweeted to  | **jemelehill** |
+| #3 Most tweeted to  | **atrupar** |
+| NewProfiles (less than 10 days) | 0.19%  |
+| Tweeters with < 10 followers  | 1.22%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BLACK_DOLPHINS**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOLPHINS**  |
-| second  | **RAMS**  |
-| third  | **FIRST** |
-| fourth  | **TUA**  |
-| fifth  | **DEFENSE**  |
+| first  | **JAMES**  |
+| second  | **TRUMP**  |
+| third  | **LEBRON** |
+| fourth  | **--**  |
+| fifth  | **SCHOOL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|This dolphins defence is playing absolutely lights out todayWhatever they did this morning, make it a habitIf t… https://t.co/fhjyAIQiRf |
+|RT @jemelehill: LeBron James is not just a better person than Trump, but a true, self-made man. Trump will be remembered as a clown. LeBron… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BLACK_DOLPHINS**  |
+| The most retweeted user is: **AbbieGo93281135**  |
 | ------------- |
-| RT @XXL: A Boogie and his fam dressed up as The Proud Family https://t.co/IQUo4sqxf4 |
+| RT @MagicJohnson: You can’t tell me that LeBron James is not the MVP of the league with a 38-16-10 performance tonight to lead the @Lakers… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
