@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "LeBron James"**
+&#x1F34E; **TOPIC = "Kanye"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KingJosiah54: “LEBRON JAMES SU—“ https://t.co/sSowJa60oT |
-| RT @LeighEllis: LeBron James opened his own school which gave struggling children access to an education. Trump university had to pay a $25… |
-| RT @johncusack: Trumps closing argument . Hate doctor faucci  Hate Lebron James  believe q non I hope this loser doesn’t have a heart att… |
+| Someone please check on Kanye |
+| This dumb ass had never voted for a president and hes 43. The PRIVELEGE to have SAID this. You're a stupid cunt. Fu… https://t.co/zv7SiMxuo5 |
+| RT @kanyewest: KEEP BELIEVING KANYE 2020    Thank you Jesus Christ https://t.co/OgFDGOCAOp |
 
-The most popular user is: **AbbieGo93281135**
-<div class="alert alert-block alert-danger"> RT @MagicJohnson: You can’t tell me that LeBron James is not the MVP of the league with a 38-16-10 performance tonight to lead the @Lakers…</div>
+The most popular user is: **evnlely**
+<div class="alert alert-block alert-danger"> RT @Pink: Kanye west is the biggest piece of shit on earth. Quote me.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LeighEllis** |
-| #2 Most tweeted to  | **jemelehill** |
-| #3 Most tweeted to  | **atrupar** |
-| NewProfiles (less than 10 days) | 0.19%  |
-| Tweeters with < 10 followers  | 1.22%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **kanyewest** |
+| #2 Most tweeted to  | **TheRapAgenda** |
+| #3 Most tweeted to  | **Bencjacobs** |
+| NewProfiles (less than 10 days) | 0.65%  |
+| Tweeters with < 10 followers  | 3.66%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AbbieGo93281135**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAMES**  |
-| second  | **TRUMP**  |
-| third  | **LEBRON** |
-| fourth  | **--**  |
-| fifth  | **SCHOOL**  |
+| first  | **KANYE**  |
+| second  | **VOTE**  |
+| third  | **WEST** |
+| fourth  | **VOTING**  |
+| fifth  | **VOTED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jemelehill: LeBron James is not just a better person than Trump, but a true, self-made man. Trump will be remembered as a clown. LeBron… |
+|a vote for Kanye is a vote for Biden https://t.co/8KA61hfi2L |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AbbieGo93281135**  |
+| The most retweeted user is: **evnlely**  |
 | ------------- |
-| RT @MagicJohnson: You can’t tell me that LeBron James is not the MVP of the league with a 38-16-10 performance tonight to lead the @Lakers… |
+| RT @Pink: Kanye west is the biggest piece of shit on earth. Quote me. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
