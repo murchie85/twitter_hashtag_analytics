@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kanye"**
+&#x1F34E; **TOPIC = "#IVoted"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Someone please check on Kanye |
-| This dumb ass had never voted for a president and hes 43. The PRIVELEGE to have SAID this. You're a stupid cunt. Fu… https://t.co/zv7SiMxuo5 |
-| RT @kanyewest: KEEP BELIEVING KANYE 2020    Thank you Jesus Christ https://t.co/OgFDGOCAOp |
+| I’m ready!!! #ivoted #BidenHarris2020 #AKAsLEAD https://t.co/o2DWOb3iZR |
+| RT @kirkacevedo: ELECTION DRINKS!A TOAST TO MY RESISTANCE FAMILY!#ElectionDay  #Election2020  #IVoted  #BidenHarris2020 #Vote2020  #L… |
+| RT @jenabean75: Feeling dangerously patriotic today! 🇺🇲😏 The fight for what's right,  in this country has just begun!! BE HEARD! VOTE! #IVo… |
 
-The most popular user is: **evnlely**
-<div class="alert alert-block alert-danger"> RT @Pink: Kanye west is the biggest piece of shit on earth. Quote me.</div>
+The most popular user is: **RigelAnnika**
+<div class="alert alert-block alert-danger"> RT @OliviaTroye: I always get excited when I vote &amp; today the right to vote meant even more. As a lifelong #Republican-for the 1st time eve…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kanyewest** |
-| #2 Most tweeted to  | **TheRapAgenda** |
-| #3 Most tweeted to  | **Bencjacobs** |
-| NewProfiles (less than 10 days) | 0.65%  |
-| Tweeters with < 10 followers  | 3.66%|
+| #1 Most tweeted to  | **kirkacevedo** |
+| #2 Most tweeted to  | **JoeBiden** |
+| #3 Most tweeted to  | **KamalaHarris** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 3.29%|
 | Tweeters with > 1000000 followers  | 0.05%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **evnlely**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KANYE**  |
+| first  | **IVOTED**  |
 | second  | **VOTE**  |
-| third  | **WEST** |
-| fourth  | **VOTING**  |
-| fifth  | **VOTED**  |
+| third  | **ELECTIONDAY** |
+| fourth  | **VOTED**  |
+| fifth  | **VOTE2020**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|a vote for Kanye is a vote for Biden https://t.co/8KA61hfi2L |
+|#IVoted for #JoeBiden bc I believe in the progress that can be made. Even if you dont think these as perfect candid… https://t.co/B8D4oggZsz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **evnlely**  |
+| The most retweeted user is: **RigelAnnika**  |
 | ------------- |
-| RT @Pink: Kanye west is the biggest piece of shit on earth. Quote me. |
+| RT @OliviaTroye: I always get excited when I vote &amp; today the right to vote meant even more. As a lifelong #Republican-for the 1st time eve… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
