@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#IVoted"**
+&#x1F34E; **TOPIC = "#CountEveryVote"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I’m ready!!! #ivoted #BidenHarris2020 #AKAsLEAD https://t.co/o2DWOb3iZR |
-| RT @kirkacevedo: ELECTION DRINKS!A TOAST TO MY RESISTANCE FAMILY!#ElectionDay  #Election2020  #IVoted  #BidenHarris2020 #Vote2020  #L… |
-| RT @jenabean75: Feeling dangerously patriotic today! 🇺🇲😏 The fight for what's right,  in this country has just begun!! BE HEARD! VOTE! #IVo… |
+| RT @OfficialJLD: Step 1: Everybody votes.Step 2: We count every single one. Step 3: Peaceful transition of power. In a democracy, these… |
+| Let's make sure impeached president @realDonaldTrump gets his eviction notice! Bring it home, #Arizona and #Nevada!… https://t.co/17jla0ezCl |
+| RT @RepValDemings: A mob is trying to use threats and intimidation to stop lawful votes from being counted.This is dangerous and a threat… |
 
-The most popular user is: **RigelAnnika**
-<div class="alert alert-block alert-danger"> RT @OliviaTroye: I always get excited when I vote &amp; today the right to vote meant even more. As a lifelong #Republican-for the 1st time eve…</div>
+The most popular user is: **savvy_trvlr**
+<div class="alert alert-block alert-danger"> RT @ewarren: Remember: A record number of Americans are voting by mail this year, and counting those votes will take time. 
+
+We need to be…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kirkacevedo** |
+| #1 Most tweeted to  | **gillyworks** |
 | #2 Most tweeted to  | **JoeBiden** |
-| #3 Most tweeted to  | **KamalaHarris** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 3.29%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #3 Most tweeted to  | **KristenClarkeJD** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 3.04%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **RigelAnnika**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **IVOTED**  |
-| second  | **VOTE**  |
-| third  | **ELECTIONDAY** |
-| fourth  | **VOTED**  |
-| fifth  | **VOTE2020**  |
+| first  | **COUNTEVERYVOTE**  |
+| second  | **COUNTED**  |
+| third  | **VOTES** |
+| fourth  | **VOTE**  |
+| fifth  | **WAITING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#IVoted for #JoeBiden bc I believe in the progress that can be made. Even if you dont think these as perfect candid… https://t.co/B8D4oggZsz |
+|RT @MariettaDoran: It be like that #USElection #CountEveryVote #USElections https://t.co/6xvgqt2x41 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RigelAnnika**  |
+| The most retweeted user is: **savvy_trvlr**  |
 | ------------- |
-| RT @OliviaTroye: I always get excited when I vote &amp; today the right to vote meant even more. As a lifelong #Republican-for the 1st time eve… |
+| RT @ewarren: Remember: A record number of Americans are voting by mail this year, and counting those votes will take time. We need to be… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
