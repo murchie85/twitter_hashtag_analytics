@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Trump - 214"**
+&#x1F34E; **TOPIC = "Durk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ItsJohnny05: Biden - 264Trump - 214🔵🙏🔵🙏🔵🙏🔵🙏🔵🙏Nevada will turn blue🔵🔵Nevada will turn blue🙏🙏Nevada will turn blue🔵🔵Nevada will tu… |
-| Biden - 264Trump - 214my dad left me in- 2007 |
-| RT @Corral_33: Biden - 264Trump - 214Blink - 182 |
+| RT @geaux_o: rip von. Prayers to durk https://t.co/k23ffbUBPj |
+| RT @XXL: Lil Durk apparently found out about the King Von shooting on live https://t.co/JYkLfJTtUU |
+| RT @lilcokeeee: I feel so sad for Asian doll and Durk 🥺 |
 
-The most popular user is: **obs_kodie**
-<div class="alert alert-block alert-danger"> RT @Corral_33: Biden - 264
-Trump - 214
-Blink - 182</div>
+The most popular user is: **urca_durk**
+<div class="alert alert-block alert-danger"> RT @Al_Sanchino: It’s wild Trump supporters believe there’s voter fraud with 0 evidence but couldn’t believe he sexually assaulted any wome…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_lonesomeghosts** |
-| #2 Most tweeted to  | **Corral_33** |
-| #3 Most tweeted to  | **notviking** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.33%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **DeeRxse__** |
+| #2 Most tweeted to  | **geaux_o** |
+| #3 Most tweeted to  | **XXL** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.04%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ Blink - 182</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **214**  |
-| second  | **264**  |
-| third  | **TRUMP** |
-| fourth  | **BIDEN**  |
-| fifth  | **BLINK**  |
+| first  | **DURK**  |
+| second  | **LIL**  |
+| third  | **VON** |
+| fourth  | **GONNA**  |
+| fifth  | **SONG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Biden - 264 Trump - 214 Threat Level - Midnight #Elections2020 |
+|RT @DeeRxse__: Being a Lil Durk fan you know when he address this in a song it’s gonna touch your soul |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **obs_kodie**  |
+| The most retweeted user is: **urca_durk**  |
 | ------------- |
-| RT @Corral_33: Biden - 264Trump - 214Blink - 182 |
+| RT @Al_Sanchino: It’s wild Trump supporters believe there’s voter fraud with 0 evidence but couldn’t believe he sexually assaulted any wome… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
