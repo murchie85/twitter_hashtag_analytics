@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Durk"**
+&#x1F34E; **TOPIC = "Stephen Miller"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @geaux_o: rip von. Prayers to durk https://t.co/k23ffbUBPj |
-| RT @XXL: Lil Durk apparently found out about the King Von shooting on live https://t.co/JYkLfJTtUU |
-| RT @lilcokeeee: I feel so sad for Asian doll and Durk 🥺 |
+| RT @Jhenya_Belitsky: We didn't just come together to get rid of Trump.We got rid of:Stephen MillerSeb GorkaLouis DeJoyMike PenceMike… |
+| RT @kayleighmcenany: Stephen Miller is one of the most talented, intelligent &amp; kindest people to work in President @realDonaldTrump’s admin… |
+| RT @Pappiness: Fun Fact: When Biden beats Trump, he'll also beat Betsy Devos, Bill Barr, Andrew Wheeler, Mark Meadows, Mike Pompeo, Ben Car… |
 
-The most popular user is: **urca_durk**
-<div class="alert alert-block alert-danger"> RT @Al_Sanchino: It’s wild Trump supporters believe there’s voter fraud with 0 evidence but couldn’t believe he sexually assaulted any wome…</div>
+The most popular user is: **EllieEsteban**
+<div class="alert alert-block alert-danger"> RT @JohnBrennan: And let’s not forget that a Biden presidency means that AG Bill Barr, DNI Ratcliffe, Sec State Mike Pompeo, WH xenophobe S…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DeeRxse__** |
-| #2 Most tweeted to  | **geaux_o** |
-| #3 Most tweeted to  | **XXL** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.04%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **kayleighmcenany** |
+| #3 Most tweeted to  | **WhiteHouse** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 4.24%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **urca_durk**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DURK**  |
-| second  | **LIL**  |
-| third  | **VON** |
-| fourth  | **GONNA**  |
-| fifth  | **SONG**  |
+| first  | **STEPHEN**  |
+| second  | **MILLER**  |
+| third  | **FIRED** |
+| fourth  | **BARR**  |
+| fifth  | **MOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (75.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (25.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DeeRxse__: Being a Lil Durk fan you know when he address this in a song it’s gonna touch your soul |
+|RT @TheUSASingers: Donald Trump, Mike Pence, Bill Barr, Stephen Miller, Steve Mnuchin &amp; Louis DeJoy need long hard prison sentences.https… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **urca_durk**  |
+| The most retweeted user is: **EllieEsteban**  |
 | ------------- |
-| RT @Al_Sanchino: It’s wild Trump supporters believe there’s voter fraud with 0 evidence but couldn’t believe he sexually assaulted any wome… |
+| RT @JohnBrennan: And let’s not forget that a Biden presidency means that AG Bill Barr, DNI Ratcliffe, Sec State Mike Pompeo, WH xenophobe S… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
