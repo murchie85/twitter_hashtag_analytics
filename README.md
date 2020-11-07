@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Stephen Miller"**
+&#x1F34E; **TOPIC = "Melania"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Jhenya_Belitsky: We didn't just come together to get rid of Trump.We got rid of:Stephen MillerSeb GorkaLouis DeJoyMike PenceMike… |
-| RT @kayleighmcenany: Stephen Miller is one of the most talented, intelligent &amp; kindest people to work in President @realDonaldTrump’s admin… |
-| RT @Pappiness: Fun Fact: When Biden beats Trump, he'll also beat Betsy Devos, Bill Barr, Andrew Wheeler, Mark Meadows, Mike Pompeo, Ben Car… |
+| RT @donwinslow: NO MORE TRUMP.NO MORE MELANIA.NO MORE IVANKA.NO MORE JARED.NO MORE STEPHEN MILLERNO MORE KAYLEIGH McENANY!NO MO… |
+| @marklevinshow I haven't seen this many red snowflakes since Melania decorated the White House for Christmas. https://t.co/EhKX3T6s6W |
+| RT @mmpadellan: I just realized that, in addition to trump, we ALSO get to evict:Bill BarrIvanka trumpJared KushnerStephen MillerRudy… |
 
-The most popular user is: **EllieEsteban**
-<div class="alert alert-block alert-danger"> RT @JohnBrennan: And let’s not forget that a Biden presidency means that AG Bill Barr, DNI Ratcliffe, Sec State Mike Pompeo, WH xenophobe S…</div>
+The most popular user is: **hahalol4life**
+<div class="alert alert-block alert-danger"> RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised 
+
+Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **kayleighmcenany** |
-| #3 Most tweeted to  | **WhiteHouse** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 4.24%|
+| #1 Most tweeted to  | **mmpadellan** |
+| #2 Most tweeted to  | **dreamhampton** |
+| #3 Most tweeted to  | **EugeneLeeYang** |
+| NewProfiles (less than 10 days) | 0.75%  |
+| Tweeters with < 10 followers  | 4.68%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **EllieEsteban**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STEPHEN**  |
-| second  | **MILLER**  |
-| third  | **FIRED** |
-| fourth  | **BARR**  |
-| fifth  | **MOST**  |
+| first  | **MELANIA**  |
+| second  | **TRUMP**  |
+| third  | **JARED** |
+| fourth  | **MILLER**  |
+| fifth  | **IVANKA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (75.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (25.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheUSASingers: Donald Trump, Mike Pence, Bill Barr, Stephen Miller, Steve Mnuchin &amp; Louis DeJoy need long hard prison sentences.https… |
+|RT @mmpadellan: I just realized that, in addition to trump, we ALSO get to evict:Bill BarrIvanka trumpJared KushnerStephen MillerRudy… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **EllieEsteban**  |
+| The most retweeted user is: **hahalol4life**  |
 | ------------- |
-| RT @JohnBrennan: And let’s not forget that a Biden presidency means that AG Bill Barr, DNI Ratcliffe, Sec State Mike Pompeo, WH xenophobe S… |
+| RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
