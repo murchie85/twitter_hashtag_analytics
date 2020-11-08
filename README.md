@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Melania"**
+&#x1F34E; **TOPIC = "#BidenHarris2020"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @donwinslow: NO MORE TRUMP.NO MORE MELANIA.NO MORE IVANKA.NO MORE JARED.NO MORE STEPHEN MILLERNO MORE KAYLEIGH McENANY!NO MO… |
-| @marklevinshow I haven't seen this many red snowflakes since Melania decorated the White House for Christmas. https://t.co/EhKX3T6s6W |
-| RT @mmpadellan: I just realized that, in addition to trump, we ALSO get to evict:Bill BarrIvanka trumpJared KushnerStephen MillerRudy… |
+| RT @lindyli: Never forget that it was Pennsylvania, especially Philly, that put #PresidentElectJoe over the top!WE TURNED PA BLUE AND VAN… |
+| GEE All this world wide love that now #PresidentElectJoeBiden is getting SEPT from 3 countries Russia ,China &amp; Nort… https://t.co/gCRQoURIdS |
+| RT @VibeSoHigh: Kinda like the first time we declared our independence from a mad tyrant king... 😏  Democracy wins! 🎆#BidenHarris2020… |
 
-The most popular user is: **hahalol4life**
-<div class="alert alert-block alert-danger"> RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised 
-
-Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C…</div>
+The most popular user is: **Gillymg**
+<div class="alert alert-block alert-danger"> RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mmpadellan** |
-| #2 Most tweeted to  | **dreamhampton** |
-| #3 Most tweeted to  | **EugeneLeeYang** |
-| NewProfiles (less than 10 days) | 0.75%  |
-| Tweeters with < 10 followers  | 4.68%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **HamiltonMusical** |
+| #2 Most tweeted to  | **chrissyteigen** |
+| #3 Most tweeted to  | **johnlegend** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 4.89%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -41,28 +39,28 @@ Audio evidence of Hunter Biden admitting to being in a partnership with the “S
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MELANIA**  |
-| second  | **TRUMP**  |
-| third  | **JARED** |
-| fourth  | **MILLER**  |
-| fifth  | **IVANKA**  |
+| first  | **BIDENHARRIS2020**  |
+| second  | **NEVER**  |
+| third  | **CELEBRATING** |
+| fourth  | **SOMETHING**  |
+| fifth  | **GLASS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mmpadellan: I just realized that, in addition to trump, we ALSO get to evict:Bill BarrIvanka trumpJared KushnerStephen MillerRudy… |
+|RT @JaimieP20: Never forgetting today 💙💙💙💙 London is in lockdown, but the fireworks have been nonstop #bidenharris2020 https://t.co/kOmDx4A… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hahalol4life**  |
+| The most retweeted user is: **Gillymg**  |
 | ------------- |
-| RT @DonaldJTrumpJr: 🚨🚨🚨Holy Shit! Biden is compromised Audio evidence of Hunter Biden admitting to being in a partnership with the “Spy C… |
+| RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
