@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BidenHarris2020"**
+&#x1F34E; **TOPIC = "Big Ben"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lindyli: Never forget that it was Pennsylvania, especially Philly, that put #PresidentElectJoe over the top!WE TURNED PA BLUE AND VAN… |
-| GEE All this world wide love that now #PresidentElectJoeBiden is getting SEPT from 3 countries Russia ,China &amp; Nort… https://t.co/gCRQoURIdS |
-| RT @VibeSoHigh: Kinda like the first time we declared our independence from a mad tyrant king... 😏  Democracy wins! 🎆#BidenHarris2020… |
+| big ben plays better when he’s hurt |
+| WHAT A HIT! BIG BEN IS A BEAST 😳 |
+| RT @footballdaily: Graeme 🗣 "You were saying to us off-air you taught him that to be making that run all the time"Cole 🗣 "I would love to… |
 
-The most popular user is: **Gillymg**
-<div class="alert alert-block alert-danger"> RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto…</div>
+The most popular user is: **Big_BEN_Geo**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: 71,000,000 Legal Votes. The most EVER for a sitting President!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HamiltonMusical** |
-| #2 Most tweeted to  | **chrissyteigen** |
-| #3 Most tweeted to  | **johnlegend** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 4.89%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **barstoolsports** |
+| #2 Most tweeted to  | **nowthisnews** |
+| #3 Most tweeted to  | **steelers** |
+| NewProfiles (less than 10 days) | 0.81%  |
+| Tweeters with < 10 followers  | 4.5%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Gillymg**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIDENHARRIS2020**  |
-| second  | **NEVER**  |
-| third  | **CELEBRATING** |
-| fourth  | **SOMETHING**  |
-| fifth  | **GLASS**  |
+| first  | **BIG**  |
+| second  | **BEN**  |
+| third  | **BEN’S** |
+| fourth  | **THAT’S**  |
+| fifth  | **MUSIC**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JaimieP20: Never forgetting today 💙💙💙💙 London is in lockdown, but the fireworks have been nonstop #bidenharris2020 https://t.co/kOmDx4A… |
+|RT @FantasySupreme_: 🚨#Contest ⏰🚨🏈 #NFL ￼  is on sale. Message for details! 🇺🇸 Take a break from the #ElectionResults2020 &amp; enter this… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gillymg**  |
+| The most retweeted user is: **Big_BEN_Geo**  |
 | ------------- |
-| RT @mayaharris_: You can’t know who @KamalaHarris is without knowing who our mother was. Missing her terribly, but know she and the ancesto… |
+| RT @realDonaldTrump: 71,000,000 Legal Votes. The most EVER for a sitting President! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
