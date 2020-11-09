@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Big Ben"**
+&#x1F34E; **TOPIC = "Loeffler"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| big ben plays better when he’s hurt |
-| WHAT A HIT! BIG BEN IS A BEAST 😳 |
-| RT @footballdaily: Graeme 🗣 "You were saying to us off-air you taught him that to be making that run all the time"Cole 🗣 "I would love to… |
+| RT @CullyHamner: So, he accepts the results of the downticket races, but not the results of the Presidential election. They're the same bal… |
+| RT @NBCNews: Control of the US Senate is likely to come down to the Jan. 5 Georgia runoff, when voters could be asked to decide whether bot… |
+| RT @SaraCarterDC: Loeffler, Perdue call for GA's head of elections to resignhttps://t.co/uwkJkZ8o9I |
 
-The most popular user is: **Big_BEN_Geo**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: 71,000,000 Legal Votes. The most EVER for a sitting President!</div>
+The most popular user is: **PHEPHIPHOPHUM**
+<div class="alert alert-block alert-danger"> RT @ReverendWarnock: We're officially headed to a January runoff election against Kelly Loeffler and we need your help to win. Chip in righ…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **barstoolsports** |
-| #2 Most tweeted to  | **nowthisnews** |
-| #3 Most tweeted to  | **steelers** |
-| NewProfiles (less than 10 days) | 0.81%  |
-| Tweeters with < 10 followers  | 4.5%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **mkraju** |
+| #2 Most tweeted to  | **StevenTDennis** |
+| #3 Most tweeted to  | **HKrassenstein** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 2.29%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,11 +39,11 @@ The most popular user is: **Big_BEN_Geo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIG**  |
-| second  | **BEN**  |
-| third  | **BEN’S** |
-| fourth  | **THAT’S**  |
-| fifth  | **MUSIC**  |
+| first  | **LOEFFLER**  |
+| second  | **PERDUE**  |
+| third  | **GEORGIA** |
+| fourth  | **SECRETARY**  |
+| fifth  | **STATE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
@@ -54,13 +54,13 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJE
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FantasySupreme_: 🚨#Contest ⏰🚨🏈 #NFL ￼  is on sale. Message for details! 🇺🇸 Take a break from the #ElectionResults2020 &amp; enter this… |
+|RT @AmerIndependent: Georgia senators demand top election official resign because Trump lost by @CahnEmily https://t.co/7617FbAQqR |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Big_BEN_Geo**  |
+| The most retweeted user is: **PHEPHIPHOPHUM**  |
 | ------------- |
-| RT @realDonaldTrump: 71,000,000 Legal Votes. The most EVER for a sitting President! |
+| RT @ReverendWarnock: We're officially headed to a January runoff election against Kelly Loeffler and we need your help to win. Chip in righ… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
