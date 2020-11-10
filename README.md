@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#larriesarehot"**
+&#x1F34E; **TOPIC = "#AskFoos"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| late but #larriesarehot :) https://t.co/1ZDW8K7U0y |
-| Larry shippers still exist in 2020… i thought we were joking 😟 #larriesarehot https://t.co/ie4waW3Xq7 |
-| #larriesarehot I can't be both?? https://t.co/shJs5Sm0qr |
+| With you guys and the chilis hopefully coming out with a new album soon, would you be open to touring with them again? #AskFoos |
+| RT @foofighters: @foofighters Q: @foofighters #askfoos does Chris have any rippin leads on the record?- @dabozo15A: https://t.co/ipawmMl… |
+| RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.New song… |
 
-The most popular user is: **lthstears**
-<div class="alert alert-block alert-danger"> RT @lxrryxstylin: proof that #larriesarehot https://t.co/LI66AXVIfe</div>
+The most popular user is: **joemamartins**
+<div class="alert alert-block alert-danger"> RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.
+
+New song…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lxrryxstylin** |
-| #2 Most tweeted to  | **wallowsfalling** |
-| #3 Most tweeted to  | **louwrotewalls** |
-| NewProfiles (less than 10 days) | 1.97%  |
-| Tweeters with < 10 followers  | 3.25%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **foofighters** |
+| #2 Most tweeted to  | **TuqueDrummer** |
+| #3 Most tweeted to  | **Amour_casanova** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 6.82%|
+| Tweeters with > 1000000 followers  | 0.86%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **lthstears**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LARRIESAREHOT**  |
-| second  | **LARRIES**  |
-| third  | **HOT** |
-| fourth  | **ANTIS**  |
-| fifth  | **I’M**  |
+| first  | **ASKFOOS**  |
+| second  | **@FOOFIGHTERS**  |
+| third  | **NEW** |
+| fourth  | **@FOOFIGHTERS:**  |
+| fifth  | **Q:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|all my tl is #larriesarehot and #antisarehotter PLS WHAT HAS THIS FANDOM COME TO |
+|#AskFoos Do you guys have more surprises coming up with this album? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lthstears**  |
+| The most retweeted user is: **joemamartins**  |
 | ------------- |
-| RT @lxrryxstylin: proof that #larriesarehot https://t.co/LI66AXVIfe |
+| RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.New song… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
