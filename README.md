@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Loeffler"**
+&#x1F34E; **TOPIC = "#larriesarehot"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CullyHamner: So, he accepts the results of the downticket races, but not the results of the Presidential election. They're the same bal… |
-| RT @NBCNews: Control of the US Senate is likely to come down to the Jan. 5 Georgia runoff, when voters could be asked to decide whether bot… |
-| RT @SaraCarterDC: Loeffler, Perdue call for GA's head of elections to resignhttps://t.co/uwkJkZ8o9I |
+| late but #larriesarehot :) https://t.co/1ZDW8K7U0y |
+| Larry shippers still exist in 2020… i thought we were joking 😟 #larriesarehot https://t.co/ie4waW3Xq7 |
+| #larriesarehot I can't be both?? https://t.co/shJs5Sm0qr |
 
-The most popular user is: **PHEPHIPHOPHUM**
-<div class="alert alert-block alert-danger"> RT @ReverendWarnock: We're officially headed to a January runoff election against Kelly Loeffler and we need your help to win. Chip in righ…</div>
+The most popular user is: **lthstears**
+<div class="alert alert-block alert-danger"> RT @lxrryxstylin: proof that #larriesarehot https://t.co/LI66AXVIfe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mkraju** |
-| #2 Most tweeted to  | **StevenTDennis** |
-| #3 Most tweeted to  | **HKrassenstein** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.29%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **lxrryxstylin** |
+| #2 Most tweeted to  | **wallowsfalling** |
+| #3 Most tweeted to  | **louwrotewalls** |
+| NewProfiles (less than 10 days) | 1.97%  |
+| Tweeters with < 10 followers  | 3.25%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **PHEPHIPHOPHUM**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LOEFFLER**  |
-| second  | **PERDUE**  |
-| third  | **GEORGIA** |
-| fourth  | **SECRETARY**  |
-| fifth  | **STATE**  |
+| first  | **LARRIESAREHOT**  |
+| second  | **LARRIES**  |
+| third  | **HOT** |
+| fourth  | **ANTIS**  |
+| fifth  | **I’M**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AmerIndependent: Georgia senators demand top election official resign because Trump lost by @CahnEmily https://t.co/7617FbAQqR |
+|all my tl is #larriesarehot and #antisarehotter PLS WHAT HAS THIS FANDOM COME TO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PHEPHIPHOPHUM**  |
+| The most retweeted user is: **lthstears**  |
 | ------------- |
-| RT @ReverendWarnock: We're officially headed to a January runoff election against Kelly Loeffler and we need your help to win. Chip in righ… |
+| RT @lxrryxstylin: proof that #larriesarehot https://t.co/LI66AXVIfe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
