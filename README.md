@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#AskFoos"**
+&#x1F34E; **TOPIC = "Rats"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| With you guys and the chilis hopefully coming out with a new album soon, would you be open to touring with them again? #AskFoos |
-| RT @foofighters: @foofighters Q: @foofighters #askfoos does Chris have any rippin leads on the record?- @dabozo15A: https://t.co/ipawmMl… |
-| RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.New song… |
+| RT @lewis_goodall: Labour spokesperson on the Lee Cain resignation story: “On the day the UK became the first country in Europe to report 5… |
+| @MacBraves1 Sorry it was me, I put the rats in the soup 😔 |
+| RT @RatsEveryHour: WAKE UP RATS 🌞 https://t.co/9gR2WtkXRU |
 
-The most popular user is: **joemamartins**
-<div class="alert alert-block alert-danger"> RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.
-
-New song…</div>
+The most popular user is: **zoes_rats**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: #BTS 2021 SEASON'S GREETINGS Preview Cuts #2 (@ https://t.co/X7s4RRKWt5) https://t.co/dHR2HxDd9G</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **foofighters** |
-| #2 Most tweeted to  | **TuqueDrummer** |
-| #3 Most tweeted to  | **Amour_casanova** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 6.82%|
-| Tweeters with > 1000000 followers  | 0.86%  |
+| #1 Most tweeted to  | **RatsEveryHour** |
+| #2 Most tweeted to  | **lewis_goodall** |
+| #3 Most tweeted to  | **JonAshworth** |
+| NewProfiles (less than 10 days) | 1.68%  |
+| Tweeters with < 10 followers  | 6.16%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +39,28 @@ New song…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ASKFOOS**  |
-| second  | **@FOOFIGHTERS**  |
-| third  | **NEW** |
-| fourth  | **@FOOFIGHTERS:**  |
-| fifth  | **Q:**  |
+| first  | **RATS**  |
+| second  | **RAT**  |
+| third  | **FIRST** |
+| fourth  | **@RATSEVERYHOUR:**  |
+| fifth  | **FACT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (23.08%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (53.85%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#AskFoos Do you guys have more surprises coming up with this album? |
+|RT @RatsEveryHour: Rat Fact #003 - A group of rats is called a “Mischief” https://t.co/giTxFUgejI |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joemamartins**  |
+| The most retweeted user is: **zoes_rats**  |
 | ------------- |
-| RT @foofighters: We have shared a lot of news w/ you this week. How about we do a Q&amp;A @ 1pm PT today? Use #AskFoos for questions.New song… |
+| RT @bts_bighit: #BTS 2021 SEASON'S GREETINGS Preview Cuts #2 (@ https://t.co/X7s4RRKWt5) https://t.co/dHR2HxDd9G |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
