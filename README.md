@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dearra"**
+&#x1F34E; **TOPIC = "Puerto Ricans"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @chasingsakss 😂😂 ken must’ve cheated on dearra or sum now everybody acting like they innocent |
-| RT @khilanii: me when I saw that picture of ken cheating on dearra https://t.co/CvcciWDdlY |
-| RT @Onikacum_: Me trying to convince myself that Ken didn’t really cheat on Dearra and that it’s just a prank for clout. https://t.co/ObA61… |
+| RT @BitchuationPod: “Puerto Ricans in Orlando voted for Biden cause they remember how Trump threw Bounty at them.” @FunnyAida on how we nee… |
+| @midnucas @NawalJAhmed @schmidtsam7 Um, didn't Puerto Ricans just vote on that? |
+| RT @kirkacevedo: DEMS NEED TO REACH OUT TO LATINOS BETTER OR WE’LL LOSE FUTURE ELECTIONS!Florida Latinos-Trump got 44% in 202033-35% in… |
 
-The most popular user is: **dtrval5**
-<div class="alert alert-block alert-danger"> RT @dearra: together is a beautiful place to be 🔐🌴 https://t.co/bOmD9WInt3</div>
+The most popular user is: **commiefromtx**
+<div class="alert alert-block alert-danger"> RT @liztheecomrade: why puerto ricans don’t claim lin-manuel miranda and why you shouldn’t support him [thread🧵]:</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Swayl0** |
-| #2 Most tweeted to  | **freepyg** |
-| #3 Most tweeted to  | **NubineQueen** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 5.19%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **DavidBegnaud** |
+| #2 Most tweeted to  | **JohnCornyn** |
+| #3 Most tweeted to  | **briantylercohen** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.58%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **dtrval5**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEARRA**  |
-| second  | **KEN**  |
-| third  | **CHEATED** |
-| fourth  | **Y’ALL**  |
-| fifth  | **CHEATING**  |
+| first  | **PUERTO**  |
+| second  | **RICANS**  |
+| third  | **RICO** |
+| fourth  | **TRUMP**  |
+| fifth  | **PAPER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FRONTPAIGED: Y’all niggas cheating on y’all too😂😂😂 get out dearra business |
+|RT @DavidBegnaud: In 2017, President Trump went to Puerto Rico &amp; tossed paper towels at hurricane survivors. Puerto Ricans never forgot the… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dtrval5**  |
+| The most retweeted user is: **commiefromtx**  |
 | ------------- |
-| RT @dearra: together is a beautiful place to be 🔐🌴 https://t.co/bOmD9WInt3 |
+| RT @liztheecomrade: why puerto ricans don’t claim lin-manuel miranda and why you shouldn’t support him [thread🧵]: |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
