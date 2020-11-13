@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Puerto Ricans"**
+&#x1F34E; **TOPIC = "#ChildrenInNeed"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BitchuationPod: “Puerto Ricans in Orlando voted for Biden cause they remember how Trump threw Bounty at them.” @FunnyAida on how we nee… |
-| @midnucas @NawalJAhmed @schmidtsam7 Um, didn't Puerto Ricans just vote on that? |
-| RT @kirkacevedo: DEMS NEED TO REACH OUT TO LATINOS BETTER OR WE’LL LOSE FUTURE ELECTIONS!Florida Latinos-Trump got 44% in 202033-35% in… |
+| Class 3 are looking superb for #ChildrenInNeed #whitegate @MissRooneyWG https://t.co/adeUvxo562 |
+| RT @RabScott2: Tomorrow's #funfriday is the UK's #ChildrenInNeed day.All of us that have been using @zoom_us @Webex @MicrosoftTeams @Googl… |
+| RT @judehaste_write: #ChildrenInNeed #support #charity #InItTogether #ChildreninRead receive a signed copy from an #author #Lockdown2 #Stay… |
 
-The most popular user is: **commiefromtx**
-<div class="alert alert-block alert-danger"> RT @liztheecomrade: why puerto ricans don’t claim lin-manuel miranda and why you shouldn’t support him [thread🧵]:</div>
+The most popular user is: **silvergrau09**
+<div class="alert alert-block alert-danger"> RT @Louis_Tomlinson: Performing #WeMadeIt on @BBCCiN tonight. 7:30pm on @BBCOne. Can’t wait! #ChildrenInNeed https://t.co/tnprdksEXu</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DavidBegnaud** |
-| #2 Most tweeted to  | **JohnCornyn** |
-| #3 Most tweeted to  | **briantylercohen** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 3.58%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **BBCCiN** |
+| #2 Most tweeted to  | **thebodycoach** |
+| #3 Most tweeted to  | **LandoNorris** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 3.3%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **commiefromtx**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PUERTO**  |
-| second  | **RICANS**  |
-| third  | **RICO** |
-| fourth  | **TRUMP**  |
-| fifth  | **PAPER**  |
+| first  | **CHILDRENINNEED**  |
+| second  | **@BBCCIN**  |
+| third  | **CHILDREN** |
+| fourth  | **NEED**  |
+| fifth  | **DAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DavidBegnaud: In 2017, President Trump went to Puerto Rico &amp; tossed paper towels at hurricane survivors. Puerto Ricans never forgot the… |
+|Treated my 4yo to CBeebies mag today. From his fave @ben_cajee on diwali to @DrRanj on germs, it's a brilliantly wi… https://t.co/5pgmhhZJpK |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **commiefromtx**  |
+| The most retweeted user is: **silvergrau09**  |
 | ------------- |
-| RT @liztheecomrade: why puerto ricans don’t claim lin-manuel miranda and why you shouldn’t support him [thread🧵]: |
+| RT @Louis_Tomlinson: Performing #WeMadeIt on @BBCCiN tonight. 7:30pm on @BBCOne. Can’t wait! #ChildrenInNeed https://t.co/tnprdksEXu |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
