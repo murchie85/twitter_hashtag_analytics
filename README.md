@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ChildrenInNeed"**
+&#x1F34E; **TOPIC = "Ubisoft Montreal"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Class 3 are looking superb for #ChildrenInNeed #whitegate @MissRooneyWG https://t.co/adeUvxo562 |
-| RT @RabScott2: Tomorrow's #funfriday is the UK's #ChildrenInNeed day.All of us that have been using @zoom_us @Webex @MicrosoftTeams @Googl… |
-| RT @judehaste_write: #ChildrenInNeed #support #charity #InItTogether #ChildreninRead receive a signed copy from an #author #Lockdown2 #Stay… |
+| RT @drjclau: Re: the situation at Ubisoft Montreal, this is not the time for your shitty game jokes or hot takes about games. I can't belie… |
+| RT @GameSpot: A hostage situation is underway at the Ubisoft Montreal headquarters, according to early reports from the French-Canadian new… |
+| Hostage situation Ubisoft Gaming company Montreal Canada |
 
-The most popular user is: **silvergrau09**
-<div class="alert alert-block alert-danger"> RT @Louis_Tomlinson: Performing #WeMadeIt on @BBCCiN tonight. 7:30pm on @BBCOne. Can’t wait! #ChildrenInNeed https://t.co/tnprdksEXu</div>
+The most popular user is: **ComradeFer**
+<div class="alert alert-block alert-danger"> RT @WeAreCanProud: BREAKING NEWS: There is a possible hostage situation at Ubisoft Montreal.
+
+https://t.co/1H4Hz9aomx</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BBCCiN** |
-| #2 Most tweeted to  | **thebodycoach** |
-| #3 Most tweeted to  | **LandoNorris** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 3.3%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **EmperorPatch** |
+| #2 Most tweeted to  | **jasonschreier** |
+| #3 Most tweeted to  | **drjclau** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 4.02%|
+| Tweeters with > 1000000 followers  | 0.19%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **silvergrau09**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHILDRENINNEED**  |
-| second  | **@BBCCIN**  |
-| third  | **CHILDREN** |
-| fourth  | **NEED**  |
-| fifth  | **DAY**  |
+| first  | **MONTREAL**  |
+| second  | **UBISOFT**  |
+| third  | **SITUATION** |
+| fourth  | **HOSTAGE**  |
+| fifth  | **POLICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Treated my 4yo to CBeebies mag today. From his fave @ben_cajee on diwali to @DrRanj on germs, it's a brilliantly wi… https://t.co/5pgmhhZJpK |
+|RT @thecoreross: Totally mental, Ubisoft staff in Montreal sealing themselves on the roof while a hostage situation potentially unfolds ins… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **silvergrau09**  |
+| The most retweeted user is: **ComradeFer**  |
 | ------------- |
-| RT @Louis_Tomlinson: Performing #WeMadeIt on @BBCCiN tonight. 7:30pm on @BBCOne. Can’t wait! #ChildrenInNeed https://t.co/tnprdksEXu |
+| RT @WeAreCanProud: BREAKING NEWS: There is a possible hostage situation at Ubisoft Montreal.https://t.co/1H4Hz9aomx |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
