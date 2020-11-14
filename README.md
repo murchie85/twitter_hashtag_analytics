@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ubisoft Montreal"**
+&#x1F34E; **TOPIC = "Zelina Vega"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @drjclau: Re: the situation at Ubisoft Montreal, this is not the time for your shitty game jokes or hot takes about games. I can't belie… |
-| RT @GameSpot: A hostage situation is underway at the Ubisoft Montreal headquarters, according to early reports from the French-Canadian new… |
-| Hostage situation Ubisoft Gaming company Montreal Canada |
+| @paul_mckie @WWE AEW= Rent free in your head. This post has nothing to do with Zelina Vega |
+| RT @WrestlingGuy435: -30 employees fired-Stripped 3rd Party Social Media-Numerous Of COVID Outbreaks-Wasting on Bullshit-Still Having P… |
+| RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.https://t.co/RUebMGwBTA |
 
-The most popular user is: **ComradeFer**
-<div class="alert alert-block alert-danger"> RT @WeAreCanProud: BREAKING NEWS: There is a possible hostage situation at Ubisoft Montreal.
+The most popular user is: **Skulleeroz3334**
+<div class="alert alert-block alert-danger"> RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.
 
-https://t.co/1H4Hz9aomx</div>
+https://t.co/RUebMGwBTA</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **EmperorPatch** |
-| #2 Most tweeted to  | **jasonschreier** |
-| #3 Most tweeted to  | **drjclau** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 4.02%|
-| Tweeters with > 1000000 followers  | 0.19%  |
+| #1 Most tweeted to  | **WWE** |
+| #2 Most tweeted to  | **WrestleFeatures** |
+| #3 Most tweeted to  | **FanSidedDDT** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 2.09%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +41,28 @@ https://t.co/1H4Hz9aomx</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MONTREAL**  |
-| second  | **UBISOFT**  |
-| third  | **SITUATION** |
-| fourth  | **HOSTAGE**  |
-| fifth  | **POLICE**  |
+| first  | **VEGA**  |
+| second  | **ZELINA**  |
+| third  | **WWE** |
+| fourth  | **RELEASE**  |
+| fifth  | **BEST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @thecoreross: Totally mental, Ubisoft staff in Montreal sealing themselves on the roof while a hostage situation potentially unfolds ins… |
+|RT @WrestleFeatures: They will release Zelina Vega but won’t release Velveteen Dream. Just think about that. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ComradeFer**  |
+| The most retweeted user is: **Skulleeroz3334**  |
 | ------------- |
-| RT @WeAreCanProud: BREAKING NEWS: There is a possible hostage situation at Ubisoft Montreal.https://t.co/1H4Hz9aomx |
+| RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.https://t.co/RUebMGwBTA |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
