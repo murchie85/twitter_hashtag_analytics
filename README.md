@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Zelina Vega"**
+&#x1F34E; **TOPIC = "iphone 12 pro max"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @paul_mckie @WWE AEW= Rent free in your head. This post has nothing to do with Zelina Vega |
-| RT @WrestlingGuy435: -30 employees fired-Stripped 3rd Party Social Media-Numerous Of COVID Outbreaks-Wasting on Bullshit-Still Having P… |
-| RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.https://t.co/RUebMGwBTA |
+| RT @tongtongli6: 💃🏻 💃🏻 An announcement from NYC @thunkable Miss Li, Can not wait to install #Thunkable on my new iPhone 12 PRO Max ❤️❤️❤️… |
+| RT @jamescharles: My iPhone 12 Pro Max just came in and finished setting up and I have to be honest... I love her so far |
+| iPhone 12 Pro Max looking CRISP https://t.co/MKfsXpJgpv |
 
-The most popular user is: **Skulleeroz3334**
-<div class="alert alert-block alert-danger"> RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.
-
-https://t.co/RUebMGwBTA</div>
+The most popular user is: **Farhananaziraa_**
+<div class="alert alert-block alert-danger"> RT @leeyikkeat: Apple store shot on iPhone 12 Pro Max https://t.co/980JBlNFoF</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **WWE** |
-| #2 Most tweeted to  | **WrestleFeatures** |
-| #3 Most tweeted to  | **FanSidedDDT** |
-| NewProfiles (less than 10 days) | 0.47%  |
-| Tweeters with < 10 followers  | 2.09%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **leeyikkeat** |
+| #2 Most tweeted to  | **tim_cook** |
+| #3 Most tweeted to  | **ATTexplore** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 6.3%|
+| Tweeters with > 1000000 followers  | 0.21%  |
 
 
 
@@ -41,28 +39,28 @@ https://t.co/RUebMGwBTA</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VEGA**  |
-| second  | **ZELINA**  |
-| third  | **WWE** |
-| fourth  | **RELEASE**  |
-| fifth  | **BEST**  |
+| first  | **IPHONE**  |
+| second  | **12**  |
+| third  | **PRO** |
+| fourth  | **MAX**  |
+| fifth  | **APPLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @WrestleFeatures: They will release Zelina Vega but won’t release Velveteen Dream. Just think about that. |
+|RT @tim_cook: The big day is here! Enjoy iPhone 12 Pro Max and iPhone 12 mini! https://t.co/ZvZ5CSuOEX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Skulleeroz3334**  |
+| The most retweeted user is: **Farhananaziraa_**  |
 | ------------- |
-| RT @WWE: WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors.https://t.co/RUebMGwBTA |
+| RT @leeyikkeat: Apple store shot on iPhone 12 Pro Max https://t.co/980JBlNFoF |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
