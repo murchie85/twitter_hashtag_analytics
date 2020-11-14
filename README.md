@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "iphone 12 pro max"**
+&#x1F34E; **TOPIC = "Arizona"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @tongtongli6: 💃🏻 💃🏻 An announcement from NYC @thunkable Miss Li, Can not wait to install #Thunkable on my new iPhone 12 PRO Max ❤️❤️❤️… |
-| RT @jamescharles: My iPhone 12 Pro Max just came in and finished setting up and I have to be honest... I love her so far |
-| iPhone 12 Pro Max looking CRISP https://t.co/MKfsXpJgpv |
+| RT @zhenryaz: How did Biden underperform Clinton in NEW YORK by nearly 800K votes, but overperform her in Wisconsin (+250K), Pennsylvania (… |
+| RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
+| RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
 
-The most popular user is: **Farhananaziraa_**
-<div class="alert alert-block alert-danger"> RT @leeyikkeat: Apple store shot on iPhone 12 Pro Max https://t.co/980JBlNFoF</div>
+The most popular user is: **PhillipRivers78**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Now it is learned that the horrendous Dominion Voting System was used in Arizona (and big in Nevada). No wonder the re…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **leeyikkeat** |
-| #2 Most tweeted to  | **tim_cook** |
-| #3 Most tweeted to  | **ATTexplore** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 6.3%|
-| Tweeters with > 1000000 followers  | 0.21%  |
+| #1 Most tweeted to  | **RexChapman** |
+| #2 Most tweeted to  | **NPR** |
+| #3 Most tweeted to  | **donwinslow** |
+| NewProfiles (less than 10 days) | 1.36%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Farhananaziraa_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **IPHONE**  |
-| second  | **12**  |
-| third  | **PRO** |
-| fourth  | **MAX**  |
-| fifth  | **APPLE**  |
+| first  | **ARIZONA**  |
+| second  | **ALONG**  |
+| third  | **TRUMP’S** |
+| fourth  | **WALL**  |
+| fifth  | **IMPENETRABLE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (27.27%) & **NEGATIVELY-SUBJECTIVE** (9.09%) **OBJECTIVE** (63.64%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tim_cook: The big day is here! Enjoy iPhone 12 Pro Max and iPhone 12 mini! https://t.co/ZvZ5CSuOEX |
+|RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Farhananaziraa_**  |
+| The most retweeted user is: **PhillipRivers78**  |
 | ------------- |
-| RT @leeyikkeat: Apple store shot on iPhone 12 Pro Max https://t.co/980JBlNFoF |
+| RT @realDonaldTrump: Now it is learned that the horrendous Dominion Voting System was used in Arizona (and big in Nevada). No wonder the re… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
