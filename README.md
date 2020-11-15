@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Arizona"**
+&#x1F34E; **TOPIC = "Aliquippa"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @zhenryaz: How did Biden underperform Clinton in NEW YORK by nearly 800K votes, but overperform her in Wisconsin (+250K), Pennsylvania (… |
-| RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
-| RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
+| RT @BREAL412: Aliquippa now first-and-10 at the Thomas Jefferson 14. Quips trail, 28-21, with two minutes left. |
+| RT @mwhiteburgh: Some primer to get you ready for WPIAL championships:1A final has family connections: https://t.co/1gPvwDIMzt2A final:… |
+| RT @mikebires: Aliquippa has advanced to its 13th straight WPIAL final. Quips beats Belle Vernon 33-25. #BCTsports #wpial |
 
-The most popular user is: **PhillipRivers78**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Now it is learned that the horrendous Dominion Voting System was used in Arizona (and big in Nevada). No wonder the re…</div>
+The most popular user is: **tessahcheran**
+<div class="alert alert-block alert-danger"> RT @WPIAL_Insider: Aliquippa beats Belle Vernon 33-25 to advance to the 4A WPIAL Title Game. They have 1A enrollment 😳</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RexChapman** |
-| #2 Most tweeted to  | **NPR** |
-| #3 Most tweeted to  | **donwinslow** |
-| NewProfiles (less than 10 days) | 1.36%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **BREAL412** |
+| #2 Most tweeted to  | **WPIAL_Insider** |
+| #3 Most tweeted to  | **mwhiteburgh** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.45%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **PhillipRivers78**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARIZONA**  |
-| second  | **ALONG**  |
-| third  | **TRUMP’S** |
-| fourth  | **WALL**  |
-| fifth  | **IMPENETRABLE**  |
+| first  | **ALIQUIPPA**  |
+| second  | **WPIAL**  |
+| third  | **VERNON** |
+| fourth  | **4A**  |
+| fifth  | **THOMAS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (27.27%) & **NEGATIVELY-SUBJECTIVE** (9.09%) **OBJECTIVE** (63.64%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RexChapman: Trump’s impenetrable wall along the Arizona border.I can’t stop laughing...https://t.co/GzBoFXYehy |
+|RT @HartoftheGame: If Aliquippa wins the WPIAL 4A Championship, Coach Warfield should win Coach of the Decade—no public opinion needed.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PhillipRivers78**  |
+| The most retweeted user is: **tessahcheran**  |
 | ------------- |
-| RT @realDonaldTrump: Now it is learned that the horrendous Dominion Voting System was used in Arizona (and big in Nevada). No wonder the re… |
+| RT @WPIAL_Insider: Aliquippa beats Belle Vernon 33-25 to advance to the 4A WPIAL Title Game. They have 1A enrollment 😳 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
