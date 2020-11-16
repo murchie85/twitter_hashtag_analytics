@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HOUvsCLE"**
+&#x1F34E; **TOPIC = "French Laundry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @thecheckdown: Deshaun Watson WHAT 😳 @deshaunwatson @HoustonTexans 📺 #HOUvsCLE on FOX https://t.co/DApHXeIfbc |
-| RT @thecheckdown: Kareem Hunt runs mean 😤 @Kareemhunt7 @Browns 📺 #HOUvsCLE on FOX https://t.co/BV7zN0K6US |
-| RT @Browns: Goooooood morning!RT if you're ready for GAMEDAY!#HOUvsCLE https://t.co/00NotIDtU4 |
+| RT @SteveHiltonx: Pelosi, Feinstein, Lightfoot, DeBlasio...now Newsom and the French Laundry dinnerare there ANY Democrat Lockdown Leader… |
+| RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev… |
+| RT @SteveHiltonx: Pelosi, Feinstein, Lightfoot, DeBlasio...now Newsom and the French Laundry dinnerare there ANY Democrat Lockdown Leader… |
 
-The most popular user is: **Banewreaker**
-<div class="alert alert-block alert-danger"> RT @Browns: Goooooood morning!
-
-RT if you're ready for GAMEDAY!
-
-#HOUvsCLE https://t.co/00NotIDtU4</div>
+The most popular user is: **Singh1Harmanjit**
+<div class="alert alert-block alert-danger"> RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Browns** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **HoustonTexans** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 4.41%|
-| Tweeters with > 1000000 followers  | 1.53%  |
+| #1 Most tweeted to  | **GavinNewsom** |
+| #2 Most tweeted to  | **akoseff** |
+| #3 Most tweeted to  | **IngrahamAngle** |
+| NewProfiles (less than 10 days) | 0.87%  |
+| Tweeters with < 10 followers  | 6.72%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -43,28 +39,28 @@ RT if you're ready for GAMEDAY!
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HOUVSCLE**  |
-| second  | **BROWNS**  |
-| third  | **@BROWNS:** |
-| fourth  | **@NFL:**  |
-| fifth  | **FOX**  |
+| first  | **DINNER**  |
+| second  | **FRENCH**  |
+| third  | **GOV** |
+| fourth  | **LAUNDRY**  |
+| fifth  | **ATTENDED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (71.43%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NFLFootballOps: #HOUvsCLE Update: After a weather delay, the game will now kickoff at 1:37pm ET. |
+|RT @IngrahamAngle: Frauds: Newsom faces backlash after attending French Laundry dinner party https://t.co/3EgD9Y0pJb |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Banewreaker**  |
+| The most retweeted user is: **Singh1Harmanjit**  |
 | ------------- |
-| RT @Browns: Goooooood morning!RT if you're ready for GAMEDAY!#HOUvsCLE https://t.co/00NotIDtU4 |
+| RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
