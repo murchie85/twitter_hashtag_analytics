@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Aliquippa"**
+&#x1F34E; **TOPIC = "#HOUvsCLE"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BREAL412: Aliquippa now first-and-10 at the Thomas Jefferson 14. Quips trail, 28-21, with two minutes left. |
-| RT @mwhiteburgh: Some primer to get you ready for WPIAL championships:1A final has family connections: https://t.co/1gPvwDIMzt2A final:… |
-| RT @mikebires: Aliquippa has advanced to its 13th straight WPIAL final. Quips beats Belle Vernon 33-25. #BCTsports #wpial |
+| RT @thecheckdown: Deshaun Watson WHAT 😳 @deshaunwatson @HoustonTexans 📺 #HOUvsCLE on FOX https://t.co/DApHXeIfbc |
+| RT @thecheckdown: Kareem Hunt runs mean 😤 @Kareemhunt7 @Browns 📺 #HOUvsCLE on FOX https://t.co/BV7zN0K6US |
+| RT @Browns: Goooooood morning!RT if you're ready for GAMEDAY!#HOUvsCLE https://t.co/00NotIDtU4 |
 
-The most popular user is: **tessahcheran**
-<div class="alert alert-block alert-danger"> RT @WPIAL_Insider: Aliquippa beats Belle Vernon 33-25 to advance to the 4A WPIAL Title Game. They have 1A enrollment 😳</div>
+The most popular user is: **Banewreaker**
+<div class="alert alert-block alert-danger"> RT @Browns: Goooooood morning!
+
+RT if you're ready for GAMEDAY!
+
+#HOUvsCLE https://t.co/00NotIDtU4</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BREAL412** |
-| #2 Most tweeted to  | **WPIAL_Insider** |
-| #3 Most tweeted to  | **mwhiteburgh** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.45%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Browns** |
+| #2 Most tweeted to  | **NFL** |
+| #3 Most tweeted to  | **HoustonTexans** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.41%|
+| Tweeters with > 1000000 followers  | 1.53%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **tessahcheran**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALIQUIPPA**  |
-| second  | **WPIAL**  |
-| third  | **VERNON** |
-| fourth  | **4A**  |
-| fifth  | **THOMAS**  |
+| first  | **HOUVSCLE**  |
+| second  | **BROWNS**  |
+| third  | **@BROWNS:** |
+| fourth  | **@NFL:**  |
+| fifth  | **FOX**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HartoftheGame: If Aliquippa wins the WPIAL 4A Championship, Coach Warfield should win Coach of the Decade—no public opinion needed.… |
+|RT @NFLFootballOps: #HOUvsCLE Update: After a weather delay, the game will now kickoff at 1:37pm ET. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tessahcheran**  |
+| The most retweeted user is: **Banewreaker**  |
 | ------------- |
-| RT @WPIAL_Insider: Aliquippa beats Belle Vernon 33-25 to advance to the 4A WPIAL Title Game. They have 1A enrollment 😳 |
+| RT @Browns: Goooooood morning!RT if you're ready for GAMEDAY!#HOUvsCLE https://t.co/00NotIDtU4 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
