@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "French Laundry"**
+&#x1F34E; **TOPIC = "#SavingLivesAtSea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SteveHiltonx: Pelosi, Feinstein, Lightfoot, DeBlasio...now Newsom and the French Laundry dinnerare there ANY Democrat Lockdown Leader… |
-| RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev… |
-| RT @SteveHiltonx: Pelosi, Feinstein, Lightfoot, DeBlasio...now Newsom and the French Laundry dinnerare there ANY Democrat Lockdown Leader… |
+| Wearing full crew kit and taking the equipment they need to assist the casualty makes for a warm walk across May Is… https://t.co/hNrZXhuCkX |
+| Seeing @WestonRNLI’s extraordinary rescue on #SavingLivesAtSea reminded me of the shout during our visit in 2015. T… https://t.co/TOrP0FljLa |
+| RT @RNLI: Rescuing five people in just a few minutes, we interviewed lifesaver Liam McDermott after the incredible rescue by @WestonRNLI on… |
 
-The most popular user is: **Singh1Harmanjit**
-<div class="alert alert-block alert-danger"> RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev…</div>
+The most popular user is: **JournoMikeT**
+<div class="alert alert-block alert-danger"> RT @RNLI: Rescuing five people in just a few minutes, we interviewed lifesaver Liam McDermott after the incredible rescue by @WestonRNLI on…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GavinNewsom** |
-| #2 Most tweeted to  | **akoseff** |
-| #3 Most tweeted to  | **IngrahamAngle** |
-| NewProfiles (less than 10 days) | 0.87%  |
-| Tweeters with < 10 followers  | 6.72%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **RNLI** |
+| #2 Most tweeted to  | **WestonRNLI** |
+| #3 Most tweeted to  | **LoughDergRNLI** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.34%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Singh1Harmanjit**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DINNER**  |
-| second  | **FRENCH**  |
-| third  | **GOV** |
-| fourth  | **LAUNDRY**  |
-| fifth  | **ATTENDED**  |
+| first  | **SAVINGLIVESATSEA**  |
+| second  | **@RNLI:**  |
+| third  | **@RNLI** |
+| fourth  | **RESCUE**  |
+| fifth  | **VOLUNTEERS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (71.43%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @IngrahamAngle: Frauds: Newsom faces backlash after attending French Laundry dinner party https://t.co/3EgD9Y0pJb |
+|@RNLI @BBCTwo Wow... That was one serious rescue at Weston. 5 unconnected near drownings with literally seconds to… https://t.co/Fpv1nnthmU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Singh1Harmanjit**  |
+| The most retweeted user is: **JournoMikeT**  |
 | ------------- |
-| RT @akoseff: Gov. @GavinNewsom attended a birthday dinner for one of his political advisers last week with at least a dozen people from sev… |
+| RT @RNLI: Rescuing five people in just a few minutes, we interviewed lifesaver Liam McDermott after the incredible rescue by @WestonRNLI on… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
