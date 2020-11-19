@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#InsiderTraitors"**
+&#x1F34E; **TOPIC = "Gallinari"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ReallyAmerican1: Retweet if you want us to air #InsiderTraitors on TV in Georgia.  https://t.co/4SgapGeb6q |
-| RT @mmpadellan: Georgia needs REAL Senators, not pandemic profiteers like #InsiderTraitors Loeffler and Perdue.We're arranging transporta… |
-| RT @HamillHimself: Dear Georgia- A vote for these 2 #InsiderTraitors is a vote for gridlock. Please elect @ossoff &amp; @ReverendWarnock to avo… |
+| RT @LegionHoops: Developing: The Mavericks and Thunder are in deep talks on a sign-and-trade that would send Danilo Gallinari to Dallas and… |
+| Got to sign Gallinari and Christian woods |
+| RT @TheNBACentral: Report: Miami Heat ‘very focused’ on several ways to acquire Danilo Gallinari  https://t.co/Xa52TLRrfn |
 
-The most popular user is: **judsonhh**
-<div class="alert alert-block alert-danger"> RT @mmpadellan: We're dropping a new 🔥 ad about the corrupt Georgia #InsiderTraitors Kelly Loeffler and David Perdue.
-
-Can we get the hasht…</div>
+The most popular user is: **TiaKirk76542805**
+<div class="alert alert-block alert-danger"> RT @wojespn: The Clippers are sending the Thunder four unprotected first-round picks, one protected first-round pick and two pick swaps, le…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ReallyAmerican1** |
-| #2 Most tweeted to  | **mmpadellan** |
-| #3 Most tweeted to  | **ossoff** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 4.13%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MattBabcock11** |
+| #2 Most tweeted to  | **TheHoopCentral** |
+| #3 Most tweeted to  | **TheNBACentral** |
+| NewProfiles (less than 10 days) | 0.71%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -41,28 +39,28 @@ Can we get the hasht…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **INSIDERTRAITORS**  |
-| second  | **PERDUE**  |
-| third  | **LOEFFLER** |
-| fourth  | **KELLY**  |
-| fifth  | **@REALLYAMERICAN1:**  |
+| first  | **GALLINARI**  |
+| second  | **DANILO**  |
+| third  | **TRADE** |
+| fourth  | **THUNDER**  |
+| fifth  | **DALLAS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ReallyAmerican1: Retweet if you want us to air #InsiderTraitors on TV in Georgia.  https://t.co/4SgapGeb6q |
+|@theeshellzg Might steal him on MLE. It’s between him or Gallinari who we’ll offer it to. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **judsonhh**  |
+| The most retweeted user is: **TiaKirk76542805**  |
 | ------------- |
-| RT @mmpadellan: We're dropping a new 🔥 ad about the corrupt Georgia #InsiderTraitors Kelly Loeffler and David Perdue.Can we get the hasht… |
+| RT @wojespn: The Clippers are sending the Thunder four unprotected first-round picks, one protected first-round pick and two pick swaps, le… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
