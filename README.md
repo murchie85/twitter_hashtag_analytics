@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "meredith"**
+&#x1F34E; **TOPIC = "Buckingham palace"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,25 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| so who do y’all think meredith is going to see next? #GreysAnatomy |
-| Meredith is Richard PoA and now Richard is Meredith |
-| MEREDITH FUCKING DRANK THE OCEAN WATER |
+| @journeymanhisto This is why I stopped watching. They were trying to do character development and I just didn't car… https://t.co/2hegzsXJff |
+| @ryanpequin DUDE HYDE PARK IS SO FUCKING POSH. This is like saying you rented the shittiest little room in Buckingh… https://t.co/XW3UdyilAu |
+| What's the Queen doing at a trailer park? https://t.co/0aUUFrgeCT https://t.co/6aHDVTE8X2 |
 
-The most popular user is: **Meredith_oink**
-<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 &lt;Life Goes On&gt; Official MV
-(https://t.co/X29U68XpnJ)
+The most popular user is: **OleMarun**
+<div class="alert alert-block alert-danger"> RT @LucySempey: One day you’re 15 and posing outside Buckingham palace and 22 years later you’re marrying the Prince. 
 
-#BTS_BE #LifeGoesOn</div>
+Unreal. 
+
+#RoyalWed…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **cristinasoh** |
-| #2 Most tweeted to  | **EllenPompeo** |
-| #3 Most tweeted to  | **GreysABC** |
-| NewProfiles (less than 10 days) | 1.64%  |
-| Tweeters with < 10 followers  | 5.72%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **TheCrownNetflix** |
+| #2 Most tweeted to  | **theferocity** |
+| #3 Most tweeted to  | **Will_Kellogg** |
+| NewProfiles (less than 10 days) | 0.33%  |
+| Tweeters with < 10 followers  | 3.23%|
+| Tweeters with > 1000000 followers  | 0.58%  |
 
 
 
@@ -42,28 +43,28 @@ The most popular user is: **Meredith_oink**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEREDITH**  |
-| second  | **GREYSANATOMY**  |
-| third  | **DEREK** |
-| fourth  | **GREY**  |
-| fifth  | **@CRISTINASOH:**  |
+| first  | **BUCKINGHAM**  |
+| second  | **PALACE**  |
+| third  | **QUEEN** |
+| fourth  | **REALLY**  |
+| fifth  | **ELIZABETH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @patrickdsmpsey: me unplugging meredith greys life support so i can see more of derek shepherd #GreysAnatomy https://t.co/cfnH7junHR |
+|RT @TheCrownNetflix: Duty calls. Queen Elizabeth II takes the salute at the Trooping the Colour ceremony outside Buckingham Palace. https:/… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Meredith_oink**  |
+| The most retweeted user is: **OleMarun**  |
 | ------------- |
-| RT @BigHitEnt: #BTS #방탄소년단 &lt;Life Goes On&gt; Official MV(https://t.co/X29U68XpnJ)#BTS_BE #LifeGoesOn |
+| RT @LucySempey: One day you’re 15 and posing outside Buckingham palace and 22 years later you’re marrying the Prince. Unreal. #RoyalWed… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
