@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Achilles"**
+&#x1F34E; **TOPIC = "meredith"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,25 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ThompsonScribe: The Warriors roster has suffered two Achilles tears, an ACL, a broken hand and a broken collar bone since June 2019 |
-| RT @warriors: Klay Thompson suffered a torn right Achilles tendon, an MRI confirmed today in Los Angeles. Thompson suffered the injury in a… |
-| RT @SportsCenter: Breaking: Klay Thompson has suffered a season-ending Achilles tear, a source told @wojespn. https://t.co/WRSwWzo3wq |
+| so who do y’all think meredith is going to see next? #GreysAnatomy |
+| Meredith is Richard PoA and now Richard is Meredith |
+| MEREDITH FUCKING DRANK THE OCEAN WATER |
 
-The most popular user is: **parttimegoblin**
-<div class="alert alert-block alert-danger"> RT @rajandelman: Kirby has no ankles because the Goddess Athena saw what became of Achilles and sought to fashion a warrior that, this time…</div>
+The most popular user is: **Meredith_oink**
+<div class="alert alert-block alert-danger"> RT @BigHitEnt: #BTS #방탄소년단 &lt;Life Goes On&gt; Official MV
+(https://t.co/X29U68XpnJ)
+
+#BTS_BE #LifeGoesOn</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **SportsCenter** |
-| #3 Most tweeted to  | **BleacherReport** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 3.52%|
-| Tweeters with > 1000000 followers  | 0.15%  |
+| #1 Most tweeted to  | **cristinasoh** |
+| #2 Most tweeted to  | **EllenPompeo** |
+| #3 Most tweeted to  | **GreysABC** |
+| NewProfiles (less than 10 days) | 1.64%  |
+| Tweeters with < 10 followers  | 5.72%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **parttimegoblin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KLAY**  |
-| second  | **ACHILLES**  |
-| third  | **THOMPSON** |
-| fourth  | **SUFFERED**  |
-| fifth  | **SEASON-ENDING**  |
+| first  | **MEREDITH**  |
+| second  | **GREYSANATOMY**  |
+| third  | **DEREK** |
+| fourth  | **GREY**  |
+| fifth  | **@CRISTINASOH:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @espn: The NBA community sends prayers to Klay Thompson after the news of his season-ending Achilles injury 🙏 https://t.co/195mhLrxzY |
+|RT @patrickdsmpsey: me unplugging meredith greys life support so i can see more of derek shepherd #GreysAnatomy https://t.co/cfnH7junHR |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **parttimegoblin**  |
+| The most retweeted user is: **Meredith_oink**  |
 | ------------- |
-| RT @rajandelman: Kirby has no ankles because the Goddess Athena saw what became of Achilles and sought to fashion a warrior that, this time… |
+| RT @BigHitEnt: #BTS #방탄소년단 &lt;Life Goes On&gt; Official MV(https://t.co/X29U68XpnJ)#BTS_BE #LifeGoesOn |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
