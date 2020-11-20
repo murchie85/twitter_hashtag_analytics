@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gallinari"**
+&#x1F34E; **TOPIC = "Achilles"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LegionHoops: Developing: The Mavericks and Thunder are in deep talks on a sign-and-trade that would send Danilo Gallinari to Dallas and… |
-| Got to sign Gallinari and Christian woods |
-| RT @TheNBACentral: Report: Miami Heat ‘very focused’ on several ways to acquire Danilo Gallinari  https://t.co/Xa52TLRrfn |
+| RT @ThompsonScribe: The Warriors roster has suffered two Achilles tears, an ACL, a broken hand and a broken collar bone since June 2019 |
+| RT @warriors: Klay Thompson suffered a torn right Achilles tendon, an MRI confirmed today in Los Angeles. Thompson suffered the injury in a… |
+| RT @SportsCenter: Breaking: Klay Thompson has suffered a season-ending Achilles tear, a source told @wojespn. https://t.co/WRSwWzo3wq |
 
-The most popular user is: **TiaKirk76542805**
-<div class="alert alert-block alert-danger"> RT @wojespn: The Clippers are sending the Thunder four unprotected first-round picks, one protected first-round pick and two pick swaps, le…</div>
+The most popular user is: **parttimegoblin**
+<div class="alert alert-block alert-danger"> RT @rajandelman: Kirby has no ankles because the Goddess Athena saw what became of Achilles and sought to fashion a warrior that, this time…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MattBabcock11** |
-| #2 Most tweeted to  | **TheHoopCentral** |
-| #3 Most tweeted to  | **TheNBACentral** |
-| NewProfiles (less than 10 days) | 0.71%  |
-| Tweeters with < 10 followers  | 3.18%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **SportsCenter** |
+| #3 Most tweeted to  | **BleacherReport** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 3.52%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **TiaKirk76542805**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GALLINARI**  |
-| second  | **DANILO**  |
-| third  | **TRADE** |
-| fourth  | **THUNDER**  |
-| fifth  | **DALLAS**  |
+| first  | **KLAY**  |
+| second  | **ACHILLES**  |
+| third  | **THOMPSON** |
+| fourth  | **SUFFERED**  |
+| fifth  | **SEASON-ENDING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@theeshellzg Might steal him on MLE. It’s between him or Gallinari who we’ll offer it to. |
+|RT @espn: The NBA community sends prayers to Klay Thompson after the news of his season-ending Achilles injury 🙏 https://t.co/195mhLrxzY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TiaKirk76542805**  |
+| The most retweeted user is: **parttimegoblin**  |
 | ------------- |
-| RT @wojespn: The Clippers are sending the Thunder four unprotected first-round picks, one protected first-round pick and two pick swaps, le… |
+| RT @rajandelman: Kirby has no ankles because the Goddess Athena saw what became of Achilles and sought to fashion a warrior that, this time… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
