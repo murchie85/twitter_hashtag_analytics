@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Buckingham palace"**
+&#x1F34E; **TOPIC = "#quackitysupport"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @journeymanhisto This is why I stopped watching. They were trying to do character development and I just didn't car… https://t.co/2hegzsXJff |
-| @ryanpequin DUDE HYDE PARK IS SO FUCKING POSH. This is like saying you rented the shittiest little room in Buckingh… https://t.co/XW3UdyilAu |
-| What's the Queen doing at a trailer park? https://t.co/0aUUFrgeCT https://t.co/6aHDVTE8X2 |
+| RT @LAVAC0RE: rt if you agree #quackitysupport https://t.co/N8RSOCn0cY |
+| #quackitysupport 10/10 would much when bored |
+| RT @wooshdni: THIS !!!! #quackitysupport https://t.co/CrPCUczsIK |
 
-The most popular user is: **OleMarun**
-<div class="alert alert-block alert-danger"> RT @LucySempey: One day you’re 15 and posing outside Buckingham palace and 22 years later you’re marrying the Prince. 
-
-Unreal. 
-
-#RoyalWed…</div>
+The most popular user is: **zuxyboiii**
+<div class="alert alert-block alert-danger"> RT @wooshdni: THIS !!!! #quackitysupport https://t.co/CrPCUczsIK</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheCrownNetflix** |
-| #2 Most tweeted to  | **theferocity** |
-| #3 Most tweeted to  | **Will_Kellogg** |
-| NewProfiles (less than 10 days) | 0.33%  |
-| Tweeters with < 10 followers  | 3.23%|
-| Tweeters with > 1000000 followers  | 0.58%  |
+| #1 Most tweeted to  | **wooshdni** |
+| #2 Most tweeted to  | **LAVAC0RE** |
+| #3 Most tweeted to  | **SCREW4VE** |
+| NewProfiles (less than 10 days) | 4.71%  |
+| Tweeters with < 10 followers  | 13.69%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Unreal.
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUCKINGHAM**  |
-| second  | **PALACE**  |
-| third  | **QUEEN** |
-| fourth  | **REALLY**  |
-| fifth  | **ELIZABETH**  |
+| first  | **QUACKITYSUPPORT**  |
+| second  | **LOVE**  |
+| third  | **QUACKITY** |
+| fourth  | **MAN**  |
+| fifth  | **MUCH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheCrownNetflix: Duty calls. Queen Elizabeth II takes the salute at the Trooping the Colour ceremony outside Buckingham Palace. https:/… |
+|RT @sootfacts: ok good night ESPECIALLY to him #quackitysupport #weloveyouquackity https://t.co/azckmEle3F |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OleMarun**  |
+| The most retweeted user is: **zuxyboiii**  |
 | ------------- |
-| RT @LucySempey: One day you’re 15 and posing outside Buckingham palace and 22 years later you’re marrying the Prince. Unreal. #RoyalWed… |
+| RT @wooshdni: THIS !!!! #quackitysupport https://t.co/CrPCUczsIK |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
