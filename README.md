@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Spurs"**
+&#x1F34E; **TOPIC = "Levis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hojbjerg23: THIS IS SPURS🔥 https://t.co/U24tgLaQDv |
-| RT @LastWordOnSpurs: 🇵🇹 One year since Jose Mourinho took charge of Tottenham Hotspur.🕵️ Andy Gray hails the Portuguese coach and looks a… |
-| Spurs would be shite without son (cough) @joseph_lad |
+| Kutchel folds her in her ‘you’re bullshitting me.’“Nonsense. Come here take my coat. I have a jacket underneath i… https://t.co/ALoLwXsda3 |
+| Check out what I just added to my closet on Poshmark: NWOT LEVI'S Wedgie. https://t.co/cV91vJPHV7 via @poshmarkapp #shopmycloset |
+| What took James Franklin so long to play Will Levis? #WeAre |
 
-The most popular user is: **spurs_silver**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Big voter fraud information coming out concerning Georgia. Stay tuned!</div>
+The most popular user is: **levis_teashop**
+<div class="alert alert-block alert-danger"> RT @blndls: “ur so quiet” bro we have nothing in common</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hojbjerg23** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **the_pieface** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 4.0%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **Poshmarkapp** |
+| #2 Most tweeted to  | **LEVIS** |
+| #3 Most tweeted to  | **reputushion** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 4.76%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **spurs_silver**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SPURS**  |
-| second  | **CITY**  |
-| third  | **LEAGUE** |
-| fourth  | **TOP**  |
-| fifth  | **WIN**  |
+| first  | **LEVIS**  |
+| second  | **"IM"**  |
+| third  | **@POSHMARKAPP** |
+| fourth  | **GOOD**  |
+| fifth  | **CHECK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @5liveSport: "I'm gonna say it...Spurs will win the Premier League."Mystic M̵e̵g̵ @RobbieSavage8 has spoken 🔮Are #THFC going to wi… |
+|@TallyHoFro We've teamed with @Levis_UK and @Queer_Britain to help collect important stories, to work towards build… https://t.co/5dYl1IMThk |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **spurs_silver**  |
+| The most retweeted user is: **levis_teashop**  |
 | ------------- |
-| RT @realDonaldTrump: Big voter fraud information coming out concerning Georgia. Stay tuned! |
+| RT @blndls: “ur so quiet” bro we have nothing in common |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
