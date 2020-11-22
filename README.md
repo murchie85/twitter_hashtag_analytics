@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Levis"**
+&#x1F34E; **TOPIC = "#BoltUp"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Kutchel folds her in her ‘you’re bullshitting me.’“Nonsense. Come here take my coat. I have a jacket underneath i… https://t.co/ALoLwXsda3 |
-| Check out what I just added to my closet on Poshmark: NWOT LEVI'S Wedgie. https://t.co/cV91vJPHV7 via @poshmarkapp #shopmycloset |
-| What took James Franklin so long to play Will Levis? #WeAre |
+| Summary for #NFLPicks3* #FlyEaglesFly (+3)2* #WashingtonFootball (ML -120)2* #Colts (ML -120) #ForTheShoe2*… https://t.co/oF96JqLeCh |
+| RT @DBrownFF88: Me after starting Troymaine Pope as a desperation play #Chargers #BoltUp #FantasyFootball @MyFantasyLeague https://t.co/1e… |
+| RT @dhbcny: Re-uploading the Isaac Rochelle hype picture because it is awesome and worked last time. Go Chargers Go! #BoltUp #DHBC @Charger… |
 
-The most popular user is: **levis_teashop**
-<div class="alert alert-block alert-danger"> RT @blndls: “ur so quiet” bro we have nothing in common</div>
+The most popular user is: **Campaign_Jesup**
+<div class="alert alert-block alert-danger"> RT @CBSSportsHQ: First 7 career starts as a rookie:
+
+                         NFL All-time rank
+2,146 pass yds         1st
+17 pass TD…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Poshmarkapp** |
-| #2 Most tweeted to  | **LEVIS** |
-| #3 Most tweeted to  | **reputushion** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 4.76%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **Chargers** |
+| #2 Most tweeted to  | **NFLonFOX** |
+| #3 Most tweeted to  | **NFL** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 2.42%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **levis_teashop**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEVIS**  |
-| second  | **"IM"**  |
-| third  | **@POSHMARKAPP** |
-| fourth  | **GOOD**  |
-| fifth  | **CHECK**  |
+| first  | **BOLTUP**  |
+| second  | **CHARGERS**  |
+| third  | **@CHARGERS** |
+| fourth  | **JUSTIN**  |
+| fifth  | **NFL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TallyHoFro We've teamed with @Levis_UK and @Queer_Britain to help collect important stories, to work towards build… https://t.co/5dYl1IMThk |
+|HC Anthony Lynn on the loss vs Miami: “We got outplayed in all three phases, very disappointed.” #BoltUp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **levis_teashop**  |
+| The most retweeted user is: **Campaign_Jesup**  |
 | ------------- |
-| RT @blndls: “ur so quiet” bro we have nothing in common |
+| RT @CBSSportsHQ: First 7 career starts as a rookie:                         NFL All-time rank2,146 pass yds         1st17 pass TD… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
