@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BoltUp"**
+&#x1F34E; **TOPIC = "Tony Bradley"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Summary for #NFLPicks3* #FlyEaglesFly (+3)2* #WashingtonFootball (ML -120)2* #Colts (ML -120) #ForTheShoe2*… https://t.co/oF96JqLeCh |
-| RT @DBrownFF88: Me after starting Troymaine Pope as a desperation play #Chargers #BoltUp #FantasyFootball @MyFantasyLeague https://t.co/1e… |
-| RT @dhbcny: Re-uploading the Isaac Rochelle hype picture because it is awesome and worked last time. Go Chargers Go! #BoltUp #DHBC @Charger… |
+| RT @wojespn: The 76ers are trading G Zhaire Smith to the Pistons for C Tony Bradley, sources tell ESPN. |
+| @AGHamilton29 Sigh. I thought maybe picking up Tony Bradley was a savvy, big man on the cheap move. They reached fo… https://t.co/6nRtThDVLN |
+| But we just traded out of the second round? I ain't a massive fan of Tony Bradley but we've been developing him for… https://t.co/YGc6Na16P4 |
 
-The most popular user is: **Campaign_Jesup**
-<div class="alert alert-block alert-danger"> RT @CBSSportsHQ: First 7 career starts as a rookie:
-
-                         NFL All-time rank
-2,146 pass yds         1st
-17 pass TD…</div>
+The most popular user is: **lc_bradley**
+<div class="alert alert-block alert-danger"> RT @nocontextmarveI: tony stark was always ahead of his time https://t.co/hR4LMQYSj8</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Chargers** |
-| #2 Most tweeted to  | **NFLonFOX** |
-| #3 Most tweeted to  | **NFL** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.42%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **BobbyMarks42** |
+| #3 Most tweeted to  | **Tjonesonthenba** |
+| NewProfiles (less than 10 days) | 1.31%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Campaign_Jesup**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOLTUP**  |
-| second  | **CHARGERS**  |
-| third  | **@CHARGERS** |
-| fourth  | **JUSTIN**  |
-| fifth  | **NFL**  |
+| first  | **TONY**  |
+| second  | **BRADLEY**  |
+| third  | **PISTONS** |
+| fourth  | **@WOJESPN:**  |
+| fifth  | **C**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|HC Anthony Lynn on the loss vs Miami: “We got outplayed in all three phases, very disappointed.” #BoltUp |
+|RT @Tjonesonthenba: Tony Bradley gonna be running the point in Detroit |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Campaign_Jesup**  |
+| The most retweeted user is: **lc_bradley**  |
 | ------------- |
-| RT @CBSSportsHQ: First 7 career starts as a rookie:                         NFL All-time rank2,146 pass yds         1st17 pass TD… |
+| RT @nocontextmarveI: tony stark was always ahead of his time https://t.co/hR4LMQYSj8 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
