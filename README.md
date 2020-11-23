@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tony Bradley"**
+&#x1F34E; **TOPIC = "youngjae"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @wojespn: The 76ers are trading G Zhaire Smith to the Pistons for C Tony Bradley, sources tell ESPN. |
-| @AGHamilton29 Sigh. I thought maybe picking up Tony Bradley was a savvy, big man on the cheap move. They reached fo… https://t.co/6nRtThDVLN |
-| But we just traded out of the second round? I ain't a massive fan of Tony Bradley but we've been developing him for… https://t.co/YGc6Na16P4 |
+| RT @markbeomnyoung: Youngjae saw the charts 😭😭😭😭💚💚💚💚💚💚#GOT7 #갓세븐 @GOT7Official #GOT7_BreathofLove_LastPiece #GOT7_Breath #GOT7_LastPiece… |
+| RT @got7forthewin: #GOT7_Breath is Trending 1st Worldwide and YOUNGJAE is Trending 7th 🔥🔥MV link : https://t.co/zhEjfNxvLx#GOT7 #갓세븐 @G… |
+| RT @doublebeom: yeah sex is great but have u heard youngjae whistle?? |
 
-The most popular user is: **lc_bradley**
-<div class="alert alert-block alert-danger"> RT @nocontextmarveI: tony stark was always ahead of his time https://t.co/hR4LMQYSj8</div>
+The most popular user is: **Jessica69947857**
+<div class="alert alert-block alert-danger"> RT @GOT7Official: HAPPY BIRTHDAY Youngjae
+
+#OurSoulmateYoungjae https://t.co/iUdAuzgbwO</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **BobbyMarks42** |
-| #3 Most tweeted to  | **Tjonesonthenba** |
-| NewProfiles (less than 10 days) | 1.31%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **GOT7Official** |
+| #2 Most tweeted to  | **GOTYJ_Ars_Vita** |
+| #3 Most tweeted to  | **fanatic_got7_** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 5.14%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **lc_bradley**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TONY**  |
-| second  | **BRADLEY**  |
-| third  | **PISTONS** |
-| fourth  | **@WOJESPN:**  |
-| fifth  | **C**  |
+| first  | **YOUNGJAE**  |
+| second  | **GOT7**  |
+| third  | **GOT7_BREATHRELEASE** |
+| fourth  | **@GOT7OFFICIAL**  |
+| fifth  | **BREATH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Tjonesonthenba: Tony Bradley gonna be running the point in Detroit |
+|RT @doublebeom: THIS PART RIGHT HERE SCREAMS YOUNGJAE WORLD DOMINATION OH MY GOD.#GOT7_BreathRelease #믿듣아르스_Breath_6시선공개 #GOT7  @GOT7Of… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lc_bradley**  |
+| The most retweeted user is: **Jessica69947857**  |
 | ------------- |
-| RT @nocontextmarveI: tony stark was always ahead of his time https://t.co/hR4LMQYSj8 |
+| RT @GOT7Official: HAPPY BIRTHDAY Youngjae#OurSoulmateYoungjae https://t.co/iUdAuzgbwO |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
