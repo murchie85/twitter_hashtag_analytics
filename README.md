@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "youngjae"**
+&#x1F34E; **TOPIC = "joon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @markbeomnyoung: Youngjae saw the charts 😭😭😭😭💚💚💚💚💚💚#GOT7 #갓세븐 @GOT7Official #GOT7_BreathofLove_LastPiece #GOT7_Breath #GOT7_LastPiece… |
-| RT @got7forthewin: #GOT7_Breath is Trending 1st Worldwide and YOUNGJAE is Trending 7th 🔥🔥MV link : https://t.co/zhEjfNxvLx#GOT7 #갓세븐 @G… |
-| RT @doublebeom: yeah sex is great but have u heard youngjae whistle?? |
+| RT @rmarchives: thinking about how joon has a bangtan pic in his studio 🥺 https://t.co/bfvmL6K4ke |
+| my brain is so sexy like joon's |
+| RT @Taesfavorite_: PAUSE THE MUSIC... WE GETTING THIS JOON AGAIN ??? https://t.co/N4nLNKpicD |
 
-The most popular user is: **Jessica69947857**
-<div class="alert alert-block alert-danger"> RT @GOT7Official: HAPPY BIRTHDAY Youngjae
-
-#OurSoulmateYoungjae https://t.co/iUdAuzgbwO</div>
+The most popular user is: **Noem_Joon**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: teamwork makes the dream work.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GOT7Official** |
-| #2 Most tweeted to  | **GOTYJ_Ars_Vita** |
-| #3 Most tweeted to  | **fanatic_got7_** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 5.14%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **ggukreum** |
+| #2 Most tweeted to  | **rmarchives** |
+| #3 Most tweeted to  | **agirlinthepark** |
+| NewProfiles (less than 10 days) | 0.97%  |
+| Tweeters with < 10 followers  | 7.09%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **Jessica69947857**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YOUNGJAE**  |
-| second  | **GOT7**  |
-| third  | **GOT7_BREATHRELEASE** |
-| fourth  | **@GOT7OFFICIAL**  |
-| fifth  | **BREATH**  |
+| first  | **U**  |
+| second  | **PHONE**  |
+| third  | **"JOONS"** |
+| fourth  | **@GGUKREUM:**  |
+| fifth  | **R**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @doublebeom: THIS PART RIGHT HERE SCREAMS YOUNGJAE WORLD DOMINATION OH MY GOD.#GOT7_BreathRelease #믿듣아르스_Breath_6시선공개 #GOT7  @GOT7Of… |
+|RT @rmarchives: thinking about how joon has a bangtan pic in his studio 🥺 https://t.co/bfvmL6K4ke |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jessica69947857**  |
+| The most retweeted user is: **Noem_Joon**  |
 | ------------- |
-| RT @GOT7Official: HAPPY BIRTHDAY Youngjae#OurSoulmateYoungjae https://t.co/iUdAuzgbwO |
+| RT @BTS_twt: teamwork makes the dream work. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
