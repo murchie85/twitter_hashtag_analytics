@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "joon"**
+&#x1F34E; **TOPIC = "Barry Bonds"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @rmarchives: thinking about how joon has a bangtan pic in his studio 🥺 https://t.co/bfvmL6K4ke |
-| my brain is so sexy like joon's |
-| RT @Taesfavorite_: PAUSE THE MUSIC... WE GETTING THIS JOON AGAIN ??? https://t.co/N4nLNKpicD |
+| RT @KNBR: Barry Bonds was flipping bats before it was cool https://t.co/TmE95TYxQr |
+| RT @BaseballQuotes1: Eric Gagne vs Barry Bonds. Cy Young vs MVP. Power vs. power. Every one in the stadium was standing and cheering. One… |
+| This Barry Bonds guy is pretty good but if you take away the home runs.... |
 
-The most popular user is: **Noem_Joon**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: teamwork makes the dream work.</div>
+The most popular user is: **ConsumerLettuce**
+<div class="alert alert-block alert-danger"> RT @theaceofspaeder: Barry Bonds hit a Major League record 762 home runs.
+
+If all of his home runs were strikeouts, he would still have bot…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ggukreum** |
-| #2 Most tweeted to  | **rmarchives** |
-| #3 Most tweeted to  | **agirlinthepark** |
-| NewProfiles (less than 10 days) | 0.97%  |
-| Tweeters with < 10 followers  | 7.09%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **RobertStock6** |
+| #2 Most tweeted to  | **baseballshit** |
+| #3 Most tweeted to  | **theaceofspaeder** |
+| NewProfiles (less than 10 days) | 0.31%  |
+| Tweeters with < 10 followers  | 3.03%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Noem_Joon**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **U**  |
-| second  | **PHONE**  |
-| third  | **"JOONS"** |
-| fourth  | **@GGUKREUM:**  |
-| fifth  | **R**  |
+| first  | **BARRY**  |
+| second  | **BONDS**  |
+| third  | **HOF** |
+| fourth  | **VOTE**  |
+| fifth  | **HALL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @rmarchives: thinking about how joon has a bangtan pic in his studio 🥺 https://t.co/bfvmL6K4ke |
+|@baseballshit Barry Bonds are you kidding? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Noem_Joon**  |
+| The most retweeted user is: **ConsumerLettuce**  |
 | ------------- |
-| RT @BTS_twt: teamwork makes the dream work. |
+| RT @theaceofspaeder: Barry Bonds hit a Major League record 762 home runs.If all of his home runs were strikeouts, he would still have bot… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
