@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GoCoogs"**
+&#x1F34E; **TOPIC = "Rangers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @UHCougarMBK: You know what day it is!#ForTheCity x #GoCoogs https://t.co/DszwXhK4Ab |
-| Arms on display in the dub. 💪🚩 @12dravin13 - 3.0 IP, 1 H, 5 K, 0 BB🚩 @patrickdunn_ - 3.0 IP, 1 H, 2 K, 0 BB… https://t.co/fwU13DH3gH |
-| Nate Hinton to the @dallasmavs #GoCoogs |
+| Fuck me do you not just love this Rangers side 😍 |
+| Edouard, McGregor, Christie, Ajer, Barkas, Ajer, Ntcham, Ajati and others will all want away in January. If not Jan… https://t.co/VFZ0xjFwLK |
+| RT @thedonfuego: never forget when the Power Rangers saved Al Roker at the #MacysParade https://t.co/FgucAPXlbL |
 
-The most popular user is: **LloydAlexandra**
-<div class="alert alert-block alert-danger"> RT @Holgorsendana: We were ready and we will stay ready... #GoCoogs #%$@&amp;$ https://t.co/wAtINo1as9</div>
+The most popular user is: **8100_rangers**
+<div class="alert alert-block alert-danger"> RT @Zendaya: Part 1: Rue https://t.co/DZvGVZvBNz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **UHCougarMBK** |
-| #2 Most tweeted to  | **UHCougarBB** |
-| #3 Most tweeted to  | **UHCougarFB** |
-| NewProfiles (less than 10 days) | 0.07%  |
-| Tweeters with < 10 followers  | 1.06%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **RangersFC** |
+| #2 Most tweeted to  | **EuropaLeague** |
+| #3 Most tweeted to  | **SLBenfica** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LloydAlexandra**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GOCOOGS**  |
-| second  | **X**  |
-| third  | **@UHCOUGARMBK:** |
-| fourth  | **FORTHECITY**  |
-| fifth  | **HOUSTON**  |
+| first  | **RANGERS**  |
+| second  | **TEAM**  |
+| third  | **BENFICA** |
+| fourth  | **POWER**  |
+| fifth  | **@RANGERSFC:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UHCougarMBK: .@JustinG4_ wants you to tell everyone...Only 4 days until tipoff in Fertitta Center#ForTheCity x #GoCoogs https://t.c… |
+|RT @RangersFC: 🆕 Tonight's #RangersFC team to face @SLBenfica in the @EuropaLeague. #UEL👉 Full Team News: https://t.co/NC4had9d6D https:/… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LloydAlexandra**  |
+| The most retweeted user is: **8100_rangers**  |
 | ------------- |
-| RT @Holgorsendana: We were ready and we will stay ready... #GoCoogs #%$@&amp;$ https://t.co/wAtINo1as9 |
+| RT @Zendaya: Part 1: Rue https://t.co/DZvGVZvBNz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
