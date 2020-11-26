@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Barry Bonds"**
+&#x1F34E; **TOPIC = "#GoCoogs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KNBR: Barry Bonds was flipping bats before it was cool https://t.co/TmE95TYxQr |
-| RT @BaseballQuotes1: Eric Gagne vs Barry Bonds. Cy Young vs MVP. Power vs. power. Every one in the stadium was standing and cheering. One… |
-| This Barry Bonds guy is pretty good but if you take away the home runs.... |
+| RT @UHCougarMBK: You know what day it is!#ForTheCity x #GoCoogs https://t.co/DszwXhK4Ab |
+| Arms on display in the dub. 💪🚩 @12dravin13 - 3.0 IP, 1 H, 5 K, 0 BB🚩 @patrickdunn_ - 3.0 IP, 1 H, 2 K, 0 BB… https://t.co/fwU13DH3gH |
+| Nate Hinton to the @dallasmavs #GoCoogs |
 
-The most popular user is: **ConsumerLettuce**
-<div class="alert alert-block alert-danger"> RT @theaceofspaeder: Barry Bonds hit a Major League record 762 home runs.
-
-If all of his home runs were strikeouts, he would still have bot…</div>
+The most popular user is: **LloydAlexandra**
+<div class="alert alert-block alert-danger"> RT @Holgorsendana: We were ready and we will stay ready... #GoCoogs #%$@&amp;$ https://t.co/wAtINo1as9</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RobertStock6** |
-| #2 Most tweeted to  | **baseballshit** |
-| #3 Most tweeted to  | **theaceofspaeder** |
-| NewProfiles (less than 10 days) | 0.31%  |
-| Tweeters with < 10 followers  | 3.03%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **UHCougarMBK** |
+| #2 Most tweeted to  | **UHCougarBB** |
+| #3 Most tweeted to  | **UHCougarFB** |
+| NewProfiles (less than 10 days) | 0.07%  |
+| Tweeters with < 10 followers  | 1.06%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ If all of his home runs were strikeouts, he would still have bot…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BARRY**  |
-| second  | **BONDS**  |
-| third  | **HOF** |
-| fourth  | **VOTE**  |
-| fifth  | **HALL**  |
+| first  | **GOCOOGS**  |
+| second  | **X**  |
+| third  | **@UHCOUGARMBK:** |
+| fourth  | **FORTHECITY**  |
+| fifth  | **HOUSTON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@baseballshit Barry Bonds are you kidding? |
+|RT @UHCougarMBK: .@JustinG4_ wants you to tell everyone...Only 4 days until tipoff in Fertitta Center#ForTheCity x #GoCoogs https://t.c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ConsumerLettuce**  |
+| The most retweeted user is: **LloydAlexandra**  |
 | ------------- |
-| RT @theaceofspaeder: Barry Bonds hit a Major League record 762 home runs.If all of his home runs were strikeouts, he would still have bot… |
+| RT @Holgorsendana: We were ready and we will stay ready... #GoCoogs #%$@&amp;$ https://t.co/wAtINo1as9 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
