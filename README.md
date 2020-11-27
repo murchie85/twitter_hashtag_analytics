@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rangers"**
+&#x1F34E; **TOPIC = "cedar rapids"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Fuck me do you not just love this Rangers side 😍 |
-| Edouard, McGregor, Christie, Ajer, Barkas, Ajer, Ntcham, Ajati and others will all want away in January. If not Jan… https://t.co/VFZ0xjFwLK |
-| RT @thedonfuego: never forget when the Power Rangers saved Al Roker at the #MacysParade https://t.co/FgucAPXlbL |
+| @goIdenapples i think cedar rapids ?? pretty sure |
+| RT @cherryquackity: trump when he opened twitter to see cedar rapids trending because of a greasy gamer boy  https://t.co/io2szrboBH |
+| RT @izethetic: im just chilling in cedar rapids https://t.co/qGYo7yhaPo |
 
-The most popular user is: **8100_rangers**
-<div class="alert alert-block alert-danger"> RT @Zendaya: Part 1: Rue https://t.co/DZvGVZvBNz</div>
+The most popular user is: **joongfairie**
+<div class="alert alert-block alert-danger"> RT @Quackity: IM JUST CHILLIN, IN CEDAR RAPIDS!!!!!!!!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RangersFC** |
-| #2 Most tweeted to  | **EuropaLeague** |
-| #3 Most tweeted to  | **SLBenfica** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 2.8%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **Quackity** |
+| #2 Most tweeted to  | **realDonaldTrump** |
+| #3 Most tweeted to  | **FoxNews** |
+| NewProfiles (less than 10 days) | 3.14%  |
+| Tweeters with < 10 followers  | 14.75%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **8100_rangers**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RANGERS**  |
-| second  | **TEAM**  |
-| third  | **BENFICA** |
-| fourth  | **POWER**  |
-| fifth  | **@RANGERSFC:**  |
+| first  | **CEDAR**  |
+| second  | **RAPIDS**  |
+| third  | **QUACKITY** |
+| fourth  | **STREAMER**  |
+| fifth  | **PLAYING**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RangersFC: 🆕 Tonight's #RangersFC team to face @SLBenfica in the @EuropaLeague. #UEL👉 Full Team News: https://t.co/NC4had9d6D https:/… |
+|RT @quackt1tty: mcyt: we chillin in cedar rapids😁👍    O     /|\      / | \                    trump: youre fucking     / \… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **8100_rangers**  |
+| The most retweeted user is: **joongfairie**  |
 | ------------- |
-| RT @Zendaya: Part 1: Rue https://t.co/DZvGVZvBNz |
+| RT @Quackity: IM JUST CHILLIN, IN CEDAR RAPIDS!!!!!!!! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
