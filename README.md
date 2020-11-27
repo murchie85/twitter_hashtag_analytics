@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "cedar rapids"**
+&#x1F34E; **TOPIC = "Mike"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @goIdenapples i think cedar rapids ?? pretty sure |
-| RT @cherryquackity: trump when he opened twitter to see cedar rapids trending because of a greasy gamer boy  https://t.co/io2szrboBH |
-| RT @izethetic: im just chilling in cedar rapids https://t.co/qGYo7yhaPo |
+| @hawkeyegamefilm Unfortunately, the worst QB play Iowa has had probably going back to Christensen |
+| @madrid_mike If you can't see the con, you're the mark. |
+| @Iromg @KingsCollegeLon @SadiqKhan What, personally??! I didn’t know he was handy on the woodworking tools. I’ve go… https://t.co/xbqaWEccJQ |
 
-The most popular user is: **joongfairie**
-<div class="alert alert-block alert-danger"> RT @Quackity: IM JUST CHILLIN, IN CEDAR RAPIDS!!!!!!!!</div>
+The most popular user is: **Alpha_Mike_Xray**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Biden can only enter the White House as President if he can prove that his ridiculous “80,000,000 votes” were not frau…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Quackity** |
-| #2 Most tweeted to  | **realDonaldTrump** |
-| #3 Most tweeted to  | **FoxNews** |
-| NewProfiles (less than 10 days) | 3.14%  |
-| Tweeters with < 10 followers  | 14.75%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **mike_wanaoni** |
+| #3 Most tweeted to  | **Mike_Pence** |
+| NewProfiles (less than 10 days) | 1.16%  |
+| Tweeters with < 10 followers  | 9.16%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **joongfairie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CEDAR**  |
-| second  | **RAPIDS**  |
-| third  | **QUACKITY** |
-| fourth  | **STREAMER**  |
-| fifth  | **PLAYING**  |
+| first  | **MIKE**  |
+| second  | **@REALDONALDTRUMP**  |
+| third  | **@MIKE_WANAONI** |
+| fourth  | **TYSON**  |
+| fifth  | **JONES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @quackt1tty: mcyt: we chillin in cedar rapids😁👍    O     /|\      / | \                    trump: youre fucking     / \… |
+|@realkatiejow @RashidaTlaib She obviously cares about the country more than you do |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joongfairie**  |
+| The most retweeted user is: **Alpha_Mike_Xray**  |
 | ------------- |
-| RT @Quackity: IM JUST CHILLIN, IN CEDAR RAPIDS!!!!!!!! |
+| RT @realDonaldTrump: Biden can only enter the White House as President if he can prove that his ridiculous “80,000,000 votes” were not frau… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
