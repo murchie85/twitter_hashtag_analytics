@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mike"**
+&#x1F34E; **TOPIC = "Alan Griffin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @hawkeyegamefilm Unfortunately, the worst QB play Iowa has had probably going back to Christensen |
-| @madrid_mike If you can't see the con, you're the mark. |
-| @Iromg @KingsCollegeLon @SadiqKhan What, personally??! I didn’t know he was handy on the woodworking tools. I’ve go… https://t.co/xbqaWEccJQ |
+| Alan Griffin with one of the meanest slams you will ever see off a Joe Girard lob! #Cuse ties it up at 80 with three to go. |
+| Alan Griffin checks in for Guerrier who just hit a FT. |
+| I’m certainly biased but the backcourt trio of Joe Girard-Buddy Boeheim-Alan Griffin has the potential to be the be… https://t.co/A59f1rt9YX |
 
-The most popular user is: **Alpha_Mike_Xray**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Biden can only enter the White House as President if he can prove that his ridiculous “80,000,000 votes” were not frau…</div>
+The most popular user is: **cpmaguire1**
+<div class="alert alert-block alert-danger"> RT @arouxBTN: Adam Miller making that Alan Griffin departure for Illinois sting a whole lot less in a hurry</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **mike_wanaoni** |
-| #3 Most tweeted to  | **Mike_Pence** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 9.16%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **KDJmedia1** |
+| #2 Most tweeted to  | **arouxBTN** |
+| #3 Most tweeted to  | **lohudinsider** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 1.68%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Alpha_Mike_Xray**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MIKE**  |
-| second  | **@REALDONALDTRUMP**  |
-| third  | **@MIKE_WANAONI** |
-| fourth  | **TYSON**  |
-| fifth  | **JONES**  |
+| first  | **GRIFFIN**  |
+| second  | **ALAN**  |
+| third  | **SYRACUSE** |
+| fourth  | **NBA**  |
+| fifth  | **OBI**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@realkatiejow @RashidaTlaib She obviously cares about the country more than you do |
+|RT @MikeWatersSYR: Syracuse's starting lineup: Joe Girard, Buddy Boeheim, Alan Griffin, Marek Dolezaj and Bourama Sidibe. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Alpha_Mike_Xray**  |
+| The most retweeted user is: **cpmaguire1**  |
 | ------------- |
-| RT @realDonaldTrump: Biden can only enter the White House as President if he can prove that his ridiculous “80,000,000 votes” were not frau… |
+| RT @arouxBTN: Adam Miller making that Alan Griffin departure for Illinois sting a whole lot less in a hurry |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
