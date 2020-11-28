@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Alan Griffin"**
+&#x1F34E; **TOPIC = "carragher"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Alan Griffin with one of the meanest slams you will ever see off a Joe Girard lob! #Cuse ties it up at 80 with three to go. |
-| Alan Griffin checks in for Guerrier who just hit a FT. |
-| I’m certainly biased but the backcourt trio of Joe Girard-Buddy Boeheim-Alan Griffin has the potential to be the be… https://t.co/A59f1rt9YX |
+| Jamie Carragher on Richarlison: “I’ve never seen a player go down as much in all my life, honestly.”#EVELEE https://t.co/Jr7Dm7u728 |
+| RT @TheSportsman: 💥 GIVEAWAY KLAXON 💥To win this signed copy of Jamie Carragher’s brilliant new book simply:• RT this post• Follow @Th… |
+| Apart from Jamie Carragher full blown coming in his pants when Liverpool score he’s not actually that biased is he 🤥 |
 
-The most popular user is: **cpmaguire1**
-<div class="alert alert-block alert-danger"> RT @arouxBTN: Adam Miller making that Alan Griffin departure for Illinois sting a whole lot less in a hurry</div>
+The most popular user is: **Ed_Carragher**
+<div class="alert alert-block alert-danger"> RT @EdwardNorton: I’m no political pundit but I grew up w a dad who was a federal prosecutor &amp; he taught me a lot &amp; I’ve also sat a fair am…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KDJmedia1** |
-| #2 Most tweeted to  | **arouxBTN** |
-| #3 Most tweeted to  | **lohudinsider** |
+| #1 Most tweeted to  | **AnfieldWatch** |
+| #2 Most tweeted to  | **Carra23** |
+| #3 Most tweeted to  | **daire_carragher** |
 | NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 1.68%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| Tweeters with < 10 followers  | 2.38%|
+| Tweeters with > 1000000 followers  | 0.25%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **cpmaguire1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GRIFFIN**  |
-| second  | **ALAN**  |
-| third  | **SYRACUSE** |
-| fourth  | **NBA**  |
-| fifth  | **OBI**  |
+| first  | **CARRAGHER**  |
+| second  | **JAMIE**  |
+| third  | **CARRAGHER:** |
+| fourth  | **@ANFIELDWATCH:**  |
+| fifth  | **•**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MikeWatersSYR: Syracuse's starting lineup: Joe Girard, Buddy Boeheim, Alan Griffin, Marek Dolezaj and Bourama Sidibe. |
+|@UnderagePackers @daire_carragher Thank you so much!!! Appreciate the love!!! 🧀🧀 Go Pack Go! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cpmaguire1**  |
+| The most retweeted user is: **Ed_Carragher**  |
 | ------------- |
-| RT @arouxBTN: Adam Miller making that Alan Griffin departure for Illinois sting a whole lot less in a hurry |
+| RT @EdwardNorton: I’m no political pundit but I grew up w a dad who was a federal prosecutor &amp; he taught me a lot &amp; I’ve also sat a fair am… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
