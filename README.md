@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Broncos"**
+&#x1F34E; **TOPIC = "Auba"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @AllbrightNFL @AdamSchefter If they helped the ravens so much, a team that potentially brought it on themselves, wh… https://t.co/a5VxOMPjt9 |
-| RT @NOTSportsCenter: Live look at Tim Tebow warming up the throwing arm in case he gets a call from the Broncos https://t.co/2mONLlmRPY |
-| .@Broncos Call me, I'm ready https://t.co/EE3rAgJhdm |
+| @itisdavidashley @prince_seyram1 I don’t think so. Auba is a guy who thrives when he’s given proper service. So far… https://t.co/EdGxgK7yAg |
+| It’s kinda obvious that Auba doesn’t care anymore |
+| Auba is so unconvincing |
 
-The most popular user is: **V_Broncos**
-<div class="alert alert-block alert-danger"> RT @jerryjeudy: Guess ima have to get my Lamar Jackson on</div>
+The most popular user is: **no_nonsens_auba**
+<div class="alert alert-block alert-danger"> RT @F1: The best video we've seen today? 
+
+THIS 🙂 👊
+
+#BahrainGP 🇧🇭 #F1 @RGrosjean https://t.co/TbGblznMBv</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **Broncos** |
-| #3 Most tweeted to  | **RapSheet** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 2.16%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **Arsenal** |
+| #2 Most tweeted to  | **GreaIishhh** |
+| #3 Most tweeted to  | **AFTVMedia** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.33%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **V_Broncos**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRONCOS**  |
-| second  | **QB**  |
-| third  | **PLAY** |
-| fourth  | **@ADAMSCHEFTER:**  |
-| fifth  | **TOMORROW**  |
+| first  | **AUBA**  |
+| second  | **THAN**  |
+| third  | **GOALS** |
+| fourth  | **PLAY**  |
+| fifth  | **ARSENAL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AdamSchefter: The most 2020 scene of all: Denver's QBs were deemed high-risk, close contacts because they were not wearing their masks.… |
+|Wtf is wrong with auba, what was that!?!? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **V_Broncos**  |
+| The most retweeted user is: **no_nonsens_auba**  |
 | ------------- |
-| RT @jerryjeudy: Guess ima have to get my Lamar Jackson on |
+| RT @F1: The best video we've seen today? THIS 🙂 👊#BahrainGP 🇧🇭 #F1 @RGrosjean https://t.co/TbGblznMBv |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
