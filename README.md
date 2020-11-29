@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "carragher"**
+&#x1F34E; **TOPIC = "Broncos"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Jamie Carragher on Richarlison: “I’ve never seen a player go down as much in all my life, honestly.”#EVELEE https://t.co/Jr7Dm7u728 |
-| RT @TheSportsman: 💥 GIVEAWAY KLAXON 💥To win this signed copy of Jamie Carragher’s brilliant new book simply:• RT this post• Follow @Th… |
-| Apart from Jamie Carragher full blown coming in his pants when Liverpool score he’s not actually that biased is he 🤥 |
+| @AllbrightNFL @AdamSchefter If they helped the ravens so much, a team that potentially brought it on themselves, wh… https://t.co/a5VxOMPjt9 |
+| RT @NOTSportsCenter: Live look at Tim Tebow warming up the throwing arm in case he gets a call from the Broncos https://t.co/2mONLlmRPY |
+| .@Broncos Call me, I'm ready https://t.co/EE3rAgJhdm |
 
-The most popular user is: **Ed_Carragher**
-<div class="alert alert-block alert-danger"> RT @EdwardNorton: I’m no political pundit but I grew up w a dad who was a federal prosecutor &amp; he taught me a lot &amp; I’ve also sat a fair am…</div>
+The most popular user is: **V_Broncos**
+<div class="alert alert-block alert-danger"> RT @jerryjeudy: Guess ima have to get my Lamar Jackson on</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AnfieldWatch** |
-| #2 Most tweeted to  | **Carra23** |
-| #3 Most tweeted to  | **daire_carragher** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.25%  |
+| #1 Most tweeted to  | **AdamSchefter** |
+| #2 Most tweeted to  | **Broncos** |
+| #3 Most tweeted to  | **RapSheet** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 2.16%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Ed_Carragher**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CARRAGHER**  |
-| second  | **JAMIE**  |
-| third  | **CARRAGHER:** |
-| fourth  | **@ANFIELDWATCH:**  |
-| fifth  | **•**  |
+| first  | **BRONCOS**  |
+| second  | **QB**  |
+| third  | **PLAY** |
+| fourth  | **@ADAMSCHEFTER:**  |
+| fifth  | **TOMORROW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@UnderagePackers @daire_carragher Thank you so much!!! Appreciate the love!!! 🧀🧀 Go Pack Go! |
+|RT @AdamSchefter: The most 2020 scene of all: Denver's QBs were deemed high-risk, close contacts because they were not wearing their masks.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Ed_Carragher**  |
+| The most retweeted user is: **V_Broncos**  |
 | ------------- |
-| RT @EdwardNorton: I’m no political pundit but I grew up w a dad who was a federal prosecutor &amp; he taught me a lot &amp; I’ve also sat a fair am… |
+| RT @jerryjeudy: Guess ima have to get my Lamar Jackson on |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
