@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Auba"**
+&#x1F34E; **TOPIC = "Ozil"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @itisdavidashley @prince_seyram1 I don’t think so. Auba is a guy who thrives when he’s given proper service. So far… https://t.co/EdGxgK7yAg |
-| It’s kinda obvious that Auba doesn’t care anymore |
-| Auba is so unconvincing |
+| RT @ElTobeski: "We don't have space for Ozil" https://t.co/WL5brOfXpX |
+| RT @PoojaMedia: Arsenal lose against Spurs (which is sure), they will go 16th. And they will start fighting the relegation battle. Unti… |
+| If you are gonna suck this bad just play ozil and saliba @Arsenal |
 
-The most popular user is: **no_nonsens_auba**
-<div class="alert alert-block alert-danger"> RT @F1: The best video we've seen today? 
-
-THIS 🙂 👊
-
-#BahrainGP 🇧🇭 #F1 @RGrosjean https://t.co/TbGblznMBv</div>
+The most popular user is: **muhamed_ozil**
+<div class="alert alert-block alert-danger"> RT @Nicocantor1: The raw emotion of Dalma Maradona, Diego’s daughter, upon receiving an ovation from Boca Juniors after scoring the game’s…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
 | #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **GreaIishhh** |
-| #3 Most tweeted to  | **AFTVMedia** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.33%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #2 Most tweeted to  | **biolakazeem** |
+| #3 Most tweeted to  | **kennagq** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 3.67%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -43,28 +39,28 @@ THIS 🙂 👊
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AUBA**  |
-| second  | **THAN**  |
-| third  | **GOALS** |
-| fourth  | **PLAY**  |
-| fifth  | **ARSENAL**  |
+| first  | **OZIL**  |
+| second  | **ARSENAL**  |
+| third  | **ARTETA** |
+| fourth  | **TEAM**  |
+| fifth  | **MESUT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Wtf is wrong with auba, what was that!?!? |
+|@Amediong You know my thoughts on Ozil. Better than all those midfielders but the problems are more than him in the line up right now. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **no_nonsens_auba**  |
+| The most retweeted user is: **muhamed_ozil**  |
 | ------------- |
-| RT @F1: The best video we've seen today? THIS 🙂 👊#BahrainGP 🇧🇭 #F1 @RGrosjean https://t.co/TbGblznMBv |
+| RT @Nicocantor1: The raw emotion of Dalma Maradona, Diego’s daughter, upon receiving an ovation from Boca Juniors after scoring the game’s… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
