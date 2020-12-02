@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ozil"**
+&#x1F34E; **TOPIC = "Cavani"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ElTobeski: "We don't have space for Ozil" https://t.co/WL5brOfXpX |
-| RT @PoojaMedia: Arsenal lose against Spurs (which is sure), they will go 16th. And they will start fighting the relegation battle. Unti… |
-| If you are gonna suck this bad just play ozil and saliba @Arsenal |
+| Martial and Cavani hooked |
+| Cavani wants to bury Paris 😂😭 |
+| @inside7__ Rashford told him to feed Cavani ffs |
 
-The most popular user is: **muhamed_ozil**
-<div class="alert alert-block alert-danger"> RT @Nicocantor1: The raw emotion of Dalma Maradona, Diego’s daughter, upon receiving an ovation from Boca Juniors after scoring the game’s…</div>
+The most popular user is: **joaopereira_76**
+<div class="alert alert-block alert-danger"> RT @FernandesThings: After Cavani scored the second goal, all of the players went to celebrate only Bruno Fernandes who doesn't celebrate w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **biolakazeem** |
-| #3 Most tweeted to  | **kennagq** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 3.67%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **utdreport** |
+| #2 Most tweeted to  | **ManUnitedZone_** |
+| #3 Most tweeted to  | **ManUtd** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **muhamed_ozil**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OZIL**  |
-| second  | **ARSENAL**  |
-| third  | **ARTETA** |
-| fourth  | **TEAM**  |
-| fifth  | **MESUT**  |
+| first  | **CAVANI**  |
+| second  | **MARTIAL**  |
+| third  | **OFF** |
+| fourth  | **GOAL**  |
+| fifth  | **RASHFORD**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Amediong You know my thoughts on Ozil. Better than all those midfielders but the problems are more than him in the line up right now. |
+|RT @TheUnitedLink: CAVANI MAN WHAT AN ATTEMPT |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **muhamed_ozil**  |
+| The most retweeted user is: **joaopereira_76**  |
 | ------------- |
-| RT @Nicocantor1: The raw emotion of Dalma Maradona, Diego’s daughter, upon receiving an ovation from Boca Juniors after scoring the game’s… |
+| RT @FernandesThings: After Cavani scored the second goal, all of the players went to celebrate only Bruno Fernandes who doesn't celebrate w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
