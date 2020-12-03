@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Cavani"**
+&#x1F34E; **TOPIC = "McFarland"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Martial and Cavani hooked |
-| Cavani wants to bury Paris 😂😭 |
-| @inside7__ Rashford told him to feed Cavani ffs |
+| SADOW: Jack McFarland And Gas Tax, Shelly McFarland And BESE https://t.co/rb18sl0asD |
+| KT McFarland: Trump pardon of Flynn ends unjust prosecution of an innocent man https://t.co/2LWm1ibHOc #FoxNews |
+| As Trump might say, “Lots of people, many people, are telling me bigly” that Billy McFarland, genius convict behind… https://t.co/4CRw40O6Nr |
 
-The most popular user is: **joaopereira_76**
-<div class="alert alert-block alert-danger"> RT @FernandesThings: After Cavani scored the second goal, all of the players went to celebrate only Bruno Fernandes who doesn't celebrate w…</div>
+The most popular user is: **cali_mcfarland**
+<div class="alert alert-block alert-danger"> RT @Harry_Styles: Bring back manly men. https://t.co/Y3XqXX4qaY</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **utdreport** |
-| #2 Most tweeted to  | **ManUnitedZone_** |
-| #3 Most tweeted to  | **ManUtd** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 2.88%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **newsmax** |
+| #2 Most tweeted to  | **GenFlynn** |
+| #3 Most tweeted to  | **realDonaldTrump** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 4.87%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **joaopereira_76**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CAVANI**  |
-| second  | **MARTIAL**  |
-| third  | **OFF** |
-| fourth  | **GOAL**  |
-| fifth  | **RASHFORD**  |
+| first  | **MCFARLAND**  |
+| second  | **FLYNN**  |
+| third  | **KT** |
+| fourth  | **FIRST**  |
+| fifth  | **NEVER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheUnitedLink: CAVANI MAN WHAT AN ATTEMPT |
+|RT @Franklin_Graham: This week @POTUS @realDonaldTrump pardoned former National Security Advisor and Retired Lt. @GenFlynn, a man who has a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joaopereira_76**  |
+| The most retweeted user is: **cali_mcfarland**  |
 | ------------- |
-| RT @FernandesThings: After Cavani scored the second goal, all of the players went to celebrate only Bruno Fernandes who doesn't celebrate w… |
+| RT @Harry_Styles: Bring back manly men. https://t.co/Y3XqXX4qaY |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
