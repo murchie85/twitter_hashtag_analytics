@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "McFarland"**
+&#x1F34E; **TOPIC = "noah cyrus"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| SADOW: Jack McFarland And Gas Tax, Shelly McFarland And BESE https://t.co/rb18sl0asD |
-| KT McFarland: Trump pardon of Flynn ends unjust prosecution of an innocent man https://t.co/2LWm1ibHOc #FoxNews |
-| As Trump might say, “Lots of people, many people, are telling me bigly” that Billy McFarland, genius convict behind… https://t.co/4CRw40O6Nr |
+| RT @WrittenByHanna: Noah Cyrus went full Don Imus on a Thursday afternoon |
+| noah cyrus got sum explaining to do... https://t.co/BqQypu4lmh |
+| RT @PopCrave: Noah Cyrus reacts to being nominated for ‘Best New Artist’ at the 2021 #GRAMMYs. https://t.co/clHbx0bjW5 |
 
-The most popular user is: **cali_mcfarland**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: Bring back manly men. https://t.co/Y3XqXX4qaY</div>
+The most popular user is: **offtheetabIe**
+<div class="alert alert-block alert-danger"> RT @girrl_fieri: Lil Xan breaking up with Noah Cyrus bc of a Charlie Puth meme is 2018 at its peak https://t.co/cjqChvoiks</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **newsmax** |
-| #2 Most tweeted to  | **GenFlynn** |
-| #3 Most tweeted to  | **realDonaldTrump** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 4.87%|
+| #1 Most tweeted to  | **PopCrave** |
+| #2 Most tweeted to  | **storybyIeo** |
+| #3 Most tweeted to  | **mimisreign** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 2.75%|
 | Tweeters with > 1000000 followers  | 0.03%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **cali_mcfarland**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MCFARLAND**  |
-| second  | **FLYNN**  |
-| third  | **KT** |
-| fourth  | **FIRST**  |
-| fifth  | **NEVER**  |
+| first  | **NOAH**  |
+| second  | **CYRUS**  |
+| third  | **NEW** |
+| fourth  | **NOMINATED**  |
+| fifth  | **US**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Franklin_Graham: This week @POTUS @realDonaldTrump pardoned former National Security Advisor and Retired Lt. @GenFlynn, a man who has a… |
+|That square ass head that Noah Cyrus got is empty as shit. She really called us nappyheaded monkeys and just got away scott-free. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cali_mcfarland**  |
+| The most retweeted user is: **offtheetabIe**  |
 | ------------- |
-| RT @Harry_Styles: Bring back manly men. https://t.co/Y3XqXX4qaY |
+| RT @girrl_fieri: Lil Xan breaking up with Noah Cyrus bc of a Charlie Puth meme is 2018 at its peak https://t.co/cjqChvoiks |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
