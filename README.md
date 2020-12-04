@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "noah cyrus"**
+&#x1F34E; **TOPIC = "#IvankaForPrison"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WrittenByHanna: Noah Cyrus went full Don Imus on a Thursday afternoon |
-| noah cyrus got sum explaining to do... https://t.co/BqQypu4lmh |
-| RT @PopCrave: Noah Cyrus reacts to being nominated for ‘Best New Artist’ at the 2021 #GRAMMYs. https://t.co/clHbx0bjW5 |
+| RT @LesbeAnne: Thinking about Ivanka Trump eating Goya beans off a plastic tray in prison#LockHerUp #IvankaForPrison  https://t.co/Qp0Eo2… |
+| RT @tomiahonen: CHRISTIE: Donald, if you pardon your kids, they will be forced to testify against you. And they will. You've trained them t… |
+| RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
 
-The most popular user is: **offtheetabIe**
-<div class="alert alert-block alert-danger"> RT @girrl_fieri: Lil Xan breaking up with Noah Cyrus bc of a Charlie Puth meme is 2018 at its peak https://t.co/cjqChvoiks</div>
+The most popular user is: **KathiInCali**
+<div class="alert alert-block alert-danger"> RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PopCrave** |
-| #2 Most tweeted to  | **storybyIeo** |
-| #3 Most tweeted to  | **mimisreign** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 2.75%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **MeidasTouch** |
+| #2 Most tweeted to  | **IvankaTrump** |
+| #3 Most tweeted to  | **tomiahonen** |
+| NewProfiles (less than 10 days) | 0.77%  |
+| Tweeters with < 10 followers  | 4.96%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **offtheetabIe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NOAH**  |
-| second  | **CYRUS**  |
-| third  | **NEW** |
-| fourth  | **NOMINATED**  |
-| fifth  | **US**  |
+| first  | **IVANKAFORPRISON**  |
+| second  | **HEAR**  |
+| third  | **TRENDING** |
+| fourth  | **@MEIDASTOUCH:**  |
+| fifth  | **HTTPS://TCO/KHLQ4OUZFYRT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|That square ass head that Noah Cyrus got is empty as shit. She really called us nappyheaded monkeys and just got away scott-free. |
+|RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **offtheetabIe**  |
+| The most retweeted user is: **KathiInCali**  |
 | ------------- |
-| RT @girrl_fieri: Lil Xan breaking up with Noah Cyrus bc of a Charlie Puth meme is 2018 at its peak https://t.co/cjqChvoiks |
+| RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
