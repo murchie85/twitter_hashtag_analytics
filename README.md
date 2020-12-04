@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#IvankaForPrison"**
+&#x1F34E; **TOPIC = "Tubbo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LesbeAnne: Thinking about Ivanka Trump eating Goya beans off a plastic tray in prison#LockHerUp #IvankaForPrison  https://t.co/Qp0Eo2… |
-| RT @tomiahonen: CHRISTIE: Donald, if you pardon your kids, they will be forced to testify against you. And they will. You've trained them t… |
-| RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
+| RT @SCREW4VE: Apparently, Minecraft streamer Tubbo has exiled TommyInnit from the Dream SMP |
+| RT @SW3ETB3RRIES: #QUACKITY: we were a nation. tubbo, we were a nation! peace is not an option tubbo. we are a nation. wait until word gets… |
+| THE PEOPLE WHO ARE LIKE WHAT IS TUBBO DOING?!?! he is doing the right and only thing for lmanburg. the disc has no… https://t.co/OXeZnjyNwN |
 
-The most popular user is: **KathiInCali**
-<div class="alert alert-block alert-danger"> RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY</div>
+The most popular user is: **eminnitwastaken**
+<div class="alert alert-block alert-danger"> RT @tommyinnit: tubbo is actually my only friend out there</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MeidasTouch** |
-| #2 Most tweeted to  | **IvankaTrump** |
-| #3 Most tweeted to  | **tomiahonen** |
-| NewProfiles (less than 10 days) | 0.77%  |
-| Tweeters with < 10 followers  | 4.96%|
+| #1 Most tweeted to  | **ohgogy** |
+| #2 Most tweeted to  | **honkcaitlin** |
+| #3 Most tweeted to  | **ggneedshelp** |
+| NewProfiles (less than 10 days) | 2.65%  |
+| Tweeters with < 10 followers  | 8.77%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **KathiInCali**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **IVANKAFORPRISON**  |
-| second  | **HEAR**  |
-| third  | **TRENDING** |
-| fourth  | **@MEIDASTOUCH:**  |
-| fifth  | **HTTPS://TCO/KHLQ4OUZFYRT**  |
+| first  | **TUBBO**  |
+| second  | **TOMMY**  |
+| third  | **SCHLATT** |
+| fourth  | **DREAM**  |
+| fifth  | **EXILED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
+|RT @ohgogy: schlatt revoking tommy vs tubbo exiling tommy :( https://t.co/SjOC822PKJ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KathiInCali**  |
+| The most retweeted user is: **eminnitwastaken**  |
 | ------------- |
-| RT @MeidasTouch: We hear #IvankaForPrison is trending https://t.co/KHLq4OuzFY |
+| RT @tommyinnit: tubbo is actually my only friend out there |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
