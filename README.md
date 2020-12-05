@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Verzuz"**
+&#x1F34E; **TOPIC = "Akron"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @iamcardib: Warning to all you mans out there (including mine) be nice the day of the Ashanti VS Keyshia Verzuz battle.Its going to be a… |
-| RT @AsiaChloeBrown: Folks are going for Ashanti, but Keyshia ain't no one-hit wonder. 🤨 She could do half the Verzuz without leaving her fi… |
-| An Ashanti/Keyshia Cole verzuz going to be a collective 8 hits and 6 of those from Ashanti |
+| @KarahLovesDiz Thank you! |
+| RT @BleacherReport: LeBron will have earned $435M in his career after the extension through 2022-23 is done 💰Just a kid from Akron.(via… |
+| Today the leaf crew is picking up Willow, O’Brien, Independence, Continental, McIntosh, Briarwood and Akron. The cr… https://t.co/elPvkyEryL |
 
-The most popular user is: **T_Johnso**
-<div class="alert alert-block alert-danger"> RT @LadiesLuvLexx: Nah this a verzuz match I wanna see fasho https://t.co/f4Upum4dw0</div>
+The most popular user is: **Stuck_in_Akron**
+<div class="alert alert-block alert-danger"> RT @mxwxzz: Phineas and Ferb would have made the vaccine by now</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **iamcardib** |
-| #2 Most tweeted to  | **revolttv** |
-| #3 Most tweeted to  | **verzuzonline** |
-| NewProfiles (less than 10 days) | 0.25%  |
-| Tweeters with < 10 followers  | 0.88%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **Akron_Ohio_Kid** |
+| #3 Most tweeted to  | **AllAboutDaTea** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 2.14%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **T_Johnso**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VERZUZ**  |
-| second  | **ASHANTI**  |
-| third  | **KEYSHIA** |
-| fourth  | **COLE**  |
-| fifth  | **GOING**  |
+| first  | **AKRON**  |
+| second  | **AFTER**  |
+| third  | **KID** |
+| fourth  | **LEBRON**  |
+| fifth  | **DONE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BillsAhmed_: When Ashanti plays a J-Lo song in the #Verzuz battle because it’s actually her on the vocals and wins the round https://t.… |
+|RT @BleacherReport: LeBron will have earned $435M in his career after the extension through 2022-23 is done 💰Just a kid from Akron.(via… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **T_Johnso**  |
+| The most retweeted user is: **Stuck_in_Akron**  |
 | ------------- |
-| RT @LadiesLuvLexx: Nah this a verzuz match I wanna see fasho https://t.co/f4Upum4dw0 |
+| RT @mxwxzz: Phineas and Ferb would have made the vaccine by now |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
