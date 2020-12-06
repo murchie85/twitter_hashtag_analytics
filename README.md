@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Akron"**
+&#x1F34E; **TOPIC = "Squiggy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @KarahLovesDiz Thank you! |
-| RT @BleacherReport: LeBron will have earned $435M in his career after the extension through 2022-23 is done 💰Just a kid from Akron.(via… |
-| Today the leaf crew is picking up Willow, O’Brien, Independence, Continental, McIntosh, Briarwood and Akron. The cr… https://t.co/elPvkyEryL |
+| RT @LeynaNguyenTV: Actor David Lander, best known as Squiggy from “Laverne &amp; Shirley,” died Friday. He was 73.Lander died of multiple scle… |
+| RT @evanshumeyko: @MJMcKean My deepest sympathies. You both brought our family joy and laughs when I was growing up. Loved when Lenny and S… |
+| RT @LeynaNguyenTV: Actor David Lander, best known as Squiggy from “Laverne &amp; Shirley,” died Friday. He was 73.Lander died of multiple scle… |
 
-The most popular user is: **Stuck_in_Akron**
-<div class="alert alert-block alert-danger"> RT @mxwxzz: Phineas and Ferb would have made the vaccine by now</div>
+The most popular user is: **FelineLover1234**
+<div class="alert alert-block alert-danger"> RT @Variety: David Lander, best known as Squiggy on the ABC sitcom “Laverne &amp; Shirley,” died Friday evening at the age of 73 https://t.co/u…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **Akron_Ohio_Kid** |
-| #3 Most tweeted to  | **AllAboutDaTea** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 2.14%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Variety** |
+| #2 Most tweeted to  | **LeynaNguyenTV** |
+| #3 Most tweeted to  | **HelenKennedy** |
+| NewProfiles (less than 10 days) | 0.17%  |
+| Tweeters with < 10 followers  | 1.91%|
+| Tweeters with > 1000000 followers  | 0.15%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Stuck_in_Akron**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AKRON**  |
-| second  | **AFTER**  |
-| third  | **KID** |
-| fourth  | **LEBRON**  |
-| fifth  | **DONE**  |
+| first  | **LANDER**  |
+| second  | **SQUIGGY**  |
+| third  | **DAVID** |
+| fourth  | **DIED**  |
+| fifth  | **73**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BleacherReport: LeBron will have earned $435M in his career after the extension through 2022-23 is done 💰Just a kid from Akron.(via… |
+|RT @HelenKennedy: RIP David Lander Lenny and Squiggy made me laugh so much as a kid https://t.co/hSblb9hrY1 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Stuck_in_Akron**  |
+| The most retweeted user is: **FelineLover1234**  |
 | ------------- |
-| RT @mxwxzz: Phineas and Ferb would have made the vaccine by now |
+| RT @Variety: David Lander, best known as Squiggy on the ABC sitcom “Laverne &amp; Shirley,” died Friday evening at the age of 73 https://t.co/u… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
