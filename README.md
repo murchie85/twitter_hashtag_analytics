@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Squiggy"**
+&#x1F34E; **TOPIC = "emma stone"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LeynaNguyenTV: Actor David Lander, best known as Squiggy from “Laverne &amp; Shirley,” died Friday. He was 73.Lander died of multiple scle… |
-| RT @evanshumeyko: @MJMcKean My deepest sympathies. You both brought our family joy and laughs when I was growing up. Loved when Lenny and S… |
-| RT @LeynaNguyenTV: Actor David Lander, best known as Squiggy from “Laverne &amp; Shirley,” died Friday. He was 73.Lander died of multiple scle… |
+| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
+| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
+| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
 
-The most popular user is: **FelineLover1234**
-<div class="alert alert-block alert-danger"> RT @Variety: David Lander, best known as Squiggy on the ABC sitcom “Laverne &amp; Shirley,” died Friday evening at the age of 73 https://t.co/u…</div>
+The most popular user is: **_nessacita**
+<div class="alert alert-block alert-danger"> RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Variety** |
-| #2 Most tweeted to  | **LeynaNguyenTV** |
-| #3 Most tweeted to  | **HelenKennedy** |
-| NewProfiles (less than 10 days) | 0.17%  |
-| Tweeters with < 10 followers  | 1.91%|
-| Tweeters with > 1000000 followers  | 0.15%  |
+| #1 Most tweeted to  | **DRMovieNews1** |
+| #2 Most tweeted to  | **FilmUpdates** |
+| #3 Most tweeted to  | **marveIstuff** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 2.41%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **FelineLover1234**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LANDER**  |
-| second  | **SQUIGGY**  |
-| third  | **DAVID** |
-| fourth  | **DIED**  |
-| fifth  | **73**  |
+| first  | **EMMA**  |
+| second  | **STONE**  |
+| third  | **ANDREW** |
+| fourth  | **GARFIELD**  |
+| fifth  | **DUNST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HelenKennedy: RIP David Lander Lenny and Squiggy made me laugh so much as a kid https://t.co/hSblb9hrY1 |
+|RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FelineLover1234**  |
+| The most retweeted user is: **_nessacita**  |
 | ------------- |
-| RT @Variety: David Lander, best known as Squiggy on the ABC sitcom “Laverne &amp; Shirley,” died Friday evening at the age of 73 https://t.co/u… |
+| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
