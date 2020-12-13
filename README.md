@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "emma stone"**
+&#x1F34E; **TOPIC = "Deebo Samuel"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
-| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
-| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
+| He's a mix of Tavon Austin, Deebo Samuel and AJ BrownFuture star in the NFL https://t.co/hGChjbdvcA |
+| RT @DaltonGuruFF: Deebo Samuel vs DK Metcalf through 21 career gamesDeebo Samuel 90 receptions1,369 scrimmage yards7 TDs268.9 PPR po… |
+| RT @Coach_Yac: The #49ers backfield is 100% healthy for the first time since week 2. It’s time to run it down the Bills’ throats, while mix… |
 
-The most popular user is: **_nessacita**
-<div class="alert alert-block alert-danger"> RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland…</div>
+The most popular user is: **samuel_mokelu**
+<div class="alert alert-block alert-danger"> RT @TaqeeBond: Black people started using Deebo as a verb after this movie! That’s how important he is to our culture. I don’t believe anyo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DRMovieNews1** |
-| #2 Most tweeted to  | **FilmUpdates** |
-| #3 Most tweeted to  | **marveIstuff** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 2.41%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **billbarnwell** |
+| #2 Most tweeted to  | **OurSf49ers** |
+| #3 Most tweeted to  | **PFF** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 6.63%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **_nessacita**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EMMA**  |
-| second  | **STONE**  |
-| third  | **ANDREW** |
-| fourth  | **GARFIELD**  |
-| fifth  | **DUNST**  |
+| first  | **DEEBO**  |
+| second  | **SAMUEL**  |
+| third  | **49ERS** |
+| fourth  | **AFTER**  |
+| fifth  | **BRANDON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
+|RT @ChrisBiderman: Deebo Samuel has a foot contusion and will not practice today, per Kyle Shanahan. #49ers |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_nessacita**  |
+| The most retweeted user is: **samuel_mokelu**  |
 | ------------- |
-| RT @DRMovieNews1: BREAKING: Tobey Maguire, Andrew Garfield, Kirsten Dunst, &amp; Emma Stone are CONFIRMED to be returning &amp; joining Tom Holland… |
+| RT @TaqeeBond: Black people started using Deebo as a verb after this movie! That’s how important he is to our culture. I don’t believe anyo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
