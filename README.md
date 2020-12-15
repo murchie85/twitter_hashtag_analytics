@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Art Briles"**
+&#x1F34E; **TOPIC = "bangtan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @ClayTravis Art Briles https://t.co/SKmOxWQPTF |
-| RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t… |
-| @BootScootin65 “Think” = talk crap till Art Briles has tech winning... delete this tweet.. buys “New Pirate on the Prairie” T-shirt. |
+| me after getting a year's load of taekook in one bangtan bomb: https://t.co/3t2qtaTaO4 |
+| RT @jhsjoonie: taehyung: I will create an environment that will be so full of bangtan |
+| RT @_kittycatmeow: yes I know we ALL agree jung hoseok https://t.co/pj6fNW9yXI |
 
-The most popular user is: **fiumiamifan**
-<div class="alert alert-block alert-danger"> RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t…</div>
+The most popular user is: **warm_waterdeer_**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: 10000 Hours Repeat💜
+https://t.co/K3qkYYZutj</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Brett_McMurphy** |
-| #2 Most tweeted to  | **MedcalfByESPN** |
-| #3 Most tweeted to  | **DavidSmoak** |
-| NewProfiles (less than 10 days) | 0.29%  |
-| Tweeters with < 10 followers  | 3.18%|
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **jhsjoonie** |
+| #3 Most tweeted to  | **RecordingAcad** |
+| NewProfiles (less than 10 days) | 1.91%  |
+| Tweeters with < 10 followers  | 5.42%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +40,28 @@ The most popular user is: **fiumiamifan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRILES**  |
-| second  | **ART**  |
-| third  | **FREEZE** |
-| fourth  | **COACH**  |
-| fifth  | **HUGH**  |
+| first  | **BANGTAN**  |
+| second  | **BOMB**  |
+| third  | **@BTS_TWT** |
+| fourth  | **TIME**  |
+| fifth  | **GRAMMY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ChadHasson_ Liberty’s top candidate is Art Briles, first reported by @Brett_McMurphy. |
+|ok it's 3:30 in the morning let me take my butt to bed, gn moots and bangtan 🥰 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fiumiamifan**  |
+| The most retweeted user is: **warm_waterdeer_**  |
 | ------------- |
-| RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t… |
+| RT @BTS_twt: 10000 Hours Repeat💜https://t.co/K3qkYYZutj |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
