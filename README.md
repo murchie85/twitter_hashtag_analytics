@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Deebo Samuel"**
+&#x1F34E; **TOPIC = "Art Briles"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| He's a mix of Tavon Austin, Deebo Samuel and AJ BrownFuture star in the NFL https://t.co/hGChjbdvcA |
-| RT @DaltonGuruFF: Deebo Samuel vs DK Metcalf through 21 career gamesDeebo Samuel 90 receptions1,369 scrimmage yards7 TDs268.9 PPR po… |
-| RT @Coach_Yac: The #49ers backfield is 100% healthy for the first time since week 2. It’s time to run it down the Bills’ throats, while mix… |
+| @ClayTravis Art Briles https://t.co/SKmOxWQPTF |
+| RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t… |
+| @BootScootin65 “Think” = talk crap till Art Briles has tech winning... delete this tweet.. buys “New Pirate on the Prairie” T-shirt. |
 
-The most popular user is: **samuel_mokelu**
-<div class="alert alert-block alert-danger"> RT @TaqeeBond: Black people started using Deebo as a verb after this movie! That’s how important he is to our culture. I don’t believe anyo…</div>
+The most popular user is: **fiumiamifan**
+<div class="alert alert-block alert-danger"> RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **billbarnwell** |
-| #2 Most tweeted to  | **OurSf49ers** |
-| #3 Most tweeted to  | **PFF** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 6.63%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **Brett_McMurphy** |
+| #2 Most tweeted to  | **MedcalfByESPN** |
+| #3 Most tweeted to  | **DavidSmoak** |
+| NewProfiles (less than 10 days) | 0.29%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **samuel_mokelu**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEEBO**  |
-| second  | **SAMUEL**  |
-| third  | **49ERS** |
-| fourth  | **AFTER**  |
-| fifth  | **BRANDON**  |
+| first  | **BRILES**  |
+| second  | **ART**  |
+| third  | **FREEZE** |
+| fourth  | **COACH**  |
+| fifth  | **HUGH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ChrisBiderman: Deebo Samuel has a foot contusion and will not practice today, per Kyle Shanahan. #49ers |
+|@ChadHasson_ Liberty’s top candidate is Art Briles, first reported by @Brett_McMurphy. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **samuel_mokelu**  |
+| The most retweeted user is: **fiumiamifan**  |
 | ------------- |
-| RT @TaqeeBond: Black people started using Deebo as a verb after this movie! That’s how important he is to our culture. I don’t believe anyo… |
+| RT @Brett_McMurphy: If Hugh Freeze leaves Liberty, former Baylor coach Art Briles would be a leading candidate to replace Freeze, sources t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
