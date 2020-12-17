@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "bangtan"**
+&#x1F34E; **TOPIC = "#Warzone"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| me after getting a year's load of taekook in one bangtan bomb: https://t.co/3t2qtaTaO4 |
-| RT @jhsjoonie: taehyung: I will create an environment that will be so full of bangtan |
-| RT @_kittycatmeow: yes I know we ALL agree jung hoseok https://t.co/pj6fNW9yXI |
+| Highlights from my #Warzone Vic 2day baby. Whoopin a$$ https://t.co/mN1sZRTnrn |
+| RT @CallofDuty: @ETOnDaBeat Prepare for payback. Season One of #BlackOpsColdWar and #Warzone is LIVE. Drop in now.  Reply #unsubscribe… |
+| Back on #Warzone till they fix #BlackOpsColdWar on pc. Live in 10 mins!https://t.co/CUfdWfYPj0 #twitchaffiliate… https://t.co/kZIZyGwPmW |
 
-The most popular user is: **warm_waterdeer_**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: 10000 Hours Repeat💜
-https://t.co/K3qkYYZutj</div>
+The most popular user is: **Rexxxxxlq**
+<div class="alert alert-block alert-danger"> RT @RowdyRogan: 5 Year Old PRODIGY using @Swagg from @FaZeClan $20,000 winning #Warzone class. Super OP!!! #FaZeUp #winning #ModernWarfare…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **jhsjoonie** |
-| #3 Most tweeted to  | **RecordingAcad** |
-| NewProfiles (less than 10 days) | 1.91%  |
-| Tweeters with < 10 followers  | 5.42%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **CallofDuty** |
+| #2 Most tweeted to  | **Treyarch** |
+| #3 Most tweeted to  | **charlieINTEL** |
+| NewProfiles (less than 10 days) | 1.94%  |
+| Tweeters with < 10 followers  | 9.25%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -40,28 +39,28 @@ https://t.co/K3qkYYZutj</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BANGTAN**  |
-| second  | **BOMB**  |
-| third  | **@BTS_TWT** |
-| fourth  | **TIME**  |
-| fifth  | **GRAMMY**  |
+| first  | **WARZONE**  |
+| second  | **NEW**  |
+| third  | **SEASON** |
+| fourth  | **LIVE**  |
+| fifth  | **BLACKOPSCOLDWAR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|ok it's 3:30 in the morning let me take my butt to bed, gn moots and bangtan 🥰 |
+|RT @Treyarch: Season One is NOW LIVE in #BlackOpsColdWar + #Warzone, including: • 100-Tier Battle Pass• Cross-game progression• New MP… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **warm_waterdeer_**  |
+| The most retweeted user is: **Rexxxxxlq**  |
 | ------------- |
-| RT @BTS_twt: 10000 Hours Repeat💜https://t.co/K3qkYYZutj |
+| RT @RowdyRogan: 5 Year Old PRODIGY using @Swagg from @FaZeClan $20,000 winning #Warzone class. Super OP!!! #FaZeUp #winning #ModernWarfare… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
