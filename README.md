@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "clifford"**
+&#x1F34E; **TOPIC = "My 2020 Year in Sport"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ENQSports: "In my opinion, he is the best player in the state of Ohio.” https://t.co/wDhPGbvd2O |
-| RT @naturalreviews4: Bruh I wish Clifford was real https://t.co/0SmJmwkLKj |
-| @boblister_poole Oh no - BBC unconscious bias against Brexit will run away now! |
+| Its been a rather quite 1. Shift work hampers my routine. But hey ho here is my Strava "My 2020 Year in Sport"… https://t.co/tqYC1SGsbG |
+| My 2020 Year in Sport (April start) - neat summary from Strava 😊 https://t.co/H1oXhu9Xbe |
+| My 2020 Year in Sport https://t.co/G5tDDTZ9a6 |
 
-The most popular user is: **caroo_clifford**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: Fine Line is one year old. I couldn’t be more grateful for you all continually finding new ways to change my life. Thank…</div>
+The most popular user is: **JamesMarkey10**
+<div class="alert alert-block alert-danger"> RT @MireiaPorta: ⌛️tic-tac...in less than 48h starts
+ISENC Conference 2020 my favorite SPORT NUTRITION conference🏆🍒🏃🏽This year must be 👩‍💻…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Louis_Tomlinson** |
-| #2 Most tweeted to  | **HSLOTWILDFLOWER** |
-| #3 Most tweeted to  | **Raikissu** |
-| NewProfiles (less than 10 days) | 1.47%  |
-| Tweeters with < 10 followers  | 3.05%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **Strava** |
+| #2 Most tweeted to  | **MireiaPorta** |
+| #3 Most tweeted to  | **spiicymamas** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 3.24%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **caroo_clifford**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLIFFORD**  |
-| second  | **MICHAEL**  |
-| third  | **BIG** |
-| fourth  | **RED**  |
-| fifth  | **BRUCE**  |
+| first  | **YEAR**  |
+| second  | **2020**  |
+| third  | **SPORT** |
+| fourth  | **STRAVA**  |
+| fifth  | **@STRAVA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @rhea_malik99: no one:michael clifford coming on twitter once in a month: https://t.co/nWIkSr2FXd |
+|My 2020 Year in Sport is nearly done but like the graphic. 200odd 5ks the best of them in ⁦@marlayparkrun⁩ and ⁦… https://t.co/YYUHU5dvzz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **caroo_clifford**  |
+| The most retweeted user is: **JamesMarkey10**  |
 | ------------- |
-| RT @Harry_Styles: Fine Line is one year old. I couldn’t be more grateful for you all continually finding new ways to change my life. Thank… |
+| RT @MireiaPorta: ⌛️tic-tac...in less than 48h startsISENC Conference 2020 my favorite SPORT NUTRITION conference🏆🍒🏃🏽This year must be 👩‍💻… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
