@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "My 2020 Year in Sport"**
+&#x1F34E; **TOPIC = "Fight for Trump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Its been a rather quite 1. Shift work hampers my routine. But hey ho here is my Strava "My 2020 Year in Sport"… https://t.co/tqYC1SGsbG |
-| My 2020 Year in Sport (April start) - neat summary from Strava 😊 https://t.co/H1oXhu9Xbe |
-| My 2020 Year in Sport https://t.co/G5tDDTZ9a6 |
+| RT @Wizard_Predicts: Ali now firing up the crowd. He asks: "Are you willing to fight for Trump?" https://t.co/jXmLXIm4gA |
+| RT @NIK_VENTURE: Russia Putin #TrumpCant Pompeo Fight for TrumpAhh, I see they've finally posted the Eviction Notice at the White House!… |
+| Elected republicans who don't stand up to fight for Trump are done. Pressure needs to be applied before Jan 6. They… https://t.co/ym6QCG3Yvd |
 
-The most popular user is: **JamesMarkey10**
-<div class="alert alert-block alert-danger"> RT @MireiaPorta: ⌛️tic-tac...in less than 48h starts
-ISENC Conference 2020 my favorite SPORT NUTRITION conference🏆🍒🏃🏽This year must be 👩‍💻…</div>
+The most popular user is: **ColoradoScenery**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Mo Brooks: ‘Trump Won the Electoral College‘ --- I Can Be a Part of the ‘Surrender Caucus‘ or I Can Fight for Our Coun…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Strava** |
-| #2 Most tweeted to  | **MireiaPorta** |
-| #3 Most tweeted to  | **spiicymamas** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 3.24%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **KanekoaTheGreat** |
+| #3 Most tweeted to  | **mmpadellan** |
+| NewProfiles (less than 10 days) | 1.98%  |
+| Tweeters with < 10 followers  | 9.1%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -40,28 +39,28 @@ ISENC Conference 2020 my favorite SPORT NUTRITION conference🏆🍒🏃🏽This
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **YEAR**  |
-| second  | **2020**  |
-| third  | **SPORT** |
-| fourth  | **STRAVA**  |
-| fifth  | **@STRAVA**  |
+| first  | **TRUMP**  |
+| second  | **FIGHT**  |
+| third  | **"FIGHT** |
+| fourth  | **TRUMP"**  |
+| fifth  | **PRESIDENT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|My 2020 Year in Sport is nearly done but like the graphic. 200odd 5ks the best of them in ⁦@marlayparkrun⁩ and ⁦… https://t.co/YYUHU5dvzz |
+|RT @PhilipRucker: The final days of Trump’s White House include a flood of pardon &amp; favor requests. A ton of parties &amp; job searches. $66 mi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JamesMarkey10**  |
+| The most retweeted user is: **ColoradoScenery**  |
 | ------------- |
-| RT @MireiaPorta: ⌛️tic-tac...in less than 48h startsISENC Conference 2020 my favorite SPORT NUTRITION conference🏆🍒🏃🏽This year must be 👩‍💻… |
+| RT @realDonaldTrump: Mo Brooks: ‘Trump Won the Electoral College‘ --- I Can Be a Part of the ‘Surrender Caucus‘ or I Can Fight for Our Coun… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
