@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fight for Trump"**
+&#x1F34E; **TOPIC = "#BUFvsDEN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Wizard_Predicts: Ali now firing up the crowd. He asks: "Are you willing to fight for Trump?" https://t.co/jXmLXIm4gA |
-| RT @NIK_VENTURE: Russia Putin #TrumpCant Pompeo Fight for TrumpAhh, I see they've finally posted the Eviction Notice at the White House!… |
-| Elected republicans who don't stand up to fight for Trump are done. Pressure needs to be applied before Jan 6. They… https://t.co/ym6QCG3Yvd |
+| Watching #BUFvsDEN and making incessant comments about how clean the new hats are. @LeahRussell79 had enough &amp; went… https://t.co/tzIlMhEsqX |
+| Addison with a big sack #BUFvsDEN |
+| Rolling with the Bills! Watch #BUFvsDEN TODAY at 4:30pm ET on NFL Network! |
 
-The most popular user is: **ColoradoScenery**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Mo Brooks: ‘Trump Won the Electoral College‘ --- I Can Be a Part of the ‘Surrender Caucus‘ or I Can Fight for Our Coun…</div>
+The most popular user is: **amy_kugs**
+<div class="alert alert-block alert-danger"> RT @BuffaloBills: No Diggity. 😎
+
+#BUFvsDEN | #BillsMafia https://t.co/Bkjnfr6Oit</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **KanekoaTheGreat** |
-| #3 Most tweeted to  | **mmpadellan** |
-| NewProfiles (less than 10 days) | 1.98%  |
-| Tweeters with < 10 followers  | 9.1%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **BuffaloBills** |
+| #2 Most tweeted to  | **nflnetwork** |
+| #3 Most tweeted to  | **NFL** |
+| NewProfiles (less than 10 days) | 0.91%  |
+| Tweeters with < 10 followers  | 4.27%|
+| Tweeters with > 1000000 followers  | 0.6%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ColoradoScenery**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **FIGHT**  |
-| third  | **"FIGHT** |
-| fourth  | **TRUMP"**  |
-| fifth  | **PRESIDENT**  |
+| first  | **BUFVSDEN**  |
+| second  | **NFL**  |
+| third  | **@BUFFALOBILLS:** |
+| fourth  | **ET**  |
+| fifth  | **4:30PM**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PhilipRucker: The final days of Trump’s White House include a flood of pardon &amp; favor requests. A ton of parties &amp; job searches. $66 mi… |
+|RT @BovadaOfficial: What team has the better fans? #BUFvsDEN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ColoradoScenery**  |
+| The most retweeted user is: **amy_kugs**  |
 | ------------- |
-| RT @realDonaldTrump: Mo Brooks: ‘Trump Won the Electoral College‘ --- I Can Be a Part of the ‘Surrender Caucus‘ or I Can Fight for Our Coun… |
+| RT @BuffaloBills: No Diggity. 😎#BUFvsDEN | #BillsMafia https://t.co/Bkjnfr6Oit |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
