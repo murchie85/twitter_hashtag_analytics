@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BUFvsDEN"**
+&#x1F34E; **TOPIC = "Revenge of the Sith"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Watching #BUFvsDEN and making incessant comments about how clean the new hats are. @LeahRussell79 had enough &amp; went… https://t.co/tzIlMhEsqX |
-| Addison with a big sack #BUFvsDEN |
-| Rolling with the Bills! Watch #BUFvsDEN TODAY at 4:30pm ET on NFL Network! |
+| RT @sw_holocron: STAR WARS: EPISODE lll - REVENGE OF THE SITH | Director: George Lucas, DoP: David Tattersall https://t.co/pE9w8MCQPD |
+| RT @SWTweets: George Lucas deliberately made the Vader costume in 'Revenge of the Sith' (2005) top-heavy to give Hayden Christensen the loo… |
+| RT @johneberlejr: Is this Revenge of the Sith? https://t.co/mKoQtLTE01 |
 
-The most popular user is: **amy_kugs**
-<div class="alert alert-block alert-danger"> RT @BuffaloBills: No Diggity. 😎
-
-#BUFvsDEN | #BillsMafia https://t.co/Bkjnfr6Oit</div>
+The most popular user is: **SarahSi87261507**
+<div class="alert alert-block alert-danger"> RT @starwars: Hayden Christensen returns as Darth Vader, joining Ewan McGregor in OBI-WAN KENOBI. The Original Series begins 10 years after…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BuffaloBills** |
-| #2 Most tweeted to  | **nflnetwork** |
-| #3 Most tweeted to  | **NFL** |
-| NewProfiles (less than 10 days) | 0.91%  |
-| Tweeters with < 10 followers  | 4.27%|
-| Tweeters with > 1000000 followers  | 0.6%  |
+| #1 Most tweeted to  | **johneberlejr** |
+| #2 Most tweeted to  | **TheSWU** |
+| #3 Most tweeted to  | **SWTweets** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 3.78%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **amy_kugs**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUFVSDEN**  |
-| second  | **NFL**  |
-| third  | **@BUFFALOBILLS:** |
-| fourth  | **ET**  |
-| fifth  | **4:30PM**  |
+| first  | **REVENGE**  |
+| second  | **SITH**  |
+| third  | **SITH?** |
+| fourth  | **@JOHNEBERLEJR:**  |
+| fifth  | **HTTPS://TCO/MKOQTLTE01RT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BovadaOfficial: What team has the better fans? #BUFvsDEN |
+|RT @TheSWU: In addition to wearing the iconic armor of Boba Fett, Jeremy Bulloch will also be remembered as portraying Lieutenant Sheckil i… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **amy_kugs**  |
+| The most retweeted user is: **SarahSi87261507**  |
 | ------------- |
-| RT @BuffaloBills: No Diggity. 😎#BUFvsDEN | #BillsMafia https://t.co/Bkjnfr6Oit |
+| RT @starwars: Hayden Christensen returns as Darth Vader, joining Ewan McGregor in OBI-WAN KENOBI. The Original Series begins 10 years after… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
