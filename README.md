@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#SeizeTheDey"**
+&#x1F34E; **TOPIC = "Clippers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Pittsburgh continues to free fall. The AFC North is officially up for grabs. #PITvsCIN #HereWeGo #SeizeTheDey #NFLTwitter |
-| Bengals don’t have the heart or fight in them To knock juju off the logo when he danced on it. #SeizeTheDey #PITvsCIN |
-| RT @DaltonSignature: #ProBowlVote x Jessie Bates III#ProBowlVote x Jessie Bates III#ProBowlVote x Jessie Bates III#ProBowlVote x Jessie… |
+| Luke Kennard is gonna surprise A LOT of people.(with the only caveat being when he's health, as is Clippers tradition.) |
+| RT @lakersaids: I can’t wait till the basement rats we know as the clippers watch us put our rings on and accept the Larry O’Brien trophy r… |
+| If the Clippers win, “regular season champs, don’t matter, blew 3-1 lead”. If the Lakers win: https://t.co/SgrIhsjOjy |
 
-The most popular user is: **Victori89002748**
-<div class="alert alert-block alert-danger"> RT @StuartFeiner: ONE LUCKY PERSON WHO RETWEETS THIS WILL WIN MY MONDAY NIGHT FOOTBALL PARLAY!
-
-STEELERS VS BENGALS!
-
-ALSO GIVING AWAY MY B…</div>
+The most popular user is: **SlumpedFish**
+<div class="alert alert-block alert-danger"> RT @LakeShowYo: Lakers getting their rings in front of the Clippers tomorrow is poetic justice</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Bengals** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **StuartFeiner** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 2.77%|
-| Tweeters with > 1000000 followers  | 0.23%  |
+| #1 Most tweeted to  | **NBAonTNT** |
+| #2 Most tweeted to  | **Lakers** |
+| #3 Most tweeted to  | **LakeShowYo** |
+| NewProfiles (less than 10 days) | 1.1%  |
+| Tweeters with < 10 followers  | 4.76%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -43,28 +39,28 @@ ALSO GIVING AWAY MY B…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SEIZETHEDEY**  |
-| second  | **@BENGALS**  |
-| third  | **PROBOWLVOTE** |
-| fourth  | **PITVSCIN**  |
-| fifth  | **@NFL:**  |
+| first  | **CLIPPERS**  |
+| second  | **LAKERS**  |
+| third  | **TONIGHT** |
+| fourth  | **VS**  |
+| fifth  | **ET**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NFL: #HereWeGo or #SeizeTheDey?Who's getting a #MNF win? (by @MercedesBenz)📺: #PITvsCIN -- Tonight 8:15pm ET on ESPN📱: NFL app //… |
+|.@luka7doncic Bubble game-winner against the Clippers is @SportsCenter #2 play of the 2019-20 @NBA season. #MFFL… https://t.co/QUOBbzJlp8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Victori89002748**  |
+| The most retweeted user is: **SlumpedFish**  |
 | ------------- |
-| RT @StuartFeiner: ONE LUCKY PERSON WHO RETWEETS THIS WILL WIN MY MONDAY NIGHT FOOTBALL PARLAY!STEELERS VS BENGALS!ALSO GIVING AWAY MY B… |
+| RT @LakeShowYo: Lakers getting their rings in front of the Clippers tomorrow is poetic justice |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
