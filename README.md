@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Revenge of the Sith"**
+&#x1F34E; **TOPIC = "#SeizeTheDey"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @sw_holocron: STAR WARS: EPISODE lll - REVENGE OF THE SITH | Director: George Lucas, DoP: David Tattersall https://t.co/pE9w8MCQPD |
-| RT @SWTweets: George Lucas deliberately made the Vader costume in 'Revenge of the Sith' (2005) top-heavy to give Hayden Christensen the loo… |
-| RT @johneberlejr: Is this Revenge of the Sith? https://t.co/mKoQtLTE01 |
+| Pittsburgh continues to free fall. The AFC North is officially up for grabs. #PITvsCIN #HereWeGo #SeizeTheDey #NFLTwitter |
+| Bengals don’t have the heart or fight in them To knock juju off the logo when he danced on it. #SeizeTheDey #PITvsCIN |
+| RT @DaltonSignature: #ProBowlVote x Jessie Bates III#ProBowlVote x Jessie Bates III#ProBowlVote x Jessie Bates III#ProBowlVote x Jessie… |
 
-The most popular user is: **SarahSi87261507**
-<div class="alert alert-block alert-danger"> RT @starwars: Hayden Christensen returns as Darth Vader, joining Ewan McGregor in OBI-WAN KENOBI. The Original Series begins 10 years after…</div>
+The most popular user is: **Victori89002748**
+<div class="alert alert-block alert-danger"> RT @StuartFeiner: ONE LUCKY PERSON WHO RETWEETS THIS WILL WIN MY MONDAY NIGHT FOOTBALL PARLAY!
+
+STEELERS VS BENGALS!
+
+ALSO GIVING AWAY MY B…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **johneberlejr** |
-| #2 Most tweeted to  | **TheSWU** |
-| #3 Most tweeted to  | **SWTweets** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 3.78%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **Bengals** |
+| #2 Most tweeted to  | **NFL** |
+| #3 Most tweeted to  | **StuartFeiner** |
+| NewProfiles (less than 10 days) | 0.59%  |
+| Tweeters with < 10 followers  | 2.77%|
+| Tweeters with > 1000000 followers  | 0.23%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **SarahSi87261507**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REVENGE**  |
-| second  | **SITH**  |
-| third  | **SITH?** |
-| fourth  | **@JOHNEBERLEJR:**  |
-| fifth  | **HTTPS://TCO/MKOQTLTE01RT**  |
+| first  | **SEIZETHEDEY**  |
+| second  | **@BENGALS**  |
+| third  | **PROBOWLVOTE** |
+| fourth  | **PITVSCIN**  |
+| fifth  | **@NFL:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheSWU: In addition to wearing the iconic armor of Boba Fett, Jeremy Bulloch will also be remembered as portraying Lieutenant Sheckil i… |
+|RT @NFL: #HereWeGo or #SeizeTheDey?Who's getting a #MNF win? (by @MercedesBenz)📺: #PITvsCIN -- Tonight 8:15pm ET on ESPN📱: NFL app //… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SarahSi87261507**  |
+| The most retweeted user is: **Victori89002748**  |
 | ------------- |
-| RT @starwars: Hayden Christensen returns as Darth Vader, joining Ewan McGregor in OBI-WAN KENOBI. The Original Series begins 10 years after… |
+| RT @StuartFeiner: ONE LUCKY PERSON WHO RETWEETS THIS WILL WIN MY MONDAY NIGHT FOOTBALL PARLAY!STEELERS VS BENGALS!ALSO GIVING AWAY MY B… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
