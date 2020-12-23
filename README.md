@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GTFC"**
+&#x1F34E; **TOPIC = "Rockets"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Fair play #GTFC |
-| RT @officialgtfc: 21’ GOOOOOOAAAAAAAALLLLLL!!! @Mattiepollock4!!!! Bennett’s corner is flicked on and after a scramble in the box, Pollock… |
-| Hurst anyone? #gtfc |
+| RT @wojespn: League rules mandate that the Houston Rockets have eight eligible players to start the game vs. OKC tonight, and so far, it ap… |
+| RT @InstaNewsAlerts: The barrage of rockets launched at the U.S. Embassy in Baghdad Sunday was the largest attack on the capital’s Green Zo… |
+| RT @KingJosiah54: Stephen Silas giving his pregame speech in the Rockets locker room tonight https://t.co/3vfUMWZUqC |
 
-The most popular user is: **SteelyGtfc**
-<div class="alert alert-block alert-danger"> RT @ILSON1977: Went to #MTFC v #GTFC as a neutral today 
-Grimsby fans brilliant support especially 2nd half 👏🏼👏🏼 better side as well even w…</div>
+The most popular user is: **EthvnSolomon**
+<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Our embassy in Baghdad got hit Sunday by several rockets. Three rockets failed to launch. Guess where they were from:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **officialgtfc** |
-| #2 Most tweeted to  | **Mattiepollock4** |
-| #3 Most tweeted to  | **onthisGTFCday** |
-| NewProfiles (less than 10 days) | 1.45%  |
-| Tweeters with < 10 followers  | 1.85%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **realDonaldTrump** |
+| #2 Most tweeted to  | **wojespn** |
+| #3 Most tweeted to  | **KingJosiah54** |
+| NewProfiles (less than 10 days) | 1.28%  |
+| Tweeters with < 10 followers  | 4.86%|
+| Tweeters with > 1000000 followers  | 0.11%  |
 
 
 
@@ -40,28 +39,28 @@ Grimsby fans brilliant support especially 2nd half 👏🏼👏🏼 better side 
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GTFC**  |
-| second  | **TOWN**  |
-| third  | **GTFCRT** |
-| fourth  | **@OFFICIALGTFC:**  |
-| fifth  | **GRIMSBY**  |
+| first  | **ROCKETS**  |
+| second  | **SEVERAL**  |
+| third  | **EMBASSY** |
+| fourth  | **BAGHDAD**  |
+| fifth  | **SUNDAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (12.5%) & **NEGATIVELY-SUBJECTIVE** (87.5%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jstockwood: Feeling positive about today’s game. Time to turn a corner and bag 3pts. Come on Town! #gtfc #utm |
+|RT @usatodaysports: While Harden said he was not at a club, which would have been a violation of NBA coronavirus protocols, the league also… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SteelyGtfc**  |
+| The most retweeted user is: **EthvnSolomon**  |
 | ------------- |
-| RT @ILSON1977: Went to #MTFC v #GTFC as a neutral today Grimsby fans brilliant support especially 2nd half 👏🏼👏🏼 better side as well even w… |
+| RT @realDonaldTrump: Our embassy in Baghdad got hit Sunday by several rockets. Three rockets failed to launch. Guess where they were from:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
