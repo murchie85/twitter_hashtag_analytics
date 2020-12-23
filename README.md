@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Clippers"**
+&#x1F34E; **TOPIC = "#GTFC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,23 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Luke Kennard is gonna surprise A LOT of people.(with the only caveat being when he's health, as is Clippers tradition.) |
-| RT @lakersaids: I can’t wait till the basement rats we know as the clippers watch us put our rings on and accept the Larry O’Brien trophy r… |
-| If the Clippers win, “regular season champs, don’t matter, blew 3-1 lead”. If the Lakers win: https://t.co/SgrIhsjOjy |
+| Fair play #GTFC |
+| RT @officialgtfc: 21’ GOOOOOOAAAAAAAALLLLLL!!! @Mattiepollock4!!!! Bennett’s corner is flicked on and after a scramble in the box, Pollock… |
+| Hurst anyone? #gtfc |
 
-The most popular user is: **SlumpedFish**
-<div class="alert alert-block alert-danger"> RT @LakeShowYo: Lakers getting their rings in front of the Clippers tomorrow is poetic justice</div>
+The most popular user is: **SteelyGtfc**
+<div class="alert alert-block alert-danger"> RT @ILSON1977: Went to #MTFC v #GTFC as a neutral today 
+Grimsby fans brilliant support especially 2nd half 👏🏼👏🏼 better side as well even w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NBAonTNT** |
-| #2 Most tweeted to  | **Lakers** |
-| #3 Most tweeted to  | **LakeShowYo** |
-| NewProfiles (less than 10 days) | 1.1%  |
-| Tweeters with < 10 followers  | 4.76%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **officialgtfc** |
+| #2 Most tweeted to  | **Mattiepollock4** |
+| #3 Most tweeted to  | **onthisGTFCday** |
+| NewProfiles (less than 10 days) | 1.45%  |
+| Tweeters with < 10 followers  | 1.85%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **SlumpedFish**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLIPPERS**  |
-| second  | **LAKERS**  |
-| third  | **TONIGHT** |
-| fourth  | **VS**  |
-| fifth  | **ET**  |
+| first  | **GTFC**  |
+| second  | **TOWN**  |
+| third  | **GTFCRT** |
+| fourth  | **@OFFICIALGTFC:**  |
+| fifth  | **GRIMSBY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|.@luka7doncic Bubble game-winner against the Clippers is @SportsCenter #2 play of the 2019-20 @NBA season. #MFFL… https://t.co/QUOBbzJlp8 |
+|RT @jstockwood: Feeling positive about today’s game. Time to turn a corner and bag 3pts. Come on Town! #gtfc #utm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SlumpedFish**  |
+| The most retweeted user is: **SteelyGtfc**  |
 | ------------- |
-| RT @LakeShowYo: Lakers getting their rings in front of the Clippers tomorrow is poetic justice |
+| RT @ILSON1977: Went to #MTFC v #GTFC as a neutral today Grimsby fans brilliant support especially 2nd half 👏🏼👏🏼 better side as well even w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
