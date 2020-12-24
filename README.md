@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rockets"**
+&#x1F34E; **TOPIC = "Santa"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @wojespn: League rules mandate that the Houston Rockets have eight eligible players to start the game vs. OKC tonight, and so far, it ap… |
-| RT @InstaNewsAlerts: The barrage of rockets launched at the U.S. Embassy in Baghdad Sunday was the largest attack on the capital’s Green Zo… |
-| RT @KingJosiah54: Stephen Silas giving his pregame speech in the Rockets locker room tonight https://t.co/3vfUMWZUqC |
+| RT @SwearingKids: Meanwhile, In Essex, Jackson is "debating" Santa's Naughty/Nice list system https://t.co/At71xTVUov |
+| Santa came early for Harper. #Christmas https://t.co/92YcPMcPn6 |
+| RT @II00I00I: pls santa punish me !! i’m a bad girl |
 
-The most popular user is: **EthvnSolomon**
-<div class="alert alert-block alert-danger"> RT @realDonaldTrump: Our embassy in Baghdad got hit Sunday by several rockets. Three rockets failed to launch. Guess where they were from:…</div>
+The most popular user is: **clowntownnnn**
+<div class="alert alert-block alert-danger"> RT @trvisXX: I still believe In Santa I don’t give a fuck</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realDonaldTrump** |
-| #2 Most tweeted to  | **wojespn** |
-| #3 Most tweeted to  | **KingJosiah54** |
-| NewProfiles (less than 10 days) | 1.28%  |
-| Tweeters with < 10 followers  | 4.86%|
-| Tweeters with > 1000000 followers  | 0.11%  |
+| #1 Most tweeted to  | **lilsasquatch66** |
+| #2 Most tweeted to  | **HeroTechne** |
+| #3 Most tweeted to  | **NoradSanta** |
+| NewProfiles (less than 10 days) | 0.97%  |
+| Tweeters with < 10 followers  | 3.85%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **EthvnSolomon**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROCKETS**  |
-| second  | **SEVERAL**  |
-| third  | **EMBASSY** |
-| fourth  | **BAGHDAD**  |
-| fifth  | **SUNDAY**  |
+| first  | **SANTA**  |
+| second  | **CHRISTMAS**  |
+| third  | **SECRET** |
+| fourth  | **CLAUS**  |
+| fifth  | **FUCK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (12.5%) & **NEGATIVELY-SUBJECTIVE** (87.5%) **OBJECTIVE** (0.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @usatodaysports: While Harden said he was not at a club, which would have been a violation of NBA coronavirus protocols, the league also… |
+|RT @ommanyte: Todo in a Santa coat instigating the joint internship arc and therefore unofficially founding the three musketeers was the gr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **EthvnSolomon**  |
+| The most retweeted user is: **clowntownnnn**  |
 | ------------- |
-| RT @realDonaldTrump: Our embassy in Baghdad got hit Sunday by several rockets. Three rockets failed to launch. Guess where they were from:… |
+| RT @trvisXX: I still believe In Santa I don’t give a fuck |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
