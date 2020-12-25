@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Santa"**
+&#x1F34E; **TOPIC = "Good Days"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SwearingKids: Meanwhile, In Essex, Jackson is "debating" Santa's Naughty/Nice list system https://t.co/At71xTVUov |
-| Santa came early for Harper. #Christmas https://t.co/92YcPMcPn6 |
-| RT @II00I00I: pls santa punish me !! i’m a bad girl |
+| Happy birthday to you brother, may your days be long in good health wealth and wellness sir. https://t.co/SYy111IkRC |
+| RT @ComplexMusic: NEW @sza 🙏🏽"Good Days" is out now:https://t.co/UnL6ZXT4WS |
+| RT @RayBLK_: SZA released good days ☺️☺️☺️☺️ |
 
-The most popular user is: **clowntownnnn**
-<div class="alert alert-block alert-danger"> RT @trvisXX: I still believe In Santa I don’t give a fuck</div>
+The most popular user is: **mc_crz**
+<div class="alert alert-block alert-danger"> RT @warysanchhh: being locked down with my family for more than 5 months is not good for my mental health talaga i love them to death but i…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lilsasquatch66** |
-| #2 Most tweeted to  | **HeroTechne** |
-| #3 Most tweeted to  | **NoradSanta** |
-| NewProfiles (less than 10 days) | 0.97%  |
-| Tweeters with < 10 followers  | 3.85%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **sza** |
+| #2 Most tweeted to  | **ComplexMusic** |
+| #3 Most tweeted to  | **Jonsandman** |
+| NewProfiles (less than 10 days) | 1.58%  |
+| Tweeters with < 10 followers  | 7.12%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **clowntownnnn**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SANTA**  |
-| second  | **CHRISTMAS**  |
-| third  | **SECRET** |
-| fourth  | **CLAUS**  |
-| fifth  | **FUCK**  |
+| first  | **GOOD**  |
+| second  | **DAYS**  |
+| third  | **SZA** |
+| fourth  | **CHRISTMAS**  |
+| fifth  | **DROPPED**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ommanyte: Todo in a Santa coat instigating the joint internship arc and therefore unofficially founding the three musketeers was the gr… |
+|RT @Yusuufffkhan: FUCK THAT TRASH ASS ALBUM SZA DROPPED GOOD DAYS 🙏🙏🙏‼️ https://t.co/nga0sJNFGd |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **clowntownnnn**  |
+| The most retweeted user is: **mc_crz**  |
 | ------------- |
-| RT @trvisXX: I still believe In Santa I don’t give a fuck |
+| RT @warysanchhh: being locked down with my family for more than 5 months is not good for my mental health talaga i love them to death but i… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
