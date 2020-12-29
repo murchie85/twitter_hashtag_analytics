@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bucs"**
+&#x1F34E; **TOPIC = "#MUNWOL"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| And just like that, for the first time since I’ve started watching football...The Bucs are in the playoffs |
-| RT @Geraldini93: Game almost over so Bucs it’s been a long time coming. Congrats to all my former teammates, staff and the fans that have b… |
-| Can we do the ‘Sim to end of game’ option on this Bucs game? |
+| RT @ManUtd: 🤩 @MarcusRashford's injury-time strike seals the 3️⃣ points ✅🔴 #MUFC#️⃣ #MUNWOL🏆 #PL@Chevrolet |
+| HHUUUUUGGGGEEE WIN!!!This shows progress that we beat Wolves here. We're moving forward #mufc #MUNWOL |
+| RT @premierleague: GOAL Man Utd 1-0 Wolves (90+3 mins)Late goal for Man Utd! Marcus Rashford cuts inside and his shot goes in at the near… |
 
-The most popular user is: **Bucs_BoSox**
-<div class="alert alert-block alert-danger"> RT @AdamSchefter: Buccaneers clinch first playoff berth since 2007.</div>
+The most popular user is: **Mrfizzy_10**
+<div class="alert alert-block alert-danger"> RT @ManUtd: 🚨 Just in! Our final starting XI of 2020 📋
+
+🔴 #MUFC
+#️⃣ #MUNWOL
+🏆 #PL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SportsCenter** |
-| #2 Most tweeted to  | **brgridiron** |
-| #3 Most tweeted to  | **NFL_Memes** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 3.78%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **ManUtd** |
+| #2 Most tweeted to  | **MarcusRashford** |
+| #3 Most tweeted to  | **chevrolet** |
+| NewProfiles (less than 10 days) | 0.75%  |
+| Tweeters with < 10 followers  | 3.12%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Bucs_BoSox**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUCS**  |
-| second  | **BRADY**  |
-| third  | **FIRST** |
-| fourth  | **TIME**  |
-| fifth  | **GAME**  |
+| first  | **MUNWOL**  |
+| second  | **MUFC**  |
+| third  | **🔴** |
+| fourth  | **️⃣**  |
+| fifth  | **PL**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LedyardNFLDraft: Tom Brady has now thrown more TDs  in a season than any other QB in Bucs franchise history |
+|RT @ManUtd_ID: RASHYWHEWPMSWWCACAFE GOOOOLOLOL!!!!🔴 #MUFC#️⃣ #MUNWOL🏆 #PL https://t.co/NXRFKBWupS |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Bucs_BoSox**  |
+| The most retweeted user is: **Mrfizzy_10**  |
 | ------------- |
-| RT @AdamSchefter: Buccaneers clinch first playoff berth since 2007. |
+| RT @ManUtd: 🚨 Just in! Our final starting XI of 2020 📋🔴 #MUFC#️⃣ #MUNWOL🏆 #PL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
