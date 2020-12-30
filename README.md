@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MUNWOL"**
+&#x1F34E; **TOPIC = "Wayne"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ManUtd: 🤩 @MarcusRashford's injury-time strike seals the 3️⃣ points ✅🔴 #MUFC#️⃣ #MUNWOL🏆 #PL@Chevrolet |
-| HHUUUUUGGGGEEE WIN!!!This shows progress that we beat Wolves here. We're moving forward #mufc #MUNWOL |
-| RT @premierleague: GOAL Man Utd 1-0 Wolves (90+3 mins)Late goal for Man Utd! Marcus Rashford cuts inside and his shot goes in at the near… |
+| @teasipperer @PFlusk @NickoChampion @wwistwwist @Leedsbusspotter @Wayne_Harooney no u arent allowed to live, as lon… https://t.co/e0u6sb0kQu |
+| @WSUConfessions4 It’s not too late. Contact housing @wayne.edu |
+| @LionelMedia Marilyn Manson opened by Nashville pussy ft Wayne Indiana |
 
-The most popular user is: **Mrfizzy_10**
-<div class="alert alert-block alert-danger"> RT @ManUtd: 🚨 Just in! Our final starting XI of 2020 📋
-
-🔴 #MUFC
-#️⃣ #MUNWOL
-🏆 #PL</div>
+The most popular user is: **alaskaa_wayne**
+<div class="alert alert-block alert-danger"> RT @thecharlesike: Alex Dunn is the cops name. tweet about this cause they are trynna lower his charges.  Look at the other two cops do not…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ManUtd** |
-| #2 Most tweeted to  | **MarcusRashford** |
-| #3 Most tweeted to  | **chevrolet** |
-| NewProfiles (less than 10 days) | 0.75%  |
-| Tweeters with < 10 followers  | 3.12%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **XXL** |
+| #2 Most tweeted to  | **Wayne_Harooney** |
+| #3 Most tweeted to  | **Leedsbusspotter** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 4.53%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Mrfizzy_10**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MUNWOL**  |
-| second  | **MUFC**  |
-| third  | **🔴** |
-| fourth  | **️⃣**  |
-| fifth  | **PL**  |
+| first  | **WAYNE**  |
+| second  | **LIL**  |
+| third  | **THUG** |
+| fourth  | **YOUNG**  |
+| fifth  | **VERZUZ**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ManUtd_ID: RASHYWHEWPMSWWCACAFE GOOOOLOLOL!!!!🔴 #MUFC#️⃣ #MUNWOL🏆 #PL https://t.co/NXRFKBWupS |
+|He really needs to leave Wayne alone, y’all are not in the same category. Idk what lies Birdman was telling him for… https://t.co/9k988wFUPa |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Mrfizzy_10**  |
+| The most retweeted user is: **alaskaa_wayne**  |
 | ------------- |
-| RT @ManUtd: 🚨 Just in! Our final starting XI of 2020 📋🔴 #MUFC#️⃣ #MUNWOL🏆 #PL |
+| RT @thecharlesike: Alex Dunn is the cops name. tweet about this cause they are trynna lower his charges.  Look at the other two cops do not… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
