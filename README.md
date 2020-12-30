@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Wayne"**
+&#x1F34E; **TOPIC = "Wells Fargo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @teasipperer @PFlusk @NickoChampion @wwistwwist @Leedsbusspotter @Wayne_Harooney no u arent allowed to live, as lon… https://t.co/e0u6sb0kQu |
-| @WSUConfessions4 It’s not too late. Contact housing @wayne.edu |
-| @LionelMedia Marilyn Manson opened by Nashville pussy ft Wayne Indiana |
+| RT @MTVJibbs: MOOOOOOOD! I NEED MY STIMMY WELLS FARGO https://t.co/k6BSvNceas |
+| RT @_GilbertTorres_: Wells Fargo depositing stimulus checks like Nevada counted them damn votes |
+| Wells Fargo sending me emails about the stimulus knowing damn well I'm not getting no stimulus, just petty 😔 |
 
-The most popular user is: **alaskaa_wayne**
-<div class="alert alert-block alert-danger"> RT @thecharlesike: Alex Dunn is the cops name. tweet about this cause they are trynna lower his charges.  Look at the other two cops do not…</div>
+The most popular user is: **poetpri_m**
+<div class="alert alert-block alert-danger"> RT @AOC: Perhaps it’s the CEO of Wells Fargo who lacks the talent to recruit Black workers.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **XXL** |
-| #2 Most tweeted to  | **Wayne_Harooney** |
-| #3 Most tweeted to  | **Leedsbusspotter** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 4.53%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **nuffsaidny** |
+| #2 Most tweeted to  | **MTVJibbs** |
+| #3 Most tweeted to  | **_GilbertTorres_** |
+| NewProfiles (less than 10 days) | 0.49%  |
+| Tweeters with < 10 followers  | 4.01%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **alaskaa_wayne**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WAYNE**  |
-| second  | **LIL**  |
-| third  | **THUG** |
-| fourth  | **YOUNG**  |
-| fifth  | **VERZUZ**  |
+| first  | **WELLS**  |
+| second  | **FARGO**  |
+| third  | **STIMULUS** |
+| fourth  | **CHECKS**  |
+| fifth  | **STIMMY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|He really needs to leave Wayne alone, y’all are not in the same category. Idk what lies Birdman was telling him for… https://t.co/9k988wFUPa |
+|RT @MeetJaneBlack: Of course Wells Fargo takes forever with this stimulus check. It's past time for me and my $47.72 to take our patronage… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alaskaa_wayne**  |
+| The most retweeted user is: **poetpri_m**  |
 | ------------- |
-| RT @thecharlesike: Alex Dunn is the cops name. tweet about this cause they are trynna lower his charges.  Look at the other two cops do not… |
+| RT @AOC: Perhaps it’s the CEO of Wells Fargo who lacks the talent to recruit Black workers. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
