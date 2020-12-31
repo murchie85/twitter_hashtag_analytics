@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Wells Fargo"**
+&#x1F34E; **TOPIC = "Sedition"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MTVJibbs: MOOOOOOOD! I NEED MY STIMMY WELLS FARGO https://t.co/k6BSvNceas |
-| RT @_GilbertTorres_: Wells Fargo depositing stimulus checks like Nevada counted them damn votes |
-| Wells Fargo sending me emails about the stimulus knowing damn well I'm not getting no stimulus, just petty 😔 |
+| RT @Amy_Siskind: Imagine being a voter in Pennsylvania, and being told some douchebag Missouri Senator is telling you your vote shouldn't c… |
+| RT @Miriam2626: I wonder if sedition is an act befitting disbarment? #HawleyResign |
+| RT @TomJChicago: Rs like Hawley are desperate &amp; they aren’t just doing sedition for Trump's base. They are auditioning for Putin. There are… |
 
-The most popular user is: **poetpri_m**
-<div class="alert alert-block alert-danger"> RT @AOC: Perhaps it’s the CEO of Wells Fargo who lacks the talent to recruit Black workers.</div>
+The most popular user is: **fireworksmi11**
+<div class="alert alert-block alert-danger"> RT @stevesilberman: STOP dismissing Gohmert's suit to have Pence overturn the election as "far-fetched." It's sedition. Gohmert is guilty o…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nuffsaidny** |
-| #2 Most tweeted to  | **MTVJibbs** |
-| #3 Most tweeted to  | **_GilbertTorres_** |
-| NewProfiles (less than 10 days) | 0.49%  |
-| Tweeters with < 10 followers  | 4.01%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **mmpadellan** |
+| #2 Most tweeted to  | **HawleyMO** |
+| #3 Most tweeted to  | **ReallyAmerican1** |
+| NewProfiles (less than 10 days) | 0.53%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **poetpri_m**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WELLS**  |
-| second  | **FARGO**  |
-| third  | **STIMULUS** |
-| fourth  | **CHECKS**  |
-| fifth  | **STIMMY**  |
+| first  | **SEDITION**  |
+| second  | **HAWLEY**  |
+| third  | **FAILS** |
+| fourth  | **JOSH**  |
+| fifth  | **REPUBLICANS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MeetJaneBlack: Of course Wells Fargo takes forever with this stimulus check. It's past time for me and my $47.72 to take our patronage… |
+|RT @Amy_Siskind: Imagine being a voter in Pennsylvania, and being told some douchebag Missouri Senator is telling you your vote shouldn't c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **poetpri_m**  |
+| The most retweeted user is: **fireworksmi11**  |
 | ------------- |
-| RT @AOC: Perhaps it’s the CEO of Wells Fargo who lacks the talent to recruit Black workers. |
+| RT @stevesilberman: STOP dismissing Gohmert's suit to have Pence overturn the election as "far-fetched." It's sedition. Gohmert is guilty o… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
