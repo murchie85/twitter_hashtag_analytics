@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sedition"**
+&#x1F34E; **TOPIC = "#MischiefMovieNightIn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Amy_Siskind: Imagine being a voter in Pennsylvania, and being told some douchebag Missouri Senator is telling you your vote shouldn't c… |
-| RT @Miriam2626: I wonder if sedition is an act befitting disbarment? #HawleyResign |
-| RT @TomJChicago: Rs like Hawley are desperate &amp; they aren’t just doing sedition for Trump's base. They are auditioning for Putin. There are… |
+| #MischiefMovieNightIn award for longest NYE countdown |
+| @mischiefcomedy Along with an award for the world record for the most world records broken in one hour!  #MischiefMovieNightIn |
+| RT @LizTheFrizzzz: A character who can only speak in puns #MischiefMovieNightIn https://t.co/SoxNvAOJEW |
 
-The most popular user is: **fireworksmi11**
-<div class="alert alert-block alert-danger"> RT @stevesilberman: STOP dismissing Gohmert's suit to have Pence overturn the election as "far-fetched." It's sedition. Gohmert is guilty o…</div>
+The most popular user is: **lajaga**
+<div class="alert alert-block alert-danger"> RT @mischiefcomedy: Mischief Movie Night In WILL return in 2021 with 10 brand-new shows streamed LIVE into your home! Enjoy our improvised…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mmpadellan** |
-| #2 Most tweeted to  | **HawleyMO** |
-| #3 Most tweeted to  | **ReallyAmerican1** |
-| NewProfiles (less than 10 days) | 0.53%  |
-| Tweeters with < 10 followers  | 4.08%|
+| #1 Most tweeted to  | **mischiefcomedy** |
+| #2 Most tweeted to  | **henrywlewis** |
+| #3 Most tweeted to  | **KershawHarry** |
+| NewProfiles (less than 10 days) | 3.72%  |
+| Tweeters with < 10 followers  | 15.77%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **fireworksmi11**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SEDITION**  |
-| second  | **HAWLEY**  |
-| third  | **FAILS** |
-| fourth  | **JOSH**  |
-| fifth  | **REPUBLICANS**  |
+| first  | **MISCHIEFMOVIENIGHTIN**  |
+| second  | **AWARD**  |
+| third  | **BEST** |
+| fourth  | **@MISCHIEFCOMEDY**  |
+| fifth  | **MOST**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Amy_Siskind: Imagine being a voter in Pennsylvania, and being told some douchebag Missouri Senator is telling you your vote shouldn't c… |
+|Can't wait for @mischiefcomedy #MischiefMovieNightIn tonight. A great way to see in 2021 with the family 😍 https://t.co/t4amjtI4uy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fireworksmi11**  |
+| The most retweeted user is: **lajaga**  |
 | ------------- |
-| RT @stevesilberman: STOP dismissing Gohmert's suit to have Pence overturn the election as "far-fetched." It's sedition. Gohmert is guilty o… |
+| RT @mischiefcomedy: Mischief Movie Night In WILL return in 2021 with 10 brand-new shows streamed LIVE into your home! Enjoy our improvised… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
