@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MischiefMovieNightIn"**
+&#x1F34E; **TOPIC = "Najee Harris"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,26 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #MischiefMovieNightIn award for longest NYE countdown |
-| @mischiefcomedy Along with an award for the world record for the most world records broken in one hour!  #MischiefMovieNightIn |
-| RT @LizTheFrizzzz: A character who can only speak in puns #MischiefMovieNightIn https://t.co/SoxNvAOJEW |
+| RT @SECNetwork: Us after that Najee Harris Hurdle 😯 https://t.co/AmOrt00PPK |
+| RT @SportsCenter: THIS NAJEE HARRIS HURDLE  😱 #SCtop10 https://t.co/3qiYJq9wPi |
+| RT @SportsCenter: THIS NAJEE HARRIS HURDLE  😱 #SCtop10 https://t.co/3qiYJq9wPi |
 
-The most popular user is: **lajaga**
-<div class="alert alert-block alert-danger"> RT @mischiefcomedy: Mischief Movie Night In WILL return in 2021 with 10 brand-new shows streamed LIVE into your home! Enjoy our improvised…</div>
+The most popular user is: **SteveKranking**
+<div class="alert alert-block alert-danger"> RT @CBSSports: NAJEE HARRIS, YOU CAN'T BE SERIOUS! 
+
+• Run someone over 
+• Hurdle someone 
+• Drag someone into the end zone https://t.co/pF…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mischiefcomedy** |
-| #2 Most tweeted to  | **henrywlewis** |
-| #3 Most tweeted to  | **KershawHarry** |
-| NewProfiles (less than 10 days) | 3.72%  |
-| Tweeters with < 10 followers  | 15.77%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SportsCenter** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **Tyler_Greever** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.01%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **lajaga**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MISCHIEFMOVIENIGHTIN**  |
-| second  | **AWARD**  |
-| third  | **BEST** |
-| fourth  | **@MISCHIEFCOMEDY**  |
-| fifth  | **MOST**  |
+| first  | **NAJEE**  |
+| second  | **HARRIS**  |
+| third  | **HURDLE** |
+| fourth  | **😱**  |
+| fifth  | **SCTOP10**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Can't wait for @mischiefcomedy #MischiefMovieNightIn tonight. A great way to see in 2021 with the family 😍 https://t.co/t4amjtI4uy |
+|RT @AlabamaDieHards: Najee Harris is the hurdle King 👑 https://t.co/CCQkhVQhNb |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lajaga**  |
+| The most retweeted user is: **SteveKranking**  |
 | ------------- |
-| RT @mischiefcomedy: Mischief Movie Night In WILL return in 2021 with 10 brand-new shows streamed LIVE into your home! Enjoy our improvised… |
+| RT @CBSSports: NAJEE HARRIS, YOU CAN'T BE SERIOUS! • Run someone over • Hurdle someone • Drag someone into the end zone https://t.co/pF… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
