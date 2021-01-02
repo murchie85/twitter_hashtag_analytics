@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Najee Harris"**
+&#x1F34E; **TOPIC = "TPWK"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,26 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SECNetwork: Us after that Najee Harris Hurdle 😯 https://t.co/AmOrt00PPK |
-| RT @SportsCenter: THIS NAJEE HARRIS HURDLE  😱 #SCtop10 https://t.co/3qiYJq9wPi |
-| RT @SportsCenter: THIS NAJEE HARRIS HURDLE  😱 #SCtop10 https://t.co/3qiYJq9wPi |
+| how come yall are allowed to interpret a song to be about fucking women and eating pussy but the minute someone mak… https://t.co/qJ5I0bFxbZ |
+| RT @Harry_Styles: TREAT PEOPLE WITH KINDNESS. OUT NOW.https://t.co/PScWbqZozJ https://t.co/VFujhYHDRg |
+| RT @Harry_Styles: TREAT PEOPLE WITH KINDNESS. OUT NOW.https://t.co/PScWbqZozJ https://t.co/VFujhYHDRg |
 
-The most popular user is: **SteveKranking**
-<div class="alert alert-block alert-danger"> RT @CBSSports: NAJEE HARRIS, YOU CAN'T BE SERIOUS! 
-
-• Run someone over 
-• Hurdle someone 
-• Drag someone into the end zone https://t.co/pF…</div>
+The most popular user is: **tpwk_jasmine**
+<div class="alert alert-block alert-danger"> RT @Harry_Styles: @NiallOfficial Ahhh, a lovely tune my friend. Congratulations. H</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SportsCenter** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **Tyler_Greever** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.01%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Harry_Styles** |
+| #2 Most tweeted to  | **HSHQ** |
+| #3 Most tweeted to  | **MrsAnneTwist** |
+| NewProfiles (less than 10 days) | 1.36%  |
+| Tweeters with < 10 followers  | 8.18%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **SteveKranking**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NAJEE**  |
-| second  | **HARRIS**  |
-| third  | **HURDLE** |
-| fourth  | **😱**  |
-| fifth  | **SCTOP10**  |
+| first  | **PEOPLE**  |
+| second  | **TREAT**  |
+| third  | **KINDNESS** |
+| fourth  | **TPWK**  |
+| fifth  | **@HARRY_STYLES:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AlabamaDieHards: Najee Harris is the hurdle King 👑 https://t.co/CCQkhVQhNb |
+|this is a sign to stream tpwk 🌈 https://t.co/rsQIeXEue7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SteveKranking**  |
+| The most retweeted user is: **tpwk_jasmine**  |
 | ------------- |
-| RT @CBSSports: NAJEE HARRIS, YOU CAN'T BE SERIOUS! • Run someone over • Hurdle someone • Drag someone into the end zone https://t.co/pF… |
+| RT @Harry_Styles: @NiallOfficial Ahhh, a lovely tune my friend. Congratulations. H |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
