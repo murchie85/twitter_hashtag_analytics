@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Willian"**
+&#x1F34E; **TOPIC = "Tariq"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @WelBeast On my dogs life willian his playing against us |
-| RT @OzilThings: Remember when Mourinho said every time Özil touches the ball the ball smiles, every time Willian touches the ball it starts… |
-| RT @OzilThings: Remember when Mourinho said every time Özil touches the ball the ball smiles, every time Willian touches the ball it starts… |
+| Ghost left a mark on Tariq after all 🔥🔥 #PowerGhost #PowerBookII #PowerNeverEnds ...And Tariq showed it .. |
+| @Koma_Flemmings I have a friend who counts lady's hair in the bar the moment he gets high😂😂😂 |
+| The finale was good dab !! Tariq a fool |
 
-The most popular user is: **willian_EDF_**
-<div class="alert alert-block alert-danger"> RT @GatorsDaily: Brazil stays on top https://t.co/OJypQEWG9K</div>
+The most popular user is: **Mussab_Tariq**
+<div class="alert alert-block alert-danger"> RT @moshahrulfitri: No more tears😭😭😭☝🏾 https://t.co/uOeKwot1f1</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **WelBeast** |
-| #3 Most tweeted to  | **OzilThings** |
-| NewProfiles (less than 10 days) | 0.57%  |
-| Tweeters with < 10 followers  | 2.61%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Dame_Lillard** |
+| #2 Most tweeted to  | **ceemulahgang** |
+| #3 Most tweeted to  | **alinaskyy** |
+| NewProfiles (less than 10 days) | 0.37%  |
+| Tweeters with < 10 followers  | 1.37%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **willian_EDF_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WILLIAN**  |
-| second  | **BALL**  |
-| third  | **ARSENAL** |
-| fourth  | **SAKA**  |
-| fifth  | **TIME**  |
+| first  | **TARIQ**  |
+| second  | **POWERGHOST**  |
+| third  | **BOY** |
+| fourth  | **GHOST**  |
+| fifth  | **I’M**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Inshallah Willian gets injured |
+|Tariq is GHOST |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **willian_EDF_**  |
+| The most retweeted user is: **Mussab_Tariq**  |
 | ------------- |
-| RT @GatorsDaily: Brazil stays on top https://t.co/OJypQEWG9K |
+| RT @moshahrulfitri: No more tears😭😭😭☝🏾 https://t.co/uOeKwot1f1 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
