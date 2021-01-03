@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TPWK"**
+&#x1F34E; **TOPIC = "Willian"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| how come yall are allowed to interpret a song to be about fucking women and eating pussy but the minute someone mak… https://t.co/qJ5I0bFxbZ |
-| RT @Harry_Styles: TREAT PEOPLE WITH KINDNESS. OUT NOW.https://t.co/PScWbqZozJ https://t.co/VFujhYHDRg |
-| RT @Harry_Styles: TREAT PEOPLE WITH KINDNESS. OUT NOW.https://t.co/PScWbqZozJ https://t.co/VFujhYHDRg |
+| @WelBeast On my dogs life willian his playing against us |
+| RT @OzilThings: Remember when Mourinho said every time Özil touches the ball the ball smiles, every time Willian touches the ball it starts… |
+| RT @OzilThings: Remember when Mourinho said every time Özil touches the ball the ball smiles, every time Willian touches the ball it starts… |
 
-The most popular user is: **tpwk_jasmine**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: @NiallOfficial Ahhh, a lovely tune my friend. Congratulations. H</div>
+The most popular user is: **willian_EDF_**
+<div class="alert alert-block alert-danger"> RT @GatorsDaily: Brazil stays on top https://t.co/OJypQEWG9K</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Harry_Styles** |
-| #2 Most tweeted to  | **HSHQ** |
-| #3 Most tweeted to  | **MrsAnneTwist** |
-| NewProfiles (less than 10 days) | 1.36%  |
-| Tweeters with < 10 followers  | 8.18%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Arsenal** |
+| #2 Most tweeted to  | **WelBeast** |
+| #3 Most tweeted to  | **OzilThings** |
+| NewProfiles (less than 10 days) | 0.57%  |
+| Tweeters with < 10 followers  | 2.61%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **tpwk_jasmine**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PEOPLE**  |
-| second  | **TREAT**  |
-| third  | **KINDNESS** |
-| fourth  | **TPWK**  |
-| fifth  | **@HARRY_STYLES:**  |
+| first  | **WILLIAN**  |
+| second  | **BALL**  |
+| third  | **ARSENAL** |
+| fourth  | **SAKA**  |
+| fifth  | **TIME**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|this is a sign to stream tpwk 🌈 https://t.co/rsQIeXEue7 |
+|Inshallah Willian gets injured |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tpwk_jasmine**  |
+| The most retweeted user is: **willian_EDF_**  |
 | ------------- |
-| RT @Harry_Styles: @NiallOfficial Ahhh, a lovely tune my friend. Congratulations. H |
+| RT @GatorsDaily: Brazil stays on top https://t.co/OJypQEWG9K |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
