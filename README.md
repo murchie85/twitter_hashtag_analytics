@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kyler Murray"**
+&#x1F34E; **TOPIC = "Leonard Williams"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Kyler Murray aint walking through that door https://t.co/43JmdQY271 |
-| RT @RekedFantasy: I lost a bet to @OverHypedSleepr claiming Daniel Jones would be close to Kyler Murray this season.  Loser had to wear jor… |
-| I’ll take the heat eventually but Jalen Hurts will be better than Kyler Murray |
+| RT @JustinPenik: Guess who got the game winning sack? Leonard WilliamsGuess who got the QB hit to force the game winning INT? Leonard Will… |
+| LEONARD FREAKING WILLIAMS. |
+| END Q3: LAC 65 | UTA 84Leonard: 14 PTS, 10 REB, 6 ASTGeorge: 12 PTS, 6 REB, 5 STLZubac: 10 PTS, 2 REBIbaka: 9… https://t.co/M71Tko2B6Y |
 
-The most popular user is: **falcons_celtics**
-<div class="alert alert-block alert-danger"> RT @TheUndefeated: Cam Newton, Teddy Bridgewater, Dwayne Haskins, Lamar Jackson, Patrick Mahomes, Kyler Murray, Dak Prescott, Tyrod Taylor,…</div>
+The most popular user is: **nanette_leonard**
+<div class="alert alert-block alert-danger"> RT @Lexximagic: @travis_robert @DrTimBoone David Williams, former USPS Inspector General and former Vice Chair of the USPS Board of Governo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **CMACSZN** |
-| #3 Most tweeted to  | **PatMcAfeeShow** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 4.01%|
-| Tweeters with > 1000000 followers  | 0.17%  |
+| #1 Most tweeted to  | **AlexWilsonESM** |
+| #2 Most tweeted to  | **art_stapleton** |
+| #3 Most tweeted to  | **LAClippers** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 2.41%|
+| Tweeters with > 1000000 followers  | 0.09%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **falcons_celtics**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KYLER**  |
-| second  | **MURRAY**  |
-| third  | **GAME** |
-| fourth  | **QB**  |
-| fifth  | **LAMAR**  |
+| first  | **LEONARD**  |
+| second  | **WILLIAMS**  |
+| third  | **GIANTS** |
+| fourth  | **PTS**  |
+| fifth  | **SACKS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @rodimusprime: Russell Wilson, Lamar Jackson, Patrick Mahomes, Deshaun Watson, Cam Newton, Teddy Bridgewater, Kyler Murray, Jalen Hurts… |
+|Leonard Williams is a monster |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **falcons_celtics**  |
+| The most retweeted user is: **nanette_leonard**  |
 | ------------- |
-| RT @TheUndefeated: Cam Newton, Teddy Bridgewater, Dwayne Haskins, Lamar Jackson, Patrick Mahomes, Kyler Murray, Dak Prescott, Tyrod Taylor,… |
+| RT @Lexximagic: @travis_robert @DrTimBoone David Williams, former USPS Inspector General and former Vice Chair of the USPS Board of Governo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
