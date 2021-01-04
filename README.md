@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Eagles"**
+&#x1F34E; **TOPIC = "#PokemonGOTourContest"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @eyariicosplay: ⚜️ Garreg Mach 2B ⚜️What house do you think she’d be in?  My heart says Black Eagles.#fe3h #FireEmblemThreeHouses #ni… |
-| RT @RyanAbrams76: I’m glad that this awful Eagles season ended with everyone mad about it but us. The best possible conclusion. |
-| @billbarnwell I think this was magnified by the fact that it was in the middle of the only game being played at tha… https://t.co/dtm65ueQzr |
+| Trainer of the frozen north!Dewgong CloysterLapras #PokemonGOTourContest https://t.co/bzeAhmhkUs |
+| RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. Intr… |
+| @PokemonGoApp My trainer submission:Team: Nidoking, Aerodactyl and Charizard#PokemonGOTourContest https://t.co/JmhNqdghEU |
 
-The most popular user is: **Painadelphia**
-<div class="alert alert-block alert-danger"> RT @Eagles: Every story has a beginning.
+The most popular user is: **BigWethie**
+<div class="alert alert-block alert-danger"> RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. 
 
-#SBLII | #FlyEaglesFly https://t.co/5kQ6xcIO6O</div>
+Intr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Eagles** |
-| #2 Most tweeted to  | **EliManning** |
-| #3 Most tweeted to  | **JClarkNBCS** |
-| NewProfiles (less than 10 days) | 0.93%  |
-| Tweeters with < 10 followers  | 7.26%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **PokemonGoApp** |
+| #2 Most tweeted to  | **NianticLabs** |
+| #3 Most tweeted to  | **PokeTrenerKushi** |
+| NewProfiles (less than 10 days) | 8.67%  |
+| Tweeters with < 10 followers  | 40.13%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **Painadelphia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EAGLES**  |
-| second  | **GIANTS**  |
-| third  | **GAME** |
-| fourth  | **DON’T**  |
-| fifth  | **@EAGLES**  |
+| first  | **TEAM**  |
+| second  | **POKEMONGOTOURCONTEST**  |
+| third  | **TRAINER** |
+| fourth  | **POKÉMON**  |
+| fifth  | **3**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @gifdsports: Chris Collinsworth finally implies the Eagles are tanking and rips them for it  https://t.co/RzwMpfzizr |
+|#PokemonGOTourContestAce Trainer, Team Mystic🔹️Venusaur🔹️Raichu🔹️Gengar https://t.co/xlNp1e9uPm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Painadelphia**  |
+| The most retweeted user is: **BigWethie**  |
 | ------------- |
-| RT @Eagles: Every story has a beginning.#SBLII | #FlyEaglesFly https://t.co/5kQ6xcIO6O |
+| RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. Intr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
