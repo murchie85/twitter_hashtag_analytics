@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Atlanta"**
+&#x1F34E; **TOPIC = "Virginia"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @StephenEspinoza: From Migos, Lil Baby &amp; 2 Chainz to T.I., Jeezy &amp; Gucci Mane, Atlanta rappers helped flip Georgia and ultimately remove… |
-| RT @ryanobles: RIGHT NOW: @KLoeffler addressing the crowd in Atlanta. She is not conceding. Promised the crowd she would fight to make sure… |
-| RT @pttrn_ntgrty: Thank you John Lewis, for paving the way for @staceyabrams, @ReverendWarnock, Jon @Ossoff and countless others.  Georgi… |
+| RT @GovernorVA: My team and I are working closely with @MayorBowser, @SpeakerPelosi, and @SenSchumer to respond to the situation in Washing… |
+| RT @AriBerman: The governor of Virginia acted to send the National Guard before the President of the United States. Just insane |
+| The irony of Virginia state troopers coming to save the Union. |
 
-The most popular user is: **stylesftmaii**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: was nice to meet @markalanparsons at the show tonight! Atlanta was so loud :) thank you .x http://t.co/MLDBvaDR</div>
+The most popular user is: **l_virginia_**
+<div class="alert alert-block alert-danger"> RT @lavishthought: Black people died for PEACEFULLY PROTESTING.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jemelehill** |
-| #2 Most tweeted to  | **RealCandaceO** |
-| #3 Most tweeted to  | **staceyabrams** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 2.96%|
+| #1 Most tweeted to  | **GovernorVA** |
+| #2 Most tweeted to  | **MayorBowser** |
+| #3 Most tweeted to  | **SpeakerPelosi** |
+| NewProfiles (less than 10 days) | 0.59%  |
+| Tweeters with < 10 followers  | 2.8%|
 | Tweeters with > 1000000 followers  | 0.08%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **stylesftmaii**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ATLANTA**  |
-| second  | **WARNOCK**  |
-| third  | **RAPHAEL** |
-| fourth  | **DREAM**  |
-| fifth  | **WNBA**  |
+| first  | **VIRGINIA**  |
+| second  | **NATIONAL**  |
+| third  | **GUARD** |
+| fourth  | **DC**  |
+| fifth  | **POLICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (75.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@HawaiiDelilah Modem USA pulled it off! The same change that elevates Atlanta and urban Georgia is taking root in T… https://t.co/RqFxXDqqfE |
+|@IsmailRoyer That’s what I thought at first but then I realized a Senator from West Virginia exists by the name of… https://t.co/iDprQWbkn5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **stylesftmaii**  |
+| The most retweeted user is: **l_virginia_**  |
 | ------------- |
-| RT @Harry_Styles: was nice to meet @markalanparsons at the show tonight! Atlanta was so loud :) thank you .x http://t.co/MLDBvaDR |
+| RT @lavishthought: Black people died for PEACEFULLY PROTESTING. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
