@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PokemonGOTourContest"**
+&#x1F34E; **TOPIC = "Atlanta"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Trainer of the frozen north!Dewgong CloysterLapras #PokemonGOTourContest https://t.co/bzeAhmhkUs |
-| RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. Intr… |
-| @PokemonGoApp My trainer submission:Team: Nidoking, Aerodactyl and Charizard#PokemonGOTourContest https://t.co/JmhNqdghEU |
+| RT @StephenEspinoza: From Migos, Lil Baby &amp; 2 Chainz to T.I., Jeezy &amp; Gucci Mane, Atlanta rappers helped flip Georgia and ultimately remove… |
+| RT @ryanobles: RIGHT NOW: @KLoeffler addressing the crowd in Atlanta. She is not conceding. Promised the crowd she would fight to make sure… |
+| RT @pttrn_ntgrty: Thank you John Lewis, for paving the way for @staceyabrams, @ReverendWarnock, Jon @Ossoff and countless others.  Georgi… |
 
-The most popular user is: **BigWethie**
-<div class="alert alert-block alert-danger"> RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. 
-
-Intr…</div>
+The most popular user is: **stylesftmaii**
+<div class="alert alert-block alert-danger"> RT @Harry_Styles: was nice to meet @markalanparsons at the show tonight! Atlanta was so loud :) thank you .x http://t.co/MLDBvaDR</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PokemonGoApp** |
-| #2 Most tweeted to  | **NianticLabs** |
-| #3 Most tweeted to  | **PokeTrenerKushi** |
-| NewProfiles (less than 10 days) | 8.67%  |
-| Tweeters with < 10 followers  | 40.13%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **jemelehill** |
+| #2 Most tweeted to  | **RealCandaceO** |
+| #3 Most tweeted to  | **staceyabrams** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 2.96%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +39,28 @@ Intr…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TEAM**  |
-| second  | **POKEMONGOTOURCONTEST**  |
-| third  | **TRAINER** |
-| fourth  | **POKÉMON**  |
-| fifth  | **3**  |
+| first  | **ATLANTA**  |
+| second  | **WARNOCK**  |
+| third  | **RAPHAEL** |
+| fourth  | **DREAM**  |
+| fifth  | **WNBA**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (8.33%) **OBJECTIVE** (75.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#PokemonGOTourContestAce Trainer, Team Mystic🔹️Venusaur🔹️Raichu🔹️Gengar https://t.co/xlNp1e9uPm |
+|@HawaiiDelilah Modem USA pulled it off! The same change that elevates Atlanta and urban Georgia is taking root in T… https://t.co/RqFxXDqqfE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BigWethie**  |
+| The most retweeted user is: **stylesftmaii**  |
 | ------------- |
-| RT @PokemonGoApp: Trainers, we’re excited to announce that you’ll soon have a chance to appear as a Trainer character in Pokémon GO. Intr… |
+| RT @Harry_Styles: was nice to meet @markalanparsons at the show tonight! Atlanta was so loud :) thank you .x http://t.co/MLDBvaDR |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
