@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Virginia"**
+&#x1F34E; **TOPIC = "#EYFS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @GovernorVA: My team and I are working closely with @MayorBowser, @SpeakerPelosi, and @SenSchumer to respond to the situation in Washing… |
-| RT @AriBerman: The governor of Virginia acted to send the National Guard before the President of the United States. Just insane |
-| The irony of Virginia state troopers coming to save the Union. |
+| Snow day! We really enjoyed making snow castles today@DurhamHighSch #rainbowhillnursery #beyourbest #earlyyears… https://t.co/7HB84rX7yh |
+| Last year saw a lot of progress in the study of childhood development.👏 Here are 8 interesting discoveries that you… https://t.co/HFoyGnA98g |
+| How about you? #sparkPRO #sparkearlyyears #EYFS  #eyfstwitterpals #OFSTED #EYE https://t.co/eCBQLCwALw or look in t… https://t.co/j0QvMfmFht |
 
-The most popular user is: **l_virginia_**
-<div class="alert alert-block alert-danger"> RT @lavishthought: Black people died for PEACEFULLY PROTESTING.</div>
+The most popular user is: **MZignego**
+<div class="alert alert-block alert-danger"> RT @MrMcofficial86: One of my favourite inventions and random brain waves came during the first lockdown - using a garden trellis to help w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GovernorVA** |
-| #2 Most tweeted to  | **MayorBowser** |
-| #3 Most tweeted to  | **SpeakerPelosi** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 2.8%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **Sue_Cowley** |
+| #2 Most tweeted to  | **WeeReads1** |
+| #3 Most tweeted to  | **LNGames9** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 3.21%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **l_virginia_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VIRGINIA**  |
-| second  | **NATIONAL**  |
-| third  | **GUARD** |
-| fourth  | **DC**  |
-| fifth  | **POLICE**  |
+| first  | **EYFS**  |
+| second  | **CHILDREN**  |
+| third  | **LEARNING** |
+| fourth  | **EARLYYEARS**  |
+| fifth  | **YEARS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@IsmailRoyer That’s what I thought at first but then I realized a Senator from West Virginia exists by the name of… https://t.co/iDprQWbkn5 |
+|RT @sparkearlyyears: New Year - help a child (2.5-18 yrs) to develop their creativity  #getitright #sparkPRO #sparkearlyyears #EYFS #Edtec… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **l_virginia_**  |
+| The most retweeted user is: **MZignego**  |
 | ------------- |
-| RT @lavishthought: Black people died for PEACEFULLY PROTESTING. |
+| RT @MrMcofficial86: One of my favourite inventions and random brain waves came during the first lockdown - using a garden trellis to help w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
