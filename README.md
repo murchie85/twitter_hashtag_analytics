@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jokic"**
+&#x1F34E; **TOPIC = "#BussItChallenge"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @statmuse: What a battle.Luka: 38/9/13, 9 PTS in OTJokic: 38/11/4, 17 PTS in 4QBoth of them are leading their respective teams in… |
-| Jokic should be an MVP man. He's clearly the most valuable player on the respective teams right now. |
-| RT @WorldWideWob: Splash. Jokic at the buzzer to force OT. https://t.co/zYg27WKQN2 |
+| *cries in no ass*  #BussItChallenge https://t.co/uhfq0g1mi5 |
+| RT @Heurak: You won't find a better #bussltchallenge than this one.#BussItChallenge🔥🔥🔥 https://t.co/4NRXoep0tx |
+| Gonna do this  #BussItChallenge |
 
-The most popular user is: **natasa_jokic**
-<div class="alert alert-block alert-danger"> RT @theanthonydavis: CAUGHT ON VIDEO: The moment Police allow rioters to storm the US Capitol. #Washington #CapitolHill #DC #DCProtests htt…</div>
+The most popular user is: **MaiaPerk**
+<div class="alert alert-block alert-danger"> RT @brownsugaabb: Watching black women partake in the #BussItChallenge https://t.co/Mqn1Xnqr1f</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NBA** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **dallasmavs** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 3.11%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **brownsugaabb** |
+| #2 Most tweeted to  | **Heurak** |
+| #3 Most tweeted to  | **_UnusualH** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 1.48%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,11 +39,11 @@ The most popular user is: **natasa_jokic**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOKIC**  |
-| second  | **OT**  |
-| third  | **PTS** |
-| fourth  | **SENDS**  |
-| fifth  | **NIKOLA**  |
+| first  | **BUSSITCHALLENGE**  |
+| second  | **WATCHING**  |
+| third  | **WOMEN** |
+| fourth  | **BLACK**  |
+| fifth  | **BUSSLTCHALLENGE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
@@ -54,13 +54,13 @@ VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJE
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheNBACentral: JOKIC SENDS IT TO OT https://t.co/2cKTVattWT |
+|RT @zee_chat: Here you go guys, can you tell I was so nervous ☺️🥺 #BussItChallenge https://t.co/dOw0sVYVam |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **natasa_jokic**  |
+| The most retweeted user is: **MaiaPerk**  |
 | ------------- |
-| RT @theanthonydavis: CAUGHT ON VIDEO: The moment Police allow rioters to storm the US Capitol. #Washington #CapitolHill #DC #DCProtests htt… |
+| RT @brownsugaabb: Watching black women partake in the #BussItChallenge https://t.co/Mqn1Xnqr1f |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
