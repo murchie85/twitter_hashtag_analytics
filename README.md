@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Alex Trebek"**
+&#x1F34E; **TOPIC = "Guyer"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bobharrisdotcom: On the day of #AlexTrebek's final @Jeopardy, my condolences to so many. I liked him enormouslyIn his memory, I'd lik… |
-| RT @peterhartlaub: The last “Jeopardy!” filmed before Alex Trebek’s death airs tonight.My interview with contestant &amp; @SFSU English profe… |
-| Can’t believe Alex Trebek is no longer going to be on @Jeopardy 😔 He was so awesome &amp; will be missed. |
+| Guyer converts a 33 yard field goal to take a 10-7 lead over Cedar Hill with 38 seconds left in the 1Q #TXHSFB |
+| RT @SportsDayHS: The state semifinal rematch is set. Cedar Hill gets a shot at redemption against Denton Guyer. 🙌Who's ready to watch thi… |
+| Guyer stops Prosper! Cooper Lans blocks the field goal try and the eagles walk away with no points!24-24 3OT… https://t.co/bPhlswnjUx |
 
-The most popular user is: **neoncoyote**
-<div class="alert alert-block alert-danger"> RT @Jeopardy: Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by family and f…</div>
+The most popular user is: **guyer_olivia**
+<div class="alert alert-block alert-danger"> RT @_JohnnyMontanez: To visually show you the differences. https://t.co/69N0BDqRKK</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Jeopardy** |
-| #2 Most tweeted to  | **TheDozenTrivia** |
-| #3 Most tweeted to  | **bobharrisdotcom** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 3.33%|
-| Tweeters with > 1000000 followers  | 0.25%  |
+| #1 Most tweeted to  | **ReeceWaddell15** |
+| #2 Most tweeted to  | **SportsDayHS** |
+| #3 Most tweeted to  | **DentonGuyer_FB** |
+| NewProfiles (less than 10 days) | 1.05%  |
+| Tweeters with < 10 followers  | 3.5%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **neoncoyote**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALEX**  |
-| second  | **TREBEK**  |
-| third  | **FINAL** |
-| fourth  | **EPISODE**  |
-| fifth  | **JEOPARDY**  |
+| first  | **GUYER**  |
+| second  | **HILL**  |
+| third  | **CEDAR** |
+| fourth  | **DENTON**  |
+| fifth  | **PROSPER**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @washingtonpost: Alex Trebek’s final "Jeopardy!" episode was, appropriately, just like any other https://t.co/11DGCfDnu4 |
+|Denton Guyer Head Football Coach @coachrodneywebb joins @SicEm365Radio to discuss @BUFootball Commit Cooper Lanz an… https://t.co/gghG5s5CsA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **neoncoyote**  |
+| The most retweeted user is: **guyer_olivia**  |
 | ------------- |
-| RT @Jeopardy: Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by family and f… |
+| RT @_JohnnyMontanez: To visually show you the differences. https://t.co/69N0BDqRKK |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
