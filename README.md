@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BussItChallenge"**
+&#x1F34E; **TOPIC = "Alex Trebek"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| *cries in no ass*  #BussItChallenge https://t.co/uhfq0g1mi5 |
-| RT @Heurak: You won't find a better #bussltchallenge than this one.#BussItChallenge🔥🔥🔥 https://t.co/4NRXoep0tx |
-| Gonna do this  #BussItChallenge |
+| RT @bobharrisdotcom: On the day of #AlexTrebek's final @Jeopardy, my condolences to so many. I liked him enormouslyIn his memory, I'd lik… |
+| RT @peterhartlaub: The last “Jeopardy!” filmed before Alex Trebek’s death airs tonight.My interview with contestant &amp; @SFSU English profe… |
+| Can’t believe Alex Trebek is no longer going to be on @Jeopardy 😔 He was so awesome &amp; will be missed. |
 
-The most popular user is: **MaiaPerk**
-<div class="alert alert-block alert-danger"> RT @brownsugaabb: Watching black women partake in the #BussItChallenge https://t.co/Mqn1Xnqr1f</div>
+The most popular user is: **neoncoyote**
+<div class="alert alert-block alert-danger"> RT @Jeopardy: Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by family and f…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brownsugaabb** |
-| #2 Most tweeted to  | **Heurak** |
-| #3 Most tweeted to  | **_UnusualH** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 1.48%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Jeopardy** |
+| #2 Most tweeted to  | **TheDozenTrivia** |
+| #3 Most tweeted to  | **bobharrisdotcom** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 3.33%|
+| Tweeters with > 1000000 followers  | 0.25%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MaiaPerk**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUSSITCHALLENGE**  |
-| second  | **WATCHING**  |
-| third  | **WOMEN** |
-| fourth  | **BLACK**  |
-| fifth  | **BUSSLTCHALLENGE**  |
+| first  | **ALEX**  |
+| second  | **TREBEK**  |
+| third  | **FINAL** |
+| fourth  | **EPISODE**  |
+| fifth  | **JEOPARDY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @zee_chat: Here you go guys, can you tell I was so nervous ☺️🥺 #BussItChallenge https://t.co/dOw0sVYVam |
+|RT @washingtonpost: Alex Trebek’s final "Jeopardy!" episode was, appropriately, just like any other https://t.co/11DGCfDnu4 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MaiaPerk**  |
+| The most retweeted user is: **neoncoyote**  |
 | ------------- |
-| RT @brownsugaabb: Watching black women partake in the #BussItChallenge https://t.co/Mqn1Xnqr1f |
+| RT @Jeopardy: Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by family and f… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
