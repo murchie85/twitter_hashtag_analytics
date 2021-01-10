@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#hcafc"**
+&#x1F34E; **TOPIC = "#IAmNonbinary"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bigbadwalks: Sky pundits really don’t even do the slightest bit of research, do they?  #hcafc |
-| 🐯 Jenkinson Bucket Hats AVAILABLE NOW! https://t.co/SCm4UA25CALimited numbers (30 total) across three sizes!… https://t.co/aa3qP8NagV |
-| Good start to 2021!!! #hcafc #UTT https://t.co/unu0UIfRnA |
+| RT @doodlingmoon: It's #IAmNonbinary day?? Yay!I'm Moon, a 19yo (20 in March 👀) from Argentina! I'm agender and i use she/they. I'm a sto… |
+| RT @gooomys: #IAmNonbinary howdy fellas!! I'm Andy and I'm a transmasc person who draws cartoons and video games sometimes 🌈💧⭐⚡ https://t.c… |
+| RT @eekdoesart: Hello #IAmNonbinary I'm Liz/Eek!!! I'm currently developing a queer urban fantasy webcomic 'Bread Pudding' with a afrolatin… |
 
-The most popular user is: **ombler_olivia**
-<div class="alert alert-block alert-danger"> RT @HullCity: 🐯 Fancy getting your hands on a limited edition Hull City FIFA 21 copy?
-
-1⃣ - Retweet this tweet!
-2⃣ - Make sure you're follo…</div>
+The most popular user is: **spit_pit**
+<div class="alert alert-block alert-danger"> RT @itsmerhi: Ah, hello #IAmNonbinary , I make art ❤️ https://t.co/BAXxTCfnii</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HullCity** |
-| #2 Most tweeted to  | **CAFCofficial** |
-| #3 Most tweeted to  | **bbcburnsy** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 1.82%|
+| #1 Most tweeted to  | **yimmygee** |
+| #2 Most tweeted to  | **platoniccrush** |
+| #3 Most tweeted to  | **PimientosDulces** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 2.81%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -42,28 +39,28 @@ The most popular user is: **ombler_olivia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HCAFC**  |
-| second  | **@HULLCITY:**  |
-| third  | **THETIGERS** |
-| fourth  | **🐯**  |
-| fifth  | **CITY**  |
+| first  | **IAMNONBINARY**  |
+| second  | **"IM"**  |
+| third  | **IM** |
+| fourth  | **I’M**  |
+| fifth  | **DRAW**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CAFCofficial: 45+1 Four minutes added. #hcafc 1 #cafc 0 |
+|RT @Crysaiph: #IAmNonbinary Hi my names Dylan, I'm a small artist that likes to occasionally post cat pictures! I have a special needs cat… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ombler_olivia**  |
+| The most retweeted user is: **spit_pit**  |
 | ------------- |
-| RT @HullCity: 🐯 Fancy getting your hands on a limited edition Hull City FIFA 21 copy?1⃣ - Retweet this tweet!2⃣ - Make sure you're follo… |
+| RT @itsmerhi: Ah, hello #IAmNonbinary , I make art ❤️ https://t.co/BAXxTCfnii |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
