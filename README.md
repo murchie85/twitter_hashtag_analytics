@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Guyer"**
+&#x1F34E; **TOPIC = "#hcafc"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Guyer converts a 33 yard field goal to take a 10-7 lead over Cedar Hill with 38 seconds left in the 1Q #TXHSFB |
-| RT @SportsDayHS: The state semifinal rematch is set. Cedar Hill gets a shot at redemption against Denton Guyer. 🙌Who's ready to watch thi… |
-| Guyer stops Prosper! Cooper Lans blocks the field goal try and the eagles walk away with no points!24-24 3OT… https://t.co/bPhlswnjUx |
+| RT @bigbadwalks: Sky pundits really don’t even do the slightest bit of research, do they?  #hcafc |
+| 🐯 Jenkinson Bucket Hats AVAILABLE NOW! https://t.co/SCm4UA25CALimited numbers (30 total) across three sizes!… https://t.co/aa3qP8NagV |
+| Good start to 2021!!! #hcafc #UTT https://t.co/unu0UIfRnA |
 
-The most popular user is: **guyer_olivia**
-<div class="alert alert-block alert-danger"> RT @_JohnnyMontanez: To visually show you the differences. https://t.co/69N0BDqRKK</div>
+The most popular user is: **ombler_olivia**
+<div class="alert alert-block alert-danger"> RT @HullCity: 🐯 Fancy getting your hands on a limited edition Hull City FIFA 21 copy?
+
+1⃣ - Retweet this tweet!
+2⃣ - Make sure you're follo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ReeceWaddell15** |
-| #2 Most tweeted to  | **SportsDayHS** |
-| #3 Most tweeted to  | **DentonGuyer_FB** |
-| NewProfiles (less than 10 days) | 1.05%  |
-| Tweeters with < 10 followers  | 3.5%|
+| #1 Most tweeted to  | **HullCity** |
+| #2 Most tweeted to  | **CAFCofficial** |
+| #3 Most tweeted to  | **bbcburnsy** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.82%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +42,28 @@ The most popular user is: **guyer_olivia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GUYER**  |
-| second  | **HILL**  |
-| third  | **CEDAR** |
-| fourth  | **DENTON**  |
-| fifth  | **PROSPER**  |
+| first  | **HCAFC**  |
+| second  | **@HULLCITY:**  |
+| third  | **THETIGERS** |
+| fourth  | **🐯**  |
+| fifth  | **CITY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Denton Guyer Head Football Coach @coachrodneywebb joins @SicEm365Radio to discuss @BUFootball Commit Cooper Lanz an… https://t.co/gghG5s5CsA |
+|RT @CAFCofficial: 45+1 Four minutes added. #hcafc 1 #cafc 0 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **guyer_olivia**  |
+| The most retweeted user is: **ombler_olivia**  |
 | ------------- |
-| RT @_JohnnyMontanez: To visually show you the differences. https://t.co/69N0BDqRKK |
+| RT @HullCity: 🐯 Fancy getting your hands on a limited edition Hull City FIFA 21 copy?1⃣ - Retweet this tweet!2⃣ - Make sure you're follo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
