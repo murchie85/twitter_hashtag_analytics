@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HWAAoutNOW"**
+&#x1F34E; **TOPIC = "Bloomberg"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @atsoojin: i’m obsessed #HWAAoutNOW #IBURNoutNOW @G_I_DLE #GIDLE #여자아이들 https://t.co/aM5xazmPGk |
-| RT @uwuidle: she cried when they first debuted, she cried when they got their first win, she cried when she got their first roty award and… |
-| RT @ssjyshjmy: [#Soojin] What the.... crazyy.. thank you neverland...💕 Also this is Minnie unnies current status &gt;&lt;#IBurnOutNOW #HWAAout… |
+| RT @markets: S&amp;P 500 closed 📉 0.7% lower Monday, marking the popular index's first dip in five trading sessions https://t.co/VtkWIFmvtY htt… |
+| RT @ProgIntl: Hands off Cuba. Now.https://t.co/b7lCkAikHT |
+| RT @SPACtrack: $CCIV in talks to merge with electric vehicle company, Lucid Motors, at a potential valuation of up to $15B, according to Bl… |
 
-The most popular user is: **idlepls**
-<div class="alert alert-block alert-danger"> RT @idlecharts: .@G_I_DLE's 'HWAA' has now surpassed 10,000 hearts on MelOn. It's their fastest song to do so.
-
-#HWAAoutNOW #IBURNoutNOW</div>
+The most popular user is: **lexibutton1**
+<div class="alert alert-block alert-danger"> RT @SenWarren: Betsy DeVos has never done her job to help America’s students. It doesn’t surprise me one bit that she’d rather quit than do…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **G_I_DLE** |
-| #2 Most tweeted to  | **idlecharts** |
-| #3 Most tweeted to  | **ssjyshjmy** |
-| NewProfiles (less than 10 days) | 1.6%  |
-| Tweeters with < 10 followers  | 7.36%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **business** |
+| #2 Most tweeted to  | **DrEricDing** |
+| #3 Most tweeted to  | **kylegriffin1** |
+| NewProfiles (less than 10 days) | 1.08%  |
+| Tweeters with < 10 followers  | 4.26%|
+| Tweeters with > 1000000 followers  | 0.91%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **idlepls**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HWAAOUTNOW**  |
-| second  | **IBURNOUTNOW**  |
-| third  | **@G_I_DLE** |
-| fourth  | **GIDLE**  |
-| fifth  | **1**  |
+| first  | **@BUSINESS:**  |
+| second  | **NEW**  |
+| third  | **TRUMP** |
+| fourth  | **TRUMP’S**  |
+| fifth  | **BLOOMBERG**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|THAT'S SO SEXY FOR MY GIRLS #GIDLE #HWAAoutNOW #IBURNoutNOW @G_I_DLE https://t.co/v1MQNzwv9c |
+|Prominent New York lawyers' group opens investigation to explore removing Giuliani from its membership over Capitol… https://t.co/Dw5Ol9yM8y |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **idlepls**  |
+| The most retweeted user is: **lexibutton1**  |
 | ------------- |
-| RT @idlecharts: .@G_I_DLE's 'HWAA' has now surpassed 10,000 hearts on MelOn. It's their fastest song to do so.#HWAAoutNOW #IBURNoutNOW |
+| RT @SenWarren: Betsy DeVos has never done her job to help America’s students. It doesn’t surprise me one bit that she’d rather quit than do… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
