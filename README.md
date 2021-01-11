@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Adam Silver"**
+&#x1F34E; **TOPIC = "#HWAAoutNOW"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheTenthComing: oh and one more thing, adam silver is one of the most overrated authority figures in sports history, the only real good… |
-| RT @DEADMAN_pt2: Adam silver thought constant back to backs was a good idea in a panny lmao. Super bozo |
-| RT @ShamsCharania: Not unexpected given gatherings over Holidays.Sources say Adam Silver said on league call recently that health experts… |
+| RT @atsoojin: i’m obsessed #HWAAoutNOW #IBURNoutNOW @G_I_DLE #GIDLE #여자아이들 https://t.co/aM5xazmPGk |
+| RT @uwuidle: she cried when they first debuted, she cried when they got their first win, she cried when she got their first roty award and… |
+| RT @ssjyshjmy: [#Soojin] What the.... crazyy.. thank you neverland...💕 Also this is Minnie unnies current status &gt;&lt;#IBurnOutNOW #HWAAout… |
 
-The most popular user is: **Riley__Silver**
-<div class="alert alert-block alert-danger"> RT @joncoopertweets: Adam Johnson of Parrish, Florida has been identified as the man caught in a viral photo stealing a lectern from the U.…</div>
+The most popular user is: **idlepls**
+<div class="alert alert-block alert-danger"> RT @idlecharts: .@G_I_DLE's 'HWAA' has now surpassed 10,000 hearts on MelOn. It's their fastest song to do so.
+
+#HWAAoutNOW #IBURNoutNOW</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LegionHoops** |
-| #2 Most tweeted to  | **PrimeMaxeySZN** |
-| #3 Most tweeted to  | **ESPNNBA** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 2.76%|
-| Tweeters with > 1000000 followers  | 0.09%  |
+| #1 Most tweeted to  | **G_I_DLE** |
+| #2 Most tweeted to  | **idlecharts** |
+| #3 Most tweeted to  | **ssjyshjmy** |
+| NewProfiles (less than 10 days) | 1.6%  |
+| Tweeters with < 10 followers  | 7.36%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Riley__Silver**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SILVER**  |
-| second  | **ADAM**  |
-| third  | **NBA** |
-| fourth  | **SEATTLE**  |
-| fifth  | **MAYOR**  |
+| first  | **HWAAOUTNOW**  |
+| second  | **IBURNOUTNOW**  |
+| third  | **@G_I_DLE** |
+| fourth  | **GIDLE**  |
+| fifth  | **1**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (13.33%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Seattle mayor speaks with Adam Silver, ‘pretty optimistic’ about NBA expansion  #pl #eplhttps://t.co/fJGhA5lL5B |
+|THAT'S SO SEXY FOR MY GIRLS #GIDLE #HWAAoutNOW #IBURNoutNOW @G_I_DLE https://t.co/v1MQNzwv9c |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Riley__Silver**  |
+| The most retweeted user is: **idlepls**  |
 | ------------- |
-| RT @joncoopertweets: Adam Johnson of Parrish, Florida has been identified as the man caught in a viral photo stealing a lectern from the U.… |
+| RT @idlecharts: .@G_I_DLE's 'HWAA' has now surpassed 10,000 hearts on MelOn. It's their fastest song to do so.#HWAAoutNOW #IBURNoutNOW |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
