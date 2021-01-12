@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Meek"**
+&#x1F34E; **TOPIC = "#DescribeATVShowBadly"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jaentyy: Imagine bringing someone like Meek Mill home and letting them meet your parents. Embarrassing https://t.co/BE2LPSgvCZ |
-| Meek I beg you to stop https://t.co/dbZCWurrKV |
-| RT @Spotless360_: Ever since Meek Mill said he got Lori Harvey on his wish list, She has dated Diddy, Trey songz, Future and now Michael B… |
+| #DescribeATVShowBadly Modern-day descendants of the Third Reich commit generations of incest while stupidly interfe… https://t.co/rT6VxGtOJU |
+| Science experiment goes wrong and causes test subject to experience severe psychosis and dissociative symptoms.… https://t.co/hoMQBrcAtO |
+| Supernatural- an older brother helps his younger brother transition into the family business while meeting many int… https://t.co/OGjr77pdeG |
 
-The most popular user is: **ysl_meek**
-<div class="alert alert-block alert-danger"> RT @scruched: choose your fighter https://t.co/6AywgWV9fL</div>
+The most popular user is: **betterthanlzers**
+<div class="alert alert-block alert-danger"> RT @jimmyfallon: It's Hashtags time! Take a TV show and give it a funny or weird summary, and tag it with #DescribeATVShowBadly. Could be o…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BodegaaCat** |
-| #2 Most tweeted to  | **GilbertRasiuba** |
-| #3 Most tweeted to  | **nuffsaidny** |
-| NewProfiles (less than 10 days) | 0.59%  |
-| Tweeters with < 10 followers  | 1.94%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **jimmyfallon** |
+| #2 Most tweeted to  | **FallonTonight** |
+| #3 Most tweeted to  | **ladystarkita** |
+| NewProfiles (less than 10 days) | 2.96%  |
+| Tweeters with < 10 followers  | 15.29%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ysl_meek**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEEK**  |
-| second  | **MILL**  |
-| third  | **LORI** |
-| fourth  | **HARVEY**  |
-| fifth  | **WISH**  |
+| first  | **DESCRIBEATVSHOWBADLY@JIMMYFALLON**  |
+| second  | **DESCRIBEATVSHOWBADLY**  |
+| third  | **SHOW** |
+| fourth  | **PEOPLE**  |
+| fifth  | **@JIMMYFALLON**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (25.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|i hate that meek be tweeting like that cuz bro music so tuff😕 |
+|My Wife and Kids - It's ok like this, Honey?#DescribeATVShowBadly |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ysl_meek**  |
+| The most retweeted user is: **betterthanlzers**  |
 | ------------- |
-| RT @scruched: choose your fighter https://t.co/6AywgWV9fL |
+| RT @jimmyfallon: It's Hashtags time! Take a TV show and give it a funny or weird summary, and tag it with #DescribeATVShowBadly. Could be o… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
