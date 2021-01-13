@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DescribeATVShowBadly"**
+&#x1F34E; **TOPIC = "#askdream"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #DescribeATVShowBadly Modern-day descendants of the Third Reich commit generations of incest while stupidly interfe… https://t.co/rT6VxGtOJU |
-| Science experiment goes wrong and causes test subject to experience severe psychosis and dissociative symptoms.… https://t.co/hoMQBrcAtO |
-| Supernatural- an older brother helps his younger brother transition into the family business while meeting many int… https://t.co/OGjr77pdeG |
+| RT @hyxmix: #askdream how do these make you feel https://t.co/U3XtQbIdif |
+| even the #askdream caption is calling dream out for never streaming |
+| DO I GET MINECRAFT JAVA OR WINDOWS 10, ALSO CAN U SAY HAPPY BRITHDAY LAYLA FOR TMRW?  #askdream |
 
-The most popular user is: **betterthanlzers**
-<div class="alert alert-block alert-danger"> RT @jimmyfallon: It's Hashtags time! Take a TV show and give it a funny or weird summary, and tag it with #DescribeATVShowBadly. Could be o…</div>
+The most popular user is: **QualifiedKy**
+<div class="alert alert-block alert-danger"> RT @GeorgeNootFound: why are you so cute? #AskDream</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jimmyfallon** |
-| #2 Most tweeted to  | **FallonTonight** |
-| #3 Most tweeted to  | **ladystarkita** |
-| NewProfiles (less than 10 days) | 2.96%  |
-| Tweeters with < 10 followers  | 15.29%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **GeorgeNootFound** |
+| #2 Most tweeted to  | **whirldraws** |
+| #3 Most tweeted to  | **Skittles** |
+| NewProfiles (less than 10 days) | 4.25%  |
+| Tweeters with < 10 followers  | 28.67%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **betterthanlzers**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DESCRIBEATVSHOWBADLY@JIMMYFALLON**  |
-| second  | **DESCRIBEATVSHOWBADLY**  |
-| third  | **SHOW** |
-| fourth  | **PEOPLE**  |
-| fifth  | **@JIMMYFALLON**  |
+| first  | **ASKDREAM**  |
+| second  | **CUTE?**  |
+| third  | **@GEORGENOOTFOUND:** |
+| fourth  | **ASKDREAMRT**  |
+| fifth  | **U**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (25.0%) & **NEGATIVELY-SUBJECTIVE** (50.0%) **OBJECTIVE** (25.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|My Wife and Kids - It's ok like this, Honey?#DescribeATVShowBadly |
+|RT @GeorgeNootFound: why are you so cute? #AskDream |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **betterthanlzers**  |
+| The most retweeted user is: **QualifiedKy**  |
 | ------------- |
-| RT @jimmyfallon: It's Hashtags time! Take a TV show and give it a funny or weird summary, and tag it with #DescribeATVShowBadly. Could be o… |
+| RT @GeorgeNootFound: why are you so cute? #AskDream |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
