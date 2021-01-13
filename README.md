@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#askdream"**
+&#x1F34E; **TOPIC = "Megan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hyxmix: #askdream how do these make you feel https://t.co/U3XtQbIdif |
-| even the #askdream caption is calling dream out for never streaming |
-| DO I GET MINECRAFT JAVA OR WINDOWS 10, ALSO CAN U SAY HAPPY BRITHDAY LAYLA FOR TMRW?  #askdream |
+| @megtheeunicorn1 @MusicNewsRumor @ArianaGrande @DojaCat @theestallion @scooterbraun @TAYLAPARX @TBHITS Except my op… https://t.co/EQpKj6sQgb |
+| @NickiDaily I prefer cardi b, megan. Nicki and Ariana hmm. Looks like girl power is coming up to battlefield. |
+| RT @languageloves: no one:absolutely no one:not even toulouse:ariana, megan &amp; doja: https://t.co/zO4QN4W9Q9 |
 
-The most popular user is: **QualifiedKy**
-<div class="alert alert-block alert-danger"> RT @GeorgeNootFound: why are you so cute? #AskDream</div>
+The most popular user is: **megan_e11**
+<div class="alert alert-block alert-danger"> RT @SalmaSaade: Happy 4 year anniversary to when I flew to Edinburgh to surprise Finlay and he flew to Paris to surprise me and this is why…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GeorgeNootFound** |
-| #2 Most tweeted to  | **whirldraws** |
-| #3 Most tweeted to  | **Skittles** |
-| NewProfiles (less than 10 days) | 4.25%  |
-| Tweeters with < 10 followers  | 28.67%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **THATGUYSHELDON** |
+| #2 Most tweeted to  | **ArianaGrande** |
+| #3 Most tweeted to  | **theestallion** |
+| NewProfiles (less than 10 days) | 1.04%  |
+| Tweeters with < 10 followers  | 2.45%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **QualifiedKy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ASKDREAM**  |
-| second  | **CUTE?**  |
-| third  | **@GEORGENOOTFOUND:** |
-| fourth  | **ASKDREAMRT**  |
-| fifth  | **U**  |
+| first  | **MEGAN**  |
+| second  | **REMIX**  |
+| third  | **OLD** |
+| fourth  | **THEE**  |
+| fifth  | **STALLION**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GeorgeNootFound: why are you so cute? #AskDream |
+|@mrs_tanyaminaj I heard Megan’s on it https://t.co/TQFpSlKyk2 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **QualifiedKy**  |
+| The most retweeted user is: **megan_e11**  |
 | ------------- |
-| RT @GeorgeNootFound: why are you so cute? #AskDream |
+| RT @SalmaSaade: Happy 4 year anniversary to when I flew to Edinburgh to surprise Finlay and he flew to Paris to surprise me and this is why… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
