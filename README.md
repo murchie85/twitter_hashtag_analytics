@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Megan"**
+&#x1F34E; **TOPIC = "Chris Paul"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @megtheeunicorn1 @MusicNewsRumor @ArianaGrande @DojaCat @theestallion @scooterbraun @TAYLAPARX @TBHITS Except my op… https://t.co/EQpKj6sQgb |
-| @NickiDaily I prefer cardi b, megan. Nicki and Ariana hmm. Looks like girl power is coming up to battlefield. |
-| RT @languageloves: no one:absolutely no one:not even toulouse:ariana, megan &amp; doja: https://t.co/zO4QN4W9Q9 |
+| RT @mik3______: James Harden has played with:• Dwight Howard • Chris Paul• Clint Capela• Russell Westbrook• John Wall• DeMarcus Cous… |
+| RT @LegionHoops: Chris Paul really backed down Holiday and called him “too small”.Sheesh.https://t.co/vzAAeFHcak |
+| RT @CREWcrew: Two weeks might not seem like a long time, but it took Trump two days to pardon Paul Manafort, Roger Stone, Charles Kushner,… |
 
-The most popular user is: **megan_e11**
-<div class="alert alert-block alert-danger"> RT @SalmaSaade: Happy 4 year anniversary to when I flew to Edinburgh to surprise Finlay and he flew to Paris to surprise me and this is why…</div>
+The most popular user is: **Chris__Green**
+<div class="alert alert-block alert-danger"> RT @NYGovCuomo: Certified young person Paul Rudd wants you to wear a mask. Listen up: https://t.co/GTks5NUBmR</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **THATGUYSHELDON** |
-| #2 Most tweeted to  | **ArianaGrande** |
-| #3 Most tweeted to  | **theestallion** |
-| NewProfiles (less than 10 days) | 1.04%  |
-| Tweeters with < 10 followers  | 2.45%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **CREWcrew** |
+| #2 Most tweeted to  | **LegionHoops** |
+| #3 Most tweeted to  | **PeakRussWest24** |
+| NewProfiles (less than 10 days) | 0.67%  |
+| Tweeters with < 10 followers  | 3.07%|
+| Tweeters with > 1000000 followers  | 0.03%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **megan_e11**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEGAN**  |
-| second  | **REMIX**  |
-| third  | **OLD** |
-| fourth  | **THEE**  |
-| fifth  | **STALLION**  |
+| first  | **PAUL**  |
+| second  | **TWO**  |
+| third  | **CHRIS** |
+| fourth  | **TIME**  |
+| fifth  | **TOOK**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@mrs_tanyaminaj I heard Megan’s on it https://t.co/TQFpSlKyk2 |
+|Chris Paul got a mean ass bald spot now 😂 https://t.co/yZA6xF6cSy |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **megan_e11**  |
+| The most retweeted user is: **Chris__Green**  |
 | ------------- |
-| RT @SalmaSaade: Happy 4 year anniversary to when I flew to Edinburgh to surprise Finlay and he flew to Paris to surprise me and this is why… |
+| RT @NYGovCuomo: Certified young person Paul Rudd wants you to wear a mask. Listen up: https://t.co/GTks5NUBmR |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
