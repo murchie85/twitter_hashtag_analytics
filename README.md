@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chris Paul"**
+&#x1F34E; **TOPIC = "Tariq"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mik3______: James Harden has played with:• Dwight Howard • Chris Paul• Clint Capela• Russell Westbrook• John Wall• DeMarcus Cous… |
-| RT @LegionHoops: Chris Paul really backed down Holiday and called him “too small”.Sheesh.https://t.co/vzAAeFHcak |
-| RT @CREWcrew: Two weeks might not seem like a long time, but it took Trump two days to pardon Paul Manafort, Roger Stone, Charles Kushner,… |
+| RT @DevelopmentPk: #US Investors Want to Launch #ElectricCars in #Pakistan: ReportIn a recent news report shared by Express Tribune, it h… |
+| RT @pakistan_untold: I went to Ind in 1982. In Jalandhar's train, I invited a Sikh to convert to Islam (Dawat)-Pak Moulana Tariq Jameel (… |
+| @WEHATETXRIQ @roobeany Ionk some shitty nigga name Tariq 😂 |
 
-The most popular user is: **Chris__Green**
-<div class="alert alert-block alert-danger"> RT @NYGovCuomo: Certified young person Paul Rudd wants you to wear a mask. Listen up: https://t.co/GTks5NUBmR</div>
+The most popular user is: **__Tariq_**
+<div class="alert alert-block alert-danger"> RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CREWcrew** |
-| #2 Most tweeted to  | **LegionHoops** |
-| #3 Most tweeted to  | **PeakRussWest24** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 3.07%|
-| Tweeters with > 1000000 followers  | 0.03%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **RichJolly** |
+| #3 Most tweeted to  | **pakistan_untold** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 3.01%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Chris__Green**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PAUL**  |
-| second  | **TWO**  |
-| third  | **CHRIS** |
-| fourth  | **TIME**  |
-| fifth  | **TOOK**  |
+| first  | **TARIQ**  |
+| second  | **NEW**  |
+| third  | **LAMPTEY** |
+| fourth  | **BRIGHTON**  |
+| fifth  | **CONTRACT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (57.14%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Chris Paul got a mean ass bald spot now 😂 https://t.co/yZA6xF6cSy |
+|RT @RehaanMasood: Tawakkal is so beautiful.🕊 https://t.co/1nXbbrnkfZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Chris__Green**  |
+| The most retweeted user is: **__Tariq_**  |
 | ------------- |
-| RT @NYGovCuomo: Certified young person Paul Rudd wants you to wear a mask. Listen up: https://t.co/GTks5NUBmR |
+| RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
