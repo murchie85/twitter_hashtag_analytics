@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tariq"**
+&#x1F34E; **TOPIC = "DVSN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DevelopmentPk: #US Investors Want to Launch #ElectricCars in #Pakistan: ReportIn a recent news report shared by Express Tribune, it h… |
-| RT @pakistan_untold: I went to Ind in 1982. In Jalandhar's train, I invited a Sikh to convert to Islam (Dawat)-Pak Moulana Tariq Jameel (… |
-| @WEHATETXRIQ @roobeany Ionk some shitty nigga name Tariq 😂 |
+| RT @whereswongo: Dvsn’s “deluxe EP” has four songs and we’ve already heard two of them.Sigh https://t.co/VEB53cCQnJ |
+| RT @new_branches: Dvsn &amp; Miguel have a song together titled, ‘He Said’ dropping tonight https://t.co/tlX74QOFkT |
+| RT @_ayoelise: Let me get ready. https://t.co/5xFSlsMAX1 |
 
-The most popular user is: **__Tariq_**
-<div class="alert alert-block alert-danger"> RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk</div>
+The most popular user is: **dvsn_baby**
+<div class="alert alert-block alert-danger"> RT @Neyogems: I’m not ugly but if you see me on my moms fb then idk what to tell you 😭😭😭</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **RichJolly** |
-| #3 Most tweeted to  | **pakistan_untold** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 3.01%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **dvsn** |
+| #2 Most tweeted to  | **DailyRapFacts** |
+| #3 Most tweeted to  | **new_branches** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 1.37%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **__Tariq_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TARIQ**  |
-| second  | **NEW**  |
-| third  | **LAMPTEY** |
-| fourth  | **BRIGHTON**  |
-| fifth  | **CONTRACT**  |
+| first  | **DVSN**  |
+| second  | **DROPPING**  |
+| third  | **NEW** |
+| fourth  | **MUSIC**  |
+| fifth  | **JUICE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (57.14%)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RehaanMasood: Tawakkal is so beautiful.🕊 https://t.co/1nXbbrnkfZ |
+|RT @HotFreestyle: Music Dropping Midnight:Juice WRLD &amp; Young Thug - Bad BoyDaBaby - MasterpieceFredo Bang - Still Most Hated (album)… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **__Tariq_**  |
+| The most retweeted user is: **dvsn_baby**  |
 | ------------- |
-| RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk |
+| RT @Neyogems: I’m not ugly but if you see me on my moms fb then idk what to tell you 😭😭😭 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
