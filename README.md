@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "DVSN"**
+&#x1F34E; **TOPIC = "#UILState"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @whereswongo: Dvsn’s “deluxe EP” has four songs and we’ve already heard two of them.Sigh https://t.co/VEB53cCQnJ |
-| RT @new_branches: Dvsn &amp; Miguel have a song together titled, ‘He Said’ dropping tonight https://t.co/tlX74QOFkT |
-| RT @_ayoelise: Let me get ready. https://t.co/5xFSlsMAX1 |
+| The Bearcats head into halftime with a 35-14 lead over Crosby in the Class 5A Division II title game! #win10… https://t.co/q8Yqzklwzb |
+| FREE on @flyoverfootball | @WabashIT previews the Dodge Bowl and the rest of the weekend's #UILState #txhsfb… https://t.co/TVyL5K4jB2 |
+| RT @dctf: 6A Division I UIL Football State Championship@CarrollDragonFB vs. @Westlake_Nation #UILState #txhsfb https://t.co/4rg9veLWXL |
 
-The most popular user is: **dvsn_baby**
-<div class="alert alert-block alert-danger"> RT @Neyogems: I’m not ugly but if you see me on my moms fb then idk what to tell you 😭😭😭</div>
+The most popular user is: **ehernandeztx**
+<div class="alert alert-block alert-danger"> RT @THSCAcoaches: “What would it be like if you two faced off in a state championship game?”
+
+“Well It would be crazy for one...Elizabeth D…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dvsn** |
-| #2 Most tweeted to  | **DailyRapFacts** |
-| #3 Most tweeted to  | **new_branches** |
-| NewProfiles (less than 10 days) | 0.47%  |
-| Tweeters with < 10 followers  | 1.37%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **dctf** |
+| #2 Most tweeted to  | **CrosbyHSCougars** |
+| #3 Most tweeted to  | **Matt_Stepp817** |
+| NewProfiles (less than 10 days) | 0.07%  |
+| Tweeters with < 10 followers  | 1.06%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **dvsn_baby**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DVSN**  |
-| second  | **DROPPING**  |
-| third  | **NEW** |
-| fourth  | **MUSIC**  |
-| fifth  | **JUICE**  |
+| first  | **UILSTATE**  |
+| second  | **TXHSFB**  |
+| third  | **STATE** |
+| fourth  | **ALEDO**  |
+| fifth  | **@DCTF:**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HotFreestyle: Music Dropping Midnight:Juice WRLD &amp; Young Thug - Bad BoyDaBaby - MasterpieceFredo Bang - Still Most Hated (album)… |
+|RT @uiltexas: Congratulations to @Birdville_High, 2021 Conference 5A-D1 #UILState Spirit Champions!📣🏆📣Results ➡️ https://t.co/VAUzCWLar… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **dvsn_baby**  |
+| The most retweeted user is: **ehernandeztx**  |
 | ------------- |
-| RT @Neyogems: I’m not ugly but if you see me on my moms fb then idk what to tell you 😭😭😭 |
+| RT @THSCAcoaches: “What would it be like if you two faced off in a state championship game?”“Well It would be crazy for one...Elizabeth D… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
