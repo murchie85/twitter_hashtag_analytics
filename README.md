@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UILState"**
+&#x1F34E; **TOPIC = "Guentzel"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The Bearcats head into halftime with a 35-14 lead over Crosby in the Class 5A Division II title game! #win10… https://t.co/q8Yqzklwzb |
-| FREE on @flyoverfootball | @WabashIT previews the Dodge Bowl and the rest of the weekend's #UILState #txhsfb… https://t.co/TVyL5K4jB2 |
-| RT @dctf: 6A Division I UIL Football State Championship@CarrollDragonFB vs. @Westlake_Nation #UILState #txhsfb https://t.co/4rg9veLWXL |
+| RT @Sportsnet: Jake Guentzel with the shootout winner for the @penguins 🔥#NHLonSN | #ItsOn https://t.co/Gl0vNlEh1C |
+| RT @DKPghSports: While a few of the Penguins' core players, especially Sidney Crosby, have gotten a strong start to the season, several oth… |
+| RT @bobgrove91: 60% of the players expected to be in the Pens' lineup today played college hockey: Guentzel, Zucker, Rust, Jankowski, Rodri… |
 
-The most popular user is: **ehernandeztx**
-<div class="alert alert-block alert-danger"> RT @THSCAcoaches: “What would it be like if you two faced off in a state championship game?”
-
-“Well It would be crazy for one...Elizabeth D…</div>
+The most popular user is: **ay_taybay**
+<div class="alert alert-block alert-danger"> RT @ay_taybay: Jake Guentzel calling PK Subban a "fucking pussy" gives me life https://t.co/euCCwuOZqq</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dctf** |
-| #2 Most tweeted to  | **CrosbyHSCougars** |
-| #3 Most tweeted to  | **Matt_Stepp817** |
-| NewProfiles (less than 10 days) | 0.07%  |
-| Tweeters with < 10 followers  | 1.06%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **PensInsideScoop** |
+| #2 Most tweeted to  | **penguins** |
+| #3 Most tweeted to  | **HeresYourReplay** |
+| NewProfiles (less than 10 days) | 2.03%  |
+| Tweeters with < 10 followers  | 3.92%|
+| Tweeters with > 1000000 followers  | 0.47%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **ehernandeztx**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UILSTATE**  |
-| second  | **TXHSFB**  |
-| third  | **STATE** |
-| fourth  | **ALEDO**  |
-| fifth  | **@DCTF:**  |
+| first  | **GUENTZEL**  |
+| second  | **JAKE**  |
+| third  | **SHOOTOUT** |
+| fourth  | **PENS**  |
+| fifth  | **CROSBY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @uiltexas: Congratulations to @Birdville_High, 2021 Conference 5A-D1 #UILState Spirit Champions!📣🏆📣Results ➡️ https://t.co/VAUzCWLar… |
+|@PittsburghMania Love to see Guentzel show up as well. Need to stick with those D pairings. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ehernandeztx**  |
+| The most retweeted user is: **ay_taybay**  |
 | ------------- |
-| RT @THSCAcoaches: “What would it be like if you two faced off in a state championship game?”“Well It would be crazy for one...Elizabeth D… |
+| RT @ay_taybay: Jake Guentzel calling PK Subban a "fucking pussy" gives me life https://t.co/euCCwuOZqq |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
