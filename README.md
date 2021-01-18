@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Guentzel"**
+&#x1F34E; **TOPIC = "#BrewMonday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Sportsnet: Jake Guentzel with the shootout winner for the @penguins 🔥#NHLonSN | #ItsOn https://t.co/Gl0vNlEh1C |
-| RT @DKPghSports: While a few of the Penguins' core players, especially Sidney Crosby, have gotten a strong start to the season, several oth… |
-| RT @bobgrove91: 60% of the players expected to be in the Pens' lineup today played college hockey: Guentzel, Zucker, Rust, Jankowski, Rodri… |
+| RT @yellowwelliesuk: At this challenging time, it’s even more important for us all to stay connected. That’s why we’re supporting #BrewMond… |
+| RT @samaritans: Now more than ever it's important to stay connected 💚That's why we're encouraging you to share a virtual cuppa and a chat… |
+| RT @samaritans: Save the date 📅 On 18th January #BrewMonday is back ☕  Now more than ever, it's important we connect and check-in with ou… |
 
-The most popular user is: **ay_taybay**
-<div class="alert alert-block alert-danger"> RT @ay_taybay: Jake Guentzel calling PK Subban a "fucking pussy" gives me life https://t.co/euCCwuOZqq</div>
+The most popular user is: **sadoldegoth**
+<div class="alert alert-block alert-danger"> RT @samaritans: Now more than ever it's important to stay connected 💚
+
+That's why we're encouraging you to share a virtual cuppa and a chat…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PensInsideScoop** |
-| #2 Most tweeted to  | **penguins** |
-| #3 Most tweeted to  | **HeresYourReplay** |
-| NewProfiles (less than 10 days) | 2.03%  |
-| Tweeters with < 10 followers  | 3.92%|
-| Tweeters with > 1000000 followers  | 0.47%  |
+| #1 Most tweeted to  | **samaritans** |
+| #2 Most tweeted to  | **allontheboard** |
+| #3 Most tweeted to  | **charliemackesy** |
+| NewProfiles (less than 10 days) | 0.31%  |
+| Tweeters with < 10 followers  | 0.97%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ay_taybay**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GUENTZEL**  |
-| second  | **JAKE**  |
-| third  | **SHOOTOUT** |
-| fourth  | **PENS**  |
-| fifth  | **CROSBY**  |
+| first  | **BREWMONDAY**  |
+| second  | **CUPPA**  |
+| third  | **VIRTUAL** |
+| fourth  | **MONDAY**  |
+| fifth  | **BLUEMONDAY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@PittsburghMania Love to see Guentzel show up as well. Need to stick with those D pairings. |
+|RT @allontheboard: Today is supposed to be Blue Monday, but let’s put the kettle on, have a virtual cuppa and a chat and turn it into Brew… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ay_taybay**  |
+| The most retweeted user is: **sadoldegoth**  |
 | ------------- |
-| RT @ay_taybay: Jake Guentzel calling PK Subban a "fucking pussy" gives me life https://t.co/euCCwuOZqq |
+| RT @samaritans: Now more than ever it's important to stay connected 💚That's why we're encouraging you to share a virtual cuppa and a chat… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
