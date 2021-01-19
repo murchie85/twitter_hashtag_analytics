@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Steph"**
+&#x1F34E; **TOPIC = "noah beck"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @notGuru_: Steph Curry, with no star teammates, just sonned LeBron and his superteam LakersBEST PLAYER IN THE WORLD https://t.co/mN7ZW… |
-| RT @gswchris: Anthony Davis has always been BBQ chicken for Steph Curry https://t.co/NmTuuiA96Q |
-| RT @NourishedByNat: Nothing new to see here. Just Steph hitting a game-winning shot over AD. |
+| RT @tpwkcherryx: noah beck?? please HARRY STYLES EVERYONE https://t.co/LcHb8ic5po |
+| RT @brokendaylights: idk who needs to hear this but noah beck isnt hot |
+| RT @justkinglwt: you're obsessing over noah beck when zayn malik exists??? https://t.co/NjUlNsD6Lt |
 
-The most popular user is: **Steph__y**
-<div class="alert alert-block alert-danger"> RT @caringbrats: “ur so sensitive” thanks i was never fully allowed to express my emotions without being judged</div>
+The most popular user is: **rubylouiseeex**
+<div class="alert alert-block alert-danger"> RT @brokendaylights: idk who needs to hear this but noah beck isnt hot</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **warriors** |
-| #2 Most tweeted to  | **ThompsonScribe** |
-| #3 Most tweeted to  | **JDumasReports** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 3.63%|
+| #1 Most tweeted to  | **brokendaylights** |
+| #2 Most tweeted to  | **justkinglwt** |
+| #3 Most tweeted to  | **PRADASFILM** |
+| NewProfiles (less than 10 days) | 1.89%  |
+| Tweeters with < 10 followers  | 6.07%|
 | Tweeters with > 1000000 followers  | 0.01%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Steph__y**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STEPH**  |
-| second  | **CURRY**  |
-| third  | **LEBRON** |
-| fourth  | **LOSING**  |
-| fifth  | **HATES**  |
+| first  | **NOAH**  |
+| second  | **BECK**  |
+| third  | **IDK** |
+| fourth  | **NEEDS**  |
+| fifth  | **HEAR**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NBATV: STEPH. CLOSER. 🔥He finished with 26 PTS as the Warriors get the win! https://t.co/qseL1P74Zd |
+|RT @tpwkcherryx: noah beck?? please HARRY STYLES EVERYONE https://t.co/LcHb8ic5po |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Steph__y**  |
+| The most retweeted user is: **rubylouiseeex**  |
 | ------------- |
-| RT @caringbrats: “ur so sensitive” thanks i was never fully allowed to express my emotions without being judged |
+| RT @brokendaylights: idk who needs to hear this but noah beck isnt hot |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
