@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Arteta"**
+&#x1F34E; **TOPIC = "Steph"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Psolyn1: Cedric was excellent tonight in my opinion. Played really well generally, combined nicely with Saka on that right side and how… |
-| RT @alamin_ghost: I Beg you in the name of GOD don’t skip without retweeting Super clean 2009 upgraded Corolla‼️💰: ₦1,800,000 📍: ABUJ… |
-| Brucie to Arteta the night!!!!!! #nufc https://t.co/5OkLDyqyp8 |
+| RT @notGuru_: Steph Curry, with no star teammates, just sonned LeBron and his superteam LakersBEST PLAYER IN THE WORLD https://t.co/mN7ZW… |
+| RT @gswchris: Anthony Davis has always been BBQ chicken for Steph Curry https://t.co/NmTuuiA96Q |
+| RT @NourishedByNat: Nothing new to see here. Just Steph hitting a game-winning shot over AD. |
 
-The most popular user is: **Arteta_FC**
-<div class="alert alert-block alert-danger"> RT @kingmick_xx: anyone else stuck in this cycle 😭😭😂 https://t.co/41NqEOPuWg</div>
+The most popular user is: **Steph__y**
+<div class="alert alert-block alert-danger"> RT @caringbrats: “ur so sensitive” thanks i was never fully allowed to express my emotions without being judged</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChrisWheatley_** |
-| #2 Most tweeted to  | **charles_watts** |
-| #3 Most tweeted to  | **afcstuff** |
-| NewProfiles (less than 10 days) | 0.82%  |
-| Tweeters with < 10 followers  | 2.99%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **warriors** |
+| #2 Most tweeted to  | **ThompsonScribe** |
+| #3 Most tweeted to  | **JDumasReports** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 3.63%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Arteta_FC**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARTETA**  |
-| second  | **MIKEL**  |
-| third  | **ARSENAL** |
-| fourth  | **LEFT**  |
-| fifth  | **REALLY**  |
+| first  | **STEPH**  |
+| second  | **CURRY**  |
+| third  | **LEBRON** |
+| fourth  | **LOSING**  |
+| fifth  | **HATES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Gunnerian: Any player consistently underperforming Arteta has no qualms in taking them out of the team. I really think it's time to tak… |
+|RT @NBATV: STEPH. CLOSER. 🔥He finished with 26 PTS as the Warriors get the win! https://t.co/qseL1P74Zd |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Arteta_FC**  |
+| The most retweeted user is: **Steph__y**  |
 | ------------- |
-| RT @kingmick_xx: anyone else stuck in this cycle 😭😭😂 https://t.co/41NqEOPuWg |
+| RT @caringbrats: “ur so sensitive” thanks i was never fully allowed to express my emotions without being judged |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
