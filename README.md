@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BrewMonday"**
+&#x1F34E; **TOPIC = "Arteta"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @yellowwelliesuk: At this challenging time, it’s even more important for us all to stay connected. That’s why we’re supporting #BrewMond… |
-| RT @samaritans: Now more than ever it's important to stay connected 💚That's why we're encouraging you to share a virtual cuppa and a chat… |
-| RT @samaritans: Save the date 📅 On 18th January #BrewMonday is back ☕  Now more than ever, it's important we connect and check-in with ou… |
+| RT @Psolyn1: Cedric was excellent tonight in my opinion. Played really well generally, combined nicely with Saka on that right side and how… |
+| RT @alamin_ghost: I Beg you in the name of GOD don’t skip without retweeting Super clean 2009 upgraded Corolla‼️💰: ₦1,800,000 📍: ABUJ… |
+| Brucie to Arteta the night!!!!!! #nufc https://t.co/5OkLDyqyp8 |
 
-The most popular user is: **sadoldegoth**
-<div class="alert alert-block alert-danger"> RT @samaritans: Now more than ever it's important to stay connected 💚
-
-That's why we're encouraging you to share a virtual cuppa and a chat…</div>
+The most popular user is: **Arteta_FC**
+<div class="alert alert-block alert-danger"> RT @kingmick_xx: anyone else stuck in this cycle 😭😭😂 https://t.co/41NqEOPuWg</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **samaritans** |
-| #2 Most tweeted to  | **allontheboard** |
-| #3 Most tweeted to  | **charliemackesy** |
-| NewProfiles (less than 10 days) | 0.31%  |
-| Tweeters with < 10 followers  | 0.97%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **ChrisWheatley_** |
+| #2 Most tweeted to  | **charles_watts** |
+| #3 Most tweeted to  | **afcstuff** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 2.99%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ That's why we're encouraging you to share a virtual cuppa and a chat…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BREWMONDAY**  |
-| second  | **CUPPA**  |
-| third  | **VIRTUAL** |
-| fourth  | **MONDAY**  |
-| fifth  | **BLUEMONDAY**  |
+| first  | **ARTETA**  |
+| second  | **MIKEL**  |
+| third  | **ARSENAL** |
+| fourth  | **LEFT**  |
+| fifth  | **REALLY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @allontheboard: Today is supposed to be Blue Monday, but let’s put the kettle on, have a virtual cuppa and a chat and turn it into Brew… |
+|RT @Gunnerian: Any player consistently underperforming Arteta has no qualms in taking them out of the team. I really think it's time to tak… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sadoldegoth**  |
+| The most retweeted user is: **Arteta_FC**  |
 | ------------- |
-| RT @samaritans: Now more than ever it's important to stay connected 💚That's why we're encouraging you to share a virtual cuppa and a chat… |
+| RT @kingmick_xx: anyone else stuck in this cycle 😭😭😂 https://t.co/41NqEOPuWg |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
