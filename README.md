@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "noah beck"**
+&#x1F34E; **TOPIC = "#TrumpsLastDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @tpwkcherryx: noah beck?? please HARRY STYLES EVERYONE https://t.co/LcHb8ic5po |
-| RT @brokendaylights: idk who needs to hear this but noah beck isnt hot |
-| RT @justkinglwt: you're obsessing over noah beck when zayn malik exists??? https://t.co/NjUlNsD6Lt |
+| For the history books #TrumpsLastDay https://t.co/0Oi02A6qLB |
+| So he really is delusional. If anything we've lost respect while Trump was "President". Time to get that respect ba… https://t.co/JsHZLVEu1B |
+| RT @MrIvankaTrump: Now that it’s #TrumpsLastDay he will soon have time to go back to failing at everything else he does. |
 
-The most popular user is: **rubylouiseeex**
-<div class="alert alert-block alert-danger"> RT @brokendaylights: idk who needs to hear this but noah beck isnt hot</div>
+The most popular user is: **carlosjmilano**
+<div class="alert alert-block alert-danger"> RT @TulsiGabbard: The prosecution of Assange is a direct threat to a free press &amp; freedom of speech for every American.
+
+I urge President T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brokendaylights** |
-| #2 Most tweeted to  | **justkinglwt** |
-| #3 Most tweeted to  | **PRADASFILM** |
-| NewProfiles (less than 10 days) | 1.89%  |
-| Tweeters with < 10 followers  | 6.07%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **TulsiGabbard** |
+| #2 Most tweeted to  | **w_terrence** |
+| #3 Most tweeted to  | **tedlieu** |
+| NewProfiles (less than 10 days) | 1.48%  |
+| Tweeters with < 10 followers  | 7.46%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **rubylouiseeex**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NOAH**  |
-| second  | **BECK**  |
-| third  | **IDK** |
-| fourth  | **NEEDS**  |
-| fifth  | **HEAR**  |
+| first  | **TRUMPSLASTDAY**  |
+| second  | **PRESIDENT**  |
+| third  | **TRUMP** |
+| fourth  | **ALWAYS**  |
+| fifth  | **SPEECH**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (71.43%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (14.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @tpwkcherryx: noah beck?? please HARRY STYLES EVERYONE https://t.co/LcHb8ic5po |
+|RT @TulsiGabbard: The prosecution of Assange is a direct threat to a free press &amp; freedom of speech for every American.I urge President T… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rubylouiseeex**  |
+| The most retweeted user is: **carlosjmilano**  |
 | ------------- |
-| RT @brokendaylights: idk who needs to hear this but noah beck isnt hot |
+| RT @TulsiGabbard: The prosecution of Assange is a direct threat to a free press &amp; freedom of speech for every American.I urge President T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
