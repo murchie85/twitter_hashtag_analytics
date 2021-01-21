@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WrathTakesStock"**
+&#x1F34E; **TOPIC = "Spurs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,28 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @wrathsoftware I replied to that but you know you've seen me around in all of your statuses.  Active forever and be… https://t.co/FY1bwih3rH |
-| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
-| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
+| RT @anthonyVslater: Warriors beat the Spurs by 22. Their most dominant performance of the season. Current picture of the crowded West ladde… |
+| RT @MontePooleNBCS: Kelly Oubre Jr's first 14 minutes: 11 points, 3 rebounds, 2 steals, one block. Warriors 43, Spurs 33 |
+| @kylekirms What’s your lean in spurs/warriors? |
 
-The most popular user is: **sdeol88**
-<div class="alert alert-block alert-danger"> RT @wrathsoftware: Looking to destroy next months releases? 🥶
-
-We're giving away TEN monthly licenses to help. 💙
-
-To enter:
-🔹Like &amp; RT. 
-🔹R…</div>
+The most popular user is: **spurs_20**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Congratulations to my friend, President @JoeBiden! This is your time. https://t.co/LXzxGnBAfz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wrathsoftware** |
-| #2 Most tweeted to  | **bkantha1** |
-| #3 Most tweeted to  | **ChefSanta2021** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 26.81%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **spurs** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **warriors** |
+| NewProfiles (less than 10 days) | 1.38%  |
+| Tweeters with < 10 followers  | 3.57%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -45,28 +39,28 @@ To enter:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HELP**  |
-| second  | **NEXT**  |
-| third  | **LOOKING** |
-| fourth  | **MONTHS**  |
-| fifth  | **MONTHLY**  |
+| first  | **SPURS**  |
+| second  | **WARRIORS**  |
+| third  | **WISEMAN** |
+| fourth  | **@SPURS:**  |
+| fifth  | **VS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (10.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (50.0%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
+|RT @antonin_org: Spurs have no answers for Wiseman |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sdeol88**  |
+| The most retweeted user is: **spurs_20**  |
 | ------------- |
-| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
+| RT @BarackObama: Congratulations to my friend, President @JoeBiden! This is your time. https://t.co/LXzxGnBAfz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
