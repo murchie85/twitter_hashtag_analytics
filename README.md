@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Spurs"**
+&#x1F34E; **TOPIC = "Diet Coke"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @anthonyVslater: Warriors beat the Spurs by 22. Their most dominant performance of the season. Current picture of the crowded West ladde… |
-| RT @MontePooleNBCS: Kelly Oubre Jr's first 14 minutes: 11 points, 3 rebounds, 2 steals, one block. Warriors 43, Spurs 33 |
-| @kylekirms What’s your lean in spurs/warriors? |
+| RT @EmmyA2: I would've paid so much money to get to be in the room for the conversation that I imagine went like:BIDEN: ok what's nextS… |
+| THERE WAS A DIET COKE BUTTON?????? |
+| RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became… |
 
-The most popular user is: **spurs_20**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Congratulations to my friend, President @JoeBiden! This is your time. https://t.co/LXzxGnBAfz</div>
+The most popular user is: **riders1friend2**
+<div class="alert alert-block alert-danger"> RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **spurs** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **warriors** |
-| NewProfiles (less than 10 days) | 1.38%  |
-| Tweeters with < 10 followers  | 3.57%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **tnewtondunn** |
+| #2 Most tweeted to  | **ShippersUnbound** |
+| #3 Most tweeted to  | **TheCalamityCarl** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 2.83%|
+| Tweeters with > 1000000 followers  | 0.01%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **spurs_20**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SPURS**  |
-| second  | **WARRIORS**  |
-| third  | **WISEMAN** |
-| fourth  | **@SPURS:**  |
-| fifth  | **VS**  |
+| first  | **COKE**  |
+| second  | **DIET**  |
+| third  | **BUTTON** |
+| fourth  | **BIDEN**  |
+| fifth  | **TRUMP**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @antonin_org: Spurs have no answers for Wiseman |
+|RT @IwriteOK: this is not the change we voted forif you elect me president in 2024, there will be a Diet Coke button in every home, and b… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **spurs_20**  |
+| The most retweeted user is: **riders1friend2**  |
 | ------------- |
-| RT @BarackObama: Congratulations to my friend, President @JoeBiden! This is your time. https://t.co/LXzxGnBAfz |
+| RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
