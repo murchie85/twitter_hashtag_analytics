@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kodak"**
+&#x1F34E; **TOPIC = "#WrathTakesStock"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,28 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @4TheCulture____: Donald Trump after getting Kodak Black out of jail  https://t.co/ZbE69LHU8O |
-| So this is why Kodak got pardoned? https://t.co/BpbNqN66SP |
-| RT @viicarson: Kodak free????? LETS GOOOOOOOO https://t.co/WMPkwoBpXb |
+| @wrathsoftware I replied to that but you know you've seen me around in all of your statuses.  Active forever and be… https://t.co/FY1bwih3rH |
+| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
+| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
 
-The most popular user is: **_ducee_**
-<div class="alert alert-block alert-danger"> RT @bitchiwas999: Every time “No Flockin” by Kodak come on  https://t.co/erKNQkw88B</div>
+The most popular user is: **sdeol88**
+<div class="alert alert-block alert-danger"> RT @wrathsoftware: Looking to destroy next months releases? 🥶
+
+We're giving away TEN monthly licenses to help. 💙
+
+To enter:
+🔹Like &amp; RT. 
+🔹R…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Jayl0n1k** |
-| #2 Most tweeted to  | **Phil_Lewis_** |
-| #3 Most tweeted to  | **XXL** |
-| NewProfiles (less than 10 days) | 0.67%  |
-| Tweeters with < 10 followers  | 2.66%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **wrathsoftware** |
+| #2 Most tweeted to  | **bkantha1** |
+| #3 Most tweeted to  | **ChefSanta2021** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 26.81%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **_ducee_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KODAK**  |
-| second  | **BLACK**  |
-| third  | **TRUMP** |
-| fourth  | **WAYNE**  |
-| fifth  | **LIL**  |
+| first  | **HELP**  |
+| second  | **NEXT**  |
+| third  | **LOOKING** |
+| fourth  | **MONTHS**  |
+| fifth  | **MONTHLY**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
+VIEWS WERE : **SUBJECTIVE**  (10.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DueyJalen: “Before I go free them boyz Kodak and weezy. Donald out💯” https://t.co/kdiAhlpjU5 |
+|RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_ducee_**  |
+| The most retweeted user is: **sdeol88**  |
 | ------------- |
-| RT @bitchiwas999: Every time “No Flockin” by Kodak come on  https://t.co/erKNQkw88B |
+| RT @wrathsoftware: Looking to destroy next months releases? 🥶We're giving away TEN monthly licenses to help. 💙To enter:🔹Like &amp; RT. 🔹R… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
