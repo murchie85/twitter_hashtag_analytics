@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Diet Coke"**
+&#x1F34E; **TOPIC = "Hue Jackson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @EmmyA2: I would've paid so much money to get to be in the room for the conversation that I imagine went like:BIDEN: ok what's nextS… |
-| THERE WAS A DIET COKE BUTTON?????? |
-| RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became… |
+| RT @diannaESPN: The Pittsburgh Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator po… |
+| RT @MikeAsti11: The Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator position, per… |
+| RT @diannaESPN: The Pittsburgh Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator po… |
 
-The most popular user is: **riders1friend2**
-<div class="alert alert-block alert-danger"> RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became…</div>
+The most popular user is: **Hue_Henry**
+<div class="alert alert-block alert-danger"> RT @7im: andrew jackson has been replaced with ben franklin https://t.co/nJaVzgnAqe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tnewtondunn** |
-| #2 Most tweeted to  | **ShippersUnbound** |
-| #3 Most tweeted to  | **TheCalamityCarl** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 2.83%|
-| Tweeters with > 1000000 followers  | 0.01%  |
+| #1 Most tweeted to  | **diannaESPN** |
+| #2 Most tweeted to  | **MySportsUpdate** |
+| #3 Most tweeted to  | **Nick_8643** |
+| NewProfiles (less than 10 days) | 0.41%  |
+| Tweeters with < 10 followers  | 3.48%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **riders1friend2**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COKE**  |
-| second  | **DIET**  |
-| third  | **BUTTON** |
-| fourth  | **BIDEN**  |
-| fifth  | **TRUMP**  |
+| first  | **HUE**  |
+| second  | **JACKSON**  |
+| third  | **STEELERS** |
+| fourth  | **HASKINS**  |
+| fifth  | **BROWNS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @IwriteOK: this is not the change we voted forif you elect me president in 2024, there will be a Diet Coke button in every home, and b… |
+|@SteeIerNation I’m an honest Steelers fan and this would be a great signing. If we pair him with a QB guru like Hue… https://t.co/txlV2TPdrO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **riders1friend2**  |
+| The most retweeted user is: **Hue_Henry**  |
 | ------------- |
-| RT @tnewtondunn: President Biden has removed the Diet Coke button. When @ShippersUnbound and I interviewed Donald Trump in 2019, we became… |
+| RT @7im: andrew jackson has been replaced with ben franklin https://t.co/nJaVzgnAqe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
