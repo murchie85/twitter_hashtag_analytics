@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hue Jackson"**
+&#x1F34E; **TOPIC = "Usher"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @diannaESPN: The Pittsburgh Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator po… |
-| RT @MikeAsti11: The Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator position, per… |
-| RT @diannaESPN: The Pittsburgh Steelers interviewed former Browns Head Coach Hue Jackson earlier this week for the offensive coordinator po… |
+| RT @theejenbunny2: But he ain’t better than usher ...idgaf if he wrote amazing Grace |
+| Y’all want Usher “My Way, 8701, Confessions” to do a verzuz 😂😂 the only male seeing his discography is rightfully in jail so 😬😬😬 |
+| RT @jiggyjayy2: Usher could literally do a whole verzuz with JUST the Confessions album. He is not one of them!!! |
 
-The most popular user is: **Hue_Henry**
-<div class="alert alert-block alert-danger"> RT @7im: andrew jackson has been replaced with ben franklin https://t.co/nJaVzgnAqe</div>
+The most popular user is: **fendi_Usher**
+<div class="alert alert-block alert-danger"> RT @21savage: Today is the 21st day of the 21st year of the 21st century https://t.co/dddKj2ytTJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **diannaESPN** |
-| #2 Most tweeted to  | **MySportsUpdate** |
-| #3 Most tweeted to  | **Nick_8643** |
-| NewProfiles (less than 10 days) | 0.41%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **earringdealer** |
+| #2 Most tweeted to  | **jiggyjayy2** |
+| #3 Most tweeted to  | **MatthewACherry** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 1.97%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Hue_Henry**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HUE**  |
-| second  | **JACKSON**  |
-| third  | **STEELERS** |
-| fourth  | **HASKINS**  |
-| fifth  | **BROWNS**  |
+| first  | **USHER**  |
+| second  | **VERZUZ**  |
+| third  | **Y’ALL** |
+| fourth  | **COULD**  |
+| fifth  | **JT**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@SteeIerNation I’m an honest Steelers fan and this would be a great signing. If we pair him with a QB guru like Hue… https://t.co/txlV2TPdrO |
+|RT @vloids: what does JT do when usher plays this https://t.co/mJFvuBbEay |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Hue_Henry**  |
+| The most retweeted user is: **fendi_Usher**  |
 | ------------- |
-| RT @7im: andrew jackson has been replaced with ben franklin https://t.co/nJaVzgnAqe |
+| RT @21savage: Today is the 21st day of the 21st year of the 21st century https://t.co/dddKj2ytTJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
