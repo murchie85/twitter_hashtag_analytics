@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Usher"**
+&#x1F34E; **TOPIC = "#ForgiveRentDebts"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @theejenbunny2: But he ain’t better than usher ...idgaf if he wrote amazing Grace |
-| Y’all want Usher “My Way, 8701, Confessions” to do a verzuz 😂😂 the only male seeing his discography is rightfully in jail so 😬😬😬 |
-| RT @jiggyjayy2: Usher could literally do a whole verzuz with JUST the Confessions album. He is not one of them!!! |
+| RT @mlgeditor: .@cagovernor @GavinNewsom, protect California families from eviction and long-term rent debt. Listen to renters, not hedge f… |
+| RT @SAJE_ShiftPower: The $2.6 billion in federal funds for rental assistance is our chance to stabilize families and stabilize the housing… |
+| @GavinNewsom, no more shortcuts on what you think are tenant protections! You must begin to listen to the people di… https://t.co/5sOBzGGiKa |
 
-The most popular user is: **fendi_Usher**
-<div class="alert alert-block alert-danger"> RT @21savage: Today is the 21st day of the 21st year of the 21st century https://t.co/dddKj2ytTJ</div>
+The most popular user is: **fredfrazier**
+<div class="alert alert-block alert-danger"> RT @HousingNowCA: CA is facing many crises, @GavinNewsom must advance lasting solutions for our California communities and provide some sta…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **earringdealer** |
-| #2 Most tweeted to  | **jiggyjayy2** |
-| #3 Most tweeted to  | **MatthewACherry** |
-| NewProfiles (less than 10 days) | 0.47%  |
-| Tweeters with < 10 followers  | 1.97%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **GavinNewsom** |
+| #2 Most tweeted to  | **HousingNowCA** |
+| #3 Most tweeted to  | **CAgovernor** |
+| NewProfiles (less than 10 days) | 1.28%  |
+| Tweeters with < 10 followers  | 3.19%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **fendi_Usher**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **USHER**  |
-| second  | **VERZUZ**  |
-| third  | **Y’ALL** |
-| fourth  | **COULD**  |
-| fifth  | **JT**  |
+| first  | **@GAVINNEWSOM**  |
+| second  | **CA**  |
+| third  | **SOLUTIONS** |
+| fourth  | **LASTING**  |
+| fifth  | **CRISES**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @vloids: what does JT do when usher plays this https://t.co/mJFvuBbEay |
+|RT @UCAFT: As lecturers and librarians we urge @CAgovernor @GavinNewsom to advance lasting solutions for our communities by extending evict… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fendi_Usher**  |
+| The most retweeted user is: **fredfrazier**  |
 | ------------- |
-| RT @21savage: Today is the 21st day of the 21st year of the 21st century https://t.co/dddKj2ytTJ |
+| RT @HousingNowCA: CA is facing many crises, @GavinNewsom must advance lasting solutions for our California communities and provide some sta… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
