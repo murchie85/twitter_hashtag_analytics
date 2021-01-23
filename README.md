@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ForgiveRentDebts"**
+&#x1F34E; **TOPIC = "Putin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mlgeditor: .@cagovernor @GavinNewsom, protect California families from eviction and long-term rent debt. Listen to renters, not hedge f… |
-| RT @SAJE_ShiftPower: The $2.6 billion in federal funds for rental assistance is our chance to stabilize families and stabilize the housing… |
-| @GavinNewsom, no more shortcuts on what you think are tenant protections! You must begin to listen to the people di… https://t.co/5sOBzGGiKa |
+| RT @HenryJFoy: Needless to say, McKinsey Russia counts many major state-owned companies as clients. I wonder if they would fire employees w… |
+| RT @WalshFreedom: Trump was “tough on China &amp; Russia?” Bullshit. American farmers &amp; workers paid for Trump’s stupid trade war with China, a… |
+| @SusyHtoonTin @funder Yes! Joe isn't going to tolerate any BS from Putin. Putin better eat his Wheaties (or the Rus… https://t.co/tHvPunReJw |
 
-The most popular user is: **fredfrazier**
-<div class="alert alert-block alert-danger"> RT @HousingNowCA: CA is facing many crises, @GavinNewsom must advance lasting solutions for our California communities and provide some sta…</div>
+The most popular user is: **TheRoguesPierre**
+<div class="alert alert-block alert-danger"> RT @HillaryClinton: .@SpeakerPelosi and I agree:
+
+Congress needs to establish an investigative body like the 9/11 Commission to determine T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GavinNewsom** |
-| #2 Most tweeted to  | **HousingNowCA** |
-| #3 Most tweeted to  | **CAgovernor** |
-| NewProfiles (less than 10 days) | 1.28%  |
-| Tweeters with < 10 followers  | 3.19%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Kasparov63** |
+| #2 Most tweeted to  | **navalny** |
+| #3 Most tweeted to  | **OlgaNYC1211** |
+| NewProfiles (less than 10 days) | 0.89%  |
+| Tweeters with < 10 followers  | 3.84%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **fredfrazier**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@GAVINNEWSOM**  |
-| second  | **CA**  |
-| third  | **SOLUTIONS** |
-| fourth  | **LASTING**  |
-| fifth  | **CRISES**  |
+| first  | **PUTIN**  |
+| second  | **RUSSIA**  |
+| third  | **NAVALNY** |
+| fourth  | **PEOPLE**  |
+| fifth  | **PROTESTS**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UCAFT: As lecturers and librarians we urge @CAgovernor @GavinNewsom to advance lasting solutions for our communities by extending evict… |
+|RT @Kasparov63: ICYMI, our conversation about Navalny, the protests in Russia today, and how the free world can stop helping Putin. https:/… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fredfrazier**  |
+| The most retweeted user is: **TheRoguesPierre**  |
 | ------------- |
-| RT @HousingNowCA: CA is facing many crises, @GavinNewsom must advance lasting solutions for our California communities and provide some sta… |
+| RT @HillaryClinton: .@SpeakerPelosi and I agree:Congress needs to establish an investigative body like the 9/11 Commission to determine T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
