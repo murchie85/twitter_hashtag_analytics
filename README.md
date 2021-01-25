@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Putin"**
+&#x1F34E; **TOPIC = "karl"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HenryJFoy: Needless to say, McKinsey Russia counts many major state-owned companies as clients. I wonder if they would fire employees w… |
-| RT @WalshFreedom: Trump was “tough on China &amp; Russia?” Bullshit. American farmers &amp; workers paid for Trump’s stupid trade war with China, a… |
-| @SusyHtoonTin @funder Yes! Joe isn't going to tolerate any BS from Putin. Putin better eat his Wheaties (or the Rus… https://t.co/tHvPunReJw |
+| Just figured out a possible connection between Karl Schreck and Leopold MurnauI think of the former justicar as h… https://t.co/5xHVUEqUIN |
+| RT @ARGWiIbur: so karl is trying to fix everything and save his friends by putting his memory on the line but hes also fucking shit up at t… |
+| RT @drunkbcr: IF BAD DIES IN THIS LAVA AND THEORY OF RANBOO AND KARL BEING TOMMY AND TUBBOS DECENDANTS.... THAT MEANS ITLL BE THEM VS RANBO… |
 
-The most popular user is: **TheRoguesPierre**
-<div class="alert alert-block alert-danger"> RT @HillaryClinton: .@SpeakerPelosi and I agree:
-
-Congress needs to establish an investigative body like the 9/11 Commission to determine T…</div>
+The most popular user is: **Karl_Ekdahl**
+<div class="alert alert-block alert-danger"> RT @jimmykimmel: And that’s that. https://t.co/PKwLPv1Sxf</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Kasparov63** |
-| #2 Most tweeted to  | **navalny** |
-| #3 Most tweeted to  | **OlgaNYC1211** |
-| NewProfiles (less than 10 days) | 0.89%  |
-| Tweeters with < 10 followers  | 3.84%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **honkkarl** |
+| #2 Most tweeted to  | **KarlJacobs_** |
+| #3 Most tweeted to  | **rachelsnotfound** |
+| NewProfiles (less than 10 days) | 2.11%  |
+| Tweeters with < 10 followers  | 8.93%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ Congress needs to establish an investigative body like the 9/11 Commission to de
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PUTIN**  |
-| second  | **RUSSIA**  |
-| third  | **NAVALNY** |
-| fourth  | **PEOPLE**  |
-| fifth  | **PROTESTS**  |
+| first  | **KARL**  |
+| second  | **TIME**  |
+| third  | **SOMEONE** |
+| fourth  | **BOOKS**  |
+| fifth  | **DREAM**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Kasparov63: ICYMI, our conversation about Navalny, the protests in Russia today, and how the free world can stop helping Putin. https:/… |
+|No because the prison was 100% meant for karl Holyshittttt |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheRoguesPierre**  |
+| The most retweeted user is: **Karl_Ekdahl**  |
 | ------------- |
-| RT @HillaryClinton: .@SpeakerPelosi and I agree:Congress needs to establish an investigative body like the 9/11 Commission to determine T… |
+| RT @jimmykimmel: And that’s that. https://t.co/PKwLPv1Sxf |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
