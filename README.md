@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "karl"**
+&#x1F34E; **TOPIC = "Gardy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Just figured out a possible connection between Karl Schreck and Leopold MurnauI think of the former justicar as h… https://t.co/5xHVUEqUIN |
-| RT @ARGWiIbur: so karl is trying to fix everything and save his friends by putting his memory on the line but hes also fucking shit up at t… |
-| RT @drunkbcr: IF BAD DIES IN THIS LAVA AND THEORY OF RANBOO AND KARL BEING TOMMY AND TUBBOS DECENDANTS.... THAT MEANS ITLL BE THEM VS RANBO… |
+| I’m on the bring back Gardy train.. idc |
+| i love gardy, would be great to get him back, but with all the OFs on the roster, i think more of the OFs need to b… https://t.co/vrnG4FDlIb |
+| @The_Bleacherss @gingersnaphyde I’ll stop ranting. I love what Gardy provided to the team but it’s over for me. Appreciate you |
 
-The most popular user is: **Karl_Ekdahl**
-<div class="alert alert-block alert-danger"> RT @jimmykimmel: And that’s that. https://t.co/PKwLPv1Sxf</div>
+The most popular user is: **gardy_gee**
+<div class="alert alert-block alert-danger"> RT @manifestmomryan: Every Finger that RTs will be financial successful in February https://t.co/5ALuu1Jihf</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **honkkarl** |
-| #2 Most tweeted to  | **KarlJacobs_** |
-| #3 Most tweeted to  | **rachelsnotfound** |
-| NewProfiles (less than 10 days) | 2.11%  |
-| Tweeters with < 10 followers  | 8.93%|
+| #1 Most tweeted to  | **Jomboy_** |
+| #2 Most tweeted to  | **itsmrevandaniel** |
+| #3 Most tweeted to  | **TalkinYanks** |
+| NewProfiles (less than 10 days) | 0.07%  |
+| Tweeters with < 10 followers  | 3.6%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,11 +39,11 @@ The most popular user is: **Karl_Ekdahl**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KARL**  |
-| second  | **TIME**  |
-| third  | **SOMEONE** |
-| fourth  | **BOOKS**  |
-| fifth  | **DREAM**  |
+| first  | **GARDY**  |
+| second  | **BACK**  |
+| third  | **YANKEES** |
+| fourth  | **BRING**  |
+| fifth  | **LOVE**  |
 
 
 ## Twitter Bio Analysis![image](BIO.png)
@@ -54,13 +54,13 @@ VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJ
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|No because the prison was 100% meant for karl Holyshittttt |
+|@theScoreMLB Move the moneyBring back Gardy Use the kids in his spot |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Karl_Ekdahl**  |
+| The most retweeted user is: **gardy_gee**  |
 | ------------- |
-| RT @jimmykimmel: And that’s that. https://t.co/PKwLPv1Sxf |
+| RT @manifestmomryan: Every Finger that RTs will be financial successful in February https://t.co/5ALuu1Jihf |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
