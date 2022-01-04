@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Waller"**
+&#x1F34E; **TOPIC = "Tristan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,23 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @gOODFELLA805: RT to vote!Help @Rackkwall83 win the #WPMOYChallenge this year!@Nationwide | #WPMOYChallenge + Waller https://t.co/tZ… |
-| RT @jorockart: #WPMOYChallenge Waller https://t.co/EeSl1tmalu |
-| RT to vote!Help @Rackkwall83 win the #WPMOYChallenge this year!@Nationwide | #WPMOYChallenge + Waller |
+| RT @RDM702: Tristan Thompson to Khloe: "I have the utmost respect and love for you."Everyone: https://t.co/lZ8qGCm41B |
+| If Tristan survives this , the Queen should make him a knight |
+| RT @MamaMountains: So, you mean to tell me that when Lamar was with Taraji, &amp; James was with Trina, &amp; Tristan was with Jordan C, all these… |
 
-The most popular user is: **Gotti_x_Edge**
-<div class="alert alert-block alert-danger"> RT @Rackkwall83: 1 RT = 2 Votes 🖤 count double today &amp; tomorrow! 
-#WPMOYChallenge Waller https://t.co/ezIIY5CM8O</div>
+The most popular user is: **ratamiibo**
+<div class="alert alert-block alert-danger"> RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Rackkwall83** |
-| #2 Most tweeted to  | **Nationwide** |
-| #3 Most tweeted to  | **Raiders** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 19.5%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **keyon** |
+| #2 Most tweeted to  | **_vanessak7** |
+| #3 Most tweeted to  | **Bossip** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 2.36%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **Gotti_x_Edge**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WPMOYCHALLENGE**  |
-| second  | **WALLER**  |
-| third  | **@RACKKWALL83** |
-| fourth  | **HELP**  |
-| fifth  | **VOTES**  |
+| first  | **TRISTAN**  |
+| second  | **THOMPSON**  |
+| third  | **KHLOE** |
+| fourth  | **PLAY**  |
+| fifth  | **EVEN**  |
 
 
 ## Twitter Bio Analysis![image](assets/2022-01-04BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/2022-01-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Firev13: Let’s go!!!! #WPMOYChallenge Waller |
+|RT @_vanessak7: I rebuke a Tristan Thompson on me or my home gworls cos wtf is that |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gotti_x_Edge**  |
+| The most retweeted user is: **ratamiibo**  |
 | ------------- |
-| RT @Rackkwall83: 1 RT = 2 Votes 🖤 count double today &amp; tomorrow! #WPMOYChallenge Waller https://t.co/ezIIY5CM8O |
+| RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
