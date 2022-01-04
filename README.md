@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tristan"**
+&#x1F34E; **TOPIC = "#January6"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PensInsideScoop: Tristan Jarry, who missed last game due to being in the COVID protocol, is on the ice for Penguins practice at UPMC Le… |
-| RT @wumbooty: does Tristan Thompson actually play basketball, or just Khloe? https://t.co/6qPpzIYWfy |
-| RT @RDM702: Tristan Thompson to Khloe: "I have the utmost respect and love for you."Everyone: https://t.co/lZ8qGCm41B |
+| RT @FraterAAA1: Dear AG Garland:  I have sent you umpteen letters. We are waiting for you to hold the organizers of #January6 accountable.… |
+| RT @TonyHussein4: Sen. Ron Johnson has lost his marbles. Look at what he said:On the Vaccine - "Why do we think that we can create someth… |
+| RT @kevinabosch: The Capitol Insurrection A Year Later: Complicit Government Officials Still Not Held Accountable (2022) #CapitolRiot #insu… |
 
-The most popular user is: **CarlaSali_**
-<div class="alert alert-block alert-danger"> RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w…</div>
+The most popular user is: **AdamFerrisAF**
+<div class="alert alert-block alert-danger"> RT @VABVOX: Am I the only person who doesn't understand why there were TEN congressional investigations into Benghazi and only ONE into #Ja…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **keyon** |
-| #2 Most tweeted to  | **Bossip** |
-| #3 Most tweeted to  | **RDM702** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.36%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **DineshDSouza** |
+| #2 Most tweeted to  | **PaulCogan** |
+| #3 Most tweeted to  | **ProjectMememar** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 1.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **CarlaSali_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRISTAN**  |
-| second  | **THOMPSON**  |
-| third  | **KHLOE** |
-| fourth  | **PLAY**  |
-| fifth  | **DOES**  |
+| first  | **JANUARY6**  |
+| second  | **TERRORISM**  |
+| third  | **@DINESHDSOUZA:** |
+| fourth  | **ARTICLE**  |
+| fifth  | **EXPLAINS**  |
 
 
 ## Twitter Bio Analysis![image](assets/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @msbrixonbaby: Tristan continues to be a disappointment! After healing, I hope Khloé lives her best life and leaves Tristan in the damn… |
+|@matthewjdowd @DeadlineWH @NicolleDWallace Really enjoyed your analysis, also thank you @jahimes #January6 #TheBigLie |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CarlaSali_**  |
+| The most retweeted user is: **AdamFerrisAF**  |
 | ------------- |
-| RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w… |
+| RT @VABVOX: Am I the only person who doesn't understand why there were TEN congressional investigations into Benghazi and only ONE into #Ja… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
