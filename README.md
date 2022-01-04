@@ -1,38 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dirk"**
+&#x1F34E; **TOPIC = "Waller"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/TWEETS.png)
+![image](assets/2022-01-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HouseMavericks: “it’s not that hard of a shot” - Dirk whatever you humble, beautiful man  https://t.co/mEM8S0agEV |
-| RT @HollyAnderson: go blue https://t.co/11ihbquz6J |
-| @JaTapps @Raven4212 @foxbarlad @dirk_fasshauer @horusrage @HeathenWombat @kraegkust @brough_joshua @BrianNazarenus… https://t.co/M7o3QWqouW |
+| RT @gOODFELLA805: RT to vote!Help @Rackkwall83 win the #WPMOYChallenge this year!@Nationwide | #WPMOYChallenge + Waller https://t.co/tZ… |
+| RT @jorockart: #WPMOYChallenge Waller https://t.co/EeSl1tmalu |
+| RT to vote!Help @Rackkwall83 win the #WPMOYChallenge this year!@Nationwide | #WPMOYChallenge + Waller |
 
-The most popular user is: **DIRK_ARWOOD**
-<div class="alert alert-block alert-danger"> RT @IAMRachelQuirky: Just out of curiosity
-
-Please retweet if a mere $1000 extra a month would improve your life significantly</div>
+The most popular user is: **Gotti_x_Edge**
+<div class="alert alert-block alert-danger"> RT @Rackkwall83: 1 RT = 2 Votes 🖤 count double today &amp; tomorrow! 
+#WPMOYChallenge Waller https://t.co/ezIIY5CM8O</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Bitcoinbabbi** |
-| #2 Most tweeted to  | **dirk_fasshauer** |
-| #3 Most tweeted to  | **kraegkust** |
-| NewProfiles (less than 10 days) | 1.76%  |
-| Tweeters with < 10 followers  | 2.88%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **Rackkwall83** |
+| #2 Most tweeted to  | **Nationwide** |
+| #3 Most tweeted to  | **Raiders** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 19.5%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +40,28 @@ Please retweet if a mere $1000 extra a month would improve your life significant
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DIRK**  |
-| second  | **@DIRK_FASSHAUER**  |
-| third  | **@HEATHENWOMBAT** |
-| fourth  | **@WILLSWORLDVIEW**  |
-| fifth  | **@KRAEGKUST**  |
+| first  | **WPMOYCHALLENGE**  |
+| second  | **WALLER**  |
+| third  | **@RACKKWALL83** |
+| fourth  | **HELP**  |
+| fifth  | **VOTES**  |
 
 
-## Twitter Bio Analysis![image](assets/BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-01-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|I will be at the dirk game tomorrow if any p1s wanna meet up. Let me here from ya (especially if you have big boobs) |
+|RT @Firev13: Let’s go!!!! #WPMOYChallenge Waller |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DIRK_ARWOOD**  |
+| The most retweeted user is: **Gotti_x_Edge**  |
 | ------------- |
-| RT @IAMRachelQuirky: Just out of curiosityPlease retweet if a mere $1000 extra a month would improve your life significantly |
+| RT @Rackkwall83: 1 RT = 2 Votes 🖤 count double today &amp; tomorrow! #WPMOYChallenge Waller https://t.co/ezIIY5CM8O |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
