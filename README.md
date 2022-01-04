@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gardy"**
+&#x1F34E; **TOPIC = "Tristan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](https://marketingplatform.google.com/about/static/images/gmp/analytics-smb-benefit.jpg)
+![image](assets/hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](TWEETS.png)
+![image](assets/TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| I’m on the bring back Gardy train.. idc |
-| i love gardy, would be great to get him back, but with all the OFs on the roster, i think more of the OFs need to b… https://t.co/vrnG4FDlIb |
-| @The_Bleacherss @gingersnaphyde I’ll stop ranting. I love what Gardy provided to the team but it’s over for me. Appreciate you |
+| RT @PensInsideScoop: Tristan Jarry, who missed last game due to being in the COVID protocol, is on the ice for Penguins practice at UPMC Le… |
+| RT @wumbooty: does Tristan Thompson actually play basketball, or just Khloe? https://t.co/6qPpzIYWfy |
+| RT @RDM702: Tristan Thompson to Khloe: "I have the utmost respect and love for you."Everyone: https://t.co/lZ8qGCm41B |
 
-The most popular user is: **gardy_gee**
-<div class="alert alert-block alert-danger"> RT @manifestmomryan: Every Finger that RTs will be financial successful in February https://t.co/5ALuu1Jihf</div>
+The most popular user is: **CarlaSali_**
+<div class="alert alert-block alert-danger"> RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Jomboy_** |
-| #2 Most tweeted to  | **itsmrevandaniel** |
-| #3 Most tweeted to  | **TalkinYanks** |
-| NewProfiles (less than 10 days) | 0.07%  |
-| Tweeters with < 10 followers  | 3.6%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **keyon** |
+| #2 Most tweeted to  | **Bossip** |
+| #3 Most tweeted to  | **RDM702** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.36%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **gardy_gee**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GARDY**  |
-| second  | **BACK**  |
-| third  | **YANKEES** |
-| fourth  | **BRING**  |
-| fifth  | **LOVE**  |
+| first  | **TRISTAN**  |
+| second  | **THOMPSON**  |
+| third  | **KHLOE** |
+| fourth  | **PLAY**  |
+| fifth  | **DOES**  |
 
 
-## Twitter Bio Analysis![image](BIO.png)
+## Twitter Bio Analysis![image](assets/BIO.png)
 ### SENTIMENT ANALYSIS
-![image](sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@theScoreMLB Move the moneyBring back Gardy Use the kids in his spot |
+|RT @msbrixonbaby: Tristan continues to be a disappointment! After healing, I hope Khloé lives her best life and leaves Tristan in the damn… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gardy_gee**  |
+| The most retweeted user is: **CarlaSali_**  |
 | ------------- |
-| RT @manifestmomryan: Every Finger that RTs will be financial successful in February https://t.co/5ALuu1Jihf |
+| RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
