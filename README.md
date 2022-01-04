@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#January6"**
+&#x1F34E; **TOPIC = "Dirk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FraterAAA1: Dear AG Garland:  I have sent you umpteen letters. We are waiting for you to hold the organizers of #January6 accountable.… |
-| RT @TonyHussein4: Sen. Ron Johnson has lost his marbles. Look at what he said:On the Vaccine - "Why do we think that we can create someth… |
-| RT @kevinabosch: The Capitol Insurrection A Year Later: Complicit Government Officials Still Not Held Accountable (2022) #CapitolRiot #insu… |
+| RT @HouseMavericks: “it’s not that hard of a shot” - Dirk whatever you humble, beautiful man  https://t.co/mEM8S0agEV |
+| RT @HollyAnderson: go blue https://t.co/11ihbquz6J |
+| @JaTapps @Raven4212 @foxbarlad @dirk_fasshauer @horusrage @HeathenWombat @kraegkust @brough_joshua @BrianNazarenus… https://t.co/M7o3QWqouW |
 
-The most popular user is: **AdamFerrisAF**
-<div class="alert alert-block alert-danger"> RT @VABVOX: Am I the only person who doesn't understand why there were TEN congressional investigations into Benghazi and only ONE into #Ja…</div>
+The most popular user is: **DIRK_ARWOOD**
+<div class="alert alert-block alert-danger"> RT @IAMRachelQuirky: Just out of curiosity
+
+Please retweet if a mere $1000 extra a month would improve your life significantly</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DineshDSouza** |
-| #2 Most tweeted to  | **PaulCogan** |
-| #3 Most tweeted to  | **ProjectMememar** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 1.0%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Bitcoinbabbi** |
+| #2 Most tweeted to  | **dirk_fasshauer** |
+| #3 Most tweeted to  | **kraegkust** |
+| NewProfiles (less than 10 days) | 1.76%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **AdamFerrisAF**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JANUARY6**  |
-| second  | **TERRORISM**  |
-| third  | **@DINESHDSOUZA:** |
-| fourth  | **ARTICLE**  |
-| fifth  | **EXPLAINS**  |
+| first  | **DIRK**  |
+| second  | **@DIRK_FASSHAUER**  |
+| third  | **@HEATHENWOMBAT** |
+| fourth  | **@WILLSWORLDVIEW**  |
+| fifth  | **@KRAEGKUST**  |
 
 
 ## Twitter Bio Analysis![image](assets/BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@matthewjdowd @DeadlineWH @NicolleDWallace Really enjoyed your analysis, also thank you @jahimes #January6 #TheBigLie |
+|I will be at the dirk game tomorrow if any p1s wanna meet up. Let me here from ya (especially if you have big boobs) |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AdamFerrisAF**  |
+| The most retweeted user is: **DIRK_ARWOOD**  |
 | ------------- |
-| RT @VABVOX: Am I the only person who doesn't understand why there were TEN congressional investigations into Benghazi and only ONE into #Ja… |
+| RT @IAMRachelQuirky: Just out of curiosityPlease retweet if a mere $1000 extra a month would improve your life significantly |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
