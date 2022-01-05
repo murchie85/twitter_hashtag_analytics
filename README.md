@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Judge"**
+&#x1F34E; **TOPIC = "#MFFL"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,24 +15,24 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ArtValley818_: BREAKING: U.S. judge blocks Pentagon from punishing Navy SEALs who refused COVID-19 vaccine - Reuters |
-| @BHman51 @RealPatriot56 @andrewcuomo None of the Cuomos??? You don't even know all of the Cuomos.....much yet, prob… https://t.co/fjfXMMH4Er |
-| @hidingadnan like fr if I write in my diary it's for me so why would I need for you to judge my writing skills in t… https://t.co/6DSn9eRfLh |
+| RT @BallySportsSW: Beautiful words all true @dallasmavs fans will feel:An open letter to @swish41 crafted by the great @MFollowill.#MFF… |
+| RT @dallasmavs: Nothing like a magic show in Dallas, TX 🔮 @luka7doncic | #MFFL https://t.co/ueJ0IwjyAU |
+| RT @DorothyJGentry: Making room????  Dirk Jersey Retirement - 2 days and counting #Mavs #MFFL https://t.co/giadiDMIem |
 
-The most popular user is: **slinkyscot**
-<div class="alert alert-block alert-danger"> RT @OzraeliAvi: Ghislaine Maxwell found guilty but judge orders all details on Epstein’s Network to be sealed.
+The most popular user is: **lewisblount20**
+<div class="alert alert-block alert-danger"> RT @Mavs_FFL: RT to vote @luka7doncic into the All-Star Game 🪄
 
-In summary: It's worse than…</div>
+#NBAAllStar | #MFFL https://t.co/HqZJzovTqj</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **julie_kelly2** |
-| #2 Most tweeted to  | **_itssamia_** |
-| #3 Most tweeted to  | **GardeeGodrich** |
-| NewProfiles (less than 10 days) | 1.08%  |
-| Tweeters with < 10 followers  | 4.86%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **dallasmavs** |
+| #2 Most tweeted to  | **swish41** |
+| #3 Most tweeted to  | **BallySportsSW** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -41,28 +41,28 @@ In summary: It's worse than…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JUDGE**  |
-| second  | **PEOPLE**  |
-| third  | **JOE** |
-| fourth  | **EVIL**  |
-| fifth  | **"WEVE"**  |
+| first  | **MFFL**  |
+| second  | **@DALLASMAVS:**  |
+| third  | **@DALLASMAVS** |
+| fourth  | **MAVS**  |
+| fifth  | **@SWISH41**  |
 
 
 ## Twitter Bio Analysis![image](assets/2022-01-05BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/2022-01-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ncostanzo24 Giants always played harder under McAdoo than they did under Judge as well |
+|RT @fishsports: Our #DallasMavs DBcom ROUNDTABLE on #dirk - ‘From Pros to ‘The Porch’ … #MFFL Memories |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **slinkyscot**  |
+| The most retweeted user is: **lewisblount20**  |
 | ------------- |
-| RT @OzraeliAvi: Ghislaine Maxwell found guilty but judge orders all details on Epstein’s Network to be sealed.In summary: It's worse than… |
+| RT @Mavs_FFL: RT to vote @luka7doncic into the All-Star Game 🪄#NBAAllStar | #MFFL https://t.co/HqZJzovTqj |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
