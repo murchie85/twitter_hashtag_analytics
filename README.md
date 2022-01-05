@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tristan"**
+&#x1F34E; **TOPIC = "Judge"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-04TWEETS.png)
+![image](assets/2022-01-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RDM702: Tristan Thompson to Khloe: "I have the utmost respect and love for you."Everyone: https://t.co/lZ8qGCm41B |
-| If Tristan survives this , the Queen should make him a knight |
-| RT @MamaMountains: So, you mean to tell me that when Lamar was with Taraji, &amp; James was with Trina, &amp; Tristan was with Jordan C, all these… |
+| RT @ArtValley818_: BREAKING: U.S. judge blocks Pentagon from punishing Navy SEALs who refused COVID-19 vaccine - Reuters |
+| @BHman51 @RealPatriot56 @andrewcuomo None of the Cuomos??? You don't even know all of the Cuomos.....much yet, prob… https://t.co/fjfXMMH4Er |
+| @hidingadnan like fr if I write in my diary it's for me so why would I need for you to judge my writing skills in t… https://t.co/6DSn9eRfLh |
 
-The most popular user is: **ratamiibo**
-<div class="alert alert-block alert-danger"> RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w…</div>
+The most popular user is: **slinkyscot**
+<div class="alert alert-block alert-danger"> RT @OzraeliAvi: Ghislaine Maxwell found guilty but judge orders all details on Epstein’s Network to be sealed.
+
+In summary: It's worse than…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **keyon** |
-| #2 Most tweeted to  | **_vanessak7** |
-| #3 Most tweeted to  | **Bossip** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 2.36%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **julie_kelly2** |
+| #2 Most tweeted to  | **_itssamia_** |
+| #3 Most tweeted to  | **GardeeGodrich** |
+| NewProfiles (less than 10 days) | 1.08%  |
+| Tweeters with < 10 followers  | 4.86%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ratamiibo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRISTAN**  |
-| second  | **THOMPSON**  |
-| third  | **KHLOE** |
-| fourth  | **PLAY**  |
-| fifth  | **EVEN**  |
+| first  | **JUDGE**  |
+| second  | **PEOPLE**  |
+| third  | **JOE** |
+| fourth  | **EVIL**  |
+| fifth  | **"WEVE"**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
+![image](assets/2022-01-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_vanessak7: I rebuke a Tristan Thompson on me or my home gworls cos wtf is that |
+|@ncostanzo24 Giants always played harder under McAdoo than they did under Judge as well |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ratamiibo**  |
+| The most retweeted user is: **slinkyscot**  |
 | ------------- |
-| RT @IWriteAllDay_: Oh shut up, will you??? You ain’t care when Tristan cheated on you the first fifty-leven times. You ain’t care when he w… |
+| RT @OzraeliAvi: Ghislaine Maxwell found guilty but judge orders all details on Epstein’s Network to be sealed.In summary: It's worse than… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
