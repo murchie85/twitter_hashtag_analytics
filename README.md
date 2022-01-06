@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MFFL"**
+&#x1F34E; **TOPIC = "Hamilton"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-05TWEETS.png)
+![image](assets/2022-01-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BallySportsSW: Beautiful words all true @dallasmavs fans will feel:An open letter to @swish41 crafted by the great @MFollowill.#MFF… |
-| RT @dallasmavs: Nothing like a magic show in Dallas, TX 🔮 @luka7doncic | #MFFL https://t.co/ueJ0IwjyAU |
-| RT @DorothyJGentry: Making room????  Dirk Jersey Retirement - 2 days and counting #Mavs #MFFL https://t.co/giadiDMIem |
+| @bobo_circus It rules that most original cast Hamilton members got stuck doing shitty Disney movies and then there’… https://t.co/N1ucrgEg7U |
+| RT @ArthurDelaneyHP: Nancy Pelosi just introduced, as part of the Jan 6 remembrance.... a song by Lin Manuel Miranda performed by the cast… |
+| RT @rajat_suresh: q anon shaman watching the cast of hamilton sing 'dear theodosia' as a tear rolls down his cheek. he takes his viking hel… |
 
-The most popular user is: **lewisblount20**
-<div class="alert alert-block alert-danger"> RT @Mavs_FFL: RT to vote @luka7doncic into the All-Star Game 🪄
-
-#NBAAllStar | #MFFL https://t.co/HqZJzovTqj</div>
+The most popular user is: **Rossi_Hamilton**
+<div class="alert alert-block alert-danger"> RT @campbellclaret: Quite extraordinary that Johnson told at least five lies in Parliament yesterday (used to be a resigning offence) and m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dallasmavs** |
-| #2 Most tweeted to  | **swish41** |
-| #3 Most tweeted to  | **BallySportsSW** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 3.18%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **JackPosobiec** |
+| #2 Most tweeted to  | **rajat_suresh** |
+| #3 Most tweeted to  | **ArthurDelaneyHP** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **lewisblount20**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MFFL**  |
-| second  | **@DALLASMAVS:**  |
-| third  | **@DALLASMAVS** |
-| fourth  | **MAVS**  |
-| fifth  | **@SWISH41**  |
+| first  | **HAMILTON**  |
+| second  | **CAST**  |
+| third  | **@JACKPOSOBIEC:** |
+| fourth  | **ALEXANDER**  |
+| fifth  | **SING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-01-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (21.43%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @fishsports: Our #DallasMavs DBcom ROUNDTABLE on #dirk - ‘From Pros to ‘The Porch’ … #MFFL Memories |
+|RT @aud_bowler: here’s the thing: hamilton bangs if you take out all the songs LMM leads on. and thats the honest truth. but our government… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lewisblount20**  |
+| The most retweeted user is: **Rossi_Hamilton**  |
 | ------------- |
-| RT @Mavs_FFL: RT to vote @luka7doncic into the All-Star Game 🪄#NBAAllStar | #MFFL https://t.co/HqZJzovTqj |
+| RT @campbellclaret: Quite extraordinary that Johnson told at least five lies in Parliament yesterday (used to be a resigning offence) and m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
