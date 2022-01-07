@@ -1,36 +1,45 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hamilton"**
+&#x1F34E; **TOPIC = "Wordle"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-06TWEETS.png)
+![image](assets/2022-01-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @bobo_circus It rules that most original cast Hamilton members got stuck doing shitty Disney movies and then there’… https://t.co/N1ucrgEg7U |
-| RT @ArthurDelaneyHP: Nancy Pelosi just introduced, as part of the Jan 6 remembrance.... a song by Lin Manuel Miranda performed by the cast… |
-| RT @rajat_suresh: q anon shaman watching the cast of hamilton sing 'dear theodosia' as a tear rolls down his cheek. he takes his viking hel… |
+| This Wordle thing really is as fun as everyone says. Wordle 202 5/6⬛🟩⬛⬛⬛⬛🟩⬛⬛⬛⬛🟩🟩🟨⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩 |
+| Phew 😮‍💨😅 Wordle 202 6/6⬛⬛⬛⬛🟨🟩⬛⬛⬛⬛🟩⬛🟨⬛⬛🟩🟨🟩⬛⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩 |
+| Wordle 202 5/6🟨⬛⬛⬛⬛⬛🟨🟨⬛🟩🟨⬛⬛🟨🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩Another dub, 3/3 so far 😤😤😤 |
 
-The most popular user is: **Rossi_Hamilton**
-<div class="alert alert-block alert-danger"> RT @campbellclaret: Quite extraordinary that Johnson told at least five lies in Parliament yesterday (used to be a resigning offence) and m…</div>
+The most popular user is: **victorres345**
+<div class="alert alert-block alert-danger"> RT @egypturnash: howdy howdy howdy
+           🤠
+     ⬜️⬜️⬜️
+🟨    ⬜️    🟨
+👇  🟨  🟩👇
+      🟩     🟨
+     🟩       🟩
+    👢           👢
+
+I'm the w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JackPosobiec** |
-| #2 Most tweeted to  | **rajat_suresh** |
-| #3 Most tweeted to  | **ArthurDelaneyHP** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.88%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **davaja** |
+| #2 Most tweeted to  | **jenniferemorrow** |
+| #3 Most tweeted to  | **PFTompkins** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 3.02%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +48,28 @@ The most popular user is: **Rossi_Hamilton**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAMILTON**  |
-| second  | **CAST**  |
-| third  | **@JACKPOSOBIEC:** |
-| fourth  | **ALEXANDER**  |
-| fifth  | **SING**  |
+| first  | **202**  |
+| second  | **WORDLE**  |
+| third  | **🟩🟩🟩🟩🟩WORDLE** |
+| fourth  | **4/6**  |
+| fifth  | **3/6**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (42.86%) & **NEGATIVELY-SUBJECTIVE** (35.71%) **OBJECTIVE** (21.43%)
+![image](assets/2022-01-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @aud_bowler: here’s the thing: hamilton bangs if you take out all the songs LMM leads on. and thats the honest truth. but our government… |
+|I’ll take that!Wordle 202 2/6🟩🟩⬛⬛🟩🟩🟩🟩🟩🟩 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Rossi_Hamilton**  |
+| The most retweeted user is: **victorres345**  |
 | ------------- |
-| RT @campbellclaret: Quite extraordinary that Johnson told at least five lies in Parliament yesterday (used to be a resigning offence) and m… |
+| RT @egypturnash: howdy howdy howdy           🤠     ⬜️⬜️⬜️🟨    ⬜️    🟨👇  🟨  🟩👇      🟩     🟨     🟩       🟩    👢           👢I'm the w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
