@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Caturday"**
+&#x1F34E; **TOPIC = "Harden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-08TWEETS.png)
+![image](assets/2022-01-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Plz purchase a copy of this award-winning children's #EBOOK. Samson's book has perfect 5-star ratings.… https://t.co/iWPYbhhc0b |
-| RT @_ko_mon: "Hi, I'm here!"#photo via celinexandgatitas on tumblr#catgang #cats #CatsOfTwitter #Caturday @cestlaviv @escuchaaaa @ruinoj… |
-| RT @darkest23: Fidel where are you… still waiting for you to come bursting through the cat flap.#Caturday https://t.co/Sct7IfiGLc |
+| Harden shoots and falls and they give him free throws that shit goofy |
+| RT @tiffstarr815: The basketball gods making sure giannis stops harden from winning a fucking thing gives me the fuel to wake up everyday. |
+| @Jedi_Hearts @Harden_TF_Up @vr_mcu That character is an integral part of the avengers and Marvel universe |
 
-The most popular user is: **windchimes1010**
-<div class="alert alert-block alert-danger"> RT @Ghostmouse8: "I'm going out for pawtrol for a while, here, you watch the babies for me!" 
+The most popular user is: **Harden_thebeard**
+<div class="alert alert-block alert-danger"> RT @impossiblefi: 🔥 Revealing @Starbots_game as our 10th IDO, a unique Play-to-Earn project to launch on the Impossible Launchpad 🚀 
 
-😂🤣😂 #Caturday https://t.co/IY2ii9dDUG</div>
+Get s…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Number10cat** |
-| #2 Most tweeted to  | **nywolforg** |
-| #3 Most tweeted to  | **thechrisbarron** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 3.24%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Jenii0711** |
+| #2 Most tweeted to  | **hoopsdontstop** |
+| #3 Most tweeted to  | **BrooklynNetcast** |
+| NewProfiles (less than 10 days) | 3.88%  |
+| Tweeters with < 10 followers  | 8.72%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **windchimes1010**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CATURDAY**  |
-| second  | **HAPPY**  |
-| third  | **CATSOFTWITTER** |
-| fourth  | **CATS**  |
-| fifth  | **CAT**  |
+| first  | **HARDEN**  |
+| second  | **WHETHER**  |
+| third  | **JAMES** |
+| fourth  | **LET**  |
+| fifth  | **REAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-01-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (46.15%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ClaireyBoFairy: @thechrisbarron Happy #Caturday Chris! Snoopy and her baby love naps ❤ https://t.co/yhIwiGgkPd |
+|RT @ASIMFOREVER1: The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **windchimes1010**  |
+| The most retweeted user is: **Harden_thebeard**  |
 | ------------- |
-| RT @Ghostmouse8: "I'm going out for pawtrol for a while, here, you watch the babies for me!" 😂🤣😂 #Caturday https://t.co/IY2ii9dDUG |
+| RT @impossiblefi: 🔥 Revealing @Starbots_game as our 10th IDO, a unique Play-to-Earn project to launch on the Impossible Launchpad 🚀 Get s… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
