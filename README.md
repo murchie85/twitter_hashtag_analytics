@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bronx"**
+&#x1F34E; **TOPIC = "Kentucky"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-10TWEETS.png)
+![image](assets/2022-01-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @vermontgmg: The owner of the building where 19 people died in the Bronx today is on Eric Adams’s transition team…. https://t.co/OQVPtzg… |
-| RT @MarisaKabas: just turned on the mayor's press conference about the bronx fire that killed 19 people. has anyone mentioned yet that the… |
-| Fundraiser by Salim Drammeh : Relief for Families Affected by Bronx Fire https://t.co/pxD1gtjNGs |
+| RT @LLRobertson75: @Acyn I love seeing Dr. Fauci take down rand Paul. Please everybody we need you to support @Booker4KY … The Democratic o… |
+| RT @CupofJoeintheD2: Both #MoscowMitch &amp; #MoochManchin are Bought &amp; Paid for and yet they represent 2 of the Poorest States #Kentucky &amp; #We… |
+| RT @UncvrngTheTruth: Kentucky votes for Mitch McConnell over and over again. Kentucky voted for Rand Paul. Kentucky voted for Trump twice.… |
 
-The most popular user is: **Bronx_Dre**
-<div class="alert alert-block alert-danger"> RT @WorldWideWob: FORGOT ABOUT KLAY https://t.co/i2ANPgemma</div>
+The most popular user is: **Kentucky_Bri**
+<div class="alert alert-block alert-danger"> RT @spinubzilla: do u think when penguins slide on their bellies it’s like fun and thrilling for them or is it the equivalent of like us dr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MarisaKabas** |
-| #2 Most tweeted to  | **LalehKhalili** |
-| #3 Most tweeted to  | **nytimes** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 1.66%|
-| Tweeters with > 1000000 followers  | 0.5%  |
+| #1 Most tweeted to  | **donwinslow** |
+| #2 Most tweeted to  | **UncvrngTheTruth** |
+| #3 Most tweeted to  | **Booker4KY** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 3.84%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Bronx_Dre**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRONX**  |
-| second  | **FIRE**  |
-| third  | **KILLED** |
-| fourth  | **PEOPLE**  |
-| fifth  | **19**  |
+| first  | **KENTUCKY**  |
+| second  | **RAND**  |
+| third  | **PAUL** |
+| fourth  | **@DONWINSLOW:**  |
+| fifth  | **MITCH**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
+![image](assets/2022-01-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MarisaKabas: just turned on the mayor's press conference about the bronx fire that killed 19 people. has anyone mentioned yet that the… |
+|RT @barbour_nancy: @AriBerman I would love to watch Mitch McConnell stand in a line to vote for a minimum of 7 hours, in pouring rain, at t… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Bronx_Dre**  |
+| The most retweeted user is: **Kentucky_Bri**  |
 | ------------- |
-| RT @WorldWideWob: FORGOT ABOUT KLAY https://t.co/i2ANPgemma |
+| RT @spinubzilla: do u think when penguins slide on their bellies it’s like fun and thrilling for them or is it the equivalent of like us dr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
