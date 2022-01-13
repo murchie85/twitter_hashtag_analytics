@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BlueMonday"**
+&#x1F34E; **TOPIC = "Prince Andrew"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-12TWEETS.png)
+![image](assets/2022-01-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Don't have a #bluemonday join us for tea, toast and chat - Monday 17 January - drop in anytime between 9:30am to 11… https://t.co/ssnLUVIdmj |
-| Blue Moonday #Poisonfrog #BlueMonday #BlueMoonday #mariececilethijs #contemporaryphotography https://t.co/Ff7fhvr1lq |
-| RT @DiversityQ: #Mentalhealth issues were the number one reason that UK #employees took time off work in 2021. #BlueMonday @goodshapeworks… |
+| RT @johnkampfner: How proud you feel to be British when Johnson's 'partying' and Prince Andrew's 'partying' are items one and two in much o… |
+| RT @CNN: BREAKING: Britain's Prince Andrew is stripped of all his military titles as he faces a civil sex assault trial in the US. https:/… |
+| RT @hrkbenowen: BREAKING NEWS:Prince Andrew has been stripped all military titles royal patronages and will face the sex assault lawsuit… |
 
-The most popular user is: **AJGsafeandwell**
-<div class="alert alert-block alert-danger"> RT @MindCharity: You may hear a lot about the myth of #BlueMonday today. But we know that depression doesn’t care what day it is, especiall…</div>
+The most popular user is: **assessedwealth**
+<div class="alert alert-block alert-danger"> RT @campbellclaret: Boris Johnson and Prince Andrew - what an image the world is getting of Global Britain.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **VodafoneUK** |
-| #2 Most tweeted to  | **featherhigh** |
-| #3 Most tweeted to  | **vivien2112** |
-| NewProfiles (less than 10 days) | 0.29%  |
-| Tweeters with < 10 followers  | 2.61%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **munyachawawa** |
+| #2 Most tweeted to  | **RoyalFamily** |
+| #3 Most tweeted to  | **kylegriffin1** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 2.72%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AJGsafeandwell**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BLUEMONDAY**  |
-| second  | **MONDAY**  |
-| third  | **BLUE** |
-| fourth  | **JOIN**  |
-| fifth  | **US**  |
+| first  | **ANDREW**  |
+| second  | **PRINCE**  |
+| third  | **MILITARY** |
+| fourth  | **TITLES**  |
+| fifth  | **ROYAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/2022-01-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FLDesignMag: #bluemonday - This Jupiter home delivers spectacular views from the sprawling game room. A custom pool table and poker tab… |
+|"Prince Andrew is facing a possible trial in New York this fall after his lawyers recently failed to halt a suit st… https://t.co/pmseAjDxqe |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AJGsafeandwell**  |
+| The most retweeted user is: **assessedwealth**  |
 | ------------- |
-| RT @MindCharity: You may hear a lot about the myth of #BlueMonday today. But we know that depression doesn’t care what day it is, especiall… |
+| RT @campbellclaret: Boris Johnson and Prince Andrew - what an image the world is getting of Global Britain. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
