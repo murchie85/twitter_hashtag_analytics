@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Prince Andrew"**
+&#x1F34E; **TOPIC = "Ukraine"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-13TWEETS.png)
+![image](assets/2022-01-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @johnkampfner: How proud you feel to be British when Johnson's 'partying' and Prince Andrew's 'partying' are items one and two in much o… |
-| RT @CNN: BREAKING: Britain's Prince Andrew is stripped of all his military titles as he faces a civil sex assault trial in the US. https:/… |
-| RT @hrkbenowen: BREAKING NEWS:Prince Andrew has been stripped all military titles royal patronages and will face the sex assault lawsuit… |
+| The administration believes Russia is also laying the groundwork by framing Ukraine as an aggressor that has been p… https://t.co/u2430kuJDc |
+| U.S. Considers Backing an Insurgency in Ukraine https://t.co/npVZ4skcIJ -- Here come the Democrats with billions of… https://t.co/VVFCJc2ZVA |
+| Hey NATO...tell Putin to go f himself and give Ukraine full membership. The only thing he understands is force. And… https://t.co/rNF11ET24Z |
 
-The most popular user is: **assessedwealth**
-<div class="alert alert-block alert-danger"> RT @campbellclaret: Boris Johnson and Prince Andrew - what an image the world is getting of Global Britain.</div>
+The most popular user is: **japanesetooru**
+<div class="alert alert-block alert-danger"> RT @DAlperovitch: In the last few weeks, I have become increasingly convinced that Kremlin has unfortunately made a decision to invade Ukra…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **munyachawawa** |
-| #2 Most tweeted to  | **RoyalFamily** |
-| #3 Most tweeted to  | **kylegriffin1** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 2.72%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **JackPosobiec** |
+| #2 Most tweeted to  | **NatashaBertrand** |
+| #3 Most tweeted to  | **caslernoel** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 4.02%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **assessedwealth**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ANDREW**  |
-| second  | **PRINCE**  |
-| third  | **MILITARY** |
-| fourth  | **TITLES**  |
-| fifth  | **ROYAL**  |
+| first  | **UKRAINE**  |
+| second  | **RUSSIA**  |
+| third  | **US** |
+| fourth  | **INVADE**  |
+| fifth  | **INVASION**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (20.0%)
+![image](assets/2022-01-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|"Prince Andrew is facing a possible trial in New York this fall after his lawyers recently failed to halt a suit st… https://t.co/pmseAjDxqe |
+|RT @GlasnostGone: US claims Russia's plotting to stage acts of provocation to create a pretext to invade #Ukraine. Pentagon said Russian op… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **assessedwealth**  |
+| The most retweeted user is: **japanesetooru**  |
 | ------------- |
-| RT @campbellclaret: Boris Johnson and Prince Andrew - what an image the world is getting of Global Britain. |
+| RT @DAlperovitch: In the last few weeks, I have become increasingly convinced that Kremlin has unfortunately made a decision to invade Ukra… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
