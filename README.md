@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ukraine"**
+&#x1F34E; **TOPIC = "Chriss"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-14TWEETS.png)
+![image](assets/2022-01-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The administration believes Russia is also laying the groundwork by framing Ukraine as an aggressor that has been p… https://t.co/u2430kuJDc |
-| U.S. Considers Backing an Insurgency in Ukraine https://t.co/npVZ4skcIJ -- Here come the Democrats with billions of… https://t.co/VVFCJc2ZVA |
-| Hey NATO...tell Putin to go f himself and give Ukraine full membership. The only thing he understands is force. And… https://t.co/rNF11ET24Z |
+| RT @CoachRomoAhs: Final from Eastwood, your Blazers defeat the Troopers 39-38. Leading scorers were @therealjor11 10pts &amp; @Ballin_Chriss wi… |
+| @MetawarOfficial Let us all become good warriors with this big project! METAWAR@vahndhee @Mimi03564178 @ahbaydl6030681 |
+| @Chriss_Daryl omg yesss i think everyone is gonna show up in cosplay 😂 |
 
-The most popular user is: **japanesetooru**
-<div class="alert alert-block alert-danger"> RT @DAlperovitch: In the last few weeks, I have become increasingly convinced that Kremlin has unfortunately made a decision to invade Ukra…</div>
+The most popular user is: **Chriss_r07**
+<div class="alert alert-block alert-danger"> RT @pulte: To celebrate the New Year, I'm giving $5,000 to someone random who retweets this tweet in the next 24 hours (must be following m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JackPosobiec** |
-| #2 Most tweeted to  | **NatashaBertrand** |
-| #3 Most tweeted to  | **caslernoel** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 4.02%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **All_Things_Mavs** |
+| #2 Most tweeted to  | **Chriss_Daryl** |
+| #3 Most tweeted to  | **LegatoTia** |
+| NewProfiles (less than 10 days) | 4.58%  |
+| Tweeters with < 10 followers  | 5.94%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **japanesetooru**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **RUSSIA**  |
-| third  | **US** |
-| fourth  | **INVADE**  |
-| fifth  | **INVASION**  |
+| first  | **CHRISS**  |
+| second  | **MARQUESE**  |
+| third  | **10-DAY** |
+| fourth  | **POINTS**  |
+| fifth  | **MAVS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/2022-01-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GlasnostGone: US claims Russia's plotting to stage acts of provocation to create a pretext to invade #Ukraine. Pentagon said Russian op… |
+|RT @Mavs_FFL: Chriss &gt; Moses &amp; WCS |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **japanesetooru**  |
+| The most retweeted user is: **Chriss_r07**  |
 | ------------- |
-| RT @DAlperovitch: In the last few weeks, I have become increasingly convinced that Kremlin has unfortunately made a decision to invade Ukra… |
+| RT @pulte: To celebrate the New Year, I'm giving $5,000 to someone random who retweets this tweet in the next 24 hours (must be following m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
