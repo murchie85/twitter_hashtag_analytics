@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chriss"**
+&#x1F34E; **TOPIC = "Wirfs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-15TWEETS.png)
+![image](assets/2022-01-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CoachRomoAhs: Final from Eastwood, your Blazers defeat the Troopers 39-38. Leading scorers were @therealjor11 10pts &amp; @Ballin_Chriss wi… |
-| @MetawarOfficial Let us all become good warriors with this big project! METAWAR@vahndhee @Mimi03564178 @ahbaydl6030681 |
-| @Chriss_Daryl omg yesss i think everyone is gonna show up in cosplay 😂 |
+| RT @HollywoodJetEra: dude AB might’ve actually been right Bruce Arians just put Tristian Wirfs and Ryan Jensen back into the game CLEARLY i… |
+| Why the fuck was wirfs back in a the game. Bruce Arians is a clown |
+| RT @MySportsUpdate: #Bucs All-Pro RT Tristan Wirfs suffered an ankle injury and is questionable to return. He's in the locker room. |
 
-The most popular user is: **Chriss_r07**
-<div class="alert alert-block alert-danger"> RT @pulte: To celebrate the New Year, I'm giving $5,000 to someone random who retweets this tweet in the next 24 hours (must be following m…</div>
+The most popular user is: **JoeyLew46**
+<div class="alert alert-block alert-danger"> RT @thorku: iOL1 Tyler Linderbaum pinning athletic mutant Tristan Wirfs a few years ago in Iowa high school wrestling
+
+ https://t.co/ADIdtC…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **All_Things_Mavs** |
-| #2 Most tweeted to  | **Chriss_Daryl** |
-| #3 Most tweeted to  | **LegatoTia** |
-| NewProfiles (less than 10 days) | 4.58%  |
-| Tweeters with < 10 followers  | 5.94%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **TheoAshNFL** |
+| #2 Most tweeted to  | **Buccaneers** |
+| #3 Most tweeted to  | **StevenCheah** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 2.72%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Chriss_r07**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRISS**  |
-| second  | **MARQUESE**  |
-| third  | **10-DAY** |
-| fourth  | **POINTS**  |
-| fifth  | **MAVS**  |
+| first  | **WIRFS**  |
+| second  | **BACK**  |
+| third  | **TRISTAN** |
+| fourth  | **GAME**  |
+| fifth  | **BUCS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2022-01-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Mavs_FFL: Chriss &gt; Moses &amp; WCS |
+|I was literally typing how a tackle on 1 leg is blocking our rushers but then we got home. Have to speed rush a hobbled Wirfs. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Chriss_r07**  |
+| The most retweeted user is: **JoeyLew46**  |
 | ------------- |
-| RT @pulte: To celebrate the New Year, I'm giving $5,000 to someone random who retweets this tweet in the next 24 hours (must be following m… |
+| RT @thorku: iOL1 Tyler Linderbaum pinning athletic mutant Tristan Wirfs a few years ago in Iowa high school wrestling https://t.co/ADIdtC… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
