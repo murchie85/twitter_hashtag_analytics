@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Wirfs"**
+&#x1F34E; **TOPIC = "Maddie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-16TWEETS.png)
+![image](assets/2022-01-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HollywoodJetEra: dude AB might’ve actually been right Bruce Arians just put Tristian Wirfs and Ryan Jensen back into the game CLEARLY i… |
-| Why the fuck was wirfs back in a the game. Bruce Arians is a clown |
-| RT @MySportsUpdate: #Bucs All-Pro RT Tristan Wirfs suffered an ankle injury and is questionable to return. He's in the locker room. |
+| RT @food_issa_mood: the euphoria creators made me switch up on cassie so quick like for most of season one I was rooting for her and now I’… |
+| Thinking more about this; the show is just overly tame and doesn't have the right tone for a show that's meant to b… https://t.co/Ipl0LPMwUO |
+| RT @Cariidiisiiac: Us after Cassie snitched on Fez &amp; betrayed Maddie for dog ass Nate.#EuphoriaHBOMax #Euphoria https://t.co/mIGmyN2HQ2 |
 
-The most popular user is: **JoeyLew46**
-<div class="alert alert-block alert-danger"> RT @thorku: iOL1 Tyler Linderbaum pinning athletic mutant Tristan Wirfs a few years ago in Iowa high school wrestling
-
- https://t.co/ADIdtC…</div>
+The most popular user is: **maddie_g8**
+<div class="alert alert-block alert-danger"> RT @bussdownmiggy: Saw a mom putting this up, a simple retweet could help her be found https://t.co/JdNz3Ue4AZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheoAshNFL** |
-| #2 Most tweeted to  | **Buccaneers** |
-| #3 Most tweeted to  | **StevenCheah** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 2.72%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **TerrisWilliam14** |
+| #2 Most tweeted to  | **midgeIenny** |
+| #3 Most tweeted to  | **Cariidiisiiac** |
+| NewProfiles (less than 10 days) | 1.62%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **JoeyLew46**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WIRFS**  |
-| second  | **BACK**  |
-| third  | **TRISTAN** |
-| fourth  | **GAME**  |
-| fifth  | **BUCS**  |
+| first  | **MADDIE**  |
+| second  | **CASSIE**  |
+| third  | **EUPHORIA** |
+| fourth  | **FEZ**  |
+| fifth  | **FINDS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-16BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (13.33%)
+![image](assets/2022-01-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|I was literally typing how a tackle on 1 leg is blocking our rushers but then we got home. Have to speed rush a hobbled Wirfs. |
+|RT @TerrisWilliam14: Maddie when she finds out about Cassie and Nate: #EUPHORIA https://t.co/CgHXS6Q0Pk |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JoeyLew46**  |
+| The most retweeted user is: **maddie_g8**  |
 | ------------- |
-| RT @thorku: iOL1 Tyler Linderbaum pinning athletic mutant Tristan Wirfs a few years ago in Iowa high school wrestling https://t.co/ADIdtC… |
+| RT @bussdownmiggy: Saw a mom putting this up, a simple retweet could help her be found https://t.co/JdNz3Ue4AZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
