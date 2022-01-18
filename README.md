@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Maddie"**
+&#x1F34E; **TOPIC = "#PaidInBitcoin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-17TWEETS.png)
+![image](assets/2022-01-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @food_issa_mood: the euphoria creators made me switch up on cassie so quick like for most of season one I was rooting for her and now I’… |
-| Thinking more about this; the show is just overly tame and doesn't have the right tone for a show that's meant to b… https://t.co/Ipl0LPMwUO |
-| RT @Cariidiisiiac: Us after Cassie snitched on Fez &amp; betrayed Maddie for dog ass Nate.#EuphoriaHBOMax #Euphoria https://t.co/mIGmyN2HQ2 |
+| @francis_ngannou @CashApp $ashleygetsy #PaidInBitcoin |
+| RT @francis_ngannou: I believe bitcoin can empower people everywhere. So I’m excited to partner w/ @CashApp to take half my #UFC270 purse i… |
+| @francis_ngannou @CashApp $JoanneMcCord #PaidInBitcoin thanks for the chance 🙏🏼🙏🏼🙏🏼 |
 
-The most popular user is: **maddie_g8**
-<div class="alert alert-block alert-danger"> RT @bussdownmiggy: Saw a mom putting this up, a simple retweet could help her be found https://t.co/JdNz3Ue4AZ</div>
+The most popular user is: **valb00**
+<div class="alert alert-block alert-danger"> RT @KlayThompson: I’m BACK and changing it up: excited to take part of my paycheck in bitcoin thanks to Cash App! I’m with bitcoin because…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TerrisWilliam14** |
-| #2 Most tweeted to  | **midgeIenny** |
-| #3 Most tweeted to  | **Cariidiisiiac** |
-| NewProfiles (less than 10 days) | 1.62%  |
-| Tweeters with < 10 followers  | 5.0%|
+| #1 Most tweeted to  | **CashApp** |
+| #2 Most tweeted to  | **francis_ngannou** |
+| #3 Most tweeted to  | **Millions** |
+| NewProfiles (less than 10 days) | 2.2%  |
+| Tweeters with < 10 followers  | 34.56%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **maddie_g8**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MADDIE**  |
-| second  | **CASSIE**  |
-| third  | **EUPHORIA** |
-| fourth  | **FEZ**  |
-| fifth  | **FINDS**  |
+| first  | **@CASHAPP**  |
+| second  | **PAIDINBITCOIN@FRANCIS_NGANNOU**  |
+| third  | **PAIDINBITCOIN** |
+| fourth  | **UFC270**  |
+| fifth  | **BITCOIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-01-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TerrisWilliam14: Maddie when she finds out about Cassie and Nate: #EUPHORIA https://t.co/CgHXS6Q0Pk |
+|@francis_ngannou @CashApp I'm trying myblick again 🙏🙏 $DiscountFindsLLC #PaidInBitcoin |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **maddie_g8**  |
+| The most retweeted user is: **valb00**  |
 | ------------- |
-| RT @bussdownmiggy: Saw a mom putting this up, a simple retweet could help her be found https://t.co/JdNz3Ue4AZ |
+| RT @KlayThompson: I’m BACK and changing it up: excited to take part of my paycheck in bitcoin thanks to Cash App! I’m with bitcoin because… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
