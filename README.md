@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PaidInBitcoin"**
+&#x1F34E; **TOPIC = "Dolly"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-18TWEETS.png)
+![image](assets/2022-01-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @francis_ngannou @CashApp $ashleygetsy #PaidInBitcoin |
-| RT @francis_ngannou: I believe bitcoin can empower people everywhere. So I’m excited to partner w/ @CashApp to take half my #UFC270 purse i… |
-| @francis_ngannou @CashApp $JoanneMcCord #PaidInBitcoin thanks for the chance 🙏🏼🙏🏼🙏🏼 |
+| RT @robfardon: Her daddy never learned to read, so she started a foundation to send books to kids. Her Imagination Library now reaches chil… |
+| RT @RexChapman: Happy 76th birthday, Dolly Parton @DollyParton . One minute of gold from a living legend… |
+| @hpcprogrammer Florida Woman wishes Dolly Parton a happy birthday. Details at 7. |
 
-The most popular user is: **valb00**
-<div class="alert alert-block alert-danger"> RT @KlayThompson: I’m BACK and changing it up: excited to take part of my paycheck in bitcoin thanks to Cash App! I’m with bitcoin because…</div>
+The most popular user is: **not_ur_dolly**
+<div class="alert alert-block alert-danger"> RT @theeslimreaper: I want everybody confused as possible when it comes to me because you shouldn’t be minding my business</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CashApp** |
-| #2 Most tweeted to  | **francis_ngannou** |
-| #3 Most tweeted to  | **Millions** |
-| NewProfiles (less than 10 days) | 2.2%  |
-| Tweeters with < 10 followers  | 34.56%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **DollyParton** |
+| #2 Most tweeted to  | **StellaParton** |
+| #3 Most tweeted to  | **ThatEricAlper** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 3.48%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **valb00**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@CASHAPP**  |
-| second  | **PAIDINBITCOIN@FRANCIS_NGANNOU**  |
-| third  | **PAIDINBITCOIN** |
-| fourth  | **UFC270**  |
-| fifth  | **BITCOIN**  |
+| first  | **DOLLY**  |
+| second  | **BIRTHDAY**  |
+| third  | **HAPPY** |
+| fourth  | **PARTON**  |
+| fifth  | **LOVE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/2022-01-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@francis_ngannou @CashApp I'm trying myblick again 🙏🙏 $DiscountFindsLLC #PaidInBitcoin |
+|RT @srd0459: I don't listen to Country, but I do like Dolly Parton. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **valb00**  |
+| The most retweeted user is: **not_ur_dolly**  |
 | ------------- |
-| RT @KlayThompson: I’m BACK and changing it up: excited to take part of my paycheck in bitcoin thanks to Cash App! I’m with bitcoin because… |
+| RT @theeslimreaper: I want everybody confused as possible when it comes to me because you shouldn’t be minding my business |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
