@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dolly"**
+&#x1F34E; **TOPIC = "#BREMUN"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-19TWEETS.png)
+![image](assets/2022-01-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @robfardon: Her daddy never learned to read, so she started a foundation to send books to kids. Her Imagination Library now reaches chil… |
-| RT @RexChapman: Happy 76th birthday, Dolly Parton @DollyParton . One minute of gold from a living legend… |
-| @hpcprogrammer Florida Woman wishes Dolly Parton a happy birthday. Details at 7. |
+| RT @ManUtd: Things you love to see! 😍👏#MUFC | #BREMUN https://t.co/PlebBkLZFh |
+| RT @OfficialFPL: #BREMUN BONUS POINTS AS IT STANDS3 - Fernandes2 - Toney, Greenwood#FPL https://t.co/Y5uQDLs4AX |
+| RT @ManUtd: Praise for our second-half performance! 🌟💬 @DalotDiogo#MUFC | #BREMUN |
 
-The most popular user is: **not_ur_dolly**
-<div class="alert alert-block alert-danger"> RT @theeslimreaper: I want everybody confused as possible when it comes to me because you shouldn’t be minding my business</div>
+The most popular user is: **FGamadid**
+<div class="alert alert-block alert-danger"> RT @ManUtd: 🚨 Presenting United's line-up for #BREMUN... 
+
+#MUFC | #PL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DollyParton** |
-| #2 Most tweeted to  | **StellaParton** |
-| #3 Most tweeted to  | **ThatEricAlper** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **ManUtd** |
+| #2 Most tweeted to  | **Its_Harro** |
+| #3 Most tweeted to  | **Creative_DMS** |
+| NewProfiles (less than 10 days) | 1.34%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **not_ur_dolly**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOLLY**  |
-| second  | **BIRTHDAY**  |
-| third  | **HAPPY** |
-| fourth  | **PARTON**  |
-| fifth  | **LOVE**  |
+| first  | **@MANUTD:**  |
+| second  | **MUFC**  |
+| third  | **BREMUN** |
+| fourth  | **BREMUNRT**  |
+| fifth  | **BRENTFORD**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (13.33%)
+![image](assets/2022-01-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @srd0459: I don't listen to Country, but I do like Dolly Parton. |
+|RT @ManUtd: Does Ralf see @B_Fernandes8 in the no.8 or no.10 role moving forward for United? 🤔Our interim boss has revealed his thoughts… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **not_ur_dolly**  |
+| The most retweeted user is: **FGamadid**  |
 | ------------- |
-| RT @theeslimreaper: I want everybody confused as possible when it comes to me because you shouldn’t be minding my business |
+| RT @ManUtd: 🚨 Presenting United's line-up for #BREMUN... #MUFC | #PL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
