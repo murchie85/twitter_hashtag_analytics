@@ -1,36 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lincoln"**
+&#x1F34E; **TOPIC = "Salisu"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-21TWEETS.png)
+![image](assets/2022-01-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @iamrodneysmith: Family, Please help me welcome Lincoln from Indian Trail,NC to the family . He has stepped up &amp; accepted our 50 yard ch… |
-| @Pontifex_es “You can complain because a rose has thorns, or you can rejoice Because the thorns have a rose. ― Abra… https://t.co/b9e0xszGTs |
-| RT @TippingPointOAN: HISTORICAL SPOTLIGHT - ROBERT TODD LINCOLN#historicalspotlight #history #roberttoddlincoln #lincolnhttps://t.co/A69… |
+| RT @goal: Mohammed Salisu for Southampton v Manchester City:⋄ Most tackles won⋄ Most interceptions⋄ Most clearances⋄ Most duels won⋄… |
+| RT @ZachLowy: If the Ghana Football Association can somehow make amends with Mohammed Salisu and convince him to play for the Black Stars,… |
+| RT @Squawka: Mohammed Salisu is the first player to make 50+ interceptions in the Premier League in the 2021/22 season.Mo reads minds. 🔮… |
 
-The most popular user is: **lincoln_muriuki**
-<div class="alert alert-block alert-danger"> RT @master_nobody: Playing dumb to protect your energy is self-care.</div>
+The most popular user is: **Gilbert_Print**
+<div class="alert alert-block alert-danger"> RT @goal: Mohammed Salisu for Southampton v Manchester City:
+
+⋄ Most tackles won
+⋄ Most interceptions
+⋄ Most clearances
+⋄ Most duels won
+⋄…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonFilipkowski** |
-| #2 Most tweeted to  | **kylegriffin1** |
-| #3 Most tweeted to  | **rexzane1** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 3.36%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **goal** |
+| #2 Most tweeted to  | **Squawka** |
+| #3 Most tweeted to  | **PremLeaguePanel** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 1.64%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **lincoln_muriuki**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LINCOLN**  |
-| second  | **ABRAHAM**  |
-| third  | **TRUMP** |
-| fourth  | **JON**  |
-| fifth  | **SPIRIT**  |
+| first  | **MOST**  |
+| second  | **SALISU**  |
+| third  | **⋄** |
+| fourth  | **MOHAMMED**  |
+| fifth  | **WON**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (13.33%)
+![image](assets/2022-01-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JohnTory: Proud to proclaim January 21 #LincolnAlexanderDay.Today, we pay tribute to the trailblazing leadership of Lincoln Alexander… |
+|RT @__Steeze1: You watch Salisu play and then you ask yourself why should a team pay Rudiger 400000 a week . |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lincoln_muriuki**  |
+| The most retweeted user is: **Gilbert_Print**  |
 | ------------- |
-| RT @master_nobody: Playing dumb to protect your energy is self-care. |
+| RT @goal: Mohammed Salisu for Southampton v Manchester City:⋄ Most tackles won⋄ Most interceptions⋄ Most clearances⋄ Most duels won⋄… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
