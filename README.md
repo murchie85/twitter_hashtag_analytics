@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Salisu"**
+&#x1F34E; **TOPIC = "Gronk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-22TWEETS.png)
+![image](assets/2022-01-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @goal: Mohammed Salisu for Southampton v Manchester City:⋄ Most tackles won⋄ Most interceptions⋄ Most clearances⋄ Most duels won⋄… |
-| RT @ZachLowy: If the Ghana Football Association can somehow make amends with Mohammed Salisu and convince him to play for the Black Stars,… |
-| RT @Squawka: Mohammed Salisu is the first player to make 50+ interceptions in the Premier League in the 2021/22 season.Mo reads minds. 🔮… |
+| @DaBeachDude1 @AZ_Brittney I don’t like them because of Brady and Gronk. They took my 2 boys. I’m being a hater. 😂😂😂😂 |
+| Enough of the fucking car commercials. And that Jon Hamm commercial was shit too. And all the ones with Gronk are g… https://t.co/T1kuu7savV |
+| RT @big_business_: He's slower than Gronk 💔💔💔💔💔💔 |
 
-The most popular user is: **Gilbert_Print**
-<div class="alert alert-block alert-danger"> RT @goal: Mohammed Salisu for Southampton v Manchester City:
-
-⋄ Most tackles won
-⋄ Most interceptions
-⋄ Most clearances
-⋄ Most duels won
-⋄…</div>
+The most popular user is: **gronk_goat**
+<div class="alert alert-block alert-danger"> RT @CAPYBARA_MAN: capybara with their capybabies https://t.co/eVGDn6O6Lx</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **goal** |
-| #2 Most tweeted to  | **Squawka** |
-| #3 Most tweeted to  | **PremLeaguePanel** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 1.64%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **PatMcAfeeShow** |
+| #2 Most tweeted to  | **FDSportsbook** |
+| #3 Most tweeted to  | **big_business_** |
+| NewProfiles (less than 10 days) | 1.14%  |
+| Tweeters with < 10 followers  | 10.32%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -45,28 +39,28 @@ The most popular user is: **Gilbert_Print**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOST**  |
-| second  | **SALISU**  |
-| third  | **⋄** |
-| fourth  | **MOHAMMED**  |
-| fifth  | **WON**  |
+| first  | **GRONK**  |
+| second  | **TD**  |
+| third  | **ANYTIME** |
+| fourth  | **@FDSPORTSBOOK**  |
+| fifth  | **BRADY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+![image](assets/2022-01-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @__Steeze1: You watch Salisu play and then you ask yourself why should a team pay Rudiger 400000 a week . |
+|@TheyHateOnBri @1017RichPorter Bucs team was staaaacked.... defense nasty.... weather awesome... AB, GRONK, GODWIN, EVANS..... FOURNETTE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gilbert_Print**  |
+| The most retweeted user is: **gronk_goat**  |
 | ------------- |
-| RT @goal: Mohammed Salisu for Southampton v Manchester City:⋄ Most tackles won⋄ Most interceptions⋄ Most clearances⋄ Most duels won⋄… |
+| RT @CAPYBARA_MAN: capybara with their capybabies https://t.co/eVGDn6O6Lx |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
