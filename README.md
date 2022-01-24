@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gronk"**
+&#x1F34E; **TOPIC = "#NationalComplimentDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-23TWEETS.png)
+![image](assets/2022-01-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @DaBeachDude1 @AZ_Brittney I don’t like them because of Brady and Gronk. They took my 2 boys. I’m being a hater. 😂😂😂😂 |
-| Enough of the fucking car commercials. And that Jon Hamm commercial was shit too. And all the ones with Gronk are g… https://t.co/T1kuu7savV |
-| RT @big_business_: He's slower than Gronk 💔💔💔💔💔💔 |
+| RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ |
+| RT @hellokitty: It’s #NationalComplimentDay! Tag your BFF to share a compliment 💖 https://t.co/OOxExJUBdl |
+| @StarKistCharlie And of course @StarKistCharlie ❣🐟❣ You are awesomeThank you for letting me compliment almost ever… https://t.co/GMosBALYSB |
 
-The most popular user is: **gronk_goat**
-<div class="alert alert-block alert-danger"> RT @CAPYBARA_MAN: capybara with their capybabies https://t.co/eVGDn6O6Lx</div>
+The most popular user is: **spiny_bro**
+<div class="alert alert-block alert-danger"> RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PatMcAfeeShow** |
-| #2 Most tweeted to  | **FDSportsbook** |
-| #3 Most tweeted to  | **big_business_** |
-| NewProfiles (less than 10 days) | 1.14%  |
-| Tweeters with < 10 followers  | 10.32%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **bethesda** |
+| #2 Most tweeted to  | **CRKingdomEN** |
+| #3 Most tweeted to  | **TMobile** |
+| NewProfiles (less than 10 days) | 0.7%  |
+| Tweeters with < 10 followers  | 6.0%|
+| Tweeters with > 1000000 followers  | 0.46%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **gronk_goat**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GRONK**  |
-| second  | **TD**  |
-| third  | **ANYTIME** |
-| fourth  | **@FDSPORTSBOOK**  |
-| fifth  | **BRADY**  |
+| first  | **NATIONALCOMPLIMENTDAY**  |
+| second  | **COMPLIMENT**  |
+| third  | **"YOURE"** |
+| fourth  | **HEY**  |
+| fifth  | **NATIONALCOMPLIMENTDAY!**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2022-01-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TheyHateOnBri @1017RichPorter Bucs team was staaaacked.... defense nasty.... weather awesome... AB, GRONK, GODWIN, EVANS..... FOURNETTE |
+|Wouldn’t it be nice to receive a compliment on #NationalComplimentDay? Do you know someone who could use a complim… https://t.co/mQSnOCaMjl |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **gronk_goat**  |
+| The most retweeted user is: **spiny_bro**  |
 | ------------- |
-| RT @CAPYBARA_MAN: capybara with their capybabies https://t.co/eVGDn6O6Lx |
+| RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
