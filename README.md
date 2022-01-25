@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalComplimentDay"**
+&#x1F34E; **TOPIC = "jennie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-24TWEETS.png)
+![image](assets/2022-01-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ |
-| RT @hellokitty: It’s #NationalComplimentDay! Tag your BFF to share a compliment 💖 https://t.co/OOxExJUBdl |
-| @StarKistCharlie And of course @StarKistCharlie ❣🐟❣ You are awesomeThank you for letting me compliment almost ever… https://t.co/GMosBALYSB |
+| JENNIE OMFGGGGG https://t.co/fW2c73b1YY |
+| RT @chitaglorya__: giveaway 75$ | 1,050,000 IDR-- rt follow &amp; rt like 2 recent tweets @ivannatavarok ends in 5 hours good luck 🍒 |
+| RT @jnkloops: JENNIE IN GRIMES’ MV TEASER https://t.co/Zvl8NejaiG |
 
-The most popular user is: **spiny_bro**
-<div class="alert alert-block alert-danger"> RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ</div>
+The most popular user is: **jennie__dan**
+<div class="alert alert-block alert-danger"> RT @DaveMcNamee3000: parent teacher conference at Euphoria high https://t.co/e3Qc9OOkh9</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bethesda** |
-| #2 Most tweeted to  | **CRKingdomEN** |
-| #3 Most tweeted to  | **TMobile** |
-| NewProfiles (less than 10 days) | 0.7%  |
-| Tweeters with < 10 followers  | 6.0%|
-| Tweeters with > 1000000 followers  | 0.46%  |
+| #1 Most tweeted to  | **BLACKPINK** |
+| #2 Most tweeted to  | **NEWSJENNlE** |
+| #3 Most tweeted to  | **PopCrave** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 6.42%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **spiny_bro**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALCOMPLIMENTDAY**  |
-| second  | **COMPLIMENT**  |
-| third  | **"YOURE"** |
-| fourth  | **HEY**  |
-| fifth  | **NATIONALCOMPLIMENTDAY!**  |
+| first  | **JENNIE**  |
+| second  | **BLACKPINK**  |
+| third  | **VIDEO** |
+| fourth  | **MUSIC**  |
+| fifth  | **NEW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+![image](assets/2022-01-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Wouldn’t it be nice to receive a compliment on #NationalComplimentDay? Do you know someone who could use a complim… https://t.co/mQSnOCaMjl |
+|RT @G0THRUBY: low quality but jennie kim is so hot https://t.co/U3JMZagheF |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **spiny_bro**  |
+| The most retweeted user is: **jennie__dan**  |
 | ------------- |
-| RT @bethesda: You are worthy. #NationalComplimentDay https://t.co/e4rkovxuXZ |
+| RT @DaveMcNamee3000: parent teacher conference at Euphoria high https://t.co/e3Qc9OOkh9 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
