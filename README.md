@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "jennie"**
+&#x1F34E; **TOPIC = "Romney"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-25TWEETS.png)
+![image](assets/2022-01-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| JENNIE OMFGGGGG https://t.co/fW2c73b1YY |
-| RT @chitaglorya__: giveaway 75$ | 1,050,000 IDR-- rt follow &amp; rt like 2 recent tweets @ivannatavarok ends in 5 hours good luck 🍒 |
-| RT @jnkloops: JENNIE IN GRIMES’ MV TEASER https://t.co/Zvl8NejaiG |
+| RT @JoeConchaTV: For those who broke two ribs laughing at Tom Friedman's proposed Biden-Cheney ticket, the Comedy Cellar is proud to presen… |
+| RT @BillKristol: Straightforward from here.June 30: Court overturns Roe.July 1: Breyer resigns, says Court “needs aggressive progressiv… |
+| LAST CHANCE: Marsh Network Breakfast Meeting 27th Jan 07.45 Ship Inn, Dymchurch - #Ashford #Folkestone #Romney… https://t.co/kV1ClWamWa |
 
-The most popular user is: **jennie__dan**
-<div class="alert alert-block alert-danger"> RT @DaveMcNamee3000: parent teacher conference at Euphoria high https://t.co/e3Qc9OOkh9</div>
+The most popular user is: **z_cirelli**
+<div class="alert alert-block alert-danger"> RT @tribelaw: Sinema and Manchin are being outrageous, true, but why don’t people blame supposedly responsible Republican Senators like Col…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BLACKPINK** |
-| #2 Most tweeted to  | **NEWSJENNlE** |
-| #3 Most tweeted to  | **PopCrave** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 6.42%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **BillKristol** |
+| #2 Most tweeted to  | **ElieNYC** |
+| #3 Most tweeted to  | **JackPosobiec** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 3.88%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jennie__dan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JENNIE**  |
-| second  | **BLACKPINK**  |
-| third  | **VIDEO** |
-| fourth  | **MUSIC**  |
-| fifth  | **NEW**  |
+| first  | **ROMNEY**  |
+| second  | **MITT**  |
+| third  | **MURKOWSKI** |
+| fourth  | **COURT**  |
+| fifth  | **BILL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-01-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @G0THRUBY: low quality but jennie kim is so hot https://t.co/U3JMZagheF |
+|@JackPosobiec Dont matter. Susan Collins, Murkowski,  Romney, Lindsey Graham are going to vote for whoever is the n… https://t.co/x1zlVaXBkS |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jennie__dan**  |
+| The most retweeted user is: **z_cirelli**  |
 | ------------- |
-| RT @DaveMcNamee3000: parent teacher conference at Euphoria high https://t.co/e3Qc9OOkh9 |
+| RT @tribelaw: Sinema and Manchin are being outrageous, true, but why don’t people blame supposedly responsible Republican Senators like Col… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
