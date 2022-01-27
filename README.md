@@ -1,36 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Romney"**
+&#x1F34E; **TOPIC = "#HereWeGo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-26TWEETS.png)
+![image](assets/2022-01-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JoeConchaTV: For those who broke two ribs laughing at Tom Friedman's proposed Biden-Cheney ticket, the Comedy Cellar is proud to presen… |
-| RT @BillKristol: Straightforward from here.June 30: Court overturns Roe.July 1: Breyer resigns, says Court “needs aggressive progressiv… |
-| LAST CHANCE: Marsh Network Breakfast Meeting 27th Jan 07.45 Ship Inn, Dymchurch - #Ashford #Folkestone #Romney… https://t.co/kV1ClWamWa |
+| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
+| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
+| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
 
-The most popular user is: **z_cirelli**
-<div class="alert alert-block alert-danger"> RT @tribelaw: Sinema and Manchin are being outrageous, true, but why don’t people blame supposedly responsible Republican Senators like Col…</div>
+The most popular user is: **fredparm**
+<div class="alert alert-block alert-danger"> RT @_BigBen7: A message from Ben:
+@steelers #NFL #SteelersNation #ThankYou
+#HereWeGo 
+#LoveAndHonor https://t.co/pUbKGO1nUs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BillKristol** |
-| #2 Most tweeted to  | **ElieNYC** |
-| #3 Most tweeted to  | **JackPosobiec** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 3.88%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **_BigBen7** |
+| #2 Most tweeted to  | **steelers** |
+| #3 Most tweeted to  | **ProFootballHOF** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 4.46%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **z_cirelli**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROMNEY**  |
-| second  | **MITT**  |
-| third  | **MURKOWSKI** |
-| fourth  | **COURT**  |
-| fifth  | **BILL**  |
+| first  | **@STEELERS**  |
+| second  | **HEREWEGO**  |
+| third  | **NFL** |
+| fourth  | **STEELERSNATION**  |
+| fifth  | **THANKYOU**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-01-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@JackPosobiec Dont matter. Susan Collins, Murkowski,  Romney, Lindsey Graham are going to vote for whoever is the n… https://t.co/x1zlVaXBkS |
+|RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **z_cirelli**  |
+| The most retweeted user is: **fredparm**  |
 | ------------- |
-| RT @tribelaw: Sinema and Manchin are being outrageous, true, but why don’t people blame supposedly responsible Republican Senators like Col… |
+| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
