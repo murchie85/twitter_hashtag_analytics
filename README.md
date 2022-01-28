@@ -1,39 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#HereWeGo"**
+&#x1F34E; **TOPIC = "#YIAYbase"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-27TWEETS.png)
+![image](assets/2022-01-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
-| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
-| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
+| @jacksfilms #YIAYbase getting a fourth dog! |
+| @jacksfilms #YIAYbase kissing with eyes closed 👀 |
+| @jacksfilms #YIAYbase holding genitals while peeing |
 
-The most popular user is: **fredparm**
-<div class="alert alert-block alert-danger"> RT @_BigBen7: A message from Ben:
-@steelers #NFL #SteelersNation #ThankYou
-#HereWeGo 
-#LoveAndHonor https://t.co/pUbKGO1nUs</div>
+The most popular user is: **PoisonusCandies**
+<div class="alert alert-block alert-danger"> RT @jacksfilms: YIAY question! If "1st base" is kissing, what's "2nd base"? Use #YIAYbase so we can find ya!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_BigBen7** |
-| #2 Most tweeted to  | **steelers** |
-| #3 Most tweeted to  | **ProFootballHOF** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.46%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **jacksfilms** |
+| #2 Most tweeted to  | **YIAYsubreddit** |
+| #3 Most tweeted to  | **indanichul** |
+| NewProfiles (less than 10 days) | 3.0%  |
+| Tweeters with < 10 followers  | 24.92%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -42,28 +39,28 @@ The most popular user is: **fredparm**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@STEELERS**  |
-| second  | **HEREWEGO**  |
-| third  | **NFL** |
-| fourth  | **STEELERSNATION**  |
-| fifth  | **THANKYOU**  |
+| first  | **YIAYBASE**  |
+| second  | **YIAYBASE@JACKSFILMS**  |
+| third  | **BASE** |
+| fourth  | **2ND**  |
+| fifth  | **KISSING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-01-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
+|@jacksfilms #YIAYbase a restraining order |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fredparm**  |
+| The most retweeted user is: **PoisonusCandies**  |
 | ------------- |
-| RT @_BigBen7: A message from Ben:@steelers #NFL #SteelersNation #ThankYou#HereWeGo #LoveAndHonor https://t.co/pUbKGO1nUs |
+| RT @jacksfilms: YIAY question! If "1st base" is kissing, what's "2nd base"? Use #YIAYbase so we can find ya! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
