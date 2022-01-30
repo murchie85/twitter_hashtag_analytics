@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#clashofthechamps"**
+&#x1F34E; **TOPIC = "Greenwood"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-29TWEETS.png)
+![image](assets/2022-01-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JessicaAkbar: One like = one shot. #clashofthechamps #ARPromos turn me up https://t.co/akI3pkoiSP |
-| RT @cheladior: SOOO who wanna go shot for shot wit me at #clashofthechamps  ? #ARPromos  @asanteslater |
-| RT @Dmass_10: Aye see y’all on the 29th ‼️ #ClashofTheChamps #MassiesMunchies @Massies_M |
+| RT @emxlyyyy_xo: seeing lads defend what mason greenwood has done just proves why so many women are scared of men |
+| RT @erlingtxt: Mason Greenwood forcing his ex girlfriend to have sex with him recorded… this is genuinely sickening to hear https://t.co/t5… |
+| RT @SonsRoos: This is where to be,,The odds are cheap and legit,,,haven't lost since joining this Guys. Contact them via:0707982064. Whats… |
 
-The most popular user is: **conspicuousgal**
-<div class="alert alert-block alert-danger"> RT @AgentRondo_: EVERYONE WILL BE FRIED! Mark my words ‼️
+The most popular user is: **Afeezkosoko10**
+<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Manchester United official statement on Mason Greenwood situation 🔴⤵️
 
-Bruhz gone wild! Plus oil , liquor , food and Houston is about to meet up with P…</div>
+“Mason Greenwood will not return to training or…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AgentRondo_** |
-| #2 Most tweeted to  | **BuxieJoshua** |
-| #3 Most tweeted to  | **asanteslater** |
-| NewProfiles (less than 10 days) | 0.23%  |
-| Tweeters with < 10 followers  | 0.23%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **TheAthleticUK** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **FabrizioRomano** |
+| NewProfiles (less than 10 days) | 1.06%  |
+| Tweeters with < 10 followers  | 4.96%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +41,28 @@ Bruhz gone wild! Plus oil , liquor , food and Houston is about to meet up with P
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLASHOFTHECHAMPS**  |
-| second  | **Y’ALL**  |
-| third  | **PRESALES** |
-| fourth  | **ARPROMOS**  |
-| fifth  | **EARLY**  |
+| first  | **GREENWOOD**  |
+| second  | **MASON**  |
+| third  | **MANCHESTER** |
+| fourth  | **ARRESTED**  |
+| fifth  | **UNITED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-01-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @goofyikmo: When y’all see me at #clashofthechamps Just know I’m throwing this ass and going to be off my ass #ARPROMOS https://t.co/Hv0… |
+|#Gratitude. That's my resolution  from today henceforth. #EternallyGrateful. My ultimate for His Highest. Thank you… https://t.co/e7HuOdg4CN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **conspicuousgal**  |
+| The most retweeted user is: **Afeezkosoko10**  |
 | ------------- |
-| RT @AgentRondo_: EVERYONE WILL BE FRIED! Mark my words ‼️Bruhz gone wild! Plus oil , liquor , food and Houston is about to meet up with P… |
+| RT @FabrizioRomano: Manchester United official statement on Mason Greenwood situation 🔴⤵️“Mason Greenwood will not return to training or… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
