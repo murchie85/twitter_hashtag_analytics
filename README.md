@@ -1,37 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Greenwood"**
+&#x1F34E; **TOPIC = "Canada"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-01-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-01-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-01-30TWEETS.png)
+![image](assets/2022-01-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @emxlyyyy_xo: seeing lads defend what mason greenwood has done just proves why so many women are scared of men |
-| RT @erlingtxt: Mason Greenwood forcing his ex girlfriend to have sex with him recorded… this is genuinely sickening to hear https://t.co/t5… |
-| RT @SonsRoos: This is where to be,,The odds are cheap and legit,,,haven't lost since joining this Guys. Contact them via:0707982064. Whats… |
+| RT @XoneNoYuuutsu: Waving a confederate flag in Canada is insane dickeating |
+| @NamaariB @Gordie8089 @bennyjohnson More than a few countries have started going...dare I say it...Canada is BACK!!… https://t.co/ggqcAwau9G |
+| RT @JackPosobiec: Funny how I don't remember Trudeau giving a national address when churches were being burned down across Canada last summ… |
 
-The most popular user is: **Afeezkosoko10**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Manchester United official statement on Mason Greenwood situation 🔴⤵️
+The most popular user is: **Sinia000000000**
+<div class="alert alert-block alert-danger"> RT @TundeTASH: Top 10:
 
-“Mason Greenwood will not return to training or…</div>
+- Sites to learn Excel for free
+- Sites for Free Online Education
+- Sites for your career
+- Sites to review your re…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheAthleticUK** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **FabrizioRomano** |
-| NewProfiles (less than 10 days) | 1.06%  |
-| Tweeters with < 10 followers  | 4.96%|
+| #1 Most tweeted to  | **JackPosobiec** |
+| #2 Most tweeted to  | **JustinTrudeau** |
+| #3 Most tweeted to  | **XoneNoYuuutsu** |
+| NewProfiles (less than 10 days) | 1.56%  |
+| Tweeters with < 10 followers  | 5.4%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -41,28 +44,28 @@ The most popular user is: **Afeezkosoko10**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GREENWOOD**  |
-| second  | **MASON**  |
-| third  | **MANCHESTER** |
-| fourth  | **ARRESTED**  |
-| fifth  | **UNITED**  |
+| first  | **CANADA**  |
+| second  | **TRUDEAU**  |
+| third  | **DOWN** |
+| fourth  | **ACROSS**  |
+| fifth  | **LAST**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-01-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-01-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-01-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-01-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#Gratitude. That's my resolution  from today henceforth. #EternallyGrateful. My ultimate for His Highest. Thank you… https://t.co/e7HuOdg4CN |
+|RT @DrGillLeighton: No wonder Trudeau is too scared to reply directly to @PierrePoilievre, speaking passionately today in #Canada's Parliam… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Afeezkosoko10**  |
+| The most retweeted user is: **Sinia000000000**  |
 | ------------- |
-| RT @FabrizioRomano: Manchester United official statement on Mason Greenwood situation 🔴⤵️“Mason Greenwood will not return to training or… |
+| RT @TundeTASH: Top 10:- Sites to learn Excel for free- Sites for Free Online Education- Sites for your career- Sites to review your re… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
