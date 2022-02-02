@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "The View"**
+&#x1F34E; **TOPIC = "Senegal"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-01TWEETS.png)
+![image](assets/2022-02-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TerryGalloway: I made a pact with Hazel before she was murdered. That we would improve the care system. She is not here to see us go in… |
-| RT @cspan: .@LeaderMcConnell on former President Trump offering pardons to people who attacked U.S Capitol on January 6th: "My view is I wo… |
-| @NFtsGrab My first collection dropping tomorrow 2.2.22 on OpenSea. Includes several of my best known art photogra… https://t.co/4Olt7al6Aq |
+| Penalty to Senegal. |
+| RT @Etwepaa: Burkina Faso 1:1 SenegalFirst half - over 0.5 |
+| 🇧🇫 Burkina Faso🇸🇳 SenegalWho will be the first country to book their place in the #AFCON2021 final?Follow LIVE updates ⬇️ |
 
-The most popular user is: **skznote_**
-<div class="alert alert-block alert-danger"> RT @billboardcharts: .@Stray_Kids land seven songs on this week's #WorldDigitalSongSales chart:
-
-#3, Thunderous
-#11, Domino
-#14, Cheese
-#18…</div>
+The most popular user is: **SeremiNgwato**
+<div class="alert alert-block alert-danger"> RT @AbelNegasi4: France has been holding the national reserves of fourteen african countries since 1961: Benin, Burkina Faso, Guinea-Bissau…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **duty2warn** |
-| #2 Most tweeted to  | **benshapiro** |
-| #3 Most tweeted to  | **alanferrier** |
-| NewProfiles (less than 10 days) | 1.3%  |
-| Tweeters with < 10 followers  | 6.7%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **virginHoffice** |
+| #2 Most tweeted to  | **Sportsbetio** |
+| #3 Most tweeted to  | **thatguydenna** |
+| NewProfiles (less than 10 days) | 2.42%  |
+| Tweeters with < 10 followers  | 7.4%|
+| Tweeters with > 1000000 followers  | 0.38%  |
 
 
 
@@ -44,28 +39,28 @@ The most popular user is: **skznote_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VIEW**  |
-| second  | **WHOOPI**  |
-| third  | **US** |
-| fourth  | **NEW**  |
-| fifth  | **IQ**  |
+| first  | **SENEGAL**  |
+| second  | **FASO**  |
+| third  | **VS** |
+| fourth  | **BURKINA**  |
+| fifth  | **LIVE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (41.67%) & **NEGATIVELY-SUBJECTIVE** (16.67%) **OBJECTIVE** (41.67%)
+![image](assets/2022-02-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PerfectGameUSA: The MEAC will look different in 2022 with four teams departing the conference, although Norfolk State is back to defend… |
+|Burkina Faso vs Senegal LiveStream🛑Live:: https://t.co/kixo2NqjZtBurkina Faso vs Senegal Live StreamRayo Vallec… https://t.co/tZgeE6wjOD |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **skznote_**  |
+| The most retweeted user is: **SeremiNgwato**  |
 | ------------- |
-| RT @billboardcharts: .@Stray_Kids land seven songs on this week's #WorldDigitalSongSales chart:#3, Thunderous#11, Domino#14, Cheese#18… |
+| RT @AbelNegasi4: France has been holding the national reserves of fourteen african countries since 1961: Benin, Burkina Faso, Guinea-Bissau… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
