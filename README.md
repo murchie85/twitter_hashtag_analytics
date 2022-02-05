@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dame"**
+&#x1F34E; **TOPIC = "iPhone 13"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-04TWEETS.png)
+![image](assets/2022-02-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Only way the Lakers can fix this is find a way to steal Dame Lillard from the Blazers lol |
-| Where we going?? @Dame_Lillard |
-| @drewyoungtwt Hercules and Hunchback of Notre Dame are tied for Disney movies with no bad songs |
+| RT @missufe: $1500 | 21 JUTA RUPIAH OR IPHONE 13 FOR ONE WINNER IN 10 DAYS 🦄- rt &amp; follow @SpaceRunnersNFT https://t.co/DVJlHUzrFz |
+| @SwiftySharingan @CDawgVA after all why not, why shouldnt I buy the new iphone 13 for 32pounds |
+| RT @missufe: $1500 | 21 JUTA RUPIAH OR IPHONE 13 FOR ONE WINNER IN 10 DAYS 🦄- rt &amp; follow @SpaceRunnersNFT https://t.co/DVJlHUzrFz |
 
-The most popular user is: **keeyahhhhh**
-<div class="alert alert-block alert-danger"> RT @DigiPenNews: Floyd Norman became Disney's first Black cartoonist in 1957. He's still there at 86 with a stunning filmography behind him…</div>
+The most popular user is: **BigWinx12345678**
+<div class="alert alert-block alert-danger"> RT @missufe: $1500 | 21 JUTA RUPIAH OR IPHONE 13 FOR ONE WINNER IN 10 DAYS 🦄
+
+- rt &amp; follow @SpaceRunnersNFT https://t.co/DVJlHUzrFz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **Dame_Lillard** |
-| #3 Most tweeted to  | **statmuse** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.5%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **missufe** |
+| #2 Most tweeted to  | **SpaceRunnersNFT** |
+| #3 Most tweeted to  | **jojo24s_** |
+| NewProfiles (less than 10 days) | 5.0%  |
+| Tweeters with < 10 followers  | 6.66%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **keeyahhhhh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAME**  |
-| second  | **BLAZERS**  |
-| third  | **BLEDSOE** |
-| fourth  | **ERIC**  |
-| fifth  | **TRENT**  |
+| first  | **IPHONE**  |
+| second  | **13**  |
+| third  | **FOLLOW** |
+| fourth  | **RT**  |
+| fifth  | **DAYS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-02-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|u guys think Dame getting traded before the deadline? https://t.co/DjajU6YHbx |
+|It's my lucky day, someone has DM'd me on Instagram to let me know I've won an iPhone 13 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **keeyahhhhh**  |
+| The most retweeted user is: **BigWinx12345678**  |
 | ------------- |
-| RT @DigiPenNews: Floyd Norman became Disney's first Black cartoonist in 1957. He's still there at 86 with a stunning filmography behind him… |
+| RT @missufe: $1500 | 21 JUTA RUPIAH OR IPHONE 13 FOR ONE WINNER IN 10 DAYS 🦄- rt &amp; follow @SpaceRunnersNFT https://t.co/DVJlHUzrFz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
