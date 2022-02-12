@@ -1,36 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MetPolice"**
+&#x1F34E; **TOPIC = "#ClubWorldCup"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-10TWEETS.png)
+![image](assets/2022-02-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @charlotteukcity: Cressida Dick is leaving her job. I hope whoever takes her place will work tirelessly to build back trust, by setting… |
-| @kath_odonnell @SimonAttwood @PeterStefanovi2 @teachertwit2 Exactly! Seen anyone talking about #Partygate recently?… https://t.co/CyHJteLTyj |
-| RT @_Kano_P: So bored of seeing retired Supt and C.Supt criticising the Met about things that happened when they were serving and had influ… |
+| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
+| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
+| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
 
-The most popular user is: **angie_florence3**
-<div class="alert alert-block alert-danger"> RT @bmay: The Metropolitan Police weren’t quite this slow, cautious or bashful about the Sarah Everard vigil were they? 
-#metpolice #PartyG…</div>
+The most popular user is: **abwali6699**
+<div class="alert alert-block alert-danger"> RT @ChelseaFC: Al Hilal's 6-1 victory tonight means we'll face them in the semi-finals of the #ClubWorldCup on Wednesday! 🏆 https://t.co/Qu…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **metpoliceuk** |
-| #2 Most tweeted to  | **jamesak47** |
-| #3 Most tweeted to  | **theprecarian** |
-| NewProfiles (less than 10 days) | 1.62%  |
-| Tweeters with < 10 followers  | 3.87%|
+| #1 Most tweeted to  | **ChelseaFC** |
+| #2 Most tweeted to  | **premierleague** |
+| #3 Most tweeted to  | **valenciacf_en** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 3.34%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -40,28 +39,28 @@ The most popular user is: **angie_florence3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **METPOLICE**  |
-| second  | **DICK**  |
-| third  | **CRESSIDA** |
-| fourth  | **POLICE**  |
-| fifth  | **MET**  |
+| first  | **CLUBWORLDCUP**  |
+| second  | **@CHELSEAFC**  |
+| third  | **WINNING** |
+| fourth  | **CONGRATULATIONS**  |
+| fifth  | **CHELSEA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-02-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Will He be #Prosecuted ? #MetPolice have Said they are not going to #Investigate !!  @RSPCA_official should… https://t.co/T4qKQKYayN |
+|RT @derrickbortey: My manager Your manager Our manager 💙🥳☺️.       #ClubWorldCup@ChelseaFC  💙💙💙💙 https://t.co/AqlJi3hvCs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **angie_florence3**  |
+| The most retweeted user is: **abwali6699**  |
 | ------------- |
-| RT @bmay: The Metropolitan Police weren’t quite this slow, cautious or bashful about the Sarah Everard vigil were they? #metpolice #PartyG… |
+| RT @ChelseaFC: Al Hilal's 6-1 victory tonight means we'll face them in the semi-finals of the #ClubWorldCup on Wednesday! 🏆 https://t.co/Qu… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
