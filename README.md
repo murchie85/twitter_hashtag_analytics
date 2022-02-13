@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ClubWorldCup"**
+&#x1F34E; **TOPIC = "Watergate"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-12TWEETS.png)
+![image](assets/2022-02-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
-| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
-| RT @premierleague: Congratulations to @ChelseaFC on winning the FIFA #ClubWorldCup 🎉🏆 |
+| RT @KevinTober94: .@ThisWeekABC, @FaceTheNation &amp; @CNNSotu all ignored the bombshell Durham report that the Clinton campaign spied on Trump… |
+| Good point @ScottAdamsSays what if there was a second half, like @PATPmovie II ‘Worse Than Watergate’ https://t.co/Uveh8VHKrw |
+| RT @DonaldJTrumpJr: Where’s the “Worse Than Watergate” crew. Given that spying continued into DJT’s presidency, it is now literally Worse T… |
 
-The most popular user is: **abwali6699**
-<div class="alert alert-block alert-danger"> RT @ChelseaFC: Al Hilal's 6-1 victory tonight means we'll face them in the semi-finals of the #ClubWorldCup on Wednesday! 🏆 https://t.co/Qu…</div>
+The most popular user is: **shiburicapital**
+<div class="alert alert-block alert-danger"> RT @HolmesJosh: This is basically watergate at this point, right? Can we start treating this scandal with the appropriate amount of attenti…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChelseaFC** |
-| #2 Most tweeted to  | **premierleague** |
-| #3 Most tweeted to  | **valenciacf_en** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 3.34%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **KurtSchlichter** |
+| #2 Most tweeted to  | **DonaldJTrumpJr** |
+| #3 Most tweeted to  | **realLizUSA** |
+| NewProfiles (less than 10 days) | 1.34%  |
+| Tweeters with < 10 followers  | 3.26%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **abwali6699**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLUBWORLDCUP**  |
-| second  | **@CHELSEAFC**  |
-| third  | **WINNING** |
-| fourth  | **CONGRATULATIONS**  |
-| fifth  | **CHELSEA**  |
+| first  | **WATERGATE**  |
+| second  | **THAN**  |
+| third  | **WORSE** |
+| fourth  | **SPYING**  |
+| fifth  | **CLINTON**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-02-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (38.46%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @derrickbortey: My manager Your manager Our manager 💙🥳☺️.       #ClubWorldCup@ChelseaFC  💙💙💙💙 https://t.co/AqlJi3hvCs |
+|RT @TomBevanRCP: If true, this is worse-than-Watergate level stuff.  https://t.co/xyT7krpCgo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **abwali6699**  |
+| The most retweeted user is: **shiburicapital**  |
 | ------------- |
-| RT @ChelseaFC: Al Hilal's 6-1 victory tonight means we'll face them in the semi-finals of the #ClubWorldCup on Wednesday! 🏆 https://t.co/Qu… |
+| RT @HolmesJosh: This is basically watergate at this point, right? Can we start treating this scandal with the appropriate amount of attenti… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
