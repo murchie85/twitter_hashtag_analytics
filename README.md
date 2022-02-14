@@ -1,36 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Watergate"**
+&#x1F34E; **TOPIC = "Charlie Kirk"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-13TWEETS.png)
+![image](assets/2022-02-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KevinTober94: .@ThisWeekABC, @FaceTheNation &amp; @CNNSotu all ignored the bombshell Durham report that the Clinton campaign spied on Trump… |
-| Good point @ScottAdamsSays what if there was a second half, like @PATPmovie II ‘Worse Than Watergate’ https://t.co/Uveh8VHKrw |
-| RT @DonaldJTrumpJr: Where’s the “Worse Than Watergate” crew. Given that spying continued into DJT’s presidency, it is now literally Worse T… |
+| RT @santiagomayer_: Charlie Kirk’s frustration with Eminem is so strange. He generally loves white people wearing hoods. |
+| RT @SteveSchmidtSES: 2/ minutes of joy, nostalgia and culture that exploded across America at the mid point of a great Super Bowl could not… |
+| RT @jennycohn1: Charlie Kirk of @TPUSA (which now partners w/ Jack Posobiec) posing with his former employee, Adam Hageman, who has been ch… |
 
-The most popular user is: **shiburicapital**
-<div class="alert alert-block alert-danger"> RT @HolmesJosh: This is basically watergate at this point, right? Can we start treating this scandal with the appropriate amount of attenti…</div>
+The most popular user is: **FuriosaLA88**
+<div class="alert alert-block alert-danger"> RT @Mrs_Delecto: Charlie Kirk- college dropout
+
+Candace Owens- college dropout
+
+Madison Cawthorn- college dropout 
+
+Glenn Beck- college dro…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KurtSchlichter** |
-| #2 Most tweeted to  | **DonaldJTrumpJr** |
-| #3 Most tweeted to  | **realLizUSA** |
-| NewProfiles (less than 10 days) | 1.34%  |
-| Tweeters with < 10 followers  | 3.26%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **santiagomayer_** |
+| #2 Most tweeted to  | **SteveSchmidtSES** |
+| #3 Most tweeted to  | **KuckelmanAshley** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **shiburicapital**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WATERGATE**  |
-| second  | **THAN**  |
-| third  | **WORSE** |
-| fourth  | **SPYING**  |
-| fifth  | **CLINTON**  |
+| first  | **CHARLIE**  |
+| second  | **KIRK**  |
+| third  | **SHOW** |
+| fourth  | **SEXUAL**  |
+| fifth  | **PEOPLE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.15%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (38.46%)
+![image](assets/2022-02-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TomBevanRCP: If true, this is worse-than-Watergate level stuff.  https://t.co/xyT7krpCgo |
+|RT @SteveHofstetter: Charlie Kirk called last night's half-time show "sexual anarchy". I hate this. Not just because it shows how out of… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **shiburicapital**  |
+| The most retweeted user is: **FuriosaLA88**  |
 | ------------- |
-| RT @HolmesJosh: This is basically watergate at this point, right? Can we start treating this scandal with the appropriate amount of attenti… |
+| RT @Mrs_Delecto: Charlie Kirk- college dropoutCandace Owens- college dropoutMadison Cawthorn- college dropout Glenn Beck- college dro… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
