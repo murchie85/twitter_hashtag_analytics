@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Charlie Kirk"**
+&#x1F34E; **TOPIC = "#Apex3rdBirthday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-14TWEETS.png)
+![image](assets/2022-02-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @santiagomayer_: Charlie Kirk’s frustration with Eminem is so strange. He generally loves white people wearing hoods. |
-| RT @SteveSchmidtSES: 2/ minutes of joy, nostalgia and culture that exploded across America at the mid point of a great Super Bowl could not… |
-| RT @jennycohn1: Charlie Kirk of @TPUSA (which now partners w/ Jack Posobiec) posing with his former employee, Adam Hageman, who has been ch… |
+| RT @PlayApex: Reply below to show us how you’re celebrating the #Apex3rdBirthday using the hashtag for a chance to win 1000 Apex Coins! 🎉… |
+| @PlayApex Mirage will be the winner. #Apex3rdBirthday |
+| @PlayApex #Apex3rdBirthday let's gooo |
 
-The most popular user is: **FuriosaLA88**
-<div class="alert alert-block alert-danger"> RT @Mrs_Delecto: Charlie Kirk- college dropout
-
-Candace Owens- college dropout
-
-Madison Cawthorn- college dropout 
-
-Glenn Beck- college dro…</div>
+The most popular user is: **lilbape2**
+<div class="alert alert-block alert-danger"> RT @PlayApex: Reply below to show us how you’re celebrating the #Apex3rdBirthday using the hashtag for a chance to win 1000 Apex Coins! 🎉…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **santiagomayer_** |
-| #2 Most tweeted to  | **SteveSchmidtSES** |
-| #3 Most tweeted to  | **KuckelmanAshley** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **PlayApex** |
+| #2 Most tweeted to  | **YouTube** |
+| #3 Most tweeted to  | **ManofPrestige_** |
+| NewProfiles (less than 10 days) | 1.3%  |
+| Tweeters with < 10 followers  | 24.4%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -45,28 +39,28 @@ Glenn Beck- college dro…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHARLIE**  |
-| second  | **KIRK**  |
-| third  | **SHOW** |
-| fourth  | **SEXUAL**  |
-| fifth  | **PEOPLE**  |
+| first  | **APEX3RDBIRTHDAY**  |
+| second  | **CELEBRATING**  |
+| third  | **APEX** |
+| fourth  | **USING**  |
+| fifth  | **WIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
+![image](assets/2022-02-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SteveHofstetter: Charlie Kirk called last night's half-time show "sexual anarchy". I hate this. Not just because it shows how out of… |
+|RT @PlayApex: Reply below to show us how you’re celebrating the #Apex3rdBirthday using the hashtag for a chance to win 1000 Apex Coins! 🎉… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FuriosaLA88**  |
+| The most retweeted user is: **lilbape2**  |
 | ------------- |
-| RT @Mrs_Delecto: Charlie Kirk- college dropoutCandace Owens- college dropoutMadison Cawthorn- college dropout Glenn Beck- college dro… |
+| RT @PlayApex: Reply below to show us how you’re celebrating the #Apex3rdBirthday using the hashtag for a chance to win 1000 Apex Coins! 🎉… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
