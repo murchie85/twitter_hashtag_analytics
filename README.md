@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Brian Flores"**
+&#x1F34E; **TOPIC = "joon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-19TWEETS.png)
+![image](assets/2022-02-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AdamSchefter: Steelers named Brian Flores as their senior defensive assistant/linebackers coach. |
-| RT @steelers: We have named Brian Flores as our senior defensive assistant/linebackers. |
-| RT @steelers: We have named Brian Flores as our senior defensive assistant/linebackers. |
+| RT @bts7oclock: joon reading a comment "seeing your muscles gets me excited" yoonmin :  https://t.co/wHPXyvmrjR |
+| RT @dreamjeons: hobi : jungkook is dancing really hard these daysjoon : i heard jungkook got dance lessons https://t.co/cRU8WkL3ud |
+| @sseasaltrio @c2gnyu get some pink whutney |
 
-The most popular user is: **mbgelman**
-<div class="alert alert-block alert-danger"> RT @steelers: We have named Brian Flores as our senior defensive assistant/linebackers.</div>
+The most popular user is: **TKlabooth**
+<div class="alert alert-block alert-danger"> RT @BTS_twt: v's tweet was like..
+- joon https://t.co/e7zB9MXFkz</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **steelers** |
-| #2 Most tweeted to  | **AdamSchefter** |
-| #3 Most tweeted to  | **RapSheet** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 2.46%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **dreamjeons** |
+| #2 Most tweeted to  | **pjmvelvets** |
+| #3 Most tweeted to  | **knjgIoss** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 6.06%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **mbgelman**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRIAN**  |
-| second  | **FLORES**  |
-| third  | **DEFENSIVE** |
-| fourth  | **SENIOR**  |
-| fifth  | **STEELERS**  |
+| first  | **JOON**  |
+| second  | **JUNGKOOK**  |
+| third  | **:** |
+| fourth  | **THERE’S**  |
+| fifth  | **3**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-02-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Steelers⭐️ hire Brian Flores⭐️ former Head Coach of the  Dolphins⭐️ to be Senior Defensive Assistant  https://t.co/Q1Hce3TN11 |
+|RT @420JOON: the way joon looked around after failing to open the walnut with his hand like “damn i hope no one saw that” https://t.co/xIBG… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mbgelman**  |
+| The most retweeted user is: **TKlabooth**  |
 | ------------- |
-| RT @steelers: We have named Brian Flores as our senior defensive assistant/linebackers. |
+| RT @BTS_twt: v's tweet was like..- joon https://t.co/e7zB9MXFkz |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
