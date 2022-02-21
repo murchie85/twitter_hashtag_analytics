@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "joon"**
+&#x1F34E; **TOPIC = "#tippingpoint"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-20TWEETS.png)
+![image](assets/2022-02-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bts7oclock: joon reading a comment "seeing your muscles gets me excited" yoonmin :  https://t.co/wHPXyvmrjR |
-| RT @dreamjeons: hobi : jungkook is dancing really hard these daysjoon : i heard jungkook got dance lessons https://t.co/cRU8WkL3ud |
-| @sseasaltrio @c2gnyu get some pink whutney |
+| What’s a university ambassador? Is it head boy? Are there any ferrero rocher #tippingpoint https://t.co/dbM2VtUrIF |
+| Is the jackpot counter really that much bigger than the rest..it looks it when Ben holds it but not when in the machine.   #tippingpoint |
+| @MissMarrple And the oldest surviving Scottish person is 37 years old #tippingpoint |
 
-The most popular user is: **TKlabooth**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: v's tweet was like..
-- joon https://t.co/e7zB9MXFkz</div>
+The most popular user is: **ia_vets**
+<div class="alert alert-block alert-danger"> RT @OANN: #TippingPoint Jeffrey Tucker - The Dominoes Are Starting to Fall https://t.co/UAo2sj8SFN #OANN @TippingPointOAN</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **dreamjeons** |
-| #2 Most tweeted to  | **pjmvelvets** |
-| #3 Most tweeted to  | **knjgIoss** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 6.06%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **OANN** |
+| #2 Most tweeted to  | **GillianMoffat82** |
+| #3 Most tweeted to  | **MissLionHeart** |
+| NewProfiles (less than 10 days) | 2.2%  |
+| Tweeters with < 10 followers  | 9.68%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **TKlabooth**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JOON**  |
-| second  | **JUNGKOOK**  |
-| third  | **:** |
-| fourth  | **THERE’S**  |
-| fifth  | **3**  |
+| first  | **TIPPINGPOINT**  |
+| second  | **🚨**  |
+| third  | **TIPPINGPOINTTIPPINGPOINT** |
+| fourth  | **@OANN:**  |
+| fifth  | **DAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-20BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-02-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @420JOON: the way joon looked around after failing to open the walnut with his hand like “damn i hope no one saw that” https://t.co/xIBG… |
+|Something not quite right about Fay. I bet she’s be outside ur gaff at 3am doing rituals n shit #tippingpoint |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TKlabooth**  |
+| The most retweeted user is: **ia_vets**  |
 | ------------- |
-| RT @BTS_twt: v's tweet was like..- joon https://t.co/e7zB9MXFkz |
+| RT @OANN: #TippingPoint Jeffrey Tucker - The Dominoes Are Starting to Fall https://t.co/UAo2sj8SFN #OANN @TippingPointOAN |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
