@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#tippingpoint"**
+&#x1F34E; **TOPIC = "Whiter Shade of Pale"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-21TWEETS.png)
+![image](assets/2022-02-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| What’s a university ambassador? Is it head boy? Are there any ferrero rocher #tippingpoint https://t.co/dbM2VtUrIF |
-| Is the jackpot counter really that much bigger than the rest..it looks it when Ben holds it but not when in the machine.   #tippingpoint |
-| @MissMarrple And the oldest surviving Scottish person is 37 years old #tippingpoint |
+| RT @Lyricoftheday4: #TDIM #GaryBrooker #RIP #lyricsoftheday #vinylrecords "And so it was that lateras the miller told his talethat her… |
+| RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte… |
+| #Nowplaying  on Affinity Radio Procol Harum - A Whiter Shade of Pale [*][Single Version][Mono] so why not Listen He… https://t.co/ZhIELrzqQd |
 
-The most popular user is: **ia_vets**
-<div class="alert alert-block alert-danger"> RT @OANN: #TippingPoint Jeffrey Tucker - The Dominoes Are Starting to Fall https://t.co/UAo2sj8SFN #OANN @TippingPointOAN</div>
+The most popular user is: **uninihil**
+<div class="alert alert-block alert-danger"> RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **OANN** |
-| #2 Most tweeted to  | **GillianMoffat82** |
-| #3 Most tweeted to  | **MissLionHeart** |
-| NewProfiles (less than 10 days) | 2.2%  |
-| Tweeters with < 10 followers  | 9.68%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **RollingStone** |
+| #2 Most tweeted to  | **YouTube** |
+| #3 Most tweeted to  | **ThatEricAlper** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 2.08%|
+| Tweeters with > 1000000 followers  | 0.38%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ia_vets**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIPPINGPOINT**  |
-| second  | **🚨**  |
-| third  | **TIPPINGPOINTTIPPINGPOINT** |
-| fourth  | **@OANN:**  |
-| fifth  | **DAY**  |
+| first  | **SHADE**  |
+| second  | **WHITER**  |
+| third  | **BROOKER** |
+| fourth  | **GARY**  |
+| fifth  | **HARUM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/2022-02-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (80.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Something not quite right about Fay. I bet she’s be outside ur gaff at 3am doing rituals n shit #tippingpoint |
+|RT @MartinKnight_: R. I. P. Gary Brooker who has skipped the light fandango. Procol Harum’s A Whiter Shade Of Pale wrong footed the pop mus… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ia_vets**  |
+| The most retweeted user is: **uninihil**  |
 | ------------- |
-| RT @OANN: #TippingPoint Jeffrey Tucker - The Dominoes Are Starting to Fall https://t.co/UAo2sj8SFN #OANN @TippingPointOAN |
+| RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
