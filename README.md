@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Whiter Shade of Pale"**
+&#x1F34E; **TOPIC = "#NFTCommumity"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-22TWEETS.png)
+![image](assets/2022-02-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Lyricoftheday4: #TDIM #GaryBrooker #RIP #lyricsoftheday #vinylrecords "And so it was that lateras the miller told his talethat her… |
-| RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte… |
-| #Nowplaying  on Affinity Radio Procol Harum - A Whiter Shade of Pale [*][Single Version][Mono] so why not Listen He… https://t.co/ZhIELrzqQd |
+| RT @tote_clubnft: Check out these sneak peeks that were done live today  with @inktolin on our discord! The gas mask and halo were decided… |
+| RT @olenkadraws: Good night #NFTCommumity 🌒 https://t.co/DfCdoIkVJ7 |
+| RT @NFTs_Gifts: HAPEBEAST NFT GIVEAWAY 🦍Current Floor Price of 3 #ETH ($7,904) 🤑How to enter: - RT &amp; Like ♻️❤️- Follow me @NFTs_Gifts… |
 
-The most popular user is: **uninihil**
-<div class="alert alert-block alert-danger"> RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte…</div>
+The most popular user is: **FC1477**
+<div class="alert alert-block alert-danger"> RT @SpaceRunnersNFT: #Wear2Earn economy is loading.. ⏳
+
+We will be launching $SPACE token as the native currency of our upcoming fashion #m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RollingStone** |
-| #2 Most tweeted to  | **YouTube** |
-| #3 Most tweeted to  | **ThatEricAlper** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 2.08%|
-| Tweeters with > 1000000 followers  | 0.38%  |
+| #1 Most tweeted to  | **TripstersNFT** |
+| #2 Most tweeted to  | **RayPeraaWEB3** |
+| #3 Most tweeted to  | **CosmicCats_** |
+| NewProfiles (less than 10 days) | 9.58%  |
+| Tweeters with < 10 followers  | 8.6%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **uninihil**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SHADE**  |
-| second  | **WHITER**  |
-| third  | **BROOKER** |
-| fourth  | **GARY**  |
-| fifth  | **HARUM**  |
+| first  | **NFT**  |
+| second  | **WL**  |
+| third  | **@TRIPSTERSNFT** |
+| fourth  | **FOLLOW**  |
+| fifth  | **5**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (80.0%) **OBJECTIVE** (13.33%)
+![image](assets/2022-02-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MartinKnight_: R. I. P. Gary Brooker who has skipped the light fandango. Procol Harum’s A Whiter Shade Of Pale wrong footed the pop mus… |
+|How do you like this format?#NFT #NFTGiveaway #NFTartist #NFTs #NFTCommumity https://t.co/rMOOpJKRr5 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **uninihil**  |
+| The most retweeted user is: **FC1477**  |
 | ------------- |
-| RT @RollingStone: Procol Harum frontman Gary Brooker, who co-wrote and sang the band’s 1967 classic “A Whiter Shade of Pale,” has died afte… |
+| RT @SpaceRunnersNFT: #Wear2Earn economy is loading.. ⏳We will be launching $SPACE token as the native currency of our upcoming fashion #m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
