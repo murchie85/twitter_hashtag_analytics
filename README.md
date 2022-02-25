@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#WLPC"**
+&#x1F34E; **TOPIC = "Notifications"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-24TWEETS.png)
+![image](assets/2022-02-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ITearley: What an amazing use of VR and Wi-Fi surveys #wlpc https://t.co/z0kASKdQ5a |
-| RT @wifistand: A bird’s eye view of the pool gets you a new cup to keep your drink cool! Post it when ya find it! #WLPC #WLPCScavengerHunt… |
-| RT @jjx: NEW -&gt; "5-Year Outlook: Three Trends Shaping Wireless Security"Check out my guest article for @ExtremeNetworks where I hit on the… |
+| RT @pulte: Alright, I got a busy afternoon, so I will post the winner of the $1,000 notification at 9am tomorrow morning.  Turn your notifi… |
+| RT @pulte: I just had a big fat beautiful diet coke with lots of ice, and it is a beautiful day where I am.  The $1k for today will go to s… |
+| @pulte Notifications always on!! This would be so helpful! This month has been so hard and I’m moving in 4days!! 😭😭… https://t.co/jLLnZQJALK |
 
-The most popular user is: **collinbunker**
-<div class="alert alert-block alert-danger"> RT @samuel_clements: If you’d like an invite to the Wi-Fi Pros slack group, please send myself or @Mae149 a DM/email. All are welcome and w…</div>
+The most popular user is: **Luv4CW**
+<div class="alert alert-block alert-danger"> RT @HARRYS1DEMPIRE: 👉TURN MY NOTIFICATIONS ON TO GAIN MORE FOLLOWERS👈 RETWEET 🍧</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wirelesslanpros** |
-| #2 Most tweeted to  | **Wirelessnerd** |
-| #3 Most tweeted to  | **MackenzieWiFi** |
-| NewProfiles (less than 10 days) | 0.15%  |
-| Tweeters with < 10 followers  | 0.1%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **pulte** |
+| #2 Most tweeted to  | **MrHumanityGives** |
+| #3 Most tweeted to  | **flashyflashycom** |
+| NewProfiles (less than 10 days) | 3.86%  |
+| Tweeters with < 10 followers  | 12.78%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **collinbunker**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WLPC**  |
-| second  | **NEW**  |
-| third  | **WIFI** |
-| fourth  | **GREAT**  |
-| fifth  | **WI-FI**  |
+| first  | **BEAUTIFUL**  |
+| second  | **NOTIFICATIONS**  |
+| third  | **@PULTE:** |
+| fourth  | **DAY**  |
+| fifth  | **COKE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2022-02-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@d4rkm4tter presenting his #WiFiKrane Lite project at #WLPC - really enjoying the history behind it. https://t.co/8E2nd0PjRL |
+|RT @koolk123456: 🎁GIVEAWAY!🎁📌Project - @CodeCrowCorp Prizes:🏆1X- NFT🏆1 SOL ($100)🏆5 WL SPOTS🏆1X - Solhub Discord invsTo enter:1⃣… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **collinbunker**  |
+| The most retweeted user is: **Luv4CW**  |
 | ------------- |
-| RT @samuel_clements: If you’d like an invite to the Wi-Fi Pros slack group, please send myself or @Mae149 a DM/email. All are welcome and w… |
+| RT @HARRYS1DEMPIRE: 👉TURN MY NOTIFICATIONS ON TO GAIN MORE FOLLOWERS👈 RETWEET 🍧 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
