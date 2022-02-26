@@ -1,36 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Notifications"**
+&#x1F34E; **TOPIC = "#UkraineRussiaWar"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-25TWEETS.png)
+![image](assets/2022-02-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @pulte: Alright, I got a busy afternoon, so I will post the winner of the $1,000 notification at 9am tomorrow morning.  Turn your notifi… |
-| RT @pulte: I just had a big fat beautiful diet coke with lots of ice, and it is a beautiful day where I am.  The $1k for today will go to s… |
-| @pulte Notifications always on!! This would be so helpful! This month has been so hard and I’m moving in 4days!! 😭😭… https://t.co/jLLnZQJALK |
+| RT @remotetavern: Ukrainian soldiers in capital city #kyiv “We did not start this war, but we are going to end it”#Ukraine #kiev #UkraineR… |
+| RT @iAbhinavPal: Whatever is the end of this war, the name of Ukrainian President Volodymyr Zelenskyy will be written in the Ukraine's hist… |
+| After the Taliban calls for dialogue, China preaches sovereignty and territorial integrity. 🤐 #UkraineRussiaWar https://t.co/3N0xsapzCC |
 
-The most popular user is: **Luv4CW**
-<div class="alert alert-block alert-danger"> RT @HARRYS1DEMPIRE: 👉TURN MY NOTIFICATIONS ON TO GAIN MORE FOLLOWERS👈 RETWEET 🍧</div>
+The most popular user is: **DarkWebWarrior**
+<div class="alert alert-block alert-danger"> RT @PageVellalar: “When you attack us, You will see our faces, not our backs”
+
+~ Ukraine president ✊❤️ 🔥
+#UkraineRussiaWar #Russia #Ukraine…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **pulte** |
-| #2 Most tweeted to  | **MrHumanityGives** |
-| #3 Most tweeted to  | **flashyflashycom** |
-| NewProfiles (less than 10 days) | 3.86%  |
-| Tweeters with < 10 followers  | 12.78%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **worldwrong3** |
+| #2 Most tweeted to  | **KyivPost** |
+| #3 Most tweeted to  | **berojag59060636** |
+| NewProfiles (less than 10 days) | 4.62%  |
+| Tweeters with < 10 followers  | 16.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **Luv4CW**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEAUTIFUL**  |
-| second  | **NOTIFICATIONS**  |
-| third  | **@PULTE:** |
-| fourth  | **DAY**  |
-| fifth  | **COKE**  |
+| first  | **UKRAINE**  |
+| second  | **UKRAINERUSSIAWAR**  |
+| third  | **RUSSIA** |
+| fourth  | **WAR**  |
+| fifth  | **STOP**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2022-02-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @koolk123456: 🎁GIVEAWAY!🎁📌Project - @CodeCrowCorp Prizes:🏆1X- NFT🏆1 SOL ($100)🏆5 WL SPOTS🏆1X - Solhub Discord invsTo enter:1⃣… |
+|RT @blizz_diamonds: The President of Ukraine is roaming the city of Kiev to protect his state.  #UkraineRussiaWar #Ukraine #RussiaUkraineWa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Luv4CW**  |
+| The most retweeted user is: **DarkWebWarrior**  |
 | ------------- |
-| RT @HARRYS1DEMPIRE: 👉TURN MY NOTIFICATIONS ON TO GAIN MORE FOLLOWERS👈 RETWEET 🍧 |
+| RT @PageVellalar: “When you attack us, You will see our faces, not our backs”~ Ukraine president ✊❤️ 🔥#UkraineRussiaWar #Russia #Ukraine… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
