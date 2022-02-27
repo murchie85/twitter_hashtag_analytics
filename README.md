@@ -1,38 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UkraineRussiaWar"**
+&#x1F34E; **TOPIC = "#ForTheCity"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-26TWEETS.png)
+![image](assets/2022-02-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @remotetavern: Ukrainian soldiers in capital city #kyiv “We did not start this war, but we are going to end it”#Ukraine #kiev #UkraineR… |
-| RT @iAbhinavPal: Whatever is the end of this war, the name of Ukrainian President Volodymyr Zelenskyy will be written in the Ukraine's hist… |
-| After the Taliban calls for dialogue, China preaches sovereignty and territorial integrity. 🤐 #UkraineRussiaWar https://t.co/3N0xsapzCC |
+| RT @JeremyBranham: I have two tickets to give away to the Cougar game tomorrow against SMU. Respond by 9pm and I will select a winner and… |
+| RT @kellenmsampson: All road games are street FIGHTS‼️#ForTheCity🐾🐾 https://t.co/p2RAoSPkGf |
+| RT @twoscoopsofpig: LET'S FUCKING GOOOOOOOOO#ForTheCity |
 
-The most popular user is: **DarkWebWarrior**
-<div class="alert alert-block alert-danger"> RT @PageVellalar: “When you attack us, You will see our faces, not our backs”
-
-~ Ukraine president ✊❤️ 🔥
-#UkraineRussiaWar #Russia #Ukraine…</div>
+The most popular user is: **NYCFCS**
+<div class="alert alert-block alert-danger"> RT @NYCFC: BRINGING IT HOME 🏆 #ForTheCity https://t.co/3gJECvsMro</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **worldwrong3** |
-| #2 Most tweeted to  | **KyivPost** |
-| #3 Most tweeted to  | **berojag59060636** |
-| NewProfiles (less than 10 days) | 4.62%  |
-| Tweeters with < 10 followers  | 16.0%|
+| #1 Most tweeted to  | **UHCougarMBK** |
+| #2 Most tweeted to  | **thejointchiro** |
+| #3 Most tweeted to  | **UHouston** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 1.07%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -42,28 +39,28 @@ The most popular user is: **DarkWebWarrior**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UKRAINE**  |
-| second  | **UKRAINERUSSIAWAR**  |
-| third  | **RUSSIA** |
-| fourth  | **WAR**  |
-| fifth  | **STOP**  |
+| first  | **FORTHECITY**  |
+| second  | **@UHCOUGARMBK:**  |
+| third  | **GOCOOGS** |
+| fourth  | **X**  |
+| fifth  | **AMERICANHOOPS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
+![image](assets/2022-02-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @blizz_diamonds: The President of Ukraine is roaming the city of Kiev to protect his state.  #UkraineRussiaWar #Ukraine #RussiaUkraineWa… |
+|RT @UHCougarMBK: Headline says it all...Enjoy this story about @3five_ from @jdm2186 for @TheDailyCougar #ForTheCity x #GoCoogs 🔗 – h… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DarkWebWarrior**  |
+| The most retweeted user is: **NYCFCS**  |
 | ------------- |
-| RT @PageVellalar: “When you attack us, You will see our faces, not our backs”~ Ukraine president ✊❤️ 🔥#UkraineRussiaWar #Russia #Ukraine… |
+| RT @NYCFC: BRINGING IT HOME 🏆 #ForTheCity https://t.co/3gJECvsMro |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
