@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ForTheCity"**
+&#x1F34E; **TOPIC = "Swansea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-02-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-27TWEETS.png)
+![image](assets/2022-02-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JeremyBranham: I have two tickets to give away to the Cougar game tomorrow against SMU. Respond by 9pm and I will select a winner and… |
-| RT @kellenmsampson: All road games are street FIGHTS‼️#ForTheCity🐾🐾 https://t.co/p2RAoSPkGf |
-| RT @twoscoopsofpig: LET'S FUCKING GOOOOOOOOO#ForTheCity |
+| RT @UpdateBolabola: Starting XI IPSWICH U23 vs Swansea City U23Hayes, Stewart, Elkan Baggott (C), Armin, Vincent-Young, El Mizouni, Humph… |
+| RT @Squawka: The last 10 League Cup winners:◎ 2012: Liverpool◉ 2013: Swansea City◎ 2014: Man City◎ 2015: Chelsea◎ 2016: Man City◎ 20… |
+| RT @AdoptionsUk: Please retweet to help Princess find a home #SWANSEA #WALES 🏴󠁧󠁢󠁷󠁬󠁳󠁿Energetic Lurcher aged 5, looking for an adult home to… |
 
-The most popular user is: **NYCFCS**
-<div class="alert alert-block alert-danger"> RT @NYCFC: BRINGING IT HOME 🏆 #ForTheCity https://t.co/3gJECvsMro</div>
+The most popular user is: **swansea_sia**
+<div class="alert alert-block alert-danger"> RT @kingbealestreet: SPEAK! 🗣🗣 https://t.co/AvtpbAzYmU</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **UHCougarMBK** |
-| #2 Most tweeted to  | **thejointchiro** |
-| #3 Most tweeted to  | **UHouston** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 1.07%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AdoptionsUk** |
+| #2 Most tweeted to  | **SportySuz21** |
+| #3 Most tweeted to  | **SwansOfficial** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 4.16%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **NYCFCS**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FORTHECITY**  |
-| second  | **@UHCOUGARMBK:**  |
-| third  | **GOCOOGS** |
-| fourth  | **X**  |
-| fifth  | **AMERICANHOOPS**  |
+| first  | **SWANSEA**  |
+| second  | **HOME**  |
+| third  | **CITY** |
+| fourth  | **WALES**  |
+| fifth  | **PLEASE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-02-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+![image](assets/2022-02-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UHCougarMBK: Headline says it all...Enjoy this story about @3five_ from @jdm2186 for @TheDailyCougar #ForTheCity x #GoCoogs 🔗 – h… |
+|RT @SwanseaCityLive: Swansea City headlines as Martin 'has what it takes' to get club to Premier League and surprise name makes team of tou… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NYCFCS**  |
+| The most retweeted user is: **swansea_sia**  |
 | ------------- |
-| RT @NYCFC: BRINGING IT HOME 🏆 #ForTheCity https://t.co/3gJECvsMro |
+| RT @kingbealestreet: SPEAK! 🗣🗣 https://t.co/AvtpbAzYmU |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
