@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Swansea"**
+&#x1F34E; **TOPIC = "Kharkiv"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-02-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-02-28TWEETS.png)
+![image](assets/2022-03-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @UpdateBolabola: Starting XI IPSWICH U23 vs Swansea City U23Hayes, Stewart, Elkan Baggott (C), Armin, Vincent-Young, El Mizouni, Humph… |
-| RT @Squawka: The last 10 League Cup winners:◎ 2012: Liverpool◉ 2013: Swansea City◎ 2014: Man City◎ 2015: Chelsea◎ 2016: Man City◎ 20… |
-| RT @AdoptionsUk: Please retweet to help Princess find a home #SWANSEA #WALES 🏴󠁧󠁢󠁷󠁬󠁳󠁿Energetic Lurcher aged 5, looking for an adult home to… |
+| RT @Newsweek: The European Parliament accepted Ukraine's application to join the European Union (EU) Tuesday, as Russia continues a sixth d… |
+| Force et courage au peuple #Ukrainiens, le monde est avec vous !/Strength and courage to the #Ukrainian people, t… https://t.co/hxZztLs3EB |
+| ‘And so it is,just like you said it would be,life goes easy on me.Most of the time’(Thermobaric missil, Kharkiv) https://t.co/ylhELVmIp7 |
 
-The most popular user is: **swansea_sia**
-<div class="alert alert-block alert-danger"> RT @kingbealestreet: SPEAK! 🗣🗣 https://t.co/AvtpbAzYmU</div>
+The most popular user is: **SecureAmerica**
+<div class="alert alert-block alert-danger"> RT @danriversitv: Kharkiv Subway tonight. Like something from the Blitz in London during WW2. Shocking. Where on earth will this all end? h…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdoptionsUk** |
-| #2 Most tweeted to  | **SportySuz21** |
-| #3 Most tweeted to  | **SwansOfficial** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 4.16%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **KyivIndependent** |
+| #2 Most tweeted to  | **olex_scherba** |
+| #3 Most tweeted to  | **Conflicts** |
+| NewProfiles (less than 10 days) | 3.18%  |
+| Tweeters with < 10 followers  | 9.94%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **swansea_sia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SWANSEA**  |
-| second  | **HOME**  |
-| third  | **CITY** |
-| fourth  | **WALES**  |
-| fifth  | **PLEASE**  |
+| first  | **KHARKIV**  |
+| second  | **RUSSIAN**  |
+| third  | **UKRAINE** |
+| fourth  | **CITY**  |
+| fifth  | **EXPLOSION**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-02-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-02-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-03-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SwanseaCityLive: Swansea City headlines as Martin 'has what it takes' to get club to Premier League and surprise name makes team of tou… |
+|Unfortunately, economic &amp; diplomatic sanctions will not stop the Russian bombarment of Ukrainian cities like… https://t.co/X9Vo0SJVCW |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **swansea_sia**  |
+| The most retweeted user is: **SecureAmerica**  |
 | ------------- |
-| RT @kingbealestreet: SPEAK! 🗣🗣 https://t.co/AvtpbAzYmU |
+| RT @danriversitv: Kharkiv Subway tonight. Like something from the Blitz in London during WW2. Shocking. Where on earth will this all end? h… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
