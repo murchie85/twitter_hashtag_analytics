@@ -1,40 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Boreham Wood"**
+&#x1F34E; **TOPIC = "#gasprices"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-03TWEETS.png)
+![image](assets/2022-03-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Everton: 🏆 | We will face Crystal Palace away in the last eight of the #EmiratesFACup if we defeat Boreham Wood this evening. The qua… |
-| RT @FootyAccums: Boreham Wood will wear a special edition black kit tonight due to kit clashes with Everton's home kit.Everton have funde… |
-| RT @NonLeagueShop: ⭐️ GIVEAWAY ⭐️@BOREHAM_WOODFC have already made history making the 5th Round of the FA Cup 🏆We’re giving away this B… |
+| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
+| RT @bernicebuffalo: In 2020, @NewUrbanism came to #buffalo for a #mobility conf. Buffalo committed to adopting #ebikes and #escooters . Whe… |
+| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
 
-The most popular user is: **Al3x_1916**
-<div class="alert alert-block alert-danger"> RT @FootyLimbs: If Everton beat Boreham Wood tonight we’ll giveaway this 1994/96 Club America Home kit for FREE! 😍🇲🇽🟡 
+The most popular user is: **proputzr715**
+<div class="alert alert-block alert-danger"> RT @johnpavlovitz: They are worth high #gasprices.
 
-To enter:
-
-1️⃣ RT t…</div>
+#IStandWithUkraine https://t.co/cWrOL7fSlI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Everton** |
-| #2 Most tweeted to  | **FootyLimbs** |
-| #3 Most tweeted to  | **FootyAccums** |
-| NewProfiles (less than 10 days) | 1.06%  |
-| Tweeters with < 10 followers  | 5.06%|
-| Tweeters with > 1000000 followers  | 0.6%  |
+| #1 Most tweeted to  | **johnpavlovitz** |
+| #2 Most tweeted to  | **erinriediger** |
+| #3 Most tweeted to  | **RepDougCollins** |
+| NewProfiles (less than 10 days) | 1.88%  |
+| Tweeters with < 10 followers  | 7.14%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -43,28 +41,28 @@ To enter:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOREHAM**  |
-| second  | **WOOD**  |
-| third  | **EVERTON** |
-| fourth  | **TONIGHT**  |
-| fifth  | **CUP**  |
+| first  | **GASPRICES**  |
+| second  | **HIGH**  |
+| third  | **WORTH** |
+| fourth  | **ISTANDWITHUKRAINE**  |
+| fifth  | **@JOHNPAVLOVITZ:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-03-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Everton: Your team to take on Boreham Wood! 🔵#EmiratesFACup https://t.co/i4tkiitsVW |
+|How has everyone weeks gone? 😁We've had an amazing week at One Energy, welcoming lots of new members to the famil… https://t.co/wZHt9CjzHp |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Al3x_1916**  |
+| The most retweeted user is: **proputzr715**  |
 | ------------- |
-| RT @FootyLimbs: If Everton beat Boreham Wood tonight we’ll giveaway this 1994/96 Club America Home kit for FREE! 😍🇲🇽🟡 To enter:1️⃣ RT t… |
+| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
