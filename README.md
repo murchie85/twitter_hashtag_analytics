@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#gasprices"**
+&#x1F34E; **TOPIC = "Brittney Griner"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-04TWEETS.png)
+![image](assets/2022-03-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
-| RT @bernicebuffalo: In 2020, @NewUrbanism came to #buffalo for a #mobility conf. Buffalo committed to adopting #ebikes and #escooters . Whe… |
-| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
+| RT @AntheaButler: I hate to say this, but we are not going to see Brittney Griner for awhile. Whether she had vape pens or not, this is a p… |
+| RT @ShellyBellyPBJ: @IAmJohnAles Breaking News: Russian customs officials said they had detained a star American basketball player after fi… |
+| RT @cmclymer: It taking three weeks for Brittney Griner’s detention in Russia to hit the news here is absurd and horrifying in a way that’s… |
 
-The most popular user is: **proputzr715**
-<div class="alert alert-block alert-danger"> RT @johnpavlovitz: They are worth high #gasprices.
-
-#IStandWithUkraine https://t.co/cWrOL7fSlI</div>
+The most popular user is: **SDEnyaRedRain**
+<div class="alert alert-block alert-danger"> RT @nytimes: Breaking News: Russian customs officials said they had detained a star American basketball player after finding hashish oil in…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **johnpavlovitz** |
-| #2 Most tweeted to  | **erinriediger** |
-| #3 Most tweeted to  | **RepDougCollins** |
-| NewProfiles (less than 10 days) | 1.88%  |
-| Tweeters with < 10 followers  | 7.14%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **rgay** |
+| #2 Most tweeted to  | **cmclymer** |
+| #3 Most tweeted to  | **nytimes** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 2.1%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **proputzr715**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GASPRICES**  |
-| second  | **HIGH**  |
-| third  | **WORTH** |
-| fourth  | **ISTANDWITHUKRAINE**  |
-| fifth  | **@JOHNPAVLOVITZ:**  |
+| first  | **BRITTNEY**  |
+| second  | **GRINER**  |
+| third  | **RUSSIA** |
+| fourth  | **WEEKS**  |
+| fifth  | **RUSSIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-03-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|How has everyone weeks gone? 😁We've had an amazing week at One Energy, welcoming lots of new members to the famil… https://t.co/wZHt9CjzHp |
+|RT @washingtonpost: WNBA star Brittney Griner has been arrested in Russia on suspicion of illegally bringing drugs into the country after b… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **proputzr715**  |
+| The most retweeted user is: **SDEnyaRedRain**  |
 | ------------- |
-| RT @johnpavlovitz: They are worth high #gasprices.#IStandWithUkraine https://t.co/cWrOL7fSlI |
+| RT @nytimes: Breaking News: Russian customs officials said they had detained a star American basketball player after finding hashish oil in… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
