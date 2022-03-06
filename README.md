@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Brittney Griner"**
+&#x1F34E; **TOPIC = "#Wordle260"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-05TWEETS.png)
+![image](assets/2022-03-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AntheaButler: I hate to say this, but we are not going to see Brittney Griner for awhile. Whether she had vape pens or not, this is a p… |
-| RT @ShellyBellyPBJ: @IAmJohnAles Breaking News: Russian customs officials said they had detained a star American basketball player after fi… |
-| RT @cmclymer: It taking three weeks for Brittney Griner’s detention in Russia to hit the news here is absurd and horrifying in a way that’s… |
+| #Wordle260 Wordle 260 3/6⬛⬛🟨⬛🟨⬛🟨🟨⬛🟨🟩🟩🟩🟩🟩day is off to a good start |
+| This is what happens when some words use only one vowel and too many consonants #Wordle #Wordle260 Wordle 260 5/6… https://t.co/voJpSCWEfc |
+| Wordle 260 4/6#Wordle260⬛⬛⬛⬛🟨🟨⬛⬛⬛⬛⬛🟨🟨🟨🟩🟩🟩🟩🟩🟩 |
 
-The most popular user is: **SDEnyaRedRain**
-<div class="alert alert-block alert-danger"> RT @nytimes: Breaking News: Russian customs officials said they had detained a star American basketball player after finding hashish oil in…</div>
+The most popular user is: **napstergastly**
+<div class="alert alert-block alert-danger"> RT @bgay4real: me at 12:01 AM getting the daily Wordle correct in less than six tries:
+
+#Wordle260 https://t.co/VbwIxtkd5Y</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **rgay** |
-| #2 Most tweeted to  | **cmclymer** |
+| #1 Most tweeted to  | **bgay4real** |
+| #2 Most tweeted to  | **asamant93** |
 | #3 Most tweeted to  | **nytimes** |
-| NewProfiles (less than 10 days) | 0.46%  |
-| Tweeters with < 10 followers  | 2.1%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 13.35%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **SDEnyaRedRain**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRITTNEY**  |
-| second  | **GRINER**  |
-| third  | **RUSSIA** |
-| fourth  | **WEEKS**  |
-| fifth  | **RUSSIAN**  |
+| first  | **260**  |
+| second  | **WORDLE260**  |
+| third  | **🟩🟩🟩🟩🟩** |
+| fourth  | **WORDLE**  |
+| fifth  | **3/6**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-03-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @washingtonpost: WNBA star Brittney Griner has been arrested in Russia on suspicion of illegally bringing drugs into the country after b… |
+|#Wordle #Wordle260 #Sunday Wordle 260 3/6⬜🟨⬜⬜⬜🟨🟨⬜🟨🟩🟩🟩🟩🟩🟩 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SDEnyaRedRain**  |
+| The most retweeted user is: **napstergastly**  |
 | ------------- |
-| RT @nytimes: Breaking News: Russian customs officials said they had detained a star American basketball player after finding hashish oil in… |
+| RT @bgay4real: me at 12:01 AM getting the daily Wordle correct in less than six tries:#Wordle260 https://t.co/VbwIxtkd5Y |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
