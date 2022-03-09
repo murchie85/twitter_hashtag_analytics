@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Drew Lock"**
+&#x1F34E; **TOPIC = "Black Panther"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-08TWEETS.png)
+![image](assets/2022-03-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Rolling with Drew Lock… W https://t.co/BtzutieF4b |
-| RT @Kofie: Drew Lock passing to DK Metcalf https://t.co/9qM9yfdw4Y |
-| RT @AdamSchefter: More compensation for Seattle: Seahawks get back talented DL Shelby Harris, whom Denver considers a locker-room leader, a… |
+| RT @notcapnamerica: “Black Panther” and “Creed” director Ryan Coogler was detained and handcuffed by Atlanta police after he asked a Bank o… |
+| RT @Variety: ‘Black Panther’ Director Ryan Coogler Was Mistaken for a Bank Robber: ‘This Situation Should Never Have Happened’ https://t.co… |
+| RT @Phil_Lewis_: Bank staffers mistakenly thought “Black Panther” director Ryan Coogler was staging a robbery – so they called cops, and he… |
 
-The most popular user is: **JoeZo88**
-<div class="alert alert-block alert-danger"> RT @AdamSchefter: Trade package:
-
-Seattle gets QB Drew Lock, TE Noah Fant, DL Shelby Harris, two first-round picks, two second-round picks…</div>
+The most popular user is: **__DivineRoyalty**
+<div class="alert alert-block alert-danger"> RT @yeezyluciano: Black panther poster. Just as relevant today. https://t.co/cx92QZAFK6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **RapSheet** |
-| #3 Most tweeted to  | **AllanBell247** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 3.98%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Variety** |
+| #2 Most tweeted to  | **notcapnamerica** |
+| #3 Most tweeted to  | **Phil_Lewis_** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 1.6%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -41,28 +39,28 @@ Seattle gets QB Drew Lock, TE Noah Fant, DL Shelby Harris, two first-round picks
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DREW**  |
-| second  | **LOCK**  |
-| third  | **TWO** |
-| fourth  | **TRADE**  |
-| fifth  | **SHELBY**  |
+| first  | **BANK**  |
+| second  | **COOGLER**  |
+| third  | **DIRECTOR** |
+| fourth  | **RYAN**  |
+| fifth  | **AFTER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-03-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (73.33%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Seahawks got:Two 1stTwo 2ndA 5thShelby Harris, a solid d-linemanFant, a talented TE who could be top 10Drew L… https://t.co/Q5MH8JrvpQ |
+|RT @TMZ: The 'Black Panther' director was briefly detained in Atlanta where he's been filming 'Wakanda Forever.' https://t.co/KayBm3Loxh |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JoeZo88**  |
+| The most retweeted user is: **__DivineRoyalty**  |
 | ------------- |
-| RT @AdamSchefter: Trade package:Seattle gets QB Drew Lock, TE Noah Fant, DL Shelby Harris, two first-round picks, two second-round picks… |
+| RT @yeezyluciano: Black panther poster. Just as relevant today. https://t.co/cx92QZAFK6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
