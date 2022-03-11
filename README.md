@@ -1,36 +1,45 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Cancun"**
+&#x1F34E; **TOPIC = "Pixar"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-10TWEETS.png)
+![image](assets/2022-03-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @pixiemenace: @patriottakes The man who fled to Cancun when Texas was in need is now supposed to have us believe he is a man of the work… |
-| Puerto Vallarta Travel Vloggers All There is to Know. Storytelling https://t.co/ve1gtxsElP #Tourism #hotelmarketing… https://t.co/kCwSlgq8jG |
-| RT @NotATweeter16: @RepSwalwell "You know who isn’t thanking him for fighting for them…"The Texans who froze to death while Ted Cruz was… |
+| RT @OgrePixel: Today the new #pixar movie #TurningRed premieres on #DisneyPlus! 💫The film is a metaphor for puberty and all the changes it… |
+| RT @JuddLegum: BREAKING: Today's statement by @Disney CEO Bob Chapek against the "Don't Say Gay" bill has failed to satisfy many Disney emp… |
+| RT @jmartinwrites: “We at Pixar have personally witnessed beautiful stories, full of diverse characters, come back from Disney corporate re… |
 
-The most popular user is: **rookmatic**
-<div class="alert alert-block alert-danger"> RT @7Veritas4: The President of Ukraine, the Mayor of Kyiv, and other elected officials across their country are taking up arms against the…</div>
+The most popular user is: **BEAUU_A**
+<div class="alert alert-block alert-danger"> RT @mrjohndarby: me: how can I impress your dad?
+
+gf: he's really into cars
+
+me: ok
+
+[later]
+her dad: nice to meet you
+
+me: let's talk abou…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tedcruz** |
-| #2 Most tweeted to  | **ZTPetrizzo** |
-| #3 Most tweeted to  | **RonFilipkowski** |
-| NewProfiles (less than 10 days) | 0.76%  |
-| Tweeters with < 10 followers  | 6.32%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **Pixar** |
+| #2 Most tweeted to  | **DisneyAPromos** |
+| #3 Most tweeted to  | **PixarTurningRed** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 5.6%|
+| Tweeters with > 1000000 followers  | 0.56%  |
 
 
 
@@ -39,28 +48,28 @@ The most popular user is: **rookmatic**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CANCUN**  |
-| second  | **CRUZ**  |
-| third  | **TED** |
-| fourth  | **FLIGHT**  |
-| fifth  | **CONVOY**  |
+| first  | **PIXAR**  |
+| second  | **TURNINGRED**  |
+| third  | **DISNEY** |
+| fourth  | **"PIXARS"**  |
+| fifth  | **RED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-03-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @embreynicole: cancun did me good https://t.co/u3qwz4rOlj |
+|RT @DisneyAPromos: New official poster for Pixar's #TurningRed with art by Hana Augustine.The film and a documentary about its making hit… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rookmatic**  |
+| The most retweeted user is: **BEAUU_A**  |
 | ------------- |
-| RT @7Veritas4: The President of Ukraine, the Mayor of Kyiv, and other elected officials across their country are taking up arms against the… |
+| RT @mrjohndarby: me: how can I impress your dad?gf: he's really into carsme: ok[later]her dad: nice to meet youme: let's talk abou… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
