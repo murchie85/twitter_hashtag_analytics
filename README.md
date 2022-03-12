@@ -1,45 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pixar"**
+&#x1F34E; **TOPIC = "#CR7𓃵"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-11TWEETS.png)
+![image](assets/2022-03-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OgrePixel: Today the new #pixar movie #TurningRed premieres on #DisneyPlus! 💫The film is a metaphor for puberty and all the changes it… |
-| RT @JuddLegum: BREAKING: Today's statement by @Disney CEO Bob Chapek against the "Don't Say Gay" bill has failed to satisfy many Disney emp… |
-| RT @jmartinwrites: “We at Pixar have personally witnessed beautiful stories, full of diverse characters, come back from Disney corporate re… |
+| RT @BinbazzAhmad: I'm so excited today that I forgave Maguire for that grave mistake. #CR7𓃵 |
+| RT @derekafun010: Both are Goog, But Which One Is Your Reliable and Unstoppable GOAT #CR7𓃵 Rt For Messi 🔂Like for Ronaldo ❤#MUFC #MUNT… |
+| RT @Realfahad256: I know my goat. Big game player  Hatrick by the goat. Sancho and Ronaldo have been on 🔥🔥Maguire was playing against us#C… |
 
-The most popular user is: **BEAUU_A**
-<div class="alert alert-block alert-danger"> RT @mrjohndarby: me: how can I impress your dad?
+The most popular user is: **eyan_wizzy**
+<div class="alert alert-block alert-danger"> RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!
 
-gf: he's really into cars
+🐐⚽️806 Career Goals 
 
-me: ok
-
-[later]
-her dad: nice to meet you
-
-me: let's talk abou…</div>
+#…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Pixar** |
-| #2 Most tweeted to  | **DisneyAPromos** |
-| #3 Most tweeted to  | **PixarTurningRed** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 5.6%|
-| Tweeters with > 1000000 followers  | 0.56%  |
+| #1 Most tweeted to  | **alimo_philip** |
+| #2 Most tweeted to  | **Touhid45387813** |
+| #3 Most tweeted to  | **Cristiano** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 5.86%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -48,28 +43,28 @@ me: let's talk abou…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PIXAR**  |
-| second  | **TURNINGRED**  |
-| third  | **DISNEY** |
-| fourth  | **"PIXARS"**  |
-| fifth  | **RED**  |
+| first  | **RONALDO**  |
+| second  | **CR7𓃵**  |
+| third  | **CRISTIANO** |
+| fourth  | **GOAT**  |
+| fifth  | **🐐**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-03-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DisneyAPromos: New official poster for Pixar's #TurningRed with art by Hana Augustine.The film and a documentary about its making hit… |
+|RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!🐐⚽️806 Career Goals #… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BEAUU_A**  |
+| The most retweeted user is: **eyan_wizzy**  |
 | ------------- |
-| RT @mrjohndarby: me: how can I impress your dad?gf: he's really into carsme: ok[later]her dad: nice to meet youme: let's talk abou… |
+| RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!🐐⚽️806 Career Goals #… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
