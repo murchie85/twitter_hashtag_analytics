@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CR7𓃵"**
+&#x1F34E; **TOPIC = "Klay Thompson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-12TWEETS.png)
+![image](assets/2022-03-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BinbazzAhmad: I'm so excited today that I forgave Maguire for that grave mistake. #CR7𓃵 |
-| RT @derekafun010: Both are Goog, But Which One Is Your Reliable and Unstoppable GOAT #CR7𓃵 Rt For Messi 🔂Like for Ronaldo ❤#MUFC #MUNT… |
-| RT @Realfahad256: I know my goat. Big game player  Hatrick by the goat. Sancho and Ronaldo have been on 🔥🔥Maguire was playing against us#C… |
+| RT @NBA: 🏀 FINAL SCORE THREAD 🏀Klay Thompson erupts for a season-high 38 PTS to lead the @warriors to the win in The Bay! #DubNation Kl… |
+| RT @anthonyVslater: Klay Thompson: “Everyone makes a big deal about my shooting, man. I’m not happy. But I know these nights (15-of-23 for… |
+| RT @KlayForTrey: Stephen Curry, Klay Thompson, and Draymond Green on Monday: https://t.co/osu1EqJYgg https://t.co/3BnA7l8Cnd |
 
-The most popular user is: **eyan_wizzy**
-<div class="alert alert-block alert-danger"> RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!
-
-🐐⚽️806 Career Goals 
-
-#…</div>
+The most popular user is: **jameezy9**
+<div class="alert alert-block alert-danger"> RT @TylerIAm: Klay Thompson gets home after a long day of work and hangs that goatee up on his coat rack</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **alimo_philip** |
-| #2 Most tweeted to  | **Touhid45387813** |
-| #3 Most tweeted to  | **Cristiano** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 5.86%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **warriors** |
+| #2 Most tweeted to  | **KlayForTrey** |
+| #3 Most tweeted to  | **NBA** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 5.62%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **eyan_wizzy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RONALDO**  |
-| second  | **CR7𓃵**  |
-| third  | **CRISTIANO** |
-| fourth  | **GOAT**  |
-| fifth  | **🐐**  |
+| first  | **KLAY**  |
+| second  | **THOMPSON**  |
+| third  | **38** |
+| fourth  | **POINTS**  |
+| fifth  | **CURRY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/2022-03-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!🐐⚽️806 Career Goals #… |
+|RT @warriors: KLAY THOMPSON APPRECIATION TWEET |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **eyan_wizzy**  |
+| The most retweeted user is: **jameezy9**  |
 | ------------- |
-| RT @alimo_philip: 🇵🇹 🐐 Cristiano Ronaldo is now the top scorer of all-time in the history of competitive football!🐐⚽️806 Career Goals #… |
+| RT @TylerIAm: Klay Thompson gets home after a long day of work and hangs that goatee up on his coat rack |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
