@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Jets"**
+&#x1F34E; **TOPIC = "Randy Gregory"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-14TWEETS.png)
+![image](assets/2022-03-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RichCimini: Thinking about how Tomlinson might impact #Jets draft plan at 4: Obviously, they're not going to take an OT (Ekwonu or Neal… |
-| RT @RapSheet: The #Jets are signing G Laken Tomlinson to a 3 year deal worth $40M, Max Value of $41.2M, $27M Guaranteed. |
-| I really want Christian Kirk #Jets |
+| RT @Marcus_Mosher: Losing Amari Cooper + Randy Gregory in the same offseason is rough. |
+| RT @Marcus_Mosher: Losing Amari Cooper + Randy Gregory in the same offseason is rough. |
+| RT @FanDuel: Cowboys: 𝙒𝙚'𝙫𝙚 agreed to a deal with Randy Gregory Randy Gregory: https://t.co/HtIlciTNMz |
 
-The most popular user is: **CTatchell18**
-<div class="alert alert-block alert-danger"> RT @NYJ_Matt: The 2021 New York Jets | Season Recap
-
-#Jets #TakeFlight #NFL
-
- https://t.co/x7rrHCqh80</div>
+The most popular user is: **ArtrellH**
+<div class="alert alert-block alert-danger"> RT @AdamSchefter: Cowboys are re-signing DE Randy Gregory to a five-year, $70 million deal that includes $28 million guaranteed, per source.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Connor_J_Hughes** |
-| #2 Most tweeted to  | **RapSheet** |
-| #3 Most tweeted to  | **MySportsUpdate** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 2.72%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **SlaterNFL** |
+| #2 Most tweeted to  | **rjochoa** |
+| #3 Most tweeted to  | **NFL** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 3.32%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **CTatchell18**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JETS**  |
-| second  | **TOMLINSON**  |
-| third  | **LAKEN** |
-| fourth  | **G**  |
-| fifth  | **SIGNING**  |
+| first  | **RANDY**  |
+| second  | **GREGORY**  |
+| third  | **BRONCOS** |
+| fourth  | **COWBOYS**  |
+| fifth  | **DALLAS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-03-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Breaking: The #Jets are signing OG Laken Tomlinson to a 3-year, $40M deal, per @RapSheet. The former 9er gets $27M guaranteed. |
+|RT @JoRo_NFL: If the Broncos had Randy Gregory as their top edge rusher all the smoke about Chandler Jones looks pretty interesting in hind… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CTatchell18**  |
+| The most retweeted user is: **ArtrellH**  |
 | ------------- |
-| RT @NYJ_Matt: The 2021 New York Jets | Season Recap#Jets #TakeFlight #NFL https://t.co/x7rrHCqh80 |
+| RT @AdamSchefter: Cowboys are re-signing DE Randy Gregory to a five-year, $70 million deal that includes $28 million guaranteed, per source. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
