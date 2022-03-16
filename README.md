@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Randy Gregory"**
+&#x1F34E; **TOPIC = "Tiger Roll"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-15TWEETS.png)
+![image](assets/2022-03-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Marcus_Mosher: Losing Amari Cooper + Randy Gregory in the same offseason is rough. |
-| RT @Marcus_Mosher: Losing Amari Cooper + Randy Gregory in the same offseason is rough. |
-| RT @FanDuel: Cowboys: 𝙒𝙚'𝙫𝙚 agreed to a deal with Randy Gregory Randy Gregory: https://t.co/HtIlciTNMz |
+| RT @RacingTV: What.A.Horse.Thanks for the memories, Tiger Roll. https://t.co/SbOA9A9upc |
+| Check out my Gig on Fiverr: cut out images, cut out background remove fast https://t.co/T8HsFhGoDW #Sahara… https://t.co/lXjKFCYbxg |
+| What a run from Tiger Roll..what a horse one of the greatest❤️👏 |
 
-The most popular user is: **ArtrellH**
-<div class="alert alert-block alert-danger"> RT @AdamSchefter: Cowboys are re-signing DE Randy Gregory to a five-year, $70 million deal that includes $28 million guaranteed, per source.</div>
+The most popular user is: **ditchio1**
+<div class="alert alert-block alert-danger"> RT @racingblogger: 🐯 If TIGER ROLL wins the Cross Country Chase at Cheltenham I'll give £100 CASH 💷 to one of you lucky people!
+
+To Enter:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SlaterNFL** |
-| #2 Most tweeted to  | **rjochoa** |
-| #3 Most tweeted to  | **NFL** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 3.32%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **RacingTV** |
+| #2 Most tweeted to  | **AtTheRaces** |
+| #3 Most tweeted to  | **CheltenhamRaces** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 1.82%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ArtrellH**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RANDY**  |
-| second  | **GREGORY**  |
-| third  | **BRONCOS** |
-| fourth  | **COWBOYS**  |
-| fifth  | **DALLAS**  |
+| first  | **TIGER**  |
+| second  | **ROLL**  |
+| third  | **HORSE** |
+| fourth  | **WORK**  |
+| fifth  | **DELTA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2022-03-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JoRo_NFL: If the Broncos had Randy Gregory as their top edge rusher all the smoke about Chandler Jones looks pretty interesting in hind… |
+|RT @RacingPost: It wasn't meant to be for Tiger Roll today but he owes us nothing 🐅If this was the end, thank you for everything legend… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ArtrellH**  |
+| The most retweeted user is: **ditchio1**  |
 | ------------- |
-| RT @AdamSchefter: Cowboys are re-signing DE Randy Gregory to a five-year, $70 million deal that includes $28 million guaranteed, per source. |
+| RT @racingblogger: 🐯 If TIGER ROLL wins the Cross Country Chase at Cheltenham I'll give £100 CASH 💷 to one of you lucky people!To Enter:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
