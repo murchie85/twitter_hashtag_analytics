@@ -1,36 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#freecodefridaycontest"**
+&#x1F34E; **TOPIC = "Elon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-18TWEETS.png)
+![image](assets/2022-03-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @majornelson @fforigin Has to be Vincent Valentine from FFVII. #freecodefridaycontest |
-| RT @VideoGamerRob: NEW CONTEST: Win a copy of Assassin’s Creed Valhalla Ultimate Edition on PC! Follow and RT for a chance to win a code! C… |
-| @majornelson Ninja's/assassin class with ninja swords. #FreeCodeFridayContest |
+| @atm_philippines @danheld Thx, Elon |
+| RT @Johnbarron_46: Raise your hand if you agree with Elon Musk saying the Trump Administration would have gas back to $1.87 within the mont… |
+| Exadarksiderael the coin of Elon Daughter ! you are 1 tweet away from wealth ! don't regreat ! 👀👀 https://t.co/VU7wXQXKmh |
 
-The most popular user is: **VitorBr_sccp**
-<div class="alert alert-block alert-danger"> RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for #ELDENRING on Xbox One - Xbox Series X|S. Good luck! h…</div>
+The most popular user is: **onyourm_elon**
+<div class="alert alert-block alert-danger"> RT @NCTsmtown: [STATION : NCT LAB] NCT U 엔시티 유 ‘coNEXTion (Age of Light)’
+Performance Video Teaser
+
+[STATION : NCT LAB] NCT U 〖coNEXTion (A…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **fforigin** |
-| #3 Most tweeted to  | **VideoGamerRob** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 16.76%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **Johnbarron_46** |
+| #2 Most tweeted to  | **elonmusk** |
+| #3 Most tweeted to  | **atm_philippines** |
+| NewProfiles (less than 10 days) | 2.4%  |
+| Tweeters with < 10 followers  | 12.72%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **VitorBr_sccp**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FREECODEFRIDAYCONTEST**  |
-| second  | **WIN**  |
-| third  | **@FFORIGIN** |
-| fourth  | **FREECODEFRIDAYCONTEST@MAJORNELSON**  |
-| fifth  | **FINAL**  |
+| first  | **ELON**  |
+| second  | **MUSK**  |
+| third  | **AGREE** |
+| fourth  | **BACK**  |
+| fifth  | **GAS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-03-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (70.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @VideoGamerRob: NEW CONTEST: Win a copy of Assassin’s Creed Valhalla Ultimate Edition on PC! Follow and RT for a chance to win a code! C… |
+|RT @CryptoScienti: Space X and #CheemsInu together to the moon. Elon take us to the moon@CheemsInu #CheemsInu @elonmusk #ElonMusk https://… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **VitorBr_sccp**  |
+| The most retweeted user is: **onyourm_elon**  |
 | ------------- |
-| RT @majornelson: #freecodefridaycontest time. Read this and you could win a code for #ELDENRING on Xbox One - Xbox Series X|S. Good luck! h… |
+| RT @NCTsmtown: [STATION : NCT LAB] NCT U 엔시티 유 ‘coNEXTion (Age of Light)’Performance Video Teaser[STATION : NCT LAB] NCT U 〖coNEXTion (A… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
