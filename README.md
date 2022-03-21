@@ -1,39 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Elon"**
+&#x1F34E; **TOPIC = "#GDC22"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-19TWEETS.png)
+![image](assets/2022-03-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @atm_philippines @danheld Thx, Elon |
-| RT @Johnbarron_46: Raise your hand if you agree with Elon Musk saying the Trump Administration would have gas back to $1.87 within the mont… |
-| Exadarksiderael the coin of Elon Daughter ! you are 1 tweet away from wealth ! don't regreat ! 👀👀 https://t.co/VU7wXQXKmh |
+| RT @Dust_Scratch: Are you a publisher or fellow #indiedev at #GDC2022? I'm in the pre-design stage of a couple games, and would love to he… |
+| I'll be at #GDC on Tuesday, meeting up with friends and getting ready for my book signing. DM me if you're around!… https://t.co/gh3uHgXXsD |
+| The Pocket Sized Hands team will be out at GDC next week, Can't wait to be at a in-person GDC again after years awa… https://t.co/yIIN7R136j |
 
-The most popular user is: **onyourm_elon**
-<div class="alert alert-block alert-danger"> RT @NCTsmtown: [STATION : NCT LAB] NCT U 엔시티 유 ‘coNEXTion (Age of Light)’
-Performance Video Teaser
-
-[STATION : NCT LAB] NCT U 〖coNEXTion (A…</div>
+The most popular user is: **syuzatu0415**
+<div class="alert alert-block alert-danger"> RT @Official_GDC: The Game Developers Choice Awards at #GDC22 has named Yuji Horii, creator of the legendary 'Dragon Quest' series, as reci…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Johnbarron_46** |
-| #2 Most tweeted to  | **elonmusk** |
-| #3 Most tweeted to  | **atm_philippines** |
-| NewProfiles (less than 10 days) | 2.4%  |
-| Tweeters with < 10 followers  | 12.72%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **william_volk** |
+| #2 Most tweeted to  | **Official_GDC** |
+| #3 Most tweeted to  | **PhantasmaBot_** |
+| NewProfiles (less than 10 days) | 0.65%  |
+| Tweeters with < 10 followers  | 3.96%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -42,28 +39,28 @@ Performance Video Teaser
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELON**  |
-| second  | **MUSK**  |
-| third  | **AGREE** |
-| fourth  | **BACK**  |
-| fifth  | **GAS**  |
+| first  | **GDC22**  |
+| second  | **GDC**  |
+| third  | **TALK** |
+| fourth  | **GAMES**  |
+| fifth  | **SHIBU**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (70.0%)
+![image](assets/2022-03-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CryptoScienti: Space X and #CheemsInu together to the moon. Elon take us to the moon@CheemsInu #CheemsInu @elonmusk #ElonMusk https://… |
+|RT @LatinosinGaming: #GDC22 is a few days away! We're highlighting community members who will take part in panels! [THREAD]: https://t.co/W… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **onyourm_elon**  |
+| The most retweeted user is: **syuzatu0415**  |
 | ------------- |
-| RT @NCTsmtown: [STATION : NCT LAB] NCT U 엔시티 유 ‘coNEXTion (Age of Light)’Performance Video Teaser[STATION : NCT LAB] NCT U 〖coNEXTion (A… |
+| RT @Official_GDC: The Game Developers Choice Awards at #GDC22 has named Yuji Horii, creator of the legendary 'Dragon Quest' series, as reci… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
