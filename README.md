@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GOPHypocrisy"**
+&#x1F34E; **TOPIC = "Discovery"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-23TWEETS.png)
+![image](assets/2022-03-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Numbers28: Doesn’t “Don’t pack the court” cry by the same crew that refused to even meet with President Obama’s Supreme Court nominee,… |
-| Pardon me, who is soft on crime?  #GOPHypocrisy https://t.co/l8NlLMU9zk |
-| RT @shuwaskiyoung: Today is #WorldWaterDay. Access to clean water is a basic right. When we talk about improving infrastructure, let’s pr… |
+| RT @Awake823Mama: As a matter of fact I am a biologist. A marine biologist. And here I present you the most interesting discovery I’ve made… |
+| RT @jacquie_rn: @JanNWolfe Holy shit 😂 … bring on the discovery. https://t.co/wpHMBqTqwE |
+| The discovery is going to be epic!https://t.co/5ec3fvwsvB |
 
-The most popular user is: **glendagoodwich**
-<div class="alert alert-block alert-danger"> RT @dhershiser: Sooo…Senator John Cornyn thinks #KetanjiBrownJackson has extreme views &amp; allows her personal values to cloud her judgement?…</div>
+The most popular user is: **petalsminho**
+<div class="alert alert-block alert-danger"> RT @cobaltswife: childhood best friends to enemies to lovers is the best trope to ever exist i mean the betrayal??? the i-know-you-better-t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GOP** |
-| #2 Most tweeted to  | **Numbers28** |
-| #3 Most tweeted to  | **MarshaBlackburn** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 2.2%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Out5p0ken** |
+| #2 Most tweeted to  | **RonFilipkowski** |
+| #3 Most tweeted to  | **JanNWolfe** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 2.94%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **glendagoodwich**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GOPHYPOCRISY**  |
-| second  | **GOP**  |
-| third  | **JACKSON** |
-| fourth  | **JOSH**  |
-| fifth  | **REPUBLICANS**  |
+| first  | **DISCOVERY**  |
+| second  | **GOING**  |
+| third  | **TRUMP** |
+| fourth  | **WAIT**  |
+| fifth  | **NEVER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-03-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Watching the GOP question Judge Ketanji Brown Jackson exposes their pure lust for lynchings &amp; pure hate of Black Pe… https://t.co/Lyy3tr3CWN |
+|@CBCAlerts LOL. Let the discovery process begin. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **glendagoodwich**  |
+| The most retweeted user is: **petalsminho**  |
 | ------------- |
-| RT @dhershiser: Sooo…Senator John Cornyn thinks #KetanjiBrownJackson has extreme views &amp; allows her personal values to cloud her judgement?… |
+| RT @cobaltswife: childhood best friends to enemies to lovers is the best trope to ever exist i mean the betrayal??? the i-know-you-better-t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
