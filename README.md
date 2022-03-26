@@ -1,37 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "OUT NOW"**
+&#x1F34E; **TOPIC = "BTS Heardle"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-25TWEETS.png)
+![image](assets/2022-03-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Korean_Cowboys: [EP 1. WHO ARE WE?] FULL VIDEO EPISODE OUT NOW.https://t.co/KYAdRJzbab#KoreanCowboys#코리안카우보이스 |
-| RT @NeuraSalmagundi: “Little did I know, I was born into the age of ‘fuck around’.My children are born in the age of ‘and find out.’Forge… |
-| @BlueBlood2510 Crikey I can't keep up with all this. I read this morning it was down to 2 and Ricketts were out. No… https://t.co/cHyzJgfB8V |
+| RT @94Pied_Piper: BTS Heardle #6 1/7🔊🟪🔗https://t.co/JrMOktbfy4Listen to #Yours_Jin the best OST of 2021 and #SuperTuna_Jin the global… |
+| BTS Heardle #7 1/7🔊🟪https://t.co/zyHbRa59Js |
+| BTS Heardle #7 1/7🔊🟪https://t.co/LbzBkiL3sY// sorry ah aku pro https://t.co/BTiaaPBzRG |
 
-The most popular user is: **x_Pascalle_**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: GOLDEN. OUT NOW.
-https://t.co/HlUqLOcmDx https://t.co/VDFY3A1mnt</div>
+The most popular user is: **sevnpavedtheway**
+<div class="alert alert-block alert-danger"> RT @btschartdata: Test your BTS discography knowledge with @btsheardle 🔊💜
+↳ https://t.co/H5TzB9XRp5 https://t.co/ukCq4iS1Hs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NICKIMINAJ** |
-| #2 Most tweeted to  | **FivioForeign** |
-| #3 Most tweeted to  | **MishaAliSyed2** |
-| NewProfiles (less than 10 days) | 2.34%  |
-| Tweeters with < 10 followers  | 8.34%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **btsheardle** |
+| #2 Most tweeted to  | **BTS_twt** |
+| #3 Most tweeted to  | **billboard** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 1.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +40,28 @@ https://t.co/HlUqLOcmDx https://t.co/VDFY3A1mnt</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NEW**  |
-| second  | **NOW!**  |
-| third  | **THESE** |
-| fourth  | **ALBUM**  |
-| fifth  | **GOT**  |
+| first  | **HEARDLE**  |
+| second  | **7**  |
+| third  | **1/7** |
+| fourth  | **🔊🟪**  |
+| fifth  | **BTS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-03-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Zedd: NEW COLLAB, 'FOLLOW' w/ @MartinGarrix OUT NOW! https://t.co/7KOB68hg0j https://t.co/SZNXPWfB04 |
+|@btsheardle @BTSUpdater BTS Heardle #7 2/7I'm so embarrassed 😭... the first song I met my beloved Bangtan with an… https://t.co/AHCnlwxz0O |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **x_Pascalle_**  |
+| The most retweeted user is: **sevnpavedtheway**  |
 | ------------- |
-| RT @Harry_Styles: GOLDEN. OUT NOW.https://t.co/HlUqLOcmDx https://t.co/VDFY3A1mnt |
+| RT @btschartdata: Test your BTS discography knowledge with @btsheardle 🔊💜↳ https://t.co/H5TzB9XRp5 https://t.co/ukCq4iS1Hs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
