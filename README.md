@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "McCarthy"**
+&#x1F34E; **TOPIC = "#AsItWas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-03-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-30TWEETS.png)
+![image](assets/2022-03-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #LongIsland saw 325 new #COVID19 cases on March 29, 2022, 53 more new cases than the day before and made up about 1… https://t.co/6tn3MMKwe8 |
-| RT @antifaoperative: Someone needs to put Kevin McCarthy’s balls on a milk carton. |
-| RT @WalshFreedom: Trump asks Putin for dirt on Biden. And Republican silence.Kevin McCarthy? Silent.Mitch McConnell? Silent.Steve Scali… |
+| RT @TheHSUpdate: Harry interviews tomorrow #AsItWas: • Capital Breakfest: 6AM BST | 1AM EST | 22PM PT Listen here: https://t.co/VHhjLuWh… |
+| right #AsItWas #AIW https://t.co/ORpPDSWP1I |
+| RT @SHR00MRRY: two moods for #AsItWas  which one is it gonna be @Harry_Styles https://t.co/uEiruPBU3Y |
 
-The most popular user is: **mais_mccarthy**
-<div class="alert alert-block alert-danger"> RT @Harry_Styles: As It Was. April 1. https://t.co/8RoI5sZP4T</div>
+The most popular user is: **tommolahey**
+<div class="alert alert-block alert-danger"> RT @UpdateHLD: 🚨| Harry will be in @BBCRadio2 at 8:10am BST tomorrow morning talking about #AsItWas!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Olivia_Beavers** |
-| #2 Most tweeted to  | **WalshFreedom** |
-| #3 Most tweeted to  | **ReallyAmerican1** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 2.28%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **Harry_Styles** |
+| #2 Most tweeted to  | **UpdateHLD** |
+| #3 Most tweeted to  | **HLDMedia** |
+| NewProfiles (less than 10 days) | 0.88%  |
+| Tweeters with < 10 followers  | 5.76%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mais_mccarthy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MCCARTHY**  |
-| second  | **KEVIN**  |
-| third  | **TRUMP** |
-| fourth  | **CAWTHORN**  |
-| fifth  | **STEVE**  |
+| first  | **ASITWAS**  |
+| second  | **HARRY**  |
+| third  | **HARRYSHOUSE** |
+| fourth  | **HARRYSTYLES**  |
+| fifth  | **AIW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-03-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/2022-03-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @antifaoperative: Someone needs to put Kevin McCarthy’s balls on a milk carton. |
+|RT @UpdateHLD: 🚨| Harry will also be on @hitsradiouk from 11:30am BST tomorrow morning to talk about #AsItWas ! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mais_mccarthy**  |
+| The most retweeted user is: **tommolahey**  |
 | ------------- |
-| RT @Harry_Styles: As It Was. April 1. https://t.co/8RoI5sZP4T |
+| RT @UpdateHLD: 🚨| Harry will be in @BBCRadio2 at 8:10am BST tomorrow morning talking about #AsItWas! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
