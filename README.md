@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#AsItWas"**
+&#x1F34E; **TOPIC = "Saudi Arabia"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-03-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-03-31TWEETS.png)
+![image](assets/2022-04-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheHSUpdate: Harry interviews tomorrow #AsItWas: • Capital Breakfest: 6AM BST | 1AM EST | 22PM PT Listen here: https://t.co/VHhjLuWh… |
-| right #AsItWas #AIW https://t.co/ORpPDSWP1I |
-| RT @SHR00MRRY: two moods for #AsItWas  which one is it gonna be @Harry_Styles https://t.co/uEiruPBU3Y |
+| RT @Alemmez: Saudi Arabia should offer protection to Tigrayans at risk should they return to Ethiopia, not deport them to a country committ… |
+| RT @AlArabiya_Eng: The #Ramadan crescent moon has been sighted in #SaudiArabia, meaning the holy month will officially begin on Saturday, A… |
+| RT @TDF1515: In Jan 2022, thousands of Tigrayan migrants were abused and deported from Saudi Arabia and forcibly detained in Ethiopia. Saud… |
 
-The most popular user is: **tommolahey**
-<div class="alert alert-block alert-danger"> RT @UpdateHLD: 🚨| Harry will be in @BBCRadio2 at 8:10am BST tomorrow morning talking about #AsItWas!</div>
+The most popular user is: **sisoyturca**
+<div class="alert alert-block alert-danger"> RT @HaramainInfo: NEWS | The Crescent Moon has been sighted in Sudair, Saudi Arabia. #Ramadan 1443 will begin tonight. The first night of T…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Harry_Styles** |
-| #2 Most tweeted to  | **UpdateHLD** |
-| #3 Most tweeted to  | **HLDMedia** |
-| NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 5.76%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **lewy_official** |
+| #2 Most tweeted to  | **Mamaye88246948** |
+| #3 Most tweeted to  | **ZaydAlemu** |
+| NewProfiles (less than 10 days) | 2.32%  |
+| Tweeters with < 10 followers  | 1.78%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **tommolahey**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ASITWAS**  |
-| second  | **HARRY**  |
-| third  | **HARRYSHOUSE** |
-| fourth  | **HARRYSTYLES**  |
-| fifth  | **AIW**  |
+| first  | **ARABIA**  |
+| second  | **SAUDI**  |
+| third  | **TIGRAYANS** |
+| fourth  | **ETHIOPIA**  |
+| fifth  | **DEPORTED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-03-31BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-03-31sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/2022-04-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (58.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UpdateHLD: 🚨| Harry will also be on @hitsradiouk from 11:30am BST tomorrow morning to talk about #AsItWas ! |
+|RT @HaramainInfo: Haramain will shortly commence reporting from observatories in Saudi Arabia, and will announce the outcome of the sightin… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tommolahey**  |
+| The most retweeted user is: **sisoyturca**  |
 | ------------- |
-| RT @UpdateHLD: 🚨| Harry will be in @BBCRadio2 at 8:10am BST tomorrow morning talking about #AsItWas! |
+| RT @HaramainInfo: NEWS | The Crescent Moon has been sighted in Sudair, Saudi Arabia. #Ramadan 1443 will begin tonight. The first night of T… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
