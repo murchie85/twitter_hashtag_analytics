@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Saudi Arabia"**
+&#x1F34E; **TOPIC = "#MUNLEI"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-01TWEETS.png)
+![image](assets/2022-04-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Alemmez: Saudi Arabia should offer protection to Tigrayans at risk should they return to Ethiopia, not deport them to a country committ… |
-| RT @AlArabiya_Eng: The #Ramadan crescent moon has been sighted in #SaudiArabia, meaning the holy month will officially begin on Saturday, A… |
-| RT @TDF1515: In Jan 2022, thousands of Tigrayan migrants were abused and deported from Saudi Arabia and forcibly detained in Ethiopia. Saud… |
+| RT @OfficialFPL: ONE Man Utd fan triple-captained Kelechi Iheanacho 😳The forward scored and is on for two bonus points 💰#MUNLEI #FPL ht… |
+| RT @ManUtd: Off we go for the second 4⃣5⃣ – come on United! 🗣#MUFC | #MUNLEI |
+| Lucky to draw, utterly devoid of ideas, unable to keep the ball. On a positive note, it confirms Rashford has no place in this team #MUNLEI |
 
-The most popular user is: **sisoyturca**
-<div class="alert alert-block alert-danger"> RT @HaramainInfo: NEWS | The Crescent Moon has been sighted in Sudair, Saudi Arabia. #Ramadan 1443 will begin tonight. The first night of T…</div>
+The most popular user is: **_oXrayz**
+<div class="alert alert-block alert-danger"> RT @ManUtd: 🥊 In the red corner...
+
+#MUFC | #MUNLEI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lewy_official** |
-| #2 Most tweeted to  | **Mamaye88246948** |
-| #3 Most tweeted to  | **ZaydAlemu** |
-| NewProfiles (less than 10 days) | 2.32%  |
-| Tweeters with < 10 followers  | 1.78%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **ManUtd** |
+| #2 Most tweeted to  | **premierleague** |
+| #3 Most tweeted to  | **OfficialFPL** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 5.84%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **sisoyturca**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARABIA**  |
-| second  | **SAUDI**  |
-| third  | **TIGRAYANS** |
-| fourth  | **ETHIOPIA**  |
-| fifth  | **DEPORTED**  |
+| first  | **MUNLEI**  |
+| second  | **MUFC**  |
+| third  | **UNITED** |
+| fourth  | **MUNLEIRT**  |
+| fifth  | **@MANUTD:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (16.67%) & **NEGATIVELY-SUBJECTIVE** (25.0%) **OBJECTIVE** (58.33%)
+![image](assets/2022-04-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HaramainInfo: Haramain will shortly commence reporting from observatories in Saudi Arabia, and will announce the outcome of the sightin… |
+|#PremierLeague, gli highlights di #MUNLEI 1-1https://t.co/bSPaSRcxTG |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sisoyturca**  |
+| The most retweeted user is: **_oXrayz**  |
 | ------------- |
-| RT @HaramainInfo: NEWS | The Crescent Moon has been sighted in Sudair, Saudi Arabia. #Ramadan 1443 will begin tonight. The first night of T… |
+| RT @ManUtd: 🥊 In the red corner...#MUFC | #MUNLEI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
