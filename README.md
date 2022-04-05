@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BarcaSevilla"**
+&#x1F34E; **TOPIC = "Frank Gore"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-03TWEETS.png)
+![image](assets/2022-04-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Tough to break down Sevilla. Best defense in the league this season. #BarcaSevilla |
-| ⚽️LIVE HD MATCH ⚽️Barcelona vs Sevilla En vivoFC Barcelona vs. Sevilla FCLive Streaming Link:Live ​LINK 1&gt;&gt;… https://t.co/0uBHtR16Iw |
-| RT @FCBarcelona: 🖥 A guide to worldwide kick-off times and broadcasters for #BarçaSevilla |
+| RT @limajuliettango: Frank Gore belongs in the Pro Football Hall of Fame and I will die on this hill. |
+| RT @FaithfulGiveway: 🚨#FaithfulGiveaway # 70🚨Welcome to 7️⃣ days of Giveaways for the 49er Faithful!First Up for #Giveaway is a Signed… |
+| RT @ESPNNFL: Frank Gore said he plans to sign a one-day contract with the San Francisco 49ers and retire as a member of the team that draft… |
 
-The most popular user is: **mo_showtime**
-<div class="alert alert-block alert-danger"> RT @FCBarcelona: It's been two long weeks ...
-#BarçaSevilla https://t.co/W69K0REsAX</div>
+The most popular user is: **ditanielMDJ**
+<div class="alert alert-block alert-danger"> RT @NFL: Frank Gore, the NFL's third all-time leading rusher (16,000 yards), announces he's signing a one-day contract with the 49ers and w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FCBarcelona** |
-| #2 Most tweeted to  | **BarcaTimes** |
-| #3 Most tweeted to  | **FerranTorres20** |
-| NewProfiles (less than 10 days) | 1.82%  |
-| Tweeters with < 10 followers  | 9.12%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **FaithfulGiveway** |
+| #2 Most tweeted to  | **49ers** |
+| #3 Most tweeted to  | **frankgore** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 6.16%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **mo_showtime**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BARÇASEVILLA**  |
-| second  | **@FCBARCELONA:**  |
-| third  | **SEVILLA** |
-| fourth  | **LIVE**  |
-| fifth  | **BARCELONA**  |
+| first  | **FRANK**  |
+| second  | **GORE**  |
+| third  | **49ERS** |
+| fourth  | **49ER**  |
+| fifth  | **@49ERS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-04-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|For a moment I was worried man 😭😭😭, Busq scared me #BarcaSevilla |
+|RT @FaithfulGiveway: 🚨#FaithfulGiveaway # 70🚨Welcome to 7️⃣ days of Giveaways for the 49er Faithful!First Up for #Giveaway is a Signed… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mo_showtime**  |
+| The most retweeted user is: **ditanielMDJ**  |
 | ------------- |
-| RT @FCBarcelona: It's been two long weeks ...#BarçaSevilla https://t.co/W69K0REsAX |
+| RT @NFL: Frank Gore, the NFL's third all-time leading rusher (16,000 yards), announces he's signing a one-day contract with the 49ers and w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
