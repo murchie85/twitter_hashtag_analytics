@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ohio"**
+&#x1F34E; **TOPIC = "#wednesdaythought"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Surabees Dang between @JDVance1 @MikeLoychik @MikeGibbonsOH @JoshMandelOhio Jean Schmidt and Jim Jordan,Ohio makes me very embarrassed. |
-| RT @NRO: Ohio Senate candidate J. D. Vance has found himself on the wrong side of Republican voters – and even some of his own donors – ove… |
-| RT @georgehahn: Abortion is now illegal in Oklahoma. Tennessee is voting to make marriage fine at any age. Ohio is introducing Don’t Say Ga… |
+| RT @1rajkumar123: #wednesdaythought#GodMorningWednesdayThose who consumes alcohol, makes angry to gods residing in the chakras in our bo… |
+| RT @sewinskipton: Anyone fancy a #HumpDay cocktail!? 🤣🍸#MHHSBD #wednesdaythought #EarlyBiz https://t.co/2gm4ZOj8eH https://t.co/ZZRSbvx4hv |
+| RT @Chandgi34932371: #GodMorningWednesdayThe government is not able to end the dowry system, but the followers of Sant Rampal Ji Maharaj… |
 
-The most popular user is: **Ohio_Shawn**
-<div class="alert alert-block alert-danger"> RT @BernieSanders: Cancel student debt. All of it.</div>
+The most popular user is: **varshney_shashi**
+<div class="alert alert-block alert-danger"> RT @AshramGzb: #wednesdaythought ~Enlightened #BenevolentSaint like Sant Shri Asharamji Bapu are rare on this planet, who distribute the tr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **notcapnamerica** |
-| #2 Most tweeted to  | **JoshMandelOhio** |
-| #3 Most tweeted to  | **vivekagnihotri** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 3.56%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **MThakur27417705** |
+| #2 Most tweeted to  | **Mohan13520563** |
+| #3 Most tweeted to  | **Kidzcoolit** |
+| NewProfiles (less than 10 days) | 1.1%  |
+| Tweeters with < 10 followers  | 5.18%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Ohio_Shawn**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OHIO**  |
-| second  | **SENATE**  |
-| third  | **STATE** |
-| fourth  | **US**  |
-| fifth  | **CANDIDATE**  |
+| first  | **WEDNESDAYTHOUGHT**  |
+| second  | **GODMORNINGWEDNESDAY**  |
+| third  | **REAL_ALLAH_IS_KABIR** |
+| fourth  | **KABIR**  |
+| fifth  | **JI**  |
 
 
 ## Twitter Bio Analysis![image](assets/2022-04-06BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/2022-04-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (40.0%)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ttindia: 'Your inspiring vision and sophisticated artistry have enabled you to contribute something of precious and enduring value'#th… |
+|#With #StopRFID Have a good #wednesdaythought and #privacy #protect https://t.co/h2VtcizrSD |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Ohio_Shawn**  |
+| The most retweeted user is: **varshney_shashi**  |
 | ------------- |
-| RT @BernieSanders: Cancel student debt. All of it. |
+| RT @AshramGzb: #wednesdaythought ~Enlightened #BenevolentSaint like Sant Shri Asharamji Bapu are rare on this planet, who distribute the tr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
