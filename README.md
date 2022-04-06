@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#wednesdaythought"**
+&#x1F34E; **TOPIC = "Lebron"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,22 +15,22 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @1rajkumar123: #wednesdaythought#GodMorningWednesdayThose who consumes alcohol, makes angry to gods residing in the chakras in our bo… |
-| RT @sewinskipton: Anyone fancy a #HumpDay cocktail!? 🤣🍸#MHHSBD #wednesdaythought #EarlyBiz https://t.co/2gm4ZOj8eH https://t.co/ZZRSbvx4hv |
-| RT @Chandgi34932371: #GodMorningWednesdayThe government is not able to end the dowry system, but the followers of Sant Rampal Ji Maharaj… |
+| RT @BeansGoated: LeBron made it to 9 straight finals in a weak conference &amp; his fans thought he could come to the West &amp; shit would be swee… |
+| Lebron James, thanks from the LA LAKERS FANS, you sure did the STATE OF CALI GOOD, between TACO TUESDAYS, AND PI… https://t.co/QWlr5hUNn4 |
+| RT @Farbod_E: LeBron's four years with the Lakers:Year 1: No playoffsYear 2: Championship in bubbleYear 3: First round exitYear 4: No… |
 
-The most popular user is: **varshney_shashi**
-<div class="alert alert-block alert-danger"> RT @AshramGzb: #wednesdaythought ~Enlightened #BenevolentSaint like Sant Shri Asharamji Bapu are rare on this planet, who distribute the tr…</div>
+The most popular user is: **SeyMourCakes_**
+<div class="alert alert-block alert-danger"> RT @SportsCenter: LeBron sees the talk 👀📱 https://t.co/rwAKi7S9rC</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MThakur27417705** |
-| #2 Most tweeted to  | **Mohan13520563** |
-| #3 Most tweeted to  | **Kidzcoolit** |
-| NewProfiles (less than 10 days) | 1.1%  |
-| Tweeters with < 10 followers  | 5.18%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **JWepp** |
+| #2 Most tweeted to  | **ComplexSports** |
+| #3 Most tweeted to  | **casualtakeking** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 5.04%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **varshney_shashi**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WEDNESDAYTHOUGHT**  |
-| second  | **GODMORNINGWEDNESDAY**  |
-| third  | **REAL_ALLAH_IS_KABIR** |
-| fourth  | **KABIR**  |
-| fifth  | **JI**  |
+| first  | **LEBRON**  |
+| second  | **PLAY**  |
+| third  | **NBA** |
+| fourth  | **JAMES**  |
+| fifth  | **STEPH**  |
 
 
 ## Twitter Bio Analysis![image](assets/2022-04-06BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/2022-04-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#With #StopRFID Have a good #wednesdaythought and #privacy #protect https://t.co/h2VtcizrSD |
+|RT @HoopMixOnly: Who is the Greatest All Of Time?RT for Michael Jordan LIKE for LeBron James https://t.co/0WBKEd2sm8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **varshney_shashi**  |
+| The most retweeted user is: **SeyMourCakes_**  |
 | ------------- |
-| RT @AshramGzb: #wednesdaythought ~Enlightened #BenevolentSaint like Sant Shri Asharamji Bapu are rare on this planet, who distribute the tr… |
+| RT @SportsCenter: LeBron sees the talk 👀📱 https://t.co/rwAKi7S9rC |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
