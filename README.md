@@ -1,5 +1,5 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lebron"**
+&#x1F34E; **TOPIC = "Ohio"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
@@ -15,21 +15,21 @@
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @bradtsibanda @VVOKHARDT Lebron and playoffs (this season) in the same sentence https://t.co/gJEy23kjdD |
-| RT @_Talkin_NBA: The Lakers by season since LeBron's arrival:18-19 - Missed playoffs19-20 - NBA champs20-21 - First round exit21-22 -… |
-| RT @Bibssy23: We kept hearing about comparisons to Jordan and Lebron at the Wizards. Well here it is. Cheers https://t.co/SBZwRhOlJo |
+| @Surabees Dang between @JDVance1 @MikeLoychik @MikeGibbonsOH @JoshMandelOhio Jean Schmidt and Jim Jordan,Ohio makes me very embarrassed. |
+| RT @NRO: Ohio Senate candidate J. D. Vance has found himself on the wrong side of Republican voters – and even some of his own donors – ove… |
+| RT @georgehahn: Abortion is now illegal in Oklahoma. Tennessee is voting to make marriage fine at any age. Ohio is introducing Don’t Say Ga… |
 
-The most popular user is: **Lebron__King_**
-<div class="alert alert-block alert-danger"> RT @iamabayorr: Before Hitler killed 6 million Jews.…. Leopold Il of Belgium killed over 10 million Africans in Congo and amputated the arm…</div>
+The most popular user is: **Ohio_Shawn**
+<div class="alert alert-block alert-danger"> RT @BernieSanders: Cancel student debt. All of it.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DrGuru_** |
-| #2 Most tweeted to  | **casualtakeking** |
-| #3 Most tweeted to  | **JWepp** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 6.64%|
+| #1 Most tweeted to  | **notcapnamerica** |
+| #2 Most tweeted to  | **JoshMandelOhio** |
+| #3 Most tweeted to  | **vivekagnihotri** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.56%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Lebron__King_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEBRON**  |
-| second  | **JAMES**  |
-| third  | **LAKERS** |
-| fourth  | **YEAR**  |
-| fifth  | **NBA**  |
+| first  | **OHIO**  |
+| second  | **SENATE**  |
+| third  | **STATE** |
+| fourth  | **US**  |
+| fifth  | **CANDIDATE**  |
 
 
 ## Twitter Bio Analysis![image](assets/2022-04-06BIO.png)
 ### SENTIMENT ANALYSIS
 ![image](assets/2022-04-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @casualtakeking: Lebron James is the only player in NBA history who can be slandered for not playing after his ankle looked like this wi… |
+|RT @ttindia: 'Your inspiring vision and sophisticated artistry have enabled you to contribute something of precious and enduring value'#th… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Lebron__King_**  |
+| The most retweeted user is: **Ohio_Shawn**  |
 | ------------- |
-| RT @iamabayorr: Before Hitler killed 6 million Jews.…. Leopold Il of Belgium killed over 10 million Africans in Congo and amputated the arm… |
+| RT @BernieSanders: Cancel student debt. All of it. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
