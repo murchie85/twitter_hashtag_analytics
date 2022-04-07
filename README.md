@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lebron"**
+&#x1F34E; **TOPIC = "Justice Jackson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-06TWEETS.png)
+![image](assets/2022-04-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BeansGoated: LeBron made it to 9 straight finals in a weak conference &amp; his fans thought he could come to the West &amp; shit would be swee… |
-| Lebron James, thanks from the LA LAKERS FANS, you sure did the STATE OF CALI GOOD, between TACO TUESDAYS, AND PI… https://t.co/QWlr5hUNn4 |
-| RT @Farbod_E: LeBron's four years with the Lakers:Year 1: No playoffsYear 2: Championship in bubbleYear 3: First round exitYear 4: No… |
+| RT @937thebeat: Thoughts on Ketanji Brown Jackson heading to the Supreme Court? She was confirmed by the Senate.  Jackson will be the first… |
+| RT @POTUS: Judge Jackson’s confirmation was a historic moment for our nation. We’ve taken another step toward making our highest court refl… |
+| RT @LandseerNewfie: "You can do it."~ SC Justice Jackson to her daughtersWatching Justice Jackson move through the nomination process w… |
 
-The most popular user is: **SeyMourCakes_**
-<div class="alert alert-block alert-danger"> RT @SportsCenter: LeBron sees the talk 👀📱 https://t.co/rwAKi7S9rC</div>
+The most popular user is: **marsdostal**
+<div class="alert alert-block alert-danger"> RT @SenatorRomney: I intend to vote in support of Judge Ketanji Brown Jackson’s confirmation to be an associate justice of the U.S. Supreme…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JWepp** |
-| #2 Most tweeted to  | **ComplexSports** |
-| #3 Most tweeted to  | **casualtakeking** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 5.04%|
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **WhiteHouse** |
+| #3 Most tweeted to  | **CNET** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.5%|
 | Tweeters with > 1000000 followers  | 0.1%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SeyMourCakes_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEBRON**  |
-| second  | **PLAY**  |
-| third  | **NBA** |
-| fourth  | **JAMES**  |
-| fifth  | **STEPH**  |
+| first  | **BROWN**  |
+| second  | **KETANJI**  |
+| third  | **JUSTICE** |
+| fourth  | **JACKSON**  |
+| fifth  | **COURT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/2022-04-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @HoopMixOnly: Who is the Greatest All Of Time?RT for Michael Jordan LIKE for LeBron James https://t.co/0WBKEd2sm8 |
+|RT @MayoIsSpicyy: Justice Ketanji Brown Jackson.That’s the tweet of the week. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SeyMourCakes_**  |
+| The most retweeted user is: **marsdostal**  |
 | ------------- |
-| RT @SportsCenter: LeBron sees the talk 👀📱 https://t.co/rwAKi7S9rC |
+| RT @SenatorRomney: I intend to vote in support of Judge Ketanji Brown Jackson’s confirmation to be an associate justice of the U.S. Supreme… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
