@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Justice Jackson"**
+&#x1F34E; **TOPIC = "Neto"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-07TWEETS.png)
+![image](assets/2022-04-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @937thebeat: Thoughts on Ketanji Brown Jackson heading to the Supreme Court? She was confirmed by the Senate.  Jackson will be the first… |
-| RT @POTUS: Judge Jackson’s confirmation was a historic moment for our nation. We’ve taken another step toward making our highest court refl… |
-| RT @LandseerNewfie: "You can do it."~ SC Justice Jackson to her daughtersWatching Justice Jackson move through the nomination process w… |
+| @htomufc Olise, Neto or Dembele and use amad as backup |
+| RT @KyahLex: Grabe ganda neto panoorin, another one of the books!! https://t.co/8ykffTVeU6 |
+| RT @NJDavidD: @BobRomano19 @chris_neto Yes, but there is a small but growing trend to shed the complex AV integration business and become m… |
 
-The most popular user is: **marsdostal**
-<div class="alert alert-block alert-danger"> RT @SenatorRomney: I intend to vote in support of Judge Ketanji Brown Jackson’s confirmation to be an associate justice of the U.S. Supreme…</div>
+The most popular user is: **_Neto_tosa_**
+<div class="alert alert-block alert-danger"> RT @jhsflwer: THIS!!!!!!!!!!!! https://t.co/7t2wGigctT</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **WhiteHouse** |
-| #3 Most tweeted to  | **CNET** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.5%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **chris_neto** |
+| #2 Most tweeted to  | **jacobyaudio** |
+| #3 Most tweeted to  | **tomarbuthnot** |
+| NewProfiles (less than 10 days) | 1.68%  |
+| Tweeters with < 10 followers  | 4.86%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **marsdostal**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BROWN**  |
-| second  | **KETANJI**  |
-| third  | **JUSTICE** |
-| fourth  | **JACKSON**  |
-| fifth  | **COURT**  |
+| first  | **NETO**  |
+| second  | **@CHRIS_NETO**  |
+| third  | **NA** |
+| fourth  | **"IM"**  |
+| fifth  | **AV**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2022-04-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MayoIsSpicyy: Justice Ketanji Brown Jackson.That’s the tweet of the week. |
+|@YouTube Felipe Neto, Rosanna Pansino, Daniel Middleton. Etc Just love this dudes like I have know them forever.… https://t.co/xRNnOiB69h |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **marsdostal**  |
+| The most retweeted user is: **_Neto_tosa_**  |
 | ------------- |
-| RT @SenatorRomney: I intend to vote in support of Judge Ketanji Brown Jackson’s confirmation to be an associate justice of the U.S. Supreme… |
+| RT @jhsflwer: THIS!!!!!!!!!!!! https://t.co/7t2wGigctT |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
