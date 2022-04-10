@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LAGalaxy"**
+&#x1F34E; **TOPIC = "Sora"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-09TWEETS.png)
+![image](assets/2022-04-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @90min_us: El Trafico returns this weekend. Who you taking? 👀#LAGalaxy or #LAFC? https://t.co/eIy0tJzQB3 |
-| Anyone selling a tickets to the game this weekend?? Lmk pls 🙏#lagalaxy |
-| RT @LAGalaxy: FYI @CH14_ is the best forward in @MLS 🇲🇽#LAGalaxy x @UniStudios https://t.co/rmwHoe93EL |
+| RT @aitaikimochi: I can't believe Sora lives in fuking Aoyama in Tokyo, which is one of the most expensive residential areas in Tokyo. Th… |
+| RT @RedMakuzawa: OH MY GOD ITS COMPLETE WITH KH1-KH4 Sora 😭 https://t.co/btLCx4VQiV |
+| RT @StellaNoxEclair: Sora's been irl for 4 hours and they already doxxed him |
 
-The most popular user is: **Sinnatro**
-<div class="alert alert-block alert-danger"> RT @LAGalaxy: 💙 LOS ANGELES 💙
-
-Congratulations @Dodgers on bringing the #WorldSeries back home!
-
-#LAGalaxy x #LATogether https://t.co/JwVt2…</div>
+The most popular user is: **hey_Rotieh**
+<div class="alert alert-block alert-danger"> RT @KINGDOMHEARTS: Twenty years ago today the original Kingdom Hearts first launched in Japan and we started an unforgettable journey with…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LAGalaxy** |
-| #2 Most tweeted to  | **MLS** |
-| #3 Most tweeted to  | **CH14_** |
-| NewProfiles (less than 10 days) | 0.23%  |
-| Tweeters with < 10 followers  | 1.39%|
-| Tweeters with > 1000000 followers  | 0.23%  |
+| #1 Most tweeted to  | **StellaNoxEclair** |
+| #2 Most tweeted to  | **aitaikimochi** |
+| #3 Most tweeted to  | **SYACVG** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 2.88%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Congratulations @Dodgers on bringing the #WorldSeries back home!
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LAGALAXY**  |
-| second  | **@LAGALAXY:**  |
-| third  | **LAFC** |
-| fourth  | **X**  |
-| fifth  | **LA**  |
+| first  | **SORA**  |
+| second  | **KINGDOM**  |
+| third  | **4** |
+| fourth  | **HEARTS**  |
+| fifth  | **"SORAS"**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-09BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-04-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LAGalaxy #LAGalaxy vs Portland Timbers🧠385/460 passes (84% ok)🔑9 key passes🎯4/10 shots on target🔝8/14 aerials… https://t.co/57iXlojnj4 |
+|RT @snarkysoras: cant wait until Riku barges into Quadratum only to find Sora working a regular job and he’s just trying to pay his rent |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sinnatro**  |
+| The most retweeted user is: **hey_Rotieh**  |
 | ------------- |
-| RT @LAGalaxy: 💙 LOS ANGELES 💙Congratulations @Dodgers on bringing the #WorldSeries back home!#LAGalaxy x #LATogether https://t.co/JwVt2… |
+| RT @KINGDOMHEARTS: Twenty years ago today the original Kingdom Hearts first launched in Japan and we started an unforgettable journey with… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
