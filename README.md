@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sora"**
+&#x1F34E; **TOPIC = "Pulte Homes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-10TWEETS.png)
+![image](assets/2022-04-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @aitaikimochi: I can't believe Sora lives in fuking Aoyama in Tokyo, which is one of the most expensive residential areas in Tokyo. Th… |
-| RT @RedMakuzawa: OH MY GOD ITS COMPLETE WITH KH1-KH4 Sora 😭 https://t.co/btLCx4VQiV |
-| RT @StellaNoxEclair: Sora's been irl for 4 hours and they already doxxed him |
+| @pulte [Housing Company] - Family homes, Family business |
+| @pulte “Home is where the heart is! Let your hearts lie in our homes💕” |
+| RT @pulte: Same experience with Pulte Homes in 2016. My grandfather (the founder of the company) came outta retirement with me and Elliott… |
 
-The most popular user is: **hey_Rotieh**
-<div class="alert alert-block alert-danger"> RT @KINGDOMHEARTS: Twenty years ago today the original Kingdom Hearts first launched in Japan and we started an unforgettable journey with…</div>
+The most popular user is: **mikkekyles72198**
+<div class="alert alert-block alert-danger"> RT @pulte: Dream and I will be picking The $30,000 Winner SOON!  
+
+Welcome to my New Teammates (formerly called "followers"). Here, we give…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **StellaNoxEclair** |
-| #2 Most tweeted to  | **aitaikimochi** |
-| #3 Most tweeted to  | **SYACVG** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 2.88%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **pulte** |
+| #2 Most tweeted to  | **PulteHomes** |
+| #3 Most tweeted to  | **BCG** |
+| NewProfiles (less than 10 days) | 0.79%  |
+| Tweeters with < 10 followers  | 9.2%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **hey_Rotieh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SORA**  |
-| second  | **KINGDOM**  |
-| third  | **4** |
-| fourth  | **HEARTS**  |
-| fifth  | **"SORAS"**  |
+| first  | **PULTE**  |
+| second  | **HOMES**  |
+| third  | **@PULTE:** |
+| fourth  | **MONEY**  |
+| fifth  | **AWAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-04-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @snarkysoras: cant wait until Riku barges into Quadratum only to find Sora working a regular job and he’s just trying to pay his rent |
+|RT @pulte: I’m getting tons of interest and phone calls about The Pulte Plan. You all will have to wait. But it will be worth $ it. This is… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **hey_Rotieh**  |
+| The most retweeted user is: **mikkekyles72198**  |
 | ------------- |
-| RT @KINGDOMHEARTS: Twenty years ago today the original Kingdom Hearts first launched in Japan and we started an unforgettable journey with… |
+| RT @pulte: Dream and I will be picking The $30,000 Winner SOON!  Welcome to my New Teammates (formerly called "followers"). Here, we give… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
