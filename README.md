@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pulte Homes"**
+&#x1F34E; **TOPIC = "Rich Hill"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-11TWEETS.png)
+![image](assets/2022-04-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @pulte [Housing Company] - Family homes, Family business |
-| @pulte “Home is where the heart is! Let your hearts lie in our homes💕” |
-| RT @pulte: Same experience with Pulte Homes in 2016. My grandfather (the founder of the company) came outta retirement with me and Elliott… |
+| RT @tapemachines: Rich Hill every pitch https://t.co/FnzSbwE0xV |
+| In the news in the American Empire: Public health experts raise alarm amid Capitol Hill Covid outbreak &amp; West Virgi… https://t.co/dAuSJ3z1r3 |
+| @PP_Rich_Hill he got away with lesser playmaking talent for 20 years primarily because of Brady. nothing against Ma… https://t.co/uoJoNqKVbf |
 
-The most popular user is: **mikkekyles72198**
-<div class="alert alert-block alert-danger"> RT @pulte: Dream and I will be picking The $30,000 Winner SOON!  
-
-Welcome to my New Teammates (formerly called "followers"). Here, we give…</div>
+The most popular user is: **rich_dallas**
+<div class="alert alert-block alert-danger"> RT @Mahalia_xx11: Lauryn Hill was right, nothing even matters.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **pulte** |
-| #2 Most tweeted to  | **PulteHomes** |
-| #3 Most tweeted to  | **BCG** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 9.2%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **univ_mind_** |
+| #2 Most tweeted to  | **PP_Rich_Hill** |
+| #3 Most tweeted to  | **chelsea_janes** |
+| NewProfiles (less than 10 days) | 0.85%  |
+| Tweeters with < 10 followers  | 6.92%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ Welcome to my New Teammates (formerly called "followers"). Here, we give…</div
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PULTE**  |
-| second  | **HOMES**  |
-| third  | **@PULTE:** |
-| fourth  | **MONEY**  |
-| fifth  | **AWAY**  |
+| first  | **HILL**  |
+| second  | **RICH**  |
+| third  | **GROW** |
+| fourth  | **NAPOLEON**  |
+| fifth  | **"THINK**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-04-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @pulte: I’m getting tons of interest and phone calls about The Pulte Plan. You all will have to wait. But it will be worth $ it. This is… |
+|RT @univ_mind_: 10 MUST-READ Quotes From the Book: "Think and Grow Rich"By Napoleon Hill\\ Thread // https://t.co/87xX25ozmG |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mikkekyles72198**  |
+| The most retweeted user is: **rich_dallas**  |
 | ------------- |
-| RT @pulte: Dream and I will be picking The $30,000 Winner SOON!  Welcome to my New Teammates (formerly called "followers"). Here, we give… |
+| RT @Mahalia_xx11: Lauryn Hill was right, nothing even matters. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
