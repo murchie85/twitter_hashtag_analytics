@@ -1,42 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MyMutantPower"**
+&#x1F34E; **TOPIC = "Kyler"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-14TWEETS.png)
+![image](assets/2022-04-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| It’s just anxiety #MyMutantPower https://t.co/oUZwLizsBr |
-| Hmm....what is #MyMutantPower?Invisibility.......Bet you didn't see that coming https://t.co/Cy1iKym3i2 |
-| @GailSimone Malfunctioning computers mysteriously start to work when I look at them.My catchphrase is "Well, it's… https://t.co/DdAfMTlQoH |
+| @thearcadio_ Same. lol |
+| RT @DeafBaddie: I need a selfie like this… 🥺 https://t.co/O99WLjeef3 |
+| RT @NFLonCBS: Most games with 65%+ comp pct last seasonMac Jones*         13Tom Brady          12Joe Burrow         12Kyler Murray… |
 
-The most popular user is: **Gojira007X**
-<div class="alert alert-block alert-danger"> RT @GailSimone: You get one audition to join the X-men.
+The most popular user is: **Kyler_K25**
+<div class="alert alert-block alert-danger"> RT @elonmusk: @Alwaleed_Talal @Twitter @Kingdom_KHC Interesting. Just two questions, if I may. 
 
-What is your real-life mutant power?
-
-Please use hashtag
-
-#MyMutantPower</div>
+How much of Twitter does the Kingdom own,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GailSimone** |
-| #2 Most tweeted to  | **ahmedbilalmys** |
-| #3 Most tweeted to  | **IAmUltimatePred** |
-| NewProfiles (less than 10 days) | 0.19%  |
-| Tweeters with < 10 followers  | 3.83%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **TomPelissero** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **NFLonCBS** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 6.26%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -45,28 +41,28 @@ Please use hashtag
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MYMUTANTPOWER**  |
-| second  | **MYMUTANTPOWER@GAILSIMONE**  |
-| third  | **ABILITY** |
-| fourth  | **PEOPLE**  |
-| fifth  | **ANY**  |
+| first  | **KYLER**  |
+| second  | **MURRAY**  |
+| third  | **CARDINALS** |
+| fourth  | **CONTRACT**  |
+| fifth  | **NEW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-14sentiment.png)
+![image](assets/2022-04-15sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@GailSimone I can consume certain types of organic matter and convert it into chemical energy. #MyMutantPower |
+|RT @__23kirko: @1stat1day @TylerFFCreator Kyler |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gojira007X**  |
+| The most retweeted user is: **Kyler_K25**  |
 | ------------- |
-| RT @GailSimone: You get one audition to join the X-men.What is your real-life mutant power?Please use hashtag#MyMutantPower |
+| RT @elonmusk: @Alwaleed_Talal @Twitter @Kingdom_KHC Interesting. Just two questions, if I may. How much of Twitter does the Kingdom own,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
