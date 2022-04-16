@@ -1,38 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kyler"**
+&#x1F34E; **TOPIC = "Coachella"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-15TWEETS.png)
+![image](assets/2022-04-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @thearcadio_ Same. lol |
-| RT @DeafBaddie: I need a selfie like this… 🥺 https://t.co/O99WLjeef3 |
-| RT @NFLonCBS: Most games with 65%+ comp pct last seasonMac Jones*         13Tom Brady          12Joe Burrow         12Kyler Murray… |
+| @charlieputh if that it is, I want to see your pic covered with some dust...although it's hard to see 😁. Well, what… https://t.co/uNH2NHu87R |
+| RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 16th Saturday 6:45 PM PT. 17th Sunday 8:45 (BKK TIME)Tune into global l… |
+| RT @usanoise: Anitta Brought Out Snoop Dogg And Saweetie For Her Vibrant Coachella Debut https://t.co/jtHwn3iZS5 |
 
-The most popular user is: **Kyler_K25**
-<div class="alert alert-block alert-danger"> RT @elonmusk: @Alwaleed_Talal @Twitter @Kingdom_KHC Interesting. Just two questions, if I may. 
+The most popular user is: **NRebot**
+<div class="alert alert-block alert-danger"> RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 
+16th Saturday 6:45 PM PT. 
+17th Sunday 8:45 (BKK TIME)
 
-How much of Twitter does the Kingdom own,…</div>
+Tune into global l…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TomPelissero** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **NFLonCBS** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 6.26%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **coachella** |
+| #2 Most tweeted to  | **Harry_Styles** |
+| #3 Most tweeted to  | **finneas** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 6.0%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +43,28 @@ How much of Twitter does the Kingdom own,…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KYLER**  |
-| second  | **MURRAY**  |
-| third  | **CARDINALS** |
-| fourth  | **CONTRACT**  |
-| fifth  | **NEW**  |
+| first  | **COACHELLA**  |
+| second  | **HARRY**  |
+| third  | **STYLES** |
+| fourth  | **JENNIE**  |
+| fifth  | **@HARRY_STYLES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/2022-04-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @__23kirko: @1stat1day @TylerFFCreator Kyler |
+|RT @ckay_yo: yoo #coachella went craaaaaazy!!!! big love @pinksweats 💜✨! https://t.co/11dzFzYrwD |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kyler_K25**  |
+| The most retweeted user is: **NRebot**  |
 | ------------- |
-| RT @elonmusk: @Alwaleed_Talal @Twitter @Kingdom_KHC Interesting. Just two questions, if I may. How much of Twitter does the Kingdom own,… |
+| RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 16th Saturday 6:45 PM PT. 17th Sunday 8:45 (BKK TIME)Tune into global l… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
