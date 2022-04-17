@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Coachella"**
+&#x1F34E; **TOPIC = "Madden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-16TWEETS.png)
+![image](assets/2022-04-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @charlieputh if that it is, I want to see your pic covered with some dust...although it's hard to see 😁. Well, what… https://t.co/uNH2NHu87R |
-| RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 16th Saturday 6:45 PM PT. 17th Sunday 8:45 (BKK TIME)Tune into global l… |
-| RT @usanoise: Anitta Brought Out Snoop Dogg And Saweetie For Her Vibrant Coachella Debut https://t.co/jtHwn3iZS5 |
+| RT @chris_sutton73: Celtic were poor but Bobby Madden turned in one of the worst refereeing performances I’ve seen in Scotland for a long t… |
+| RT @Tazspeedway: Congratulations to last night's winners!@SoNationals @CTPROMOTE Super Late Models: Chris MaddenStreets: Tony TrentClass… |
+| @maxibhoy Exactly hard few weeks ahead but I will say that mob only ever beat us when we don't turn up like today .… https://t.co/F764RYjn1h |
 
-The most popular user is: **NRebot**
-<div class="alert alert-block alert-danger"> RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 
-16th Saturday 6:45 PM PT. 
-17th Sunday 8:45 (BKK TIME)
-
-Tune into global l…</div>
+The most popular user is: **suh_madden**
+<div class="alert alert-block alert-danger"> RT @icandoakickflip: Imagine I start worshipping Allah 3,000 feet in the air. What would happen then?</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **coachella** |
-| #2 Most tweeted to  | **Harry_Styles** |
-| #3 Most tweeted to  | **finneas** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 6.0%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **chris_sutton73** |
+| #2 Most tweeted to  | **Fitzy__07** |
+| #3 Most tweeted to  | **Alantommo8** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 4.28%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -43,28 +39,28 @@ Tune into global l…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COACHELLA**  |
-| second  | **HARRY**  |
-| third  | **STYLES** |
-| fourth  | **JENNIE**  |
-| fifth  | **@HARRY_STYLES**  |
+| first  | **MADDEN**  |
+| second  | **BOBBY**  |
+| third  | **CELTIC** |
+| fourth  | **POOR**  |
+| fifth  | **REFEREEING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-16BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-04-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ckay_yo: yoo #coachella went craaaaaazy!!!! big love @pinksweats 💜✨! https://t.co/11dzFzYrwD |
+|RT @deaks1ey: John Beaton performance at Ibrox where he celebrated the result in the crown is the worst performance I've ever seen from a m… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NRebot**  |
+| The most retweeted user is: **suh_madden**  |
 | ------------- |
-| RT @millimdk: HEAD IN THE CLOUDS FOREVER. Coachella Main Stage. 16th Saturday 6:45 PM PT. 17th Sunday 8:45 (BKK TIME)Tune into global l… |
+| RT @icandoakickflip: Imagine I start worshipping Allah 3,000 feet in the air. What would happen then? |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
