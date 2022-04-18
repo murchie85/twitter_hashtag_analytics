@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Madden"**
+&#x1F34E; **TOPIC = "#SuperLeague"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-17TWEETS.png)
+![image](assets/2022-04-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chris_sutton73: Celtic were poor but Bobby Madden turned in one of the worst refereeing performances I’ve seen in Scotland for a long t… |
-| RT @Tazspeedway: Congratulations to last night's winners!@SoNationals @CTPROMOTE Super Late Models: Chris MaddenStreets: Tony TrentClass… |
-| @maxibhoy Exactly hard few weeks ahead but I will say that mob only ever beat us when we don't turn up like today .… https://t.co/F764RYjn1h |
+| RT @SuperLeague: Easter Monday action 💥A full round of fixtures today with two games live on @SkySportsRL 📺#SuperLeague |
+| I’m watching the #HullDerby (almost at halftime) and it’s been a pretty good match so far. Embarrassing it’s played… https://t.co/oEIt79If0B |
+| RT @SuperLeague: 𝙇𝙚 𝘿𝙚𝙧𝙗𝙮 🇫🇷@DragonsOfficiel &amp; @TOXIII will ignite a new rivalry when they meet in #RivalsRound tomorrow 😤#SuperLeague… |
 
-The most popular user is: **suh_madden**
-<div class="alert alert-block alert-danger"> RT @icandoakickflip: Imagine I start worshipping Allah 3,000 feet in the air. What would happen then?</div>
+The most popular user is: **rinasmnj**
+<div class="alert alert-block alert-danger"> RT @abadiadoux: UEFA Champions League 2024 final | Barnsley vs Alcorcon highlights 
+
+#SuperLeague https://t.co/0ck6ISI7RL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **chris_sutton73** |
-| #2 Most tweeted to  | **Fitzy__07** |
-| #3 Most tweeted to  | **Alantommo8** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 4.28%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SuperLeague** |
+| #2 Most tweeted to  | **WarringtonRLFC** |
+| #3 Most tweeted to  | **hullfcofficial** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 3.72%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **suh_madden**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MADDEN**  |
-| second  | **BOBBY**  |
-| third  | **CELTIC** |
-| fourth  | **POOR**  |
-| fifth  | **REFEREEING**  |
+| first  | **SUPERLEAGUE**  |
+| second  | **@SUPERLEAGUE:**  |
+| third  | **RIVALSROUND** |
+| fourth  | **LIVE**  |
+| fifth  | **LEAGUE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-04-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @deaks1ey: John Beaton performance at Ibrox where he celebrated the result in the crown is the worst performance I've ever seen from a m… |
+|RT @SuperLeague: A landmark evening 🤝#SuperLeague #RivalsRound #SLCatTou https://t.co/ub3bDiFwdF |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **suh_madden**  |
+| The most retweeted user is: **rinasmnj**  |
 | ------------- |
-| RT @icandoakickflip: Imagine I start worshipping Allah 3,000 feet in the air. What would happen then? |
+| RT @abadiadoux: UEFA Champions League 2024 final | Barnsley vs Alcorcon highlights #SuperLeague https://t.co/0ck6ISI7RL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
