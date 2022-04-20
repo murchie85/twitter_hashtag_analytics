@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Telles"**
+&#x1F34E; **TOPIC = "#EastEnders"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-19TWEETS.png)
+![image](assets/2022-04-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @fpl_flair Salah, Telles, Bruno captain. Salah hatty and a Bruno pen won by Telles would be great, thanks please FPL gods. |
-| It’s amazing man how Telles is so good at interviews but will drop a 5.5 rating performance for the same match he t… https://t.co/qDSBZ2skvs |
-| @mr_rovana @RedlingMUFC85 He recovered from it and is a street better than Telles |
+| "EastEnders" #Eastenders https://t.co/VF0czLMcqi |
+| Marriage no wait I’ve lost count #EastEnders |
+| RT @BallumOfficial: An actual wink!#EastEnders #Ballum https://t.co/7xz9KKKQZb |
 
-The most popular user is: **Luis_Telles**
-<div class="alert alert-block alert-danger"> RT @PokemonGoApp: Trainers, we’re celebrating the Season of Alola and Stufful Community Day by awarding one lucky winner with a trip for tw…</div>
+The most popular user is: **lilywebb__**
+<div class="alert alert-block alert-danger"> RT @ShaunInBrum: As a kid, gutted that EastEnders didn't do set tours, I sent #JuneBrown a disposable camera &amp; asked if she could snap some…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MUFC_redarmy99** |
-| #2 Most tweeted to  | **UnitedStandMUFC** |
-| #3 Most tweeted to  | **biradarsunil36** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 5.78%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **bbceastenders** |
+| #2 Most tweeted to  | **BallumOfficial** |
+| #3 Most tweeted to  | **DuncanLindsay** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 2.9%|
+| Tweeters with > 1000000 followers  | 0.52%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Luis_Telles**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TELLES**  |
-| second  | **MAGUIRE**  |
-| third  | **ALEX** |
-| fourth  | **DALOT**  |
-| fifth  | **SALAH**  |
+| first  | **EASTENDERS**  |
+| second  | **SAM**  |
+| third  | **@BBCEASTENDERS:** |
+| fourth  | **BEN**  |
+| fifth  | **EASTENDERSRT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-19sentiment.png)
+![image](assets/2022-04-20sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @passingdemtears: @utdreport Salah and Mane running towards Telles and Dalot… https://t.co/s3iFuzJFjI |
+|There not being a gay/bi Branning brother has always been a missed opportunity. #EastEnders |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Luis_Telles**  |
+| The most retweeted user is: **lilywebb__**  |
 | ------------- |
-| RT @PokemonGoApp: Trainers, we’re celebrating the Season of Alola and Stufful Community Day by awarding one lucky winner with a trip for tw… |
+| RT @ShaunInBrum: As a kid, gutted that EastEnders didn't do set tours, I sent #JuneBrown a disposable camera &amp; asked if she could snap some… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
