@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CashByCashApp"**
+&#x1F34E; **TOPIC = "Dahlin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-22TWEETS.png)
+![image](assets/2022-04-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CashApp: We’re giving away a few Cash by Cash App bloom long shirt dresses today. Follow @cashapp and QRT this with your $cashtag for a… |
-| RT @OttoMatticBaby: @CashApp Drop your Cash App below and follow me 👇🏼Retweet my pinned tweet and Pre-Save to help support my new 80’s so… |
-| $Kai423 it’s my birthday tomorrow #CashbyCashApp https://t.co/nhzMM62Ab4 |
+| RT @Highpresshockey: The Rasmus Dahlin special https://t.co/PZxOZD5J0M |
+| RT @TheChargingBUF: Rasmus Dahlin has taken his game to another level this season. He is now the first #Sabres defenseman to hit 50+ poin… |
+| RT @SabresPR: Rasmus Dahlin's goal tonight is his 11th of the season. It's the most goals a Sabres defenseman has scored in a single season… |
 
-The most popular user is: **rlahey817**
-<div class="alert alert-block alert-danger"> RT @CashApp: We’re giving away a few Cash by Cash App bloom long shirt dresses today. Follow @cashapp and QRT this with your $cashtag for a…</div>
+The most popular user is: **ally_dahlin**
+<div class="alert alert-block alert-danger"> RT @ClimateHuman: I'm grateful we tried. Man, oh, man, did we try. https://t.co/TlYrwwGB8v</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CashApp** |
-| #2 Most tweeted to  | **Millions** |
-| #3 Most tweeted to  | **OttoMatticBaby** |
-| NewProfiles (less than 10 days) | 0.85%  |
-| Tweeters with < 10 followers  | 21.34%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **TheChargingBUF** |
+| #2 Most tweeted to  | **NastyKnuckles** |
+| #3 Most tweeted to  | **BuffaloSabres** |
+| NewProfiles (less than 10 days) | 0.21%  |
+| Tweeters with < 10 followers  | 3.05%|
+| Tweeters with > 1000000 followers  | 0.13%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **rlahey817**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CASH**  |
-| second  | **@CASHAPP**  |
-| third  | **FOLLOW** |
-| fourth  | **APP**  |
-| fifth  | **SHIRT**  |
+| first  | **DAHLIN**  |
+| second  | **RASMUS**  |
+| third  | **YEARS** |
+| fourth  | **SABRES**  |
+| fifth  | **OLD**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-04-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|$Gbam04 #CashbyCashApp https://t.co/21JPzKnfhk |
+|RT @PR_NHL: Rasmus Dahlin is the first @BuffaloSabres defenseman in 26 years to record 50 points in a season.#NHLStats: https://t.co/Nx7m… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rlahey817**  |
+| The most retweeted user is: **ally_dahlin**  |
 | ------------- |
-| RT @CashApp: We’re giving away a few Cash by Cash App bloom long shirt dresses today. Follow @cashapp and QRT this with your $cashtag for a… |
+| RT @ClimateHuman: I'm grateful we tried. Man, oh, man, did we try. https://t.co/TlYrwwGB8v |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
