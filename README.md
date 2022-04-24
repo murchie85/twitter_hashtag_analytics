@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dahlin"**
+&#x1F34E; **TOPIC = "Grayson Allen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-04-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-23TWEETS.png)
+![image](assets/2022-04-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Highpresshockey: The Rasmus Dahlin special https://t.co/PZxOZD5J0M |
-| RT @TheChargingBUF: Rasmus Dahlin has taken his game to another level this season. He is now the first #Sabres defenseman to hit 50+ poin… |
-| RT @SabresPR: Rasmus Dahlin's goal tonight is his 11th of the season. It's the most goals a Sabres defenseman has scored in a single season… |
+| Bulls fans are going to see Grayson Allen in their nightmares lol |
+| RT @17EddieEdward: Grayson Allen has stepped up for the Bucks in the absence of Khris Middleton.💚 #NBAPlayoffs |
+| grayson allen 🎯 |
 
-The most popular user is: **ally_dahlin**
-<div class="alert alert-block alert-danger"> RT @ClimateHuman: I'm grateful we tried. Man, oh, man, did we try. https://t.co/TlYrwwGB8v</div>
+The most popular user is: **realskyfreejr**
+<div class="alert alert-block alert-danger"> RT @itsjwills: This is amazing.
+The Bucks bench booing Grayson Allen because they know it brings out the best in him 😂</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheChargingBUF** |
-| #2 Most tweeted to  | **NastyKnuckles** |
-| #3 Most tweeted to  | **BuffaloSabres** |
-| NewProfiles (less than 10 days) | 0.21%  |
-| Tweeters with < 10 followers  | 3.05%|
-| Tweeters with > 1000000 followers  | 0.13%  |
+| #1 Most tweeted to  | **chicagobulls** |
+| #2 Most tweeted to  | **BarstoolBigCat** |
+| #3 Most tweeted to  | **Bucks** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 3.0%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **ally_dahlin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAHLIN**  |
-| second  | **RASMUS**  |
-| third  | **YEARS** |
-| fourth  | **SABRES**  |
-| fifth  | **OLD**  |
+| first  | **ALLEN**  |
+| second  | **GRAYSON**  |
+| third  | **BULLS** |
+| fourth  | **BUCKS**  |
+| fifth  | **GETTING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-04-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2022-04-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PR_NHL: Rasmus Dahlin is the first @BuffaloSabres defenseman in 26 years to record 50 points in a season.#NHLStats: https://t.co/Nx7m… |
+|@chicagobulls Grayson Allen: 16 points 3 steals 0 PFs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ally_dahlin**  |
+| The most retweeted user is: **realskyfreejr**  |
 | ------------- |
-| RT @ClimateHuman: I'm grateful we tried. Man, oh, man, did we try. https://t.co/TlYrwwGB8v |
+| RT @itsjwills: This is amazing.The Bucks bench booing Grayson Allen because they know it brings out the best in him 😂 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
