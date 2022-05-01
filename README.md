@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ravens"**
+&#x1F34E; **TOPIC = "#NYCFC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-04-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-04-30TWEETS.png)
+![image](assets/2022-05-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @seniorbowl: In the 4th round of the #NFLDraft, the @Ravens select @DaGorilla4 Congratulations Isaiah! #RavensFlock  #TheDraftStartsInMO… |
-| I’m so sorry Doja I did not want to cancel you today but hating ravens crosses a line for me https://t.co/nKPUQmNJlG https://t.co/A2P5JJ7uyV |
-| Ravens out here trying to build the Avengers at Tight End. |
+| @NYCFC Not when how slow the subways run on the weekends and all the fear and anxiety the riders have to face in th… https://t.co/oGa8Wm3Xpz |
+| Taty is truly a menace 😜 #NYCFC https://t.co/wOqRHLWCNG |
+| How are European clubs not driving a Brinks truck straight to #NYCFC’s front office for Taty??? |
 
-The most popular user is: **KingFernando710**
-<div class="alert alert-block alert-danger"> RT @Ravens: THE RAVENS ARE SUPER BOWL CHAMPIONS!!!!!!!</div>
+The most popular user is: **horvathszn**
+<div class="alert alert-block alert-danger"> RT @NYCFC: Yesterday was epic #NYCFC https://t.co/JA5yvo96zZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Ravens** |
-| #2 Most tweeted to  | **FTK2662** |
-| #3 Most tweeted to  | **DaGorilla4** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 4.14%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **NYCFC** |
+| #2 Most tweeted to  | **GlennCrooks** |
+| #3 Most tweeted to  | **MLS** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 2.44%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **KingFernando710**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAVENS**  |
-| second  | **PICK**  |
-| third  | **@RAVENS** |
-| fourth  | **BALTIMORE**  |
-| fifth  | **@RAVENS:**  |
+| first  | **NYCFC**  |
+| second  | **MLS**  |
+| third  | **GAME** |
+| fourth  | **GOAL**  |
+| fifth  | **@NYCFC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-04-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-04-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-05-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UHCougarFB: Another Coog off the board! @FTK2662 is headed to the @Ravens #GoCoogs #NFLDraft https://t.co/jNGitJ3W23 |
+|RT @NYCFCCityBoys: Some people grow up with a security blanket. Tayvon Gray has a security security. #NYCFC @tayvongray4 https://t.co/cbFtQ… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KingFernando710**  |
+| The most retweeted user is: **horvathszn**  |
 | ------------- |
-| RT @Ravens: THE RAVENS ARE SUPER BOWL CHAMPIONS!!!!!!! |
+| RT @NYCFC: Yesterday was epic #NYCFC https://t.co/JA5yvo96zZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
