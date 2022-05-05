@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Local Conservatives"**
+&#x1F34E; **TOPIC = "#NBATopShotThis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-04TWEETS.png)
+![image](assets/2022-05-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @seefootnote: Local conservatives *trying to hand out leaflets outside Willesden Green tube. Not a single person will take one. One woma… |
-| RT @Conservatives: Tomorrow, your choice is clear.Conservative councils who deliver better local services and the lowest council tax or L… |
-| RT @DMinghella: If you voted for a party calling themselves 'Local Conservatives', you'd be voting for people who couldn't even be honest a… |
+| RT @ChewieWoolf: #StarWarsDay #NBATopShotThis#GIVEAWAY throwback!RT+♥️(follow @WookieeC optional)*RECORD A CLIP UR UR CHEWBACCA IMPRESS… |
+| TS : w12ly#NBATopShotThis @CNikalei @KenryoBudiman @AllStarGameLuka https://t.co/99R5eeSC1f |
+| Hi everyone 😉❤️Hoping to borrow a few PO blocks and rare for the challenge if anyone can help.I have extra Ja, Ed… https://t.co/oymEPXaNjw |
 
-The most popular user is: **kentishsal**
-<div class="alert alert-block alert-danger"> RT @Damian_Barr: A reminder: local Conservatives are the same as Conservatives in Westminster.  They’re just nearer. Vote them out, everywh…</div>
+The most popular user is: **atrctn**
+<div class="alert alert-block alert-danger"> RT @nbatopshot: RT if u just got a free pack 🔥 #NBATopShotThis</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Damian_Barr** |
-| #2 Most tweeted to  | **seefootnote** |
-| #3 Most tweeted to  | **AngelaRayner** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 2.12%|
+| #1 Most tweeted to  | **nbatopshot** |
+| #2 Most tweeted to  | **LazyMcGrady** |
+| #3 Most tweeted to  | **the_mikeweiss** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.98%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kentishsal**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CONSERVATIVES**  |
-| second  | **LOCAL**  |
-| third  | **VOTE** |
-| fourth  | **SAME**  |
-| fifth  | **WESTMINSTER**  |
+| first  | **NBATOPSHOTTHIS**  |
+| second  | **GIVEAWAY**  |
+| third  | **RT** |
+| fourth  | **@NBATOPSHOT:**  |
+| fifth  | **🏀**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-05-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Damian_Barr: A reminder: local Conservatives are the same as Conservatives in Westminster.  They’re just nearer. Vote them out, everywh… |
+|RT @nbatopshot: RT if u just got a free pack 🔥 #NBATopShotThis |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kentishsal**  |
+| The most retweeted user is: **atrctn**  |
 | ------------- |
-| RT @Damian_Barr: A reminder: local Conservatives are the same as Conservatives in Westminster.  They’re just nearer. Vote them out, everywh… |
+| RT @nbatopshot: RT if u just got a free pack 🔥 #NBATopShotThis |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
