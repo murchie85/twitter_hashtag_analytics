@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "FIFA"**
+&#x1F34E; **TOPIC = "Katie Porter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-10TWEETS.png)
+![image](assets/2022-05-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @2K this is your moment to get the rights to FIFA https://t.co/zNTSUUEfPM |
-| RT @TMZ: EA Sports announced Tuesday its iconic partnership with FIFA is now over ... and its soccer video games will move forward as "EA S… |
-| RT @Kotaku: EA's FIFA series loses its name after nearly 30 years: https://t.co/H7ZcyRGkEV https://t.co/v4umMynJUe |
+| RT @stevemorris__: One data point on why it takes a member of Congress for members of Congress to get something like this: Katie Porter i… |
+| RT @ReallyAmerican1: Who else would like to someday soon see Rep. Katie Porter become Senator Katie Porter? |
+| RT @realTuckFrumper: Rep. Katie Porter Gets Emotional And Wakes Democrats Up On Grocery Prices https://t.co/VqVsslgzrp |
 
-The most popular user is: **RobinMg10**
-<div class="alert alert-block alert-danger"> RT @valyeeet: men be at house parties saying "this song was on fifa"</div>
+The most popular user is: **teandoranges**
+<div class="alert alert-block alert-danger"> RT @sarahnferris: NEW: After Rep. Katie Porter gave emotional speech to fellow Dems about skyrocketing grocery bills, she said it felt like…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **nytimes** |
-| #3 Most tweeted to  | **Nibellion** |
-| NewProfiles (less than 10 days) | 1.06%  |
-| Tweeters with < 10 followers  | 6.44%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **sarahnferris** |
+| #2 Most tweeted to  | **ReallyAmerican1** |
+| #3 Most tweeted to  | **JDCocchiarella** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 1.84%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **RobinMg10**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EA**  |
-| second  | **FIFA**  |
-| third  | **SPORTS** |
-| fourth  | **GAME**  |
-| fifth  | **FC**  |
+| first  | **KATIE**  |
+| second  | **PORTER**  |
+| third  | **REP** |
+| fourth  | **GROCERY**  |
+| fifth  | **EMOTIONAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (60.0%)
+![image](assets/2022-05-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Lads, how are you all feeling about the Fifa game news? 😬 |
+|@SteveHofstetter Tammy Duckworth and Katie Porter. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **RobinMg10**  |
+| The most retweeted user is: **teandoranges**  |
 | ------------- |
-| RT @valyeeet: men be at house parties saying "this song was on fifa" |
+| RT @sarahnferris: NEW: After Rep. Katie Porter gave emotional speech to fellow Dems about skyrocketing grocery bills, she said it felt like… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
