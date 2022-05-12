@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Katie Porter"**
+&#x1F34E; **TOPIC = "#COYG"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-11TWEETS.png)
+![image](assets/2022-05-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @stevemorris__: One data point on why it takes a member of Congress for members of Congress to get something like this: Katie Porter i… |
-| RT @ReallyAmerican1: Who else would like to someday soon see Rep. Katie Porter become Senator Katie Porter? |
-| RT @realTuckFrumper: Rep. Katie Porter Gets Emotional And Wakes Democrats Up On Grocery Prices https://t.co/VqVsslgzrp |
+| RT @Babablueh: Heavenly FATHER,                Have mercy on us. #COYG❤️ |
+| @amylou8188 Hopefully 🤞🤞 #COYG |
+| Halibut with green lip mussels, parmesan risotto, roasted cauliflower, and tobiko. Enjoy the beautiful day everyone… https://t.co/vlGeTskLto |
 
-The most popular user is: **teandoranges**
-<div class="alert alert-block alert-danger"> RT @sarahnferris: NEW: After Rep. Katie Porter gave emotional speech to fellow Dems about skyrocketing grocery bills, she said it felt like…</div>
+The most popular user is: **DannyKayTV1**
+<div class="alert alert-block alert-danger"> RT @EddieNketiah9: God’s timing!📞🙏🏾 #COYG @Arsenal https://t.co/QUqqmp0NrZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **sarahnferris** |
-| #2 Most tweeted to  | **ReallyAmerican1** |
-| #3 Most tweeted to  | **JDCocchiarella** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 1.84%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Arsenal** |
+| #2 Most tweeted to  | **GilbertoSilva** |
+| #3 Most tweeted to  | **NunoTavares** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 2.24%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **teandoranges**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KATIE**  |
-| second  | **PORTER**  |
-| third  | **REP** |
-| fourth  | **GROCERY**  |
-| fifth  | **EMOTIONAL**  |
+| first  | **COYG**  |
+| second  | **NLD**  |
+| third  | **ARSENAL** |
+| fourth  | **@ARSENAL**  |
+| fifth  | **TOTARS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (26.67%)
+![image](assets/2022-05-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@SteveHofstetter Tammy Duckworth and Katie Porter. |
+|If Arsenal win today, we are singing Champions league anthem again, after ‘🎶North London Forever 🎶’ at Emirates nex… https://t.co/L87AENLH0A |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **teandoranges**  |
+| The most retweeted user is: **DannyKayTV1**  |
 | ------------- |
-| RT @sarahnferris: NEW: After Rep. Katie Porter gave emotional speech to fellow Dems about skyrocketing grocery bills, she said it felt like… |
+| RT @EddieNketiah9: God’s timing!📞🙏🏾 #COYG @Arsenal https://t.co/QUqqmp0NrZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
