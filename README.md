@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#COYG"**
+&#x1F34E; **TOPIC = "Wakefield"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-12TWEETS.png)
+![image](assets/2022-05-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Babablueh: Heavenly FATHER,                Have mercy on us. #COYG❤️ |
-| @amylou8188 Hopefully 🤞🤞 #COYG |
-| Halibut with green lip mussels, parmesan risotto, roasted cauliflower, and tobiko. Enjoy the beautiful day everyone… https://t.co/vlGeTskLto |
+| RT @BeckettUnite: Keir Starmer is an establishment politician whose machine diktat authoritarianism is destroying the Labour Party and fail… |
+| RT @SocialistVoice: BREAKING: Wakefield Labour Party resigns in response to Blairites breaching party rules by refusing to allow local memb… |
+| RT @BeckettUnite: Keir Starmer is an establishment politician whose machine diktat authoritarianism is destroying the Labour Party and fail… |
 
-The most popular user is: **DannyKayTV1**
-<div class="alert alert-block alert-danger"> RT @EddieNketiah9: God’s timing!📞🙏🏾 #COYG @Arsenal https://t.co/QUqqmp0NrZ</div>
+The most popular user is: **bistyles28**
+<div class="alert alert-block alert-danger"> RT @HLDMedia: Harry for As It Was music video. 
+
+📸: Lloyd Wakefield https://t.co/CnfpdPiKpu</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **GilbertoSilva** |
-| #3 Most tweeted to  | **NunoTavares** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 2.24%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **UKLabour** |
+| #2 Most tweeted to  | **OwenJones84** |
+| #3 Most tweeted to  | **AaronBastani** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 1.0%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **DannyKayTV1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COYG**  |
-| second  | **NLD**  |
-| third  | **ARSENAL** |
-| fourth  | **@ARSENAL**  |
-| fifth  | **TOTARS**  |
+| first  | **WAKEFIELD**  |
+| second  | **LABOUR**  |
+| third  | **PARTY** |
+| fourth  | **EXECUTIVE**  |
+| fifth  | **STARMER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-05-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|If Arsenal win today, we are singing Champions league anthem again, after ‘🎶North London Forever 🎶’ at Emirates nex… https://t.co/L87AENLH0A |
+|RT @TobiasTaylor: Whats going on in Wakefield shouldn't be a huge surprise - but what is a real kicker is there was a time when every journ… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DannyKayTV1**  |
+| The most retweeted user is: **bistyles28**  |
 | ------------- |
-| RT @EddieNketiah9: God’s timing!📞🙏🏾 #COYG @Arsenal https://t.co/QUqqmp0NrZ |
+| RT @HLDMedia: Harry for As It Was music video. 📸: Lloyd Wakefield https://t.co/CnfpdPiKpu |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
