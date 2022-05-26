@@ -1,36 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ramos"**
+&#x1F34E; **TOPIC = "#JohnnyDeppVsAmberHeard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-25TWEETS.png)
+![image](assets/2022-05-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @StephenKing: The cable news washing machine is asking what motivated Salvador Ramos to kill all those children. The answer is simple: H… |
-| To the school &amp; murder INNOCENT CHILDREN &amp; PEOPLE. THIS IS DISTURBING &amp; DISGUSTING. Luckily law enforcement was able to gun down Ramos. |
-| RT @WSBT: Texas Gov. Abbott said the shooter posted three times on social media 30 minutes before heading to the school. He wrote the follo… |
+| RT @zars999x: So amber has openly admitted she wrote the op ed about Johnny and that’s the sole reason they’re in court. If this isn’t won… |
+| This is brutal and beautiful Camille #AmberHeardlsApsychopath #CamilleVazquez #JohnnyDeppVsAmberHeard |
+| @realamberheard let this go viral #AmberHeard #JohnnyDeppVsAmberHeard https://t.co/ga29pU93x2 |
 
-The most popular user is: **301_ramos**
-<div class="alert alert-block alert-danger"> RT @addy_celeste: My sweet mommy , I will miss you forever. 🤍🕊 https://t.co/SIxKrgX6Xi</div>
+The most popular user is: **AimFlossyRuss**
+<div class="alert alert-block alert-danger"> RT @ThatBrianFella: Oh. My. God!!!
+I have rarely screamed this loud!!
+#JusticeForJohnnyDepp 
+#JohnnyDeppVsAmberHeard https://t.co/VOnIAtXNDR</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **StephenKing** |
-| #2 Most tweeted to  | **alcarazcarlos03** |
-| #3 Most tweeted to  | **josemorgado** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 4.18%|
-| Tweeters with > 1000000 followers  | 0.4%  |
+| #1 Most tweeted to  | **tootiemalon** |
+| #2 Most tweeted to  | **FivelJackson** |
+| #3 Most tweeted to  | **MJ_Lastimosa** |
+| NewProfiles (less than 10 days) | 2.34%  |
+| Tweeters with < 10 followers  | 15.46%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **301_ramos**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAMOS**  |
-| second  | **SALVADOR**  |
-| third  | **CHILDREN** |
-| fourth  | **NEWS**  |
-| fifth  | **KILL**  |
+| first  | **"I**  |
+| second  | **HEARD**  |
+| third  | **AMBER** |
+| fourth  | **AMBER:**  |
+| fifth  | **WROTE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (93.33%)
+![image](assets/2022-05-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @emiIydiaz: i hate this is going to be the last memory i have of highschool and i hate that salvador ramos died instead of suffering eve… |
+|RT @MJ_Lastimosa: The brilliant Camille Vasquez literally tickled Miss Heard to admitting on her own words “that’s why I wrote the op-ed, c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **301_ramos**  |
+| The most retweeted user is: **AimFlossyRuss**  |
 | ------------- |
-| RT @addy_celeste: My sweet mommy , I will miss you forever. 🤍🕊 https://t.co/SIxKrgX6Xi |
+| RT @ThatBrianFella: Oh. My. God!!!I have rarely screamed this loud!!#JusticeForJohnnyDepp #JohnnyDeppVsAmberHeard https://t.co/VOnIAtXNDR |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
