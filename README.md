@@ -1,39 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#JohnnyDeppVsAmberHeard"**
+&#x1F34E; **TOPIC = "Reds"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-26TWEETS.png)
+![image](assets/2022-05-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @zars999x: So amber has openly admitted she wrote the op ed about Johnny and that’s the sole reason they’re in court. If this isn’t won… |
-| This is brutal and beautiful Camille #AmberHeardlsApsychopath #CamilleVazquez #JohnnyDeppVsAmberHeard |
-| @realamberheard let this go viral #AmberHeard #JohnnyDeppVsAmberHeard https://t.co/ga29pU93x2 |
+| RT @brfootball: Sadio Mané will leave Liverpool this summer, reports @FabrizioRomanoIn his six years with the Reds, he won it all 👏 https… |
+| Evan Longoria is here to save us from the embarrassment of being swept by the Reds. |
+| Yesssss you reds 🔴⚪️ #NFFC https://t.co/7r5kLZdp1Q |
 
-The most popular user is: **AimFlossyRuss**
-<div class="alert alert-block alert-danger"> RT @ThatBrianFella: Oh. My. God!!!
-I have rarely screamed this loud!!
-#JusticeForJohnnyDepp 
-#JohnnyDeppVsAmberHeard https://t.co/VOnIAtXNDR</div>
+The most popular user is: **MaybeNotArsenal**
+<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Sadio Mané has decided to leave Liverpool this summer 🚨🔴 #LFC 
+
+He’s ready for a new experience after many special year…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tootiemalon** |
-| #2 Most tweeted to  | **FivelJackson** |
-| #3 Most tweeted to  | **MJ_Lastimosa** |
-| NewProfiles (less than 10 days) | 2.34%  |
-| Tweeters with < 10 followers  | 15.46%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **LFC** |
+| #3 Most tweeted to  | **brfootball** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 4.02%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -42,28 +41,28 @@ I have rarely screamed this loud!!
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **"I**  |
-| second  | **HEARD**  |
-| third  | **AMBER** |
-| fourth  | **AMBER:**  |
-| fifth  | **WROTE**  |
+| first  | **REDS**  |
+| second  | **LIVERPOOL**  |
+| third  | **SADIO** |
+| fourth  | **LEAVE**  |
+| fifth  | **SUMMER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-05-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MJ_Lastimosa: The brilliant Camille Vasquez literally tickled Miss Heard to admitting on her own words “that’s why I wrote the op-ed, c… |
+|RT @LFC: Up the Reds ❤️ https://t.co/QXgEmL7iPi |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AimFlossyRuss**  |
+| The most retweeted user is: **MaybeNotArsenal**  |
 | ------------- |
-| RT @ThatBrianFella: Oh. My. God!!!I have rarely screamed this loud!!#JusticeForJohnnyDepp #JohnnyDeppVsAmberHeard https://t.co/VOnIAtXNDR |
+| RT @FabrizioRomano: Sadio Mané has decided to leave Liverpool this summer 🚨🔴 #LFC He’s ready for a new experience after many special year… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
