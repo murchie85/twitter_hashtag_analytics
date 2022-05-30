@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Reds"**
+&#x1F34E; **TOPIC = "NCAA"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-29TWEETS.png)
+![image](assets/2022-05-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @brfootball: Sadio Mané will leave Liverpool this summer, reports @FabrizioRomanoIn his six years with the Reds, he won it all 👏 https… |
-| Evan Longoria is here to save us from the embarrassment of being swept by the Reds. |
-| Yesssss you reds 🔴⚪️ #NFFC https://t.co/7r5kLZdp1Q |
+| RT @d1baseball: 𝐓𝐇𝐄 𝐂𝐎𝐑𝐀𝐋 𝐆𝐀𝐁𝐋𝐄𝐒 𝐑𝐄𝐆𝐈𝐎𝐍𝐀𝐋#RoadToOmaha x @sluggernation 1. @CanesBaseball 2. @ArizonaBaseball 3. @OleMissBSB 4. @Griff… |
+| @guccicolor So close! Click here https://t.co/YHLyyRPJye for a chance to win a free round on us @GolfNow. Be sure t… https://t.co/gI8g0OmGsT |
+| RT @jwalters1: the ncaa men’s and women’s championships should be held at the us naval academy. make it the biggest weekend of championship… |
 
-The most popular user is: **MaybeNotArsenal**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Sadio Mané has decided to leave Liverpool this summer 🚨🔴 #LFC 
-
-He’s ready for a new experience after many special year…</div>
+The most popular user is: **ncaa_h8s_ncsu**
+<div class="alert alert-block alert-danger"> RT @pitbull: Today we remember those who made the ultimate sacrifice for America #MemorialDay https://t.co/yrnGIdB2St</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **LFC** |
-| #3 Most tweeted to  | **brfootball** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 4.02%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **NCAA** |
+| #2 Most tweeted to  | **BarstoolPack** |
+| #3 Most tweeted to  | **golfnow** |
+| NewProfiles (less than 10 days) | 1.08%  |
+| Tweeters with < 10 followers  | 4.72%|
+| Tweeters with > 1000000 followers  | 3.34%  |
 
 
 
@@ -41,28 +39,28 @@ He’s ready for a new experience after many special year…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REDS**  |
-| second  | **LIVERPOOL**  |
-| third  | **SADIO** |
-| fourth  | **LEAVE**  |
-| fifth  | **SUMMER**  |
+| first  | **NCAA**  |
+| second  | **BASEBALL**  |
+| third  | **TOURNAMENT** |
+| fourth  | **STATE**  |
+| fifth  | **NC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-05-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LFC: Up the Reds ❤️ https://t.co/QXgEmL7iPi |
+|RT @TheAthleticMLB: What's the biggest storyline around college baseball after the NCAA regional field has been announced?An epic showdow… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MaybeNotArsenal**  |
+| The most retweeted user is: **ncaa_h8s_ncsu**  |
 | ------------- |
-| RT @FabrizioRomano: Sadio Mané has decided to leave Liverpool this summer 🚨🔴 #LFC He’s ready for a new experience after many special year… |
+| RT @pitbull: Today we remember those who made the ultimate sacrifice for America #MemorialDay https://t.co/yrnGIdB2St |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
