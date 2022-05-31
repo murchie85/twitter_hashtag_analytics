@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NCAA"**
+&#x1F34E; **TOPIC = "#BTSatTheWhiteHouse"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-05-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-05-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-05-30TWEETS.png)
+![image](assets/2022-05-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @d1baseball: 𝐓𝐇𝐄 𝐂𝐎𝐑𝐀𝐋 𝐆𝐀𝐁𝐋𝐄𝐒 𝐑𝐄𝐆𝐈𝐎𝐍𝐀𝐋#RoadToOmaha x @sluggernation 1. @CanesBaseball 2. @ArizonaBaseball 3. @OleMissBSB 4. @Griff… |
-| @guccicolor So close! Click here https://t.co/YHLyyRPJye for a chance to win a free round on us @GolfNow. Be sure t… https://t.co/gI8g0OmGsT |
-| RT @jwalters1: the ncaa men’s and women’s championships should be held at the us naval academy. make it the biggest weekend of championship… |
+| RT @oldiesbtss: YOU MADE HISTORY @BTS_twt #BTSatTheWhiteHouse https://t.co/O8HsOvYPoB |
+| RT @thetaeprint: [VIDEO] Taehyung’s speech at White House 🐯: Everyone has their own history. We hope today is one step forward to respect… |
+| BTS HWAITING !!BTS FIGHTING !!@BTS_twt #BTSatTheWhiteHouse |
 
-The most popular user is: **ncaa_h8s_ncsu**
-<div class="alert alert-block alert-danger"> RT @pitbull: Today we remember those who made the ultimate sacrifice for America #MemorialDay https://t.co/yrnGIdB2St</div>
+The most popular user is: **7everBTS**
+<div class="alert alert-block alert-danger"> RT @charts_k: .@BTS_twt speaking at the White House Briefing Room. 🇺🇸
+
+#BTSatTheWhiteHouse https://t.co/0DfCSumx3C</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NCAA** |
-| #2 Most tweeted to  | **BarstoolPack** |
-| #3 Most tweeted to  | **golfnow** |
-| NewProfiles (less than 10 days) | 1.08%  |
-| Tweeters with < 10 followers  | 4.72%|
-| Tweeters with > 1000000 followers  | 3.34%  |
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **charts_k** |
+| #3 Most tweeted to  | **btsbaragi_jk** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 7.94%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ncaa_h8s_ncsu**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NCAA**  |
-| second  | **BASEBALL**  |
-| third  | **TOURNAMENT** |
-| fourth  | **STATE**  |
-| fifth  | **NC**  |
+| first  | **BTSATTHEWHITEHOUSE**  |
+| second  | **PROUD**  |
+| third  | **BTS** |
+| fourth  | **@BTS_TWT**  |
+| fifth  | **WHITE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-05-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-05-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-05-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-05-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheAthleticMLB: What's the biggest storyline around college baseball after the NCAA regional field has been announced?An epic showdow… |
+|RT @levijjk: TENEMOS QUE SER TENDENCIA,COMENTEN LOS MESES Y EL FANCHAT ‼WE ARE PROUD OF YOU BTS#BTSatTheWhiteHouse@BTS_twt |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ncaa_h8s_ncsu**  |
+| The most retweeted user is: **7everBTS**  |
 | ------------- |
-| RT @pitbull: Today we remember those who made the ultimate sacrifice for America #MemorialDay https://t.co/yrnGIdB2St |
+| RT @charts_k: .@BTS_twt speaking at the White House Briefing Room. 🇺🇸#BTSatTheWhiteHouse https://t.co/0DfCSumx3C |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
