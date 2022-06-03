@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Blackpool"**
+&#x1F34E; **TOPIC = "Prince Harry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-02TWEETS.png)
+![image](assets/2022-06-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @neiljonesgoal: Neil Critchley leaves Blackpool to become Steven Gerrard's assistant head coach at Aston Villa.#LFC 🔴 |
-| #TRUECRIMEDIARY#IRWINMITCHELL #SOLICITORS in tandem with #BEGBIESTRAYNOR GROUP PLC have perverted #Blackpool… https://t.co/IFDHUqPNaM |
-| RT @Darkveilpara1: J S Balmer 31st May Today marks the birthday (1831) of Methodist Minister, Reverend James Balmer. A strong advocate fo… |
+| @h_desires Prince Harry... The only royal wearing medals that's actually earned them... Just saying 😏 |
+| Prince Harry and Meghan Markle Make First Public Appearance in U.K. Since 2020 https://t.co/01miZ1a14s |
+| RT @Anna__with_an_A: I don’t know what Prince Harry has said to Jack Brooksbank but he is tickled pink, literally 😂😂 #HarryandMeghan https:… |
 
-The most popular user is: **Blackpool_South**
-<div class="alert alert-block alert-danger"> RT @RoyalFamily: Her Majesty The Queen, the first Monarch in British history to celebrate a Platinum Jubilee.
-
-To mark the beginning of the…</div>
+The most popular user is: **askmewhoisjohan**
+<div class="alert alert-block alert-danger"> RT @nytimes: Prince Harry and his wife, Meghan, walked hand-in-hand into St. Paul’s Cathedral, drawing loud cheers from the crowd outside a…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Fightful** |
-| #2 Most tweeted to  | **BlackpoolFC** |
-| #3 Most tweeted to  | **visitBlackpool** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 2.78%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **nytimes** |
+| #2 Most tweeted to  | **Ronahihasan** |
+| #3 Most tweeted to  | **ABC** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 5.32%|
+| Tweeters with > 1000000 followers  | 0.62%  |
 
 
 
@@ -41,28 +39,28 @@ To mark the beginning of the…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BLACKPOOL**  |
-| second  | **CRITCHLEY**  |
-| third  | **CLUB** |
-| fourth  | **NEIL**  |
-| fifth  | **COMBAT**  |
+| first  | **HARRY**  |
+| second  | **PRINCE**  |
+| third  | **MEGHAN** |
+| fourth  | **ST**  |
+| fifth  | **SERVICE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-02BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+![image](assets/2022-06-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BlueToffee16 I've just had to tell someone that i can't make it on a trip to Blackpool as i really can't afford it… https://t.co/0TFCde7Is2 |
+|RT @JordonLee: Prince Harry and Meghan, Duke and Duchess of Sussex, arrive at St Paul’s Cathedral to huge cheers from the crowds outside… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Blackpool_South**  |
+| The most retweeted user is: **askmewhoisjohan**  |
 | ------------- |
-| RT @RoyalFamily: Her Majesty The Queen, the first Monarch in British history to celebrate a Platinum Jubilee.To mark the beginning of the… |
+| RT @nytimes: Prince Harry and his wife, Meghan, walked hand-in-hand into St. Paul’s Cathedral, drawing loud cheers from the crowd outside a… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
