@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Prince Harry"**
+&#x1F34E; **TOPIC = "#BSidesSF"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-03TWEETS.png)
+![image](assets/2022-06-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @h_desires Prince Harry... The only royal wearing medals that's actually earned them... Just saying 😏 |
-| Prince Harry and Meghan Markle Make First Public Appearance in U.K. Since 2020 https://t.co/01miZ1a14s |
-| RT @Anna__with_an_A: I don’t know what Prince Harry has said to Jack Brooksbank but he is tickled pink, literally 😂😂 #HarryandMeghan https:… |
+| RT @shewfig: Dropping truth about #Mentalhealth at #BSidesSF |
+| They'll all be part of my talk at @BSidesSF this year! I go on Sunday at 3:30 PM PT! #BSidesSF #bsidessf2022  https://t.co/1bPDfdbuak |
+| We'll be onsite at @BSidesSF &amp; @RSAConference starting this weekend!Join us at #BSidesSF June 4th-5th, 9am-5pm PT… https://t.co/YZ67l57OmT |
 
-The most popular user is: **askmewhoisjohan**
-<div class="alert alert-block alert-danger"> RT @nytimes: Prince Harry and his wife, Meghan, walked hand-in-hand into St. Paul’s Cathedral, drawing loud cheers from the crowd outside a…</div>
+The most popular user is: **MarcoErmini**
+<div class="alert alert-block alert-danger"> RT @ElleArmageddon: Particularly relevant for those of you planning on coming to SF for #BSidesSF/#RSAC next weekend/next week:</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nytimes** |
-| #2 Most tweeted to  | **Ronahihasan** |
-| #3 Most tweeted to  | **ABC** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 5.32%|
-| Tweeters with > 1000000 followers  | 0.62%  |
+| #1 Most tweeted to  | **BSidesSF** |
+| #2 Most tweeted to  | **ElleArmageddon** |
+| #3 Most tweeted to  | **jbowocky** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 1.66%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **askmewhoisjohan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HARRY**  |
-| second  | **PRINCE**  |
-| third  | **MEGHAN** |
-| fourth  | **ST**  |
-| fifth  | **SERVICE**  |
+| first  | **BSIDESSF**  |
+| second  | **NEXT**  |
+| third  | **@BSIDESSF** |
+| fourth  | **SECURITY**  |
+| fifth  | **COMING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (33.33%)
+![image](assets/2022-06-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JordonLee: Prince Harry and Meghan, Duke and Duchess of Sussex, arrive at St Paul’s Cathedral to huge cheers from the crowds outside… |
+|RT @BSidesSF: Tomorrow is the day! #BSidesSF 2022 We can’t wait to see everyone for a weekend filled with education, community, and collabo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **askmewhoisjohan**  |
+| The most retweeted user is: **MarcoErmini**  |
 | ------------- |
-| RT @nytimes: Prince Harry and his wife, Meghan, walked hand-in-hand into St. Paul’s Cathedral, drawing loud cheers from the crowd outside a… |
+| RT @ElleArmageddon: Particularly relevant for those of you planning on coming to SF for #BSidesSF/#RSAC next weekend/next week: |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
