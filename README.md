@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BSidesSF"**
+&#x1F34E; **TOPIC = "Ohio"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-04TWEETS.png)
+![image](assets/2022-06-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @shewfig: Dropping truth about #Mentalhealth at #BSidesSF |
-| They'll all be part of my talk at @BSidesSF this year! I go on Sunday at 3:30 PM PT! #BSidesSF #bsidessf2022  https://t.co/1bPDfdbuak |
-| We'll be onsite at @BSidesSF &amp; @RSAConference starting this weekend!Join us at #BSidesSF June 4th-5th, 9am-5pm PT… https://t.co/YZ67l57OmT |
+| RT @FordFischer: An ex-police chief in Ohio has been sentenced to 3 years PROBATION, 6 months home confinement and no prison for fraudulent… |
+| RT @polevaultpower: This is my daughter. She just turned 9. Here is why I would never allow her to play middle or high school sports if w… |
+| RT @jonlovett: Genital inspections of children, brought to you by Ohio Republicans. This is the intrusive, extreme, anti-freedom, anti-fa… |
 
-The most popular user is: **MarcoErmini**
-<div class="alert alert-block alert-danger"> RT @ElleArmageddon: Particularly relevant for those of you planning on coming to SF for #BSidesSF/#RSAC next weekend/next week:</div>
+The most popular user is: **right4evah**
+<div class="alert alert-block alert-danger"> RT @billmaher: If this spike in trans children is all biological, why is it regional? Either Ohio is shaming them or California is creating…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BSidesSF** |
-| #2 Most tweeted to  | **ElleArmageddon** |
-| #3 Most tweeted to  | **jbowocky** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 1.66%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **polevaultpower** |
+| #2 Most tweeted to  | **JDCocchiarella** |
+| #3 Most tweeted to  | **TimRyan** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 2.78%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MarcoErmini**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BSIDESSF**  |
-| second  | **NEXT**  |
-| third  | **@BSIDESSF** |
-| fourth  | **SECURITY**  |
-| fifth  | **COMING**  |
+| first  | **SPORTS**  |
+| second  | **@POLEVAULTPOWER:**  |
+| third  | **SCHOOL** |
+| fourth  | **OHIO**  |
+| fifth  | **PLAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2022-06-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BSidesSF: Tomorrow is the day! #BSidesSF 2022 We can’t wait to see everyone for a weekend filled with education, community, and collabo… |
+|RT @smc429: Sick f*ucks in Ohio checking private parts? GOP have gone too f*ucking far. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MarcoErmini**  |
+| The most retweeted user is: **right4evah**  |
 | ------------- |
-| RT @ElleArmageddon: Particularly relevant for those of you planning on coming to SF for #BSidesSF/#RSAC next weekend/next week: |
+| RT @billmaher: If this spike in trans children is all biological, why is it regional? Either Ohio is shaming them or California is creating… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
