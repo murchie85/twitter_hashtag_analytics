@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RSAC"**
+&#x1F34E; **TOPIC = "Matthew McConaughey"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-06TWEETS.png)
+![image](assets/2022-06-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @cyberdefensemag Publisher @miliefsky Sharing an important story about Alert Fatigue #CDM #EXCLUSIVE… https://t.co/X79gKtjP9t |
-| RT @FBI: Join Ryan Frampton, a computer scientist with @FBITampa, at #RSAC 2022. He'll discuss the NetWalker case—the largest-ever #ransomw… |
-| RT @FBI: If you attend #RSAC 2022, visit the #FBI at booth 3332 to learn how we combat #cyber threats, and impose risk and consequences on… |
+| RT @OccupyDemocrats: BREAKING: Actor Matthew McConaughey gives a moving White House press briefing calling for gun reform and displays the… |
+| RT @Leslieoo7: This Matthew McConaughey speech is gutting me. It's supposed to, but will it move those who can do something more than tweet… |
+| RT @ComicDaveSmith: Progressives are at their most comfortable when they can worship celebrities as gods. This is the response that you’re… |
 
-The most popular user is: **SimonBIM**
-<div class="alert alert-block alert-danger"> RT @NSAGov: Looking to #recharge? Stop by and #plugin at our #phonecharging station. #NSA Booth 1753 #RSAC https://t.co/fmmCB5JZyF</div>
+The most popular user is: **psr_6589**
+<div class="alert alert-block alert-danger"> RT @CalltoActivism: BREAKING: Actor Matthew McConaughey, who grew up in Uvalde, Texas, DEMANDS “gun responsibility” including  background c…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RSAConference** |
-| #2 Most tweeted to  | **vmblog** |
-| #3 Most tweeted to  | **FBI** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 6.94%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **CBSNews** |
+| #2 Most tweeted to  | **nowthisnews** |
+| #3 Most tweeted to  | **therecount** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 1.9%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SimonBIM**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RSAC**  |
-| second  | **@RSACONFERENCE**  |
-| third  | **BOOTH** |
-| fourth  | **2022**  |
-| fifth  | **US**  |
+| first  | **MATTHEW**  |
+| second  | **MCCONAUGHEY**  |
+| third  | **WHITE** |
+| fourth  | **UVALDE**  |
+| fifth  | **HOUSE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-06sentiment.png)
+![image](assets/2022-06-07sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @fortanix: 4 Days to go!The 2022 #RSA Security Conference in San Francisco promises to be epic, and @fortanix will be there at Booth 58… |
+|RT @TitusNation: Matthew McConaughey at the White House, born in Uvalde. Putting himself out there. Nice. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SimonBIM**  |
+| The most retweeted user is: **psr_6589**  |
 | ------------- |
-| RT @NSAGov: Looking to #recharge? Stop by and #plugin at our #phonecharging station. #NSA Booth 1753 #RSAC https://t.co/fmmCB5JZyF |
+| RT @CalltoActivism: BREAKING: Actor Matthew McConaughey, who grew up in Uvalde, Texas, DEMANDS “gun responsibility” including  background c… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
