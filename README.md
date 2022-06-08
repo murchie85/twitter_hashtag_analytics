@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Matthew McConaughey"**
+&#x1F34E; **TOPIC = "Americas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-07TWEETS.png)
+![image](assets/2022-06-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OccupyDemocrats: BREAKING: Actor Matthew McConaughey gives a moving White House press briefing calling for gun reform and displays the… |
-| RT @Leslieoo7: This Matthew McConaughey speech is gutting me. It's supposed to, but will it move those who can do something more than tweet… |
-| RT @ComicDaveSmith: Progressives are at their most comfortable when they can worship celebrities as gods. This is the response that you’re… |
+| RT @CITClassroom: From @TND: Elementary school used COVID funds to teach about preferred pronouns and BLM, per reporthttps://t.co/AmS3ZowG… |
+| 👉👓 Analysis: L.A. Summit offers Canada a Chance to Boost its Global InfluenceBy David Akin  Global Newshttps://t.co/N05TyMw73U |
+| RT @thehill: "Failures in Tennessee and Oklahoma offer new evidence of America’s execution problems" (@TheHillOpinion) https://t.co/1Z9EqqG… |
 
-The most popular user is: **psr_6589**
-<div class="alert alert-block alert-danger"> RT @CalltoActivism: BREAKING: Actor Matthew McConaughey, who grew up in Uvalde, Texas, DEMANDS “gun responsibility” including  background c…</div>
+The most popular user is: **marclesi1**
+<div class="alert alert-block alert-danger"> RT @BTnewsroom: A @pslweb activist disrupts OAS chief Luis Almagro at a Summit of the Americas event, calling out his role in the 2019 Boli…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CBSNews** |
-| #2 Most tweeted to  | **nowthisnews** |
-| #3 Most tweeted to  | **therecount** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 1.9%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **BTnewsroom** |
+| #2 Most tweeted to  | **pslweb** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.86%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **psr_6589**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MATTHEW**  |
-| second  | **MCCONAUGHEY**  |
-| third  | **WHITE** |
-| fourth  | **UVALDE**  |
-| fifth  | **HOUSE**  |
+| first  | **AMERICAS**  |
+| second  | **SUMMIT**  |
+| third  | **EVENT** |
+| fourth  | **@BTNEWSROOM:**  |
+| fifth  | **OAS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-06-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TitusNation: Matthew McConaughey at the White House, born in Uvalde. Putting himself out there. Nice. |
+|Spo(Sao paulo)ABOARD AIR FORCE ONE (Reuters)Climate will be an "important topic of discussion" between the United S… https://t.co/0lIGF15JtA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **psr_6589**  |
+| The most retweeted user is: **marclesi1**  |
 | ------------- |
-| RT @CalltoActivism: BREAKING: Actor Matthew McConaughey, who grew up in Uvalde, Texas, DEMANDS “gun responsibility” including  background c… |
+| RT @BTnewsroom: A @pslweb activist disrupts OAS chief Luis Almagro at a Summit of the Americas event, calling out his role in the 2019 Boli… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
