@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Americas"**
+&#x1F34E; **TOPIC = "Jurassic World"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-08TWEETS.png)
+![image](assets/2022-06-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CITClassroom: From @TND: Elementary school used COVID funds to teach about preferred pronouns and BLM, per reporthttps://t.co/AmS3ZowG… |
-| 👉👓 Analysis: L.A. Summit offers Canada a Chance to Boost its Global InfluenceBy David Akin  Global Newshttps://t.co/N05TyMw73U |
-| RT @thehill: "Failures in Tennessee and Oklahoma offer new evidence of America’s execution problems" (@TheHillOpinion) https://t.co/1Z9EqqG… |
+| RT @2gay2lift: The new Jurassic World is so far in the lead for the worst BO I've smelled in an audience. |
+| Watched jurassic world dominion and all i wanna say is:Chris Pratt&gt;&gt;&gt;😭🔥 |
+| RT @TheToyInsider: Q4: The secrets of BioSyn Laboratory may be revealed in #JurassicWorldDominion, but what color is the BioSyn Lab Slime t… |
 
-The most popular user is: **marclesi1**
-<div class="alert alert-block alert-danger"> RT @BTnewsroom: A @pslweb activist disrupts OAS chief Luis Almagro at a Summit of the Americas event, calling out his role in the 2019 Boli…</div>
+The most popular user is: **Fun_World_Rocks**
+<div class="alert alert-block alert-danger"> RT @OriginalFunko: RT and follow @OriginalFunko for the chance to win the @Target exclusive Jurassic Park - John Hammond with Gates POP! To…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTnewsroom** |
-| #2 Most tweeted to  | **pslweb** |
-| #3 Most tweeted to  | **POTUS** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.86%  |
+| #1 Most tweeted to  | **TheToyInsider** |
+| #2 Most tweeted to  | **JennyENicholson** |
+| #3 Most tweeted to  | **UniversalORL** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 3.86%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **marclesi1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AMERICAS**  |
-| second  | **SUMMIT**  |
-| third  | **EVENT** |
-| fourth  | **@BTNEWSROOM:**  |
-| fifth  | **OAS**  |
+| first  | **JURASSIC**  |
+| second  | **WORLD**  |
+| third  | **DOMINION** |
+| fourth  | **WORLD:**  |
+| fifth  | **JURASSICWORLDDOMINION**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/2022-06-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Spo(Sao paulo)ABOARD AIR FORCE ONE (Reuters)Climate will be an "important topic of discussion" between the United S… https://t.co/0lIGF15JtA |
+|I want to see Jurassic World. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **marclesi1**  |
+| The most retweeted user is: **Fun_World_Rocks**  |
 | ------------- |
-| RT @BTnewsroom: A @pslweb activist disrupts OAS chief Luis Almagro at a Summit of the Americas event, calling out his role in the 2019 Boli… |
+| RT @OriginalFunko: RT and follow @OriginalFunko for the chance to win the @Target exclusive Jurassic Park - John Hammond with Gates POP! To… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
