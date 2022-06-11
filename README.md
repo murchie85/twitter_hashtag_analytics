@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jurassic World"**
+&#x1F34E; **TOPIC = "Vettel"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-10TWEETS.png)
+![image](assets/2022-06-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @2gay2lift: The new Jurassic World is so far in the lead for the worst BO I've smelled in an audience. |
-| Watched jurassic world dominion and all i wanna say is:Chris Pratt&gt;&gt;&gt;😭🔥 |
-| RT @TheToyInsider: Q4: The secrets of BioSyn Laboratory may be revealed in #JurassicWorldDominion, but what color is the BioSyn Lab Slime t… |
+| RT @MattyWTF1: What an unbelievable qualifying Sebastian Vettel is having 👏 |
+| @BatteryVoltas And now Vettel |
+| RT @brawngpf1team: Who is the best Red Bull Driver ever?RT for Sebastian VettelLike for Sir Max Verstappen https://t.co/V5DIm4iYmL |
 
-The most popular user is: **Fun_World_Rocks**
-<div class="alert alert-block alert-danger"> RT @OriginalFunko: RT and follow @OriginalFunko for the chance to win the @Target exclusive Jurassic Park - John Hammond with Gates POP! To…</div>
+The most popular user is: **HAMVETRAI**
+<div class="alert alert-block alert-danger"> RT @ScuderiaFerrari: Official: Sebastian Vettel is a @ScuderiaFerrari driver! 
+2015 line-up together with Kimi Raikkonen! #WelcomeSeb</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheToyInsider** |
-| #2 Most tweeted to  | **JennyENicholson** |
-| #3 Most tweeted to  | **UniversalORL** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 3.86%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **F1** |
+| #2 Most tweeted to  | **Vettel_AMR** |
+| #3 Most tweeted to  | **rIane890** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 6.48%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **Fun_World_Rocks**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JURASSIC**  |
-| second  | **WORLD**  |
-| third  | **DOMINION** |
-| fourth  | **WORLD:**  |
-| fifth  | **JURASSICWORLDDOMINION**  |
+| first  | **VETTEL**  |
+| second  | **🏁**  |
+| third  | **SEBASTIAN** |
+| fourth  | **F1**  |
+| fifth  | **TOP**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/2022-06-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|I want to see Jurassic World. |
+|@RealFerasA @SkySportsF1 He brings pr back? He’s literally talking about safety of the cars/drivers? Did you not se… https://t.co/k6QMfbLO6d |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Fun_World_Rocks**  |
+| The most retweeted user is: **HAMVETRAI**  |
 | ------------- |
-| RT @OriginalFunko: RT and follow @OriginalFunko for the chance to win the @Target exclusive Jurassic Park - John Hammond with Gates POP! To… |
+| RT @ScuderiaFerrari: Official: Sebastian Vettel is a @ScuderiaFerrari driver! 2015 line-up together with Kimi Raikkonen! #WelcomeSeb |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
