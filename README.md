@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Vettel"**
+&#x1F34E; **TOPIC = "Patriot Front"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-11TWEETS.png)
+![image](assets/2022-06-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MattyWTF1: What an unbelievable qualifying Sebastian Vettel is having 👏 |
-| @BatteryVoltas And now Vettel |
-| RT @brawngpf1team: Who is the best Red Bull Driver ever?RT for Sebastian VettelLike for Sir Max Verstappen https://t.co/V5DIm4iYmL |
+| RT @Phil_Lewis_: Dozens of masked members of the white supremacist group Patriot Front were arrested as they prepared to stage a riot near… |
+| @MuellerSheWrote Where do the protesters violating US Code 18, Subsection 1503 in front of SCOTUS Justices’ residen… https://t.co/FOq16pG3Fb |
+| RT @MackLamoureux: Dozens of Patriot Front members crammed themselves into a U-Haul and headed towards Idaho pride festival. They didn't ge… |
 
-The most popular user is: **HAMVETRAI**
-<div class="alert alert-block alert-danger"> RT @ScuderiaFerrari: Official: Sebastian Vettel is a @ScuderiaFerrari driver! 
-2015 line-up together with Kimi Raikkonen! #WelcomeSeb</div>
+The most popular user is: **Mal2Fresh**
+<div class="alert alert-block alert-danger"> RT @AlissaAzar: holy shit. patriot front detained https://t.co/uIIZeXn6Ci</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **F1** |
-| #2 Most tweeted to  | **Vettel_AMR** |
-| #3 Most tweeted to  | **rIane890** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 6.48%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **MichaelEHayden** |
+| #2 Most tweeted to  | **aleximenez** |
+| #3 Most tweeted to  | **AlissaAzar** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.64%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **HAMVETRAI**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VETTEL**  |
-| second  | **🏁**  |
-| third  | **SEBASTIAN** |
-| fourth  | **F1**  |
-| fifth  | **TOP**  |
+| first  | **PATRIOT**  |
+| second  | **FRONT**  |
+| third  | **ARRESTED** |
+| fourth  | **31**  |
+| fifth  | **IDAHO**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-06-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@RealFerasA @SkySportsF1 He brings pr back? He’s literally talking about safety of the cars/drivers? Did you not se… https://t.co/k6QMfbLO6d |
+|RT @ImSpeaking13: 31 members of the white nationalist group Patriot Front were arrested in Idaho on their way to a local PRIDE parade. Why?… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **HAMVETRAI**  |
+| The most retweeted user is: **Mal2Fresh**  |
 | ------------- |
-| RT @ScuderiaFerrari: Official: Sebastian Vettel is a @ScuderiaFerrari driver! 2015 line-up together with Kimi Raikkonen! #WelcomeSeb |
+| RT @AlissaAzar: holy shit. patriot front detained https://t.co/uIIZeXn6Ci |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
