@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Lightyear"**
+&#x1F34E; **TOPIC = "The Fed"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-13TWEETS.png)
+![image](assets/2022-06-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Monday = movie day! Ready for the U.K. premiere of @pixarslightyear! 😀PS: To the PR of @disney_uk or @pixar, if you… https://t.co/3XheIou4Pr |
-| RT @CoyJandreau: Surreal.Brief chat with a fellow Boston Boy.#ChrisEvans #Lightyear https://t.co/r08CQTtYOi |
-| RT @Pixar: Chris Evans (@ChrisEvans), voice of #Lightyear, made a special appearance yesterday at Disney California Adventure Park! Check o… |
+| Fed Meeting Live Updates: Interest Rates Raised 0.75 Percentage Point - The Wall Street Journal https://t.co/Lc0E1kTHE1 via @GoogleNews |
+| @cadeharkins86 @zerohedge Watch the bond market...If the Fed can dump those MBS bonds then all good... If not, well, who knows anymore.. |
+| RT @Financialjuice1: FED'S POWELL: THIS CONTINUES THE APPROACH OF EXPEDITIOUSLY RAISING RATES. |
 
-The most popular user is: **mvltifxndomaf**
-<div class="alert alert-block alert-danger"> RT @DisneyParks: Chris Evans (@ChrisEvans), voice of #Lightyear, made a special appearance today at Disney California Adventure! Check out…</div>
+The most popular user is: **Astulious**
+<div class="alert alert-block alert-danger"> RT @Rainmaker1973: Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, the…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ChrisEvans** |
-| #2 Most tweeted to  | **PixarsLightyear** |
-| #3 Most tweeted to  | **Pixar** |
+| #1 Most tweeted to  | **zerohedge** |
+| #2 Most tweeted to  | **business** |
+| #3 Most tweeted to  | **PeterSchiff** |
 | NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.74%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| Tweeters with < 10 followers  | 4.56%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mvltifxndomaf**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIGHTYEAR**  |
-| second  | **CHRIS**  |
-| third  | **EVANS** |
-| fourth  | **DISNEY**  |
-| fifth  | **PREMIERE**  |
+| first  | **FED**  |
+| second  | **RATES**  |
+| third  | **RATE** |
+| fourth  | **INTEREST**  |
+| fifth  | **INFLATION**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-06-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiscussingFilm: #Lightyear has been banned in Saudi Arabia, the U.A.E. and Kuwait due to the inclusion of a same sex kiss (Source: ht… |
+|Powell says the Fed could hike rates by 0.75 percentage point again in July https://t.co/KhahYys1aC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mvltifxndomaf**  |
+| The most retweeted user is: **Astulious**  |
 | ------------- |
-| RT @DisneyParks: Chris Evans (@ChrisEvans), voice of #Lightyear, made a special appearance today at Disney California Adventure! Check out… |
+| RT @Rainmaker1973: Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, the… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
