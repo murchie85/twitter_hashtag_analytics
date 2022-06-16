@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "The Fed"**
+&#x1F34E; **TOPIC = "Chewy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-15TWEETS.png)
+![image](assets/2022-06-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Fed Meeting Live Updates: Interest Rates Raised 0.75 Percentage Point - The Wall Street Journal https://t.co/Lc0E1kTHE1 via @GoogleNews |
-| @cadeharkins86 @zerohedge Watch the bond market...If the Fed can dump those MBS bonds then all good... If not, well, who knows anymore.. |
-| RT @Financialjuice1: FED'S POWELL: THIS CONTINUES THE APPROACH OF EXPEDITIOUSLY RAISING RATES. |
+| RT @alcesanna: I contacted @Chewy last week to see if I could return an unopened bag of my dog’s food after he died. They 1) gave me a full… |
+| RT @AdamJones131: Not sure if this should be a @Chewy commercial or @FedEx commercial, but Luna was very happy to see you today. https://t.… |
+| RT @alcesanna: I contacted @Chewy last week to see if I could return an unopened bag of my dog’s food after he died. They 1) gave me a full… |
 
-The most popular user is: **Astulious**
-<div class="alert alert-block alert-danger"> RT @Rainmaker1973: Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, the…</div>
+The most popular user is: **chewy_ibar23**
+<div class="alert alert-block alert-danger"> RT @wesalmohamedd: Seing your friends achieve things they have spoken about 🦋🦋🦋🦋🦋🦋</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **zerohedge** |
-| #2 Most tweeted to  | **business** |
-| #3 Most tweeted to  | **PeterSchiff** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 4.56%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **Chewy** |
+| #2 Most tweeted to  | **alcesanna** |
+| #3 Most tweeted to  | **jgmonte922** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 3.0%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Astulious**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FED**  |
-| second  | **RATES**  |
-| third  | **RATE** |
-| fourth  | **INTEREST**  |
-| fifth  | **INFLATION**  |
+| first  | **@CHEWY**  |
+| second  | **FOOD**  |
+| third  | **DIED** |
+| fourth  | **LAST**  |
+| fifth  | **AFTER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-06-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Powell says the Fed could hike rates by 0.75 percentage point again in July https://t.co/KhahYys1aC |
+|RT @alcesanna: I contacted @Chewy last week to see if I could return an unopened bag of my dog’s food after he died. They 1) gave me a full… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Astulious**  |
+| The most retweeted user is: **chewy_ibar23**  |
 | ------------- |
-| RT @Rainmaker1973: Crested mynas, as many other birds, are born altricially, which means young are underdeveloped at the time of birth, the… |
+| RT @wesalmohamedd: Seing your friends achieve things they have spoken about 🦋🦋🦋🦋🦋🦋 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
