@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Galveston"**
+&#x1F34E; **TOPIC = "Murray"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-19TWEETS.png)
+![image](assets/2022-06-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BetoORourke: The lesson I take from Opal Lee and from those I had the chance to listen to in Galveston — the birthplace of Juneteenth —… |
-| RT @RepKatiePorter: Today, we commemorate #Juneteenth: the day the Union Army marched to Galveston, TX and freed Black Americans who were i… |
-| 156 yrs ago Union soldiers rode into Galveston, TX to deliver the news that all enslaved Black people were legally… https://t.co/HsVC2Gas8Y |
+| RT @scotlibdems: Susan Murray is our candidate to be East Dunbartonshire's next MP.The SNP have been awful for Scotland. Meanwhile the Co… |
+| RT @danielvallverdu: A few slam 🏆’s and myself.Today was a good day!@stanwawrinka @andy_murray #Ivan@Wimbledon https://t.co/qlTYtyRfCz |
+| RT @HighlyClutch: ICYMI: It was not a good weekend for Grayson Murray. https://t.co/YRdi0Dp9pQ |
 
-The most popular user is: **ybfloresca**
-<div class="alert alert-block alert-danger"> RT @BarackObama: Juneteenth is a time to commemorate the anniversary of the delayed news of freedom reaching the enslaved Black folks in Ga…</div>
+The most popular user is: **mimisterrr_**
+<div class="alert alert-block alert-danger"> RT @RobertIrwin: Dad and me feeding Murray... same place, same croc - two photos 15 years apart ❤️🐊 https://t.co/9Ybp5AnTOI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarackObama** |
-| #2 Most tweeted to  | **BetoORourke** |
-| #3 Most tweeted to  | **RepKatiePorter** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 2.48%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **bylerDNI** |
+| #2 Most tweeted to  | **byIerism** |
+| #3 Most tweeted to  | **BLKAmericans_** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 6.64%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ybfloresca**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JUNETEENTH**  |
-| second  | **GALVESTON**  |
-| third  | **ENSLAVED** |
-| fourth  | **BLACK**  |
-| fifth  | **FREEDOM**  |
+| first  | **MURRAY**  |
+| second  | **DAY**  |
+| third  | **PUT** |
+| fourth  | **ROOM**  |
+| fifth  | **ITS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-06-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @4PFmusic: Today we celebrate FREEDOM on the anniversary of the emancipation of the country's last enslaved African Americans in Galvest… |
+|(1/2) We are #Shadproud of #Shad2004 Robynne Murray and her team's award-winning thermoplastic resin that can be us… https://t.co/WzML44idgt |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ybfloresca**  |
+| The most retweeted user is: **mimisterrr_**  |
 | ------------- |
-| RT @BarackObama: Juneteenth is a time to commemorate the anniversary of the delayed news of freedom reaching the enslaved Black folks in Ga… |
+| RT @RobertIrwin: Dad and me feeding Murray... same place, same croc - two photos 15 years apart ❤️🐊 https://t.co/9Ybp5AnTOI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
