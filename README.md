@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#twitterclarets"**
+&#x1F34E; **TOPIC = "#SeesCandies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-23TWEETS.png)
+![image](assets/2022-06-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ClaretXtra: 🚨🗞| Burnley are absolutely determined to not let Nathan Collins leave the club this summer.[Credit - @adjones_journo]#T… |
-| “Possession with impact,” is how Kompany described his style to Rio Ferdinand’s Five podcast last year. “I include… https://t.co/7cSXFgcorC |
-| Michael Duff is the new Barnsley manager #BurnleyFC #Clarets #BFC #twitterclarets | Up The Clarets https://t.co/JJAc1NCvwX |
+| @seescandies Scotchmallows! #SeesCandies #CandyConversation |
+| @seescandies Peanut brittle! #seescandies #candyconversation |
+| @seescandies It’s the peanut brittle for me!  The sweet and salty combo is satisfaction. Don’t worry, I’ll share!… https://t.co/AV1Tm811E4 |
 
-The most popular user is: **og_numbnuts**
-<div class="alert alert-block alert-danger"> RT @David_Ornstein: 🚨 Newcastle understood to have agreed fee in principle with Burnley for Nick Pope. 30yo England int’l GK now set to und…</div>
+The most popular user is: **Derekmommy2012**
+<div class="alert alert-block alert-danger"> RT @seescandies: It's #TwitterParty time 🎉 Join now through 11:30am PT for a chance to win!
+Tell us: what See’s product would you bring to…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **David_Ornstein** |
-| #2 Most tweeted to  | **TheFLZone** |
-| #3 Most tweeted to  | **ClaretXtra** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 2.58%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **seescandies** |
+| #2 Most tweeted to  | **naturesweb1** |
+| #3 Most tweeted to  | **tinkerbaby5574** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 8.11%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **og_numbnuts**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TWITTERCLARETS**  |
-| second  | **BURNLEY**  |
-| third  | **POPE** |
-| fourth  | **KOMPANY**  |
-| fifth  | **NICK**  |
+| first  | **SEESCANDIES**  |
+| second  | **CANDYCONVERSATION@SEESCANDIES**  |
+| third  | **BRING** |
+| fourth  | **CANDYCONVERSATION**  |
+| fifth  | **🎉**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-06-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @boote2012: Wout Weghorst PL Highlights 2022 #twitterclarets https://t.co/0LpYUJ1Vm5 |
+|@seescandies Almond crunch, two of my favorites together. #SeesCandies #CandyConversation |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **og_numbnuts**  |
+| The most retweeted user is: **Derekmommy2012**  |
 | ------------- |
-| RT @David_Ornstein: 🚨 Newcastle understood to have agreed fee in principle with Burnley for Nick Pope. 30yo England int’l GK now set to und… |
+| RT @seescandies: It's #TwitterParty time 🎉 Join now through 11:30am PT for a chance to win!Tell us: what See’s product would you bring to… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
