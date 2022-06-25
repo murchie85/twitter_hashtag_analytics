@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#SeesCandies"**
+&#x1F34E; **TOPIC = "Olivia Rodrigo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-24TWEETS.png)
+![image](assets/2022-06-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @seescandies Scotchmallows! #SeesCandies #CandyConversation |
-| @seescandies Peanut brittle! #seescandies #candyconversation |
-| @seescandies It’s the peanut brittle for me!  The sweet and salty combo is satisfaction. Don’t worry, I’ll share!… https://t.co/AV1Tm811E4 |
+| RT @PopCrave: “This song goes out to the justices: Samuel Alito, Clarence Thomas, Neil Gorsuch, Amy Coney Barrett, and Brett Kavanaugh. We… |
+| RT @adoresliv: “This song [Fuck You by Lily Allen] goes out to the justices: Samuel Alito, Clarence Thomas, Neil Gorsuch, Amy Coney Barrett… |
+| RT @alwayslivie1: “who have showed us that at the end of the day, they dont give a shit about freedom.” - olivia rodrigo |
 
-The most popular user is: **Derekmommy2012**
-<div class="alert alert-block alert-danger"> RT @seescandies: It's #TwitterParty time 🎉 Join now through 11:30am PT for a chance to win!
-Tell us: what See’s product would you bring to…</div>
+The most popular user is: **qonjude**
+<div class="alert alert-block alert-danger"> RT @anyalivv: olivia rodrigo, jenna ortega, and sadie sink in a horror movie together when https://t.co/7SqUUdSo9F</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **seescandies** |
-| #2 Most tweeted to  | **naturesweb1** |
-| #3 Most tweeted to  | **tinkerbaby5574** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 8.11%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **jelousyliv** |
+| #2 Most tweeted to  | **PopCrave** |
+| #3 Most tweeted to  | **strawberritom** |
+| NewProfiles (less than 10 days) | 1.88%  |
+| Tweeters with < 10 followers  | 4.7%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -40,28 +39,28 @@ Tell us: what See’s product would you bring to…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SEESCANDIES**  |
-| second  | **CANDYCONVERSATION@SEESCANDIES**  |
-| third  | **BRING** |
-| fourth  | **CANDYCONVERSATION**  |
-| fifth  | **🎉**  |
+| first  | **OLIVIA**  |
+| second  | **RODRIGO**  |
+| third  | **GLASTONBURY** |
+| fourth  | **SUPREME**  |
+| fifth  | **COURT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-06-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@seescandies Almond crunch, two of my favorites together. #SeesCandies #CandyConversation |
+|RT @alwayslivie1: “who have showed us that at the end of the day, they dont give a shit about freedom.” - olivia rodrigo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Derekmommy2012**  |
+| The most retweeted user is: **qonjude**  |
 | ------------- |
-| RT @seescandies: It's #TwitterParty time 🎉 Join now through 11:30am PT for a chance to win!Tell us: what See’s product would you bring to… |
+| RT @anyalivv: olivia rodrigo, jenna ortega, and sadie sink in a horror movie together when https://t.co/7SqUUdSo9F |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
