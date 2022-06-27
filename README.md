@@ -1,43 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Altuve"**
+&#x1F34E; **TOPIC = "NICKI WEEK"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-26TWEETS.png)
+![image](assets/2022-06-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CantH0LDMe: Altuve owns us lol |
-| It's time for the Yankees to give ownership to Jose Altuve. Nothing to be ashamed of. |
-| @priyaraomd That’s Springer and Altuve combined right there! Awesomness. 😆🎉⚾️ |
+| @flyneworleans Nicki Week |
+| RT @YoungMoneySite: NICKI WEEK |
+| @DONBAWBIE NICKI WEEK 6 |
 
-The most popular user is: **altuve_karin**
-<div class="alert alert-block alert-danger"> RT @MYID2022: 💵Airdrop is live!
-
-Participate in our Airdrop and earn 2 BUSD tokens for doing tasks.
-
-Airdrop:
-https://t.co/njJx7J7Kic
-
-Aird…</div>
+The most popular user is: **nicki_millie**
+<div class="alert alert-block alert-danger"> RT @chartdata: .@NICKIMINAJ's 'Beam Me Up Scotty' re-enters this week's Billboard 200.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Jared_Carrabis** |
-| #2 Most tweeted to  | **astros** |
-| #3 Most tweeted to  | **BenVerlander** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 4.28%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **YoungMoneySite** |
+| #2 Most tweeted to  | **QCWorldwide** |
+| #3 Most tweeted to  | **nickistreamteam** |
+| NewProfiles (less than 10 days) | 2.48%  |
+| Tweeters with < 10 followers  | 3.72%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -46,28 +39,28 @@ Aird…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALTUVE**  |
-| second  | **JOSE**  |
-| third  | **YANKEES** |
-| fourth  | **YANKEE**  |
-| fifth  | **PITCH**  |
+| first  | **NICKI**  |
+| second  | **WEEK**  |
+| third  | **WEEKRT** |
+| fourth  | **“NICKI**  |
+| fifth  | **WEEK”**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
+![image](assets/2022-06-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Altuve, you are the father!!!#levelup #fucktheyanks # |
+|RT @QCWorldwide: Nicki Week is currently trending #8 Worldwide. https://t.co/tZbMEbfdwa |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **altuve_karin**  |
+| The most retweeted user is: **nicki_millie**  |
 | ------------- |
-| RT @MYID2022: 💵Airdrop is live!Participate in our Airdrop and earn 2 BUSD tokens for doing tasks.Airdrop:https://t.co/njJx7J7KicAird… |
+| RT @chartdata: .@NICKIMINAJ's 'Beam Me Up Scotty' re-enters this week's Billboard 200. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
