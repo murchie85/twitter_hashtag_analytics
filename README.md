@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "NICKI WEEK"**
+&#x1F34E; **TOPIC = "Hunter Biden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-27TWEETS.png)
+![image](assets/2022-06-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @flyneworleans Nicki Week |
-| RT @YoungMoneySite: NICKI WEEK |
-| @DONBAWBIE NICKI WEEK 6 |
+| RT @Leslieoo7: Tweet all you want about Hunter Biden's laptop. I raise you John Eastman's phone and I am sure I have the better hand. |
+| RT @Lancegooden: The January 6th committee is nearly a year old and there has been zero evidence presented as credible as Hunter Biden's la… |
+| Voicemail from Joe Biden to Hunter proves president DID speak about his Chinese business dealings | https://t.co/4fFXJq01x8 |
 
-The most popular user is: **nicki_millie**
-<div class="alert alert-block alert-danger"> RT @chartdata: .@NICKIMINAJ's 'Beam Me Up Scotty' re-enters this week's Billboard 200.</div>
+The most popular user is: **AMJLawless26**
+<div class="alert alert-block alert-danger"> RT @MichaelBeatrice: Yes I'm voting for Joe Biden again. I'd vote for Hunter Biden at this point. Any Democrat with a pulse. To stave off t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **YoungMoneySite** |
-| #2 Most tweeted to  | **QCWorldwide** |
-| #3 Most tweeted to  | **nickistreamteam** |
-| NewProfiles (less than 10 days) | 2.48%  |
-| Tweeters with < 10 followers  | 3.72%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **GOPChairwoman** |
+| #2 Most tweeted to  | **ArthurSchwartz** |
+| #3 Most tweeted to  | **itsJeffTiedrich** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 6.04%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nicki_millie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NICKI**  |
-| second  | **WEEK**  |
-| third  | **WEEKRT** |
-| fourth  | **“NICKI**  |
-| fifth  | **WEEK”**  |
+| first  | **HUNTER**  |
+| second  | **BIDEN**  |
+| third  | **JOE** |
+| fourth  | **VOICEMAIL**  |
+| fifth  | **BUSINESS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2022-06-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @QCWorldwide: Nicki Week is currently trending #8 Worldwide. https://t.co/tZbMEbfdwa |
+|RT @bennyjohnson: 🚨Joe Biden CAUGHT LYING after leaked voicemail proves Biden spoke about corrupt dealings with Hunter https://t.co/kWMq0QM… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nicki_millie**  |
+| The most retweeted user is: **AMJLawless26**  |
 | ------------- |
-| RT @chartdata: .@NICKIMINAJ's 'Beam Me Up Scotty' re-enters this week's Billboard 200. |
+| RT @MichaelBeatrice: Yes I'm voting for Joe Biden again. I'd vote for Hunter Biden at this point. Any Democrat with a pulse. To stave off t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
