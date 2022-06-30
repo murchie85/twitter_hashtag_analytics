@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hunter Biden"**
+&#x1F34E; **TOPIC = "Miami"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-06-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-28TWEETS.png)
+![image](assets/2022-06-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Leslieoo7: Tweet all you want about Hunter Biden's laptop. I raise you John Eastman's phone and I am sure I have the better hand. |
-| RT @Lancegooden: The January 6th committee is nearly a year old and there has been zero evidence presented as credible as Hunter Biden's la… |
-| Voicemail from Joe Biden to Hunter proves president DID speak about his Chinese business dealings | https://t.co/4fFXJq01x8 |
+| Edward Snowden granted permanent residency in Russia, his lawyer confirms&gt;&gt; Click the link to read more;… https://t.co/ZZ4YLJ6gDp |
+| @frazmoney93 I wanna be optimistic but at this point I don't feel great. I think it's a lot more likely that school… https://t.co/ClijVMOZ7k |
+| @McMattRadio  still don’t think big 10 and sec are equals but you CANNOT let clemson, fla st, nc state, and miami go to the big 10. |
 
-The most popular user is: **AMJLawless26**
-<div class="alert alert-block alert-danger"> RT @MichaelBeatrice: Yes I'm voting for Joe Biden again. I'd vote for Hunter Biden at this point. Any Democrat with a pulse. To stave off t…</div>
+The most popular user is: **jung_vely___**
+<div class="alert alert-block alert-danger"> RT @NCTsmtown_127: I am so proud and happy that I got to make unforgettable memories with our NCTzens in Miami. Because it was the city I w…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GOPChairwoman** |
-| #2 Most tweeted to  | **ArthurSchwartz** |
-| #3 Most tweeted to  | **itsJeffTiedrich** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 6.04%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **GabyUrrutia247** |
+| #2 Most tweeted to  | **247Sports** |
+| #3 Most tweeted to  | **Andrew_Ivins** |
+| NewProfiles (less than 10 days) | 1.16%  |
+| Tweeters with < 10 followers  | 3.94%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AMJLawless26**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HUNTER**  |
-| second  | **BIDEN**  |
-| third  | **JOE** |
-| fourth  | **VOICEMAIL**  |
-| fifth  | **BUSINESS**  |
+| first  | **MIAMI**  |
+| second  | **ATH**  |
+| third  | **STAFFORD** |
+| fourth  | **ROBERT**  |
+| fifth  | **TOP247**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-06-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-06-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bennyjohnson: 🚨Joe Biden CAUGHT LYING after leaked voicemail proves Biden spoke about corrupt dealings with Hunter https://t.co/kWMq0QM… |
+|RT @MiamiFloRasta: 4 star Eau Gallie ATH (@1robertstafford) commits to Miami. Coach Addae lands his first corner for the class. Big pickup… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AMJLawless26**  |
+| The most retweeted user is: **jung_vely___**  |
 | ------------- |
-| RT @MichaelBeatrice: Yes I'm voting for Joe Biden again. I'd vote for Hunter Biden at this point. Any Democrat with a pulse. To stave off t… |
+| RT @NCTsmtown_127: I am so proud and happy that I got to make unforgettable memories with our NCTzens in Miami. Because it was the city I w… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
