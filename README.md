@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Miami"**
+&#x1F34E; **TOPIC = "#WynonnaEarp"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-06-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-06-30TWEETS.png)
+![image](assets/2022-07-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Edward Snowden granted permanent residency in Russia, his lawyer confirms&gt;&gt; Click the link to read more;… https://t.co/ZZ4YLJ6gDp |
-| @frazmoney93 I wanna be optimistic but at this point I don't feel great. I think it's a lot more likely that school… https://t.co/ClijVMOZ7k |
-| @McMattRadio  still don’t think big 10 and sec are equals but you CANNOT let clemson, fla st, nc state, and miami go to the big 10. |
+| @EarpFest @KatBarrell @dutchstarbuck Straight off the plane and off she goes we are so lucky 😎🙏🏻 #EarpFest #WynonnaEarp #BringWynonnaHome |
+| RT @DocInNoWell: I made a barter for eternal longevity. Cured me of chronic tuberculosis and freed me from the ravages of time, unless I ca… |
+| RT @rhibar_tweets: “Hey Cutie” Three years ago today 😍#WynonnaEarp #Wayhaught #LFF https://t.co/G5M9YxvPuv |
 
-The most popular user is: **jung_vely___**
-<div class="alert alert-block alert-danger"> RT @NCTsmtown_127: I am so proud and happy that I got to make unforgettable memories with our NCTzens in Miami. Because it was the city I w…</div>
+The most popular user is: **alexis_jones92**
+<div class="alert alert-block alert-danger"> RT @KatBarrell: “Heyyyyy Waverly Earp, I cant wait to be your wife” 😊 @DominiqueP_C #WynonnaEarp</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **GabyUrrutia247** |
-| #2 Most tweeted to  | **247Sports** |
-| #3 Most tweeted to  | **Andrew_Ivins** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 3.94%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **EarpFest** |
+| #2 Most tweeted to  | **Isa_E4L** |
+| #3 Most tweeted to  | **moon_earp** |
+| NewProfiles (less than 10 days) | 0.94%  |
+| Tweeters with < 10 followers  | 0.44%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jung_vely___**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MIAMI**  |
-| second  | **ATH**  |
-| third  | **STAFFORD** |
-| fourth  | **ROBERT**  |
-| fifth  | **TOP247**  |
+| first  | **WYNONNAEARP**  |
+| second  | **BRINGWYNONNAHOME**  |
+| third  | **EARPFEST** |
+| fourth  | **BRINGWYNONNAHOMERT**  |
+| fifth  | **HAPPY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-06-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-06-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-07-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MiamiFloRasta: 4 star Eau Gallie ATH (@1robertstafford) commits to Miami. Coach Addae lands his first corner for the class. Big pickup… |
+|RT @xoxonatashaaa: Hope you have a lovely #WayHaughtWednesday, ahead! ❤️🥰#WynonnaEarp #BringWynonnaHome https://t.co/Q1ASMPUkNz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jung_vely___**  |
+| The most retweeted user is: **alexis_jones92**  |
 | ------------- |
-| RT @NCTsmtown_127: I am so proud and happy that I got to make unforgettable memories with our NCTzens in Miami. Because it was the city I w… |
+| RT @KatBarrell: “Heyyyyy Waverly Earp, I cant wait to be your wife” 😊 @DominiqueP_C #WynonnaEarp |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
