@@ -1,36 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Deebo"**
+&#x1F34E; **TOPIC = "#July4th"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-02TWEETS.png)
+![image](assets/2022-07-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Deebo did this kid wrong 😑 https://t.co/jvRPDvEbXq |
-| @Thamannjr Stall em out deebo |
-| @NFLonFOX Deebo, DK, and T Mac. |
+| Wishing everyone a Happy Independence Day!🇺🇸🇺🇸🇺🇸#IndependenceDay #July4th #livestockguardiandog #greatpyrenees… https://t.co/Rg59XDvdc2 |
+| RT @ZigazooKids: GM #ZigazooFam ☀️Warning: your heart might melt watching this Zigazooer in her #July4th head boppers 🥰https://t.co/OpF… |
+| Love that we Celebrate #July4th🥳but yes, let's remember to take special care of our Pets. Fireworks can be disturbi… https://t.co/ZUXgUgIKDn |
 
-The most popular user is: **Deebo_Unknwn**
-<div class="alert alert-block alert-danger"> RT @maryebaldwin_: people NEED to get out of their small, close-minded towns &amp; educate themselves beyond what they were taught growing up……</div>
+The most popular user is: **ArtisticAlpha12**
+<div class="alert alert-block alert-danger"> RT @fugu_club: ⏳2 NFT, 24 Hours ⏳
+
+Celebrating the #PublicSale on #July4th, we will give away 2 R-FUGU NFTs!! 
+
+To win:
+✅Follow @fugu_club…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **19problemz** |
-| #2 Most tweeted to  | **NickPaulus** |
-| #3 Most tweeted to  | **PFF_Fantasy** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 7.36%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **500XGems** |
+| #2 Most tweeted to  | **DeanObeidallah** |
+| #3 Most tweeted to  | **TiffMood1** |
+| NewProfiles (less than 10 days) | 3.72%  |
+| Tweeters with < 10 followers  | 7.94%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +44,28 @@ The most popular user is: **Deebo_Unknwn**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEEBO**  |
-| second  | **SAMUEL**  |
-| third  | **WASN’T** |
-| fourth  | **@19PROBLEMZ**  |
-| fifth  | **49ERS**  |
+| first  | **JULY4TH**  |
+| second  | **JULY**  |
+| third  | **4TH** |
+| fourth  | **WEEKEND**  |
+| fifth  | **INDEPENDENCE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-02BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+![image](assets/2022-07-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@DynastyTripp @SleeperHQ Because whoever decided this change was pissed off that they weren't able to get any share… https://t.co/KdN9QeafLu |
+|Have you ever wondered about the Declaration of Independence signers that didn’t fare so well? That lost a TON for… https://t.co/mb4zlwqYKx |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Deebo_Unknwn**  |
+| The most retweeted user is: **ArtisticAlpha12**  |
 | ------------- |
-| RT @maryebaldwin_: people NEED to get out of their small, close-minded towns &amp; educate themselves beyond what they were taught growing up…… |
+| RT @fugu_club: ⏳2 NFT, 24 Hours ⏳Celebrating the #PublicSale on #July4th, we will give away 2 R-FUGU NFTs!! To win:✅Follow @fugu_club… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
