@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#July4th"**
+&#x1F34E; **TOPIC = "Skippy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-03TWEETS.png)
+![image](assets/2022-07-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Wishing everyone a Happy Independence Day!🇺🇸🇺🇸🇺🇸#IndependenceDay #July4th #livestockguardiandog #greatpyrenees… https://t.co/Rg59XDvdc2 |
-| RT @ZigazooKids: GM #ZigazooFam ☀️Warning: your heart might melt watching this Zigazooer in her #July4th head boppers 🥰https://t.co/OpF… |
-| Love that we Celebrate #July4th🥳but yes, let's remember to take special care of our Pets. Fireworks can be disturbi… https://t.co/ZUXgUgIKDn |
+| RT @catconnor: Does anyone else remember Skippy the Bush Kangaroo from their childhood or am I the oldest person on Twitter? |
+| @DashDobrofsky Not so fast Skippy! What is the latest polling in the race between Cowboy "Bob" Flowers &amp; Marjorie "… https://t.co/0eXHUvqlqJ |
+| @AdamLockett34 Time to arrest Skippy https://t.co/kiIeYMzft0 |
 
-The most popular user is: **ArtisticAlpha12**
-<div class="alert alert-block alert-danger"> RT @fugu_club: ⏳2 NFT, 24 Hours ⏳
-
-Celebrating the #PublicSale on #July4th, we will give away 2 R-FUGU NFTs!! 
-
-To win:
-✅Follow @fugu_club…</div>
+The most popular user is: **Skippy_Snacks**
+<div class="alert alert-block alert-danger"> RT @DannyDeVito: Supreme Court my ass</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **500XGems** |
-| #2 Most tweeted to  | **DeanObeidallah** |
-| #3 Most tweeted to  | **TiffMood1** |
-| NewProfiles (less than 10 days) | 3.72%  |
-| Tweeters with < 10 followers  | 7.94%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **catconnor** |
+| #2 Most tweeted to  | **PierrePoilievre** |
+| #3 Most tweeted to  | **skippy_bree** |
+| NewProfiles (less than 10 days) | 0.76%  |
+| Tweeters with < 10 followers  | 6.26%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -44,28 +39,28 @@ To win:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JULY4TH**  |
-| second  | **JULY**  |
-| third  | **4TH** |
-| fourth  | **WEEKEND**  |
-| fifth  | **INDEPENDENCE**  |
+| first  | **SKIPPY**  |
+| second  | **DAMN**  |
+| third  | **REMEMBER** |
+| fourth  | **BUSH**  |
+| fifth  | **KANGAROO**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2022-07-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Have you ever wondered about the Declaration of Independence signers that didn’t fare so well? That lost a TON for… https://t.co/mb4zlwqYKx |
+|RT @pokejungle: The Pokémon Masters EX account has shared beautiful artwork of the summer festivities, featuring N, Hilbert and Hilda. Illu… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ArtisticAlpha12**  |
+| The most retweeted user is: **Skippy_Snacks**  |
 | ------------- |
-| RT @fugu_club: ⏳2 NFT, 24 Hours ⏳Celebrating the #PublicSale on #July4th, we will give away 2 R-FUGU NFTs!! To win:✅Follow @fugu_club… |
+| RT @DannyDeVito: Supreme Court my ass |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
