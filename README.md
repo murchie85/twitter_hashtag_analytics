@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sinner"**
+&#x1F34E; **TOPIC = "David Beckham"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-05TWEETS.png)
+![image](assets/2022-07-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Wimbledon: Comeback complete 👑@DjokerNole is a Wimbledon semi-finalist for the 11th time, sealing a sublime 5-7, 2-6, 6-3, 6-3, 6-2 v… |
-| Novak Djokovic overcomes a two-set deficit against Italian Jannik Sinner and enters the semifinal of #Wimbledon2022… https://t.co/yrXnALZkxI |
-| RT @rafastefbaes: congratulations to jannik sinner! you played amazing and we couldn’t be prouder ❤️ |
+| Thank you David Beckham for the comment you don't care what people say about me you just want me so much!🤣🤣😂🤣🤣🤣🤣🤣❤🙏… https://t.co/UJVkpPH1eH |
+| RT @legitCalculator: @investor_bet I just dey imagine how much i for dey stake dey win huge if tosay i get d mind of playin una draws.My… |
+| RT @realmadrid: 😍 David Beckham 🤜🤛 #RMFans https://t.co/TtaO3iRdK5 |
 
-The most popular user is: **Born_K_Sinner**
-<div class="alert alert-block alert-danger"> RT @boomborks: This movie has better CGI than current blockbusters</div>
+The most popular user is: **d_beckham_07**
+<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Manchester United are set to sign Christian Eriksen, here we go! Full verbal agreement in place, as first called by @Da…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DjokerNole** |
-| #2 Most tweeted to  | **Wimbledon** |
-| #3 Most tweeted to  | **KellyKr77228030** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 4.44%|
-| Tweeters with > 1000000 followers  | 0.64%  |
+| #1 Most tweeted to  | **realmadrid** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 1.16%  |
+| Tweeters with < 10 followers  | 5.36%|
+| Tweeters with > 1000000 followers  | 0.58%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Born_K_Sinner**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SINNER**  |
-| second  | **6-3**  |
+| first  | **DAVID**  |
+| second  | **BECKHAM**  |
 | third  | **WIMBLEDON** |
-| fourth  | **DJOKOVIC**  |
-| fifth  | **6-2**  |
+| fourth  | **😍**  |
+| fifth  | **🤜🤛**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2022-07-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Gill_Gross @RunvTal A normal level drop from the ridiculous tennis he was displaying is not a choke and is expecte… https://t.co/HsV4nEl01C |
+|Manchester United created Cristiano Ronaldo, not the other way round.Peter Schmeichel left.David Beckham left.R… https://t.co/AAdLb8rZzm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Born_K_Sinner**  |
+| The most retweeted user is: **d_beckham_07**  |
 | ------------- |
-| RT @boomborks: This movie has better CGI than current blockbusters |
+| RT @FabrizioRomano: Manchester United are set to sign Christian Eriksen, here we go! Full verbal agreement in place, as first called by @Da… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
