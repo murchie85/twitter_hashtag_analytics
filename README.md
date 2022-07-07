@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "David Beckham"**
+&#x1F34E; **TOPIC = "#SDCC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-06TWEETS.png)
+![image](assets/2022-07-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Thank you David Beckham for the comment you don't care what people say about me you just want me so much!🤣🤣😂🤣🤣🤣🤣🤣❤🙏… https://t.co/UJVkpPH1eH |
-| RT @legitCalculator: @investor_bet I just dey imagine how much i for dey stake dey win huge if tosay i get d mind of playin una draws.My… |
-| RT @realmadrid: 😍 David Beckham 🤜🤛 #RMFans https://t.co/TtaO3iRdK5 |
+| The #SDCC Exhibit Hall map is out - with lots of old favorites returning. Who's ready to spend too much money?… https://t.co/OuSbb0GlMc |
+| Have you been in a glass case of emotion? Don't worry, @Zenescope is bringing a ton of exclusives to #SDCC, and the… https://t.co/zyxzchd2kg |
+| RT @JoshCrewsReally: Got a great Wuvable Oaf page by @wuvableoaf! Oaf is rocking out in this lovely page. Some cool prints too! Thanks, Ed!… |
 
-The most popular user is: **d_beckham_07**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Manchester United are set to sign Christian Eriksen, here we go! Full verbal agreement in place, as first called by @Da…</div>
+The most popular user is: **FunkoIsaac**
+<div class="alert alert-block alert-danger"> RT @OriginalFunko: RT &amp; follow @OriginalFunko for the chance to win an #SDCC prize pack including 1 of every item from Funko's SDCC booth!…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **realmadrid** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **ESPNFC** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 5.36%|
-| Tweeters with > 1000000 followers  | 0.58%  |
+| #1 Most tweeted to  | **SpiderManMovie** |
+| #2 Most tweeted to  | **SD_Comic_Con** |
+| #3 Most tweeted to  | **Comic_Con** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 3.76%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **d_beckham_07**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DAVID**  |
-| second  | **BECKHAM**  |
-| third  | **WIMBLEDON** |
-| fourth  | **😍**  |
-| fifth  | **🤜🤛**  |
+| first  | **SDCC**  |
+| second  | **AMAZING**  |
+| third  | **BACK** |
+| fourth  | **ANNIVERSARY**  |
+| fifth  | **LOOKING**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-07-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Manchester United created Cristiano Ronaldo, not the other way round.Peter Schmeichel left.David Beckham left.R… https://t.co/AAdLb8rZzm |
+|RT @SD_Comic_Con: There's something strange in the neighborhood at #SDCC as @TheRealLAGB bring back their annual #Ghostbusters Crossrip fan… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **d_beckham_07**  |
+| The most retweeted user is: **FunkoIsaac**  |
 | ------------- |
-| RT @FabrizioRomano: Manchester United are set to sign Christian Eriksen, here we go! Full verbal agreement in place, as first called by @Da… |
+| RT @OriginalFunko: RT &amp; follow @OriginalFunko for the chance to win an #SDCC prize pack including 1 of every item from Funko's SDCC booth!… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
