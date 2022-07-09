@@ -1,37 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hunter Biden"**
+&#x1F34E; **TOPIC = "#KinnPorscheFinalEP"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-08TWEETS.png)
+![image](assets/2022-07-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AmoneyResists: Every time Hunter Biden trends, I will post this clip of Chris Hayes absolutely DESTROYING this sad GOP deflection.http… |
-| RT @RepMTG: Joe Biden sold 1 M barrels of oil of our Strategic Petroleum Reserves to CCP owned Sinopec, which Hunter Biden is part owner of… |
-| RT @lindyli: How do you know gas prices have been falling for 3 weeks straight and shit’s about to hit the fan for Trump and Republicans?… |
+| RT @httpjakapan: Tong Nodt Jeff Bible Apo Us JJ's Reaction.— someone shot vegas and pete's crying his heart out because of it. 😭#KinnPor… |
+| RT @luvebiblebuild: Pete's heart went dropped as he saw Vegas collapsed. #KinnPorscheFinalEP #VegasPete  https://t.co/sthyeytOSk |
+| RT @vwegaz: the fact that vegas kissed pete's dimples. i'm crying😭 #KinnPorscheFinalEP https://t.co/7Jm8EGMHCb |
 
-The most popular user is: **humphreysdg65**
-<div class="alert alert-block alert-danger"> RT @JackPosobiec: We now know:
+The most popular user is: **kannara_sandy**
+<div class="alert alert-block alert-danger"> RT @kpfiIms: vegas giving pete and macau kisses! 😣
 
-The Biden admin sold 1 million barrels from the Strategic Petroleum Reserve to a Chinese oil company that H…</div>
+#KinnPorscheFinalEP https://t.co/a3PGvO1vf0</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **michaeljburry** |
-| #2 Most tweeted to  | **bennyjohnson** |
-| #3 Most tweeted to  | **RepAndyBiggsAZ** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 7.04%|
+| #1 Most tweeted to  | **apothinker** |
+| #2 Most tweeted to  | **kpfiIms** |
+| #3 Most tweeted to  | **odyurluve** |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 23.7%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +41,28 @@ The Biden admin sold 1 million barrels from the Strategic Petroleum Reserve to a
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BIDEN**  |
-| second  | **HUNTER**  |
-| third  | **OIL** |
-| fourth  | **SOLD**  |
-| fifth  | **BARRELS**  |
+| first  | **KINNPORSCHEFINALEP**  |
+| second  | **VEGAS**  |
+| third  | **@APOTHINKER:** |
+| fourth  | **VEGASPETE**  |
+| fifth  | **PORSCHE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-07-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AvengerResister: Do you know who stole from a charity? Don JrDo you know who didn’t steal from a charity? Hunter Biden |
+|RT @mileaposlight: GOOD GOD ANAKINN BE SERIOUSHELPPP 😭😭😭#KinnPorscheFinalEP https://t.co/OinxWBMseM |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **humphreysdg65**  |
+| The most retweeted user is: **kannara_sandy**  |
 | ------------- |
-| RT @JackPosobiec: We now know:The Biden admin sold 1 million barrels from the Strategic Petroleum Reserve to a Chinese oil company that H… |
+| RT @kpfiIms: vegas giving pete and macau kisses! 😣#KinnPorscheFinalEP https://t.co/a3PGvO1vf0 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
