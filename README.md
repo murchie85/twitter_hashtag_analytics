@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#KinnPorscheFinalEP"**
+&#x1F34E; **TOPIC = "#sundayvibes"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-09TWEETS.png)
+![image](assets/2022-07-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @httpjakapan: Tong Nodt Jeff Bible Apo Us JJ's Reaction.— someone shot vegas and pete's crying his heart out because of it. 😭#KinnPor… |
-| RT @luvebiblebuild: Pete's heart went dropped as he saw Vegas collapsed. #KinnPorscheFinalEP #VegasPete  https://t.co/sthyeytOSk |
-| RT @vwegaz: the fact that vegas kissed pete's dimples. i'm crying😭 #KinnPorscheFinalEP https://t.co/7Jm8EGMHCb |
+| #Nowplaying Love Talking  by Eli Young Band  https://t.co/EpzmoTucHz #countrymusic #music #live #radio… https://t.co/BNt90tK8wp |
+| @PatToomey You are stalling a veterans health care bill. WTF! They kept your goat-smelling ass free and you repay… https://t.co/Nt4VSzI3bB |
+| RT @wittykitty47: “Love every body” Wouldn’t it be grand if we all felt and LIVED this way?!! This thread and the replies will make your da… |
 
-The most popular user is: **kannara_sandy**
-<div class="alert alert-block alert-danger"> RT @kpfiIms: vegas giving pete and macau kisses! 😣
-
-#KinnPorscheFinalEP https://t.co/a3PGvO1vf0</div>
+The most popular user is: **Saravjeet1919s**
+<div class="alert alert-block alert-danger"> RT @DSSNewsUpdates: गज़ब का जज्बा
+The NaamCharcha event turns out as the most blessed one for each devotee who reached &amp; attended it in Kan…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **apothinker** |
-| #2 Most tweeted to  | **kpfiIms** |
-| #3 Most tweeted to  | **odyurluve** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 23.7%|
+| #1 Most tweeted to  | **donnedia** |
+| #2 Most tweeted to  | **PAWstronaut13** |
+| #3 Most tweeted to  | **Soul_Art8** |
+| NewProfiles (less than 10 days) | 1.84%  |
+| Tweeters with < 10 followers  | 7.68%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +40,28 @@ The most popular user is: **kannara_sandy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KINNPORSCHEFINALEP**  |
-| second  | **VEGAS**  |
-| third  | **@APOTHINKER:** |
-| fourth  | **VEGASPETE**  |
-| fifth  | **PORSCHE**  |
+| first  | **SUNDAYVIBES**  |
+| second  | **SUNDAY**  |
+| third  | **GOOD** |
+| fourth  | **SUNDAYMORNING**  |
+| fifth  | **HAPPY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-09BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (93.33%)
+![image](assets/2022-07-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @mileaposlight: GOOD GOD ANAKINN BE SERIOUSHELPPP 😭😭😭#KinnPorscheFinalEP https://t.co/OinxWBMseM |
+|RT @micortazonzz1: Will you be Mulberry Angel? #Sunday #sundayvibes #today #outdoors #camping #hiker #AdoptDontShop #EMS #USA #Dodgers #Ram… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kannara_sandy**  |
+| The most retweeted user is: **Saravjeet1919s**  |
 | ------------- |
-| RT @kpfiIms: vegas giving pete and macau kisses! 😣#KinnPorscheFinalEP https://t.co/a3PGvO1vf0 |
+| RT @DSSNewsUpdates: गज़ब का जज्बाThe NaamCharcha event turns out as the most blessed one for each devotee who reached &amp; attended it in Kan… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
