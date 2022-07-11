@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#sundayvibes"**
+&#x1F34E; **TOPIC = "Funny Girl"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-10TWEETS.png)
+![image](assets/2022-07-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| #Nowplaying Love Talking  by Eli Young Band  https://t.co/EpzmoTucHz #countrymusic #music #live #radio… https://t.co/BNt90tK8wp |
-| @PatToomey You are stalling a veterans health care bill. WTF! They kept your goat-smelling ass free and you repay… https://t.co/Nt4VSzI3bB |
-| RT @wittykitty47: “Love every body” Wouldn’t it be grand if we all felt and LIVED this way?!! This thread and the replies will make your da… |
+| RT @AaliyahOroro: As I reel from the news that Lea Michele is set to play Fanny Brice in Funny Girl, I couldn’t help but wonder…Did my 1 mi… |
+| Someway somehow I MUST see funny girl |
+| RT @Variety: 🚨The rumors are true!🚨Lea Michele is replacing Beanie Feldstein in Broadway's revival of #FunnyGirl. https://t.co/qfqWiaGUwl… |
 
-The most popular user is: **Saravjeet1919s**
-<div class="alert alert-block alert-danger"> RT @DSSNewsUpdates: गज़ब का जज्बा
-The NaamCharcha event turns out as the most blessed one for each devotee who reached &amp; attended it in Kan…</div>
+The most popular user is: **AZkumaku**
+<div class="alert alert-block alert-danger"> RT @kisekisymphony: it's so funny how many fan-made pokémon gender differences are Female Girl Animal when canonical pokémon gender differe…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **donnedia** |
-| #2 Most tweeted to  | **PAWstronaut13** |
-| #3 Most tweeted to  | **Soul_Art8** |
-| NewProfiles (less than 10 days) | 1.84%  |
-| Tweeters with < 10 followers  | 7.68%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Variety** |
+| #2 Most tweeted to  | **leylanocontext** |
+| #3 Most tweeted to  | **madeleinejanne** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 2.46%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -40,28 +39,28 @@ The NaamCharcha event turns out as the most blessed one for each devotee who rea
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SUNDAYVIBES**  |
-| second  | **SUNDAY**  |
-| third  | **GOOD** |
-| fourth  | **SUNDAYMORNING**  |
-| fifth  | **HAPPY**  |
+| first  | **LEA**  |
+| second  | **FUNNY**  |
+| third  | **GIRL** |
+| fourth  | **MICHELE**  |
+| fifth  | **BEANIE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-07-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @micortazonzz1: Will you be Mulberry Angel? #Sunday #sundayvibes #today #outdoors #camping #hiker #AdoptDontShop #EMS #USA #Dodgers #Ram… |
+|RT @madeleinejanne: i need to get tickets to lea michele’s first performance of funny girl so i can walk out halfway through just like sue… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Saravjeet1919s**  |
+| The most retweeted user is: **AZkumaku**  |
 | ------------- |
-| RT @DSSNewsUpdates: गज़ब का जज्बाThe NaamCharcha event turns out as the most blessed one for each devotee who reached &amp; attended it in Kan… |
+| RT @kisekisymphony: it's so funny how many fan-made pokémon gender differences are Female Girl Animal when canonical pokémon gender differe… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
