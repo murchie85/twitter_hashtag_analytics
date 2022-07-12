@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Funny Girl"**
+&#x1F34E; **TOPIC = "#LateNightTalking"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-11TWEETS.png)
+![image](assets/2022-07-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AaliyahOroro: As I reel from the news that Lea Michele is set to play Fanny Brice in Funny Girl, I couldn’t help but wonder…Did my 1 mi… |
-| Someway somehow I MUST see funny girl |
-| RT @Variety: 🚨The rumors are true!🚨Lea Michele is replacing Beanie Feldstein in Broadway's revival of #FunnyGirl. https://t.co/qfqWiaGUwl… |
+| RT @UpdateHLD: The hashtags #HarryStyles and #LateNightTalking have emojis ahead of the music video release tomorrow! https://t.co/r4iV1epn… |
+| The socks! I hadn't noticed them! #LateNightTalking #HarryStyles |
+| RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl |
 
-The most popular user is: **AZkumaku**
-<div class="alert alert-block alert-danger"> RT @kisekisymphony: it's so funny how many fan-made pokémon gender differences are Female Girl Animal when canonical pokémon gender differe…</div>
+The most popular user is: **bradismytype**
+<div class="alert alert-block alert-danger"> RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Variety** |
-| #2 Most tweeted to  | **leylanocontext** |
-| #3 Most tweeted to  | **madeleinejanne** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 2.46%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **hsdaily** |
+| #2 Most tweeted to  | **UpdateHLD** |
+| #3 Most tweeted to  | **nikkimarieJPG** |
+| NewProfiles (less than 10 days) | 1.34%  |
+| Tweeters with < 10 followers  | 5.88%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **AZkumaku**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEA**  |
-| second  | **FUNNY**  |
-| third  | **GIRL** |
-| fourth  | **MICHELE**  |
-| fifth  | **BEANIE**  |
+| first  | **LATENIGHTTALKING**  |
+| second  | **HARRYSTYLES**  |
+| third  | **MUSIC** |
+| fourth  | **VIDEO**  |
+| fifth  | **HARRY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
+![image](assets/2022-07-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @madeleinejanne: i need to get tickets to lea michele’s first performance of funny girl so i can walk out halfway through just like sue… |
+|RT @UpdateHLD: The hashtags #HarryStyles and #LateNightTalking have emojis ahead of the music video release tomorrow! https://t.co/r4iV1epn… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AZkumaku**  |
+| The most retweeted user is: **bradismytype**  |
 | ------------- |
-| RT @kisekisymphony: it's so funny how many fan-made pokémon gender differences are Female Girl Animal when canonical pokémon gender differe… |
+| RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
