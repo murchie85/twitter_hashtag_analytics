@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LateNightTalking"**
+&#x1F34E; **TOPIC = "Brett Yormark"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-12TWEETS.png)
+![image](assets/2022-07-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @UpdateHLD: The hashtags #HarryStyles and #LateNightTalking have emojis ahead of the music video release tomorrow! https://t.co/r4iV1epn… |
-| The socks! I hadn't noticed them! #LateNightTalking #HarryStyles |
-| RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl |
+| Big 12 'Open for Business' Amid Pac-12 Rumors, Commissioner Brett Yormark Says https://t.co/03lvg37Bla #Football #NCAA #CollegeFootball |
+| RT @KellisRobinett: After conference realignment returned, Baylor president Linda Livingstone says she told new Big 12 commissioner Brett Y… |
+| The Big 12 soon will be under the leadership of Brett Yormark, a college sports newbie. Many will get their first i… https://t.co/G9ZldulU0A |
 
-The most popular user is: **bradismytype**
-<div class="alert alert-block alert-danger"> RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl</div>
+The most popular user is: **Gameday_U**
+<div class="alert alert-block alert-danger"> RT @Big12Conference: Introducing: 𝐁𝐫𝐞𝐭𝐭 𝐘𝐨𝐫𝐦𝐚𝐫𝐤, the fifth commissioner of the 𝐁𝐢𝐠 𝟏𝟐 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞
+
+📰 https://t.co/1TnK0EgBHO https://t.co/wx…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **hsdaily** |
-| #2 Most tweeted to  | **UpdateHLD** |
-| #3 Most tweeted to  | **nikkimarieJPG** |
-| NewProfiles (less than 10 days) | 1.34%  |
-| Tweeters with < 10 followers  | 5.88%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Big12Conference** |
+| #2 Most tweeted to  | **max_olson** |
+| #3 Most tweeted to  | **dennisdoddcbs** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 0.87%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **bradismytype**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LATENIGHTTALKING**  |
-| second  | **HARRYSTYLES**  |
-| third  | **MUSIC** |
-| fourth  | **VIDEO**  |
-| fifth  | **HARRY**  |
+| first  | **BRETT**  |
+| second  | **BIG**  |
+| third  | **12** |
+| fourth  | **YORMARK**  |
+| fifth  | **COMMISSIONER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2022-07-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @UpdateHLD: The hashtags #HarryStyles and #LateNightTalking have emojis ahead of the music video release tomorrow! https://t.co/r4iV1epn… |
+|Incoming Big 12 commissioner Brett Yormark: “I’m an advocate of NIL. I think there needs to be guardrails. There pr… https://t.co/pmOzVIm36p |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bradismytype**  |
+| The most retweeted user is: **Gameday_U**  |
 | ------------- |
-| RT @hsdaily: Harry in the #LateNightTalking Music Video. July 13. 12pm ET. https://t.co/nabovp4pkl |
+| RT @Big12Conference: Introducing: 𝐁𝐫𝐞𝐭𝐭 𝐘𝐨𝐫𝐦𝐚𝐫𝐤, the fifth commissioner of the 𝐁𝐢𝐠 𝟏𝟐 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞📰 https://t.co/1TnK0EgBHO https://t.co/wx… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
