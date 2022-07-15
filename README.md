@@ -1,38 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Brett Yormark"**
+&#x1F34E; **TOPIC = "Missandei"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-13TWEETS.png)
+![image](assets/2022-07-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Big 12 'Open for Business' Amid Pac-12 Rumors, Commissioner Brett Yormark Says https://t.co/03lvg37Bla #Football #NCAA #CollegeFootball |
-| RT @KellisRobinett: After conference realignment returned, Baylor president Linda Livingstone says she told new Big 12 commissioner Brett Y… |
-| The Big 12 soon will be under the leadership of Brett Yormark, a college sports newbie. Many will get their first i… https://t.co/G9ZldulU0A |
+| The dynamic duo aka Westeros baddest bitches Dany and Missandei https://t.co/Xi1g4js3aQ https://t.co/jJxx8PdLGi |
+| Missandei fine without a wig https://t.co/rF1XHHdnqv |
+| Missandei 😍 but Danny is also up there https://t.co/khQRbU3r0K |
 
-The most popular user is: **Gameday_U**
-<div class="alert alert-block alert-danger"> RT @Big12Conference: Introducing: 𝐁𝐫𝐞𝐭𝐭 𝐘𝐨𝐫𝐦𝐚𝐫𝐤, the fifth commissioner of the 𝐁𝐢𝐠 𝟏𝟐 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞
+The most popular user is: **muhdmubay**
+<div class="alert alert-block alert-danger"> RT @farouq_yahaya: GAME OF THRONES QUESTION THREAD
 
-📰 https://t.co/1TnK0EgBHO https://t.co/wx…</div>
+Who is the most beautiful character?
+
+- Daenerys Targaryen
+- Talisa Stark
+- Margaery Ty…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Big12Conference** |
-| #2 Most tweeted to  | **max_olson** |
-| #3 Most tweeted to  | **dennisdoddcbs** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 0.87%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **farouq_yahaya** |
+| #2 Most tweeted to  | **eldivyn** |
+| #3 Most tweeted to  | **delamomanny** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.55%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +45,28 @@ The most popular user is: **Gameday_U**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRETT**  |
-| second  | **BIG**  |
-| third  | **12** |
-| fourth  | **YORMARK**  |
-| fifth  | **COMMISSIONER**  |
+| first  | **MISSANDEI**  |
+| second  | **DAENERYS**  |
+| third  | **MARGAERY** |
+| fourth  | **BEAUTIFUL**  |
+| fifth  | **TALISA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2022-07-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Incoming Big 12 commissioner Brett Yormark: “I’m an advocate of NIL. I think there needs to be guardrails. There pr… https://t.co/pmOzVIm36p |
+|RT @farouq_yahaya: GAME OF THRONES QUESTION THREADWho is the most beautiful character?- Daenerys Targaryen- Talisa Stark- Margaery Ty… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gameday_U**  |
+| The most retweeted user is: **muhdmubay**  |
 | ------------- |
-| RT @Big12Conference: Introducing: 𝐁𝐫𝐞𝐭𝐭 𝐘𝐨𝐫𝐦𝐚𝐫𝐤, the fifth commissioner of the 𝐁𝐢𝐠 𝟏𝟐 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞📰 https://t.co/1TnK0EgBHO https://t.co/wx… |
+| RT @farouq_yahaya: GAME OF THRONES QUESTION THREADWho is the most beautiful character?- Daenerys Targaryen- Talisa Stark- Margaery Ty… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
