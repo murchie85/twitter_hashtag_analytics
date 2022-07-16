@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Missandei"**
+&#x1F34E; **TOPIC = "Only 52"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-15TWEETS.png)
+![image](assets/2022-07-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The dynamic duo aka Westeros baddest bitches Dany and Missandei https://t.co/Xi1g4js3aQ https://t.co/jJxx8PdLGi |
-| Missandei fine without a wig https://t.co/rF1XHHdnqv |
-| Missandei 😍 but Danny is also up there https://t.co/khQRbU3r0K |
+| RT @flyfishcedarci1: @asymmetricinfo @NYCdisinterest @JillFilipovic Only 52 little girls in 1 state got their needed medical care after bei… |
+| RT @BTSEMPIRES: Highest-peaking K-Pop soloists on the Spotify Top Artists Global Daily Chart:🥇J-hope- #8 (+1) 🔥😁🥈Lisa- #52 (-1)🥉Nayeon-… |
+| RT @BeauTFC: Another way of saying this is every week. A child. Under 14. Every week. Just in Ohio. But sure "only 52" works as well. |
 
-The most popular user is: **muhdmubay**
-<div class="alert alert-block alert-danger"> RT @farouq_yahaya: GAME OF THRONES QUESTION THREAD
-
-Who is the most beautiful character?
-
-- Daenerys Targaryen
-- Talisa Stark
-- Margaery Ty…</div>
+The most popular user is: **Dappy_52**
+<div class="alert alert-block alert-danger"> RT @seyedele: My wife and I tried to play COD multiplayer yesterday. Shot her in the head while she was still trying to figure out the cont…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **farouq_yahaya** |
-| #2 Most tweeted to  | **eldivyn** |
-| #3 Most tweeted to  | **delamomanny** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.55%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **asymmetricinfo** |
+| #2 Most tweeted to  | **NYCdisinterest** |
+| #3 Most tweeted to  | **JillFilipovic** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 1.44%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -45,28 +39,28 @@ Who is the most beautiful character?
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MISSANDEI**  |
-| second  | **DAENERYS**  |
-| third  | **MARGAERY** |
-| fourth  | **BEAUTIFUL**  |
-| fifth  | **TALISA**  |
+| first  | **52**  |
+| second  | **"ONLY**  |
+| third  | **UNDER** |
+| fourth  | **14**  |
+| fifth  | **OHIO**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-07-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @farouq_yahaya: GAME OF THRONES QUESTION THREADWho is the most beautiful character?- Daenerys Targaryen- Talisa Stark- Margaery Ty… |
+|RT @asymmetricinfo: @NYCdisinterest @JillFilipovic Only 10% of girls under 11 even get their period. Only 52 girls under the age of 14 got… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **muhdmubay**  |
+| The most retweeted user is: **Dappy_52**  |
 | ------------- |
-| RT @farouq_yahaya: GAME OF THRONES QUESTION THREADWho is the most beautiful character?- Daenerys Targaryen- Talisa Stark- Margaery Ty… |
+| RT @seyedele: My wife and I tried to play COD multiplayer yesterday. Shot her in the head while she was still trying to figure out the cont… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
