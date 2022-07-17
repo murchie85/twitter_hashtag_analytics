@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Only 52"**
+&#x1F34E; **TOPIC = "#NationalIceCreamDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-16TWEETS.png)
+![image](assets/2022-07-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @flyfishcedarci1: @asymmetricinfo @NYCdisinterest @JillFilipovic Only 52 little girls in 1 state got their needed medical care after bei… |
-| RT @BTSEMPIRES: Highest-peaking K-Pop soloists on the Spotify Top Artists Global Daily Chart:🥇J-hope- #8 (+1) 🔥😁🥈Lisa- #52 (-1)🥉Nayeon-… |
-| RT @BeauTFC: Another way of saying this is every week. A child. Under 14. Every week. Just in Ohio. But sure "only 52" works as well. |
+| Skip the electric ice cream maker! Celebrate #nationalicecreamday with a fun, energy-efficient way to make this swe… https://t.co/J3kUaIEYeQ |
+| I made it to the ice cream shop! #NationalIceCreamDay https://t.co/9XqKM8KYLI |
+| RT @RiverdaleDark: Happy #NationalIceCreamDay 🥤 https://t.co/NPXKsT2GaV |
 
-The most popular user is: **Dappy_52**
-<div class="alert alert-block alert-danger"> RT @seyedele: My wife and I tried to play COD multiplayer yesterday. Shot her in the head while she was still trying to figure out the cont…</div>
+The most popular user is: **rachlouiseb**
+<div class="alert alert-block alert-danger"> RT @WrenKitchens: I Scream, You Scream, We All Scream for Ice Cream! 🍦
+
+To #Win this ice cream maker, like, share &amp; comment with your favou…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **asymmetricinfo** |
-| #2 Most tweeted to  | **NYCdisinterest** |
-| #3 Most tweeted to  | **JillFilipovic** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 1.44%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Snoopy** |
+| #2 Most tweeted to  | **WrenKitchens** |
+| #3 Most tweeted to  | **CORSAIR** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 5.26%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Dappy_52**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **52**  |
-| second  | **"ONLY**  |
-| third  | **UNDER** |
-| fourth  | **14**  |
-| fifth  | **OHIO**  |
+| first  | **NATIONALICECREAMDAY**  |
+| second  | **ICE**  |
+| third  | **CREAM** |
+| fourth  | **🍦**  |
+| fifth  | **SCREAM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-16BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+![image](assets/2022-07-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @asymmetricinfo: @NYCdisinterest @JillFilipovic Only 10% of girls under 11 even get their period. Only 52 girls under the age of 14 got… |
+|RT @Snoopy: Celebrate #NationalIceCreamDay with a scoop of your favorite flavor! 🍦 https://t.co/Se8hp77vOf |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Dappy_52**  |
+| The most retweeted user is: **rachlouiseb**  |
 | ------------- |
-| RT @seyedele: My wife and I tried to play COD multiplayer yesterday. Shot her in the head while she was still trying to figure out the cont… |
+| RT @WrenKitchens: I Scream, You Scream, We All Scream for Ice Cream! 🍦To #Win this ice cream maker, like, share &amp; comment with your favou… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
