@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalIceCreamDay"**
+&#x1F34E; **TOPIC = "#ClimateEmergency"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-17TWEETS.png)
+![image](assets/2022-07-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Skip the electric ice cream maker! Celebrate #nationalicecreamday with a fun, energy-efficient way to make this swe… https://t.co/J3kUaIEYeQ |
-| I made it to the ice cream shop! #NationalIceCreamDay https://t.co/9XqKM8KYLI |
-| RT @RiverdaleDark: Happy #NationalIceCreamDay 🥤 https://t.co/NPXKsT2GaV |
+| RT @eco_woolston: It was not forecast to be above the temperature of the human body today but when is the forecast accurate. #hottestdayoft… |
+| Breaking: 1.7 million member strong American Federation of Teachers passes groundbreaking resolution calling for al… https://t.co/Q3OOs7FIKT |
+| We travelled through France every summer of my childhood, en route to my Mum’s home city of Barcelona. I don’t reme… https://t.co/Alsw3h7DY1 |
 
-The most popular user is: **rachlouiseb**
-<div class="alert alert-block alert-danger"> RT @WrenKitchens: I Scream, You Scream, We All Scream for Ice Cream! 🍦
-
-To #Win this ice cream maker, like, share &amp; comment with your favou…</div>
+The most popular user is: **WCodyEdwards**
+<div class="alert alert-block alert-danger"> RT @kirstinferguson: The clever people at @NASA have created this deceptively simple yet highly effective data visualisation showing monthl…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Snoopy** |
-| #2 Most tweeted to  | **WrenKitchens** |
-| #3 Most tweeted to  | **CORSAIR** |
-| NewProfiles (less than 10 days) | 0.54%  |
-| Tweeters with < 10 followers  | 5.26%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **MikeHudema** |
+| #2 Most tweeted to  | **CarolineLucas** |
+| #3 Most tweeted to  | **XRebellionUK** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 2.24%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ To #Win this ice cream maker, like, share &amp; comment with your favou…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALICECREAMDAY**  |
-| second  | **ICE**  |
-| third  | **CREAM** |
-| fourth  | **🍦**  |
-| fifth  | **SCREAM**  |
+| first  | **CLIMATEEMERGENCY**  |
+| second  | **@MIKEHUDEMA:**  |
+| third  | **CLIMATE** |
+| fourth  | **HEATWAVE**  |
+| fifth  | **TEMPERATURES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+![image](assets/2022-07-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Snoopy: Celebrate #NationalIceCreamDay with a scoop of your favorite flavor! 🍦 https://t.co/Se8hp77vOf |
+|RT @XRebellionUK: With thousands evacuated in France as wildfires rip across Europe, here's how the state are responding to those demanding… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rachlouiseb**  |
+| The most retweeted user is: **WCodyEdwards**  |
 | ------------- |
-| RT @WrenKitchens: I Scream, You Scream, We All Scream for Ice Cream! 🍦To #Win this ice cream maker, like, share &amp; comment with your favou… |
+| RT @kirstinferguson: The clever people at @NASA have created this deceptively simple yet highly effective data visualisation showing monthl… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
