@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ClimateEmergency"**
+&#x1F34E; **TOPIC = "SNKRS"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-18TWEETS.png)
+![image](assets/2022-07-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @eco_woolston: It was not forecast to be above the temperature of the human body today but when is the forecast accurate. #hottestdayoft… |
-| Breaking: 1.7 million member strong American Federation of Teachers passes groundbreaking resolution calling for al… https://t.co/Q3OOs7FIKT |
-| We travelled through France every summer of my childhood, en route to my Mum’s home city of Barcelona. I don’t reme… https://t.co/Alsw3h7DY1 |
+| Bruh, I hate this shitAm abt to create this craziest/meanest bot ever, becuz y’all don’t wanna play fair#SNKRS https://t.co/Ug5NiKdEpL |
+| @SOLELINKS Are they dropping on Snkrs ? |
+| 👀Is @Nike working on a eth Wallet? Tied into SNKRS? Or Nike App? Web? https://t.co/a9EquXhZT2 https://t.co/6b0D8E811i |
 
-The most popular user is: **WCodyEdwards**
-<div class="alert alert-block alert-danger"> RT @kirstinferguson: The clever people at @NASA have created this deceptively simple yet highly effective data visualisation showing monthl…</div>
+The most popular user is: **mayu_SNKRS**
+<div class="alert alert-block alert-danger"> RT @imchasingdreamz: ME IN THE NEXT LIFE https://t.co/289oHJwUyB</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MikeHudema** |
-| #2 Most tweeted to  | **CarolineLucas** |
-| #3 Most tweeted to  | **XRebellionUK** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 2.24%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **thesnkrsleaker** |
+| #2 Most tweeted to  | **nicekicks** |
+| #3 Most tweeted to  | **snkr_twitr** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 9.08%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **WCodyEdwards**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLIMATEEMERGENCY**  |
-| second  | **@MIKEHUDEMA:**  |
-| third  | **CLIMATE** |
-| fourth  | **HEATWAVE**  |
-| fifth  | **TEMPERATURES**  |
+| first  | **SNKRS**  |
+| second  | **LOW**  |
+| third  | **NIKE** |
+| fourth  | **1**  |
+| fifth  | **APP**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+![image](assets/2022-07-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @XRebellionUK: With thousands evacuated in France as wildfires rip across Europe, here's how the state are responding to those demanding… |
+|RT @Felix51223307: Via Nike⁠ SNKRS: please🙏🏻👏🏻🙏🏻👏🏻 ⁦@nikestore⁩ let me copped dunk Jackie Robinson  thanks 🙏🏻🙌🏻🙏🏻 ⁦@nikestore⁩  https://t.c… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WCodyEdwards**  |
+| The most retweeted user is: **mayu_SNKRS**  |
 | ------------- |
-| RT @kirstinferguson: The clever people at @NASA have created this deceptively simple yet highly effective data visualisation showing monthl… |
+| RT @imchasingdreamz: ME IN THE NEXT LIFE https://t.co/289oHJwUyB |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
