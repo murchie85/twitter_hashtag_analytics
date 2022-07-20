@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "SNKRS"**
+&#x1F34E; **TOPIC = "Truss"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-19TWEETS.png)
+![image](assets/2022-07-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Bruh, I hate this shitAm abt to create this craziest/meanest bot ever, becuz y’all don’t wanna play fair#SNKRS https://t.co/Ug5NiKdEpL |
-| @SOLELINKS Are they dropping on Snkrs ? |
-| 👀Is @Nike working on a eth Wallet? Tied into SNKRS? Or Nike App? Web? https://t.co/a9EquXhZT2 https://t.co/6b0D8E811i |
+| RT @AdamBienkov: Liz Truss has now deleted her tweet promising to "hit the ground from day one." https://t.co/8YrBSxRoP7 |
+| RT @ladyhaja: Obvs the Liz Truss cheese speech is now more iconic than Churchill’s beaches – but I still don’t think the *level* of cringe/… |
+| @twlldun Libdems absolutely rooting for Truss. |
 
-The most popular user is: **mayu_SNKRS**
-<div class="alert alert-block alert-danger"> RT @imchasingdreamz: ME IN THE NEXT LIFE https://t.co/289oHJwUyB</div>
+The most popular user is: **mcgrogan_hugh**
+<div class="alert alert-block alert-danger"> RT @Rachael_Swindon: Tory MPs Liz Truss, Anne-Marie Trevelyan, James Gray, and Vicky Ford have all put their Amazon Prime subscriptions on…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **thesnkrsleaker** |
-| #2 Most tweeted to  | **nicekicks** |
-| #3 Most tweeted to  | **snkr_twitr** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 9.08%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **ladyhaja** |
+| #2 Most tweeted to  | **Parody_PM** |
+| #3 Most tweeted to  | **AdamBienkov** |
+| NewProfiles (less than 10 days) | 0.54%  |
+| Tweeters with < 10 followers  | 3.46%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mayu_SNKRS**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SNKRS**  |
-| second  | **LOW**  |
-| third  | **NIKE** |
-| fourth  | **1**  |
-| fifth  | **APP**  |
+| first  | **TRUSS**  |
+| second  | **LIZ**  |
+| third  | **SUNAK** |
+| fourth  | **RISHI**  |
+| fifth  | **PM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-07-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Felix51223307: Via Nike⁠ SNKRS: please🙏🏻👏🏻🙏🏻👏🏻 ⁦@nikestore⁩ let me copped dunk Jackie Robinson  thanks 🙏🏻🙌🏻🙏🏻 ⁦@nikestore⁩  https://t.c… |
+|RT @DrSimonCMP: There are some amazing people with incredible intellects in this country, yet it boils down to Rishi Sunak and Liz Truss… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mayu_SNKRS**  |
+| The most retweeted user is: **mcgrogan_hugh**  |
 | ------------- |
-| RT @imchasingdreamz: ME IN THE NEXT LIFE https://t.co/289oHJwUyB |
+| RT @Rachael_Swindon: Tory MPs Liz Truss, Anne-Marie Trevelyan, James Gray, and Vicky Ford have all put their Amazon Prime subscriptions on… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
