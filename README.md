@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nolan"**
+&#x1F34E; **TOPIC = "Lord of the Rings"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-21TWEETS.png)
+![image](assets/2022-07-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CultureCrave: First poster for Christopher Nolan's #Oppenheimer https://t.co/T25qATY1Ek |
-| @dan_florie @billybutlerfan @RustyMcCoy9 @nolan_szn @joshmanning121 With below average talent. So still doing more with less. |
-| RT @getFANDOM: Prolific comic book writer Alan Grant has died at 73He was best known for classic runs of Judge Dredd, Batman, and Lobo ht… |
+| RT @DiscussingFilm: First look at Anson Boon as Sauron in ‘THE LORD OF THE RINGS: THE RINGS OF POWER’ #SDCC https://t.co/3VTzlYl9jM |
+| Should I rewatch all of Lord Of The Rings or all of Game Of Thrones |
+| Lord of the Rings walked so Game of Thrones could run, and then eventually snap its leg 5 away from the finish line |
 
-The most popular user is: **nolan_kerwin**
-<div class="alert alert-block alert-danger"> RT @PAVGOD: when u have nice shoes https://t.co/sxecMfRalZ</div>
+The most popular user is: **odultfiction**
+<div class="alert alert-block alert-danger"> RT @faramirsangel: hey [with intention of forcing you to watch lord of the rings]</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CultureCrave** |
-| #2 Most tweeted to  | **FilmUpdates** |
-| #3 Most tweeted to  | **DiscussingFilm** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 5.14%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **DiscussingFilm** |
+| #2 Most tweeted to  | **CultureCrave** |
+| #3 Most tweeted to  | **bearmccreary** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.6%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nolan_kerwin**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRISTOPHER**  |
-| second  | **OPPENHEIMER**  |
-| third  | **FIRST** |
-| fourth  | **POSTER**  |
-| fifth  | **"NOLANS"**  |
+| first  | **LORD**  |
+| second  | **RINGS**  |
+| third  | **RINGS:** |
+| fourth  | **TRAILER**  |
+| fifth  | **SDCC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/2022-07-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FilmUpdates: Christopher Nolan’s ‘DUNKIRK’ released in theaters on this day, 5 years ago. https://t.co/c2Ba1lbSVN |
+|RT @BoundingComics: ICYF: The Lord Of The Rings Actor Viggo Mortensen Questions What Source Material Amazon Is Using For The Rings Of Power… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nolan_kerwin**  |
+| The most retweeted user is: **odultfiction**  |
 | ------------- |
-| RT @PAVGOD: when u have nice shoes https://t.co/sxecMfRalZ |
+| RT @faramirsangel: hey [with intention of forcing you to watch lord of the rings] |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
