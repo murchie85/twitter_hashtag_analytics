@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lord of the Rings"**
+&#x1F34E; **TOPIC = "#Caturday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-22TWEETS.png)
+![image](assets/2022-07-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DiscussingFilm: First look at Anson Boon as Sauron in ‘THE LORD OF THE RINGS: THE RINGS OF POWER’ #SDCC https://t.co/3VTzlYl9jM |
-| Should I rewatch all of Lord Of The Rings or all of Game Of Thrones |
-| Lord of the Rings walked so Game of Thrones could run, and then eventually snap its leg 5 away from the finish line |
+| RT @Kieran24_7: Such a poser #Caturday https://t.co/3TDN80B4PG |
+| RT @MoxxieG: ✨Sleepy glittercorn morning vibes✨ Come get cozy during this RARE morning stream~ ..#vtuber #vtuberEN #saturdayvibes #cozy… |
+| RT @_ko_mon: balance artistry#photo via pinterest#catgang #cats #CatsOfTwitter #Caturday@flyer4life @rRealNeilNash @aoyama_legato2 @Nels… |
 
-The most popular user is: **odultfiction**
-<div class="alert alert-block alert-danger"> RT @faramirsangel: hey [with intention of forcing you to watch lord of the rings]</div>
+The most popular user is: **zulister**
+<div class="alert alert-block alert-danger"> RT @Fibutton: No DNA test needed... 🐾❤️
+#Caturday https://t.co/sZdSNxz5J0</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DiscussingFilm** |
-| #2 Most tweeted to  | **CultureCrave** |
-| #3 Most tweeted to  | **bearmccreary** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.6%  |
+| #1 Most tweeted to  | **Number10cat** |
+| #2 Most tweeted to  | **thechrisbarron** |
+| #3 Most tweeted to  | **purrinink** |
+| NewProfiles (less than 10 days) | 0.72%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **odultfiction**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LORD**  |
-| second  | **RINGS**  |
-| third  | **RINGS:** |
-| fourth  | **TRAILER**  |
-| fifth  | **SDCC**  |
+| first  | **CATURDAY**  |
+| second  | **HAPPY**  |
+| third  | **CATSOFTWITTER** |
+| fourth  | **CAT**  |
+| fifth  | **CATS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2022-07-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BoundingComics: ICYF: The Lord Of The Rings Actor Viggo Mortensen Questions What Source Material Amazon Is Using For The Rings Of Power… |
+|Rough life Watson is living #Caturday #CatsOfTwitter #watsonthegingerkitty https://t.co/6i7GsrMvbx |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **odultfiction**  |
+| The most retweeted user is: **zulister**  |
 | ------------- |
-| RT @faramirsangel: hey [with intention of forcing you to watch lord of the rings] |
+| RT @Fibutton: No DNA test needed... 🐾❤️#Caturday https://t.co/sZdSNxz5J0 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
