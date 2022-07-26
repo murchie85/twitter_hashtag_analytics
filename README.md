@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Meat"**
+&#x1F34E; **TOPIC = "#entry"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-25TWEETS.png)
+![image](assets/2022-07-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Resist_05: Netherlands… Bill Gates factory that makes synthetic lab grown meat goes up in flames RESIST 🔥🔥🔥 https://t.co/b0tMfs1Yyx |
-| @angelsflyinhell I just beat the meat and hope for the best.mrrrreow 😏 |
-| @robreiner Meat Head! |
+| RT @AuntieAnnes: Wanna win big? Tag us in a video telling us why you need the dough for a chance to win $10,000.​Tag Auntie Anne's​Tell… |
+| Needing pretzels 🥨, Daughters birthday coming up 🎁 🥳 and back to school shopping 🛍 ✏️ 🏫!  Get that dough 🤤… https://t.co/4iKbhYTvML |
+| @AuntieAnnes I could use the cash towards my hospital treatment visits that are 2 hrs away from home. With gas bein… https://t.co/yRASF98hd3 |
 
-The most popular user is: **beating_my_meat**
-<div class="alert alert-block alert-danger"> RT @PEScorpiio: Incoming medical students walk out at University of Michigan’s white coat ceremony as the keynote speaker is openly anti-ab…</div>
+The most popular user is: **SHiNExTiME**
+<div class="alert alert-block alert-danger"> RT @AuntieAnnes: We're partnering with @Cashapp to give away $30,000 from 9am ET – 9pm ET for #NationalAuntieDay. Tell us why you need the…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SlimJim** |
-| #2 Most tweeted to  | **PeterSweden7** |
-| #3 Most tweeted to  | **VeroneJoseph3** |
-| NewProfiles (less than 10 days) | 1.8%  |
-| Tweeters with < 10 followers  | 10.82%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **AuntieAnnes** |
+| #2 Most tweeted to  | **CashApp** |
+| #3 Most tweeted to  | **EntrepreneurIND** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 26.62%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **beating_my_meat**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEAT**  |
-| second  | **PEOPLE**  |
-| third  | **SAME** |
-| fourth  | **TELLING**  |
-| fifth  | **EAT**  |
+| first  | **@CASHAPP**  |
+| second  | **NATIONALAUNTIEANNESDAY**  |
+| third  | **ENTRY** |
+| fourth  | **NEED**  |
+| fifth  | **@AUNTIEANNES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (13.33%)
+![image](assets/2022-07-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @monicaonairtalk: “ They will forbid you to marry. They will forbid you to eat meat.” We were warned. But we are a FREE people. In Jehov… |
+|@AuntieAnnes @CashApp #NationalAuntieAnnesDay #entry @AuntieAnnes honestly would just go crazy on some Auntie Anne’… https://t.co/yOXvG1hO5T |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **beating_my_meat**  |
+| The most retweeted user is: **SHiNExTiME**  |
 | ------------- |
-| RT @PEScorpiio: Incoming medical students walk out at University of Michigan’s white coat ceremony as the keynote speaker is openly anti-ab… |
+| RT @AuntieAnnes: We're partnering with @Cashapp to give away $30,000 from 9am ET – 9pm ET for #NationalAuntieDay. Tell us why you need the… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
