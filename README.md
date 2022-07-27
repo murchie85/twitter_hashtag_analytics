@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#entry"**
+&#x1F34E; **TOPIC = "Paul Whelan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-26TWEETS.png)
+![image](assets/2022-07-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AuntieAnnes: Wanna win big? Tag us in a video telling us why you need the dough for a chance to win $10,000.​Tag Auntie Anne's​Tell… |
-| Needing pretzels 🥨, Daughters birthday coming up 🎁 🥳 and back to school shopping 🛍 ✏️ 🏫!  Get that dough 🤤… https://t.co/4iKbhYTvML |
-| @AuntieAnnes I could use the cash towards my hospital treatment visits that are 2 hrs away from home. With gas bein… https://t.co/yRASF98hd3 |
+| RT @AP: The Biden administration has offered a deal to Russia aimed at bringing home WNBA star Brittney Griner and another jailed American… |
+| RT @NishScott_Ham: “the Biden administration has offered to exchange Viktor Bout, a convicted Russian arms trafficker serving a 25-year US… |
+| Trevor Reed says White House is 'not doing enough' to bring Brittney Griner and Paul Whelan home - NBC News https://t.co/s79Jcuf2oZ |
 
-The most popular user is: **SHiNExTiME**
-<div class="alert alert-block alert-danger"> RT @AuntieAnnes: We're partnering with @Cashapp to give away $30,000 from 9am ET – 9pm ET for #NationalAuntieDay. Tell us why you need the…</div>
+The most popular user is: **ws_whelan**
+<div class="alert alert-block alert-danger"> RT @UncvrngTheTruth: Let’s set the record straight. Marjorie Taylor Greene spoke at a Neo-Nazi convention because she is a Nazi. Paul Gosar…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AuntieAnnes** |
-| #2 Most tweeted to  | **CashApp** |
-| #3 Most tweeted to  | **EntrepreneurIND** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 26.62%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **cnnbrk** |
+| #3 Most tweeted to  | **NatSecCNN** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.74%|
+| Tweeters with > 1000000 followers  | 0.93%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SHiNExTiME**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@CASHAPP**  |
-| second  | **NATIONALAUNTIEANNESDAY**  |
-| third  | **ENTRY** |
-| fourth  | **NEED**  |
-| fifth  | **@AUNTIEANNES**  |
+| first  | **RUSSIAN**  |
+| second  | **ARMS**  |
+| third  | **VIKTOR** |
+| fourth  | **BOUT**  |
+| fifth  | **EXCHANGE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-07-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@AuntieAnnes @CashApp #NationalAuntieAnnesDay #entry @AuntieAnnes honestly would just go crazy on some Auntie Anne’… https://t.co/yOXvG1hO5T |
+|RT @Phil_Lewis_: WASHINGTON (AP) — Blinken says US has made substantial offer to Russia for release of American detainees Paul Whelan and B… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SHiNExTiME**  |
+| The most retweeted user is: **ws_whelan**  |
 | ------------- |
-| RT @AuntieAnnes: We're partnering with @Cashapp to give away $30,000 from 9am ET – 9pm ET for #NationalAuntieDay. Tell us why you need the… |
+| RT @UncvrngTheTruth: Let’s set the record straight. Marjorie Taylor Greene spoke at a Neo-Nazi convention because she is a Nazi. Paul Gosar… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
