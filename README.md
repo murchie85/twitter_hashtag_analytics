@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Paul Whelan"**
+&#x1F34E; **TOPIC = "Reed"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-27TWEETS.png)
+![image](assets/2022-07-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AP: The Biden administration has offered a deal to Russia aimed at bringing home WNBA star Brittney Griner and another jailed American… |
-| RT @NishScott_Ham: “the Biden administration has offered to exchange Viktor Bout, a convicted Russian arms trafficker serving a 25-year US… |
-| Trevor Reed says White House is 'not doing enough' to bring Brittney Griner and Paul Whelan home - NBC News https://t.co/s79Jcuf2oZ |
+| With our experience, we're eager to put our expertise to work for you. For quality construction, Reed Brothers Cons… https://t.co/gdAUx3nNIW |
+| RT @RBReich: Just a reminder: At Walter Reed they have socialized medicine. |
+| RT @frynaomifry: i went on jokermen to talk lou reed and we went deep!!!! |
 
-The most popular user is: **ws_whelan**
-<div class="alert alert-block alert-danger"> RT @UncvrngTheTruth: Let’s set the record straight. Marjorie Taylor Greene spoke at a Neo-Nazi convention because she is a Nazi. Paul Gosar…</div>
+The most popular user is: **reed_vettel**
+<div class="alert alert-block alert-danger"> RT @F1: BREAKING: Sebastian Vettel has announced he will retire from F1 at the end of the 2022 season
+
+4 world titles
+53 race wins
+122 podi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **cnnbrk** |
-| #3 Most tweeted to  | **NatSecCNN** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.74%|
-| Tweeters with > 1000000 followers  | 0.93%  |
+| #1 Most tweeted to  | **nflthrowback** |
+| #2 Most tweeted to  | **kathrynw5** |
+| #3 Most tweeted to  | **RBReich** |
+| NewProfiles (less than 10 days) | 1.18%  |
+| Tweeters with < 10 followers  | 6.06%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **ws_whelan**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RUSSIAN**  |
-| second  | **ARMS**  |
-| third  | **VIKTOR** |
-| fourth  | **BOUT**  |
-| fifth  | **EXCHANGE**  |
+| first  | **REED**  |
+| second  | **WALTER**  |
+| third  | **REVIS** |
+| fourth  | **PREDECESSOR**  |
+| fifth  | **GOT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2022-07-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Phil_Lewis_: WASHINGTON (AP) — Blinken says US has made substantial offer to Russia for release of American detainees Paul Whelan and B… |
+|RT @RBReich: Just a reminder: At Walter Reed they have socialized medicine. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ws_whelan**  |
+| The most retweeted user is: **reed_vettel**  |
 | ------------- |
-| RT @UncvrngTheTruth: Let’s set the record straight. Marjorie Taylor Greene spoke at a Neo-Nazi convention because she is a Nazi. Paul Gosar… |
+| RT @F1: BREAKING: Sebastian Vettel has announced he will retire from F1 at the end of the 2022 season4 world titles53 race wins122 podi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
