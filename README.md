@@ -1,39 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Reed"**
+&#x1F34E; **TOPIC = "Bernardo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-28TWEETS.png)
+![image](assets/2022-07-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| With our experience, we're eager to put our expertise to work for you. For quality construction, Reed Brothers Cons… https://t.co/gdAUx3nNIW |
-| RT @RBReich: Just a reminder: At Walter Reed they have socialized medicine. |
-| RT @frynaomifry: i went on jokermen to talk lou reed and we went deep!!!! |
+| RT @ReshadRahman_: ❗️Barcelona will try their absolute best to sign Bernardo Silva. @DBR8 #Transfers 🇵🇹 |
+| RT @ReshadRahman_: ❗️Barcelona will try their absolute best to sign Bernardo Silva. @DBR8 #Transfers 🇵🇹 |
+| RT @ManagingBarca: 🚨🚨| Bernardo Silva is getting closer to FC Barcelona.@gerardromero [🎖️] |
 
-The most popular user is: **reed_vettel**
-<div class="alert alert-block alert-danger"> RT @F1: BREAKING: Sebastian Vettel has announced he will retire from F1 at the end of the 2022 season
+The most popular user is: **bernardo__55**
+<div class="alert alert-block alert-danger"> RT @ThePunnyWorld: My wife told me to take the spider out instead of killing him.
 
-4 world titles
-53 race wins
-122 podi…</div>
+Went out. Had a few drinks. Nice guy. He's a web designe…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nflthrowback** |
-| #2 Most tweeted to  | **kathrynw5** |
-| #3 Most tweeted to  | **RBReich** |
-| NewProfiles (less than 10 days) | 1.18%  |
-| Tweeters with < 10 followers  | 6.06%|
+| #1 Most tweeted to  | **ManagingBarca** |
+| #2 Most tweeted to  | **HelenaCondis** |
+| #3 Most tweeted to  | **gerardromero** |
+| NewProfiles (less than 10 days) | 1.2%  |
+| Tweeters with < 10 followers  | 4.9%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -43,28 +41,28 @@ The most popular user is: **reed_vettel**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REED**  |
-| second  | **WALTER**  |
-| third  | **REVIS** |
-| fourth  | **PREDECESSOR**  |
-| fifth  | **GOT**  |
+| first  | **BERNARDO**  |
+| second  | **SILVA**  |
+| third  | **BARCELONA** |
+| fourth  | **SIGN**  |
+| fifth  | **FC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/2022-07-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RBReich: Just a reminder: At Walter Reed they have socialized medicine. |
+|RT @ReshadRahman_: (🌕) Bernardo Silva remains as Barcelona’s great goal. @HelenaCondis #Transfers 🇵🇹 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **reed_vettel**  |
+| The most retweeted user is: **bernardo__55**  |
 | ------------- |
-| RT @F1: BREAKING: Sebastian Vettel has announced he will retire from F1 at the end of the 2022 season4 world titles53 race wins122 podi… |
+| RT @ThePunnyWorld: My wife told me to take the spider out instead of killing him.Went out. Had a few drinks. Nice guy. He's a web designe… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
