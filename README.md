@@ -1,37 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sanchez"**
+&#x1F34E; **TOPIC = "Germany"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-07-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-30TWEETS.png)
+![image](assets/2022-07-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Worrying that Sanchez is starting at LCB again to be honest because you'd imagine this is how we're going to line u… https://t.co/gvADlMXbnO |
-| ong , ain’t trippin over nobody fr 😭💀 https://t.co/8DEQre4XP7 |
-| @danielogoun7 Brooooooo!!!!!It's what players like CR7, Pogba, Sanchez, and Zlatan were unhappy about. |
+| RT @BBCBreaking: England are women's Euro 2022 champions after beating Germany 2-1 in nail-biting Wembley final following extra time https:… |
+| CONGRATULATIONS The lionesses have done it England win UEFA Woman’s Euro 2022#uefa #football #womanseuro2022… https://t.co/XYhHMXaTB1 |
+| Commiserations to Germany. |
 
-The most popular user is: **sanchez_iver**
-<div class="alert alert-block alert-danger"> RT @jonstewart: A Message to and from Mister Senator Ted Cruz...Attorney at Law
-#PassthePactact https://t.co/QjGRGdPmq4</div>
+The most popular user is: **ChiariPaul**
+<div class="alert alert-block alert-danger"> RT @PeterSweden7: THIS IS WEIRD
+
+The birthrate has collapsed all over the world at the same time this year and no one seems to know why.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonFilipkowski** |
-| #2 Most tweeted to  | **LeChouNews** |
-| #3 Most tweeted to  | **WCoastScouting** |
-| NewProfiles (less than 10 days) | 1.32%  |
-| Tweeters with < 10 followers  | 6.62%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Lionesses** |
+| #2 Most tweeted to  | **BBCBreaking** |
+| #3 Most tweeted to  | **btsportfootball** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 3.8%|
+| Tweeters with > 1000000 followers  | 0.68%  |
 
 
 
@@ -40,28 +41,28 @@ The most popular user is: **sanchez_iver**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SANCHEZ**  |
-| second  | **REP**  |
-| third  | **OFF** |
-| fourth  | **REPUBLICAN**  |
-| fifth  | **MISOGYNISTIC**  |
+| first  | **GERMANY**  |
+| second  | **ENGLAND**  |
+| third  | **2-1** |
+| fourth  | **EURO**  |
+| fifth  | **2022**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-07-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+![image](assets/2022-07-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LangmanVince: Linda Sanchez is the poster child for the ugly disgusting angry left👇 https://t.co/lKQQwxDof1 |
+|RT @CarliLloyd: Congratulations to @Lionesses. No bigger stage than what you all just accomplished. Amazing style of football, togetherness… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sanchez_iver**  |
+| The most retweeted user is: **ChiariPaul**  |
 | ------------- |
-| RT @jonstewart: A Message to and from Mister Senator Ted Cruz...Attorney at Law#PassthePactact https://t.co/QjGRGdPmq4 |
+| RT @PeterSweden7: THIS IS WEIRDThe birthrate has collapsed all over the world at the same time this year and no one seems to know why.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
