@@ -1,38 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Germany"**
+&#x1F34E; **TOPIC = "Watson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-07-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-07-31TWEETS.png)
+![image](assets/2022-08-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BBCBreaking: England are women's Euro 2022 champions after beating Germany 2-1 in nail-biting Wembley final following extra time https:… |
-| CONGRATULATIONS The lionesses have done it England win UEFA Woman’s Euro 2022#uefa #football #womanseuro2022… https://t.co/XYhHMXaTB1 |
-| Commiserations to Germany. |
+| @Buscusriot @claywhis @nytimes I don’t know any of the women. You’re assumption is Watson’s lying &amp; the women are t… https://t.co/WEMS8fwGAK |
+| RT @SznPltts: Deshaun Watson bout to get 6-8 games for sexual assault but Ridley gets 1 year for gambling 1500 https://t.co/S7wS6x0kXr |
+| RT @KuhnTristen: NFL suspensions: Calvin Ridley: 17 games, betting Vontaze Burfict: 12 games, targeting DeAndre Hopkins: 6 games, PEDMa… |
 
-The most popular user is: **ChiariPaul**
-<div class="alert alert-block alert-danger"> RT @PeterSweden7: THIS IS WEIRD
-
-The birthrate has collapsed all over the world at the same time this year and no one seems to know why.…</div>
+The most popular user is: **Scruz6160**
+<div class="alert alert-block alert-danger"> RT @KuhnTristen: NFL suspensions: 
+Calvin Ridley: 17 games, betting 
+Vontaze Burfict: 12 games, targeting 
+DeAndre Hopkins: 6 games, PED
+Ma…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Lionesses** |
-| #2 Most tweeted to  | **BBCBreaking** |
-| #3 Most tweeted to  | **btsportfootball** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 3.8%|
-| Tweeters with > 1000000 followers  | 0.68%  |
+| #1 Most tweeted to  | **BarstoolBurgh** |
+| #2 Most tweeted to  | **KuhnTristen** |
+| #3 Most tweeted to  | **KyleBrandt** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 4.6%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +43,28 @@ The birthrate has collapsed all over the world at the same time this year and no
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GERMANY**  |
-| second  | **ENGLAND**  |
-| third  | **2-1** |
-| fourth  | **EURO**  |
-| fifth  | **2022**  |
+| first  | **WATSON**  |
+| second  | **DESHAUN**  |
+| third  | **GAMES** |
+| fourth  | **6**  |
+| fifth  | **NFL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-07-31BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-07-31sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
+![image](assets/2022-08-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CarliLloyd: Congratulations to @Lionesses. No bigger stage than what you all just accomplished. Amazing style of football, togetherness… |
+|RT @BarstoolBurgh: Deshaun Watson after sexually assaulting 26 different women, getting $200 million dollars and only receiving a six game… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ChiariPaul**  |
+| The most retweeted user is: **Scruz6160**  |
 | ------------- |
-| RT @PeterSweden7: THIS IS WEIRDThe birthrate has collapsed all over the world at the same time this year and no one seems to know why.… |
+| RT @KuhnTristen: NFL suspensions: Calvin Ridley: 17 games, betting Vontaze Burfict: 12 games, targeting DeAndre Hopkins: 6 games, PEDMa… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
