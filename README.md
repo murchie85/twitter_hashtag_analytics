@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Watson"**
+&#x1F34E; **TOPIC = "Supreme Court"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-01TWEETS.png)
+![image](assets/2022-08-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Buscusriot @claywhis @nytimes I don’t know any of the women. You’re assumption is Watson’s lying &amp; the women are t… https://t.co/WEMS8fwGAK |
-| RT @SznPltts: Deshaun Watson bout to get 6-8 games for sexual assault but Ridley gets 1 year for gambling 1500 https://t.co/S7wS6x0kXr |
-| RT @KuhnTristen: NFL suspensions: Calvin Ridley: 17 games, betting Vontaze Burfict: 12 games, targeting DeAndre Hopkins: 6 games, PEDMa… |
+| Washington PostJustice Dept. sues Idaho over upcoming near-total abortion ban in its first legal action since Supr… https://t.co/Oh0DPygyNb |
+| RT @jilevin: The Handmaid’s Tale meets The United States Supreme Court. https://t.co/1nxRRxjHIY |
+| RT @ewarren: This bill would help make sure that the extremist Supreme Court doesn’t get the last word in our democracy.https://t.co/GLQ0d… |
 
-The most popular user is: **Scruz6160**
-<div class="alert alert-block alert-danger"> RT @KuhnTristen: NFL suspensions: 
-Calvin Ridley: 17 games, betting 
-Vontaze Burfict: 12 games, targeting 
-DeAndre Hopkins: 6 games, PED
-Ma…</div>
+The most popular user is: **dimonic2003**
+<div class="alert alert-block alert-danger"> RT @OccupyDemocrats: BREAKING NEWS: Democrats introduce a bill to create 18-year term limits for Supreme Court justices that would immediat…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarstoolBurgh** |
-| #2 Most tweeted to  | **KuhnTristen** |
-| #3 Most tweeted to  | **KyleBrandt** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 4.6%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **marceelias** |
+| #2 Most tweeted to  | **DemocracyDocket** |
+| #3 Most tweeted to  | **cjwerleman** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 3.04%|
+| Tweeters with > 1000000 followers  | 0.48%  |
 
 
 
@@ -43,28 +39,28 @@ Ma…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WATSON**  |
-| second  | **DESHAUN**  |
-| third  | **GAMES** |
-| fourth  | **6**  |
-| fifth  | **NFL**  |
+| first  | **SUPREME**  |
+| second  | **COURT**  |
+| third  | **LAW** |
+| fourth  | **PENNSYLVANIA**  |
+| fifth  | **ACT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/2022-08-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BarstoolBurgh: Deshaun Watson after sexually assaulting 26 different women, getting $200 million dollars and only receiving a six game… |
+|RT @marceelias: 🚨BREAKING: Pennsylvania Supreme Court REJECTS Republican attack on Act 77, the state’s election reform law that established… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Scruz6160**  |
+| The most retweeted user is: **dimonic2003**  |
 | ------------- |
-| RT @KuhnTristen: NFL suspensions: Calvin Ridley: 17 games, betting Vontaze Burfict: 12 games, targeting DeAndre Hopkins: 6 games, PEDMa… |
+| RT @OccupyDemocrats: BREAKING NEWS: Democrats introduce a bill to create 18-year term limits for Supreme Court justices that would immediat… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
