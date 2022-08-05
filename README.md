@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "DeSantis"**
+&#x1F34E; **TOPIC = "Nixon"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-04TWEETS.png)
+![image](assets/2022-08-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Ben32074 @rappin_ronnie2 @MattDeMicael93 @MattWalshBlog The hatred of Trump from the masses on the left is 100% a… https://t.co/dvGgNZickY |
-| RT @thehill: JUST IN: DeSantis suspends state attorney for refusing to enforce laws on abortion, transgender surgery https://t.co/YTQvsCgEe… |
-| RT @DashDobrofsky: Ron DeSantis is forcing teachers to attend a 3-day “patriotic history” camp where they indoctrinate teachers to lie abou… |
+| @dick_nixon So many musical let alone cultural contradictions in this. |
+| @BeschlossDC Ten years old at the time. Playing football in the street in front of my buddy’s house. Our friend pas… https://t.co/taTIXOBxGE |
+| RT @RNCResearch: "In a year and a half, Joe Biden and company have taken the U.S. economy to where it was in the early 1970s — and it took… |
 
-The most popular user is: **celticlas**
-<div class="alert alert-block alert-danger"> RT @RonFilipkowski: My resignation letter to Governor Desantis. https://t.co/Wc78tgr6Ef</div>
+The most popular user is: **romo_nixon**
+<div class="alert alert-block alert-danger"> RT @ladygaga: What’s fortnight</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AndrewWarrenFL** |
-| #2 Most tweeted to  | **AaronParnas** |
-| #3 Most tweeted to  | **RonFilipkowski** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 4.1%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **BeschlossDC** |
+| #2 Most tweeted to  | **dick_nixon** |
+| #3 Most tweeted to  | **SpiroAgnewGhost** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 4.58%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **celticlas**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DESANTIS**  |
-| second  | **RON**  |
-| third  | **STATE** |
-| fourth  | **ATTORNEY**  |
-| fifth  | **SUSPENDED**  |
+| first  | **NIXON**  |
+| second  | **@BESCHLOSSDC:**  |
+| third  | **RESIGNATION** |
+| fourth  | **"NIXONS"**  |
+| fifth  | **WEEK**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-08-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ArtValley818_: "How Ridiculous!" - DeSantis Explains the Moment He Knew the Public Health Experts Were 'A Bunch of Frauds' 🔥 https://t.… |
+|RT @AnneFlaherty3JM: @BeschlossDC Not only did I watch it on TV, I saw Frank Zappa at a small venue at the University of Maryland a few day… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **celticlas**  |
+| The most retweeted user is: **romo_nixon**  |
 | ------------- |
-| RT @RonFilipkowski: My resignation letter to Governor Desantis. https://t.co/Wc78tgr6Ef |
+| RT @ladygaga: What’s fortnight |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
