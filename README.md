@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nixon"**
+&#x1F34E; **TOPIC = "#WhyIShotFirst"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-05TWEETS.png)
+![image](assets/2022-08-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @dick_nixon So many musical let alone cultural contradictions in this. |
-| @BeschlossDC Ten years old at the time. Playing football in the street in front of my buddy’s house. Our friend pas… https://t.co/taTIXOBxGE |
-| RT @RNCResearch: "In a year and a half, Joe Biden and company have taken the U.S. economy to where it was in the early 1970s — and it took… |
+| RT @dakinglongwood: #WhyIShotFirst because it was the sheriff and not the deputy |
+| #WhyIShotFirstPretty sure I had them outgunned…😏@MasterJediMara @TheMikeyFlash @StarlordZiggy @The_1st_BAT https://t.co/Xa99C6fFf0 |
+| #WhyIShotFirstIn case they had a hidden weapon |
 
-The most popular user is: **romo_nixon**
-<div class="alert alert-block alert-danger"> RT @ladygaga: What’s fortnight</div>
+The most popular user is: **gigirules7**
+<div class="alert alert-block alert-danger"> RT @SciFiTags: It’s time to play #WhyIShotFirst with hosts @mrjafri @TheMikeyFlash @The1stBAT @SeanMODonnell1 @MasterJediMara on the @Hasht…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BeschlossDC** |
-| #2 Most tweeted to  | **dick_nixon** |
-| #3 Most tweeted to  | **SpiroAgnewGhost** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 4.58%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **TheMikeyFlash** |
+| #2 Most tweeted to  | **MasterJediMara** |
+| #3 Most tweeted to  | **SciFiTags** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 0.98%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **romo_nixon**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NIXON**  |
-| second  | **@BESCHLOSSDC:**  |
-| third  | **RESIGNATION** |
-| fourth  | **"NIXONS"**  |
-| fifth  | **WEEK**  |
+| first  | **WHYISHOTFIRST**  |
+| second  | **@THEMIKEYFLASH**  |
+| third  | **@MRJAFRI** |
+| fourth  | **@THE1STBAT**  |
+| fifth  | **@SCIFITAGS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-08-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AnneFlaherty3JM: @BeschlossDC Not only did I watch it on TV, I saw Frank Zappa at a small venue at the University of Maryland a few day… |
+|RT @ZMV9253: #WhyIShotFirst Castle Doctrine😎😎 https://t.co/v7VZ7OT22i |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **romo_nixon**  |
+| The most retweeted user is: **gigirules7**  |
 | ------------- |
-| RT @ladygaga: What’s fortnight |
+| RT @SciFiTags: It’s time to play #WhyIShotFirst with hosts @mrjafri @TheMikeyFlash @The1stBAT @SeanMODonnell1 @MasterJediMara on the @Hasht… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
