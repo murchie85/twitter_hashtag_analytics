@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nets"**
+&#x1F34E; **TOPIC = "Trump"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-08TWEETS.png)
+![image](assets/2022-08-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ShamsCharania: In a meeting with Nets owner Joe Tsai, Kevin Durant reiterated his trade request and informed Tsai that Tsai needs to ch… |
-| In regards to KDs recent meeting with Joe Tsai (Nets owner) my feelings are;1. Nash can go, he hasn’t been good b… https://t.co/bMMstQxIi8 |
-| RT @ShamsCharania: Sources: Kevin Durant informed Joe Tsai that he does not have faith in the Nets‘ direction. The meeting was described as… |
+| Not even close assholeRick Scott on FBI’s raid at Mar-a-Lago: Feds are like Nazi Germany’s Gestapo https://t.co/DtHUCaNmH9 |
+| RT @DavidCornDC: With the FBI raid, Merrick Garland now has no choice but to go big on the Trump probe. To justify the search at Mar-a-Lago… |
+| RT @Bakari_Sellers: Dear Trumpers,Trump picked the FBI director that raided his home.Ok bye. |
 
-The most popular user is: **pitakpitak97**
-<div class="alert alert-block alert-danger"> RT @NetsKingdomAJ: Brooklyn Nets Royce O’neale Posts up his Mother &amp; hits her with an elite spin move at summer camp https://t.co/VGS8XvHkkX</div>
+The most popular user is: **Connol_k**
+<div class="alert alert-block alert-danger"> RT @Bakari_Sellers: Dear Trumpers,
+
+Trump picked the FBI director that raided his home.
+
+Ok bye.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ShamsCharania** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **LegionHoops** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 1.3%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **OccupyDemocrats** |
+| #2 Most tweeted to  | **Mike_Pence** |
+| #3 Most tweeted to  | **AndrewYang** |
+| NewProfiles (less than 10 days) | 1.5%  |
+| Tweeters with < 10 followers  | 6.44%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **pitakpitak97**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TSAI**  |
-| second  | **DURANT**  |
-| third  | **NETS** |
-| fourth  | **KEVIN**  |
-| fifth  | **JOE**  |
+| first  | **TRUMP**  |
+| second  | **FBI**  |
+| third  | **DONALD** |
+| fourth  | **WARRANT**  |
+| fifth  | **PRESIDENT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-08-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@LegionHoops @ShamsCharania Let the Nets downfall begin https://t.co/eB9eeLQPoA |
+|RT @DanielCameronAG: President Trump is a fighter. No raid at Mar-a-Lago is going to stop him from working hard for the American people. Fo… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **pitakpitak97**  |
+| The most retweeted user is: **Connol_k**  |
 | ------------- |
-| RT @NetsKingdomAJ: Brooklyn Nets Royce O’neale Posts up his Mother &amp; hits her with an elite spin move at summer camp https://t.co/VGS8XvHkkX |
+| RT @Bakari_Sellers: Dear Trumpers,Trump picked the FBI director that raided his home.Ok bye. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
