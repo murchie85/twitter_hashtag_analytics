@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Trump"**
+&#x1F34E; **TOPIC = "Diamond"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-09TWEETS.png)
+![image](assets/2022-08-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Not even close assholeRick Scott on FBI’s raid at Mar-a-Lago: Feds are like Nazi Germany’s Gestapo https://t.co/DtHUCaNmH9 |
-| RT @DavidCornDC: With the FBI raid, Merrick Garland now has no choice but to go big on the Trump probe. To justify the search at Mar-a-Lago… |
-| RT @Bakari_Sellers: Dear Trumpers,Trump picked the FBI director that raided his home.Ok bye. |
+| RT @SMukangai: BREAKING: Kenya's Faith Kipyegon has won Women's 1500m in Monaco Diamond League. Congratulations to Faith Kipyegon. We're… |
+| @pepsi__playz looks like this person is never gonna get their diamond butterfly traded.. |
+| @VusiSambo U scheme oom Kaal can get the colonizers to return the kohinoor diamond which they plundered from the Ta… https://t.co/Leejm0D23G |
 
-The most popular user is: **Connol_k**
-<div class="alert alert-block alert-danger"> RT @Bakari_Sellers: Dear Trumpers,
-
-Trump picked the FBI director that raided his home.
-
-Ok bye.</div>
+The most popular user is: **Diamond_Lashaun**
+<div class="alert alert-block alert-danger"> RT @biharibitch: museum date???? library date???coffee shop date????art gallery date???? walk in the park date????sit in the car and eat mc…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **OccupyDemocrats** |
-| #2 Most tweeted to  | **Mike_Pence** |
-| #3 Most tweeted to  | **AndrewYang** |
-| NewProfiles (less than 10 days) | 1.5%  |
-| Tweeters with < 10 followers  | 6.44%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Track_Gazette** |
+| #2 Most tweeted to  | **BTS_twt** |
+| #3 Most tweeted to  | **Diamond_League** |
+| NewProfiles (less than 10 days) | 1.72%  |
+| Tweeters with < 10 followers  | 6.22%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -43,28 +39,28 @@ Ok bye.</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMP**  |
-| second  | **FBI**  |
-| third  | **DONALD** |
-| fourth  | **WARRANT**  |
-| fifth  | **PRESIDENT**  |
+| first  | **DIAMOND**  |
+| second  | **MONACO**  |
+| third  | **WIN** |
+| fourth  | **LEAGUE**  |
+| fifth  | **100M**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-09BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-08-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DanielCameronAG: President Trump is a fighter. No raid at Mar-a-Lago is going to stop him from working hard for the American people. Fo… |
+|not only madlib but also diamond d!? uff yes lfg https://t.co/s6q4ik4xfZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Connol_k**  |
+| The most retweeted user is: **Diamond_Lashaun**  |
 | ------------- |
-| RT @Bakari_Sellers: Dear Trumpers,Trump picked the FBI director that raided his home.Ok bye. |
+| RT @biharibitch: museum date???? library date???coffee shop date????art gallery date???? walk in the park date????sit in the car and eat mc… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
