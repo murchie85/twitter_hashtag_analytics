@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Diamond"**
+&#x1F34E; **TOPIC = "Worst Game"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-10TWEETS.png)
+![image](assets/2022-08-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SMukangai: BREAKING: Kenya's Faith Kipyegon has won Women's 1500m in Monaco Diamond League. Congratulations to Faith Kipyegon. We're… |
-| @pepsi__playz looks like this person is never gonna get their diamond butterfly traded.. |
-| @VusiSambo U scheme oom Kaal can get the colonizers to return the kohinoor diamond which they plundered from the Ta… https://t.co/Leejm0D23G |
+| RT @AuthorShaunHolt: @G4TV First game: not sure, but it had a top-down view.Last game: GTA VBest game: I'm gonna go with Vice City. San A… |
+| @G4TV First Game: Frogger (BBC Acorn)Last Game: StellarisBest Game: GTAV (Multiplayer with my friends has given m… https://t.co/wSwrtn3JFj |
+| The worst part is having a video game collection is that the most important thing is something you can't collect. F… https://t.co/aJvpKdHYlD |
 
-The most popular user is: **Diamond_Lashaun**
-<div class="alert alert-block alert-danger"> RT @biharibitch: museum date???? library date???coffee shop date????art gallery date???? walk in the park date????sit in the car and eat mc…</div>
+The most popular user is: **BiscuitsShimmer**
+<div class="alert alert-block alert-danger"> RT @LuciaEverblack: Let me explain why playing the upcoming Harry Potter game is the worst thing you can do especially if you are an ally t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Track_Gazette** |
-| #2 Most tweeted to  | **BTS_twt** |
-| #3 Most tweeted to  | **Diamond_League** |
-| NewProfiles (less than 10 days) | 1.72%  |
-| Tweeters with < 10 followers  | 6.22%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **G4TV** |
+| #2 Most tweeted to  | **markappel26** |
+| #3 Most tweeted to  | **daltoosh** |
+| NewProfiles (less than 10 days) | 1.22%  |
+| Tweeters with < 10 followers  | 9.8%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Diamond_Lashaun**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DIAMOND**  |
-| second  | **MONACO**  |
-| third  | **WIN** |
-| fourth  | **LEAGUE**  |
-| fifth  | **100M**  |
+| first  | **GAME:**  |
+| second  | **WORST**  |
+| third  | **LAST** |
+| fourth  | **BEST**  |
+| fifth  | **GAME**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-08-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (93.33%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|not only madlib but also diamond d!? uff yes lfg https://t.co/s6q4ik4xfZ |
+|@mesetik6png The council ranks Junkertown one of the worst Junkrat maps in the gameBreaking the system? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Diamond_Lashaun**  |
+| The most retweeted user is: **BiscuitsShimmer**  |
 | ------------- |
-| RT @biharibitch: museum date???? library date???coffee shop date????art gallery date???? walk in the park date????sit in the car and eat mc… |
+| RT @LuciaEverblack: Let me explain why playing the upcoming Harry Potter game is the worst thing you can do especially if you are an ally t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
