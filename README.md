@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Worst Game"**
+&#x1F34E; **TOPIC = "Gibson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-12TWEETS.png)
+![image](assets/2022-08-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AuthorShaunHolt: @G4TV First game: not sure, but it had a top-down view.Last game: GTA VBest game: I'm gonna go with Vice City. San A… |
-| @G4TV First Game: Frogger (BBC Acorn)Last Game: StellarisBest Game: GTAV (Multiplayer with my friends has given m… https://t.co/wSwrtn3JFj |
-| The worst part is having a video game collection is that the most important thing is something you can't collect. F… https://t.co/aJvpKdHYlD |
+| @EBJunkies Robinson is the starter by week 6 after Gibson fumbleitis or injury, count on it. |
+| RT @bo_stevenson: Boy finishers today were:17:08 @Nick_Cook2118:23 @JonShrock_18:29 @colton4781855018:32 @PBaker77818:59 M Tomboni (P… |
+| RT @AugieNash: Since 1911, only one player has thrown 13 shutouts in a single season, that player would be Bob Gibson, who's 1968 season wa… |
 
-The most popular user is: **BiscuitsShimmer**
-<div class="alert alert-block alert-danger"> RT @LuciaEverblack: Let me explain why playing the upcoming Harry Potter game is the worst thing you can do especially if you are an ally t…</div>
+The most popular user is: **247_gibson**
+<div class="alert alert-block alert-danger"> RT @pulte: I'm giving $2,250 to someone random who retweets this tweet in the next 12 hours because its Friday and I feel like being nice 😊…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **G4TV** |
-| #2 Most tweeted to  | **markappel26** |
-| #3 Most tweeted to  | **daltoosh** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 9.8%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **JPFinlayNBCS** |
+| #2 Most tweeted to  | **TradingThomas3** |
+| #3 Most tweeted to  | **Commanders** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 6.34%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BiscuitsShimmer**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GAME:**  |
-| second  | **WORST**  |
-| third  | **LAST** |
-| fourth  | **BEST**  |
-| fifth  | **GAME**  |
+| first  | **GIBSON**  |
+| second  | **ANTONIO**  |
+| third  | **ROBINSON** |
+| fourth  | **FUMBLE**  |
+| fifth  | **MEL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (93.33%) **OBJECTIVE** (0.0%)
+![image](assets/2022-08-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@mesetik6png The council ranks Junkertown one of the worst Junkrat maps in the gameBreaking the system? |
+|@BobRutler How can Kenny keep getting in the team? I don’t understand how someone who has to take 3-4 touches befor… https://t.co/JPx5OQkby9 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BiscuitsShimmer**  |
+| The most retweeted user is: **247_gibson**  |
 | ------------- |
-| RT @LuciaEverblack: Let me explain why playing the upcoming Harry Potter game is the worst thing you can do especially if you are an ally t… |
+| RT @pulte: I'm giving $2,250 to someone random who retweets this tweet in the next 12 hours because its Friday and I feel like being nice 😊… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
