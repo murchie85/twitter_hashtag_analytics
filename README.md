@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gibson"**
+&#x1F34E; **TOPIC = "Fawlty Towers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-13TWEETS.png)
+![image](assets/2022-08-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @EBJunkies Robinson is the starter by week 6 after Gibson fumbleitis or injury, count on it. |
-| RT @bo_stevenson: Boy finishers today were:17:08 @Nick_Cook2118:23 @JonShrock_18:29 @colton4781855018:32 @PBaker77818:59 M Tomboni (P… |
-| RT @AugieNash: Since 1911, only one player has thrown 13 shutouts in a single season, that player would be Bob Gibson, who's 1968 season wa… |
+| @MISTERPDW FAWLTY TOWERS,PHOENIX NIGHTS,BOTTOM.🙂🐶👍 https://t.co/GWvi013nBg |
+| Yup,Boris Johnson got away with the biggest Con ever in Westminster London history to become their PM He looked a… https://t.co/Q9Z6Mg3l3R |
+| RT @foodanddrinksco: From a whisky tasting to immersive gin tastings and a hilarious dinner at Fawlty Towers - here's our pick of some of t… |
 
-The most popular user is: **247_gibson**
-<div class="alert alert-block alert-danger"> RT @pulte: I'm giving $2,250 to someone random who retweets this tweet in the next 12 hours because its Friday and I feel like being nice 😊…</div>
+The most popular user is: **CathyWild13**
+<div class="alert alert-block alert-danger"> RT @JohnCleese: In honor of the very talented Bernard Cribbins, who brilliantly played Mr. Hutchinson on Fawlty Towers. I’ve just heard he…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JPFinlayNBCS** |
-| #2 Most tweeted to  | **TradingThomas3** |
-| #3 Most tweeted to  | **Commanders** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 6.34%|
+| #1 Most tweeted to  | **ladbible** |
+| #2 Most tweeted to  | **FAWLTYTOWERS_** |
+| #3 Most tweeted to  | **JohnCleese** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 5.39%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **247_gibson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GIBSON**  |
-| second  | **ANTONIO**  |
-| third  | **ROBINSON** |
-| fourth  | **FUMBLE**  |
-| fifth  | **MEL**  |
+| first  | **FAWLTY**  |
+| second  | **TOWERS**  |
+| third  | **FOOLS** |
+| fourth  | **FATHER**  |
+| fifth  | **TED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-08-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@BobRutler How can Kenny keep getting in the team? I don’t understand how someone who has to take 3-4 touches befor… https://t.co/JPx5OQkby9 |
+|@sjanemurf I take it from that response to my question that you know nothing, like Manuel from Barcelona in Fawlty Towers. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **247_gibson**  |
+| The most retweeted user is: **CathyWild13**  |
 | ------------- |
-| RT @pulte: I'm giving $2,250 to someone random who retweets this tweet in the next 12 hours because its Friday and I feel like being nice 😊… |
+| RT @JohnCleese: In honor of the very talented Bernard Cribbins, who brilliantly played Mr. Hutchinson on Fawlty Towers. I’ve just heard he… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
