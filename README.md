@@ -1,35 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fawlty Towers"**
+&#x1F34E; **TOPIC = "#C4News"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-15TWEETS.png)
+![image](assets/2022-08-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @MISTERPDW FAWLTY TOWERS,PHOENIX NIGHTS,BOTTOM.🙂🐶👍 https://t.co/GWvi013nBg |
-| Yup,Boris Johnson got away with the biggest Con ever in Westminster London history to become their PM He looked a… https://t.co/Q9Z6Mg3l3R |
-| RT @foodanddrinksco: From a whisky tasting to immersive gin tastings and a hilarious dinner at Fawlty Towers - here's our pick of some of t… |
+| RT @woodgnomology: 'England’s water CEOs have banked £58m in pay &amp; benefits over the last 5 years. Since privatisation, shareholders have b… |
+| RT @SmithTonyD: 25 years ago Labour was elected partly to reduce ridiculous waiting times and succeeded after a struggle and lots of invest… |
+| RT @Zero_4: Tory MP Nadhim Zahawi: “I can work remotely. People can work remotely”Also Nadhim Zahawi…#C4News https://t.co/HAsTAfy203 |
 
-The most popular user is: **CathyWild13**
-<div class="alert alert-block alert-danger"> RT @JohnCleese: In honor of the very talented Bernard Cribbins, who brilliantly played Mr. Hutchinson on Fawlty Towers. I’ve just heard he…</div>
+The most popular user is: **darwent_charles**
+<div class="alert alert-block alert-danger"> RT @GHNeale: Jacob Rees-Mogg on #C4News  
+"I shall not serve under another Prime Minister"
+
+Possibly the most honest thing this joke of a m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ladbible** |
-| #2 Most tweeted to  | **FAWLTYTOWERS_** |
-| #3 Most tweeted to  | **JohnCleese** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 5.39%|
+| #1 Most tweeted to  | **woodgnomology** |
+| #2 Most tweeted to  | **JillGore8** |
+| #3 Most tweeted to  | **yipmann82** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 0.96%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +42,28 @@ The most popular user is: **CathyWild13**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FAWLTY**  |
-| second  | **TOWERS**  |
-| third  | **FOOLS** |
-| fourth  | **FATHER**  |
-| fifth  | **TED**  |
+| first  | **C4NEWS**  |
+| second  | **ZAHAWI**  |
+| third  | **NADHIM** |
+| fourth  | **@WOODGNOMOLOGY:**  |
+| fifth  | **ENERGY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-08-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@sjanemurf I take it from that response to my question that you know nothing, like Manuel from Barcelona in Fawlty Towers. |
+|RT @JillGore8: "Matt Frei asks: In this country, energy prices have gone up by 215%. Across the EU it's 44%. Germany it's 23%. France it's… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CathyWild13**  |
+| The most retweeted user is: **darwent_charles**  |
 | ------------- |
-| RT @JohnCleese: In honor of the very talented Bernard Cribbins, who brilliantly played Mr. Hutchinson on Fawlty Towers. I’ve just heard he… |
+| RT @GHNeale: Jacob Rees-Mogg on #C4News  "I shall not serve under another Prime Minister"Possibly the most honest thing this joke of a m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
