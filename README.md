@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Murray"**
+&#x1F34E; **TOPIC = "Pujols"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-17TWEETS.png)
+![image](assets/2022-08-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chillducey: Watching Jamal Murray highlights is so soothing for me personally. This is the nuggets therapy I needed |
-| RT @betonline_ag: Kyler Murray’s hard at work getting ready for the season https://t.co/YVLZBhxDd0 |
-| RT @kenmoos: fanfic where robins gaydar is broken and she thinks steve is so straight bc her brain is lesbian not mlm, but jonathan takes o… |
+| RT @bigdonkey47: Albert Pujols has been crushing big league nukes since 2001 and that’s ridiculous  https://t.co/6JhXzjKjvn |
+| ALBERT PUJOLS GRAND SLAM 🤩It's also career home run No. 690.📹 @BallySportsMW https://t.co/N5yPRWosIe |
+| It may not be movie related, but Albert Pujols's 2022 season sure does feel cinematic. 700? For my baseball &amp; movie… https://t.co/SnsieCYy6b |
 
-The most popular user is: **Murray__Felici**
-<div class="alert alert-block alert-danger"> RT @NCTsmtown: HAPPY BIRTHDAY TO #TAEYONG
-WE💚YOU
-
-#HAPPYTAEYONGDAY 
-#태용 #NCT #NCT127 https://t.co/GtozvbKkjh</div>
+The most popular user is: **Papi_Pujols**
+<div class="alert alert-block alert-danger"> RT @FreddieGibbs: I can’t stand y’all muthafuckaz man. https://t.co/8IiPbxoiGn</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **betonline_ag** |
-| #2 Most tweeted to  | **andy_murray** |
-| #3 Most tweeted to  | **kenmoos** |
-| NewProfiles (less than 10 days) | 1.34%  |
-| Tweeters with < 10 followers  | 5.8%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| #1 Most tweeted to  | **BallySportsMW** |
+| #2 Most tweeted to  | **Cardinals** |
+| #3 Most tweeted to  | **Jared_Carrabis** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 2.74%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -43,28 +39,28 @@ WE💚YOU
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MURRAY**  |
-| second  | **KYLER**  |
-| third  | **GETTING** |
-| fourth  | **SEASON**  |
-| fifth  | **MURRAY’S**  |
+| first  | **PUJOLS**  |
+| second  | **ALBERT**  |
+| third  | **GRAND** |
+| fourth  | **SLAM**  |
+| fifth  | **690**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-08-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiscussingFilm: Zac Efron, Russell Crowe and Bill Murray star in the first trailer for Peter Farrelly’s ‘THE GREATEST BEER RUN EVER’.… |
+|RT @katiejwoo: It is 6-0 St. Louis in the bottom of the third inning. The Cardinals have the based loaded against former Cardinal/left-hand… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Murray__Felici**  |
+| The most retweeted user is: **Papi_Pujols**  |
 | ------------- |
-| RT @NCTsmtown: HAPPY BIRTHDAY TO #TAEYONGWE💚YOU#HAPPYTAEYONGDAY #태용 #NCT #NCT127 https://t.co/GtozvbKkjh |
+| RT @FreddieGibbs: I can’t stand y’all muthafuckaz man. https://t.co/8IiPbxoiGn |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
