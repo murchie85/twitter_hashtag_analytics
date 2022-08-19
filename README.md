@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pujols"**
+&#x1F34E; **TOPIC = "Real Madrid"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-18TWEETS.png)
+![image](assets/2022-08-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bigdonkey47: Albert Pujols has been crushing big league nukes since 2001 and that’s ridiculous  https://t.co/6JhXzjKjvn |
-| ALBERT PUJOLS GRAND SLAM 🤩It's also career home run No. 690.📹 @BallySportsMW https://t.co/N5yPRWosIe |
-| It may not be movie related, but Albert Pujols's 2022 season sure does feel cinematic. 700? For my baseball &amp; movie… https://t.co/SnsieCYy6b |
+| RT @brfootball: Real Madrid have given Casemiro permission to have his medical with Manchester United on Friday, per @marca  🛫 https://t.co… |
+| RT @totalcristiano: Real Madrid receive €85m in total for Casemiro, who only cost €6m. A player who won 16 trophies whilst forming a histor… |
+| RT @totalcristiano: After 9 years and 16 trophies, Casemiro leaves as a Real Madrid legend. https://t.co/96ZhJOdLME |
 
-The most popular user is: **Papi_Pujols**
-<div class="alert alert-block alert-danger"> RT @FreddieGibbs: I can’t stand y’all muthafuckaz man. https://t.co/8IiPbxoiGn</div>
+The most popular user is: **woahmiklo**
+<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Casemiro to Man United, here we go! Real Madrid accepted all details of the bid, clubs preparing contracts right now. €…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BallySportsMW** |
-| #2 Most tweeted to  | **Cardinals** |
-| #3 Most tweeted to  | **Jared_Carrabis** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 2.74%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **totalcristiano** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 4.34%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Papi_Pujols**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PUJOLS**  |
-| second  | **ALBERT**  |
-| third  | **GRAND** |
-| fourth  | **SLAM**  |
-| fifth  | **690**  |
+| first  | **REAL**  |
+| second  | **MADRID**  |
+| third  | **CASEMIRO** |
+| fourth  | **UNITED**  |
+| fifth  | **@FABRIZIOROMANO:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
+![image](assets/2022-08-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @katiejwoo: It is 6-0 St. Louis in the bottom of the third inning. The Cardinals have the based loaded against former Cardinal/left-hand… |
+|RT @FabrizioRomano: Casemiro deal final details 🚨🇧🇷▫️ £60m plus £10m add-ons to Real Madrid, it’s in £;▫️ 4 year deal with option for f… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Papi_Pujols**  |
+| The most retweeted user is: **woahmiklo**  |
 | ------------- |
-| RT @FreddieGibbs: I can’t stand y’all muthafuckaz man. https://t.co/8IiPbxoiGn |
+| RT @FabrizioRomano: Casemiro to Man United, here we go! Real Madrid accepted all details of the bid, clubs preparing contracts right now. €… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
