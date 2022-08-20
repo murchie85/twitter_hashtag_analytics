@@ -1,35 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Real Madrid"**
+&#x1F34E; **TOPIC = "#UsykJoshua2"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-19TWEETS.png)
+![image](assets/2022-08-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @brfootball: Real Madrid have given Casemiro permission to have his medical with Manchester United on Friday, per @marca  🛫 https://t.co… |
-| RT @totalcristiano: Real Madrid receive €85m in total for Casemiro, who only cost €6m. A player who won 16 trophies whilst forming a histor… |
-| RT @totalcristiano: After 9 years and 16 trophies, Casemiro leaves as a Real Madrid legend. https://t.co/96ZhJOdLME |
+| RT @ss11ii22hh5: 🥊🥊🥊LIVE WATCH NOW! 💙 Anthony Joshua vs Oleksandr Usyk 🔴Live🔴📱➤➤::  @Merveacrc🔴Live🔴📱➤➤::  @Merveacrc #️⃣  #Boxin… |
+| RT @samirapekena18: Oleksandr Usyk vs Anthony Joshua 2 Live Stream⁦#UsykJoshua2  Live HD👇👇• Mobile📱🔴📺🖥️📲👉@palentstream• Computer🖥️… |
+| RT @IslamMohin: 🆕Live 🆓stream 📶🌐Usyk vs. Joshua 2 Live Links👇Mobile📱 LINK🎥 &gt;&gt; @MerveacrcComputer 🖥️LINK 🎥&gt;&gt; @MerveacrcLive HD LIN… |
 
-The most popular user is: **woahmiklo**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: Casemiro to Man United, here we go! Real Madrid accepted all details of the bid, clubs preparing contracts right now. €…</div>
+The most popular user is: **Zak57ns**
+<div class="alert alert-block alert-danger"> RT @IFLTV: “I AM FEEL” 
+
+@Usykaa just casually gatecrashing an @EddieHearn interview 😬
+
+#Usyk #OleksandrUsyk #EddieHearn #UsykJoshua2 https…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **totalcristiano** |
-| #3 Most tweeted to  | **ESPNFC** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 4.34%|
+| #1 Most tweeted to  | **Merveacrc** |
+| #2 Most tweeted to  | **Ss_saanaa** |
+| #3 Most tweeted to  | **nwh_02** |
+| NewProfiles (less than 10 days) | 3.4%  |
+| Tweeters with < 10 followers  | 54.54%|
 | Tweeters with > 1000000 followers  | 0.08%  |
 
 
@@ -39,28 +43,28 @@ The most popular user is: **woahmiklo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REAL**  |
-| second  | **MADRID**  |
-| third  | **CASEMIRO** |
-| fourth  | **UNITED**  |
-| fifth  | **@FABRIZIOROMANO:**  |
+| first  | **LIVE**  |
+| second  | **JOSHUA**  |
+| third  | **USYK** |
+| fourth  | **VS**  |
+| fifth  | **2**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (13.33%)
+![image](assets/2022-08-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (86.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FabrizioRomano: Casemiro deal final details 🚨🇧🇷▫️ £60m plus £10m add-ons to Real Madrid, it’s in £;▫️ 4 year deal with option for f… |
+|#UsykJoshua2 #UsykJoshua🔴🅻🅸🆅🅴ᴴᴰOleksandr Usyk vs Anthony Joshua 2 Live Free Streams🔗Live Link=&gt;… https://t.co/VMVHoy2SXE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **woahmiklo**  |
+| The most retweeted user is: **Zak57ns**  |
 | ------------- |
-| RT @FabrizioRomano: Casemiro to Man United, here we go! Real Madrid accepted all details of the bid, clubs preparing contracts right now. €… |
+| RT @IFLTV: “I AM FEEL” @Usykaa just casually gatecrashing an @EddieHearn interview 😬#Usyk #OleksandrUsyk #EddieHearn #UsykJoshua2 https… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
