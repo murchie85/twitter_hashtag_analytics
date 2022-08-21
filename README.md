@@ -1,39 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UsykJoshua2"**
+&#x1F34E; **TOPIC = "Mendy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-20TWEETS.png)
+![image](assets/2022-08-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ss11ii22hh5: 🥊🥊🥊LIVE WATCH NOW! 💙 Anthony Joshua vs Oleksandr Usyk 🔴Live🔴📱➤➤::  @Merveacrc🔴Live🔴📱➤➤::  @Merveacrc #️⃣  #Boxin… |
-| RT @samirapekena18: Oleksandr Usyk vs Anthony Joshua 2 Live Stream⁦#UsykJoshua2  Live HD👇👇• Mobile📱🔴📺🖥️📲👉@palentstream• Computer🖥️… |
-| RT @IslamMohin: 🆕Live 🆓stream 📶🌐Usyk vs. Joshua 2 Live Links👇Mobile📱 LINK🎥 &gt;&gt; @MerveacrcComputer 🖥️LINK 🎥&gt;&gt; @MerveacrcLive HD LIN… |
+| RT @CFCPys: If you want to know why some players are performing so badly, it’s because they never get dropped no matter what which is on th… |
+| RT @77_Kiah: Give Mendy dirty Barca jersey, black trousers, alte eye glass and black gloves and he suppose dey drive okada from mile 12 to… |
+| I must still change Mendy cause aowa 😭✋🏾 otherwise my team is solid 🥺👌🏽 |
 
-The most popular user is: **Zak57ns**
-<div class="alert alert-block alert-danger"> RT @IFLTV: “I AM FEEL” 
-
-@Usykaa just casually gatecrashing an @EddieHearn interview 😬
-
-#Usyk #OleksandrUsyk #EddieHearn #UsykJoshua2 https…</div>
+The most popular user is: **Antisoshio1**
+<div class="alert alert-block alert-danger"> RT @ConteSZN_: Mendy 😭 https://t.co/tVuLkoHrT7</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Merveacrc** |
-| #2 Most tweeted to  | **Ss_saanaa** |
-| #3 Most tweeted to  | **nwh_02** |
-| NewProfiles (less than 10 days) | 3.4%  |
-| Tweeters with < 10 followers  | 54.54%|
+| #1 Most tweeted to  | **ConteSZN_** |
+| #2 Most tweeted to  | **CFCDaily** |
+| #3 Most tweeted to  | **CFCPys** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.78%|
 | Tweeters with > 1000000 followers  | 0.08%  |
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Zak57ns**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIVE**  |
-| second  | **JOSHUA**  |
-| third  | **USYK** |
-| fourth  | **VS**  |
-| fifth  | **2**  |
+| first  | **MENDY**  |
+| second  | **😭**  |
+| third  | **@CONTESZN_:** |
+| fourth  | **CHELSEA**  |
+| fifth  | **HTTPS://TCO/TVULKOHRT7RT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-20BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (86.67%) **OBJECTIVE** (6.67%)
+![image](assets/2022-08-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#UsykJoshua2 #UsykJoshua🔴🅻🅸🆅🅴ᴴᴰOleksandr Usyk vs Anthony Joshua 2 Live Free Streams🔗Live Link=&gt;… https://t.co/VMVHoy2SXE |
+|RT @datgreatnigga: De Gea watching Mendy trying to steal his spot https://t.co/ZXtvAXxUPx |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Zak57ns**  |
+| The most retweeted user is: **Antisoshio1**  |
 | ------------- |
-| RT @IFLTV: “I AM FEEL” @Usykaa just casually gatecrashing an @EddieHearn interview 😬#Usyk #OleksandrUsyk #EddieHearn #UsykJoshua2 https… |
+| RT @ConteSZN_: Mendy 😭 https://t.co/tVuLkoHrT7 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
