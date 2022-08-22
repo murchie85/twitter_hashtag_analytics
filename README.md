@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Mendy"**
+&#x1F34E; **TOPIC = "#TrumpStole"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-21TWEETS.png)
+![image](assets/2022-08-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CFCPys: If you want to know why some players are performing so badly, it’s because they never get dropped no matter what which is on th… |
-| RT @77_Kiah: Give Mendy dirty Barca jersey, black trousers, alte eye glass and black gloves and he suppose dey drive okada from mile 12 to… |
-| I must still change Mendy cause aowa 😭✋🏾 otherwise my team is solid 🥺👌🏽 |
+| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
+| RT @judithkratochvi: @OccupyDemocrats @Melissacaton4 Forget it. Researchers do not even get to remove documents from reading rooms at libra… |
+| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
 
-The most popular user is: **Antisoshio1**
-<div class="alert alert-block alert-danger"> RT @ConteSZN_: Mendy 😭 https://t.co/tVuLkoHrT7</div>
+The most popular user is: **Lorikoster**
+<div class="alert alert-block alert-danger"> RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ConteSZN_** |
-| #2 Most tweeted to  | **CFCDaily** |
-| #3 Most tweeted to  | **CFCPys** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 4.78%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **OccupyDemocrats** |
+| #2 Most tweeted to  | **aintscarylarry** |
+| #3 Most tweeted to  | **WilliamWebb73** |
+| NewProfiles (less than 10 days) | 0.73%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Antisoshio1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MENDY**  |
-| second  | **😭**  |
-| third  | **@CONTESZN_:** |
-| fourth  | **CHELSEA**  |
-| fifth  | **HTTPS://TCO/TVULKOHRT7RT**  |
+| first  | **TRUMPSTOLE**  |
+| second  | **DOCUMENTS**  |
+| third  | **CLASSIFIED** |
+| fourth  | **TRENDING**  |
+| fifth  | **REPUBLICANS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-08-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @datgreatnigga: De Gea watching Mendy trying to steal his spot https://t.co/ZXtvAXxUPx |
+|@OccupyDemocrats These papers weren't allowed out of the hands of government protection at all. So of course… https://t.co/RVUIVL9pIx |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Antisoshio1**  |
+| The most retweeted user is: **Lorikoster**  |
 | ------------- |
-| RT @ConteSZN_: Mendy 😭 https://t.co/tVuLkoHrT7 |
+| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
