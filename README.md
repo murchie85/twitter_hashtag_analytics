@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TrumpStole"**
+&#x1F34E; **TOPIC = "Lies of P"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-22TWEETS.png)
+![image](assets/2022-08-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
-| RT @judithkratochvi: @OccupyDemocrats @Melissacaton4 Forget it. Researchers do not even get to remove documents from reading rooms at libra… |
-| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
+| Lies of P just might be the first soulslike I'll wholeheartedly invest in. #gamescom2022 |
+| REMINDER!!! 11 AM PT / 2 PM ET / 8 PM CEST Come hang out as we watch new games announcements and news from- H… https://t.co/bgh9LbgDAa |
+| @GrassleyPress @SenJudiciaryGOP @FoxNews @ChuckGrassley @FBI Credibility matters to most of USBUT NOT THE G O PG… https://t.co/NgVjWBjCtA |
 
-The most popular user is: **Lorikoster**
-<div class="alert alert-block alert-danger"> RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t…</div>
+The most popular user is: **p_dawg9093**
+<div class="alert alert-block alert-danger"> RT @CoachD_Speaks: The 87,000 new IRS agents will be phased in over the next 10 years. 50,000 are set to retire over that period. The net a…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **OccupyDemocrats** |
-| #2 Most tweeted to  | **aintscarylarry** |
-| #3 Most tweeted to  | **WilliamWebb73** |
-| NewProfiles (less than 10 days) | 0.73%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Nibellion** |
+| #2 Most tweeted to  | **insider_wtf** |
+| #3 Most tweeted to  | **gamescom** |
+| NewProfiles (less than 10 days) | 0.39%  |
+| Tweeters with < 10 followers  | 4.08%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Lorikoster**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TRUMPSTOLE**  |
-| second  | **DOCUMENTS**  |
-| third  | **CLASSIFIED** |
-| fourth  | **TRENDING**  |
-| fifth  | **REPUBLICANS**  |
+| first  | **LIES**  |
+| second  | **P**  |
+| third  | **GAME** |
+| fourth  | **COMING**  |
+| fifth  | **XBOX**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2022-08-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@OccupyDemocrats These papers weren't allowed out of the hands of government protection at all. So of course… https://t.co/RVUIVL9pIx |
+|@adamjohnsonNYC I think we will agree that within those zillion lies almost a zillion words of bullshit. I was aski… https://t.co/bi5oiRNJXs |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Lorikoster**  |
+| The most retweeted user is: **p_dawg9093**  |
 | ------------- |
-| RT @OccupyDemocrats: #TrumpStole the classified documents is trending number 3 in the world on Twitter after Republicans are now claiming t… |
+| RT @CoachD_Speaks: The 87,000 new IRS agents will be phased in over the next 10 years. 50,000 are set to retire over that period. The net a… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
