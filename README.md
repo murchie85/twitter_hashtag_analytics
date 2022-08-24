@@ -1,36 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lies of P"**
+&#x1F34E; **TOPIC = "Chet"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-23TWEETS.png)
+![image](assets/2022-08-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Lies of P just might be the first soulslike I'll wholeheartedly invest in. #gamescom2022 |
-| REMINDER!!! 11 AM PT / 2 PM ET / 8 PM CEST Come hang out as we watch new games announcements and news from- H… https://t.co/bgh9LbgDAa |
-| @GrassleyPress @SenJudiciaryGOP @FoxNews @ChuckGrassley @FBI Credibility matters to most of USBUT NOT THE G O PG… https://t.co/NgVjWBjCtA |
+| Shit like this will make teams put in contracts you can’t play in summer league or pro ams. Chet already lightweigh… https://t.co/lPPToaAYzT |
+| RT @BleacherReport: Thunder fear that Chet Holmgren has suffered ligament damage in his foot and will undergo further opinions, per @ShamsC… |
+| @Ric_0_Shea Congrats Shipmate!  Retired NAVY here! |
 
-The most popular user is: **p_dawg9093**
-<div class="alert alert-block alert-danger"> RT @CoachD_Speaks: The 87,000 new IRS agents will be phased in over the next 10 years. 50,000 are set to retire over that period. The net a…</div>
+The most popular user is: **chet_ana**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: Me, Myself, and RM
+‘Entirety’
+Special 8 Photo-Folio
+
+Preview Photos MONO
+
+#BTS #Photo_Folio #RM #김남준 #Entirety https://t.co…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Nibellion** |
-| #2 Most tweeted to  | **insider_wtf** |
-| #3 Most tweeted to  | **gamescom** |
-| NewProfiles (less than 10 days) | 0.39%  |
-| Tweeters with < 10 followers  | 4.08%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **ShamsCharania** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **TheAthletic** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 3.4%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **p_dawg9093**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIES**  |
-| second  | **P**  |
-| third  | **GAME** |
-| fourth  | **COMING**  |
-| fifth  | **XBOX**  |
+| first  | **CHET**  |
+| second  | **HOLMGREN**  |
+| third  | **FOOT** |
+| fourth  | **LIGAMENT**  |
+| fifth  | **SUFFERED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-08-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@adamjohnsonNYC I think we will agree that within those zillion lies almost a zillion words of bullshit. I was aski… https://t.co/bi5oiRNJXs |
+|RT @ShamsCharania: Exams show Chet Holmgren has potential torn ligaments in his foot, sources said. A timetable is being determined based o… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **p_dawg9093**  |
+| The most retweeted user is: **chet_ana**  |
 | ------------- |
-| RT @CoachD_Speaks: The 87,000 new IRS agents will be phased in over the next 10 years. 50,000 are set to retire over that period. The net a… |
+| RT @bts_bighit: Me, Myself, and RM‘Entirety’Special 8 Photo-FolioPreview Photos MONO#BTS #Photo_Folio #RM #김남준 #Entirety https://t.co… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
