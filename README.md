@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chet"**
+&#x1F34E; **TOPIC = "Stanley Johnson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-24TWEETS.png)
+![image](assets/2022-08-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Shit like this will make teams put in contracts you can’t play in summer league or pro ams. Chet already lightweigh… https://t.co/lPPToaAYzT |
-| RT @BleacherReport: Thunder fear that Chet Holmgren has suffered ligament damage in his foot and will undergo further opinions, per @ShamsC… |
-| @Ric_0_Shea Congrats Shipmate!  Retired NAVY here! |
+| RT @wojespn: The Patrick Beverley trade to the Lakers is complete, sources tell ESPN. Talen Horton-Tucker and Stanley Johnson join the Jazz. |
+| RT @demas6Basket: BOOM TRASPASO🔥🔥 A Lakers: Patrick BeverleyA Jazz: Talen Horton-Tucker + Stanley Johnson(via @wojespn) foto: @espn… |
+| RT @wojespn: The Los Angeles Lakers are in advanced talks on a trade to acquire Utah Jazz guard Patrick Beverley for Talen Horton-Tucker an… |
 
-The most popular user is: **chet_ana**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: Me, Myself, and RM
-‘Entirety’
-Special 8 Photo-Folio
-
-Preview Photos MONO
-
-#BTS #Photo_Folio #RM #김남준 #Entirety https://t.co…</div>
+The most popular user is: **J_iZEnuff**
+<div class="alert alert-block alert-danger"> RT @wojespn: The Los Angeles Lakers are in advanced talks on a trade to acquire Utah Jazz guard Patrick Beverley for Talen Horton-Tucker an…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ShamsCharania** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **TheAthletic** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 3.4%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **LegionHoops** |
+| #3 Most tweeted to  | **SportsCenter** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 4.96%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -45,28 +39,28 @@ Preview Photos MONO
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHET**  |
-| second  | **HOLMGREN**  |
-| third  | **FOOT** |
-| fourth  | **LIGAMENT**  |
-| fifth  | **SUFFERED**  |
+| first  | **LAKERS**  |
+| second  | **PATRICK**  |
+| third  | **BEVERLEY** |
+| fourth  | **TALEN**  |
+| fifth  | **TRADE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (86.67%)
+![image](assets/2022-08-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ShamsCharania: Exams show Chet Holmgren has potential torn ligaments in his foot, sources said. A timetable is being determined based o… |
+|RT @LegionHoops: FULL TRADE DETAILS:Lakers receive:Patrick BeverleyJazz receive:Talen Horton-TuckerStanley JohnsonWow, wow, wow. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **chet_ana**  |
+| The most retweeted user is: **J_iZEnuff**  |
 | ------------- |
-| RT @bts_bighit: Me, Myself, and RM‘Entirety’Special 8 Photo-FolioPreview Photos MONO#BTS #Photo_Folio #RM #김남준 #Entirety https://t.co… |
+| RT @wojespn: The Los Angeles Lakers are in advanced talks on a trade to acquire Utah Jazz guard Patrick Beverley for Talen Horton-Tucker an… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
