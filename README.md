@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Drake"**
+&#x1F34E; **TOPIC = "Bad Bunny"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-26TWEETS.png)
+![image](assets/2022-08-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @chartdata: Most streamed artists on global Spotify (August 25): #1 @sanbenito #2 @taylorswift13#3 @Drake #4 @theweeknd #5 @BTS_twt… |
-| RT @spotify_data: Most streamed artists on Spotify on Wednesday (Aug. 24, 2022):#1 @sanbenito 69.3M#2 @taylorswift13 30.9M#3 @Drake 30.… |
-| RT @ESPNFrankie: Drake has been a white Jamaican, a Dominican baseball player, a shooting guard at Kentucky who couldn’t shoot, a black Isr… |
+| Literally only going to Made In America for Bad Bunny &amp; Jazmine Sullivan |
+| RT @itsirisb_: I need to know where the Bad Bunny after party is tonight |
+| RT @luigitheplatano: bad bunny performs at yankee stadium today https://t.co/xkvEhVnEKi |
 
-The most popular user is: **after_drake**
-<div class="alert alert-block alert-danger"> RT @PubityIG: I can’t believe this guy managed to high five a wild bear 😳 https://t.co/GGElUB20dH</div>
+The most popular user is: **Tania_and_Bunny**
+<div class="alert alert-block alert-danger"> RT @forecastoctopus: stealing art is bad however if a 12 year old puts my art in an amv to cascada or something. i cant be mad</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KevCoke6** |
-| #2 Most tweeted to  | **Drake** |
-| #3 Most tweeted to  | **ESPNFrankie** |
-| NewProfiles (less than 10 days) | 1.22%  |
-| Tweeters with < 10 followers  | 3.52%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **PopCrave** |
+| #2 Most tweeted to  | **xovalerie_** |
+| #3 Most tweeted to  | **AccessBadBunny** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 7.26%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **after_drake**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DRAKE**  |
-| second  | **AUBREY**  |
-| third  | **GRAHAM** |
-| fourth  | **NEVER**  |
-| fifth  | **GREATEST**  |
+| first  | **BUNNY**  |
+| second  | **BAD**  |
+| third  | **2022** |
+| fourth  | **VMAS**  |
+| fifth  | **SHOW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-08-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (100.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Jerri_Lynn25: @ESPNFrankie Wait - Drake been larping this whole time? 😂 https://t.co/xdslsCQedf |
+|I know they going all out in the Bronx this weekend for bad bunny with the PR flags 😭 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **after_drake**  |
+| The most retweeted user is: **Tania_and_Bunny**  |
 | ------------- |
-| RT @PubityIG: I can’t believe this guy managed to high five a wild bear 😳 https://t.co/GGElUB20dH |
+| RT @forecastoctopus: stealing art is bad however if a 12 year old puts my art in an amv to cascada or something. i cant be mad |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
