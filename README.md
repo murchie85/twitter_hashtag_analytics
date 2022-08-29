@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Alonso"**
+&#x1F34E; **TOPIC = "Andy Murray"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-28TWEETS.png)
+![image](assets/2022-08-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @fiagirly: “[Alonso’s] reaction was a bit rough I don’t know if you heard him”“I don’t care.” *walks away* 🥵🥵 https://t.co/INProXFmex |
-| RT @f1trolls_: Alonso waving to Hamilton after the crash https://t.co/mBJv2JhhmQ |
-| Alonso needs to shut tf up! https://t.co/GUWOgqbg6M |
+| Looking good @andy_murray. Straight set win on Day1 of #USOpen2022 |
+| Looking forward to the US Open. Good luck, Andy Murray and all the Brits playing in your first round later today… https://t.co/RArZQxfgLA |
+| RT @MagicMurrayFans: Incredible point from @andy_murray and Matteo Berrettini during their practice in New York 🙂 (🎥 fieryfoodfashionista i… |
 
-The most popular user is: **Alonso_Mints**
-<div class="alert alert-block alert-danger"> RT @Missypromotes: $100 GIVEAWAY 
-
-- RT &amp; Follow @crypto_jhil 
-
-ends in 24 hours 💛</div>
+The most popular user is: **ari_shapiro**
+<div class="alert alert-block alert-danger"> RT @ari_shapiro: I’ll always remember Roger Federer for his legendary consistency, Rafael Nadal for his clay court mastery, Andy Murray for…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **fiagirly** |
-| #2 Most tweeted to  | **F1networkig** |
-| #3 Most tweeted to  | **ESPNF1** |
-| NewProfiles (less than 10 days) | 0.92%  |
-| Tweeters with < 10 followers  | 8.42%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **andy_murray** |
+| #2 Most tweeted to  | **usopen** |
+| #3 Most tweeted to  | **MagicMurrayFans** |
+| NewProfiles (less than 10 days) | 1.2%  |
+| Tweeters with < 10 followers  | 6.38%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -43,28 +39,28 @@ ends in 24 hours 💛</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ALONSO**  |
-| second  | **LEWIS**  |
-| third  | **RACE** |
-| fourth  | **HAMILTON**  |
-| fifth  | **WINS**  |
+| first  | **MURRAY**  |
+| second  | **ANDY**  |
+| third  | **@ANDY_MURRAY** |
+| fourth  | **OPEN**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2022-08-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@snolasco7 @Hm3felipe @ESPNF1 Did Lewis cry today? Pretty sure it was Alonso |
+|@simonrbriggs The Great Andy Murray. I loved watching his rise to greatness and its been sad watching him drift int… https://t.co/WdunbtJpU8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Alonso_Mints**  |
+| The most retweeted user is: **ari_shapiro**  |
 | ------------- |
-| RT @Missypromotes: $100 GIVEAWAY - RT &amp; Follow @crypto_jhil ends in 24 hours 💛 |
+| RT @ari_shapiro: I’ll always remember Roger Federer for his legendary consistency, Rafael Nadal for his clay court mastery, Andy Murray for… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
