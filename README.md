@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Andy Murray"**
+&#x1F34E; **TOPIC = "Leatherwood"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-29TWEETS.png)
+![image](assets/2022-08-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Looking good @andy_murray. Straight set win on Day1 of #USOpen2022 |
-| Looking forward to the US Open. Good luck, Andy Murray and all the Brits playing in your first round later today… https://t.co/RArZQxfgLA |
-| RT @MagicMurrayFans: Incredible point from @andy_murray and Matteo Berrettini during their practice in New York 🙂 (🎥 fieryfoodfashionista i… |
+| RT @nflrums: #Raiders first-round picks from Mike Mayock2021: Alex Leatherwood: Released2020: Henry Ruggs III: Released2020: Damon Arne… |
+| RT @MySportsUpdate: The #Raiders are releasing OT Alex Leatherwood, the 17th overall pick in last year’s draft, per @AdamSchefter. New regi… |
+| RT @FieldYates: Raiders first-round picks from 2019-2021:2019: DE Clelin Ferrell, RB Josh Jacobs and S Jonathan Abram: 5th-year options… |
 
-The most popular user is: **ari_shapiro**
-<div class="alert alert-block alert-danger"> RT @ari_shapiro: I’ll always remember Roger Federer for his legendary consistency, Rafael Nadal for his clay court mastery, Andy Murray for…</div>
+The most popular user is: **Austin_DeLeon77**
+<div class="alert alert-block alert-danger"> RT @AdamSchefter: Raiders waived former first-round pick Alex Leatherwood, per source.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **andy_murray** |
-| #2 Most tweeted to  | **usopen** |
-| #3 Most tweeted to  | **MagicMurrayFans** |
-| NewProfiles (less than 10 days) | 1.2%  |
-| Tweeters with < 10 followers  | 6.38%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **AdamSchefter** |
+| #2 Most tweeted to  | **MySportsUpdate** |
+| #3 Most tweeted to  | **FieldYates** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 3.2%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ari_shapiro**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MURRAY**  |
-| second  | **ANDY**  |
-| third  | **@ANDY_MURRAY** |
-| fourth  | **OPEN**  |
-| fifth  | **US**  |
+| first  | **RAIDERS**  |
+| second  | **LEATHERWOOD**  |
+| third  | **ALEX** |
+| fourth  | **FIRST-ROUND**  |
+| fifth  | **PICK**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-08-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@simonrbriggs The Great Andy Murray. I loved watching his rise to greatness and its been sad watching him drift int… https://t.co/WdunbtJpU8 |
+|RT @NFL: Raiders waiving 2021 1st-round pick Alex Leatherwood. (via @TomPelissero) https://t.co/6dTwqQo3ZM |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ari_shapiro**  |
+| The most retweeted user is: **Austin_DeLeon77**  |
 | ------------- |
-| RT @ari_shapiro: I’ll always remember Roger Federer for his legendary consistency, Rafael Nadal for his clay court mastery, Andy Murray for… |
+| RT @AdamSchefter: Raiders waived former first-round pick Alex Leatherwood, per source. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
