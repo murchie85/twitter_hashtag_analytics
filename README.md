@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Leatherwood"**
+&#x1F34E; **TOPIC = "#RHOSLC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-08-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-30TWEETS.png)
+![image](assets/2022-08-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nflrums: #Raiders first-round picks from Mike Mayock2021: Alex Leatherwood: Released2020: Henry Ruggs III: Released2020: Damon Arne… |
-| RT @MySportsUpdate: The #Raiders are releasing OT Alex Leatherwood, the 17th overall pick in last year’s draft, per @AdamSchefter. New regi… |
-| RT @FieldYates: Raiders first-round picks from 2019-2021:2019: DE Clelin Ferrell, RB Josh Jacobs and S Jonathan Abram: 5th-year options… |
+| Heather Gay’s black eye in a nutshell #RHOSLC #DragonBallSuperSuperHero https://t.co/Nngr5rWiHu |
+| @LoveAndyC Oooooh liking the new girl! #RHOSLC |
+| RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3 |
 
-The most popular user is: **Austin_DeLeon77**
-<div class="alert alert-block alert-danger"> RT @AdamSchefter: Raiders waived former first-round pick Alex Leatherwood, per source.</div>
+The most popular user is: **lamb1o1**
+<div class="alert alert-block alert-danger"> RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **MySportsUpdate** |
-| #3 Most tweeted to  | **FieldYates** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 3.2%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **queensofbravo** |
+| #2 Most tweeted to  | **BravoTV** |
+| #3 Most tweeted to  | **LisaBarlow7** |
+| NewProfiles (less than 10 days) | 0.88%  |
+| Tweeters with < 10 followers  | 3.26%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Austin_DeLeon77**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAIDERS**  |
-| second  | **LEATHERWOOD**  |
-| third  | **ALEX** |
-| fourth  | **FIRST-ROUND**  |
-| fifth  | **PICK**  |
+| first  | **RHOSLC**  |
+| second  | **SEASON**  |
+| third  | **3** |
+| fourth  | **TRAILER**  |
+| fifth  | **@QUEENSOFBRAVO:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-08-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-08-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NFL: Raiders waiving 2021 1st-round pick Alex Leatherwood. (via @TomPelissero) https://t.co/6dTwqQo3ZM |
+|Whitney punched her cousin in the face and gave her a black eye?! DISGUSTING! #RHOSLC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Austin_DeLeon77**  |
+| The most retweeted user is: **lamb1o1**  |
 | ------------- |
-| RT @AdamSchefter: Raiders waived former first-round pick Alex Leatherwood, per source. |
+| RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
