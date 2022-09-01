@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RHOSLC"**
+&#x1F34E; **TOPIC = "Kershaw"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-08-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-08-31TWEETS.png)
+![image](assets/2022-09-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Heather Gay’s black eye in a nutshell #RHOSLC #DragonBallSuperSuperHero https://t.co/Nngr5rWiHu |
-| @LoveAndyC Oooooh liking the new girl! #RHOSLC |
-| RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3 |
+| Happy Publication Day! We've got three brilliant titles heading for your shelves📚 'Dünkirchen 1940' by Robert Ker… https://t.co/4IfbnfDqNE |
+| Bassist Elie Afif joins Martin Kershaw (saxophone), @gstephenguitar and @tominterrupto on drums on Thu 8 Sep at the… https://t.co/crgY2RmeQo |
+| @Howard_Cole Yea with out Walker butain Kershaw man go Dodger's |
 
-The most popular user is: **lamb1o1**
-<div class="alert alert-block alert-danger"> RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3</div>
+The most popular user is: **kershaw_oland**
+<div class="alert alert-block alert-danger"> RT @MelDubs: I have been laughing for 5 minutes and I have tears streaming down my face https://t.co/J4RtLq9l65</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **queensofbravo** |
-| #2 Most tweeted to  | **BravoTV** |
-| #3 Most tweeted to  | **LisaBarlow7** |
+| #1 Most tweeted to  | **Dodgers** |
+| #2 Most tweeted to  | **GBNEWS** |
+| #3 Most tweeted to  | **juanctoribio** |
 | NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 3.26%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| Tweeters with < 10 followers  | 4.8%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lamb1o1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RHOSLC**  |
-| second  | **SEASON**  |
-| third  | **3** |
-| fourth  | **TRAILER**  |
-| fifth  | **@QUEENSOFBRAVO:**  |
+| first  | **KERSHAW**  |
+| second  | **CLAYTON**  |
+| third  | **DODGERS** |
+| fourth  | **THURSDAY**  |
+| fifth  | **LIST**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-08-31BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-08-31sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-09-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Whitney punched her cousin in the face and gave her a black eye?! DISGUSTING! #RHOSLC |
+|RT @DannyVietti: The Dodgers have an entire starting pitching rotation either on the injured list or suspended:Clayton Kershaw (IL)Walke… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lamb1o1**  |
+| The most retweeted user is: **kershaw_oland**  |
 | ------------- |
-| RT @queensofbravo: The epic #RHOSLC Season 3 trailer is here!! https://t.co/UbahSdygz3 |
+| RT @MelDubs: I have been laughing for 5 minutes and I have tears streaming down my face https://t.co/J4RtLq9l65 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
