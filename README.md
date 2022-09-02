@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kershaw"**
+&#x1F34E; **TOPIC = "Argentina"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-01TWEETS.png)
+![image](assets/2022-09-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Happy Publication Day! We've got three brilliant titles heading for your shelves📚 'Dünkirchen 1940' by Robert Ker… https://t.co/4IfbnfDqNE |
-| Bassist Elie Afif joins Martin Kershaw (saxophone), @gstephenguitar and @tominterrupto on drums on Thu 8 Sep at the… https://t.co/crgY2RmeQo |
-| @Howard_Cole Yea with out Walker butain Kershaw man go Dodger's |
+| RT @InfectiousDz: San Miguel de Tucumán, Tucumán, Argentina- 8 healthcare workers and 1 patient ill- Symptoms: fever, myalgia, abdominal… |
+| RT @NorthBelle4: What is the mystery pneumonia that killed three in Argentina? https://t.co/tytjIew8ik |
+| RT @VanguardBat: Top 5 countries that exported the highest $ value worth of Agbado in 20211. USA: US$19.1 billion (37.2% of total corn ex… |
 
-The most popular user is: **kershaw_oland**
-<div class="alert alert-block alert-danger"> RT @MelDubs: I have been laughing for 5 minutes and I have tears streaming down my face https://t.co/J4RtLq9l65</div>
+The most popular user is: **AngelinoSancho1**
+<div class="alert alert-block alert-danger"> RT @ukigoni: Assasination attempt on Argentina’s vicepresident Cristina Kirchner, gun fails to fire. Assailant, 35-year-old Brazilian, has…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Dodgers** |
-| #2 Most tweeted to  | **GBNEWS** |
-| #3 Most tweeted to  | **juanctoribio** |
-| NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 4.8%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **ukigoni** |
+| #2 Most tweeted to  | **BNOFeed** |
+| #3 Most tweeted to  | **AmichaiStein1** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.5%|
+| Tweeters with > 1000000 followers  | 0.32%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kershaw_oland**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KERSHAW**  |
-| second  | **CLAYTON**  |
-| third  | **DODGERS** |
-| fourth  | **THURSDAY**  |
-| fifth  | **LIST**  |
+| first  | **ARGENTINA**  |
+| second  | **CRISTINA**  |
+| third  | **KIRCHNER** |
+| fourth  | **GUN**  |
+| fifth  | **ATTEMPT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-09-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DannyVietti: The Dodgers have an entire starting pitching rotation either on the injured list or suspended:Clayton Kershaw (IL)Walke… |
+|RT @Deoliver47: My Washington Post subscription allows me to share this. Check out this gift article, at no cost to you.Read here: https:… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kershaw_oland**  |
+| The most retweeted user is: **AngelinoSancho1**  |
 | ------------- |
-| RT @MelDubs: I have been laughing for 5 minutes and I have tears streaming down my face https://t.co/J4RtLq9l65 |
+| RT @ukigoni: Assasination attempt on Argentina’s vicepresident Cristina Kirchner, gun fails to fire. Assailant, 35-year-old Brazilian, has… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
