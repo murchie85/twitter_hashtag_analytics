@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Maguire"**
+&#x1F34E; **TOPIC = "Florence"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-04TWEETS.png)
+![image](assets/2022-09-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LPGA: Take a look at the 14th hole and @leona_maguire's tee shot, with help from Voice Caddie! https://t.co/9e5deLpOh3 |
-| RT @_Grimanditweets: If Maguire making contact with Eddie in the penalty area isn’t a foul, how is it that Odegaard making contact with Eri… |
-| RT @markgoldbridge: Maguire is making me very nervous |
+| me watching all the olivia wilde update accounts (which somehow exist) retweet things florence has done wrong in th… https://t.co/o7HHUnAMLt |
+| RT @baddepptakes: Florence when the woman fighting back is Amber Heard https://t.co/OJdBZJZwRB |
+| RT @grqcee13: me to olivia wilde because she is the reason we are not getting harry and florence interviews https://t.co/zJkNEnpdIx |
 
-The most popular user is: **Adedotun_ae**
-<div class="alert alert-block alert-danger"> RT @EmmaTolkin: Why is this photo of Tobey Maguire fucking me up so hard https://t.co/O4VZtbtSpd</div>
+The most popular user is: **BarbareSoziash1**
+<div class="alert alert-block alert-danger"> RT @yelenaspugh: the director yelled ‘take five’ but florence pugh heard ‘change lives’ and just went with it https://t.co/N1EsNpMpVN</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **StokeyyG2** |
-| #2 Most tweeted to  | **_Grimanditweets** |
-| #3 Most tweeted to  | **TheShortFuse** |
-| NewProfiles (less than 10 days) | 1.2%  |
-| Tweeters with < 10 followers  | 4.56%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **waystarroyhoe** |
+| #2 Most tweeted to  | **bestofpugh** |
+| #3 Most tweeted to  | **FilmUpdates** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 3.32%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Adedotun_ae**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MAGUIRE**  |
-| second  | **CONTACT**  |
-| third  | **MAKING** |
-| fourth  | **HE’S**  |
-| fifth  | **EDDIE**  |
+| first  | **FLORENCE**  |
+| second  | **PUGH**  |
+| third  | **CHRIS** |
+| fourth  | **WORRY**  |
+| fifth  | **PINE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-09-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @topensyy: I was hearing that saliba is the mbappe of cb😂😂😂😂. Man is just a light skinned Maguire. Manchester united has not lost a game… |
+|RT @torbalderson: florence pugh at the 'don't worry darling' premiere https://t.co/fv9d1YvRoF |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Adedotun_ae**  |
+| The most retweeted user is: **BarbareSoziash1**  |
 | ------------- |
-| RT @EmmaTolkin: Why is this photo of Tobey Maguire fucking me up so hard https://t.co/O4VZtbtSpd |
+| RT @yelenaspugh: the director yelled ‘take five’ but florence pugh heard ‘change lives’ and just went with it https://t.co/N1EsNpMpVN |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
