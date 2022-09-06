@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Florence"**
+&#x1F34E; **TOPIC = "Sheree"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-05TWEETS.png)
+![image](assets/2022-09-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| me watching all the olivia wilde update accounts (which somehow exist) retweet things florence has done wrong in th… https://t.co/o7HHUnAMLt |
-| RT @baddepptakes: Florence when the woman fighting back is Amber Heard https://t.co/OJdBZJZwRB |
-| RT @grqcee13: me to olivia wilde because she is the reason we are not getting harry and florence interviews https://t.co/zJkNEnpdIx |
+| sheree coulda kept all that shit i’m crying |
+| RT @ohchadwick: Sheree really slapped a logo on this design and is selling it for $130. You can get the same on one Shein for $7. 🤔😩 #Sheby… |
+| @tabeeshack @PiperGreenFairy @GeorgeM51095505 @Andy @IamSheree Sheree set herself up for this backlash! She Lied it… https://t.co/xsSJE5KIMz |
 
-The most popular user is: **BarbareSoziash1**
-<div class="alert alert-block alert-danger"> RT @yelenaspugh: the director yelled ‘take five’ but florence pugh heard ‘change lives’ and just went with it https://t.co/N1EsNpMpVN</div>
+The most popular user is: **sadie_sheree**
+<div class="alert alert-block alert-danger"> RT @femaleredhead: oh your boyfriend’s a doctor? well my boyfriend is now the coach of an imaginary football team for the next 4 months</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **waystarroyhoe** |
-| #2 Most tweeted to  | **bestofpugh** |
-| #3 Most tweeted to  | **FilmUpdates** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 3.32%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **seangarrette** |
+| #2 Most tweeted to  | **itsKARY_** |
+| #3 Most tweeted to  | **ohchadwick** |
+| NewProfiles (less than 10 days) | 0.68%  |
+| Tweeters with < 10 followers  | 2.16%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **BarbareSoziash1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FLORENCE**  |
-| second  | **PUGH**  |
-| third  | **CHRIS** |
-| fourth  | **WORRY**  |
-| fifth  | **PINE**  |
+| first  | **SHEREE**  |
+| second  | **SHEIN**  |
+| third  | **SHEREÉ** |
+| fourth  | **RHOA**  |
+| fifth  | **REALLY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+![image](assets/2022-09-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @torbalderson: florence pugh at the 'don't worry darling' premiere https://t.co/fv9d1YvRoF |
+|On top of the fact that the astrology does not support this launch. When you’re ready to relaunch Shereé, I develop… https://t.co/0giPK9mHrK |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BarbareSoziash1**  |
+| The most retweeted user is: **sadie_sheree**  |
 | ------------- |
-| RT @yelenaspugh: the director yelled ‘take five’ but florence pugh heard ‘change lives’ and just went with it https://t.co/N1EsNpMpVN |
+| RT @femaleredhead: oh your boyfriend’s a doctor? well my boyfriend is now the coach of an imaginary football team for the next 4 months |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
