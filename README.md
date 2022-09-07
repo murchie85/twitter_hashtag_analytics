@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sheree"**
+&#x1F34E; **TOPIC = "Poyer"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-06TWEETS.png)
+![image](assets/2022-09-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| sheree coulda kept all that shit i’m crying |
-| RT @ohchadwick: Sheree really slapped a logo on this design and is selling it for $130. You can get the same on one Shein for $7. 🤔😩 #Sheby… |
-| @tabeeshack @PiperGreenFairy @GeorgeM51095505 @Andy @IamSheree Sheree set herself up for this backlash! She Lied it… https://t.co/xsSJE5KIMz |
+| RT @AroundTheNFL: Jordan Poyer (elbow), Isaiah McKenzie (groin) full participants again at Bills practicehttps://t.co/gydn2KhCrb https://… |
+| RT @Pro__Ant: Jordan Poyer on Josh Allen:“Best quarterback in the league. That’s a weapon for us. As a defensive player, like, get 17 the… |
+| Poyer For All Pro Or We Riot!!!!.......again https://t.co/EzSAfyViPW |
 
-The most popular user is: **sadie_sheree**
-<div class="alert alert-block alert-danger"> RT @femaleredhead: oh your boyfriend’s a doctor? well my boyfriend is now the coach of an imaginary football team for the next 4 months</div>
+The most popular user is: **duda_poyer**
+<div class="alert alert-block alert-danger"> RT @tmbIrpics: Amazing 😻 https://t.co/vyohbKk2Ks</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **seangarrette** |
-| #2 Most tweeted to  | **itsKARY_** |
-| #3 Most tweeted to  | **ohchadwick** |
-| NewProfiles (less than 10 days) | 0.68%  |
-| Tweeters with < 10 followers  | 2.16%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **SalSports** |
+| #2 Most tweeted to  | **JonScottTV** |
+| #3 Most tweeted to  | **MySportsUpdate** |
+| NewProfiles (less than 10 days) | 1.37%  |
+| Tweeters with < 10 followers  | 4.11%|
+| Tweeters with > 1000000 followers  | 0.33%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sadie_sheree**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SHEREE**  |
-| second  | **SHEIN**  |
-| third  | **SHEREÉ** |
-| fourth  | **RHOA**  |
-| fifth  | **REALLY**  |
+| first  | **POYER**  |
+| second  | **JORDAN**  |
+| third  | **BILLS** |
+| fourth  | **INJURY**  |
+| fifth  | **PRACTICE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-09-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|On top of the fact that the astrology does not support this launch. When you’re ready to relaunch Shereé, I develop… https://t.co/0giPK9mHrK |
+|BuffaloBills: We’re live with Jordan Poyer after practice at One Bills Drive!#BUFvsLAR | #BillsMafia  https://t.co/NHUEJ7Xour |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sadie_sheree**  |
+| The most retweeted user is: **duda_poyer**  |
 | ------------- |
-| RT @femaleredhead: oh your boyfriend’s a doctor? well my boyfriend is now the coach of an imaginary football team for the next 4 months |
+| RT @tmbIrpics: Amazing 😻 https://t.co/vyohbKk2Ks |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
