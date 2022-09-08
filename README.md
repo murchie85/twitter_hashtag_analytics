@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Poyer"**
+&#x1F34E; **TOPIC = "RIP BOZO"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-07TWEETS.png)
+![image](assets/2022-09-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AroundTheNFL: Jordan Poyer (elbow), Isaiah McKenzie (groin) full participants again at Bills practicehttps://t.co/gydn2KhCrb https://… |
-| RT @Pro__Ant: Jordan Poyer on Josh Allen:“Best quarterback in the league. That’s a weapon for us. As a defensive player, like, get 17 the… |
-| Poyer For All Pro Or We Riot!!!!.......again https://t.co/EzSAfyViPW |
+| RT @jaubreyYT: Even god said rip bozo https://t.co/FmYtDHxS4b |
+| @BBCBreaking rip bozo |
+| RT @BRATZULA: RIP BOZO https://t.co/ghK1dzA7Q4 |
 
-The most popular user is: **duda_poyer**
-<div class="alert alert-block alert-danger"> RT @tmbIrpics: Amazing 😻 https://t.co/vyohbKk2Ks</div>
+The most popular user is: **Noevilpls**
+<div class="alert alert-block alert-danger"> RT @leweaboo: RIP BOZO https://t.co/S710fXV1lG</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SalSports** |
-| #2 Most tweeted to  | **JonScottTV** |
-| #3 Most tweeted to  | **MySportsUpdate** |
-| NewProfiles (less than 10 days) | 1.37%  |
-| Tweeters with < 10 followers  | 4.11%|
-| Tweeters with > 1000000 followers  | 0.33%  |
+| #1 Most tweeted to  | **sygquest_yt** |
+| #2 Most tweeted to  | **leweaboo** |
+| #3 Most tweeted to  | **thenoelmiller** |
+| NewProfiles (less than 10 days) | 0.8%  |
+| Tweeters with < 10 followers  | 8.04%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **duda_poyer**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POYER**  |
-| second  | **JORDAN**  |
-| third  | **BILLS** |
-| fourth  | **INJURY**  |
-| fifth  | **PRACTICE**  |
+| first  | **RIP**  |
+| second  | **BOZO**  |
+| third  | **QUEEN** |
+| fourth  | **DEAD**  |
+| fifth  | **BOZORT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-09-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|BuffaloBills: We’re live with Jordan Poyer after practice at One Bills Drive!#BUFvsLAR | #BillsMafia  https://t.co/NHUEJ7Xour |
+|RT @WhattUpJT: I never seen “RIP BOZO” become a worldwide trend before |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **duda_poyer**  |
+| The most retweeted user is: **Noevilpls**  |
 | ------------- |
-| RT @tmbIrpics: Amazing 😻 https://t.co/vyohbKk2Ks |
+| RT @leweaboo: RIP BOZO https://t.co/S710fXV1lG |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
