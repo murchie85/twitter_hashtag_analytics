@@ -1,35 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "RIP BOZO"**
+&#x1F34E; **TOPIC = "Busch Light"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-08TWEETS.png)
+![image](assets/2022-09-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jaubreyYT: Even god said rip bozo https://t.co/FmYtDHxS4b |
-| @BBCBreaking rip bozo |
-| RT @BRATZULA: RIP BOZO https://t.co/ghK1dzA7Q4 |
+| @BuschBeer Busch Light and the world of love for the first day and the best of the most of all the time spent with the family 😂❤️🍻❤️🍻😂 |
+| RT @BuschBeer: Our body is not a temple it's a garage fridge for Busch Light. |
+| Drinking a Busch Light by @AnheuserBusch @ The Bluff — https://t.co/4QDq5xXdm0 |
 
-The most popular user is: **Noevilpls**
-<div class="alert alert-block alert-danger"> RT @leweaboo: RIP BOZO https://t.co/S710fXV1lG</div>
+The most popular user is: **DavidW_Light**
+<div class="alert alert-block alert-danger"> RT @LVMotorSpeedway: 𝗚𝗜𝗩𝗘𝗔𝗪𝗔𝗬
+Now is your chance to win a Kyle Busch diecast!
+
+To Enter
+Like and RT this tweet
+Must be following @LVMotorSp…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **sygquest_yt** |
-| #2 Most tweeted to  | **leweaboo** |
-| #3 Most tweeted to  | **thenoelmiller** |
-| NewProfiles (less than 10 days) | 0.8%  |
-| Tweeters with < 10 followers  | 8.04%|
+| #1 Most tweeted to  | **BuschBeer** |
+| #2 Most tweeted to  | **WhiskeyRiff** |
+| #3 Most tweeted to  | **AnheuserBusch** |
+| NewProfiles (less than 10 days) | 1.78%  |
+| Tweeters with < 10 followers  | 5.14%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +44,28 @@ The most popular user is: **Noevilpls**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RIP**  |
-| second  | **BOZO**  |
-| third  | **QUEEN** |
-| fourth  | **DEAD**  |
-| fifth  | **BOZORT**  |
+| first  | **BUSCH**  |
+| second  | **LIGHT**  |
+| third  | **@BUSCHBEER:** |
+| fourth  | **LIGHTRT**  |
+| fifth  | **DAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-09-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @WhattUpJT: I never seen “RIP BOZO” become a worldwide trend before |
+|RT @BuschBeer: Our body is not a temple it's a garage fridge for Busch Light. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Noevilpls**  |
+| The most retweeted user is: **DavidW_Light**  |
 | ------------- |
-| RT @leweaboo: RIP BOZO https://t.co/S710fXV1lG |
+| RT @LVMotorSpeedway: 𝗚𝗜𝗩𝗘𝗔𝗪𝗔𝗬Now is your chance to win a Kyle Busch diecast!To EnterLike and RT this tweetMust be following @LVMotorSp… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
