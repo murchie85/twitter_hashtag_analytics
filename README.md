@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Busch Light"**
+&#x1F34E; **TOPIC = "Ewers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-09TWEETS.png)
+![image](assets/2022-09-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @BuschBeer Busch Light and the world of love for the first day and the best of the most of all the time spent with the family 😂❤️🍻❤️🍻😂 |
-| RT @BuschBeer: Our body is not a temple it's a garage fridge for Busch Light. |
-| Drinking a Busch Light by @AnheuserBusch @ The Bluff — https://t.co/4QDq5xXdm0 |
+| RT @PFF: Drew Brees offers some advice on Quinn Ewers injury 😳 https://t.co/gG1t0URvVj |
+| RT @247Sports: JUST IN: Quinn Ewers will not return to the Texas-Alabama game after going to the locker room for an X-ray, per @PeteThamel.… |
+| RT @SimoneEli_TV: This gets called a penalty bc officials get too wrapped up in the moment and how things “appear” — it’s football, it’s a… |
 
-The most popular user is: **DavidW_Light**
-<div class="alert alert-block alert-danger"> RT @LVMotorSpeedway: 𝗚𝗜𝗩𝗘𝗔𝗪𝗔𝗬
-Now is your chance to win a Kyle Busch diecast!
-
-To Enter
-Like and RT this tweet
-Must be following @LVMotorSp…</div>
+The most popular user is: **LurkRussell**
+<div class="alert alert-block alert-danger"> RT @Stuckey2: Quinn Ewers before and after playing Alabama https://t.co/px9Eg8IsiP</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BuschBeer** |
-| #2 Most tweeted to  | **WhiskeyRiff** |
-| #3 Most tweeted to  | **AnheuserBusch** |
-| NewProfiles (less than 10 days) | 1.78%  |
-| Tweeters with < 10 followers  | 5.14%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **PeteThamel** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **barstoolsports** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 3.56%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -44,28 +39,28 @@ Must be following @LVMotorSp…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BUSCH**  |
-| second  | **LIGHT**  |
-| third  | **@BUSCHBEER:** |
-| fourth  | **LIGHTRT**  |
-| fifth  | **DAY**  |
+| first  | **EWERS**  |
+| second  | **QUINN**  |
+| third  | **TEXAS** |
+| fourth  | **GAME**  |
+| fifth  | **ALABAMA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-09BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
+![image](assets/2022-09-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BuschBeer: Our body is not a temple it's a garage fridge for Busch Light. |
+|RT @PeteThamel: Source: Texas quarterback Quinn Ewers will not return to today’s game against Alabama. He went to the locker room for an X-… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DavidW_Light**  |
+| The most retweeted user is: **LurkRussell**  |
 | ------------- |
-| RT @LVMotorSpeedway: 𝗚𝗜𝗩𝗘𝗔𝗪𝗔𝗬Now is your chance to win a Kyle Busch diecast!To EnterLike and RT this tweetMust be following @LVMotorSp… |
+| RT @Stuckey2: Quinn Ewers before and after playing Alabama https://t.co/px9Eg8IsiP |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
