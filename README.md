@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ewers"**
+&#x1F34E; **TOPIC = "Mike White"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-10TWEETS.png)
+![image](assets/2022-09-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PFF: Drew Brees offers some advice on Quinn Ewers injury 😳 https://t.co/gG1t0URvVj |
-| RT @247Sports: JUST IN: Quinn Ewers will not return to the Texas-Alabama game after going to the locker room for an X-ray, per @PeteThamel.… |
-| RT @SimoneEli_TV: This gets called a penalty bc officials get too wrapped up in the moment and how things “appear” — it’s football, it’s a… |
+| RT @highbrow_nobrow: NEW: Former Trump White House lawyer Ty Cobb called ex-President Donald Trump a "deeply wounded narcissist" who acted… |
+| RT @dvillella: @Mike_Pence Were you at the RNC Convention ON THE WHITE HOUSE GROUNDS?You'll never guess who opened the doors for FPOTUS s… |
+| RT @QasimRashid: @Mike_Pence Your boss tried to ban all Muslims, called immigrants rapists, called Nazis very nice people, retweeted white… |
 
-The most popular user is: **LurkRussell**
-<div class="alert alert-block alert-danger"> RT @Stuckey2: Quinn Ewers before and after playing Alabama https://t.co/px9Eg8IsiP</div>
+The most popular user is: **Mike_Nite_Rider**
+<div class="alert alert-block alert-danger"> RT @Freeyourmindkid: The security guard who died trying to stop the white supremacist who murdered those people at TOPS is named Aaron Salt…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PeteThamel** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **barstoolsports** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 3.56%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **Mike_Pence** |
+| #2 Most tweeted to  | **lindyli** |
+| #3 Most tweeted to  | **QasimRashid** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 4.04%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **LurkRussell**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EWERS**  |
-| second  | **QUINN**  |
-| third  | **TEXAS** |
-| fourth  | **GAME**  |
-| fifth  | **ALABAMA**  |
+| first  | **MIKE**  |
+| second  | **WHITE**  |
+| third  | **TRIED** |
+| fourth  | **PENCE**  |
+| fifth  | **MAGA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/2022-09-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PeteThamel: Source: Texas quarterback Quinn Ewers will not return to today’s game against Alabama. He went to the locker room for an X-… |
+|RT @lindyli: Fly Boy Mike Pence is attacking Biden for calling MAGA Republicans a threatHe’s defending the MAGAts who tried to hang him… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LurkRussell**  |
+| The most retweeted user is: **Mike_Nite_Rider**  |
 | ------------- |
-| RT @Stuckey2: Quinn Ewers before and after playing Alabama https://t.co/px9Eg8IsiP |
+| RT @Freeyourmindkid: The security guard who died trying to stop the white supremacist who murdered those people at TOPS is named Aaron Salt… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
