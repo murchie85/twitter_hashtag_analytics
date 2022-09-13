@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jimmy Savile"**
+&#x1F34E; **TOPIC = "#ChampionsLeague"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-12TWEETS.png)
+![image](assets/2022-09-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheSocialistDad: Always good to remind people of the close relationship between our King and known paedophile and necrophiliac Jimmy Sa… |
-| @theactualemma His mother just died, he’s under pressure? Give me a break, he’s not 12. He’s been training for this… https://t.co/cslDW3VwXb |
-| RT @AdamBienkov: Boris Johnson here standing with people he has variously:- Compared to a suicide bomber- Called "girly"- Likened to Co… |
+| RT @lfcuktv: 👇👇Follow 👇👇@lfcuktv •Liverpool vs Ajax Live•Liverpool vs Ajax Live UEFA Champions League 2022 online🔴𝐇𝐃 𝐋𝐢𝐧𝐤➡️https://… |
+| RT @SoccerWorld247: WATCH LIVE &gt;&gt;&gt; Tottenham vs Sporting Live Stream Full HD::::Tottenham vs Sporting Live::::WATCH HERE⏭️@SportsIn… |
+| RT @pookygg: The CHAMPIOOOOONSSS🎶❤️🤍 @FCBayernEN  vs @FCBarcelona 🔵🔴A lot of eyes will be on the front 3s tonight - who has the better… |
 
-The most popular user is: **jennyferrvdh**
-<div class="alert alert-block alert-danger"> RT @YourAnonCentral: Around the time of her death, Diana was visiting hospitals and care homes Jimmy Savile was preying on at all hours of…</div>
+The most popular user is: **Ppromkid**
+<div class="alert alert-block alert-danger"> RT @esmuellert_: @FCBarcelona, @Inter_en and @fcviktorkaplzen. What a interesting and challenging #UCL group! @lewy_official - back in Muni…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamBienkov** |
-| #2 Most tweeted to  | **janderson_news** |
-| #3 Most tweeted to  | **KINGofJOCKISTAN** |
-| NewProfiles (less than 10 days) | 2.06%  |
-| Tweeters with < 10 followers  | 4.94%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **rubendias** |
+| #2 Most tweeted to  | **FCBarcelona** |
+| #3 Most tweeted to  | **FCBayernEN** |
+| NewProfiles (less than 10 days) | 11.2%  |
+| Tweeters with < 10 followers  | 31.46%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jennyferrvdh**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JIMMY**  |
-| second  | **PEOPLE**  |
-| third  | **CALLED** |
-| fourth  | **JOHNSON**  |
-| fifth  | **STANDING**  |
+| first  | **VS**  |
+| second  | **CHAMPIONSLEAGUE**  |
+| third  | **LIVE** |
+| fourth  | **STREAM**  |
+| fifth  | **TOTTENHAM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
+![image](assets/2022-09-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AdamBienkov: Boris Johnson here standing with people he has variously:- Compared to a suicide bomber- Called "girly"- Likened to Co… |
+|📺Live Stream HD Plzen vs Inter#UCL #InterMilan #ChampionsLeague #UEFA#PlzenLive Stream HD👇👇🔗Live Linkhttps:… https://t.co/Ea4blIMxX0 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jennyferrvdh**  |
+| The most retweeted user is: **Ppromkid**  |
 | ------------- |
-| RT @YourAnonCentral: Around the time of her death, Diana was visiting hospitals and care homes Jimmy Savile was preying on at all hours of… |
+| RT @esmuellert_: @FCBarcelona, @Inter_en and @fcviktorkaplzen. What a interesting and challenging #UCL group! @lewy_official - back in Muni… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
