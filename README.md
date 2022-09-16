@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pefok"**
+&#x1F34E; **TOPIC = "Martha's Vineyard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-14TWEETS.png)
+![image](assets/2022-09-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Isick007 @the_bonnfire Agreed, I want to see Pefok after he’s played so well for Union Berlin. I probably would ha… https://t.co/pCroknZsR9 |
-| RT @usmntonly: Jordan Pefok does not make the USMNT roster. He has 2 goals and 2 assists in 5 Bundesliga appearances for Union Berlin, who… |
-| RT @smoothie_comps: Big misses by #USMNT strikers since World Cup qualifying started:6 - Ferreira3 - Pepi1 - Pefok, Wright https://t.co/… |
+| RT @EndWokeness: Whenever you pass one of these, remember that time when Martha’s Vineyard called the National Guard to remove 50 illegals… |
+| RT @tlplair: The price of a one-way 1st-class ticket from Tallahassee to Martha's Vineyard is $2,119. 50 tickets would cost $105,950. Ye… |
+| RT @BuckSexton: Sending dozens of illegal migrants on a plane in broad daylight to lovely Martha’s Vineyard is “kidnapping” Sending milli… |
 
-The most popular user is: **JoeyHashtag**
-<div class="alert alert-block alert-danger"> RT @usmntonly: Jordan Pefok does not make the USMNT roster. He has 2 goals and 2 assists in 5 Bundesliga appearances for Union Berlin, who…</div>
+The most popular user is: **patrickmacd7**
+<div class="alert alert-block alert-danger"> RT @jaxcarys: Martha's Vineyard resident with some words https://t.co/eMaZFjCbG0</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **USMNT** |
-| #2 Most tweeted to  | **usmntonly** |
-| #3 Most tweeted to  | **ManagerTactical** |
-| NewProfiles (less than 10 days) | 0.79%  |
-| Tweeters with < 10 followers  | 6.76%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ksorbs** |
+| #2 Most tweeted to  | **Sky_Lee_1** |
+| #3 Most tweeted to  | **ClayTravis** |
+| NewProfiles (less than 10 days) | 1.14%  |
+| Tweeters with < 10 followers  | 4.68%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **JoeyHashtag**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PEFOK**  |
-| second  | **PEPI**  |
-| third  | **JORDAN** |
-| fourth  | **USMNT**  |
-| fifth  | **ROSTER**  |
+| first  | **VINEYARD**  |
+| second  | **MARTHA’S**  |
+| third  | **"MARTHAS"** |
+| fourth  | **DESANTIS**  |
+| fifth  | **MIGRANTS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-09-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@gabeberger7 @usmntonly @USMNT Pefok is injured currently |
+|RT @TimRunsHisMouth: The residents of Martha's Vineyard got rid of those illegal immigrants faster than they could read their yard signs sa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JoeyHashtag**  |
+| The most retweeted user is: **patrickmacd7**  |
 | ------------- |
-| RT @usmntonly: Jordan Pefok does not make the USMNT roster. He has 2 goals and 2 assists in 5 Bundesliga appearances for Union Berlin, who… |
+| RT @jaxcarys: Martha's Vineyard resident with some words https://t.co/eMaZFjCbG0 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
