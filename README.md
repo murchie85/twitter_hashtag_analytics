@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Martha's Vineyard"**
+&#x1F34E; **TOPIC = "#NYCFC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-16TWEETS.png)
+![image](assets/2022-09-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @EndWokeness: Whenever you pass one of these, remember that time when Martha’s Vineyard called the National Guard to remove 50 illegals… |
-| RT @tlplair: The price of a one-way 1st-class ticket from Tallahassee to Martha's Vineyard is $2,119. 50 tickets would cost $105,950. Ye… |
-| RT @BuckSexton: Sending dozens of illegal migrants on a plane in broad daylight to lovely Martha’s Vineyard is “kidnapping” Sending milli… |
+| RT @UKNYCFC: Fantastic afternoon of footgolf @CrystalSprings in Hamburg, NJ. Had to rep @Pompey knowing that @CoachJ0e would be clad in @ny… |
+| RT @MLS: Another trophy for the boys in blue 🏆#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C |
+| 🔟 NEW ⚽ JOB, also from #NYCFC:💼 Athletic Trainer🏢 New York City Football Club | @NYCFC🇺🇸 New York City, NY📃 Pa… https://t.co/mt2ak6bQPO |
 
-The most popular user is: **patrickmacd7**
-<div class="alert alert-block alert-danger"> RT @jaxcarys: Martha's Vineyard resident with some words https://t.co/eMaZFjCbG0</div>
+The most popular user is: **OLEWTV1**
+<div class="alert alert-block alert-danger"> RT @MLS: Another trophy for the boys in blue 🏆
+
+#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ksorbs** |
-| #2 Most tweeted to  | **Sky_Lee_1** |
-| #3 Most tweeted to  | **ClayTravis** |
-| NewProfiles (less than 10 days) | 1.14%  |
-| Tweeters with < 10 followers  | 4.68%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **NYCFC** |
+| #2 Most tweeted to  | **CampeonesCup** |
+| #3 Most tweeted to  | **MLS** |
+| NewProfiles (less than 10 days) | 1.02%  |
+| Tweeters with < 10 followers  | 2.68%|
+| Tweeters with > 1000000 followers  | 0.51%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **patrickmacd7**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VINEYARD**  |
-| second  | **MARTHA’S**  |
-| third  | **"MARTHAS"** |
-| fourth  | **DESANTIS**  |
-| fifth  | **MIGRANTS**  |
+| first  | **NYCFC**  |
+| second  | **🏆**  |
+| third  | **@CAMPEONESCUP** |
+| fourth  | **ATLAS**  |
+| fifth  | **MLS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-16BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-09-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TimRunsHisMouth: The residents of Martha's Vineyard got rid of those illegal immigrants faster than they could read their yard signs sa… |
+|🌎 #FutbolAmericas 🌍 Post Game show on @espn 2 📺 linear debut 🫡LIVE FROM NEW YORK 🗽Atlas lose to #NYCFC cappin… https://t.co/LR7d5TXQc8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **patrickmacd7**  |
+| The most retweeted user is: **OLEWTV1**  |
 | ------------- |
-| RT @jaxcarys: Martha's Vineyard resident with some words https://t.co/eMaZFjCbG0 |
+| RT @MLS: Another trophy for the boys in blue 🏆#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
