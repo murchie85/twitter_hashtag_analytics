@@ -1,38 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NYCFC"**
+&#x1F34E; **TOPIC = "Redzone"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-17TWEETS.png)
+![image](assets/2022-09-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @UKNYCFC: Fantastic afternoon of footgolf @CrystalSprings in Hamburg, NJ. Had to rep @Pompey knowing that @CoachJ0e would be clad in @ny… |
-| RT @MLS: Another trophy for the boys in blue 🏆#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C |
-| 🔟 NEW ⚽ JOB, also from #NYCFC:💼 Athletic Trainer🏢 New York City Football Club | @NYCFC🇺🇸 New York City, NY📃 Pa… https://t.co/mt2ak6bQPO |
+| 🔴👉Watch HERE: @nflstreames Watch Every NFL Football Games Live Stream Online For FreeNFL Sunday Night Streaming… https://t.co/XNmAo2qkfc |
+| REDZONE DAY👏🏼 |
+| RT @7thflocru: We shouldn’t even have to be kicking field goals. Our playcaling in the redzone is an absolute joke. We run down the entire… |
 
-The most popular user is: **OLEWTV1**
-<div class="alert alert-block alert-danger"> RT @MLS: Another trophy for the boys in blue 🏆
+The most popular user is: **redzone_87**
+<div class="alert alert-block alert-danger"> RT @_SyedHuq: Canva has over 75M users worldwide.
 
-#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C</div>
+But most people don't know how to unlock its full potential.
+
+Here's 10 Canva tricks you…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NYCFC** |
-| #2 Most tweeted to  | **CampeonesCup** |
-| #3 Most tweeted to  | **MLS** |
-| NewProfiles (less than 10 days) | 1.02%  |
-| Tweeters with < 10 followers  | 2.68%|
-| Tweeters with > 1000000 followers  | 0.51%  |
+| #1 Most tweeted to  | **ScottHanson** |
+| #2 Most tweeted to  | **DIRECTV** |
+| #3 Most tweeted to  | **Sling** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 5.2%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +43,28 @@ The most popular user is: **OLEWTV1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NYCFC**  |
-| second  | **🏆**  |
-| third  | **@CAMPEONESCUP** |
-| fourth  | **ATLAS**  |
-| fifth  | **MLS**  |
+| first  | **REDZONE**  |
+| second  | **NFL**  |
+| third  | **WATCH** |
+| fourth  | **LET’S**  |
+| fifth  | **GAME**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-17sentiment.png)
+![image](assets/2022-09-18sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|🌎 #FutbolAmericas 🌍 Post Game show on @espn 2 📺 linear debut 🫡LIVE FROM NEW YORK 🗽Atlas lose to #NYCFC cappin… https://t.co/LR7d5TXQc8 |
+|Sunday Therapy Time #redzone 🤝 https://t.co/1ctpuMDOy3 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OLEWTV1**  |
+| The most retweeted user is: **redzone_87**  |
 | ------------- |
-| RT @MLS: Another trophy for the boys in blue 🏆#NYCFC defeat Atlas FC to win the @CampeonesCup. https://t.co/QfPKfj7s4C |
+| RT @_SyedHuq: Canva has over 75M users worldwide.But most people don't know how to unlock its full potential.Here's 10 Canva tricks you… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
