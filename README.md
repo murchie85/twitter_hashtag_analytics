@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Redzone"**
+&#x1F34E; **TOPIC = "Adam Levine"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-18TWEETS.png)
+![image](assets/2022-09-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 🔴👉Watch HERE: @nflstreames Watch Every NFL Football Games Live Stream Online For FreeNFL Sunday Night Streaming… https://t.co/XNmAo2qkfc |
-| REDZONE DAY👏🏼 |
-| RT @7thflocru: We shouldn’t even have to be kicking field goals. Our playcaling in the redzone is an absolute joke. We run down the entire… |
+| RT @amandamier10: Sitting patiently waiting for the Adam Levine news to hit twitter https://t.co/nBEWzRnZ09 |
+| RT @aesparoyco: adam levine is a cheater and he wanted to name his son after his mistress???!!! STRAIGHT TO HELL 😭 https://t.co/sSs7eg43s8 |
+| RT @amandamier10: Sitting patiently waiting for the Adam Levine news to hit twitter https://t.co/nBEWzRnZ09 |
 
-The most popular user is: **redzone_87**
-<div class="alert alert-block alert-danger"> RT @_SyedHuq: Canva has over 75M users worldwide.
-
-But most people don't know how to unlock its full potential.
-
-Here's 10 Canva tricks you…</div>
+The most popular user is: **not_adam_levine**
+<div class="alert alert-block alert-danger"> RT @prettyboynavi: adulthood is definitely the worst hood I have ever been to</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ScottHanson** |
-| #2 Most tweeted to  | **DIRECTV** |
-| #3 Most tweeted to  | **Sling** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 5.2%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **amandamier10** |
+| #2 Most tweeted to  | **aesparoyco** |
+| #3 Most tweeted to  | **Bruce_Cares** |
+| NewProfiles (less than 10 days) | 0.81%  |
+| Tweeters with < 10 followers  | 4.36%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -43,28 +39,28 @@ Here's 10 Canva tricks you…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REDZONE**  |
-| second  | **NFL**  |
-| third  | **WATCH** |
-| fourth  | **LET’S**  |
-| fifth  | **GAME**  |
+| first  | **ADAM**  |
+| second  | **LEVINE**  |
+| third  | **AFTER** |
+| fourth  | **NAME**  |
+| fifth  | **WIFE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/2022-09-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Sunday Therapy Time #redzone 🤝 https://t.co/1ctpuMDOy3 |
+|RT @dioslamdo: ADAM LEVINE'S DOWNFALL...AS A LIFELONG MAROON 5 HATER THIS IS A BIG DAY FOR ME https://t.co/ShCx9DLLJJ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **redzone_87**  |
+| The most retweeted user is: **not_adam_levine**  |
 | ------------- |
-| RT @_SyedHuq: Canva has over 75M users worldwide.But most people don't know how to unlock its full potential.Here's 10 Canva tricks you… |
+| RT @prettyboynavi: adulthood is definitely the worst hood I have ever been to |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
