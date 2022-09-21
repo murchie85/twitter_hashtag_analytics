@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#NationalVoterRegistrationDay"**
+&#x1F34E; **TOPIC = "Star Wars"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-20TWEETS.png)
+![image](assets/2022-09-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Today is #NationalVoterRegistrationDay and Election Day is coming up fast!We need BIG turnout to build on our fig… https://t.co/sK1VskV6rH |
-| RT @lwvgnba: National Voter Registration Day is a reminder to all of us to make sure we are registered to vote and our registrations are ac… |
-| RT @NatlVoterRegDay: Good Morning ☀️ It's #NationalVoterRegistrationDay! If you recently moved, changed your name, became a citizen, or hav… |
+| RT @FXNetworks: We had to. Watch Star Wars #Andor. 3-episode premiere now streaming on @DisneyPlus https://t.co/9Tz9XQeplY |
+| RT @FXNetworks: We had to. Watch Star Wars #Andor. 3-episode premiere now streaming on @DisneyPlus https://t.co/9Tz9XQeplY |
+| Andor's first episode was good. Made me more interested in Star Wars outside of force users 👍🏽 |
 
-The most popular user is: **andreafrantz221**
-<div class="alert alert-block alert-danger"> RT @NatlVoterRegDay: Good Morning ☀️ It's #NationalVoterRegistrationDay! If you recently moved, changed your name, became a citizen, or hav…</div>
+The most popular user is: **whostendo**
+<div class="alert alert-block alert-danger"> RT @SandmanShill: i paid for twitter blue so i’m posting the best lightsaber fight in all of Star Wars media https://t.co/BwmE3hSh41</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NatlVoterRegDay** |
-| #2 Most tweeted to  | **MomsDemand** |
-| #3 Most tweeted to  | **TeamPelosi** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 1.28%|
-| Tweeters with > 1000000 followers  | 0.36%  |
+| #1 Most tweeted to  | **DisneyPlus** |
+| #2 Most tweeted to  | **starwars** |
+| #3 Most tweeted to  | **andorofficial** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 4.94%|
+| Tweeters with > 1000000 followers  | 0.3%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **andreafrantz221**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATIONALVOTERREGISTRATIONDAY**  |
-| second  | **VOTE**  |
-| third  | **NATIONALVOTERREGISTRATIONDAY!** |
-| fourth  | **REGISTER**  |
-| fifth  | **VOTER**  |
+| first  | **STAR**  |
+| second  | **WARS**  |
+| third  | **ANDOR** |
+| fourth  | **STREAMING**  |
+| fifth  | **PREMIERE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-20BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-09-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TeamPelosi: ALL House Republicans said NO to women's freedoms; COVID relief to save lives + jobs; ending gas price gouging; capping sen… |
+|@SoulofaNation @diegoluna_ Keeping his accent added something Star Wars had been missing in spoken dialogue. Variety. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **andreafrantz221**  |
+| The most retweeted user is: **whostendo**  |
 | ------------- |
-| RT @NatlVoterRegDay: Good Morning ☀️ It's #NationalVoterRegistrationDay! If you recently moved, changed your name, became a citizen, or hav… |
+| RT @SandmanShill: i paid for twitter blue so i’m posting the best lightsaber fight in all of Star Wars media https://t.co/BwmE3hSh41 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
