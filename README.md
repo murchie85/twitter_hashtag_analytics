@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Star Wars"**
+&#x1F34E; **TOPIC = "#ONEPIECE1061"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-21TWEETS.png)
+![image](assets/2022-09-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FXNetworks: We had to. Watch Star Wars #Andor. 3-episode premiere now streaming on @DisneyPlus https://t.co/9Tz9XQeplY |
-| RT @FXNetworks: We had to. Watch Star Wars #Andor. 3-episode premiere now streaming on @DisneyPlus https://t.co/9Tz9XQeplY |
-| Andor's first episode was good. Made me more interested in Star Wars outside of force users 👍🏽 |
+| RT @OVOBloue: #ONEPIECE1061 Sanji when he meets Dr. Vegapunk: https://t.co/0wbyWjjE7B |
+| RT @PazzIguess: #ONEPIECE1061 Has to be white to be free?? insane https://t.co/kjmwqiTbWS |
+| You gotta be kidding💀Tell me she believes she's Vegapunk or sumn just like Yamato please😭#ONEPIECE1061 https://t.co/iVJXxsAx3o |
 
-The most popular user is: **whostendo**
-<div class="alert alert-block alert-danger"> RT @SandmanShill: i paid for twitter blue so i’m posting the best lightsaber fight in all of Star Wars media https://t.co/BwmE3hSh41</div>
+The most popular user is: **Monkey_D_Mohaa**
+<div class="alert alert-block alert-danger"> RT @achmunzav: #ONEPIECE1061 
+
+The Big Five https://t.co/vNECiA4G0S</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DisneyPlus** |
-| #2 Most tweeted to  | **starwars** |
-| #3 Most tweeted to  | **andorofficial** |
+| #1 Most tweeted to  | **TCBScans** |
+| #2 Most tweeted to  | **sigmarshanks** |
+| #3 Most tweeted to  | **ahmdwaiz_** |
 | NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 4.94%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| Tweeters with < 10 followers  | 6.38%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **whostendo**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STAR**  |
-| second  | **WARS**  |
-| third  | **ANDOR** |
-| fourth  | **STREAMING**  |
-| fifth  | **PREMIERE**  |
+| first  | **ONEPIECE1061**  |
+| second  | **CHAPTER**  |
+| third  | **VEGAPUNK** |
+| fourth  | **PIECE**  |
+| fifth  | **1061**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-09-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@SoulofaNation @diegoluna_ Keeping his accent added something Star Wars had been missing in spoken dialogue. Variety. |
+|#ONEPIECE1061  they got up thru katakuri stocks going down sightly cause of it https://t.co/fH94PPa4di |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **whostendo**  |
+| The most retweeted user is: **Monkey_D_Mohaa**  |
 | ------------- |
-| RT @SandmanShill: i paid for twitter blue so i’m posting the best lightsaber fight in all of Star Wars media https://t.co/BwmE3hSh41 |
+| RT @achmunzav: #ONEPIECE1061 The Big Five https://t.co/vNECiA4G0S |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
