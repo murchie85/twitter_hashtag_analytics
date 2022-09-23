@@ -1,37 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ONEPIECE1061"**
+&#x1F34E; **TOPIC = "#GOPContractForCruelty"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-22TWEETS.png)
+![image](assets/2022-09-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OVOBloue: #ONEPIECE1061 Sanji when he meets Dr. Vegapunk: https://t.co/0wbyWjjE7B |
-| RT @PazzIguess: #ONEPIECE1061 Has to be white to be free?? insane https://t.co/kjmwqiTbWS |
-| You gotta be kidding💀Tell me she believes she's Vegapunk or sumn just like Yamato please😭#ONEPIECE1061 https://t.co/iVJXxsAx3o |
+| RT @BMeiselas: Let me get this straight: The GOP is running on banning abortion, banning contraception, banning books, eliminating Social S… |
+| RT @ABlackPolitical: 195 House Republicans voted against the fundamental right to contraception.Today they trying to sell their ridiculou… |
+| RT @mmpadellan: TWEEPS: #GOPContractForCruelty is trending #3 on Twitter, thanks to your retweets and replies!Can we get 500 quick RTs an… |
 
-The most popular user is: **Monkey_D_Mohaa**
-<div class="alert alert-block alert-danger"> RT @achmunzav: #ONEPIECE1061 
-
-The Big Five https://t.co/vNECiA4G0S</div>
+The most popular user is: **rcevans0910**
+<div class="alert alert-block alert-danger"> RT @BMeiselas: Let me get this straight: The GOP is running on banning abortion, banning contraception, banning books, eliminating Social S…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TCBScans** |
-| #2 Most tweeted to  | **sigmarshanks** |
-| #3 Most tweeted to  | **ahmdwaiz_** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 6.38%|
+| #1 Most tweeted to  | **mmpadellan** |
+| #2 Most tweeted to  | **BMeiselas** |
+| #3 Most tweeted to  | **ABlackPolitical** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 3.2%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +39,28 @@ The Big Five https://t.co/vNECiA4G0S</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ONEPIECE1061**  |
-| second  | **CHAPTER**  |
-| third  | **VEGAPUNK** |
-| fourth  | **PIECE**  |
-| fifth  | **1061**  |
+| first  | **GOPCONTRACTFORCRUELTY**  |
+| second  | **BANNING**  |
+| third  | **SOCIAL** |
+| fourth  | **MCCARTHY**  |
+| fifth  | **KEVIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2022-09-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#ONEPIECE1061  they got up thru katakuri stocks going down sightly cause of it https://t.co/fH94PPa4di |
+|RT @MeidasTouch: The #GOPContractForCruelty supports insurrection and attacks on law enforcement. They want to defund the FBI and DOJ. They… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Monkey_D_Mohaa**  |
+| The most retweeted user is: **rcevans0910**  |
 | ------------- |
-| RT @achmunzav: #ONEPIECE1061 The Big Five https://t.co/vNECiA4G0S |
+| RT @BMeiselas: Let me get this straight: The GOP is running on banning abortion, banning contraception, banning books, eliminating Social S… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
