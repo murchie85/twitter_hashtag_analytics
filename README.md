@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Elton John"**
+&#x1F34E; **TOPIC = "Patrick Graham"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-24TWEETS.png)
+![image](assets/2022-09-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HowardMortman: Biden Surprises Elton John With National Humanities Medal .. tearing up, Elton John said he was “flabbergasted and humbl… |
-| RT @antifaoperative: President Biden gave Elton John the Humanitarian Award for his work to end AIDS and assist those living with the condi… |
-| RT @TitusNation: If Elton John didn’t exist, we’d be…less. https://t.co/YSRsTnlfnT |
+| Patrick Graham stock falling by the second! |
+| RT @Schultz_Report: FA LB Blake Martinez is visiting the #Raiders tomorrow, per source.As I reported Tuesday, Martinez visited the #Raven… |
+| I love Patrick Graham, but his bend-don’t-break defensive philosophy is and was incredibly frustrating to watch as… https://t.co/WRxFSH7ER8 |
 
-The most popular user is: **Hellkite422**
-<div class="alert alert-block alert-danger"> RT @HowardMortman: Biden Surprises Elton John With National Humanities Medal .. tearing up, Elton John said he was “flabbergasted and humbl…</div>
+The most popular user is: **Patrick_Rolfe**
+<div class="alert alert-block alert-danger"> RT @NoLieWithBTC: The Democratic Party is now running Lindsey Graham’s own words as a commercial. This is genius. https://t.co/gwewxgaSl1</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HowardMortman** |
-| #2 Most tweeted to  | **antifaoperative** |
-| #3 Most tweeted to  | **CitizenFreePres** |
-| NewProfiles (less than 10 days) | 1.0%  |
-| Tweeters with < 10 followers  | 3.64%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Schultz_Report** |
+| #2 Most tweeted to  | **raiderstankszn** |
+| #3 Most tweeted to  | **Raiders** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 5.11%|
+| Tweeters with > 1000000 followers  | 0.07%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Hellkite422**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ELTON**  |
-| second  | **JOHN**  |
-| third  | **BIDEN** |
-| fourth  | **HUMANITIES**  |
-| fifth  | **NATIONAL**  |
+| first  | **PATRICK**  |
+| second  | **GRAHAM**  |
+| third  | **RAIDERS** |
+| fourth  | **MARTINEZ**  |
+| fifth  | **DEFENSE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/2022-09-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RandyRRQuaid: Brandon hired “Rocket Man” Elton John to serenade a night of “Hope and Rhyme”(whatever the hell that is). I prefer a Pres… |
+|Las Vegas Raiders DC Patrick Graham Week 3 Update https://t.co/Thda0VTHWH |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Hellkite422**  |
+| The most retweeted user is: **Patrick_Rolfe**  |
 | ------------- |
-| RT @HowardMortman: Biden Surprises Elton John With National Humanities Medal .. tearing up, Elton John said he was “flabbergasted and humbl… |
+| RT @NoLieWithBTC: The Democratic Party is now running Lindsey Graham’s own words as a commercial. This is genius. https://t.co/gwewxgaSl1 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
