@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Patrick Graham"**
+&#x1F34E; **TOPIC = "Snowden"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-25TWEETS.png)
+![image](assets/2022-09-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Patrick Graham stock falling by the second! |
-| RT @Schultz_Report: FA LB Blake Martinez is visiting the #Raiders tomorrow, per source.As I reported Tuesday, Martinez visited the #Raven… |
-| I love Patrick Graham, but his bend-don’t-break defensive philosophy is and was incredibly frustrating to watch as… https://t.co/WRxFSH7ER8 |
+| RT @Archer83Able: didn't have Edward Snowden fighting alongside Wagner Group and draftees from Sakhalin somewhere near Bakhmut on my 2022 B… |
+| @ghcDrew @mwest410 @AP What visa are you talking about?! Snowden came to Russia without visa. Russia provided him w… https://t.co/HuWHOxSe2A |
+| RT @WheatPM: In 2012 you could not escape Snowden and Assange headlines and praise, and I'm just so glad their actual loyalties are now und… |
 
-The most popular user is: **Patrick_Rolfe**
-<div class="alert alert-block alert-danger"> RT @NoLieWithBTC: The Democratic Party is now running Lindsey Graham’s own words as a commercial. This is genius. https://t.co/gwewxgaSl1</div>
+The most popular user is: **NoRussianBottt**
+<div class="alert alert-block alert-danger"> RT @Snowden: Did you know that whistleblowers are sentenced to more time in prison than corrupt officials who trade secrets for sex⁠—more t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Schultz_Report** |
-| #2 Most tweeted to  | **raiderstankszn** |
-| #3 Most tweeted to  | **Raiders** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 5.11%|
-| Tweeters with > 1000000 followers  | 0.07%  |
+| #1 Most tweeted to  | **Snowden** |
+| #2 Most tweeted to  | **ggreenwald** |
+| #3 Most tweeted to  | **davetroy** |
+| NewProfiles (less than 10 days) | 0.7%  |
+| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with > 1000000 followers  | 0.28%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Patrick_Rolfe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PATRICK**  |
-| second  | **GRAHAM**  |
-| third  | **RAIDERS** |
-| fourth  | **MARTINEZ**  |
-| fifth  | **DEFENSE**  |
+| first  | **SNOWDEN**  |
+| second  | **RUSSIAN**  |
+| third  | **EDWARD** |
+| fourth  | **CITIZENSHIP**  |
+| fifth  | **PUTIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-09-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Las Vegas Raiders DC Patrick Graham Week 3 Update https://t.co/Thda0VTHWH |
+|@jack @Snowden 6 days laterhttps://t.co/ay5QgDvAmV |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Patrick_Rolfe**  |
+| The most retweeted user is: **NoRussianBottt**  |
 | ------------- |
-| RT @NoLieWithBTC: The Democratic Party is now running Lindsey Graham’s own words as a commercial. This is genius. https://t.co/gwewxgaSl1 |
+| RT @Snowden: Did you know that whistleblowers are sentenced to more time in prison than corrupt officials who trade secrets for sex⁠—more t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
