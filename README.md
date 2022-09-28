@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Aaron Long"**
+&#x1F34E; **TOPIC = "PNB Rock"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-27TWEETS.png)
+![image](assets/2022-09-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MikeLeslieWFAA: .@DezBryant: "We about to smoke that @Giants pack, man! We about to smoke that Giants pack tonight, baby!"He also sai… |
-| RT @MLS_Buzz: Aaron Long | Favorite Moments in a USMNT Jersey | The American Chiellini? | 4k 720p | Starboy⭐️⭐️⭐️ https://t.co/DeWcL4apLF |
-| @dis_possessed Aaron Long is one of our top 10 players according to Fifa 23, so of course, he's gotta be in there.… https://t.co/mJXXyy7Dvo |
+| RT @BrookeOnAir: Police say they are still looking for the teenager’s father. He is also a suspect in PnB Rock’s death. We’re told the two… |
+| RT @XXL: BREAKING: A 17-year-old has been arrested for the murder of PnB RockThe shooter's father, who drove him to the restaurant, is no… |
+| RT @Rap: According to reports he committed the murder with his father who was his getaway driver… They were also already in the restauran… |
 
-The most popular user is: **KicsCorner**
-<div class="alert alert-block alert-danger"> RT @taylorswift13: One of the saddest songs I’ve ever written just got sadder 🙃Drove up to Long Pond Studios to record All Too Well (Sad Gi…</div>
+The most popular user is: **nolabee20**
+<div class="alert alert-block alert-danger"> RT @HoodieLBJ: Never forget when PNB Rock broke his back carrying Kodak Black
+
+RIP PNB ROCK 😇👼🙏🏽
+
+ https://t.co/5ayy0WkHBv</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **USMNT** |
-| #2 Most tweeted to  | **usmntonly** |
-| #3 Most tweeted to  | **ConcacafEdgar** |
-| NewProfiles (less than 10 days) | 1.02%  |
-| Tweeters with < 10 followers  | 7.25%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **Rap** |
+| #2 Most tweeted to  | **Phil_Lewis_** |
+| #3 Most tweeted to  | **SaycheeseDGTL** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 4.18%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **KicsCorner**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LONG**  |
-| second  | **AARON**  |
-| third  | **JUDGE** |
-| fourth  | **USMNT**  |
-| fifth  | **TIME**  |
+| first  | **PNB**  |
+| second  | **ARRESTED**  |
+| third  | **ROCK’S** |
+| fourth  | **@RAP:**  |
+| fifth  | **BREAKING:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (6.67%)
+![image](assets/2022-09-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @USMNT_2026: Gregg’s favorites today for the #USMNT Aaron Long: DisasterClassZimmerman: DisasterClass in 1st half. Passable, but uni… |
+|RT @Rap: BREAKING: PnB Rock’s murderer has been arrested and is only 17-years-old 😔 https://t.co/K1oLncBjfT |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KicsCorner**  |
+| The most retweeted user is: **nolabee20**  |
 | ------------- |
-| RT @taylorswift13: One of the saddest songs I’ve ever written just got sadder 🙃Drove up to Long Pond Studios to record All Too Well (Sad Gi… |
+| RT @HoodieLBJ: Never forget when PNB Rock broke his back carrying Kodak BlackRIP PNB ROCK 😇👼🙏🏽 https://t.co/5ayy0WkHBv |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
