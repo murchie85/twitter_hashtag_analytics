@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Cybertruck"**
+&#x1F34E; **TOPIC = "Kehlani"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-09-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-09-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-09-29TWEETS.png)
+![image](assets/2022-09-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @elonmusk: Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes &amp; even seas that aren’t too ch… |
-| RT @elonmusk: Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes &amp; even seas that aren’t too ch… |
-| @elonmusk Sure, the same way the glass of the Cybertruck is unshatterable?  The same way 'Autopilot' actually works as intended? |
+| RT @SG_EGO: Baybeeee Kehlani confirmed that break up so we can stop playing detective lmao🫠 https://t.co/KRd4SKACI3 |
+| RT @PhakeLThando: kehlani’s ass clapping never gets old https://t.co/04ijgAVpn8 https://t.co/0BleVwfudO |
+| RT @PhakeLThando: kehlani’s ass clapping never gets old https://t.co/04ijgAVpn8 https://t.co/0BleVwfudO |
 
-The most popular user is: **IIIIINASTYIIIII**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes &amp; even seas that aren’t too ch…</div>
+The most popular user is: **kehlani_molani**
+<div class="alert alert-block alert-danger"> RT @Ian_Fraser: Italian cyclist Michael Guerra uses his knowledge of physics and aerodynamics to adopt a “plank” position and overtake his…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **nathanTbernard** |
-| #3 Most tweeted to  | **PPathole** |
-| NewProfiles (less than 10 days) | 1.8%  |
-| Tweeters with < 10 followers  | 8.34%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **PhakeLThando** |
+| #2 Most tweeted to  | **Kehlani** |
+| #3 Most tweeted to  | **sisterofkehlani** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.44%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **IIIIINASTYIIIII**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CYBERTRUCK**  |
-| second  | **BOAT**  |
-| third  | **BRIEFLY** |
-| fourth  | **WATERPROOF**  |
-| fifth  | **EVEN**  |
+| first  | **KEHLANI**  |
+| second  | **KEHLANI’S**  |
+| third  | **ASS** |
+| fourth  | **NEVER**  |
+| fifth  | **GETS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-09-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-09-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-09-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2022-09-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @elonmusk: Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes &amp; even seas that aren’t too ch… |
+|RT @PhakeLThando: kehlani’s ass clapping never gets old https://t.co/04ijgAVpn8 https://t.co/0BleVwfudO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **IIIIINASTYIIIII**  |
+| The most retweeted user is: **kehlani_molani**  |
 | ------------- |
-| RT @elonmusk: Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes &amp; even seas that aren’t too ch… |
+| RT @Ian_Fraser: Italian cyclist Michael Guerra uses his knowledge of physics and aerodynamics to adopt a “plank” position and overtake his… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
