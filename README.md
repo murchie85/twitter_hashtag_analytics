@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BreastCancerAwarenessMonth"**
+&#x1F34E; **TOPIC = "#avfc"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-01TWEETS.png)
+![image](assets/2022-10-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @iHartEricka: #BreastCancerAwarenessMonth Stop gendering breast cancer! Stop donating to all white run/led billion dollar BC orgs! https… |
-| Many breast cancer symptoms are invisible and not noticeable without a professional screening, but some symptoms ca… https://t.co/91aS7cdM1b |
-| A special offer for the senior citizens#breastcancer #breastcancerawareness #breastcancerawarenessmonth… https://t.co/d8Np9TG4wy |
+| RT @AVFCFaithful_: Dean Smith was sacked for 10 points in 11 games, we currently have 8 points from 8 games. #avfc |
+| Refs a bottle job, sent one off not gid two clear yellows. #avfc |
+| 📺Live Stream#LEEAVL #LUFC #AVFC🔴Leeds vs Aston Villa🔗Link1:https://t.co/0a9tHJO8oL🔗Link2:https://t.co/0a9tHJO8oLtk |
 
-The most popular user is: **rozbat**
-<div class="alert alert-block alert-danger"> RT @FLOTUS: You have so many things to take care of, and between work and family, a day that never ends... 
-
-This #BreastCancerAwarenessMon…</div>
+The most popular user is: **AimlessRL**
+<div class="alert alert-block alert-danger"> RT @JakeAvery4: Help me out lads 😂 #nathandawe #avfc @villareport https://t.co/6RbKVdH85t</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **katiecouric** |
-| #2 Most tweeted to  | **ananavarro** |
-| #3 Most tweeted to  | **TheGumFairy** |
-| NewProfiles (less than 10 days) | 0.98%  |
-| Tweeters with < 10 followers  | 4.28%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **AVFCFaithful_** |
+| #2 Most tweeted to  | **AVFCStatto** |
+| #3 Most tweeted to  | **AVFCOfficial** |
+| NewProfiles (less than 10 days) | 0.44%  |
+| Tweeters with < 10 followers  | 19.04%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ This #BreastCancerAwarenessMon…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BREAST**  |
-| second  | **CANCER**  |
-| third  | **BREASTCANCERAWARENESSMONTH** |
-| fourth  | **OCTOBER**  |
-| fifth  | **MONTH**  |
+| first  | **VILLA**  |
+| second  | **VS**  |
+| third  | **AVFC** |
+| fourth  | **ASTON**  |
+| fifth  | **LEEDS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-10-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NHSuk: It's #BreastCancerAwarenessMonth.Breast cancer can cause a number of signs and symptoms. Get used to checking regularly and be… |
+|Bailey off at half time right?  #AVFC |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **rozbat**  |
+| The most retweeted user is: **AimlessRL**  |
 | ------------- |
-| RT @FLOTUS: You have so many things to take care of, and between work and family, a day that never ends... This #BreastCancerAwarenessMon… |
+| RT @JakeAvery4: Help me out lads 😂 #nathandawe #avfc @villareport https://t.co/6RbKVdH85t |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
