@@ -1,36 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#avfc"**
+&#x1F34E; **TOPIC = "jeonghan"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-02TWEETS.png)
+![image](assets/2022-10-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AVFCFaithful_: Dean Smith was sacked for 10 points in 11 games, we currently have 8 points from 8 games. #avfc |
-| Refs a bottle job, sent one off not gid two clear yellows. #avfc |
-| 📺Live Stream#LEEAVL #LUFC #AVFC🔴Leeds vs Aston Villa🔗Link1:https://t.co/0a9tHJO8oL🔗Link2:https://t.co/0a9tHJO8oLtk |
+| RT @feverwonu: once again sobbing over the fact that jeonghan calls wonwoo wonungie https://t.co/jHBAUBqtbE |
+| RT @asatopia: #jeonghan : this you??? https://t.co/zUABHqtrL3 |
+| RT @worangshi: in honor of my baby’s birthday. GA TAYO! 🫶🏼- 3 winners- you’ll receive one of these if you join- reply with your fave je… |
 
-The most popular user is: **AimlessRL**
-<div class="alert alert-block alert-danger"> RT @JakeAvery4: Help me out lads 😂 #nathandawe #avfc @villareport https://t.co/6RbKVdH85t</div>
+The most popular user is: **2O956**
+<div class="alert alert-block alert-danger"> RT @pledis_17: 20221004 Happy JEONGHAN’s Day😇
+
+#Happy_JEONGHAN_Day
+
+#JEONGHAN #정한
+#SEVENTEEN #세븐틴 https://t.co/UQeZf27Hd1</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AVFCFaithful_** |
-| #2 Most tweeted to  | **AVFCStatto** |
-| #3 Most tweeted to  | **AVFCOfficial** |
-| NewProfiles (less than 10 days) | 0.44%  |
-| Tweeters with < 10 followers  | 19.04%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **pledis_17** |
+| #2 Most tweeted to  | **nakamotussy** |
+| #3 Most tweeted to  | **yjhdaiIy** |
+| NewProfiles (less than 10 days) | 1.36%  |
+| Tweeters with < 10 followers  | 12.26%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +44,28 @@ The most popular user is: **AimlessRL**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VILLA**  |
-| second  | **VS**  |
-| third  | **AVFC** |
-| fourth  | **ASTON**  |
-| fifth  | **LEEDS**  |
+| first  | **JEONGHAN**  |
+| second  | **HAPPY**  |
+| third  | **HAPPY_JEONGHAN_DAY** |
+| fourth  | **정한**  |
+| fifth  | **SEVENTEEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-02BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2022-10-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Bailey off at half time right?  #AVFC |
+|@bb_jeonww @pledis_17 HAPPY JEONGHAN DAY ♡#깊은향기로_남을_정한이의_스물여덟#1004DayWithJeonghan @pledis_17 https://t.co/H0ROTAifBA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AimlessRL**  |
+| The most retweeted user is: **2O956**  |
 | ------------- |
-| RT @JakeAvery4: Help me out lads 😂 #nathandawe #avfc @villareport https://t.co/6RbKVdH85t |
+| RT @pledis_17: 20221004 Happy JEONGHAN’s Day😇#Happy_JEONGHAN_Day#JEONGHAN #정한#SEVENTEEN #세븐틴 https://t.co/UQeZf27Hd1 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
