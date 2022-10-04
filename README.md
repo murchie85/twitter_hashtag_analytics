@@ -1,41 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "jeonghan"**
+&#x1F34E; **TOPIC = "Micron"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-03TWEETS.png)
+![image](assets/2022-10-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @feverwonu: once again sobbing over the fact that jeonghan calls wonwoo wonungie https://t.co/jHBAUBqtbE |
-| RT @asatopia: #jeonghan : this you??? https://t.co/zUABHqtrL3 |
-| RT @worangshi: in honor of my baby’s birthday. GA TAYO! 🫶🏼- 3 winners- you’ll receive one of these if you join- reply with your fave je… |
+| RT @kylegriffin1: Micron will spend up to $100 billion over at least the next two decades building a new computer chip factory in upstate N… |
+| RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
+| @jimcramer Just refinanced my house at 8% to get cash to short Micron based off this. Thanks Jim! https://t.co/ISVadQ9Xpd |
 
-The most popular user is: **2O956**
-<div class="alert alert-block alert-danger"> RT @pledis_17: 20221004 Happy JEONGHAN’s Day😇
+The most popular user is: **CappadoniaE**
+<div class="alert alert-block alert-danger"> RT @POTUS: Today brings another massive investment in America thanks to my economic plan.
 
-#Happy_JEONGHAN_Day
-
-#JEONGHAN #정한
-#SEVENTEEN #세븐틴 https://t.co/UQeZf27Hd1</div>
+Micron will invest $20 billion – and up to $100…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **pledis_17** |
-| #2 Most tweeted to  | **nakamotussy** |
-| #3 Most tweeted to  | **yjhdaiIy** |
-| NewProfiles (less than 10 days) | 1.36%  |
-| Tweeters with < 10 followers  | 12.26%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **DemocraticWins** |
+| #3 Most tweeted to  | **SenSchumer** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.2%|
+| Tweeters with > 1000000 followers  | 0.4%  |
 
 
 
@@ -44,28 +41,28 @@ The most popular user is: **2O956**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JEONGHAN**  |
-| second  | **HAPPY**  |
-| third  | **HAPPY_JEONGHAN_DAY** |
-| fourth  | **정한**  |
-| fifth  | **SEVENTEEN**  |
+| first  | **MICRON**  |
+| second  | **BILLION**  |
+| third  | **INVESTMENT** |
+| fourth  | **INVEST**  |
+| fifth  | **ECONOMIC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-10-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@bb_jeonww @pledis_17 HAPPY JEONGHAN DAY ♡#깊은향기로_남을_정한이의_스물여덟#1004DayWithJeonghan @pledis_17 https://t.co/H0ROTAifBA |
+|RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **2O956**  |
+| The most retweeted user is: **CappadoniaE**  |
 | ------------- |
-| RT @pledis_17: 20221004 Happy JEONGHAN’s Day😇#Happy_JEONGHAN_Day#JEONGHAN #정한#SEVENTEEN #세븐틴 https://t.co/UQeZf27Hd1 |
+| RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
