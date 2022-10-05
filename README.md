@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Micron"**
+&#x1F34E; **TOPIC = "#twitterclarets"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-04TWEETS.png)
+![image](assets/2022-10-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @kylegriffin1: Micron will spend up to $100 billion over at least the next two decades building a new computer chip factory in upstate N… |
-| RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
-| @jimcramer Just refinanced my house at 8% to get cash to short Micron based off this. Thanks Jim! https://t.co/ISVadQ9Xpd |
+| RT @theterracelife: Burnley fans! Want a chance to win a gold level Burnley Mystery Box for free?Available here &gt; https://t.co/PKEses3PDs… |
+| Police forced to get involved with Oldham and Wrexham fans scrapping pre-match -  https://t.co/1GLCG2as9W… https://t.co/0sUe3zV822 |
+| For the xG fans out there. 📊 #twitterclarets #utc https://t.co/HSO2hV1Pmq |
 
-The most popular user is: **CappadoniaE**
-<div class="alert alert-block alert-danger"> RT @POTUS: Today brings another massive investment in America thanks to my economic plan.
-
-Micron will invest $20 billion – and up to $100…</div>
+The most popular user is: **wamalwaKe**
+<div class="alert alert-block alert-danger"> RT @BurnleyFC_clips: Sean Dyche wanted Harry Kane at Burnley.. #twitterclarets https://t.co/Uv4ZYnoFyk</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **DemocraticWins** |
-| #3 Most tweeted to  | **SenSchumer** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 3.2%|
-| Tweeters with > 1000000 followers  | 0.4%  |
+| #1 Most tweeted to  | **theterracelife** |
+| #2 Most tweeted to  | **BurnleyOfficial** |
+| #3 Most tweeted to  | **Burnley_FC_Live** |
+| NewProfiles (less than 10 days) | 0.35%  |
+| Tweeters with < 10 followers  | 1.17%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ Micron will invest $20 billion – and up to $100…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MICRON**  |
-| second  | **BILLION**  |
-| third  | **INVESTMENT** |
-| fourth  | **INVEST**  |
-| fifth  | **ECONOMIC**  |
+| first  | **BURNLEY**  |
+| second  | **TWITTERCLARETS**  |
+| third  | **HERE** |
+| fourth  | **WIN**  |
+| fifth  | **AVAILABLE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-04BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (20.0%)
+![image](assets/2022-10-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
+|Unpopular view but Brownhill is a number 10 and never will be. Needs to be Cork plus one of Brownhill or Cullen and… https://t.co/ZBgncAXa6U |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CappadoniaE**  |
+| The most retweeted user is: **wamalwaKe**  |
 | ------------- |
-| RT @POTUS: Today brings another massive investment in America thanks to my economic plan.Micron will invest $20 billion – and up to $100… |
+| RT @BurnleyFC_clips: Sean Dyche wanted Harry Kane at Burnley.. #twitterclarets https://t.co/Uv4ZYnoFyk |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
