@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#twitterclarets"**
+&#x1F34E; **TOPIC = "Bernie"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-05TWEETS.png)
+![image](assets/2022-10-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @theterracelife: Burnley fans! Want a chance to win a gold level Burnley Mystery Box for free?Available here &gt; https://t.co/PKEses3PDs… |
-| Police forced to get involved with Oldham and Wrexham fans scrapping pre-match -  https://t.co/1GLCG2as9W… https://t.co/0sUe3zV822 |
-| For the xG fans out there. 📊 #twitterclarets #utc https://t.co/HSO2hV1Pmq |
+| RT @DailyLoud: What an iconic scene from “Friday” 🤣RIP Bernie Mac 🙏🕊 https://t.co/NybXYKco9f |
+| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
+| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
 
-The most popular user is: **wamalwaKe**
-<div class="alert alert-block alert-danger"> RT @BurnleyFC_clips: Sean Dyche wanted Harry Kane at Burnley.. #twitterclarets https://t.co/Uv4ZYnoFyk</div>
+The most popular user is: **GloooBaaby**
+<div class="alert alert-block alert-danger"> RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **theterracelife** |
-| #2 Most tweeted to  | **BurnleyOfficial** |
-| #3 Most tweeted to  | **Burnley_FC_Live** |
-| NewProfiles (less than 10 days) | 0.35%  |
-| Tweeters with < 10 followers  | 1.17%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **_DITRHipHop** |
+| #2 Most tweeted to  | **ComplexPop** |
+| #3 Most tweeted to  | **AfricanArchives** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **wamalwaKe**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BURNLEY**  |
-| second  | **TWITTERCLARETS**  |
-| third  | **HERE** |
-| fourth  | **WIN**  |
-| fifth  | **AVAILABLE**  |
+| first  | **BERNIE**  |
+| second  | **MAC**  |
+| third  | **EVER** |
+| fourth  | **@_DITRHIPHOP:**  |
+| fifth  | **BEST**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-10-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Unpopular view but Brownhill is a number 10 and never will be. Needs to be Cork plus one of Brownhill or Cullen and… https://t.co/ZBgncAXa6U |
+|RT @_DITRHipHop: “I ain’t scared of you motherf*ckas”Bernie Mac was one of the best to ever do it 🕊️😂. https://t.co/wKFSzldhZJ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **wamalwaKe**  |
+| The most retweeted user is: **GloooBaaby**  |
 | ------------- |
-| RT @BurnleyFC_clips: Sean Dyche wanted Harry Kane at Burnley.. #twitterclarets https://t.co/Uv4ZYnoFyk |
+| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
