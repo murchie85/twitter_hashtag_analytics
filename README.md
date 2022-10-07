@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bernie"**
+&#x1F34E; **TOPIC = "Superman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-06TWEETS.png)
+![image](assets/2022-10-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DailyLoud: What an iconic scene from “Friday” 🤣RIP Bernie Mac 🙏🕊 https://t.co/NybXYKco9f |
-| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
-| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
+| RT @DEADMAN_pt3: That Draymond hot breath in ya face/Superman punch combo could be used in wars. Poole ain’t stand a chance. |
+| “ Who was the subject ? Bruce ? Tim ? Superman ? The Superman 2.0 clone ? “ https://t.co/tE391tcW8Z |
+| RT @CQuill97: I need twitter to stop talking about this movie as if its some ancient dated relic. This movie got Superman and it honored th… |
 
-The most popular user is: **GloooBaaby**
-<div class="alert alert-block alert-danger"> RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h</div>
+The most popular user is: **Mr_H_G_Superman**
+<div class="alert alert-block alert-danger"> RT @DarkLiterata: I'm sorry but "non-fungible" will always mean "impossible to turn into a mushroom" to me</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **_DITRHipHop** |
-| #2 Most tweeted to  | **ComplexPop** |
-| #3 Most tweeted to  | **AfricanArchives** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **DEADMAN_pt3** |
+| #2 Most tweeted to  | **Itssan17** |
+| #3 Most tweeted to  | **TheRock** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 4.62%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **GloooBaaby**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BERNIE**  |
-| second  | **MAC**  |
-| third  | **EVER** |
-| fourth  | **@_DITRHIPHOP:**  |
-| fifth  | **BEST**  |
+| first  | **SUPERMAN**  |
+| second  | **PUNCH**  |
+| third  | **COULD** |
+| fourth  | **DRAYMOND**  |
+| fifth  | **POOLE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+![image](assets/2022-10-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @_DITRHipHop: “I ain’t scared of you motherf*ckas”Bernie Mac was one of the best to ever do it 🕊️😂. https://t.co/wKFSzldhZJ |
+|RT @ManLikeGinola: Lmao he baited him into the push so he could have an excuse to do that superman punch he been practicing in the mirror |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **GloooBaaby**  |
+| The most retweeted user is: **Mr_H_G_Superman**  |
 | ------------- |
-| RT @ComplexPop: The great Bernie Mac would’ve turned 65 today. We miss you. 👑🕊 https://t.co/mYiCMVYO2h |
+| RT @DarkLiterata: I'm sorry but "non-fungible" will always mean "impossible to turn into a mushroom" to me |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
