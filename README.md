@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Superman"**
+&#x1F34E; **TOPIC = "Chelsea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-07TWEETS.png)
+![image](assets/2022-10-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DEADMAN_pt3: That Draymond hot breath in ya face/Superman punch combo could be used in wars. Poole ain’t stand a chance. |
-| “ Who was the subject ? Bruce ? Tim ? Superman ? The Superman 2.0 clone ? “ https://t.co/tE391tcW8Z |
-| RT @CQuill97: I need twitter to stop talking about this movie as if its some ancient dated relic. This movie got Superman and it honored th… |
+| RT @CFCPys: You can appreciate Chelsea playing good football under Graham Potter without taking digs at the manager who won us a champions… |
+| RT @siphillipssport: Broja should be starting games for Chelsea, there’s no two ways about it. For who? I don’t care. He just needs to be s… |
+| RT @TTrain1ngday: Spurs and Chelsea are proper anti-football man. That game was an awful watch. |
 
-The most popular user is: **Mr_H_G_Superman**
-<div class="alert alert-block alert-danger"> RT @DarkLiterata: I'm sorry but "non-fungible" will always mean "impossible to turn into a mushroom" to me</div>
+The most popular user is: **Khaled81234807**
+<div class="alert alert-block alert-danger"> RT @TTuchelofficial: This is one of the most difficult statements I have ever had to write - and it is one which I hoped I would not need t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DEADMAN_pt3** |
-| #2 Most tweeted to  | **Itssan17** |
-| #3 Most tweeted to  | **TheRock** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 4.62%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **CFCPys** |
+| #2 Most tweeted to  | **FabrizioRomano** |
+| #3 Most tweeted to  | **LDNFootbalI** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 4.14%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Mr_H_G_Superman**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SUPERMAN**  |
-| second  | **PUNCH**  |
-| third  | **COULD** |
-| fourth  | **DRAYMOND**  |
-| fifth  | **POOLE**  |
+| first  | **CHELSEA**  |
+| second  | **POTTER**  |
+| third  | **GRAHAM** |
+| fourth  | **PLAYING**  |
+| fifth  | **GAMES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+![image](assets/2022-10-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ManLikeGinola: Lmao he baited him into the push so he could have an excuse to do that superman punch he been practicing in the mirror |
+|RT @brfootball: Three wins in four games to start the Graham Potter era at Chelsea 🔵 https://t.co/lxzpBISwEN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Mr_H_G_Superman**  |
+| The most retweeted user is: **Khaled81234807**  |
 | ------------- |
-| RT @DarkLiterata: I'm sorry but "non-fungible" will always mean "impossible to turn into a mushroom" to me |
+| RT @TTuchelofficial: This is one of the most difficult statements I have ever had to write - and it is one which I hoped I would not need t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
