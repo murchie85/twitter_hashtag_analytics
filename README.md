@@ -1,40 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "JC Jackson"**
+&#x1F34E; **TOPIC = "#PortalRTX"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-09TWEETS.png)
+![image](assets/2022-10-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @RaidersBeat @Browns Lmaooo and it's funny cuz it's Amari shaking JC Jackson. |
-| @puddleofjello @chargers Yeah, his injury was a little bit superficial as far as injuries go. But it might take him… https://t.co/pdlpG3b395 |
-| @evander_87 @Patriots @presidentjacc @NFLonCBS Bill gets the most out of his backs even the ones he doesn't draft.… https://t.co/AmoxIENshS |
+| @NVIDIAGeForce I think my favorite part of Portal is the music, especially "Still Alive".#PortalRTX |
+| @NVIDIAGeForce Favorite moment is just screaming at a friend to do something right #PortalRTX https://t.co/ikr9STSRKK |
+| RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.Tell us your favorite… |
 
-The most popular user is: **JC_jessy_**
-<div class="alert alert-block alert-danger"> RT @teamwangofcl: Jackson Wang ➡️ Vogue Singapore’s October “Rebirth” &lt;Anniversary&gt; Issue Cover.
+The most popular user is: **Mal_MalIK__**
+<div class="alert alert-block alert-danger"> RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.
 
-@JacksonWang852 x @voguesingapore 
-
-#Vogu…</div>
+Tell us your favorite…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SavageSports_** |
-| #2 Most tweeted to  | **NestPgs** |
-| #3 Most tweeted to  | **Tdub_football** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 2.89%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **NVIDIAGeForce** |
+| #2 Most tweeted to  | **NVIDIAGeForceUK** |
+| #3 Most tweeted to  | **NVIDIAGeForceDE** |
+| NewProfiles (less than 10 days) | 1.04%  |
+| Tweeters with < 10 followers  | 25.6%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -43,28 +41,28 @@ The most popular user is: **JC_jessy_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JACKSON**  |
-| second  | **JC**  |
-| third  | **JONES** |
-| fourth  | **JACK**  |
-| fifth  | **CHARGERS**  |
+| first  | **PORTAL**  |
+| second  | **PORTALRTX@NVIDIAGEFORCE**  |
+| third  | **RTX** |
+| fourth  | **@NVIDIAGEFORCE:**  |
+| fifth  | **SERIES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-09BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-10-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Big Ten hoopsIU’s Trayce Jackson-Davis Preseason Player of the Year https://t.co/M4JWSKWSl4 |
+|@NVIDIAGeForce The first minute #PortalRTX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JC_jessy_**  |
+| The most retweeted user is: **Mal_MalIK__**  |
 | ------------- |
-| RT @teamwangofcl: Jackson Wang ➡️ Vogue Singapore’s October “Rebirth” &lt;Anniversary&gt; Issue Cover.@JacksonWang852 x @voguesingapore #Vogu… |
+| RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.Tell us your favorite… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
