@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PortalRTX"**
+&#x1F34E; **TOPIC = "Phillies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-10TWEETS.png)
+![image](assets/2022-10-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @NVIDIAGeForce I think my favorite part of Portal is the music, especially "Still Alive".#PortalRTX |
-| @NVIDIAGeForce Favorite moment is just screaming at a friend to do something right #PortalRTX https://t.co/ikr9STSRKK |
-| RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.Tell us your favorite… |
+| RT @MrMatthewCFB: Nick Castellanos - Philadelphia Phillies (1) Grand Slam |
+| Phillies puttin' the PH in Phightin'! #RedOctober #RingtheBell #TomahawkSTOP |
+| RT @Phillies: Up by 3.#RingTheBell x @Toyota https://t.co/tzHlZ4ZenB |
 
-The most popular user is: **Mal_MalIK__**
-<div class="alert alert-block alert-danger"> RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.
+The most popular user is: **OzzieTheCop**
+<div class="alert alert-block alert-danger"> RT @Phillies: Own it. Embrace it. Believe it.
 
-Tell us your favorite…</div>
+Welcome to #RedOctober. https://t.co/meVzc5Ynru</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NVIDIAGeForce** |
-| #2 Most tweeted to  | **NVIDIAGeForceUK** |
-| #3 Most tweeted to  | **NVIDIAGeForceDE** |
-| NewProfiles (less than 10 days) | 1.04%  |
-| Tweeters with < 10 followers  | 25.6%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Phillies** |
+| #2 Most tweeted to  | **budweiserusa** |
+| #3 Most tweeted to  | **MattGelb** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 3.56%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -41,28 +41,28 @@ Tell us your favorite…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PORTAL**  |
-| second  | **PORTALRTX@NVIDIAGEFORCE**  |
-| third  | **RTX** |
-| fourth  | **@NVIDIAGEFORCE:**  |
-| fifth  | **SERIES**  |
+| first  | **PHILLIES**  |
+| second  | **@PHILLIES:**  |
+| third  | **NICK** |
+| fourth  | **GAME**  |
+| fifth  | **BRAVES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-10-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@NVIDIAGeForce The first minute #PortalRTX |
+|Wow the Phillies jumped all over Fried. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Mal_MalIK__**  |
+| The most retweeted user is: **OzzieTheCop**  |
 | ------------- |
-| RT @NVIDIAGeForce: Happy 15th birthday (anniversary) to Portal! We're celebrating by giving away RTX 40 Series GPUs.Tell us your favorite… |
+| RT @Phillies: Own it. Embrace it. Believe it.Welcome to #RedOctober. https://t.co/meVzc5Ynru |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
