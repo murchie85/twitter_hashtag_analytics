@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#PMQs"**
+&#x1F34E; **TOPIC = "Moon Knight"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-12TWEETS.png)
+![image](assets/2022-10-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Muxima5: Penny Mordaunt’s slapped arse face says it all. Fully exposed on the front bench to the public and sitting next to Truss she h… |
-| RT @KarlTurnerMP: Have to say I’ve known @PennyMordaunt a fairly long time now. We were elected same GE. Penny definitely did not look at a… |
-| RT @PeteWishart: The answer to the mortgage crisis is to build more nuclear power stations, apparently. #PMQs |
+| @MCUPerfectGifs 1. Wanavision2. Loki3. Hawkeye4. What if5. Ms marvel6. Moon knight 7. She hulk8. TFAWS |
+| @MCUPerfectGifs LokiHawkeye Ms Marvel Moon Knight WandaVisionTFATWS She-HulkWhat If...? |
+| @__Moon_knight_ @Harmindarboxoff https://t.co/nT68TOYAK2Bruh |
 
-The most popular user is: **Anniehowd**
-<div class="alert alert-block alert-danger"> RT @MrPMHarrison: I don't think Starmer quite knows what to with Truss at #PMQs.
-It's like trying to explain trigonometry to a labrador. Sh…</div>
+The most popular user is: **__Moon_knight_**
+<div class="alert alert-block alert-danger"> RT @TheFigen_: Netflix and Real Life https://t.co/HXBpeOtCZ6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **IanByrneMP** |
-| #2 Most tweeted to  | **terryelaineh1** |
-| #3 Most tweeted to  | **trussliz** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 2.04%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MCUPerfectGifs** |
+| #2 Most tweeted to  | **IGN** |
+| #3 Most tweeted to  | **chrisvellx** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 6.78%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -40,28 +39,28 @@ It's like trying to explain trigonometry to a labrador. Sh…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PMQS**  |
-| second  | **TRUSS**  |
-| third  | **LIZ** |
-| fourth  | **STARMER**  |
-| fifth  | **VOTED**  |
+| first  | **MOON**  |
+| second  | **KNIGHT**  |
+| third  | **LOKI** |
+| fourth  | **MARVEL**  |
+| fifth  | **HAWKEYE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
+![image](assets/2022-10-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MimiJ9: ANOTHER MAJOR U TURN.Liz Truss’s team has said there will be cuts made in the public sector.Truss said at #PMQS that no cut… |
+|@RedArcherLive I still love 99% of the show! It just felt like too….much? If that makes sense. Like going through a… https://t.co/94onavf1Kr |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Anniehowd**  |
+| The most retweeted user is: **__Moon_knight_**  |
 | ------------- |
-| RT @MrPMHarrison: I don't think Starmer quite knows what to with Truss at #PMQs.It's like trying to explain trigonometry to a labrador. Sh… |
+| RT @TheFigen_: Netflix and Real Life https://t.co/HXBpeOtCZ6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
