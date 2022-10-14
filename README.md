@@ -1,36 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Moon Knight"**
+&#x1F34E; **TOPIC = "Tolkien"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-13TWEETS.png)
+![image](assets/2022-10-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @MCUPerfectGifs 1. Wanavision2. Loki3. Hawkeye4. What if5. Ms marvel6. Moon knight 7. She hulk8. TFAWS |
-| @MCUPerfectGifs LokiHawkeye Ms Marvel Moon Knight WandaVisionTFATWS She-HulkWhat If...? |
-| @__Moon_knight_ @Harmindarboxoff https://t.co/nT68TOYAK2Bruh |
+| RT @BurnettRM: I suppose the three years I spent immersed as part of the team creating documentaries for the Extended Editions of the LOTR… |
+| RT @TotoroVSBatman: As a fan of #Tolkien, a fan of #goodwriting, and a fan of not wasting my time I’m so happy I didn’t waste a second on t… |
+| The white sun on black banners…suddenly the white tree and stars on sable has a whole other meaning now. As if the… https://t.co/mRwdkQQ798 |
 
-The most popular user is: **__Moon_knight_**
-<div class="alert alert-block alert-danger"> RT @TheFigen_: Netflix and Real Life https://t.co/HXBpeOtCZ6</div>
+The most popular user is: **NaderehShe**
+<div class="alert alert-block alert-danger"> RT @GuerillaMemoir: Toni Morrison: 40
+Mark Twain: 41
+Marcel Proust: 43
+Henry Miller: 44
+JRR Tolkien: 45
+Raymond Chandler: 51
+Richard Adams:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MCUPerfectGifs** |
-| #2 Most tweeted to  | **IGN** |
-| #3 Most tweeted to  | **chrisvellx** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 6.78%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Nerdrotics** |
+| #2 Most tweeted to  | **Yoystan** |
+| #3 Most tweeted to  | **LOTRonPrime** |
+| NewProfiles (less than 10 days) | 1.02%  |
+| Tweeters with < 10 followers  | 7.5%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **__Moon_knight_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOON**  |
-| second  | **KNIGHT**  |
-| third  | **LOKI** |
-| fourth  | **MARVEL**  |
-| fifth  | **HAWKEYE**  |
+| first  | **TOLKIEN**  |
+| second  | **RINGS**  |
+| third  | **"TOLKIENS"** |
+| fourth  | **SHOW**  |
+| fifth  | **MAKE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-13BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2022-10-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@RedArcherLive I still love 99% of the show! It just felt like too….much? If that makes sense. Like going through a… https://t.co/94onavf1Kr |
+|@thatstarwarsgrl @JeffBezos And it absolutely doesn't do anything to Tolkien's legacy. It's one thing, and the books are another. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **__Moon_knight_**  |
+| The most retweeted user is: **NaderehShe**  |
 | ------------- |
-| RT @TheFigen_: Netflix and Real Life https://t.co/HXBpeOtCZ6 |
+| RT @GuerillaMemoir: Toni Morrison: 40Mark Twain: 41Marcel Proust: 43Henry Miller: 44JRR Tolkien: 45Raymond Chandler: 51Richard Adams:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
