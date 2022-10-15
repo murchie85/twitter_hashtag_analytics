@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tolkien"**
+&#x1F34E; **TOPIC = "#Sabres"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-14TWEETS.png)
+![image](assets/2022-10-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BurnettRM: I suppose the three years I spent immersed as part of the team creating documentaries for the Extended Editions of the LOTR… |
-| RT @TotoroVSBatman: As a fan of #Tolkien, a fan of #goodwriting, and a fan of not wasting my time I’m so happy I didn’t waste a second on t… |
-| The white sun on black banners…suddenly the white tree and stars on sable has a whole other meaning now. As if the… https://t.co/mRwdkQQ798 |
+| RT @WGR550: FIRST NHL GOAL ALERT! JJ PETERKA TIES THE GAME AT 1-1! #Sabres |
+| RT @rachelhopmayer: Rasmus Dahlin doesn’t care what you think about him. The 22-year-old has learned how to tune out the noise to in a way… |
+| RT @ByMHarrington: Look at Nos 1 and 2. See you Thursday night. #Sabres #Sens https://t.co/wb8uNnNHf8 |
 
-The most popular user is: **NaderehShe**
-<div class="alert alert-block alert-danger"> RT @GuerillaMemoir: Toni Morrison: 40
-Mark Twain: 41
-Marcel Proust: 43
-Henry Miller: 44
-JRR Tolkien: 45
-Raymond Chandler: 51
-Richard Adams:…</div>
+The most popular user is: **lauri_puustinen**
+<div class="alert alert-block alert-danger"> RT @reporterchris: Fun fact on #sabres Mattias Samuelsson: He signed a $30M contract before scoring his first NHL goal.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Nerdrotics** |
-| #2 Most tweeted to  | **Yoystan** |
-| #3 Most tweeted to  | **LOTRonPrime** |
-| NewProfiles (less than 10 days) | 1.02%  |
-| Tweeters with < 10 followers  | 7.5%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **ByMHarrington** |
+| #2 Most tweeted to  | **reporterchris** |
+| #3 Most tweeted to  | **BuffaloSabres** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 1.99%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -45,28 +39,28 @@ Richard Adams:…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOLKIEN**  |
-| second  | **RINGS**  |
-| third  | **"TOLKIENS"** |
-| fourth  | **SHOW**  |
-| fifth  | **MAKE**  |
+| first  | **SABRES**  |
+| second  | **NHL**  |
+| third  | **SEASON** |
+| fourth  | **@BYMHARRINGTON:**  |
+| fifth  | **MATTIAS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-14BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-10-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@thatstarwarsgrl @JeffBezos And it absolutely doesn't do anything to Tolkien's legacy. It's one thing, and the books are another. |
+|RT @lassialanen: A couple of Noah Östlund (BUF) clips from Oct 8th &amp; Oct 12th.A few slick passing plays in transition and in tight, delay… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NaderehShe**  |
+| The most retweeted user is: **lauri_puustinen**  |
 | ------------- |
-| RT @GuerillaMemoir: Toni Morrison: 40Mark Twain: 41Marcel Proust: 43Henry Miller: 44JRR Tolkien: 45Raymond Chandler: 51Richard Adams:… |
+| RT @reporterchris: Fun fact on #sabres Mattias Samuelsson: He signed a $30M contract before scoring his first NHL goal. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
