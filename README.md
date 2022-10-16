@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Sabres"**
+&#x1F34E; **TOPIC = "#Browns"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-15TWEETS.png)
+![image](assets/2022-10-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WGR550: FIRST NHL GOAL ALERT! JJ PETERKA TIES THE GAME AT 1-1! #Sabres |
-| RT @rachelhopmayer: Rasmus Dahlin doesn’t care what you think about him. The 22-year-old has learned how to tune out the noise to in a way… |
-| RT @ByMHarrington: Look at Nos 1 and 2. See you Thursday night. #Sabres #Sens https://t.co/wb8uNnNHf8 |
+| RT @7BellsRacing: Anyone else just plain FRUSTRATED with the #Browns like I am. They aren't playing with any motivation/Heart! Frustrating!… |
+| RT @ezlazar: Hell of a call there by Patricia on split-zone handoff to Rhamondre on third-and-ten. #Browns completely fooled. #Patriots go… |
+| So much for "Brissett is automatic on the sneak" talk. #Browns |
 
-The most popular user is: **lauri_puustinen**
-<div class="alert alert-block alert-danger"> RT @reporterchris: Fun fact on #sabres Mattias Samuelsson: He signed a $30M contract before scoring his first NHL goal.</div>
+The most popular user is: **roblav23**
+<div class="alert alert-block alert-danger"> RT @DollarDogNick: The #Browns run defense  https://t.co/cJHMsCPrLv</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ByMHarrington** |
-| #2 Most tweeted to  | **reporterchris** |
-| #3 Most tweeted to  | **BuffaloSabres** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 1.99%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Browns** |
+| #2 Most tweeted to  | **Flash_Garrett** |
+| #3 Most tweeted to  | **StainbrookNFL** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 3.16%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lauri_puustinen**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SABRES**  |
-| second  | **NHL**  |
-| third  | **SEASON** |
-| fourth  | **@BYMHARRINGTON:**  |
-| fifth  | **MATTIAS**  |
+| first  | **BROWNS**  |
+| second  | **MYLES**  |
+| third  | **FRANCHISE** |
+| fourth  | **SACKS**  |
+| fifth  | **BROWNSRT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
+![image](assets/2022-10-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @lassialanen: A couple of Noah Östlund (BUF) clips from Oct 8th &amp; Oct 12th.A few slick passing plays in transition and in tight, delay… |
+|This #Browns defense makes me absolutely sick. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lauri_puustinen**  |
+| The most retweeted user is: **roblav23**  |
 | ------------- |
-| RT @reporterchris: Fun fact on #sabres Mattias Samuelsson: He signed a $30M contract before scoring his first NHL goal. |
+| RT @DollarDogNick: The #Browns run defense  https://t.co/cJHMsCPrLv |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
