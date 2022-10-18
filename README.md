@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ForeverWithBTS"**
+&#x1F34E; **TOPIC = "Amazon Prime"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-17TWEETS.png)
+![image](assets/2022-10-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @VoteWithARMY: #ForeverWithBTS along with ‘WE WILL WAIT FOR YOU’ is currently trending at #1 worldwide 💜 https://t.co/4CeD7aaLRw |
-| RT @yoonkoous: my seven boys, i love you forever 😭#ForeverWithBTS  https://t.co/uOkveOyTQd |
-| RT @UniversBTS_: 🎥 Seokjin tem uma coisa pra dizer: 🫂💜BTS AND ARMY FOR LIFE WE WILL WAIT FOR YOU#ForeverWithBTS #BTSJIN 🦩@BTS_twt htt… |
+| RT @TomPelissero: Black Friday Football is coming! The NFL and Amazon announced today that Prime Video will exclusively stream a newly sche… |
+| Had someone’s Amazon’s prime &amp; it haven’t been paid; I’m scared to ask 🤣🤣🤣 https://t.co/KlEO12ZCRY |
+| Newcastle's game tomorrow will be shown on Amazon Prime - if you haven't got it already, a free trial is available… https://t.co/uOJfdFk7R1 |
 
-The most popular user is: **PratyushaBTS**
-<div class="alert alert-block alert-danger"> RT @choi_bts2: #ForeverwithBTS 
-Nothing is changed</div>
+The most popular user is: **business_thor**
+<div class="alert alert-block alert-danger"> RT @RGIII: We all deserve a free month of Amazon Prime for watching this game.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BTS_twt** |
-| #2 Most tweeted to  | **btsglobally** |
-| #3 Most tweeted to  | **SeesawGame248** |
-| NewProfiles (less than 10 days) | 1.16%  |
-| Tweeters with < 10 followers  | 17.02%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **RapSheet** |
+| #2 Most tweeted to  | **letscinema** |
+| #3 Most tweeted to  | **pgLang** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 3.48%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -40,28 +39,28 @@ Nothing is changed</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BTS**  |
-| second  | **FOREVERWITHBTS**  |
-| third  | **FOREVER** |
-| fourth  | **WAIT**  |
-| fifth  | **30**  |
+| first  | **PRIME**  |
+| second  | **AMAZON**  |
+| third  | **VIDEO** |
+| fourth  | **NFL**  |
+| fifth  | **FRIDAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-17BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (14.29%) **OBJECTIVE** (50.0%)
+![image](assets/2022-10-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (93.33%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|For the rest of my life#ForeverWithBTS 💜#BTS #ARMY #WE_WILL_WAIT_FOR_YOU_JIN https://t.co/2PrBQjJuPZ |
+|amazon prime is gross |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PratyushaBTS**  |
+| The most retweeted user is: **business_thor**  |
 | ------------- |
-| RT @choi_bts2: #ForeverwithBTS Nothing is changed |
+| RT @RGIII: We all deserve a free month of Amazon Prime for watching this game. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
