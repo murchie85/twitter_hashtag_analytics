@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Amazon Prime"**
+&#x1F34E; **TOPIC = "The CDC"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-18TWEETS.png)
+![image](assets/2022-10-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TomPelissero: Black Friday Football is coming! The NFL and Amazon announced today that Prime Video will exclusively stream a newly sche… |
-| Had someone’s Amazon’s prime &amp; it haven’t been paid; I’m scared to ask 🤣🤣🤣 https://t.co/KlEO12ZCRY |
-| Newcastle's game tomorrow will be shown on Amazon Prime - if you haven't got it already, a free trial is available… https://t.co/uOJfdFk7R1 |
+| @jeffm1981 @NTampio What are you citing? It’s wrong. Your cells aren’t trained to make antibodies. They are trained… https://t.co/lwxEtB2nB0 |
+| The CDC is about to make the jab mandatory for students to attend school. Without trials.Welcome to big government… https://t.co/COFI4jnrGo |
+| RT @aetiology: Misinformation. The CDC does not decide which vaccines are mandatory for school attendance in kids. That's left to each stat… |
 
-The most popular user is: **business_thor**
-<div class="alert alert-block alert-danger"> RT @RGIII: We all deserve a free month of Amazon Prime for watching this game.</div>
+The most popular user is: **endgamezero**
+<div class="alert alert-block alert-danger"> RT @MartyMakary: It appears the FDA no longer requires clinical trial data
+Pfizer&amp;Moderna's new Omicron vax(tested in 8 mice) was authorize…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RapSheet** |
-| #2 Most tweeted to  | **letscinema** |
-| #3 Most tweeted to  | **pgLang** |
-| NewProfiles (less than 10 days) | 0.56%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **RepThomasMassie** |
+| #2 Most tweeted to  | **TuckerCarlson** |
+| #3 Most tweeted to  | **CDCgov** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 4.74%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **business_thor**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PRIME**  |
-| second  | **AMAZON**  |
-| third  | **VIDEO** |
-| fourth  | **NFL**  |
-| fifth  | **FRIDAY**  |
+| first  | **CDC**  |
+| second  | **COVID**  |
+| third  | **VACCINE** |
+| fourth  | **CHILDHOOD**  |
+| fifth  | **ADD**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (93.33%) **OBJECTIVE** (6.67%)
+![image](assets/2022-10-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|amazon prime is gross |
+|@JamieSale I’m sick of the CDC trying to ruin our lives. Now they’re trying to make sure this Experimental Jab is r… https://t.co/8CRbHhkJec |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **business_thor**  |
+| The most retweeted user is: **endgamezero**  |
 | ------------- |
-| RT @RGIII: We all deserve a free month of Amazon Prime for watching this game. |
+| RT @MartyMakary: It appears the FDA no longer requires clinical trial dataPfizer&amp;Moderna's new Omicron vax(tested in 8 mice) was authorize… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
