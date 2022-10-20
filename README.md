@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "The CDC"**
+&#x1F34E; **TOPIC = "Parliamentary"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-19TWEETS.png)
+![image](assets/2022-10-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @jeffm1981 @NTampio What are you citing? It’s wrong. Your cells aren’t trained to make antibodies. They are trained… https://t.co/lwxEtB2nB0 |
-| The CDC is about to make the jab mandatory for students to attend school. Without trials.Welcome to big government… https://t.co/COFI4jnrGo |
-| RT @aetiology: Misinformation. The CDC does not decide which vaccines are mandatory for school attendance in kids. That's left to each stat… |
+| RT @tompeck: I mean, course Boris Johnson’s on holiday in the Caribbean. There are only about 22 weeks of parliamentary recess a year that… |
+| RT @mrjamesob: The list of things that people agitating for Johnson's return clearly don't care about is incredible when you think about: c… |
+| RT @mrjamesob: The list of things that people agitating for Johnson's return clearly don't care about is incredible when you think about: c… |
 
-The most popular user is: **endgamezero**
-<div class="alert alert-block alert-danger"> RT @MartyMakary: It appears the FDA no longer requires clinical trial data
-Pfizer&amp;Moderna's new Omicron vax(tested in 8 mice) was authorize…</div>
+The most popular user is: **abi1005**
+<div class="alert alert-block alert-danger"> RT @mrjamesob: The list of things that people agitating for Johnson's return clearly don't care about is incredible when you think about: c…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RepThomasMassie** |
-| #2 Most tweeted to  | **TuckerCarlson** |
-| #3 Most tweeted to  | **CDCgov** |
-| NewProfiles (less than 10 days) | 0.86%  |
-| Tweeters with < 10 followers  | 4.74%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **mrjamesob** |
+| #2 Most tweeted to  | **tompeck** |
+| #3 Most tweeted to  | **BorisJohnson** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 3.58%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -40,28 +39,28 @@ Pfizer&amp;Moderna's new Omicron vax(tested in 8 mice) was authorize…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CDC**  |
-| second  | **COVID**  |
-| third  | **VACCINE** |
-| fourth  | **CHILDHOOD**  |
-| fifth  | **ADD**  |
+| first  | **PEOPLE**  |
+| second  | **RETURN**  |
+| third  | **"DONT"** |
+| fourth  | **THINGS**  |
+| fifth  | **PARLIAMENTARY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2022-10-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@JamieSale I’m sick of the CDC trying to ruin our lives. Now they’re trying to make sure this Experimental Jab is r… https://t.co/8CRbHhkJec |
+|RT @KenRoth: With Liz Truss's resignation as British prime minister https://t.co/2J6PH4zYdW let's hope this also means an end to her Conser… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **endgamezero**  |
+| The most retweeted user is: **abi1005**  |
 | ------------- |
-| RT @MartyMakary: It appears the FDA no longer requires clinical trial dataPfizer&amp;Moderna's new Omicron vax(tested in 8 mice) was authorize… |
+| RT @mrjamesob: The list of things that people agitating for Johnson's return clearly don't care about is incredible when you think about: c… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
