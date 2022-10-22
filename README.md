@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lara Logan"**
+&#x1F34E; **TOPIC = "#UFC280"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-21TWEETS.png)
+![image](assets/2022-10-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jonlovett: If you ever think you can't change your life, just remember, Lara Logan went from CBS News to "the Jews are drinking blood i… |
-| RT @MollyJongFast: Banned from newsmax is really something  https://t.co/7JH5q1RFZQ |
-| RT @ChristopherHahn: Congratulations Lara Logan.   You’ve gone from 60 Minutes to being too racist for Newsmax. |
+| 🥊 🥋UFC 280 Live Stream FreeOliveira vs Makhachev live 🔴HD Link&gt; https://t.co/apFUgOwOT1 🔴HD Link&gt;… https://t.co/Rr4oxtyTTh |
+| RT @LorrettaReadle: Live Stream |  🆖 2022 UFC event schedule: Charles Oliveira vs  Islam Makhachev, Calvin Kattar vs  Arnold Allen on 💝… |
+| #MMA #BOXING📺Live StreamWatch MISFITS BOXING &amp; DAZN: UFC 280 - Oliveira vs Makhachev live for FREE on… https://t.co/eJZSoFJkYx |
 
-The most popular user is: **InmyLif90783135**
-<div class="alert alert-block alert-danger"> RT @45Jbama: Lara Logan addresses Ukraine.
-She's right about everything..
-Please don't be a fool https://t.co/WVQMk4zMxS</div>
+The most popular user is: **JohnMontyy**
+<div class="alert alert-block alert-danger"> RT @ufc: Hasbulla attacked Volk backstage at #UFC280 🤯
+
+[ Prelims 10:30am ET on ESPNews | Main Card 2pm ET LIVE on @ESPNPlus PPV ] https://…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **justinbaragona** |
-| #2 Most tweeted to  | **nypost** |
-| #3 Most tweeted to  | **TheRickyDavila** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 2.38%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **HDBoxiing** |
+| #2 Most tweeted to  | **samuelwr33** |
+| #3 Most tweeted to  | **ufc** |
+| NewProfiles (less than 10 days) | 3.2%  |
+| Tweeters with < 10 followers  | 44.08%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +41,28 @@ Please don't be a fool https://t.co/WVQMk4zMxS</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LARA**  |
-| second  | **LOGAN**  |
-| third  | **NEWSMAX** |
-| fourth  | **AFTER**  |
-| fifth  | **BEING**  |
+| first  | **LIVE**  |
+| second  | **VS**  |
+| third  | **MAKHACHEV** |
+| fourth  | **STREAM**  |
+| fifth  | **OLIVEIRA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2022-10-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jonlovett: If you ever think you can't change your life, just remember, Lara Logan went from CBS News to "the Jews are drinking blood i… |
+|Islam Makhachev vs Charles Oliveira Live Streams Free🔗Live Link=&gt; 🔗Live Link=&gt; @boxsportboxing🔗Live Link=&gt;… https://t.co/YJiFsWhf7O |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **InmyLif90783135**  |
+| The most retweeted user is: **JohnMontyy**  |
 | ------------- |
-| RT @45Jbama: Lara Logan addresses Ukraine.She's right about everything..Please don't be a fool https://t.co/WVQMk4zMxS |
+| RT @ufc: Hasbulla attacked Volk backstage at #UFC280 🤯[ Prelims 10:30am ET on ESPNews | Main Card 2pm ET LIVE on @ESPNPlus PPV ] https://… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
