@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UFC280"**
+&#x1F34E; **TOPIC = "Saka"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-22TWEETS.png)
+![image](assets/2022-10-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 🥊 🥋UFC 280 Live Stream FreeOliveira vs Makhachev live 🔴HD Link&gt; https://t.co/apFUgOwOT1 🔴HD Link&gt;… https://t.co/Rr4oxtyTTh |
-| RT @LorrettaReadle: Live Stream |  🆖 2022 UFC event schedule: Charles Oliveira vs  Islam Makhachev, Calvin Kattar vs  Arnold Allen on 💝… |
-| #MMA #BOXING📺Live StreamWatch MISFITS BOXING &amp; DAZN: UFC 280 - Oliveira vs Makhachev live for FREE on… https://t.co/eJZSoFJkYx |
+| RT @virginHoffice: Visit @virginHoffice for quality home and office furniture.FOR ORDERS.Call or WhatsApp us on 0703925459Delivery Done… |
+| RT @SkySportsPL: Bukayo Saka's form in the last 7 games 🔥🔥⚽ 4 goals🅰️ 4 assists https://t.co/2FF7KP99sw |
+| @afcstuff SAKA deserved the booking by simulation.. Watch him plant his right leg in a replay |
 
-The most popular user is: **JohnMontyy**
-<div class="alert alert-block alert-danger"> RT @ufc: Hasbulla attacked Volk backstage at #UFC280 🤯
-
-[ Prelims 10:30am ET on ESPNews | Main Card 2pm ET LIVE on @ESPNPlus PPV ] https://…</div>
+The most popular user is: **Raghu_Saka**
+<div class="alert alert-block alert-danger"> RT @narendramodi: The India team bags a well fought victory! Congratulations for an outstanding performance today. A special mention to @im…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **HDBoxiing** |
-| #2 Most tweeted to  | **samuelwr33** |
-| #3 Most tweeted to  | **ufc** |
-| NewProfiles (less than 10 days) | 3.2%  |
-| Tweeters with < 10 followers  | 44.08%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **PoorEPLreferees** |
+| #2 Most tweeted to  | **CalArsenal** |
+| #3 Most tweeted to  | **kixAFC** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 4.28%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **JohnMontyy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIVE**  |
-| second  | **VS**  |
-| third  | **MAKHACHEV** |
-| fourth  | **STREAM**  |
-| fifth  | **OLIVEIRA**  |
+| first  | **SAKA**  |
+| second  | **JESUS**  |
+| third  | **GAME** |
+| fourth  | **EVEN**  |
+| fifth  | **WHITE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+![image](assets/2022-10-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Islam Makhachev vs Charles Oliveira Live Streams Free🔗Live Link=&gt; 🔗Live Link=&gt; @boxsportboxing🔗Live Link=&gt;… https://t.co/YJiFsWhf7O |
+|RT @mmbesha94s1: FINALIZING OUR SANDING PROCESS pale kwa staircase landing.FOR Orders &amp; Enquiries📞0707024100We Deliver Our Services Co… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JohnMontyy**  |
+| The most retweeted user is: **Raghu_Saka**  |
 | ------------- |
-| RT @ufc: Hasbulla attacked Volk backstage at #UFC280 🤯[ Prelims 10:30am ET on ESPNews | Main Card 2pm ET LIVE on @ESPNPlus PPV ] https://… |
+| RT @narendramodi: The India team bags a well fought victory! Congratulations for an outstanding performance today. A special mention to @im… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
