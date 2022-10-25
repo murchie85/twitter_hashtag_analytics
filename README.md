@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MerrickGarland"**
+&#x1F34E; **TOPIC = "San Jose"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-24TWEETS.png)
+![image](assets/2022-10-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @OneVexedNerd: The United States will not tolerate foreign attempts to under mine our rule of law, but if you live here, and were a form… |
-| RT @DJWiggins44: What kind of shithole country lets a nuclear secret stealing, ketchup slinging, women assaulting, lying ass, hamberderler… |
-| RT @katt331: #MerrickGarland arrest this TRAITOR! Now!! https://t.co/b7qtAStGk4 |
+| they turned the san jose earthquakes into the real thing😂😂😂😂😂 https://t.co/WCCl7TDNIi |
+| RT @NewsLambert: #NEW The U.S. home price correction continued in September.Home price shift since May:San Jose (-10.59%)Austin, TX (-… |
+| RT @japsyray: maria clara is such a reasonable woman. she will fight for what she believes to be right... yet she is also humble and is wil… |
 
-The most popular user is: **IamMarieKaren**
-<div class="alert alert-block alert-danger"> RT @SethAbramson: This is a reminder, as the AG prepares to announce new Chinese espionage cases, that prior to the 2020 presidential elect…</div>
+The most popular user is: **emobechh**
+<div class="alert alert-block alert-danger"> RT @corinalizett: if you’re a student at San Jose State University and a woman, be careful near or around this man. he thinks it’s okay to…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SethAbramson** |
-| #2 Most tweeted to  | **DJWiggins44** |
-| #3 Most tweeted to  | **HandibodeJ** |
-| NewProfiles (less than 10 days) | 0.7%  |
-| Tweeters with < 10 followers  | 1.7%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **JulienitedPH** |
+| #2 Most tweeted to  | **AzizaDefensor** |
+| #3 Most tweeted to  | **japsyray** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 8.6%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **IamMarieKaren**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MERRICKGARLAND**  |
-| second  | **CHINESE**  |
-| third  | **NEW** |
-| fourth  | **TRUMP**  |
-| fifth  | **ESPIONAGE**  |
+| first  | **SAN**  |
+| second  | **JOSE**  |
+| third  | **JULIE** |
+| fourth  | **ANNE**  |
+| fifth  | **EARTHQUAKE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (13.33%)
+![image](assets/2022-10-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GhostInMyCoffee: Breaking News: #MerrickGarland has unveiled the cloak of invisibility as the newest DOJ acquisition https://t.co/OKijm… |
+|San Jose leaders mum on LA politician's racism scandal https://t.co/YRa4q0vKHm |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **IamMarieKaren**  |
+| The most retweeted user is: **emobechh**  |
 | ------------- |
-| RT @SethAbramson: This is a reminder, as the AG prepares to announce new Chinese espionage cases, that prior to the 2020 presidential elect… |
+| RT @corinalizett: if you’re a student at San Jose State University and a woman, be careful near or around this man. he thinks it’s okay to… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
