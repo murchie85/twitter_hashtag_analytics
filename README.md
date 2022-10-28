@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#CashAppHalloween"**
+&#x1F34E; **TOPIC = "#ASHG22"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-27TWEETS.png)
+![image](assets/2022-10-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CashApp: We decided you need a new Halloween costume, so we are giving away $5,000 today. Follow @cashapp to win and tell your friends… |
-| $BrittanyEscher #CashAppHalloween 🎃👻 https://t.co/RRddu3BUrI |
-| @CashApp I don’t have a costume yet 🥲 my birthday is Sunday 🥳 please bless me so I can order a costume on Amazon on… https://t.co/tDarhTXIET |
+| RT @MChiaraManzini: At the "Let's talk about sex" session at #ASHG22. Important reminder for writing about SABV. Don't be uncomfortable usi… |
+| There are a number of poster a presentations featuring #nanopore sequencing at #ASHG22 you won't want to miss. Find… https://t.co/WJNFc2KoPc |
+| RT @RMdeVoer: About last night! We kicked off #ASHG22 with a great @PacBio party with many lovely colleagues from @GeneticNijmegen (and oth… |
 
-The most popular user is: **Dragon200322**
-<div class="alert alert-block alert-danger"> RT @CashApp: We decided you need a new Halloween costume, so we are giving away $5,000 today. Follow @cashapp to win and tell your friends…</div>
+The most popular user is: **automaton123**
+<div class="alert alert-block alert-danger"> RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CashApp** |
-| #2 Most tweeted to  | **OttoMatticBaby** |
-| #3 Most tweeted to  | **luckyErin01** |
-| NewProfiles (less than 10 days) | 0.88%  |
-| Tweeters with < 10 followers  | 19.22%|
+| #1 Most tweeted to  | **PacBio** |
+| #2 Most tweeted to  | **GeneticsSociety** |
+| #3 Most tweeted to  | **ksamocha** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 1.44%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Dragon200322**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@CASHAPP**  |
-| second  | **COSTUME**  |
-| third  | **NEED** |
-| fourth  | **HALLOWEEN**  |
+| first  | **ASHG22**  |
+| second  | **POSTER**  |
+| third  | **TALK** |
+| fourth  | **WORK**  |
 | fifth  | **NEW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (46.67%)
+![image](assets/2022-10-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@CashApp #CashAppHalloween 🎃 $allisonsurveys yes pls! @RachelJ55407886 |
+|RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Dragon200322**  |
+| The most retweeted user is: **automaton123**  |
 | ------------- |
-| RT @CashApp: We decided you need a new Halloween costume, so we are giving away $5,000 today. Follow @cashapp to win and tell your friends… |
+| RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
