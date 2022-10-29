@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ASHG22"**
+&#x1F34E; **TOPIC = "#LIVLEE"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-28TWEETS.png)
+![image](assets/2022-10-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MChiaraManzini: At the "Let's talk about sex" session at #ASHG22. Important reminder for writing about SABV. Don't be uncomfortable usi… |
-| There are a number of poster a presentations featuring #nanopore sequencing at #ASHG22 you won't want to miss. Find… https://t.co/WJNFc2KoPc |
-| RT @RMdeVoer: About last night! We kicked off #ASHG22 with a great @PacBio party with many lovely colleagues from @GeneticNijmegen (and oth… |
+| 📺Live StreamLiverpool vs Leeds United🔗Live Link🎥▶️ https://t.co/QKglKWchq1Inter Milan vs Sampdoria🔗Live Lin… https://t.co/iMePqRhLJF |
+| Liverpool 🤣🤣🤣🤣🤣🤣🤣🤣 #LIVLEE |
+| 📺Live Stream #LIVLEE | #InterSampdoria🔴Liverpool vs Leeds United🔗 Link 1 ▶️https://t.co/tsZbivv3Jx🔗 Link 2… https://t.co/jSnqynmHPg |
 
-The most popular user is: **automaton123**
-<div class="alert alert-block alert-danger"> RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,…</div>
+The most popular user is: **liverbi91807549**
+<div class="alert alert-block alert-danger"> RT @LFC: The Reds to face Leeds tonight 👊🔴
+
+#LIVLEE</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PacBio** |
-| #2 Most tweeted to  | **GeneticsSociety** |
-| #3 Most tweeted to  | **ksamocha** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 1.44%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **LFC** |
+| #2 Most tweeted to  | **Cigara42** |
+| #3 Most tweeted to  | **premierleague** |
+| NewProfiles (less than 10 days) | 15.96%  |
+| Tweeters with < 10 followers  | 35.88%|
+| Tweeters with > 1000000 followers  | 0.28%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **automaton123**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ASHG22**  |
-| second  | **POSTER**  |
-| third  | **TALK** |
-| fourth  | **WORK**  |
-| fifth  | **NEW**  |
+| first  | **LEEDS**  |
+| second  | **VS**  |
+| third  | **UNITED** |
+| fourth  | **LIVLEE**  |
+| fifth  | **LIVERPOOL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
+![image](assets/2022-10-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,… |
+|RT @LFC: 4' - Goal for Leeds. Rodrigo.[0-1]#LIVLEE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **automaton123**  |
+| The most retweeted user is: **liverbi91807549**  |
 | ------------- |
-| RT @doctorveera: Danish Saleheen stunned the audience with his story of building the world's largest cohort of human knockouts in Pakistan,… |
+| RT @LFC: The Reds to face Leeds tonight 👊🔴#LIVLEE |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
