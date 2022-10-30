@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LIVLEE"**
+&#x1F34E; **TOPIC = "Paul Pelosi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-29TWEETS.png)
+![image](assets/2022-10-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 📺Live StreamLiverpool vs Leeds United🔗Live Link🎥▶️ https://t.co/QKglKWchq1Inter Milan vs Sampdoria🔗Live Lin… https://t.co/iMePqRhLJF |
-| Liverpool 🤣🤣🤣🤣🤣🤣🤣🤣 #LIVLEE |
-| 📺Live Stream #LIVLEE | #InterSampdoria🔴Liverpool vs Leeds United🔗 Link 1 ▶️https://t.co/tsZbivv3Jx🔗 Link 2… https://t.co/jSnqynmHPg |
+| RT @atrupar: Amy Klobuchar on Meet the Press says the Paul Pelosi attack highlights the importance of "making sure we don't add more electi… |
+| RT @MeidasTouch: The Fox affiliate that reported that the attacker of Paul Pelosi was wearing only underwear has quietly issued a correctio… |
+| RT @michaeljknowles: Well, this Paul Pelosi story has certainly taken a turn, hasn't it? |
 
-The most popular user is: **liverbi91807549**
-<div class="alert alert-block alert-danger"> RT @LFC: The Reds to face Leeds tonight 👊🔴
-
-#LIVLEE</div>
+The most popular user is: **SchmidtDebra**
+<div class="alert alert-block alert-danger"> RT @robreiner: Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speake…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LFC** |
-| #2 Most tweeted to  | **Cigara42** |
-| #3 Most tweeted to  | **premierleague** |
-| NewProfiles (less than 10 days) | 15.96%  |
-| Tweeters with < 10 followers  | 35.88%|
-| Tweeters with > 1000000 followers  | 0.28%  |
+| #1 Most tweeted to  | **oneunderscore__** |
+| #2 Most tweeted to  | **kylegriffin1** |
+| #3 Most tweeted to  | **NBCNews** |
+| NewProfiles (less than 10 days) | 3.24%  |
+| Tweeters with < 10 followers  | 7.34%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **liverbi91807549**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LEEDS**  |
-| second  | **VS**  |
-| third  | **UNITED** |
-| fourth  | **LIVLEE**  |
-| fifth  | **LIVERPOOL**  |
+| first  | **PAUL**  |
+| second  | **PELOSI**  |
+| third  | **MUSK** |
+| fourth  | **ELON**  |
+| fifth  | **ATTACKER**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2022-10-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LFC: 4' - Goal for Leeds. Rodrigo.[0-1]#LIVLEE |
+|RT @kylegriffin1: NEW Speaker Pelosi writes to colleagues:"Yesterday morning, a violent man broke into our family home, demanded to confr… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **liverbi91807549**  |
+| The most retweeted user is: **SchmidtDebra**  |
 | ------------- |
-| RT @LFC: The Reds to face Leeds tonight 👊🔴#LIVLEE |
+| RT @robreiner: Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speake… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
