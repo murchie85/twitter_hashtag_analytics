@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Paul Pelosi"**
+&#x1F34E; **TOPIC = "Scream"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-10-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-10-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-10-30TWEETS.png)
+![image](assets/2022-10-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @atrupar: Amy Klobuchar on Meet the Press says the Paul Pelosi attack highlights the importance of "making sure we don't add more electi… |
-| RT @MeidasTouch: The Fox affiliate that reported that the attacker of Paul Pelosi was wearing only underwear has quietly issued a correctio… |
-| RT @michaeljknowles: Well, this Paul Pelosi story has certainly taken a turn, hasn't it? |
+| RT @PaperFury: how to care for yourself during NaNoWriMo- write what you love- get rid of your family won't be needing them anymore- sto… |
+| RT @MagnumGlobal: i screamyou screamwe all screamfor ...Jimin. Happy Halloween everyone. |
+| @DevonESawa Barbarian has been my favorite, it solidified Justin Long as a Scream King. |
 
-The most popular user is: **SchmidtDebra**
-<div class="alert alert-block alert-danger"> RT @robreiner: Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speake…</div>
+The most popular user is: **Erinxde**
+<div class="alert alert-block alert-danger"> RT @Harry_Styles: I scream, you scream. We all scream..</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **oneunderscore__** |
-| #2 Most tweeted to  | **kylegriffin1** |
-| #3 Most tweeted to  | **NBCNews** |
-| NewProfiles (less than 10 days) | 3.24%  |
-| Tweeters with < 10 followers  | 7.34%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **MagnumGlobal** |
+| #2 Most tweeted to  | **DailyLoud** |
+| #3 Most tweeted to  | **PleaseBeGneiss** |
+| NewProfiles (less than 10 days) | 1.14%  |
+| Tweeters with < 10 followers  | 6.24%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **SchmidtDebra**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PAUL**  |
-| second  | **PELOSI**  |
-| third  | **MUSK** |
-| fourth  | **ELON**  |
-| fifth  | **ATTACKER**  |
+| first  | **SCREAM**  |
+| second  | **HALLOWEEN**  |
+| third  | **HAPPY** |
+| fourth  | **JIMIN**  |
+| fifth  | **@MAGNUMGLOBAL:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-10-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-10-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-10-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+![image](assets/2022-10-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (53.85%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @kylegriffin1: NEW Speaker Pelosi writes to colleagues:"Yesterday morning, a violent man broke into our family home, demanded to confr… |
+|RT @DarickR: "Thank goodness homophobes, conspiracy theorists, and advocates for political violence can scream into the Twitter town square… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SchmidtDebra**  |
+| The most retweeted user is: **Erinxde**  |
 | ------------- |
-| RT @robreiner: Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speake… |
+| RT @Harry_Styles: I scream, you scream. We all scream.. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
