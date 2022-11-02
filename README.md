@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Arlington"**
+&#x1F34E; **TOPIC = "#WciXSuarez"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-01TWEETS.png)
+![image](assets/2022-11-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @DanaBrigoli arlington tx for sure! |
-| RT @ArlingtonCSD_HR: Arlington CSD is currently recruiting for 22/23: Girls’ Track &amp; Field Head Coach - LMS https://t.co/oiVsOa6MBv |
-| RT @FOS: The XFL has unveiled its 8 new, official team identities:▪️ Arlington Renegades▪️ DC Defenders▪️ Houston Roughnecks▪️ Orlando… |
+| RT @wcierc20: #wcixsuarez trending at #1 on USA , Worldwide! Brazil! #WCI https://t.co/c0PmsJ0XZW |
+| RT @wcierc20: We are really excited to welcome Luis Suárez on board !!@LuisSuarez9 #WciXSuarez #wci #wcieth #suarez https://t.co/ldqf… |
+| RT @wcierc20: It’s a pleasure to have a legend like you with us! $WCI Welcomes @LuisSuarez9 with our open arms!#WCI #WCIxSuarez #suarez |
 
-The most popular user is: **fmMyke**
-<div class="alert alert-block alert-danger"> RT @_savannah1997: If you see him in DFW please lmk ! #ArlingtonTX #arlington #dallas #dfw #fortworth https://t.co/Z4OcNh4z4D</div>
+The most popular user is: **httpdss**
+<div class="alert alert-block alert-danger"> RT @wcierc20: It’s a pleasure to have a legend like you with us! 
+$WCI Welcomes @LuisSuarez9 with our open arms!
+#WCI #WCIxSuarez #suarez</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MySportsUpdate** |
-| #2 Most tweeted to  | **XFLRenegades** |
-| #3 Most tweeted to  | **FOS** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **wcierc20** |
+| #2 Most tweeted to  | **LuisSuarez9** |
+| #3 Most tweeted to  | **SenRubioPress** |
+| NewProfiles (less than 10 days) | 9.82%  |
+| Tweeters with < 10 followers  | 13.39%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **fmMyke**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARLINGTON**  |
-| second  | **TEAM**  |
-| third  | **XFL** |
-| fourth  | **8**  |
-| fifth  | **▪️**  |
+| first  | **WCI**  |
+| second  | **@WCIERC20:**  |
+| third  | **WCIXSUAREZ** |
+| fourth  | **@LUISSUAREZ9**  |
+| fifth  | **WELCOME**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-01BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-11-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (37.5%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (62.5%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @birenbomb: really proud to share a personal essay on why I support the effort to introduce missing middle housing in my hometown of Arl… |
+|RT @wcierc20: We are really excited to welcome Luis Suárez on board !!@LuisSuarez9 #WciXSuarez #wci #wcieth #suarez https://t.co/ldqf… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **fmMyke**  |
+| The most retweeted user is: **httpdss**  |
 | ------------- |
-| RT @_savannah1997: If you see him in DFW please lmk ! #ArlingtonTX #arlington #dallas #dfw #fortworth https://t.co/Z4OcNh4z4D |
+| RT @wcierc20: It’s a pleasure to have a legend like you with us! $WCI Welcomes @LuisSuarez9 with our open arms!#WCI #WCIxSuarez #suarez |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
