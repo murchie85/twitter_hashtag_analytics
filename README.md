@@ -1,37 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "MSNBC"**
+&#x1F34E; **TOPIC = "Konate"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-05TWEETS.png)
+![image](assets/2022-11-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MalcolmNance: RETWEET #WheresTiffany? If you think @MSNBC needs to reinstate @TiffanyDCross IMMEDIATELY. Black voices being shut out of… |
-| @kylegriffin1 @MSNBC He owns it now, so suck it up |
-| @BodhidogPhoenix @ElieNYC @MHarrisPerry @TheTakeaway @MSNBC "working on whiteness"What does that even mean? |
+| RT @AnfieldWatch: Ibrahima Konate has to start every single week. |
+| RT @SamueILFC: Ibou Konate was the player we missed the most, massive difference when he starts. Exceptional. |
+| RT @Watch_LFC: Big Ibou Konaté. What a performance. Absolutely unreal. Monsieur Deschamps, you are spoilt for riches at CB but Konaté wou… |
 
-The most popular user is: **heilmanbaRobert**
-<div class="alert alert-block alert-danger"> RT @EileenM60933733: “Liz Cheney and I are not brave. We are just surrounded by cowards”
-Adam Kinzinger @MSNBC</div>
+The most popular user is: **SergioR15592920**
+<div class="alert alert-block alert-danger"> RT @totamo11: Salah when he saw Konate walking alone 🥹
+
+ https://t.co/M2eIyWNh33</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MSNBC** |
-| #2 Most tweeted to  | **TiffanyDCross** |
-| #3 Most tweeted to  | **kylegriffin1** |
-| NewProfiles (less than 10 days) | 4.62%  |
-| Tweeters with < 10 followers  | 8.88%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **AnfieldWatch** |
+| #2 Most tweeted to  | **HotspurEdition** |
+| #3 Most tweeted to  | **TheAnfieldBuzz** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 2.9%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -40,28 +41,28 @@ Adam Kinzinger @MSNBC</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **@MSNBC**  |
-| second  | **@TIFFANYDCROSS**  |
-| third  | **MSNBC** |
-| fourth  | **BLACK**  |
-| fifth  | **BEING**  |
+| first  | **KONATE**  |
+| second  | **IBRAHIMA**  |
+| third  | **LIVERPOOL** |
+| fourth  | **KONATÉ**  |
+| fifth  | **CLEARANCES**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (28.57%) **OBJECTIVE** (57.14%)
+![image](assets/2022-11-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheRDFloyd: @kylegriffin1 @MSNBC Define "misinformation" and don't use one of your third party "fact checkers" for help. |
+|RT @TheAnfieldBuzz: Ibrahima Konaté vs Tottenham Hostpur:87 touches8 clearances2 interceptions3/3 tackles won (100%)11 recoveries4/5… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **heilmanbaRobert**  |
+| The most retweeted user is: **SergioR15592920**  |
 | ------------- |
-| RT @EileenM60933733: “Liz Cheney and I are not brave. We are just surrounded by cowards”Adam Kinzinger @MSNBC |
+| RT @totamo11: Salah when he saw Konate walking alone 🥹 https://t.co/M2eIyWNh33 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
