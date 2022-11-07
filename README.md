@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Konate"**
+&#x1F34E; **TOPIC = "#artistsontwitter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-06TWEETS.png)
+![image](assets/2022-11-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AnfieldWatch: Ibrahima Konate has to start every single week. |
-| RT @SamueILFC: Ibou Konate was the player we missed the most, massive difference when he starts. Exceptional. |
-| RT @Watch_LFC: Big Ibou Konaté. What a performance. Absolutely unreal. Monsieur Deschamps, you are spoilt for riches at CB but Konaté wou… |
+| "Watering the dead"#artistsontwitter &lt;3 https://t.co/8aXFCV1SkU |
+| #artistsontwitter Shop my sale: 15% off. #etsy #moongemsshop #etsyfinds #etsygifts #etsysale #etsycoupon #shopsmall… https://t.co/Snrl4BOVxW |
+| RT @lgions: Hey, i'm Bex, a UK based illustrator and comic artists/colourist. I like drawing vampires, tiny homes and quiet scenes ✨ #artis… |
 
-The most popular user is: **SergioR15592920**
-<div class="alert alert-block alert-danger"> RT @totamo11: Salah when he saw Konate walking alone 🥹
-
- https://t.co/M2eIyWNh33</div>
+The most popular user is: **Gamerwolf517**
+<div class="alert alert-block alert-danger"> RT @cqtlatte: #artistsontwitter trending? my faves✨ https://t.co/xj9v3rUp8e</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AnfieldWatch** |
-| #2 Most tweeted to  | **HotspurEdition** |
-| #3 Most tweeted to  | **TheAnfieldBuzz** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 2.9%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **cqtlatte** |
+| #2 Most tweeted to  | **maplekeurig** |
+| #3 Most tweeted to  | **SqueakyArt** |
+| NewProfiles (less than 10 days) | 0.52%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **SergioR15592920**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KONATE**  |
-| second  | **IBRAHIMA**  |
-| third  | **LIVERPOOL** |
-| fourth  | **KONATÉ**  |
-| fifth  | **CLEARANCES**  |
+| first  | **ARTISTSONTWITTER**  |
+| second  | **"IM"**  |
+| third  | **HI** |
+| fourth  | **ART**  |
+| fifth  | **DRAW**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-06BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (20.0%)
+![image](assets/2022-11-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheAnfieldBuzz: Ibrahima Konaté vs Tottenham Hostpur:87 touches8 clearances2 interceptions3/3 tackles won (100%)11 recoveries4/5… |
+|RT @thingsbydiana: ✨🌈 LETS DO THIS YALL! #artistsontwitter⭐ Throw down your favorite art piece!⭐ Destroy your fellow artists with love a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **SergioR15592920**  |
+| The most retweeted user is: **Gamerwolf517**  |
 | ------------- |
-| RT @totamo11: Salah when he saw Konate walking alone 🥹 https://t.co/M2eIyWNh33 |
+| RT @cqtlatte: #artistsontwitter trending? my faves✨ https://t.co/xj9v3rUp8e |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
