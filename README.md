@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#artistsontwitter"**
+&#x1F34E; **TOPIC = "Republicans"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-07TWEETS.png)
+![image](assets/2022-11-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "Watering the dead"#artistsontwitter &lt;3 https://t.co/8aXFCV1SkU |
-| #artistsontwitter Shop my sale: 15% off. #etsy #moongemsshop #etsyfinds #etsygifts #etsysale #etsycoupon #shopsmall… https://t.co/Snrl4BOVxW |
-| RT @lgions: Hey, i'm Bex, a UK based illustrator and comic artists/colourist. I like drawing vampires, tiny homes and quiet scenes ✨ #artis… |
+| RT @ckbmusik: Republicans have held power in Texas for decades. Their ads say that they want to correct the problems here. Seems more like…… |
+| RT @OhNoSheTwitnt: Sure sex is great, but have you tried  voting out Republicans? |
+| RT @ParkeCarson: Why are democrats in Arizona making it so damn hard to vote?Republicans don’t suppress voting, democrats do. |
 
-The most popular user is: **Gamerwolf517**
-<div class="alert alert-block alert-danger"> RT @cqtlatte: #artistsontwitter trending? my faves✨ https://t.co/xj9v3rUp8e</div>
+The most popular user is: **MIA76124394**
+<div class="alert alert-block alert-danger"> RT @ericswalwell: MAGA Republicans want women arrested for having an abortion. This is what that looks like. 
+
+#LockHerUp https://t.co/YUD0…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **cqtlatte** |
-| #2 Most tweeted to  | **maplekeurig** |
-| #3 Most tweeted to  | **SqueakyArt** |
-| NewProfiles (less than 10 days) | 0.52%  |
-| Tweeters with < 10 followers  | 5.0%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ElectionWiz** |
+| #2 Most tweeted to  | **MeidasTouch** |
+| #3 Most tweeted to  | **WhiteHouse** |
+| NewProfiles (less than 10 days) | 1.92%  |
+| Tweeters with < 10 followers  | 6.56%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Gamerwolf517**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARTISTSONTWITTER**  |
-| second  | **"IM"**  |
-| third  | **HI** |
-| fourth  | **ART**  |
-| fifth  | **DRAW**  |
+| first  | **REPUBLICANS**  |
+| second  | **COUNTY**  |
+| third  | **MARICOPA** |
+| fourth  | **ELECTION**  |
+| fifth  | **DEMOCRATS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-11-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (53.85%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @thingsbydiana: ✨🌈 LETS DO THIS YALL! #artistsontwitter⭐ Throw down your favorite art piece!⭐ Destroy your fellow artists with love a… |
+|Keep in mind that Republicans do better with in-person voting and Democrats tend to do better on mail-in/absentee b… https://t.co/iCg2iVmCga |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Gamerwolf517**  |
+| The most retweeted user is: **MIA76124394**  |
 | ------------- |
-| RT @cqtlatte: #artistsontwitter trending? my faves✨ https://t.co/xj9v3rUp8e |
+| RT @ericswalwell: MAGA Republicans want women arrested for having an abortion. This is what that looks like. #LockHerUp https://t.co/YUD0… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
