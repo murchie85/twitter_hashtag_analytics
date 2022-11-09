@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Republicans"**
+&#x1F34E; **TOPIC = "Not in Texas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-08TWEETS.png)
+![image](assets/2022-11-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ckbmusik: Republicans have held power in Texas for decades. Their ads say that they want to correct the problems here. Seems more like…… |
-| RT @OhNoSheTwitnt: Sure sex is great, but have you tried  voting out Republicans? |
-| RT @ParkeCarson: Why are democrats in Arizona making it so damn hard to vote?Republicans don’t suppress voting, democrats do. |
+| RT @haze_tkn: Also got my first tekken medal! Might not mean much but it was huge for me especially considering I was able to make some clu… |
+| @alexisniiic Don't worry, our governor is very kind to refugees. He let's them in at record numbers to have the bes… https://t.co/26rAlp5WdM |
+| Yeah may not be this red tsunami bullshit #they were clamoring about, but it’s hitting hard on the red states like here in #Texas. |
 
-The most popular user is: **MIA76124394**
-<div class="alert alert-block alert-danger"> RT @ericswalwell: MAGA Republicans want women arrested for having an abortion. This is what that looks like. 
+The most popular user is: **Tower4rm_Texas**
+<div class="alert alert-block alert-danger"> RT @RealJayWilliams: Kyrie Irving thoughts:
 
-#LockHerUp https://t.co/YUD0…</div>
+I do NOT take the position that I speak for ALL black people. I speak for myself &amp; my experien…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ElectionWiz** |
-| #2 Most tweeted to  | **MeidasTouch** |
-| #3 Most tweeted to  | **WhiteHouse** |
-| NewProfiles (less than 10 days) | 1.92%  |
-| Tweeters with < 10 followers  | 6.56%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **0liviajulianna** |
+| #2 Most tweeted to  | **JuJuBreauxD** |
+| #3 Most tweeted to  | **SaraGonzalesTX** |
+| NewProfiles (less than 10 days) | 0.82%  |
+| Tweeters with < 10 followers  | 4.46%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **MIA76124394**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REPUBLICANS**  |
-| second  | **COUNTY**  |
-| third  | **MARICOPA** |
-| fourth  | **ELECTION**  |
-| fifth  | **DEMOCRATS**  |
+| first  | **TEXAS**  |
+| second  | **NEED**  |
+| third  | **NEEDS** |
+| fourth  | **NEW**  |
+| fifth  | **DEMOCRATIC**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-08BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (38.46%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (53.85%)
+![image](assets/2022-11-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Keep in mind that Republicans do better with in-person voting and Democrats tend to do better on mail-in/absentee b… https://t.co/iCg2iVmCga |
+|RT @Paultx890: @qtseven No actually it is not.  And that is the problem. These vote numbers from across the state are different from how Te… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MIA76124394**  |
+| The most retweeted user is: **Tower4rm_Texas**  |
 | ------------- |
-| RT @ericswalwell: MAGA Republicans want women arrested for having an abortion. This is what that looks like. #LockHerUp https://t.co/YUD0… |
+| RT @RealJayWilliams: Kyrie Irving thoughts:I do NOT take the position that I speak for ALL black people. I speak for myself &amp; my experien… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
