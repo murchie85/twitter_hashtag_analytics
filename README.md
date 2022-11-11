@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "RINOs"**
+&#x1F34E; **TOPIC = "DeviantArt"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-10TWEETS.png)
+![image](assets/2022-11-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Patrici15767099: Can someone tell me exactly what Trump did to the Republican party that was so bad that the rinos keep saying they nee… |
-| Trump is so far at 174 and 9 during this past election you RINO ..I'll take that any day...and he's not done!  !Nor… https://t.co/7GIsIekvPc |
-| @pvtjokerus I know… I am getting so infuriated with them. That is why we don’t like the RINOS  and establishment GO… https://t.co/dBCKGUXxKJ |
+| Just when you think that you might be able to find safety on one platform, you end up having the rug pulled out for… https://t.co/xJR2a54xW8 |
+| oh cool! https://t.co/NGMqFZyebb |
+| @E_Aria_Eia @ItsGreliz @endwa1ker @DeviantArt yes - deviations uploaded to DA are already *NOT* included in the dat… https://t.co/b2zcjnEJpi |
 
-The most popular user is: **MelodyHaywood3**
-<div class="alert alert-block alert-danger"> RT @Patrici15767099: Can someone tell me exactly what Trump did to the Republican party that was so bad that the rinos keep saying they nee…</div>
+The most popular user is: **TimetoDream4**
+<div class="alert alert-block alert-danger"> RT @arvalis: DeviantArt has decided your artwork there is fair game to be used in their new AI generator by default. You have to go to an o…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Patrici15767099** |
-| #2 Most tweeted to  | **AlexandraLevi20** |
-| #3 Most tweeted to  | **alexbruesewitz** |
-| NewProfiles (less than 10 days) | 3.46%  |
-| Tweeters with < 10 followers  | 8.34%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **DeviantArt** |
+| #2 Most tweeted to  | **arvalis** |
+| #3 Most tweeted to  | **IanFayArt** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 1.88%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MelodyHaywood3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RINOS**  |
-| second  | **TRUMP**  |
-| third  | **REPUBLICAN** |
-| fourth  | **PARTY**  |
-| fifth  | **SAYING**  |
+| first  | **DEVIANTART**  |
+| second  | **AI**  |
+| third  | **DEFAULT** |
+| fourth  | **GO**  |
+| fifth  | **USED**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
+![image](assets/2022-11-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@TheLeoTerrell You are 100% correct. Neither should Kevin McCarthy. Both are weak, spineless RINOS! They are dragging us down. |
+|RT @IanFayArt: Heads up, DeviantArt turned heel and as far as i can tell all of your existing deviations will have to be manually opted out… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MelodyHaywood3**  |
+| The most retweeted user is: **TimetoDream4**  |
 | ------------- |
-| RT @Patrici15767099: Can someone tell me exactly what Trump did to the Republican party that was so bad that the rinos keep saying they nee… |
+| RT @arvalis: DeviantArt has decided your artwork there is fair game to be used in their new AI generator by default. You have to go to an o… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
