@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tiffany"**
+&#x1F34E; **TOPIC = "Motor"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-12TWEETS.png)
+![image](assets/2022-11-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RonFilipkowski: Trump Senior Advisors for foreign policy, supply chain, pandemic response, trade policy, energy policy, campaign strate… |
-| RT @TimHannan: If I were AG, FBI agents would take Trump into custody in front of everyone at his daughter Tiffany’s wedding. It would be a… |
-| Tony Symons https://t.co/TFnC0smAAw #重庆 #Tiffany #Pulitzer #西安线下 |
+| Motor x 2... #GoBills #BillsMafia |
+| enemy company tactical groups to launch offensive operations towards Vladimirovka and Zmiyevka (Lugansk People's Re… https://t.co/Y7WWNO7Mp9 |
+| Controversial £360m NHS England data platform ‘lined up’ for Trump backer’s firm.   Quote from article “Clive Lewis… https://t.co/sPA85CtZrU |
 
-The most popular user is: **here_is_tiffany**
-<div class="alert alert-block alert-danger"> RT @sybvzk: it’s me and my short patience against the world</div>
+The most popular user is: **Pe_Magnet_Motor**
+<div class="alert alert-block alert-danger"> RT @fasc1nate: An owl showing some catlike behavior. https://t.co/E1WHzspsU6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **caslernoel** |
-| #2 Most tweeted to  | **RonFilipkowski** |
-| #3 Most tweeted to  | **MayoIsSpicyy** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 10.5%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **BuffaloBills** |
+| #2 Most tweeted to  | **AndTartary** |
+| #3 Most tweeted to  | **whatsappblog9ja** |
+| NewProfiles (less than 10 days) | 1.84%  |
+| Tweeters with < 10 followers  | 11.8%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **here_is_tiffany**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIFFANY**  |
-| second  | **WEDDING**  |
-| third  | **TRUMP** |
-| fourth  | **POLICY**  |
-| fifth  | **"TIFFANYS"**  |
+| first  | **MOTOR**  |
+| second  | **@BUFFALOBILLS:**  |
+| third  | **GO** |
+| fourth  | **VEHICLE**  |
+| fifth  | **X2!!!!!**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-12BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (73.33%)
+![image](assets/2022-11-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @caslernoel: Tiffany Trump's wedding tonight has all the hallmarks of a season finale. |
+|RT @agumaduifeanyi1: Hello to all Obidient family, my heart is heavy, my junior brother had a ghastly motor at Okada Benin. He is currently… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **here_is_tiffany**  |
+| The most retweeted user is: **Pe_Magnet_Motor**  |
 | ------------- |
-| RT @sybvzk: it’s me and my short patience against the world |
+| RT @fasc1nate: An owl showing some catlike behavior. https://t.co/E1WHzspsU6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
