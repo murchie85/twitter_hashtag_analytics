@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Warzone2"**
+&#x1F34E; **TOPIC = "Royal Mail"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-16TWEETS.png)
+![image](assets/2022-11-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BombadBilly: 🔴Live - Warzone 2 Lets Learn Together https://t.co/we2bkAJDEI#CallofDutyModernWarfareII #Warzone2 #cod #twitch #twit… |
-| RT @charlieINTEL: Solos. Duos. Unhinged Trios. Quads. 3rd Person BR Trios. NOW LIVE! #Warzone2 https://t.co/2wYGfJirMa |
-| Body Count | Warzone 2 &amp; Modern Warfare 2 Blueprint 🔓Sector A13 of the Season 1 Battle Pass#MW2… https://t.co/3gPXUz3FUg |
+| RT @alexhern: If Royal Mail cannot turn a profit while providing the services it is legally mandated to provide, then its equity value is z… |
+| RT @alexhern: If Royal Mail cannot turn a profit while providing the services it is legally mandated to provide, then its equity value is z… |
+| RT @CWUnews: We will have a full update on negotiations for our BT and Openreach members tomorrow. We will have an update for Royal Mail… |
 
-The most popular user is: **swarmzbox**
-<div class="alert alert-block alert-danger"> RT @CallofDuty: Welcome to Al Mazrah. Drop In 🪂
-
-Play for free on November 16! #Warzone2 https://t.co/dAIoayXTYX</div>
+The most popular user is: **moirabriggs14**
+<div class="alert alert-block alert-danger"> RT @DaveWardGS: I am asking all of my followers to RT this thread so as many people as possible know the truth about the Royal Mail Group s…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CallofDuty** |
-| #2 Most tweeted to  | **CallofDutyUK** |
-| #3 Most tweeted to  | **charlieINTEL** |
-| NewProfiles (less than 10 days) | 1.97%  |
-| Tweeters with < 10 followers  | 9.72%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **alexhern** |
+| #2 Most tweeted to  | **CWUnews** |
+| #3 Most tweeted to  | **SaulStaniforth** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 3.86%|
+| Tweeters with > 1000000 followers  | 0.42%  |
 
 
 
@@ -41,28 +39,28 @@ Play for free on November 16! #Warzone2 https://t.co/dAIoayXTYX</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WARZONE2**  |
-| second  | **WARZONE**  |
-| third  | **🪂** |
-| fourth  | **PLAY**  |
-| fifth  | **DROP**  |
+| first  | **MAIL**  |
+| second  | **ROYAL**  |
+| third  | **ITS** |
+| fourth  | **CANNOT**  |
+| fifth  | **PROFIT**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-16BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2022-11-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @CallofDutyUK: Tonight, we're dropping here again 🪂 #Warzone2 https://t.co/Dw1r0qyGkN |
+|RT @alexhern: If Royal Mail cannot turn a profit while providing the services it is legally mandated to provide, then its equity value is z… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **swarmzbox**  |
+| The most retweeted user is: **moirabriggs14**  |
 | ------------- |
-| RT @CallofDuty: Welcome to Al Mazrah. Drop In 🪂Play for free on November 16! #Warzone2 https://t.co/dAIoayXTYX |
+| RT @DaveWardGS: I am asking all of my followers to RT this thread so as many people as possible know the truth about the Royal Mail Group s… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
