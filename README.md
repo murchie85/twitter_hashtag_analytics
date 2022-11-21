@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hive"**
+&#x1F34E; **TOPIC = "Kepa"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-20TWEETS.png)
+![image](assets/2022-11-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @VitalityHive: OUR MOBILE APP IS OFFICIALLY LAUNCHED 🐝You can download the app right now and start earning points and wearables for yo… |
-| Bythecharles on Hive. |
-| repost // helloo these are my other social accs just in case twt is going down!!preferably contact me on dc if it… https://t.co/5qzeQmn1Ci |
+| Welp that’s why Kepa is playing for Chelsea right now. Sucks for Sénégal, they’re a good side otherwise but they ar… https://t.co/isP8udoDVe |
+| RT @ChessyHour: Who remembers when people said that Hazard made Kepa look better than he was in that Sarri season As a way to explain the… |
+| RT @anjolaaa17: Today is blessed 😌🤲 |
 
-The most popular user is: **jk_bighit_hive_**
-<div class="alert alert-block alert-danger"> RT @FIFAWorldCup: What a performance, Jung Kook! ✨
-
-#Dreamers2022 | @bts_bighit</div>
+The most popular user is: **kepa_thekeeper**
+<div class="alert alert-block alert-danger"> RT @Cristiano: Victory is a State of Mind. A long tradition of crafting trunks photographed by @annieleibovitz for @LouisVuitton https://t.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **VitalityHive** |
-| #2 Most tweeted to  | **TeamVitality** |
-| #3 Most tweeted to  | **tezos** |
-| NewProfiles (less than 10 days) | 0.94%  |
-| Tweeters with < 10 followers  | 5.8%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Kepa_Dotmors** |
+| #2 Most tweeted to  | **Blue_Footy** |
+| #3 Most tweeted to  | **FrankKhalidUK** |
+| NewProfiles (less than 10 days) | 0.7%  |
+| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **jk_bighit_hive_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HIVE**  |
-| second  | **APP**  |
-| third  | **🐝** |
-| fourth  | **SOCIAL**  |
-| fifth  | **@VITALITYHIVE:**  |
+| first  | **KEPA**  |
+| second  | **MENDY**  |
+| third  | **CHELSEA** |
+| fourth  | **WORLD**  |
+| fifth  | **DEY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-20BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2022-11-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Technoir Hive Social, new app. ✨ |
+|I so much want this man to lift the World Cup😍 https://t.co/bVy3mgEQm6 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jk_bighit_hive_**  |
+| The most retweeted user is: **kepa_thekeeper**  |
 | ------------- |
-| RT @FIFAWorldCup: What a performance, Jung Kook! ✨#Dreamers2022 | @bts_bighit |
+| RT @Cristiano: Victory is a State of Mind. A long tradition of crafting trunks photographed by @annieleibovitz for @LouisVuitton https://t.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
