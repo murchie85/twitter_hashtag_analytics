@@ -1,36 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Giroud"**
+&#x1F34E; **TOPIC = "España"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-22TWEETS.png)
+![image](assets/2022-11-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Giroud great than Henry |
-| Why are Arsenal fans so disingenuous about Giroud and his time at Arsenal ? |
-| RT @FIFAWorldCup: Leading Goalscorers for @equipedefrance 51 - Thierry Henry50 - Olivier Giroud Closing in on the top spot 🇫🇷#FIFAWo… |
+| ##España  #CostaRica #MUNDIAL #ESPANA #COSTARICA #MUNDIAL #LIVE #SOCCER #FUTBOL #QATAR2022##Spain#Costa Rica… https://t.co/9HC9QuqJWt |
+| MMDA ALERT: Vehicular accident at E. Rodriguez WB Villa España involving tricycle and motorcycle as of 7:55 AM. 1 l… https://t.co/kDrjwvFv7G |
+| RT @HOSTALPERSAL: Need a hotel in Madrid? ✈️ Try us!😃 https://t.co/deJ4SjFopa       https://t.co/J9zCImUgVt  #trip #travelbloggers #spain #… |
 
-The most popular user is: **bjustiro**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: What a professional and what a striker, Olivier Giroud. Respect. 🔵 #UCL #CFC #Chelsea</div>
+The most popular user is: **unidos_espana**
+<div class="alert alert-block alert-danger"> RT @binnahar85: As a Qatari I’m proud of what happened. 
+I don’t know when will the westerners realize that their values aren’t universal.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FIFAWorldCup** |
-| #2 Most tweeted to  | **equipedefrance** |
-| #3 Most tweeted to  | **brfootball** |
-| NewProfiles (less than 10 days) | 1.2%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.36%  |
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **brhan69393677** |
+| #3 Most tweeted to  | **TXT_members** |
+| NewProfiles (less than 10 days) | 6.52%  |
+| Tweeters with < 10 followers  | 8.96%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +40,28 @@ The most popular user is: **bjustiro**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GIROUD**  |
-| second  | **OLIVIER**  |
-| third  | **GOAL** |
-| fourth  | **FRANCE**  |
-| fifth  | **🇫🇷**  |
+| first  | **ESPAÑA**  |
+| second  | **SPAIN**  |
+| third  | **ESPANA** |
+| fourth  | **COSTA**  |
+| fifth  | **COSTARICA**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2022-11-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Giroud is so underatted man. I want him to score two more goals and become France all time scorer. |
+|RT @MillieOTLFP: Beautiful Brindle Boy Alfie needs a home 🏡 Currently in #Spain #Espana but can travel See attached tweet for more informa… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **bjustiro**  |
+| The most retweeted user is: **unidos_espana**  |
 | ------------- |
-| RT @FabrizioRomano: What a professional and what a striker, Olivier Giroud. Respect. 🔵 #UCL #CFC #Chelsea |
+| RT @binnahar85: As a Qatari I’m proud of what happened. I don’t know when will the westerners realize that their values aren’t universal.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
