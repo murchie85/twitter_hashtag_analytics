@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TOTP"**
+&#x1F34E; **TOPIC = "#FIFAWorldCupQatar2022"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-25TWEETS.png)
+![image](assets/2022-11-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| As expected #totp |
-| @deathofbuckley I censor his name cause I don’t wanna be part of his Twitter comments compilation videos that he does on #TOTP… 😂 |
-| #totp Greetings! I am mostly doing the Ethical Thing. Mostly. https://t.co/FvCBOplZcX |
+| RT @walowsok: What a beautiful match! Share your thoughts with us! #FRADAN We can't deny that some of our favorite players are Mbappé and… |
+| RT @MosesKamauMS1: Dembele is one gifted player. Remarkable play!#FIFAWorldCupQatar2022 #FRAESP https://t.co/RJ2G8E2DRS |
+| RT @ThunderCoreLab: 1/ #ThunderCore #WorldCup2022 Campaigns are LIVE! @FIFAWorldCup🏆⚽️🏆1⃣ NFT Giveaway2⃣ $22,000 Giveaway by #ThunderCo… |
 
-The most popular user is: **neilsmiles**
-<div class="alert alert-block alert-danger"> RT @neilsmiles: Anthea Turner's on #totp tonight which reminds me of the time she congratulated the KLF on being number one and "looking li…</div>
+The most popular user is: **cebylmz**
+<div class="alert alert-block alert-danger"> RT @tariqtramboo: Biggest Opening ceremony of #FIFA World 2022 Stadium in History with Recitation of Holy Quran #FIFAWorldCupQatar2022 http…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TOTPFacts** |
-| #2 Most tweeted to  | **neilsmiles** |
-| #3 Most tweeted to  | **FubsyShabaroon** |
-| NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 4.26%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **walowsok** |
+| #2 Most tweeted to  | **israt_nourin01** |
+| #3 Most tweeted to  | **FIFAWorldCup** |
+| NewProfiles (less than 10 days) | 3.52%  |
+| Tweeters with < 10 followers  | 23.62%|
+| Tweeters with > 1000000 followers  | 0.4%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **neilsmiles**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOTP**  |
-| second  | **TOTPRT**  |
-| third  | **SONG** |
-| fourth  | **@TOTPFACTS:**  |
-| fifth  | **TONIGHT**  |
+| first  | **FIFAWORLDCUPQATAR2022**  |
+| second  | **ARGENTINA**  |
+| third  | **WORLD** |
+| fourth  | **MEXICO**  |
+| fifth  | **VS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-11-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (88.89%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (11.11%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Elton and Kiki. Strong scarf game.  #TOTP |
+|#FIFA is an out of touch, failing institution, unfit to govern world football. It's time to reclaim the game. Sig… https://t.co/TuizR4KGSh |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **neilsmiles**  |
+| The most retweeted user is: **cebylmz**  |
 | ------------- |
-| RT @neilsmiles: Anthea Turner's on #totp tonight which reminds me of the time she congratulated the KLF on being number one and "looking li… |
+| RT @tariqtramboo: Biggest Opening ceremony of #FIFA World 2022 Stadium in History with Recitation of Holy Quran #FIFAWorldCupQatar2022 http… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
