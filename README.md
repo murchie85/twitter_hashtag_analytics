@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FIFAWorldCupQatar2022"**
+&#x1F34E; **TOPIC = "Alphonso Davies"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-26TWEETS.png)
+![image](assets/2022-11-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @walowsok: What a beautiful match! Share your thoughts with us! #FRADAN We can't deny that some of our favorite players are Mbappé and… |
-| RT @MosesKamauMS1: Dembele is one gifted player. Remarkable play!#FIFAWorldCupQatar2022 #FRAESP https://t.co/RJ2G8E2DRS |
-| RT @ThunderCoreLab: 1/ #ThunderCore #WorldCup2022 Campaigns are LIVE! @FIFAWorldCup🏆⚽️🏆1⃣ NFT Giveaway2⃣ $22,000 Giveaway by #ThunderCo… |
+| RT @brfootball: ALPHONSO DAVIES AFTER ONE MINUTE.CANADA'S FIRST-EVER GOAL AT THE MEN'S WORLD CUP 🇨🇦 https://t.co/gegjfeF0BJ |
+| RT @ESPNFC: ✅ Led Canada to their first men's World Cup✅ Scored their first ever World Cup goal✅ Fastest goal of the tournamentAlphonso… |
+| Alphonso Davies is an incredible talent. Canada is extremely fortunate to have him, and they should be better situated in 2026. |
 
-The most popular user is: **cebylmz**
-<div class="alert alert-block alert-danger"> RT @tariqtramboo: Biggest Opening ceremony of #FIFA World 2022 Stadium in History with Recitation of Holy Quran #FIFAWorldCupQatar2022 http…</div>
+The most popular user is: **lawnreigh1**
+<div class="alert alert-block alert-danger"> RT @brfootball: ALPHONSO DAVIES AFTER ONE MINUTE.
+
+CANADA'S FIRST-EVER GOAL AT THE MEN'S WORLD CUP 🇨🇦 https://t.co/gegjfeF0BJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **walowsok** |
-| #2 Most tweeted to  | **israt_nourin01** |
-| #3 Most tweeted to  | **FIFAWorldCup** |
-| NewProfiles (less than 10 days) | 3.52%  |
-| Tweeters with < 10 followers  | 23.62%|
-| Tweeters with > 1000000 followers  | 0.4%  |
+| #1 Most tweeted to  | **ESPNFC** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **sportbible** |
+| NewProfiles (less than 10 days) | 1.68%  |
+| Tweeters with < 10 followers  | 3.94%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **cebylmz**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FIFAWORLDCUPQATAR2022**  |
-| second  | **ARGENTINA**  |
-| third  | **WORLD** |
-| fourth  | **MEXICO**  |
-| fifth  | **VS**  |
+| first  | **WORLD**  |
+| second  | **CUP**  |
+| third  | **GOAL** |
+| fourth  | **ALPHONSO**  |
+| fifth  | **✅**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (88.89%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (11.11%)
+![image](assets/2022-11-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#FIFA is an out of touch, failing institution, unfit to govern world football. It's time to reclaim the game. Sig… https://t.co/TuizR4KGSh |
+|RT @ESPNFC: ✅ Led Canada to their first men's World Cup✅ Scored their first ever World Cup goal✅ Fastest goal of the tournamentAlphonso… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **cebylmz**  |
+| The most retweeted user is: **lawnreigh1**  |
 | ------------- |
-| RT @tariqtramboo: Biggest Opening ceremony of #FIFA World 2022 Stadium in History with Recitation of Holy Quran #FIFAWorldCupQatar2022 http… |
+| RT @brfootball: ALPHONSO DAVIES AFTER ONE MINUTE.CANADA'S FIRST-EVER GOAL AT THE MEN'S WORLD CUP 🇨🇦 https://t.co/gegjfeF0BJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
