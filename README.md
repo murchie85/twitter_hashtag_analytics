@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Apple"**
+&#x1F34E; **TOPIC = "Henderson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-28TWEETS.png)
+![image](assets/2022-11-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @elonmusk: Apple should publish all censorship actions it has taken that affect its customers |
-| So BlackRock is part owner of Apple? Shocker. This explains everything #Apple |
-| @fishinthisweek @josephcwhite @TheRabbitHole84 @elonmusk Where on this chart does it show leadership at Apple donated to the Dems? |
+| Jordan Henderson makes me want to kill myself |
+| RT @charles_watts: You just don't need Henderson in a game like this. It's so frustrating. Get Foden in the central areas, you can see how… |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England XI: GK: Pickford, Walker, Maguire, Stones, Shaw, Henderson, Rice, Bellingham, Foden, Rashford, Kane… https://t.co/91I7Bk5USd |
 
-The most popular user is: **ozrenac**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Apple has mostly stopped advertising on Twitter. Do they hate free speech in America?</div>
+The most popular user is: **Silas_Henderson**
+<div class="alert alert-block alert-danger"> RT @USMNT: 38' - GOAL: USA!!!!
+
+@sergino_dest heads to a sprinting @cpulisic_10 in front of net to give us the advantage!!!!
+
+🇮🇷 IR Iran 0…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **elonmusk** |
-| #2 Most tweeted to  | **Apple** |
-| #3 Most tweeted to  | **tim_cook** |
-| NewProfiles (less than 10 days) | 3.0%  |
-| Tweeters with < 10 followers  | 9.6%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **StokeyyG2** |
+| #2 Most tweeted to  | **charles_watts** |
+| #3 Most tweeted to  | **England** |
+| NewProfiles (less than 10 days) | 0.74%  |
+| Tweeters with < 10 followers  | 3.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **ozrenac**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **APPLE**  |
-| second  | **TWITTER**  |
-| third  | **@ELONMUSK:** |
-| fourth  | **APP**  |
-| fifth  | **STORE**  |
+| first  | **HENDERSON**  |
+| second  | **OFF**  |
+| third  | **JORDAN** |
+| fourth  | **RASHFORD**  |
+| fifth  | **FODEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2022-11-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Imaging complaining about Apple while tweeting from an iPhone. https://t.co/8Die5CinQD |
+|Don't give a fuck what anyone says, Henderson is playing well and dominating midfield. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ozrenac**  |
+| The most retweeted user is: **Silas_Henderson**  |
 | ------------- |
-| RT @elonmusk: Apple has mostly stopped advertising on Twitter. Do they hate free speech in America? |
+| RT @USMNT: 38' - GOAL: USA!!!!@sergino_dest heads to a sprinting @cpulisic_10 in front of net to give us the advantage!!!!🇮🇷 IR Iran 0… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
