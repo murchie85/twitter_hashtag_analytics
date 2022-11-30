@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Henderson"**
+&#x1F34E; **TOPIC = "Fleetwood Mac"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-11-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-29TWEETS.png)
+![image](assets/2022-11-30TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Jordan Henderson makes me want to kill myself |
-| RT @charles_watts: You just don't need Henderson in a game like this. It's so frustrating. Get Foden in the central areas, you can see how… |
-| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England XI: GK: Pickford, Walker, Maguire, Stones, Shaw, Henderson, Rice, Bellingham, Foden, Rashford, Kane… https://t.co/91I7Bk5USd |
+| Christine McVie, Fleetwood Mac Singer-Songwriter, Dies at 79 https://t.co/MhmTbF5WQH via @variety |
+| RT @Variety: Singer-songwriter-keyboardist Christine McVie, who enjoyed a long tenure in the London-bred band Fleetwood Mac before becoming… |
+| Really sad to hear about the passing of Chrissie McVie of Fleetwood Mac , lovely lady , proud to have met her and g… https://t.co/4BjL4mu2uF |
 
-The most popular user is: **Silas_Henderson**
-<div class="alert alert-block alert-danger"> RT @USMNT: 38' - GOAL: USA!!!!
-
-@sergino_dest heads to a sprinting @cpulisic_10 in front of net to give us the advantage!!!!
-
-🇮🇷 IR Iran 0…</div>
+The most popular user is: **MrsJedi1215**
+<div class="alert alert-block alert-danger"> RT @danayshiamua: I can’t believe a whole generation ain’t know who Fleetwood Mac was until that Tik Tok went viral...WHO ARE YALL PARENTS?!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **StokeyyG2** |
-| #2 Most tweeted to  | **charles_watts** |
-| #3 Most tweeted to  | **England** |
-| NewProfiles (less than 10 days) | 0.74%  |
-| Tweeters with < 10 followers  | 3.0%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Variety** |
+| #2 Most tweeted to  | **PopCultureGuy12** |
+| #3 Most tweeted to  | **BBCBreaking** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 1.16%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Silas_Henderson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HENDERSON**  |
-| second  | **OFF**  |
-| third  | **JORDAN** |
-| fourth  | **RASHFORD**  |
-| fifth  | **FODEN**  |
+| first  | **FLEETWOOD**  |
+| second  | **MCVIE**  |
+| third  | **CHRISTINE** |
+| fourth  | **MAC**  |
+| fifth  | **79**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-29BIO.png)
+## Twitter Bio Analysis![image](assets/2022-11-30BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
+![image](assets/2022-11-30sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Don't give a fuck what anyone says, Henderson is playing well and dominating midfield. |
+|RT @1200WOAI: BREAKING: Christine McVie of Fleetwood Mac has died.  The band has posted the death on its official Twitter account.   https:… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Silas_Henderson**  |
+| The most retweeted user is: **MrsJedi1215**  |
 | ------------- |
-| RT @USMNT: 38' - GOAL: USA!!!!@sergino_dest heads to a sprinting @cpulisic_10 in front of net to give us the advantage!!!!🇮🇷 IR Iran 0… |
+| RT @danayshiamua: I can’t believe a whole generation ain’t know who Fleetwood Mac was until that Tik Tok went viral...WHO ARE YALL PARENTS?! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
