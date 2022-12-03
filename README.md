@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fleetwood Mac"**
+&#x1F34E; **TOPIC = "Timmy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-11-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-11-30TWEETS.png)
+![image](assets/2022-12-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Christine McVie, Fleetwood Mac Singer-Songwriter, Dies at 79 https://t.co/MhmTbF5WQH via @variety |
-| RT @Variety: Singer-songwriter-keyboardist Christine McVie, who enjoyed a long tenure in the London-bred band Fleetwood Mac before becoming… |
-| Really sad to hear about the passing of Chrissie McVie of Fleetwood Mac , lovely lady , proud to have met her and g… https://t.co/4BjL4mu2uF |
+| RT @mylovedes2: nothing is wrong with breastfeeding in public, in fact it should be normalized, but what’s NOT normal is being completely t… |
+| I sneak and killed Timmy The Bloat at the Limestone Cliffs! ☠️#LastDayOnEarthSurvival#LDoESurvival https://t.co/P1I8UYZqEd |
+| @timmydooley Stop patronizing &amp; demeaning the people please Timmy, &amp; btw wagging your finger and and using manipula… https://t.co/9C5EqhKhN0 |
 
-The most popular user is: **MrsJedi1215**
-<div class="alert alert-block alert-danger"> RT @danayshiamua: I can’t believe a whole generation ain’t know who Fleetwood Mac was until that Tik Tok went viral...WHO ARE YALL PARENTS?!</div>
+The most popular user is: **timmy_tron**
+<div class="alert alert-block alert-danger"> RT @mtaibbi: 1. Thread: THE TWITTER FILES</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Variety** |
-| #2 Most tweeted to  | **PopCultureGuy12** |
-| #3 Most tweeted to  | **BBCBreaking** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 1.16%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **Timcast** |
+| #2 Most tweeted to  | **timmy_l2** |
+| #3 Most tweeted to  | **elonmusk** |
+| NewProfiles (less than 10 days) | 1.98%  |
+| Tweeters with < 10 followers  | 7.74%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **MrsJedi1215**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FLEETWOOD**  |
-| second  | **MCVIE**  |
-| third  | **CHRISTINE** |
-| fourth  | **MAC**  |
-| fifth  | **79**  |
+| first  | **TIMMY**  |
+| second  | **GOOD**  |
+| third  | **GO** |
+| fourth  | **DAY**  |
+| fifth  | **LITTLE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-11-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-11-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+![image](assets/2022-12-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @1200WOAI: BREAKING: Christine McVie of Fleetwood Mac has died.  The band has posted the death on its official Twitter account.   https:… |
+|that’s so sad alexa play timmy trumpet https://t.co/fq0kcRrtgz |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **MrsJedi1215**  |
+| The most retweeted user is: **timmy_tron**  |
 | ------------- |
-| RT @danayshiamua: I can’t believe a whole generation ain’t know who Fleetwood Mac was until that Tik Tok went viral...WHO ARE YALL PARENTS?! |
+| RT @mtaibbi: 1. Thread: THE TWITTER FILES |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
