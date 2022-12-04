@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Timmy"**
+&#x1F34E; **TOPIC = "Francia"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-03TWEETS.png)
+![image](assets/2022-12-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mylovedes2: nothing is wrong with breastfeeding in public, in fact it should be normalized, but what’s NOT normal is being completely t… |
-| I sneak and killed Timmy The Bloat at the Limestone Cliffs! ☠️#LastDayOnEarthSurvival#LDoESurvival https://t.co/P1I8UYZqEd |
-| @timmydooley Stop patronizing &amp; demeaning the people please Timmy, &amp; btw wagging your finger and and using manipula… https://t.co/9C5EqhKhN0 |
+| #FRAPOL #FIFAWorldCup #Qatar2022 #CoupeDuMondeFIFAFrance vs Poland Live Stream👉 https://t.co/dsP6JsAwUbFranci… https://t.co/2fhYkNi0gA |
+| @WUTangKids Give Bill Burr a medal! |
+| 🏆QATAR 🇶🇦 2️⃣0️⃣2️⃣2️⃣FALTANDO UNA FECHA EN FASE DE GRUPOS,HAY 3 EQUIPOS CLASIFICADOS A 8VOS...PORTUGAL 🇵🇹BRAS… https://t.co/qB7u2ppvZ2 |
 
-The most popular user is: **timmy_tron**
-<div class="alert alert-block alert-danger"> RT @mtaibbi: 1. Thread: THE TWITTER FILES</div>
+The most popular user is: **Francia_gdt**
+<div class="alert alert-block alert-danger"> RT @elonmusk: This is a battle for the future of civilization. If free speech is lost even in America, tyranny is all that lies ahead.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Timcast** |
-| #2 Most tweeted to  | **timmy_l2** |
-| #3 Most tweeted to  | **elonmusk** |
-| NewProfiles (less than 10 days) | 1.98%  |
-| Tweeters with < 10 followers  | 7.74%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **BTS_twt** |
+| #2 Most tweeted to  | **FinancialTimes** |
+| #3 Most tweeted to  | **thenreport** |
+| NewProfiles (less than 10 days) | 1.79%  |
+| Tweeters with < 10 followers  | 22.06%|
+| Tweeters with > 1000000 followers  | 0.25%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **timmy_tron**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIMMY**  |
-| second  | **GOOD**  |
-| third  | **GO** |
-| fourth  | **DAY**  |
-| fifth  | **LITTLE**  |
+| first  | **FRANCIA**  |
+| second  | **VS**  |
+| third  | **LIVE** |
+| fourth  | **FRANCE**  |
+| fifth  | **POLAND**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-03BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/2022-12-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|that’s so sad alexa play timmy trumpet https://t.co/fq0kcRrtgz |
+|@davidseymourii @JacksonStateU Thank you! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **timmy_tron**  |
+| The most retweeted user is: **Francia_gdt**  |
 | ------------- |
-| RT @mtaibbi: 1. Thread: THE TWITTER FILES |
+| RT @elonmusk: This is a battle for the future of civilization. If free speech is lost even in America, tyranny is all that lies ahead. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
