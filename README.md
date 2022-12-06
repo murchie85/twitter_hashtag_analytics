@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Brazil"**
+&#x1F34E; **TOPIC = "Morocco"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-05TWEETS.png)
+![image](assets/2022-12-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FIFAWorldCup: Brazil take a four-goal lead into the break 👏#FIFAWorldCup | #Qatar2022 |
-| Brazil is Braziling today. The men had the game on lock before the half hour mark yc |
-| ⚽FIFA World CupBrazil vs South Korea FIFA World Cup🔴𝙇𝙄𝙑𝙀🔴 https://t.co/0tkfE3NRdd🔴𝙇𝙄𝙑𝙀🔴 https://t.co/IFUtfAOnLZ… https://t.co/yfihaejpjf |
+| @SkyBet I bet 5 pounds on Morocco winning against Spain past full time and decided to contact SkyBet since I got 0… https://t.co/6AlLs8SgQE |
+| RT @breathMessi21: Ronaldo getting benched and Morocco won against spain, things are looking all in the favour of Portugal😭😭 |
+| RT @Al__Quraan: “And whoever relies upon Allah-then He is sufficient for him.” What a moment for Morocco 🇲🇦-Al Qur’aan | 65:30 https://t.… |
 
-The most popular user is: **ltiseuphoria**
-<div class="alert alert-block alert-danger"> RT @BTS_twt: thx brazil!! http://t.co/FFfREhBb3o</div>
+The most popular user is: **Jonas8668**
+<div class="alert alert-block alert-danger"> RT @brfootball: A massive moment for Morocco. https://t.co/DzPTMJraUJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **goal** |
-| #2 Most tweeted to  | **ESPNFC** |
-| #3 Most tweeted to  | **TrollFootball** |
-| NewProfiles (less than 10 days) | 1.8%  |
-| Tweeters with < 10 followers  | 7.1%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **Al__Quraan** |
+| #3 Most tweeted to  | **MarkOgden_** |
+| NewProfiles (less than 10 days) | 1.0%  |
+| Tweeters with < 10 followers  | 4.76%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ltiseuphoria**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BRAZIL**  |
-| second  | **KOREA**  |
-| third  | **SOUTH** |
-| fourth  | **VS**  |
-| fifth  | **⚽️**  |
+| first  | **MOROCCO**  |
+| second  | **WORLD**  |
+| third  | **SPAIN** |
+| fourth  | **CUP**  |
+| fifth  | **🇲🇦**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-05BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/2022-12-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @hinacantora: HELLO HEYOON JEONG ?? 🚨 ARE YOU OKAY?? 🚨 OR ARE YOU BUSY CRYING WATCHING KOREA 🇰🇷 LOSE? LMAOO BRAZIL ZIL ZIL 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷 |
+|RT @sportingking365: Morocco can reach the semis for real. I'm not even capping, they can beat Portugal/Switzerland |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ltiseuphoria**  |
+| The most retweeted user is: **Jonas8668**  |
 | ------------- |
-| RT @BTS_twt: thx brazil!! http://t.co/FFfREhBb3o |
+| RT @brfootball: A massive moment for Morocco. https://t.co/DzPTMJraUJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
