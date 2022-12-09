@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ContiCup"**
+&#x1F34E; **TOPIC = "Jenni Rivera"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-07TWEETS.png)
+![image](assets/2022-12-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ManUtdWomen: A SECOND FOR VILDE! A THIRD FOR UNITED!!! 🤩#MUWomen || #ContiCup https://t.co/i5aa7FA2qy |
-| RT @ManUtdWomen: 🔑 Key reading for fans attending tonight's game at @LSVStadium 👇#MUWomen || #ContiCup |
-| RT @LiverpoolFCW: Midweek #ContiCup action comes next 👌 https://t.co/YXZW50owIv |
+| RT @karilopezzz: it’s about to be a whole decade since jenni rivera died… i need a cigarette https://t.co/SjrXJeMUId |
+| RT @throwbackJenni: Jenni Rivera 10 years ago in a picture that was posted at 3:18 am with Arturo Rivera, Jacob Yebale, Jorge Sanchez, Mari… |
+| RT @hotboyloko13: goodmorning i miss jenni rivera |
 
-The most popular user is: **DzheringRuslan**
-<div class="alert alert-block alert-danger"> RT @LiverpoolFCW: 3️⃣ wins out of 3️⃣ in the #ContiCup 👌
-
-Well in, Reds 🔴 https://t.co/UJpMVuERbg</div>
+The most popular user is: **JorgeRiberx**
+<div class="alert alert-block alert-danger"> RT @xtina: #TheVoice &amp; Latin community has lost someone so talented &amp; special. Thoughts &amp; prayers are with you all as we mourn the loss of…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ManUtdWomen** |
-| #2 Most tweeted to  | **BarclaysWSL** |
-| #3 Most tweeted to  | **LiverpoolFCW** |
-| NewProfiles (less than 10 days) | 1.46%  |
-| Tweeters with < 10 followers  | 1.86%|
-| Tweeters with > 1000000 followers  | 0.35%  |
+| #1 Most tweeted to  | **throwbackJenni** |
+| #2 Most tweeted to  | **Chiquis626** |
+| #3 Most tweeted to  | **kissyskep** |
+| NewProfiles (less than 10 days) | 0.31%  |
+| Tweeters with < 10 followers  | 4.94%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -41,28 +39,28 @@ Well in, Reds 🔴 https://t.co/UJpMVuERbg</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CONTICUP**  |
-| second  | **@MANUTDWOMEN:**  |
-| third  | **MUWOMEN** |
-| fourth  | **||**  |
-| fifth  | **REDS**  |
+| first  | **JENNI**  |
+| second  | **RIVERA**  |
+| third  | **YEARS** |
+| fourth  | **10**  |
+| fifth  | **@THROWBACKJENNI:**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-07BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-12-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Today in the #ContiCup! Watch @ManUtdWomen 🆚 @EvertonWomen LIVE on the FA Player 📺 https://t.co/yaGyHdygth |
+|RT @throwbackJenni: Jenni Rivera 10 years ago performing her acoustic set in Monterrey, Mexico 🤍 — December 8th, 2012 https://t.co/0RvKqCmE… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DzheringRuslan**  |
+| The most retweeted user is: **JorgeRiberx**  |
 | ------------- |
-| RT @LiverpoolFCW: 3️⃣ wins out of 3️⃣ in the #ContiCup 👌Well in, Reds 🔴 https://t.co/UJpMVuERbg |
+| RT @xtina: #TheVoice &amp; Latin community has lost someone so talented &amp; special. Thoughts &amp; prayers are with you all as we mourn the loss of… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
