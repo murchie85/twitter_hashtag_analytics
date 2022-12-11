@@ -1,36 +1,43 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ronaldo"**
+&#x1F34E; **TOPIC = "Texans"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-10TWEETS.png)
+![image](assets/2022-12-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BarcaWorldwide: When it's                      When it'sMessi 🐐                       Ronaldo 🐑 https://t.co/6BuYLvSWbi |
-| RT @HalalYoda: Ronaldo may be a goat, but today was Eid Al-Adha. 🇲🇦🇲🇦🇲🇦🇲🇦🔥🔥🔥 |
-| RT @RGIII: Seeing this from Ronaldo is heartbreaking https://t.co/h0qChhzrXS |
+| RT @reddit2streams: 🔴NFL Week 14 Live📺@nfl_streams_ Watch NFL Sunday Night Football Week 14 Live Streams Free🔴NFL TV📺@nfl_streams_ Je… |
+| Who had #Texans 1H? |
+| RT @NFLonFOX: The Texans retake the lead over the Cowboys! 👏(via @NFL)https://t.co/UealhWCsLm |
 
-The most popular user is: **yunusolduhttp**
-<div class="alert alert-block alert-danger"> RT @ishowspeedsui: goodbye ronaldo love you forever💔 https://t.co/mYd7kH5Q7s</div>
+The most popular user is: **Alpha_Animosity**
+<div class="alert alert-block alert-danger"> RT @RoobNBCS: TDs after halftime allowed by Eagles' defense last 6 games:
+
+0 … Steelers 
+0 … Texans 
+0 … Commanders
+0 … Colts
+1 … Packers
+0…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ishowspeedsui** |
-| #2 Most tweeted to  | **ESPNFC** |
-| #3 Most tweeted to  | **FabrizioRomano** |
-| NewProfiles (less than 10 days) | 1.52%  |
-| Tweeters with < 10 followers  | 8.04%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **nfl_streams_** |
+| #2 Most tweeted to  | **reddit2streams** |
+| #3 Most tweeted to  | **nflstreamshdnow** |
+| NewProfiles (less than 10 days) | 1.78%  |
+| Tweeters with < 10 followers  | 6.66%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +46,28 @@ The most popular user is: **yunusolduhttp**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RONALDO**  |
-| second  | **CRISTIANO**  |
-| third  | **WORLD** |
-| fourth  | **CUP**  |
-| fifth  | **MESSI**  |
+| first  | **TEXANS**  |
+| second  | **COWBOYS**  |
+| third  | **WEEK** |
+| fourth  | **14**  |
+| fifth  | **VS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-10BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2022-12-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.85%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (23.08%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Feferity11 @Ezrah83384880 @kojodarkoo What are you saying? He played all group stage games and didn’t even look li… https://t.co/JWMkUNTC88 |
+|We look like we spent way too much time courting OBJ instead for focusing on the Texans  smh!! Losing to the Texans |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **yunusolduhttp**  |
+| The most retweeted user is: **Alpha_Animosity**  |
 | ------------- |
-| RT @ishowspeedsui: goodbye ronaldo love you forever💔 https://t.co/mYd7kH5Q7s |
+| RT @RoobNBCS: TDs after halftime allowed by Eagles' defense last 6 games:0 … Steelers 0 … Texans 0 … Commanders0 … Colts1 … Packers0… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
