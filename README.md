@@ -1,43 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Texans"**
+&#x1F34E; **TOPIC = "Morocco"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-11TWEETS.png)
+![image](assets/2022-12-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @reddit2streams: 🔴NFL Week 14 Live📺@nfl_streams_ Watch NFL Sunday Night Football Week 14 Live Streams Free🔴NFL TV📺@nfl_streams_ Je… |
-| Who had #Texans 1H? |
-| RT @NFLonFOX: The Texans retake the lead over the Cowboys! 👏(via @NFL)https://t.co/UealhWCsLm |
+| Had that Amallah bicycle gone in, the second half woulda been much more exciting. Morocco giving it their all. |
+| i’m gonna need morocco to win this match |
+| RT @btsportfootball: So close to one of the goals of the tournament 😮Centre back Jawad El Yamiq hits the woodwork for Morocco!#FIFAWorl… |
 
-The most popular user is: **Alpha_Animosity**
-<div class="alert alert-block alert-danger"> RT @RoobNBCS: TDs after halftime allowed by Eagles' defense last 6 games:
-
-0 … Steelers 
-0 … Texans 
-0 … Commanders
-0 … Colts
-1 … Packers
-0…</div>
+The most popular user is: **who_sabrina**
+<div class="alert alert-block alert-danger"> RT @elonmusk: 🇲🇦🇲🇦 Congrats Morocco!! 🇲🇦🇲🇦</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nfl_streams_** |
-| #2 Most tweeted to  | **reddit2streams** |
-| #3 Most tweeted to  | **nflstreamshdnow** |
-| NewProfiles (less than 10 days) | 1.78%  |
-| Tweeters with < 10 followers  | 6.66%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **M10** |
+| #2 Most tweeted to  | **TrollFootball** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 1.94%  |
+| Tweeters with < 10 followers  | 7.88%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -46,28 +39,28 @@ The most popular user is: **Alpha_Animosity**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TEXANS**  |
-| second  | **COWBOYS**  |
-| third  | **WEEK** |
-| fourth  | **14**  |
-| fifth  | **VS**  |
+| first  | **MOROCCO**  |
+| second  | **FRANCE**  |
+| third  | **WORLD** |
+| fourth  | **VS**  |
+| fifth  | **CUP**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-11BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.85%) & **NEGATIVELY-SUBJECTIVE** (23.08%) **OBJECTIVE** (23.08%)
+![image](assets/2022-12-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|We look like we spent way too much time courting OBJ instead for focusing on the Texans  smh!! Losing to the Texans |
+|RT @waynojam: 🔴𝐆𝐨 𝐎𝐧 𝐋𝐢𝐯𝐞📺@fifaworldcupshdWatch 2022 FIFA World Cup Football/Soccer Match 2nd Semi-Finals Game Live Streams Online Free S… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Alpha_Animosity**  |
+| The most retweeted user is: **who_sabrina**  |
 | ------------- |
-| RT @RoobNBCS: TDs after halftime allowed by Eagles' defense last 6 games:0 … Steelers 0 … Texans 0 … Commanders0 … Colts1 … Packers0… |
+| RT @elonmusk: 🇲🇦🇲🇦 Congrats Morocco!! 🇲🇦🇲🇦 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
