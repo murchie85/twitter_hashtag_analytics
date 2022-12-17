@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "William"**
+&#x1F34E; **TOPIC = "Vikings"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-15TWEETS.png)
+![image](assets/2022-12-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @piersmorgan: Prince Harry publicly trashing his brother William, branding his father King Charles a liar, and attacking his grandmother… |
-| RT @Honey223344: The reason William and Charles have no response has nothing to do with being stoic. They know there's so much more Harry a… |
-| RT @daddyhope: This is Charlene Ruto, the daughter of Kenya’s new president, William Ruto.They have established the office of the First D… |
+| I wonder how many bet on the Vikings cause WOW! |
+| Please don’t  associate me with the Minnesota Vikings anymore. All jokes aside |
+| @voguish The Vikings trying forget all 33 right now 😂 |
 
-The most popular user is: **william_roeben**
-<div class="alert alert-block alert-danger"> RT @MikeSington: Jimmy Kimmel on Elon Musk: I have a problem with any richest man in the world who comes to this country to casually slande…</div>
+The most popular user is: **CiNDER_JOE**
+<div class="alert alert-block alert-danger"> RT @Vikings: Iconic. https://t.co/LiaJjsWjd8</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **piersmorgan** |
-| #2 Most tweeted to  | **Canellelabelle** |
-| #3 Most tweeted to  | **RoyallyBelle_** |
-| NewProfiles (less than 10 days) | 1.14%  |
-| Tweeters with < 10 followers  | 11.86%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **Vikings** |
+| #2 Most tweeted to  | **BaldyNFL** |
+| #3 Most tweeted to  | **nflstreamhub** |
+| NewProfiles (less than 10 days) | 0.86%  |
+| Tweeters with < 10 followers  | 6.32%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **william_roeben**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **WILLIAM**  |
-| second  | **HARRY**  |
-| third  | **PRINCE** |
-| fourth  | **CHARLES**  |
-| fifth  | **FAMILY**  |
+| first  | **VIKINGS**  |
+| second  | **COLTS**  |
+| third  | **@VIKINGS** |
+| fourth  | **GAME**  |
+| fifth  | **TEAM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-15BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-12-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @scobie: Jason Knauf—William’s former head of communications and current Earthshot board member—claims he was “asked to provide evidence… |
+|RT @WillRagatz: Officials blew this play dead, costing the Vikings a touchdown. Pittman was still fighting for yards. Absurd call. https://… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **william_roeben**  |
+| The most retweeted user is: **CiNDER_JOE**  |
 | ------------- |
-| RT @MikeSington: Jimmy Kimmel on Elon Musk: I have a problem with any richest man in the world who comes to this country to casually slande… |
+| RT @Vikings: Iconic. https://t.co/LiaJjsWjd8 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
