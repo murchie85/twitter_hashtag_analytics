@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Benzema"**
+&#x1F34E; **TOPIC = "Packers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-18TWEETS.png)
+![image](assets/2022-12-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RMadridEngineer: The biggest problem with Ronaldo and Benzema (specially) in their career has been the lack of proper PR management. Me… |
-| RT @Liberty_stores: GOOD EVENING @Liberty_stores ensures you comfortably stay at homes.FOR ORDERS☎️Call/WhatsApp: 0722948285Deliveries… |
-| all i gotta say if benzema was there it would of been a different story 😔 |
+| RT @packers: Gotta love Green Bay in December ❄️#GoPackGo https://t.co/n9WSkYHJLS |
+| In a corresponding move, The #Packers have signed RB Patrick Taylor back to the 53 Man Roster. Packers will now r… https://t.co/dOC5unx6VF |
+| RT @MySportsUpdate: The #Packers are releasing WR Sammy Watkins before tonight's game, per @TomPelissero. He'll go on waivers. |
 
-The most popular user is: **benzema_sexual**
-<div class="alert alert-block alert-danger"> RT @M10: No Benzy, No Party 🤷🏻‍♂️🇫🇷🏆</div>
+The most popular user is: **blkbeard2**
+<div class="alert alert-block alert-danger"> RT @packers: RT for a chance to win this @Showtyme_33 autographed jersey! ✍️ 
+
+#ProBowlVote | #WPMOYChallenge  
+
+Rules: https://t.co/CqYIsL…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CLINT419** |
-| #2 Most tweeted to  | **Benzema** |
-| #3 Most tweeted to  | **sportbible** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 6.12%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **TomPelissero** |
+| #2 Most tweeted to  | **NFL** |
+| #3 Most tweeted to  | **packers** |
+| NewProfiles (less than 10 days) | 0.78%  |
+| Tweeters with < 10 followers  | 7.1%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **benzema_sexual**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BENZEMA**  |
-| second  | **FRANCE**  |
-| third  | **KARIM** |
-| fourth  | **FRENCH**  |
-| fifth  | **WORLD**  |
+| first  | **PACKERS**  |
+| second  | **WATKINS**  |
+| third  | **SAMMY** |
+| fourth  | **WR**  |
+| fifth  | **RAMS**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-18BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2022-12-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Ultra_Suristic: Lol Madrid Twitter making useless Benzema tweets as if Karim's presence would've stopped corrupt penalties from being g… |
+|What are we watching for in tonight's #Packers game? @JenLada wants to see the Defense FINALLY show upPOD IT ⤵️📲… https://t.co/tgnS8FgfhE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **benzema_sexual**  |
+| The most retweeted user is: **blkbeard2**  |
 | ------------- |
-| RT @M10: No Benzy, No Party 🤷🏻‍♂️🇫🇷🏆 |
+| RT @packers: RT for a chance to win this @Showtyme_33 autographed jersey! ✍️ #ProBowlVote | #WPMOYChallenge  Rules: https://t.co/CqYIsL… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
