@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Packers"**
+&#x1F34E; **TOPIC = "Nike"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-19TWEETS.png)
+![image](assets/2022-12-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @packers: Gotta love Green Bay in December ❄️#GoPackGo https://t.co/n9WSkYHJLS |
-| In a corresponding move, The #Packers have signed RB Patrick Taylor back to the 53 Man Roster. Packers will now r… https://t.co/dOC5unx6VF |
-| RT @MySportsUpdate: The #Packers are releasing WR Sammy Watkins before tonight's game, per @TomPelissero. He'll go on waivers. |
+| RT @i_bilaal: Are you looking for a nice, top notch detailed and comfy footwear? This is the one.Price: 4000 Naira.Contact: 08144196485… |
+| RT @DailyLoud: New lawsuit claims that a Nike Executive was caught getting oral s*x from a subordinate at the company gym‼️👀 https://t.co/h… |
+| Nike US Restock: Nike Dunk High RetroWhite🇺🇸: https://t.co/xzcOvTNheD#Sneakers https://t.co/IE6Q5XrbpB |
 
-The most popular user is: **blkbeard2**
-<div class="alert alert-block alert-danger"> RT @packers: RT for a chance to win this @Showtyme_33 autographed jersey! ✍️ 
-
-#ProBowlVote | #WPMOYChallenge  
-
-Rules: https://t.co/CqYIsL…</div>
+The most popular user is: **Nike_Check_Mj**
+<div class="alert alert-block alert-danger"> RT @elonmusk: Yikes!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TomPelissero** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **packers** |
-| NewProfiles (less than 10 days) | 0.78%  |
-| Tweeters with < 10 followers  | 7.1%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **Nike** |
+| #2 Most tweeted to  | **Larteafarh** |
+| #3 Most tweeted to  | **DailyLoud** |
+| NewProfiles (less than 10 days) | 0.48%  |
+| Tweeters with < 10 followers  | 5.84%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -43,28 +39,28 @@ Rules: https://t.co/CqYIsL…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PACKERS**  |
-| second  | **WATKINS**  |
-| third  | **SAMMY** |
-| fourth  | **WR**  |
-| fifth  | **RAMS**  |
+| first  | **NIKE**  |
+| second  | **AIR**  |
+| third  | **LOW** |
+| fourth  | **JORDAN**  |
+| fifth  | **DUNK**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-19BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-12-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|What are we watching for in tonight's #Packers game? @JenLada wants to see the Defense FINALLY show upPOD IT ⤵️📲… https://t.co/tgnS8FgfhE |
+|RT @Nafeesah_Bukky: Nike Air Force 1Available in sizes 40-45Price - 15,000Location- ilorinNationwide delivery https://t.co/kU1C38GcUS |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **blkbeard2**  |
+| The most retweeted user is: **Nike_Check_Mj**  |
 | ------------- |
-| RT @packers: RT for a chance to win this @Showtyme_33 autographed jersey! ✍️ #ProBowlVote | #WPMOYChallenge  Rules: https://t.co/CqYIsL… |
+| RT @elonmusk: Yikes! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
