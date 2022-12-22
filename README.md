@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nike"**
+&#x1F34E; **TOPIC = "Merry Christmas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-21TWEETS.png)
+![image](assets/2022-12-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @i_bilaal: Are you looking for a nice, top notch detailed and comfy footwear? This is the one.Price: 4000 Naira.Contact: 08144196485… |
-| RT @DailyLoud: New lawsuit claims that a Nike Executive was caught getting oral s*x from a subordinate at the company gym‼️👀 https://t.co/h… |
-| Nike US Restock: Nike Dunk High RetroWhite🇺🇸: https://t.co/xzcOvTNheD#Sneakers https://t.co/IE6Q5XrbpB |
+| @LudmillaGeiszne @Eric_Mabius @hallmarkmovie @RandPope @MarthaMoonWater @kristintbooth Merry Christmas, Luci. I'm r… https://t.co/IwsCmwjG5K |
+| RT @Rag_Tagg: Merry Christmas, Toxic players. (Warning: explicit language) https://t.co/9QZcVbYYUQ |
+| Merry Christmas to all our staff, students, parents and friends - Enjoy! #christmas #cork #school #homealone… https://t.co/oMTfvXPKsC |
 
-The most popular user is: **Nike_Check_Mj**
-<div class="alert alert-block alert-danger"> RT @elonmusk: Yikes!</div>
+The most popular user is: **Zamir_215**
+<div class="alert alert-block alert-danger"> RT @NICKIMINAJ: Merry Christmas. May you receive everything your heart desires. 🎁🎄♥️💋 https://t.co/mnLs0yGFCx</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Nike** |
-| #2 Most tweeted to  | **Larteafarh** |
-| #3 Most tweeted to  | **DailyLoud** |
-| NewProfiles (less than 10 days) | 0.48%  |
-| Tweeters with < 10 followers  | 5.84%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **ScottBaio** |
+| #2 Most tweeted to  | **PatMcAfeeShow** |
+| #3 Most tweeted to  | **StealthEX_io** |
+| NewProfiles (less than 10 days) | 1.56%  |
+| Tweeters with < 10 followers  | 7.46%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Nike_Check_Mj**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NIKE**  |
-| second  | **AIR**  |
-| third  | **LOW** |
-| fourth  | **JORDAN**  |
-| fifth  | **DUNK**  |
+| first  | **CHRISTMAS**  |
+| second  | **MERRY**  |
+| third  | **HAPPY** |
+| fourth  | **NEW**  |
+| fifth  | **YEAR**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-21BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2022-12-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Nafeesah_Bukky: Nike Air Force 1Available in sizes 40-45Price - 15,000Location- ilorinNationwide delivery https://t.co/kU1C38GcUS |
+|@KimDotcom @elonmusk Merry Christmas and a Happy New Year! Best wishes to you and your family! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Nike_Check_Mj**  |
+| The most retweeted user is: **Zamir_215**  |
 | ------------- |
-| RT @elonmusk: Yikes! |
+| RT @NICKIMINAJ: Merry Christmas. May you receive everything your heart desires. 🎁🎄♥️💋 https://t.co/mnLs0yGFCx |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
