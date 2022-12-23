@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Merry Christmas"**
+&#x1F34E; **TOPIC = "Happy Holidays"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-22TWEETS.png)
+![image](assets/2022-12-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @LudmillaGeiszne @Eric_Mabius @hallmarkmovie @RandPope @MarthaMoonWater @kristintbooth Merry Christmas, Luci. I'm r… https://t.co/IwsCmwjG5K |
-| RT @Rag_Tagg: Merry Christmas, Toxic players. (Warning: explicit language) https://t.co/9QZcVbYYUQ |
-| Merry Christmas to all our staff, students, parents and friends - Enjoy! #christmas #cork #school #homealone… https://t.co/oMTfvXPKsC |
+| RT @katetorias: happy holidays!! here’s a Miku to send u cheer!! #HatsuneMiku #VOCALOID https://t.co/Mywld5g4WI |
+| RT @SimzArts: I wish everyone happy holidays. https://t.co/Sbyxif5NfQ |
+| 6/7... week. We will continue to have fun and spread that Sloth love as we reveal the next Super Sloth Artist on Mo… https://t.co/tBwGjk6Jv5 |
 
-The most popular user is: **Zamir_215**
-<div class="alert alert-block alert-danger"> RT @NICKIMINAJ: Merry Christmas. May you receive everything your heart desires. 🎁🎄♥️💋 https://t.co/mnLs0yGFCx</div>
+The most popular user is: **HorizonXp123**
+<div class="alert alert-block alert-danger"> RT @Pznguin: Got the Infinite 6900XT, have no use for it, and so the only real option I have left is to give it to one of you! 'Tis the sea…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ScottBaio** |
-| #2 Most tweeted to  | **PatMcAfeeShow** |
-| #3 Most tweeted to  | **StealthEX_io** |
-| NewProfiles (less than 10 days) | 1.56%  |
-| Tweeters with < 10 followers  | 7.46%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **belllmonts** |
+| #2 Most tweeted to  | **SimzArts** |
+| #3 Most tweeted to  | **PatMcAfeeShow** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 5.4%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Zamir_215**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRISTMAS**  |
-| second  | **MERRY**  |
-| third  | **HAPPY** |
-| fourth  | **NEW**  |
-| fifth  | **YEAR**  |
+| first  | **HAPPY**  |
+| second  | **HOLIDAYS**  |
+| third  | **CHRISTMAS** |
+| fourth  | **HOLIDAYS!**  |
+| fifth  | **EVERYONE**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-22BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-12-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@KimDotcom @elonmusk Merry Christmas and a Happy New Year! Best wishes to you and your family! |
+|Ep. 87:  Happy Holidays - How do you define Podcast Success? https://t.co/YLuQHacT4n #successful #PodcastAndChill… https://t.co/7zqdk2yYAK |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Zamir_215**  |
+| The most retweeted user is: **HorizonXp123**  |
 | ------------- |
-| RT @NICKIMINAJ: Merry Christmas. May you receive everything your heart desires. 🎁🎄♥️💋 https://t.co/mnLs0yGFCx |
+| RT @Pznguin: Got the Infinite 6900XT, have no use for it, and so the only real option I have left is to give it to one of you! 'Tis the sea… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
