@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Happy Holidays"**
+&#x1F34E; **TOPIC = "Christmas"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-23TWEETS.png)
+![image](assets/2022-12-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @katetorias: happy holidays!! here’s a Miku to send u cheer!! #HatsuneMiku #VOCALOID https://t.co/Mywld5g4WI |
-| RT @SimzArts: I wish everyone happy holidays. https://t.co/Sbyxif5NfQ |
-| 6/7... week. We will continue to have fun and spread that Sloth love as we reveal the next Super Sloth Artist on Mo… https://t.co/tBwGjk6Jv5 |
+| RT @NHavenNighthawk: Merry Christmas To All! https://t.co/Ulzae0f6gV @vintageicehky @MisterHotBalls |
+| RT @amartbee: A Christmas Present to Mister Piccolo https://t.co/RNRENO3tU2 |
+| RT @NOTIGANGNFT: Hey @monkeDAO this guys clean right? 👀 We’re giving him away to 1 winner of our Christmas Mystery Box going on right now… |
 
-The most popular user is: **HorizonXp123**
-<div class="alert alert-block alert-danger"> RT @Pznguin: Got the Infinite 6900XT, have no use for it, and so the only real option I have left is to give it to one of you! 'Tis the sea…</div>
+The most popular user is: **WubDubQuickzoom**
+<div class="alert alert-block alert-danger"> RT @dril: its fucked up how there are like 1000 christmas songs but only 1 song aboutr the boys being back in town</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **belllmonts** |
-| #2 Most tweeted to  | **SimzArts** |
-| #3 Most tweeted to  | **PatMcAfeeShow** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 5.4%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **artindetails** |
+| #2 Most tweeted to  | **Fashion_Hub4** |
+| #3 Most tweeted to  | **BTS_twt** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 6.3%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **HorizonXp123**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAPPY**  |
-| second  | **HOLIDAYS**  |
-| third  | **CHRISTMAS** |
-| fourth  | **HOLIDAYS!**  |
-| fifth  | **EVERYONE**  |
+| first  | **CHRISTMAS**  |
+| second  | **MERRY**  |
+| third  | **EVE** |
+| fourth  | **HAPPY**  |
+| fifth  | **DAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-23BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
+![image](assets/2022-12-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Ep. 87:  Happy Holidays - How do you define Podcast Success? https://t.co/YLuQHacT4n #successful #PodcastAndChill… https://t.co/7zqdk2yYAK |
+|RT @charts_k: Merry Christmas to those who celebrate! 💜🎄 https://t.co/IAIqPixxJZ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **HorizonXp123**  |
+| The most retweeted user is: **WubDubQuickzoom**  |
 | ------------- |
-| RT @Pznguin: Got the Infinite 6900XT, have no use for it, and so the only real option I have left is to give it to one of you! 'Tis the sea… |
+| RT @dril: its fucked up how there are like 1000 christmas songs but only 1 song aboutr the boys being back in town |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
