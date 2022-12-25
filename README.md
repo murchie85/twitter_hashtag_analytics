@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Christmas"**
+&#x1F34E; **TOPIC = "Bob Marley"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-24TWEETS.png)
+![image](assets/2022-12-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NHavenNighthawk: Merry Christmas To All! https://t.co/Ulzae0f6gV @vintageicehky @MisterHotBalls |
-| RT @amartbee: A Christmas Present to Mister Piccolo https://t.co/RNRENO3tU2 |
-| RT @NOTIGANGNFT: Hey @monkeDAO this guys clean right? 👀 We’re giving him away to 1 winner of our Christmas Mystery Box going on right now… |
+| RT @JamesL1927: BOB MARLEY playing football in London in the 1970s. https://t.co/V5l9zUEnwI |
+| RT @Super70sSports: George Harrison and Bob Marley sharing a bro shake is the fucking mojo I needed tonight. https://t.co/DagWDnUNW9 |
+| @PastorAlexLove Bob Marley is a god. |
 
-The most popular user is: **WubDubQuickzoom**
-<div class="alert alert-block alert-danger"> RT @dril: its fucked up how there are like 1000 christmas songs but only 1 song aboutr the boys being back in town</div>
+The most popular user is: **lxghnella**
+<div class="alert alert-block alert-danger"> RT @zrlbsn: To be Lauryn Hill’s daughter and Bob Marley’s granddaughter and to be reasoning like this is INSANE</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **artindetails** |
-| #2 Most tweeted to  | **Fashion_Hub4** |
-| #3 Most tweeted to  | **BTS_twt** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 6.3%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **PastorAlexLove** |
+| #2 Most tweeted to  | **Tjeerd001** |
+| #3 Most tweeted to  | **CoededMarshall** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 4.3%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **WubDubQuickzoom**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRISTMAS**  |
-| second  | **MERRY**  |
-| third  | **EVE** |
-| fourth  | **HAPPY**  |
-| fifth  | **DAY**  |
+| first  | **BOB**  |
+| second  | **MARLEY**  |
+| third  | **LOVE** |
+| fourth  | **MARLEY@PASTORALEXLOVE**  |
+| fifth  | **"THATS"**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-24BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2022-12-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @charts_k: Merry Christmas to those who celebrate! 💜🎄 https://t.co/IAIqPixxJZ |
+|Sorry, I see Bob Marley. https://t.co/1Jvafthh9U |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **WubDubQuickzoom**  |
+| The most retweeted user is: **lxghnella**  |
 | ------------- |
-| RT @dril: its fucked up how there are like 1000 christmas songs but only 1 song aboutr the boys being back in town |
+| RT @zrlbsn: To be Lauryn Hill’s daughter and Bob Marley’s granddaughter and to be reasoning like this is INSANE |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
