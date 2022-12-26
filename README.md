@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bob Marley"**
+&#x1F34E; **TOPIC = "Boxing Day"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-25TWEETS.png)
+![image](assets/2022-12-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JamesL1927: BOB MARLEY playing football in London in the 1970s. https://t.co/V5l9zUEnwI |
-| RT @Super70sSports: George Harrison and Bob Marley sharing a bro shake is the fucking mojo I needed tonight. https://t.co/DagWDnUNW9 |
-| @PastorAlexLove Bob Marley is a god. |
+| RT @BradleyCarl256: Sheila Gashumba has given us a boxing day bonanza😂 https://t.co/JedJXui7wL |
+| RT @NatsWoodward: Boxing Day Swim ❄️💙 #exmouth #devon#seaswim https://t.co/Ka7l2zaedj |
+| feel so ill. Is it the flu? cant go look for paracetamol as i can't lift my head.Happy boxing day. |
 
-The most popular user is: **lxghnella**
-<div class="alert alert-block alert-danger"> RT @zrlbsn: To be Lauryn Hill’s daughter and Bob Marley’s granddaughter and to be reasoning like this is INSANE</div>
+The most popular user is: **jeepers491**
+<div class="alert alert-block alert-danger"> RT @ahmedhankir: Hi 👋 I'm Ahmed, I'm a Muslim mental health doctor. For the last 12 years, I've swapped shifts so colleagues can celebrate…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PastorAlexLove** |
-| #2 Most tweeted to  | **Tjeerd001** |
-| #3 Most tweeted to  | **CoededMarshall** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 4.3%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **FossyGFX** |
+| #2 Most tweeted to  | **Roobet** |
+| #3 Most tweeted to  | **madhatterist2** |
+| NewProfiles (less than 10 days) | 0.58%  |
+| Tweeters with < 10 followers  | 5.06%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lxghnella**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOB**  |
-| second  | **MARLEY**  |
-| third  | **LOVE** |
-| fourth  | **MARLEY@PASTORALEXLOVE**  |
-| fifth  | **"THATS"**  |
+| first  | **BOXING**  |
+| second  | **DAY**  |
+| third  | **HAPPY** |
+| fourth  | **BET**  |
+| fifth  | **DAY!**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-25BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2022-12-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Sorry, I see Bob Marley. https://t.co/1Jvafthh9U |
+|@UNH0LYPRINCE … Pushing in, bringing up some boxing day leftovers, and his Christmas present. Leaving ut it by… https://t.co/EP48KKLqjo |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lxghnella**  |
+| The most retweeted user is: **jeepers491**  |
 | ------------- |
-| RT @zrlbsn: To be Lauryn Hill’s daughter and Bob Marley’s granddaughter and to be reasoning like this is INSANE |
+| RT @ahmedhankir: Hi 👋 I'm Ahmed, I'm a Muslim mental health doctor. For the last 12 years, I've swapped shifts so colleagues can celebrate… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
