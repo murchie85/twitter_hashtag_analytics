@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Boxing Day"**
+&#x1F34E; **TOPIC = "Pulisic"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-26TWEETS.png)
+![image](assets/2022-12-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BradleyCarl256: Sheila Gashumba has given us a boxing day bonanza😂 https://t.co/JedJXui7wL |
-| RT @NatsWoodward: Boxing Day Swim ❄️💙 #exmouth #devon#seaswim https://t.co/Ka7l2zaedj |
-| feel so ill. Is it the flu? cant go look for paracetamol as i can't lift my head.Happy boxing day. |
+| We need to get Sterling to the left cos Pulisic is just hogging space there.Mans can't cut and shoot from the rig… https://t.co/GXDwo5XCX8 |
+| They’re going to hurt my boy Pulisic 😢 |
+| RT @footballdaily: 📋 Chelsea XI: Arrizabalaga, Cucurella, James, Koulibaly, Thiago Silva, Zakaria, Jorginho, Mount, Sterling, Pulisic, Have… |
 
-The most popular user is: **jeepers491**
-<div class="alert alert-block alert-danger"> RT @ahmedhankir: Hi 👋 I'm Ahmed, I'm a Muslim mental health doctor. For the last 12 years, I've swapped shifts so colleagues can celebrate…</div>
+The most popular user is: **sarkodie_sky**
+<div class="alert alert-block alert-danger"> RT @CFCPys: My only wish for tomorrow : Graham Potter please, please, please start players who deserve to start. Pulisic, Hutchinson, Chukw…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FossyGFX** |
-| #2 Most tweeted to  | **Roobet** |
-| #3 Most tweeted to  | **madhatterist2** |
-| NewProfiles (less than 10 days) | 0.58%  |
-| Tweeters with < 10 followers  | 5.06%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **usmntonly** |
+| #2 Most tweeted to  | **ChelseaFC** |
+| #3 Most tweeted to  | **NBCSportsSoccer** |
+| NewProfiles (less than 10 days) | 0.66%  |
+| Tweeters with < 10 followers  | 3.8%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **jeepers491**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BOXING**  |
-| second  | **DAY**  |
-| third  | **HAPPY** |
-| fourth  | **BET**  |
-| fifth  | **DAY!**  |
+| first  | **PULISIC**  |
+| second  | **CHELSEA**  |
+| third  | **CHRISTIAN** |
+| fourth  | **STERLING**  |
+| fifth  | **GOAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-26BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2022-12-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@UNH0LYPRINCE … Pushing in, bringing up some boxing day leftovers, and his Christmas present. Leaving ut it by… https://t.co/EP48KKLqjo |
+|@johnproc57 Less, I would say. Pulisic more of a touch than the blatant shirt pull. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jeepers491**  |
+| The most retweeted user is: **sarkodie_sky**  |
 | ------------- |
-| RT @ahmedhankir: Hi 👋 I'm Ahmed, I'm a Muslim mental health doctor. For the last 12 years, I've swapped shifts so colleagues can celebrate… |
+| RT @CFCPys: My only wish for tomorrow : Graham Potter please, please, please start players who deserve to start. Pulisic, Hutchinson, Chukw… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
