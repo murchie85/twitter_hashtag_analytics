@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pulisic"**
+&#x1F34E; **TOPIC = "The Raiders"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-27TWEETS.png)
+![image](assets/2022-12-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| We need to get Sterling to the left cos Pulisic is just hogging space there.Mans can't cut and shoot from the rig… https://t.co/GXDwo5XCX8 |
-| They’re going to hurt my boy Pulisic 😢 |
-| RT @footballdaily: 📋 Chelsea XI: Arrizabalaga, Cucurella, James, Koulibaly, Thiago Silva, Zakaria, Jorginho, Mount, Sterling, Pulisic, Have… |
+| RT @MySportsUpdate: This is big: The #Raiders are benching Derek Carr and will start Jarrett Stidham vs. the #49ers.Carr has $40.4M that… |
+| RT @FieldYates: While the Raiders signed Derek Carr to a 3-year, $121.5M extension this past offseason, the team would incur a dead cap hit… |
+| I cant wait until next year when the raiders have no qb and go 2-15 and don’t sniff the playoffs for like 5ish years |
 
-The most popular user is: **sarkodie_sky**
-<div class="alert alert-block alert-danger"> RT @CFCPys: My only wish for tomorrow : Graham Potter please, please, please start players who deserve to start. Pulisic, Hutchinson, Chukw…</div>
+The most popular user is: **ed_hoeg**
+<div class="alert alert-block alert-danger"> RT @RexChapman: This is the Jerry Edmond. The guy from the Raiders game last week who was being yelled at and berated by the Raiders fan…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **usmntonly** |
-| #2 Most tweeted to  | **ChelseaFC** |
-| #3 Most tweeted to  | **NBCSportsSoccer** |
-| NewProfiles (less than 10 days) | 0.66%  |
-| Tweeters with < 10 followers  | 3.8%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **AdamSchefter** |
+| #2 Most tweeted to  | **Raiders** |
+| #3 Most tweeted to  | **espn** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 3.6%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **sarkodie_sky**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PULISIC**  |
-| second  | **CHELSEA**  |
-| third  | **CHRISTIAN** |
-| fourth  | **STERLING**  |
-| fifth  | **GOAL**  |
+| first  | **RAIDERS**  |
+| second  | **CARR**  |
+| third  | **DEREK** |
+| fourth  | **QB**  |
+| fifth  | **STIDHAM**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-27BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/2022-12-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@johnproc57 Less, I would say. Pulisic more of a touch than the blatant shirt pull. |
+|RT @VinnyBonsignore: Jarrett Stidham will be No. 1, Chase Garbers No. 2 for the @Raiders over the last two games. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **sarkodie_sky**  |
+| The most retweeted user is: **ed_hoeg**  |
 | ------------- |
-| RT @CFCPys: My only wish for tomorrow : Graham Potter please, please, please start players who deserve to start. Pulisic, Hutchinson, Chukw… |
+| RT @RexChapman: This is the Jerry Edmond. The guy from the Raiders game last week who was being yelled at and berated by the Raiders fan… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
