@@ -1,35 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "The Raiders"**
+&#x1F34E; **TOPIC = "#AndrewTate"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-28TWEETS.png)
+![image](assets/2022-12-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MySportsUpdate: This is big: The #Raiders are benching Derek Carr and will start Jarrett Stidham vs. the #49ers.Carr has $40.4M that… |
-| RT @FieldYates: While the Raiders signed Derek Carr to a 3-year, $121.5M extension this past offseason, the team would incur a dead cap hit… |
-| I cant wait until next year when the raiders have no qb and go 2-15 and don’t sniff the playoffs for like 5ish years |
+| For healthy weight loss Alpilean is the best way to go for both men and women.  #healthylifestyle #weightloss… https://t.co/qxyeTsiaj6 |
+| Andrew Taint still trying to find his d^ck after Greta cut if off yesterday.  No doubt in my mind this little man c… https://t.co/HliSvqEzgE |
+| RT @Bvweir: #ComedyOfTheYearWant a good laugh? Drop what you’re doing and watch how @GretaThunberg has humiliated a guy named #AndrewTa… |
 
-The most popular user is: **ed_hoeg**
-<div class="alert alert-block alert-danger"> RT @RexChapman: This is the Jerry Edmond. The guy from the Raiders game last week who was being yelled at and berated by the Raiders fan…</div>
+The most popular user is: **PeteC1981**
+<div class="alert alert-block alert-danger"> RT @racingblogger: 💷 If VAUBAN Wins the Grade 1 hurdle at Leopardstown today l'll give £50 CASH to one of you Lucky People!! 🏅
+
+To Enter:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AdamSchefter** |
-| #2 Most tweeted to  | **Raiders** |
-| #3 Most tweeted to  | **espn** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 3.6%|
+| #1 Most tweeted to  | **racingblogger** |
+| #2 Most tweeted to  | **GretaThunberg** |
+| #3 Most tweeted to  | **IndiaWilloughby** |
+| NewProfiles (less than 10 days) | 2.2%  |
+| Tweeters with < 10 followers  | 11.82%|
 | Tweeters with > 1000000 followers  | 0.14%  |
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ed_hoeg**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAIDERS**  |
-| second  | **CARR**  |
-| third  | **DEREK** |
-| fourth  | **QB**  |
-| fifth  | **STIDHAM**  |
+| first  | **ANDREWTATE**  |
+| second  | **GRETA**  |
+| third  | **GIVE** |
+| fourth  | **1**  |
+| fifth  | **CASH**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-28BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (73.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (26.67%)
+![image](assets/2022-12-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @VinnyBonsignore: Jarrett Stidham will be No. 1, Chase Garbers No. 2 for the @Raiders over the last two games. |
+|RT @racingblogger: 💷 If VAUBAN Wins the Grade 1 hurdle at Leopardstown today l'll give £50 CASH to one of you Lucky People!! 🏅To Enter:… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ed_hoeg**  |
+| The most retweeted user is: **PeteC1981**  |
 | ------------- |
-| RT @RexChapman: This is the Jerry Edmond. The guy from the Raiders game last week who was being yelled at and berated by the Raiders fan… |
+| RT @racingblogger: 💷 If VAUBAN Wins the Grade 1 hurdle at Leopardstown today l'll give £50 CASH to one of you Lucky People!! 🏅To Enter:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
