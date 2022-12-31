@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Don West"**
+&#x1F34E; **TOPIC = "Etihad"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2022-12-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-30TWEETS.png)
+![image](assets/2022-12-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SeanRossSapp: My favorite call of all time was from Don West and there's not a close number 2 |
-| RT @Fightful: Former TNA/IMPACT Announcer Don West Passes Away https://t.co/roKOf2oPSW |
-| RT @vintagepuro: In terms of mind-blowing moves, probably one of the Top 5 most iconic sequences of the 21st century. Elix Skipper &amp; Christ… |
+| @EFCdaily_ We picked up points at the Etihad, what else can I tell you really |
+| RT @ManCity: Arrived at the Etihad! 👋@OKX https://t.co/g9nnmkPI1q |
+| RT @theworldindex: Best Airlines In The World:1.🇸🇬 Singapore Airlines2.🇹🇷 Turkish Airlines3.🇶🇦 Qatar Airways4.🇦🇪 Emirates5.🇦🇪 Etihad… |
 
-The most popular user is: **don_sharp23**
-<div class="alert alert-block alert-danger"> RT @lindyli: Elon Musk let Andrew Tate back on Twitter and he got himself arrested
-
-Elon let Kanye West back on Twitter and he destroyed hi…</div>
+The most popular user is: **markzuez**
+<div class="alert alert-block alert-danger"> RT @ErlingHaaland: Goose bumps 💙 Etihad! #mancity https://t.co/WY8MXvnV1w</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **garrettkidney** |
-| #2 Most tweeted to  | **Fightful** |
-| #3 Most tweeted to  | **WrestlingCovers** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 1.08%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **ManCity** |
+| #2 Most tweeted to  | **goal** |
+| #3 Most tweeted to  | **premierleague** |
+| NewProfiles (less than 10 days) | 1.12%  |
+| Tweeters with < 10 followers  | 4.84%|
+| Tweeters with > 1000000 followers  | 0.58%  |
 
 
 
@@ -41,28 +39,28 @@ Elon let Kanye West back on Twitter and he destroyed hi…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DON**  |
-| second  | **WEST**  |
-| third  | **RIP** |
-| fourth  | **WRESTLING**  |
-| fifth  | **TNA**  |
+| first  | **ETIHAD**  |
+| second  | **@MANCITY:**  |
+| third  | **EVERTON** |
+| fourth  | **MANCITY**  |
+| fifth  | **WORLD**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-30BIO.png)
+## Twitter Bio Analysis![image](assets/2022-12-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/2022-12-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Not how the year should have ended rest in power Don West https://t.co/nNTaZDhPt9 |
+|@_lukerimmer Mental - that said same thing for the last Derby at Etihad. City also took the piss for that with tick… https://t.co/UtRuvvfEYj |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **don_sharp23**  |
+| The most retweeted user is: **markzuez**  |
 | ------------- |
-| RT @lindyli: Elon Musk let Andrew Tate back on Twitter and he got himself arrestedElon let Kanye West back on Twitter and he destroyed hi… |
+| RT @ErlingHaaland: Goose bumps 💙 Etihad! #mancity https://t.co/WY8MXvnV1w |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
