@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Etihad"**
+&#x1F34E; **TOPIC = "Dotson"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2022-12-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2022-12-31TWEETS.png)
+![image](assets/2023-01-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @EFCdaily_ We picked up points at the Etihad, what else can I tell you really |
-| RT @ManCity: Arrived at the Etihad! 👋@OKX https://t.co/g9nnmkPI1q |
-| RT @theworldindex: Best Airlines In The World:1.🇸🇬 Singapore Airlines2.🇹🇷 Turkish Airlines3.🇶🇦 Qatar Airways4.🇦🇪 Emirates5.🇦🇪 Etihad… |
+| @Robabernathy25 Dotson safest. Davis the HR swing |
+| @ZBrook @FFToday Need 2 z Jones, Dotson, and mcclaurin .5 ppr |
+| @JPFinlayNBCS Terry or Jon Allen. Dotson right up there with them along with Payne. Unless your talking about who c… https://t.co/U9bHk4FwFQ |
 
-The most popular user is: **markzuez**
-<div class="alert alert-block alert-danger"> RT @ErlingHaaland: Goose bumps 💙 Etihad! #mancity https://t.co/WY8MXvnV1w</div>
+The most popular user is: **2real_Dotson**
+<div class="alert alert-block alert-danger"> RT @onlycaelik: “approved” “accepted” “congratulations” all 2023.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ManCity** |
-| #2 Most tweeted to  | **goal** |
-| #3 Most tweeted to  | **premierleague** |
-| NewProfiles (less than 10 days) | 1.12%  |
-| Tweeters with < 10 followers  | 4.84%|
-| Tweeters with > 1000000 followers  | 0.58%  |
+| #1 Most tweeted to  | **FieldYates** |
+| #2 Most tweeted to  | **NFLFantasy** |
+| #3 Most tweeted to  | **FantasyPros** |
+| NewProfiles (less than 10 days) | 0.96%  |
+| Tweeters with < 10 followers  | 13.4%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **markzuez**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ETIHAD**  |
-| second  | **@MANCITY:**  |
-| third  | **EVERTON** |
-| fourth  | **MANCITY**  |
-| fifth  | **WORLD**  |
+| first  | **DOTSON**  |
+| second  | **JAHAN**  |
+| third  | **YARDS** |
+| fourth  | **CATCHES**  |
+| fifth  | **PPR**  |
 
 
-## Twitter Bio Analysis![image](assets/2022-12-31BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2022-12-31sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2023-01-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@_lukerimmer Mental - that said same thing for the last Derby at Etihad. City also took the piss for that with tick… https://t.co/UtRuvvfEYj |
+|@Ethan_P11 @AdamSchefter Get Dotson. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **markzuez**  |
+| The most retweeted user is: **2real_Dotson**  |
 | ------------- |
-| RT @ErlingHaaland: Goose bumps 💙 Etihad! #mancity https://t.co/WY8MXvnV1w |
+| RT @onlycaelik: “approved” “accepted” “congratulations” all 2023. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
