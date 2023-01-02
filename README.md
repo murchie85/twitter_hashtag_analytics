@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dotson"**
+&#x1F34E; **TOPIC = "Celine Dion"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-01TWEETS.png)
+![image](assets/2023-01-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Robabernathy25 Dotson safest. Davis the HR swing |
-| @ZBrook @FFToday Need 2 z Jones, Dotson, and mcclaurin .5 ppr |
-| @JPFinlayNBCS Terry or Jon Allen. Dotson right up there with them along with Payne. Unless your talking about who c… https://t.co/U9bHk4FwFQ |
+| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
+| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
+| I don’t know one celine dion song https://t.co/pxwSDBwhG3 |
 
-The most popular user is: **2real_Dotson**
-<div class="alert alert-block alert-danger"> RT @onlycaelik: “approved” “accepted” “congratulations” all 2023.</div>
+The most popular user is: **Oliviangelic**
+<div class="alert alert-block alert-danger"> RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FieldYates** |
-| #2 Most tweeted to  | **NFLFantasy** |
-| #3 Most tweeted to  | **FantasyPros** |
-| NewProfiles (less than 10 days) | 0.96%  |
-| Tweeters with < 10 followers  | 13.4%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **MsBizLady2** |
+| #2 Most tweeted to  | **PopBase** |
+| #3 Most tweeted to  | **RollingStone** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 3.02%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **2real_Dotson**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOTSON**  |
-| second  | **JAHAN**  |
-| third  | **YARDS** |
-| fourth  | **CATCHES**  |
-| fifth  | **PPR**  |
+| first  | **DION**  |
+| second  | **LIST!**  |
+| third  | **CELINE** |
+| fourth  | **BEING**  |
+| fifth  | **NEED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-01BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-01-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Ethan_P11 @AdamSchefter Get Dotson. |
+|RT @softfelines: @human_deity @dykebonez Yes, we do define women by sex. Yes, for the most part, we do know someone’s sex. Nobody is walkin… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **2real_Dotson**  |
+| The most retweeted user is: **Oliviangelic**  |
 | ------------- |
-| RT @onlycaelik: “approved” “accepted” “congratulations” all 2023. |
+| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
