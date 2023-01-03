@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Celine Dion"**
+&#x1F34E; **TOPIC = "Bart Scott"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-02TWEETS.png)
+![image](assets/2023-01-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
-| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
-| I don’t know one celine dion song https://t.co/pxwSDBwhG3 |
+| RT @NFL_DovKleiman: Bart Scott said that what Tee Higgins did was illegal and should've been penalize for lowering his helmet, blaming him… |
+| Bart Scott is a piece of trash dude. #FireBartScott |
+| RT @CincyZack: Bart Scott might be the biggest fucking loser on television. You can't expect him to be respectable talking football let alo… |
 
-The most popular user is: **Oliviangelic**
-<div class="alert alert-block alert-danger"> RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ</div>
+The most popular user is: **Black_Bart_7**
+<div class="alert alert-block alert-danger"> RT @DiscussingFilm: ‘SCOTT PILGRIM VS THE WORLD’ releases on Netflix on January 1.
+
+See what other movies are coming soon to Netflix: https…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MsBizLady2** |
-| #2 Most tweeted to  | **PopBase** |
-| #3 Most tweeted to  | **RollingStone** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 3.02%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **NFL_DovKleiman** |
+| #2 Most tweeted to  | **willie_lutz** |
+| #3 Most tweeted to  | **FauxJeaux** |
+| NewProfiles (less than 10 days) | 0.23%  |
+| Tweeters with < 10 followers  | 7.36%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Oliviangelic**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DION**  |
-| second  | **LIST!**  |
-| third  | **CELINE** |
-| fourth  | **BEING**  |
-| fifth  | **NEED**  |
+| first  | **SCOTT**  |
+| second  | **BART**  |
+| third  | **TEE** |
+| fourth  | **HIGGINS**  |
+| fifth  | **BLAMING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-02BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/2023-01-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @softfelines: @human_deity @dykebonez Yes, we do define women by sex. Yes, for the most part, we do know someone’s sex. Nobody is walkin… |
+|I literally tweet twice a week that Bart Scott is not a good part of first take and get up. Finally folks see it. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Oliviangelic**  |
+| The most retweeted user is: **Black_Bart_7**  |
 | ------------- |
-| RT @MsBizLady2: Not this Celine Dion not being on the list! We need names of every person that voted on this list! https://t.co/HbOm3GSGMJ |
+| RT @DiscussingFilm: ‘SCOTT PILGRIM VS THE WORLD’ releases on Netflix on January 1.See what other movies are coming soon to Netflix: https… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
