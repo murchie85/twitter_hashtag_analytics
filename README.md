@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Bart Scott"**
+&#x1F34E; **TOPIC = "#Speakerofthehouse"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-03TWEETS.png)
+![image](assets/2023-01-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NFL_DovKleiman: Bart Scott said that what Tee Higgins did was illegal and should've been penalize for lowering his helmet, blaming him… |
-| Bart Scott is a piece of trash dude. #FireBartScott |
-| RT @CincyZack: Bart Scott might be the biggest fucking loser on television. You can't expect him to be respectable talking football let alo… |
+| RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3 |
+| RT @BradBeauregardJ: Hearing Mike Gallagher whine about the Democrats eating popcorn while they watch the GOP clown show just made my day 😂… |
+| Anyone else love to hear all these pronouns during Republican speaker nominations? @laurenboebert just said he and… https://t.co/UKuOUJIdI6 |
 
-The most popular user is: **Black_Bart_7**
-<div class="alert alert-block alert-danger"> RT @DiscussingFilm: ‘SCOTT PILGRIM VS THE WORLD’ releases on Netflix on January 1.
-
-See what other movies are coming soon to Netflix: https…</div>
+The most popular user is: **msr117**
+<div class="alert alert-block alert-danger"> RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NFL_DovKleiman** |
-| #2 Most tweeted to  | **willie_lutz** |
-| #3 Most tweeted to  | **FauxJeaux** |
-| NewProfiles (less than 10 days) | 0.23%  |
-| Tweeters with < 10 followers  | 7.36%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **pilarwish** |
+| #2 Most tweeted to  | **GOP** |
+| #3 Most tweeted to  | **tedlieu** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 2.84%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ See what other movies are coming soon to Netflix: https…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SCOTT**  |
-| second  | **BART**  |
-| third  | **TEE** |
-| fourth  | **HIGGINS**  |
-| fifth  | **BLAMING**  |
+| first  | **SPEAKEROFTHEHOUSE**  |
+| second  | **MCCARTHY**  |
+| third  | **KEVIN** |
+| fourth  | **VOTE**  |
+| fifth  | **SPEAKER**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (46.67%)
+![image](assets/2023-01-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|I literally tweet twice a week that Bart Scott is not a good part of first take and get up. Finally folks see it. |
+|RT @GeekPrivateers: Albert Einstein: The definition of insanity is doing the same thing over and over and expecting different results.@Ho… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Black_Bart_7**  |
+| The most retweeted user is: **msr117**  |
 | ------------- |
-| RT @DiscussingFilm: ‘SCOTT PILGRIM VS THE WORLD’ releases on Netflix on January 1.See what other movies are coming soon to Netflix: https… |
+| RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
