@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Speakerofthehouse"**
+&#x1F34E; **TOPIC = "Chris Beard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-04TWEETS.png)
+![image](assets/2023-01-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3 |
-| RT @BradBeauregardJ: Hearing Mike Gallagher whine about the Democrats eating popcorn while they watch the GOP clown show just made my day 😂… |
-| Anyone else love to hear all these pronouns during Republican speaker nominations? @laurenboebert just said he and… https://t.co/UKuOUJIdI6 |
+| RT @AP_Top25: BREAKING: Texas has fired men's basketball coach Chris Beard, who faces a felony domestic family violence charge stemming fro… |
+| RT @JonRothstein: Sources: Texas has parted ways with Chris Beard. |
+| RT @drakectoll: in less than 12 months at texas:• chris beard was arrested for domestic violence• steve sarkisian went on a tirade of f-… |
 
-The most popular user is: **msr117**
-<div class="alert alert-block alert-danger"> RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3</div>
+The most popular user is: **beard_sports**
+<div class="alert alert-block alert-danger"> RT @RyanClifford: Chris Pronger suffered commotio cordis after taking a slap shot to the chest in 1998. 
+
+Praying for a similar recovery an…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **pilarwish** |
-| #2 Most tweeted to  | **GOP** |
-| #3 Most tweeted to  | **tedlieu** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 2.84%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **kbohls** |
+| #2 Most tweeted to  | **drakectoll** |
+| #3 Most tweeted to  | **JonRothstein** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 2.4%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **msr117**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SPEAKEROFTHEHOUSE**  |
-| second  | **MCCARTHY**  |
-| third  | **KEVIN** |
-| fourth  | **VOTE**  |
-| fifth  | **SPEAKER**  |
+| first  | **CHRIS**  |
+| second  | **BEARD**  |
+| third  | **TEXAS** |
+| fourth  | **FIRED**  |
+| fifth  | **COACH**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-04BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (73.33%)
+![image](assets/2023-01-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GeekPrivateers: Albert Einstein: The definition of insanity is doing the same thing over and over and expecting different results.@Ho… |
+|RT @statesman: Texas fires men's basketball coach Chris Beard; Rodney Terry to continue in his place https://t.co/XlouCqmNOM |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **msr117**  |
+| The most retweeted user is: **beard_sports**  |
 | ------------- |
-| RT @pilarwish: I don’t know who to credit for this, but we owe them huge credit. #Speakerofthehouse https://t.co/JsjWsesZj3 |
+| RT @RyanClifford: Chris Pronger suffered commotio cordis after taking a slap shot to the chest in 1998. Praying for a similar recovery an… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
