@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chris Beard"**
+&#x1F34E; **TOPIC = "De Gea"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-05TWEETS.png)
+![image](assets/2023-01-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AP_Top25: BREAKING: Texas has fired men's basketball coach Chris Beard, who faces a felony domestic family violence charge stemming fro… |
-| RT @JonRothstein: Sources: Texas has parted ways with Chris Beard. |
-| RT @drakectoll: in less than 12 months at texas:• chris beard was arrested for domestic violence• steve sarkisian went on a tirade of f-… |
+| RT @lauriewhitwell: Very curious goalkeeping by David de Gea.#MUFC |
+| And they're gonna give De Gea an extension?! |
+| Yeah David de Gea can't be for real💀 |
 
-The most popular user is: **beard_sports**
-<div class="alert alert-block alert-danger"> RT @RyanClifford: Chris Pronger suffered commotio cordis after taking a slap shot to the chest in 1998. 
+The most popular user is: **LeoCarter27**
+<div class="alert alert-block alert-danger"> RT @centredevils: David de Gea Appreciation Tweet. 
 
-Praying for a similar recovery an…</div>
+He has been IMMENSE this season ❤️ https://t.co/T9nBfT5nC4</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **kbohls** |
-| #2 Most tweeted to  | **drakectoll** |
-| #3 Most tweeted to  | **JonRothstein** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 2.4%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **DannyAaronsFUT** |
+| #2 Most tweeted to  | **ManUtd** |
+| #3 Most tweeted to  | **markgoldbridge** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 2.02%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -41,28 +41,28 @@ Praying for a similar recovery an…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHRIS**  |
-| second  | **BEARD**  |
-| third  | **TEXAS** |
-| fourth  | **FIRED**  |
-| fifth  | **COACH**  |
+| first  | **GEA**  |
+| second  | **DE**  |
+| third  | **DAVID** |
+| fourth  | **DOING**  |
+| fifth  | **GOAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-05BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2023-01-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @statesman: Texas fires men's basketball coach Chris Beard; Rodney Terry to continue in his place https://t.co/XlouCqmNOM |
+|That was a foul on Casemiro… But what is that awfulness by De Gea? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **beard_sports**  |
+| The most retweeted user is: **LeoCarter27**  |
 | ------------- |
-| RT @RyanClifford: Chris Pronger suffered commotio cordis after taking a slap shot to the chest in 1998. Praying for a similar recovery an… |
+| RT @centredevils: David de Gea Appreciation Tweet. He has been IMMENSE this season ❤️ https://t.co/T9nBfT5nC4 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
