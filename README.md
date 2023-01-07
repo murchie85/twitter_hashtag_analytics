@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "De Gea"**
+&#x1F34E; **TOPIC = "Dante Moore"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-06TWEETS.png)
+![image](assets/2023-01-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lauriewhitwell: Very curious goalkeeping by David de Gea.#MUFC |
-| And they're gonna give De Gea an extension?! |
-| Yeah David de Gea can't be for real💀 |
+| RT @On3Recruits: UCLA QB signee Dante Moore delivers a strike to LSU WR signee Jalen Brown for six🎯https://t.co/6afcZdBhOh https://t.co/H… |
+| RT @On3Recruits: ICYMI: All-American Bowl Practice Day 3 Top Performers via @CharlesPower &amp; @CodyBellaire💪 Read: https://t.co/MOruti0Og8… |
+| RT @247Sports: .@chris_hummer talked with some of the top recruits in 2023 about NIL 👀https://t.co/uWB50LGSPn https://t.co/8LQBtx7wMb |
 
-The most popular user is: **LeoCarter27**
-<div class="alert alert-block alert-danger"> RT @centredevils: David de Gea Appreciation Tweet. 
+The most popular user is: **tufshowcasetour**
+<div class="alert alert-block alert-danger"> RT @Hayesfawcett3: BREAKING: Five-Star QB Dante Moore tells me he has committed to UCLA!
 
-He has been IMMENSE this season ❤️ https://t.co/T9nBfT5nC4</div>
+The 6’3 205 QB from Detroit, MI had been committe…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DannyAaronsFUT** |
-| #2 Most tweeted to  | **ManUtd** |
-| #3 Most tweeted to  | **markgoldbridge** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 2.02%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **On3Recruits** |
+| #2 Most tweeted to  | **AABonNBC** |
+| #3 Most tweeted to  | **247Sports** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 2.29%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -41,28 +41,28 @@ He has been IMMENSE this season ❤️ https://t.co/T9nBfT5nC4</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GEA**  |
-| second  | **DE**  |
-| third  | **DAVID** |
-| fourth  | **DOING**  |
-| fifth  | **GOAL**  |
+| first  | **MOORE**  |
+| second  | **DANTE**  |
+| third  | **QB** |
+| fourth  | **SIGNEE**  |
+| fifth  | **UCLA**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2023-01-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|That was a foul on Casemiro… But what is that awfulness by De Gea? |
+|RT @BruinReport: #UCLA QB signee Dante Moore has been the "Alpha Dog" at All-American Bowl practices so far: https://t.co/8v1soSEY6d |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LeoCarter27**  |
+| The most retweeted user is: **tufshowcasetour**  |
 | ------------- |
-| RT @centredevils: David de Gea Appreciation Tweet. He has been IMMENSE this season ❤️ https://t.co/T9nBfT5nC4 |
+| RT @Hayesfawcett3: BREAKING: Five-Star QB Dante Moore tells me he has committed to UCLA!The 6’3 205 QB from Detroit, MI had been committe… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
