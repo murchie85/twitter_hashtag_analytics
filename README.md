@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dante Moore"**
+&#x1F34E; **TOPIC = "#2YearsOfDriversLicense"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-07TWEETS.png)
+![image](assets/2023-01-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @On3Recruits: UCLA QB signee Dante Moore delivers a strike to LSU WR signee Jalen Brown for six🎯https://t.co/6afcZdBhOh https://t.co/H… |
-| RT @On3Recruits: ICYMI: All-American Bowl Practice Day 3 Top Performers via @CharlesPower &amp; @CodyBellaire💪 Read: https://t.co/MOruti0Og8… |
-| RT @247Sports: .@chris_hummer talked with some of the top recruits in 2023 about NIL 👀https://t.co/uWB50LGSPn https://t.co/8LQBtx7wMb |
+| RT @LiviesHQ: happy 2 years to the song that started it all 💜🚙 #2yearsofdriverslicense https://t.co/bzQ1c3eigp |
+| i’m EMOTIONAL #2YearsOfDriversLicense https://t.co/cK91K3pYUi |
+| RT @LiviesHQ: happy 2 years to the song that started it all 💜🚙 #2yearsofdriverslicense https://t.co/bzQ1c3eigp |
 
-The most popular user is: **tufshowcasetour**
-<div class="alert alert-block alert-danger"> RT @Hayesfawcett3: BREAKING: Five-Star QB Dante Moore tells me he has committed to UCLA!
-
-The 6’3 205 QB from Detroit, MI had been committe…</div>
+The most popular user is: **jiarasbabe**
+<div class="alert alert-block alert-danger"> RT @LiviesHQ: happy 2 years to the song that started it all 💜🚙 #2yearsofdriverslicense https://t.co/bzQ1c3eigp</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **On3Recruits** |
-| #2 Most tweeted to  | **AABonNBC** |
-| #3 Most tweeted to  | **247Sports** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 2.29%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **LiviesHQ** |
+| #2 Most tweeted to  | **oliviarodrigo** |
+| #3 Most tweeted to  | **hterodrigo** |
+| NewProfiles (less than 10 days) | 0.92%  |
+| Tweeters with < 10 followers  | 2.0%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ The 6’3 205 QB from Detroit, MI had been committe…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOORE**  |
-| second  | **DANTE**  |
-| third  | **QB** |
-| fourth  | **SIGNEE**  |
-| fifth  | **UCLA**  |
+| first  | **2YEARSOFDRIVERSLICENSE**  |
+| second  | **YEARS**  |
+| third  | **SONG** |
+| fourth  | **HAPPY**  |
+| fifth  | **2**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-07BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-07sentiment.png)
+![image](assets/2023-01-08sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BruinReport: #UCLA QB signee Dante Moore has been the "Alpha Dog" at All-American Bowl practices so far: https://t.co/8v1soSEY6d |
+|DL means so much to so many people, and it’s crazy how far it has come #2YearsOfDriversLicense @LiviesHQ https://t.co/uBbq61jlEU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tufshowcasetour**  |
+| The most retweeted user is: **jiarasbabe**  |
 | ------------- |
-| RT @Hayesfawcett3: BREAKING: Five-Star QB Dante Moore tells me he has committed to UCLA!The 6’3 205 QB from Detroit, MI had been committe… |
+| RT @LiviesHQ: happy 2 years to the song that started it all 💜🚙 #2yearsofdriverslicense https://t.co/bzQ1c3eigp |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
