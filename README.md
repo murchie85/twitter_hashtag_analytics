@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Roquan"**
+&#x1F34E; **TOPIC = "Velma"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-10TWEETS.png)
+![image](assets/2023-01-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @The_Bizness22 @DrewBanned Like I said schedule is part of it but you can’t explain the entire points gap away. You… https://t.co/tbFRzAuAvo |
-| RT @LRCanik: ROQUAN THE RAVEN.LET'S FUCKING GOOOOOO. |
-| RT @HoodieRamey: Roquan Smith extension calls for  https://t.co/7deIUNrQVK |
+| RT @StopTweetingMia: Stop shipping Velma and Daphne. Start shipping Velma and Daphne's dykey Scottish cousin, Shannon Blake. https://t.co/3… |
+| ‘Velma’ Delivers Raunchy, Forgettable Fun4/5 Mystery Machines https://t.co/JXtKKsz8ex via @themarysue |
+| RT @thecartoonnews: #Velma is trending with over 12k+ tweets, with 520 tweets in the last hour.The new Scooby Doo spinoff series premiere… |
 
-The most popular user is: **TheNiggaCypress**
-<div class="alert alert-block alert-danger"> RT @RapSheet: Per Saint Omni, The #Ravens agree in principle with All-Pro LB Roquan Smith — now the highest paid at his position in NFL his…</div>
+The most popular user is: **chaoticcosmos32**
+<div class="alert alert-block alert-danger"> RT @MythicalLlamaXO: OMG LESBIAN VELMA FINALLY CANON CANON IN THE MOVIES LETS GOOOOOO https://t.co/0ilx2uid1q</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RapSheet** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **sgellison** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 2.94%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **DiscussingFilm** |
+| #2 Most tweeted to  | **velmatheseries** |
+| #3 Most tweeted to  | **IronAidanD** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 3.06%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **TheNiggaCypress**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROQUAN**  |
-| second  | **SMITH**  |
-| third  | **RAVENS** |
-| fourth  | **LB**  |
-| fifth  | **PAID**  |
+| first  | **VELMA**  |
+| second  | **HBO**  |
+| third  | **NEW** |
+| fourth  | **MAX**  |
+| fifth  | **TRAILER**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-10BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2023-01-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (53.85%) **OBJECTIVE** (30.77%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@DanSnydersYacht Lamar getting franchised after Roquan deal. Not happening. |
+|RT @DiscussingFilm: The new trailer for ‘VELMA’, releasing tomorrow on HBO Max.Read our review: https://t.co/JUuzaTMs57 https://t.co/Z57P… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheNiggaCypress**  |
+| The most retweeted user is: **chaoticcosmos32**  |
 | ------------- |
-| RT @RapSheet: Per Saint Omni, The #Ravens agree in principle with All-Pro LB Roquan Smith — now the highest paid at his position in NFL his… |
+| RT @MythicalLlamaXO: OMG LESBIAN VELMA FINALLY CANON CANON IN THE MOVIES LETS GOOOOOO https://t.co/0ilx2uid1q |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
