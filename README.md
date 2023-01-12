@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Velma"**
+&#x1F34E; **TOPIC = "Latinx"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-11TWEETS.png)
+![image](assets/2023-01-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @StopTweetingMia: Stop shipping Velma and Daphne. Start shipping Velma and Daphne's dykey Scottish cousin, Shannon Blake. https://t.co/3… |
-| ‘Velma’ Delivers Raunchy, Forgettable Fun4/5 Mystery Machines https://t.co/JXtKKsz8ex via @themarysue |
-| RT @thecartoonnews: #Velma is trending with over 12k+ tweets, with 520 tweets in the last hour.The new Scooby Doo spinoff series premiere… |
+| RT @IncarcerNation: Arkansas has massive problems on many fronts and agitating and virtue-signaling to the far right on "wokeism" and a mer… |
+| @realTuckFrumper Arkansas Gov. Sarah Sanders dying Cancer mocked anti-Latinx scared why anti-woke that not nice Gov. Sanders 🤬🤪 |
+| RT @realTuckFrumper: Arkansas Gov. Sarah Sanders bans word 'Latinx' as part of 'anti-woke' crusade https://t.co/dc7j4ygFWH |
 
-The most popular user is: **chaoticcosmos32**
-<div class="alert alert-block alert-danger"> RT @MythicalLlamaXO: OMG LESBIAN VELMA FINALLY CANON CANON IN THE MOVIES LETS GOOOOOO https://t.co/0ilx2uid1q</div>
+The most popular user is: **Lewdihose**
+<div class="alert alert-block alert-danger"> RT @buckadeath: Hispanics                   Hispanics
+when you call            when you call
+them a slur                 them latinx https:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DiscussingFilm** |
-| #2 Most tweeted to  | **velmatheseries** |
-| #3 Most tweeted to  | **IronAidanD** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 3.06%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **MayraFlores2022** |
+| #2 Most tweeted to  | **NotHoodlum** |
+| #3 Most tweeted to  | **duty2warn** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 4.76%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **chaoticcosmos32**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **VELMA**  |
-| second  | **HBO**  |
-| third  | **NEW** |
-| fourth  | **MAX**  |
-| fifth  | **TRAILER**  |
+| first  | **SARAH**  |
+| second  | **SANDERS**  |
+| third  | **ARKANSAS** |
+| fourth  | **HUCKABEE**  |
+| fifth  | **TERM**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-11BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (15.38%) & **NEGATIVELY-SUBJECTIVE** (53.85%) **OBJECTIVE** (30.77%)
+![image](assets/2023-01-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiscussingFilm: The new trailer for ‘VELMA’, releasing tomorrow on HBO Max.Read our review: https://t.co/JUuzaTMs57 https://t.co/Z57P… |
+|Arkansas Gov. Sarah Huckabee Sanders Bans The Term ‘Latinx’ From Official Government Use | The Daily Caller  https://t.co/jKDbpweiYU |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **chaoticcosmos32**  |
+| The most retweeted user is: **Lewdihose**  |
 | ------------- |
-| RT @MythicalLlamaXO: OMG LESBIAN VELMA FINALLY CANON CANON IN THE MOVIES LETS GOOOOOO https://t.co/0ilx2uid1q |
+| RT @buckadeath: Hispanics                   Hispanicswhen you call            when you callthem a slur                 them latinx https:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
