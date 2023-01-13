@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Latinx"**
+&#x1F34E; **TOPIC = "#XboxFreeCodeFriday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-12TWEETS.png)
+![image](assets/2023-01-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @IncarcerNation: Arkansas has massive problems on many fronts and agitating and virtue-signaling to the far right on "wokeism" and a mer… |
-| @realTuckFrumper Arkansas Gov. Sarah Sanders dying Cancer mocked anti-Latinx scared why anti-woke that not nice Gov. Sanders 🤬🤪 |
-| RT @realTuckFrumper: Arkansas Gov. Sarah Sanders bans word 'Latinx' as part of 'anti-woke' crusade https://t.co/dc7j4ygFWH |
+| @majornelson Cowboy Bebop would be a masterpiece to me. And would be JRPG for sure. I love RPG and idm would love t… https://t.co/cwTWefp5TS |
+| @majornelson #xboxfreecodefriday How about an open world bleach game where you fight hollows and you can coordinate… https://t.co/HI73OYmGDL |
+| @majornelson #XboxFreeCodeFriday Fairy Tail |
 
-The most popular user is: **Lewdihose**
-<div class="alert alert-block alert-danger"> RT @buckadeath: Hispanics                   Hispanics
-when you call            when you call
-them a slur                 them latinx https:…</div>
+The most popular user is: **alamekarim1**
+<div class="alert alert-block alert-danger"> RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win codes for a big bundle of titles published by @EA on Xbox One - Xbox…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MayraFlores2022** |
-| #2 Most tweeted to  | **NotHoodlum** |
-| #3 Most tweeted to  | **duty2warn** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 4.76%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **K4rn4ge** |
+| #3 Most tweeted to  | **theSMLpodcast** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 13.41%|
+| Tweeters with > 1000000 followers  | 0.41%  |
 
 
 
@@ -41,28 +39,28 @@ them a slur                 them latinx https:…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SARAH**  |
-| second  | **SANDERS**  |
-| third  | **ARKANSAS** |
-| fourth  | **HUCKABEE**  |
-| fifth  | **TERM**  |
+| first  | **XBOXFREECODEFRIDAY**  |
+| second  | **XBOXFREECODEFRIDAY@MAJORNELSON**  |
+| third  | **GAME** |
+| fourth  | **XBOX**  |
+| fifth  | **RPG**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-12BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-12sentiment.png)
+![image](assets/2023-01-13sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Arkansas Gov. Sarah Huckabee Sanders Bans The Term ‘Latinx’ From Official Government Use | The Daily Caller  https://t.co/jKDbpweiYU |
+|@majornelson I know games already exist but I would love to play My Hero Academia as a full-on RPG, complete with c… https://t.co/p0by0UwNe1 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Lewdihose**  |
+| The most retweeted user is: **alamekarim1**  |
 | ------------- |
-| RT @buckadeath: Hispanics                   Hispanicswhen you call            when you callthem a slur                 them latinx https:… |
+| RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win codes for a big bundle of titles published by @EA on Xbox One - Xbox… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
