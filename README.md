@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#XboxFreeCodeFriday"**
+&#x1F34E; **TOPIC = "Gabe Vincent"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-13TWEETS.png)
+![image](assets/2023-01-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @majornelson Cowboy Bebop would be a masterpiece to me. And would be JRPG for sure. I love RPG and idm would love t… https://t.co/cwTWefp5TS |
-| @majornelson #xboxfreecodefriday How about an open world bleach game where you fight hollows and you can coordinate… https://t.co/HI73OYmGDL |
-| @majornelson #XboxFreeCodeFriday Fairy Tail |
+| RT @AdamNBorai: Gabe Vincent... You have my attention https://t.co/6Va6AlEQaT |
+| RT @NBA: Gabe Vincent's career-high 28 points power the @MiamiHEAT at home!Bam Adebayo: 24 PTS, 12 REBJimmy Butler: 17 PTS, 11 REBMax S… |
+| Gabe Vincent looks like a Drake/JR Smith love child. |
 
-The most popular user is: **alamekarim1**
-<div class="alert alert-block alert-danger"> RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win codes for a big bundle of titles published by @EA on Xbox One - Xbox…</div>
+The most popular user is: **Gabe_Mayhem**
+<div class="alert alert-block alert-danger"> RT @sadhorrorr: by vincent van gogh https://t.co/MJIX7auR2v</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **majornelson** |
-| #2 Most tweeted to  | **K4rn4ge** |
-| #3 Most tweeted to  | **theSMLpodcast** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 13.41%|
-| Tweeters with > 1000000 followers  | 0.41%  |
+| #1 Most tweeted to  | **HeatvsHaters** |
+| #2 Most tweeted to  | **NBA** |
+| #3 Most tweeted to  | **MiamiHEAT** |
+| NewProfiles (less than 10 days) | 0.27%  |
+| Tweeters with < 10 followers  | 1.37%|
+| Tweeters with > 1000000 followers  | 0.33%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **alamekarim1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **XBOXFREECODEFRIDAY**  |
-| second  | **XBOXFREECODEFRIDAY@MAJORNELSON**  |
-| third  | **GAME** |
-| fourth  | **XBOX**  |
-| fifth  | **RPG**  |
+| first  | **VINCENT**  |
+| second  | **GABE**  |
+| third  | **POINTS** |
+| fourth  | **THREE**  |
+| fifth  | **PTS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-13BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/2023-01-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@majornelson I know games already exist but I would love to play My Hero Academia as a full-on RPG, complete with c… https://t.co/p0by0UwNe1 |
+|RT @HeatvsHaters: Gabe Vincent against the Bucks: 🔺28 points (career-high)🔺6 assists 🔺3 rebounds🔺2 steals🔺10/17 FG (5/11 3P) |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alamekarim1**  |
+| The most retweeted user is: **Gabe_Mayhem**  |
 | ------------- |
-| RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win codes for a big bundle of titles published by @EA on Xbox One - Xbox… |
+| RT @sadhorrorr: by vincent van gogh https://t.co/MJIX7auR2v |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
