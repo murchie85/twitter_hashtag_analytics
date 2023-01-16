@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Arsenal"**
+&#x1F34E; **TOPIC = "Dr. King"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-15TWEETS.png)
+![image](assets/2023-01-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @EddieNketiah9 @Arsenal The whole of London actually belongs to us bro |
-| RT @backagain: INJECT THIS INTO MY VEINS.We turned up on their turf, outclassed them, embarrassed them, left them with salt in their mout… |
-| RT @Arsenal: Ballers 🏀 https://t.co/kkgU1r1dxc |
+| RT @JDunlap1974: 🚂🚂 🇺🇲MONDAY MORNING PATRIOT FOLLOW " Dr. Martin Luther King Jr. would not support Joe Biden " DROP YOUR HANDLES AND RETWEE… |
+| Today we honor the life, legacy, and leadership of Dr. Martin Luther King, Jr. Parc Gardens •… https://t.co/Tyh17QdtAl |
+| RT @CAIRMN: “The time is always right to do what is right.” You could start right now by doing a small part to treat people with dignity, c… |
 
-The most popular user is: **Kkenfer**
-<div class="alert alert-block alert-danger"> RT @Arsenal: 🔴 More than three points.
-
-✊ Always forward - together https://t.co/RsupXz9IbI</div>
+The most popular user is: **mathillustrated**
+<div class="alert alert-block alert-danger"> RT @ava: An ignorant question leads Dr. King to offer a strong lesson in black history in two minutes flat. I can tell that he’s slightly i…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **EddieNketiah9** |
-| #3 Most tweeted to  | **afcstuff** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 3.78%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **DarrigoMelanie** |
+| #3 Most tweeted to  | **Phil_Lewis_** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 3.24%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **Kkenfer**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARSENAL**  |
-| second  | **@ARSENAL**  |
-| third  | **@ARSENAL:** |
-| fourth  | **TOTTENHAM**  |
-| fifth  | **PART**  |
+| first  | **DR**  |
+| second  | **KING**  |
+| third  | **MARTIN** |
+| fourth  | **LUTHER**  |
+| fifth  | **JR**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-15BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-01-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Arsenal: 🔴 More than three points.✊ Always forward - together https://t.co/RsupXz9IbI |
+|On this day we celebrate the life &amp; legacy of Dr Martin Luther King Jr. We must always strive for equality &amp; to do… https://t.co/BkI1BJD00z |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kkenfer**  |
+| The most retweeted user is: **mathillustrated**  |
 | ------------- |
-| RT @Arsenal: 🔴 More than three points.✊ Always forward - together https://t.co/RsupXz9IbI |
+| RT @ava: An ignorant question leads Dr. King to offer a strong lesson in black history in two minutes flat. I can tell that he’s slightly i… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
