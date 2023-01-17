@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dr. King"**
+&#x1F34E; **TOPIC = "#tuesdayvibe"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-16TWEETS.png)
+![image](assets/2023-01-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JDunlap1974: 🚂🚂 🇺🇲MONDAY MORNING PATRIOT FOLLOW " Dr. Martin Luther King Jr. would not support Joe Biden " DROP YOUR HANDLES AND RETWEE… |
-| Today we honor the life, legacy, and leadership of Dr. Martin Luther King, Jr. Parc Gardens •… https://t.co/Tyh17QdtAl |
-| RT @CAIRMN: “The time is always right to do what is right.” You could start right now by doing a small part to treat people with dignity, c… |
+| RT @Coolbreeze_YT: New favorite LMG RAPP-H@shoutgamers @TwitchSharing@Retweet_Twitch@blazedRTs@Pulse_Rts @SUM_RTs @sme_rt @SGH_RTs @St… |
+| RT @tedlieu: The greatest, most loyal defender of Republican Congressman Anthony Devolder, aka George Santos, is Republican @SpeakerMcCarth… |
+| #GodMorningTuesdayIs salvation possible by going in the refuge of any Guru?Download the App Sant Rampal Ji Mahar… https://t.co/xTY1fQkK1Q |
 
-The most popular user is: **mathillustrated**
-<div class="alert alert-block alert-danger"> RT @ava: An ignorant question leads Dr. King to offer a strong lesson in black history in two minutes flat. I can tell that he’s slightly i…</div>
+The most popular user is: **Sarakhera1**
+<div class="alert alert-block alert-danger"> RT @DSSNewsUpdates: “Earn to live ! Living to earn would make you just a machine. Be satisfied, contentment is the greatest wealth; work ha…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **DarrigoMelanie** |
-| #3 Most tweeted to  | **Phil_Lewis_** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 3.24%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **DSSNewsUpdates** |
+| #2 Most tweeted to  | **Etsy** |
+| #3 Most tweeted to  | **tedlieu** |
+| NewProfiles (less than 10 days) | 1.3%  |
+| Tweeters with < 10 followers  | 9.5%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mathillustrated**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DR**  |
-| second  | **KING**  |
-| third  | **MARTIN** |
-| fourth  | **LUTHER**  |
-| fifth  | **JR**  |
+| first  | **TUESDAYVIBE**  |
+| second  | **GREATEST**  |
+| third  | **MAKE** |
+| fourth  | **WORK**  |
+| fifth  | **LIVE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-16BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-01-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|On this day we celebrate the life &amp; legacy of Dr Martin Luther King Jr. We must always strive for equality &amp; to do… https://t.co/BkI1BJD00z |
+|RT @MixMrc: Best Free Products and Giveaways Pay Pal Amazon Giftcards 2023 &gt;&gt;&gt; https://t.co/AnLDEEWvIs#tuesdayvibe #FYP #giveaway #win… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mathillustrated**  |
+| The most retweeted user is: **Sarakhera1**  |
 | ------------- |
-| RT @ava: An ignorant question leads Dr. King to offer a strong lesson in black history in two minutes flat. I can tell that he’s slightly i… |
+| RT @DSSNewsUpdates: “Earn to live ! Living to earn would make you just a machine. Be satisfied, contentment is the greatest wealth; work ha… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
