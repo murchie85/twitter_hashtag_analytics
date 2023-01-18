@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#tuesdayvibe"**
+&#x1F34E; **TOPIC = "Bank of America"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-17TWEETS.png)
+![image](assets/2023-01-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Coolbreeze_YT: New favorite LMG RAPP-H@shoutgamers @TwitchSharing@Retweet_Twitch@blazedRTs@Pulse_Rts @SUM_RTs @sme_rt @SGH_RTs @St… |
-| RT @tedlieu: The greatest, most loyal defender of Republican Congressman Anthony Devolder, aka George Santos, is Republican @SpeakerMcCarth… |
-| #GodMorningTuesdayIs salvation possible by going in the refuge of any Guru?Download the App Sant Rampal Ji Mahar… https://t.co/xTY1fQkK1Q |
+| RT @RiOTcomedy: Bank of America to their customers #boa https://t.co/OrjgjUiUL3 |
+| Bank of America trending for something bad? Noooo can’t be. Not the same place that wouldn’t allow me to deposit cash 🤦🏾‍♂️ |
+| RT @GNCordova: So, I woke up to find hella Zelle deposits missing from my Bank of America account. When I called customer service they said… |
 
-The most popular user is: **Sarakhera1**
-<div class="alert alert-block alert-danger"> RT @DSSNewsUpdates: “Earn to live ! Living to earn would make you just a machine. Be satisfied, contentment is the greatest wealth; work ha…</div>
+The most popular user is: **Dontjackkthat**
+<div class="alert alert-block alert-danger"> RT @GRDecter: Bank of America just posted a $1.1 billion provision for credit losses
+
+JP Morgan’s was $2.3 billion
+
+This is a very bad sign…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DSSNewsUpdates** |
-| #2 Most tweeted to  | **Etsy** |
-| #3 Most tweeted to  | **tedlieu** |
-| NewProfiles (less than 10 days) | 1.3%  |
-| Tweeters with < 10 followers  | 9.5%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **pastorpapi23** |
+| #2 Most tweeted to  | **Feven_Kay** |
+| #3 Most tweeted to  | **thePLAINESTjane** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 3.22%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Sarakhera1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TUESDAYVIBE**  |
-| second  | **GREATEST**  |
-| third  | **MAKE** |
-| fourth  | **WORK**  |
-| fifth  | **LIVE**  |
+| first  | **BANK**  |
+| second  | **AMERICA**  |
+| third  | **ZELLE** |
+| fourth  | **MONEY**  |
+| fifth  | **CUSTOMERS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-17BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (40.0%)
+![image](assets/2023-01-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MixMrc: Best Free Products and Giveaways Pay Pal Amazon Giftcards 2023 &gt;&gt;&gt; https://t.co/AnLDEEWvIs#tuesdayvibe #FYP #giveaway #win… |
+|RT @BankBetterGuy: “Bank of America referred all questions to Zelle”A Zelle spokesperson said “Customers should refer to the bank if they… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sarakhera1**  |
+| The most retweeted user is: **Dontjackkthat**  |
 | ------------- |
-| RT @DSSNewsUpdates: “Earn to live ! Living to earn would make you just a machine. Be satisfied, contentment is the greatest wealth; work ha… |
+| RT @GRDecter: Bank of America just posted a $1.1 billion provision for credit lossesJP Morgan’s was $2.3 billionThis is a very bad sign… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
