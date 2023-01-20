@@ -1,43 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tron"**
+&#x1F34E; **TOPIC = "#twug"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-19TWEETS.png)
+![image](assets/2023-01-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @hamishsteele: OMG! Apparently Jared Leto has wanted to be part of the Tron franchise since he was 13! Google "Jared Leto 13" for more i… |
-| RT @DiscussingFilm: ‘TRON ARES’ is in the works at Disney with Jared Leto set to star &amp; Joachim Rønning set to direct.Filming will begin… |
-| @destiny_thememe and then he tron'd all over those guys |
+| RT @sylvia_joliet: @DonnieWahlberg I'm having a really bad day today please can I get a #twug |
+| RT @DonnieWahlberg: Worldwide #twug fest! ❤️🌎 |
+| @DonnieWahlberg #TWUG love you @DonnieWahlberg 🤖❤️♾️💫✨ https://t.co/obCIrBBRFY |
 
-The most popular user is: **tron_katron**
-<div class="alert alert-block alert-danger"> RT @jihanicorn: $100 | 1.450.000 IDR • 24 Hours 💜
+The most popular user is: **Jadwiga19760909**
+<div class="alert alert-block alert-danger"> RT @DonnieWahlberg: Blockhead Family,
 
-- RT &amp; Follow
+I’m delivering a virtual twitter hug (aka #twug) to all those in need. It’s #TWUG time!
 
-@cryptobullzs
-@ExartaOfficial 
-@Fonspromo 🔔
-@CGAAHosts 🔔</div>
+Let’s goooo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DiscussingFilm** |
-| #2 Most tweeted to  | **hamishsteele** |
-| #3 Most tweeted to  | **Wario64** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 2.28%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **DonnieWahlberg** |
+| #2 Most tweeted to  | **UniqueNatasha08** |
+| #3 Most tweeted to  | **jennyraej1979** |
+| NewProfiles (less than 10 days) | 0.73%  |
+| Tweeters with < 10 followers  | 3.08%|
+| Tweeters with > 1000000 followers  | 1.07%  |
 
 
 
@@ -46,28 +43,28 @@ The most popular user is: **tron_katron**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LETO**  |
-| second  | **TRON**  |
-| third  | **JARED** |
-| fourth  | **SET**  |
-| fifth  | **DISNEY**  |
+| first  | **TWUG**  |
+| second  | **@DONNIEWAHLBERG**  |
+| third  | **LOVE** |
+| fourth  | **LET’S**  |
+| fifth  | **@DONNIEWAHLBERG:**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-19BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2023-01-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiscussingFilm: ‘TRON ARES’ is in the works at Disney with Jared Leto set to star &amp; Joachim Rønning set to direct.Filming will begin… |
+|@DonnieWahlberg Can you see me now? @DonnieWahlberg #TWUG https://t.co/5NUNNEdQg8 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **tron_katron**  |
+| The most retweeted user is: **Jadwiga19760909**  |
 | ------------- |
-| RT @jihanicorn: $100 | 1.450.000 IDR • 24 Hours 💜- RT &amp; Follow@cryptobullzs@ExartaOfficial @Fonspromo 🔔@CGAAHosts 🔔 |
+| RT @DonnieWahlberg: Blockhead Family,I’m delivering a virtual twitter hug (aka #twug) to all those in need. It’s #TWUG time!Let’s goooo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
