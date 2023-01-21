@@ -1,40 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#twug"**
+&#x1F34E; **TOPIC = "Beyoncé"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-20TWEETS.png)
+![image](assets/2023-01-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @sylvia_joliet: @DonnieWahlberg I'm having a really bad day today please can I get a #twug |
-| RT @DonnieWahlberg: Worldwide #twug fest! ❤️🌎 |
-| @DonnieWahlberg #TWUG love you @DonnieWahlberg 🤖❤️♾️💫✨ https://t.co/obCIrBBRFY |
+| RT @PopBase: Beyoncé stuns at her private Dubai performance. https://t.co/Ksl21PMrEz |
+| @PopCrave love her but does she know she’s beyonce and that ofc people will film😭😭 |
+| #beyonce is sanging and these runs and vocals shouldn’t be missed B! |
 
-The most popular user is: **Jadwiga19760909**
-<div class="alert alert-block alert-danger"> RT @DonnieWahlberg: Blockhead Family,
-
-I’m delivering a virtual twitter hug (aka #twug) to all those in need. It’s #TWUG time!
-
-Let’s goooo…</div>
+The most popular user is: **__versiani**
+<div class="alert alert-block alert-danger"> RT @Beyonce: act i   RENAISSANCE   7.29 
+https://t.co/6sfw3sBWnz https://t.co/FPPhEW1OTK</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DonnieWahlberg** |
-| #2 Most tweeted to  | **UniqueNatasha08** |
-| #3 Most tweeted to  | **jennyraej1979** |
-| NewProfiles (less than 10 days) | 0.73%  |
-| Tweeters with < 10 followers  | 3.08%|
-| Tweeters with > 1000000 followers  | 1.07%  |
+| #1 Most tweeted to  | **beyoncepress** |
+| #2 Most tweeted to  | **B7Album** |
+| #3 Most tweeted to  | **beyonceparkwood** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 1.94%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -43,28 +40,28 @@ Let’s goooo…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TWUG**  |
-| second  | **@DONNIEWAHLBERG**  |
-| third  | **LOVE** |
-| fourth  | **LET’S**  |
-| fifth  | **@DONNIEWAHLBERG:**  |
+| first  | **BEYONCÉ**  |
+| second  | **DUBAI**  |
+| third  | **BLUE** |
+| fourth  | **IVY**  |
+| fifth  | **PERFORMING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-20BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2023-01-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@DonnieWahlberg Can you see me now? @DonnieWahlberg #TWUG https://t.co/5NUNNEdQg8 |
+|Beyoncé performing songs from The Gift love that for me |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Jadwiga19760909**  |
+| The most retweeted user is: **__versiani**  |
 | ------------- |
-| RT @DonnieWahlberg: Blockhead Family,I’m delivering a virtual twitter hug (aka #twug) to all those in need. It’s #TWUG time!Let’s goooo… |
+| RT @Beyonce: act i   RENAISSANCE   7.29 https://t.co/6sfw3sBWnz https://t.co/FPPhEW1OTK |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
