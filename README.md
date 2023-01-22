@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Beyoncé"**
+&#x1F34E; **TOPIC = "Antony"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-21TWEETS.png)
+![image](assets/2023-01-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PopBase: Beyoncé stuns at her private Dubai performance. https://t.co/Ksl21PMrEz |
-| @PopCrave love her but does she know she’s beyonce and that ofc people will film😭😭 |
-| #beyonce is sanging and these runs and vocals shouldn’t be missed B! |
+| @rossbridgeford @amitk_31 @SpursMass Exactly. Look at Chelsea's signings. United signing Sancho and Antony.....not… https://t.co/dDdh6eEGga |
+| RT @EBL2017: Judge Antony as a ball retention specialist and not as an output-based player and your perception of him will change. He conti… |
+| RT @deoors: Antony scored on his debut and thought it was his breakout szn, the whole time it's just acne. |
 
-The most popular user is: **__versiani**
-<div class="alert alert-block alert-danger"> RT @Beyonce: act i   RENAISSANCE   7.29 
-https://t.co/6sfw3sBWnz https://t.co/FPPhEW1OTK</div>
+The most popular user is: **Antony_arsenal**
+<div class="alert alert-block alert-danger"> RT @EddieNketiah9: Your defence is in trouble!!! 🎶📞 #GodsPlan @Arsenal https://t.co/Dw9ltLW7T7</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **beyoncepress** |
-| #2 Most tweeted to  | **B7Album** |
-| #3 Most tweeted to  | **beyonceparkwood** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.94%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **deoors** |
+| #2 Most tweeted to  | **CFCRaf2** |
+| #3 Most tweeted to  | **PoojaMedia** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 3.1%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -40,28 +39,28 @@ https://t.co/6sfw3sBWnz https://t.co/FPPhEW1OTK</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BEYONCÉ**  |
-| second  | **DUBAI**  |
-| third  | **BLUE** |
-| fourth  | **IVY**  |
-| fifth  | **PERFORMING**  |
+| first  | **ANTONY**  |
+| second  | **ARSENAL**  |
+| third  | **VS** |
+| fourth  | **BALL**  |
+| fifth  | **UNITED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-21BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (33.33%)
+![image](assets/2023-01-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (36.36%) & **NEGATIVELY-SUBJECTIVE** (27.27%) **OBJECTIVE** (36.36%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Beyoncé performing songs from The Gift love that for me |
+|RT @deoors: Antony scored on his debut and thought it was his breakout szn, the whole time it's just acne. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **__versiani**  |
+| The most retweeted user is: **Antony_arsenal**  |
 | ------------- |
-| RT @Beyonce: act i   RENAISSANCE   7.29 https://t.co/6sfw3sBWnz https://t.co/FPPhEW1OTK |
+| RT @EddieNketiah9: Your defence is in trouble!!! 🎶📞 #GodsPlan @Arsenal https://t.co/Dw9ltLW7T7 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
