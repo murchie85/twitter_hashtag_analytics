@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Antony"**
+&#x1F34E; **TOPIC = "Wizards"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-22TWEETS.png)
+![image](assets/2023-01-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @rossbridgeford @amitk_31 @SpursMass Exactly. Look at Chelsea's signings. United signing Sancho and Antony.....not… https://t.co/dDdh6eEGga |
-| RT @EBL2017: Judge Antony as a ball retention specialist and not as an output-based player and your perception of him will change. He conti… |
-| RT @deoors: Antony scored on his debut and thought it was his breakout szn, the whole time it's just acne. |
+| RT @BobbyMarks42: Trade breakdownThe 2028 2nd could be the Wizards own that was sent to LAL as part of the Westbrook trade. https://t.co/… |
+| No the Wizards Lakers got the positive end 😒 https://t.co/c1gJYwqM13 |
+| @LegionHoops wizards should be in the top five imo |
 
-The most popular user is: **Antony_arsenal**
-<div class="alert alert-block alert-danger"> RT @EddieNketiah9: Your defence is in trouble!!! 🎶📞 #GodsPlan @Arsenal https://t.co/Dw9ltLW7T7</div>
+The most popular user is: **Mrho3in1sti**
+<div class="alert alert-block alert-danger"> RT @WizardLandSui: Good day wizards, over the last few days we’ve been incommunicado, not without a reason as we’ve been working and we’re…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **deoors** |
-| #2 Most tweeted to  | **CFCRaf2** |
-| #3 Most tweeted to  | **PoojaMedia** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 3.1%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ShamsCharania** |
+| #2 Most tweeted to  | **wojespn** |
+| #3 Most tweeted to  | **LegionHoops** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.06%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Antony_arsenal**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ANTONY**  |
-| second  | **ARSENAL**  |
-| third  | **VS** |
-| fourth  | **BALL**  |
-| fifth  | **UNITED**  |
+| first  | **WIZARDS**  |
+| second  | **LAKERS**  |
+| third  | **RUI** |
+| fourth  | **HACHIMURA**  |
+| fifth  | **TRADE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-22BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (36.36%) & **NEGATIVELY-SUBJECTIVE** (27.27%) **OBJECTIVE** (36.36%)
+![image](assets/2023-01-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @deoors: Antony scored on his debut and thought it was his breakout szn, the whole time it's just acne. |
+|@ShamsCharania @TheAthletic @Stadium Wtf are the wizards thinking |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Antony_arsenal**  |
+| The most retweeted user is: **Mrho3in1sti**  |
 | ------------- |
-| RT @EddieNketiah9: Your defence is in trouble!!! 🎶📞 #GodsPlan @Arsenal https://t.co/Dw9ltLW7T7 |
+| RT @WizardLandSui: Good day wizards, over the last few days we’ve been incommunicado, not without a reason as we’ve been working and we’re… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
