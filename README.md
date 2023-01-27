@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Panthers"**
+&#x1F34E; **TOPIC = "Tommy Fury"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-26TWEETS.png)
+![image](assets/2023-01-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @KyleBaileyClub @Panthers @RapSheet Breaks my 💔 that Coach Wilks wasn’t given opportunity to show what he could do.… https://t.co/AN0aCt0Pk7 |
-| RT @josephperson: Panthers owner David Tepper goes with Frank Reich over Steve Wilks.Why Reich was the choice, what he might do at the qua… |
-| RT @RapSheet: The #Panthers are hiring former #Colts coach Frank Reich as their new head coach, sources tell me and @TomPelissero. The orga… |
+| RT @HappyPunchPromo: .@LoganPaul predicts Tommy Fury will back out against Jake Paul for a third time… 🫠 https://t.co/qloG2jzUsZ |
+| Jake Paul 🆚 Tommy Fury on our platforms 👀👀 @espn In my @steveaustinBSR voice- Give me a HELL YEAAAA 🍻… https://t.co/ktbLT6HliR |
+| RT @talkSPORT: It's official 🚨Jake Paul and Tommy Fury will finally meet in the ring https://t.co/Tgl66REOqQ |
 
-The most popular user is: **YRGPRESIDENTIAL**
-<div class="alert alert-block alert-danger"> RT @Panthers: A message from QB1️⃣ #MondayMotivation https://t.co/5qDUHuVHhA</div>
+The most popular user is: **onlyalexx19**
+<div class="alert alert-block alert-danger"> RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.
+
+Tyson promises he &amp; Papa will make Tommy retire…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Panthers** |
-| #2 Most tweeted to  | **RapSheet** |
-| #3 Most tweeted to  | **TomPelissero** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 4.1%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **jakepaul** |
+| #2 Most tweeted to  | **MichaelBensonn** |
+| #3 Most tweeted to  | **tommytntfury** |
+| NewProfiles (less than 10 days) | 0.42%  |
+| Tweeters with < 10 followers  | 8.7%|
+| Tweeters with > 1000000 followers  | 0.42%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **YRGPRESIDENTIAL**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **PANTHERS**  |
-| second  | **REICH**  |
-| third  | **COACH** |
-| fourth  | **FRANK**  |
-| fifth  | **HEAD**  |
+| first  | **TOMMY**  |
+| second  | **FURY**  |
+| third  | **PAUL** |
+| fourth  | **JAKE**  |
+| fifth  | **BORN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-26BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2023-01-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|With the Frank Reich hire, the Panthers just became my favorite landing spot for Billy Jeans. https://t.co/JtcdCUrSEI |
+|RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.Tyson promises he &amp; Papa will make Tommy retire… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **YRGPRESIDENTIAL**  |
+| The most retweeted user is: **onlyalexx19**  |
 | ------------- |
-| RT @Panthers: A message from QB1️⃣ #MondayMotivation https://t.co/5qDUHuVHhA |
+| RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.Tyson promises he &amp; Papa will make Tommy retire… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
