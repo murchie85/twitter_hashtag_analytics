@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tommy Fury"**
+&#x1F34E; **TOPIC = "Sam Smith"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-27TWEETS.png)
+![image](assets/2023-01-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HappyPunchPromo: .@LoganPaul predicts Tommy Fury will back out against Jake Paul for a third time… 🫠 https://t.co/qloG2jzUsZ |
-| Jake Paul 🆚 Tommy Fury on our platforms 👀👀 @espn In my @steveaustinBSR voice- Give me a HELL YEAAAA 🍻… https://t.co/ktbLT6HliR |
-| RT @talkSPORT: It's official 🚨Jake Paul and Tommy Fury will finally meet in the ring https://t.co/Tgl66REOqQ |
+| RT @TheWomanHolmes: Men like Sam Smith are now SO confident in their fetishes, &amp; confident that we should all just accept them that they no… |
+| RT @jo_bartosch: Traumatised OH. Showed her clips of Sam Smith wobbling his moobs &amp; prancing round like a fat, pasty Cardi B. She’s staring… |
+| @anarchowhovian Ah. I don’t know Sam Smith so I wasn’t saying if they’d done something good or bad.I was just say… https://t.co/mufS5RkfxD |
 
-The most popular user is: **onlyalexx19**
-<div class="alert alert-block alert-danger"> RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.
-
-Tyson promises he &amp; Papa will make Tommy retire…</div>
+The most popular user is: **ImluisaMaria**
+<div class="alert alert-block alert-danger"> RT @giftedwthoughts: playing around with the whole sam smith and adele being the same voice theory and woah.. https://t.co/PSfTTdqA4P</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jakepaul** |
-| #2 Most tweeted to  | **MichaelBensonn** |
-| #3 Most tweeted to  | **tommytntfury** |
-| NewProfiles (less than 10 days) | 0.42%  |
-| Tweeters with < 10 followers  | 8.7%|
-| Tweeters with > 1000000 followers  | 0.42%  |
+| #1 Most tweeted to  | **TheWomanHolmes** |
+| #2 Most tweeted to  | **groupiexcx** |
+| #3 Most tweeted to  | **Dominiquetaegon** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -41,28 +39,28 @@ Tyson promises he &amp; Papa will make Tommy retire…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOMMY**  |
-| second  | **FURY**  |
-| third  | **PAUL** |
-| fourth  | **JAKE**  |
-| fifth  | **BORN**  |
+| first  | **SAM**  |
+| second  | **SMITH**  |
+| third  | **CONFIDENT** |
+| fourth  | **PEOPLE**  |
+| fifth  | **MEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-27BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2023-01-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.Tyson promises he &amp; Papa will make Tommy retire… |
+|@hraeesvelgr bestie 🙏🏻 sam smith goes by they/them |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **onlyalexx19**  |
+| The most retweeted user is: **ImluisaMaria**  |
 | ------------- |
-| RT @jakepaul: Tommy has no excuses now…Baby’s born. Money’s massive. Immigration no issue.Tyson promises he &amp; Papa will make Tommy retire… |
+| RT @giftedwthoughts: playing around with the whole sam smith and adele being the same voice theory and woah.. https://t.co/PSfTTdqA4P |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
