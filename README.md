@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Sam Smith"**
+&#x1F34E; **TOPIC = "Go Birds"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-28TWEETS.png)
+![image](assets/2023-01-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheWomanHolmes: Men like Sam Smith are now SO confident in their fetishes, &amp; confident that we should all just accept them that they no… |
-| RT @jo_bartosch: Traumatised OH. Showed her clips of Sam Smith wobbling his moobs &amp; prancing round like a fat, pasty Cardi B. She’s staring… |
-| @anarchowhovian Ah. I don’t know Sam Smith so I wasn’t saying if they’d done something good or bad.I was just say… https://t.co/mufS5RkfxD |
+| GO BIRDS BABY |
+| @JamesMartinSJ @Eagles Go BIRDS! |
+| RT @sixers: GOOD MORNING AND GO BIRDS. 🦅 |
 
-The most popular user is: **ImluisaMaria**
-<div class="alert alert-block alert-danger"> RT @giftedwthoughts: playing around with the whole sam smith and adele being the same voice theory and woah.. https://t.co/PSfTTdqA4P</div>
+The most popular user is: **jjparker084**
+<div class="alert alert-block alert-danger"> RT @RussoMichael15: Go birds @tyler_olivieri https://t.co/c2R4vvwoHJ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheWomanHolmes** |
-| #2 Most tweeted to  | **groupiexcx** |
-| #3 Most tweeted to  | **Dominiquetaegon** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 4.0%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **mccrystal_alex** |
+| #2 Most tweeted to  | **JustinLever3** |
+| #3 Most tweeted to  | **Eagles** |
+| NewProfiles (less than 10 days) | 0.04%  |
+| Tweeters with < 10 followers  | 3.22%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **ImluisaMaria**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SAM**  |
-| second  | **SMITH**  |
-| third  | **CONFIDENT** |
-| fourth  | **PEOPLE**  |
-| fifth  | **MEN**  |
+| first  | **GO**  |
+| second  | **BIRDS**  |
+| third  | **BIRDS!** |
+| fourth  | **FLYEAGLESFLY**  |
+| fifth  | **🦅**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-28BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (20.0%)
+![image](assets/2023-01-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@hraeesvelgr bestie 🙏🏻 sam smith goes by they/them |
+|@Willing2GoHamm @OTR2Victory You have been there since day 1 and appreciate your support. Go Birds! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ImluisaMaria**  |
+| The most retweeted user is: **jjparker084**  |
 | ------------- |
-| RT @giftedwthoughts: playing around with the whole sam smith and adele being the same voice theory and woah.. https://t.co/PSfTTdqA4P |
+| RT @RussoMichael15: Go birds @tyler_olivieri https://t.co/c2R4vvwoHJ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
