@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#TheLastOfUsHBO"**
+&#x1F34E; **TOPIC = "James Gunn"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-01-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-30TWEETS.png)
+![image](assets/2023-01-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @clarissacacete: “are there already pills in the bottle?” “enough to kill a horse” #TheLastOfUsHBO https://t.co/FlS8lx8Sbm |
-| RT @DerekMHayes: “i’m old, i’m satisfied, and you were my purpose.” #TheLastOfUsHBO https://t.co/7GIZayOSHU |
-| RT @RodrigoDraws: i'm so depressed#TheLastOfUs #TheLastOfUsHBO https://t.co/ksqZu34TK1 |
+| "I think he's a nice guy. I think he's been misled by a lot of people, including the old regime at this company. Bu… https://t.co/ZaD1kxhF7s |
+| RT @screenrant: James Gunn adressed Shazam star Zachary Levi's Twitter controversy that began over the weekend."I can’t be changing my pl… |
+| RT @IGN: James Gunn revealed that Shazam! 2 leads into The Flash, which "resets everything." It then goes into a mostly unrelated Blue Beet… |
 
-The most popular user is: **jackiegackie**
-<div class="alert alert-block alert-danger"> RT @BellaRamsey: We’re on the highway to hell 🤘🏻💥 #TheLastOfUsHBO https://t.co/PiWI3GVI82</div>
+The most popular user is: **5E00N**
+<div class="alert alert-block alert-danger"> RT @DiscussingFilm: James Gunn’s ‘Superman’ film will be titled ‘SUPERMAN: LEGACY’.
+
+The film releases on July 11, 2025 in theaters. https:…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tommypocket** |
-| #2 Most tweeted to  | **BellaRamsey** |
-| #3 Most tweeted to  | **flanaganfilm** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 5.74%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **DiscussingFilm** |
+| #2 Most tweeted to  | **DCComics** |
+| #3 Most tweeted to  | **IGN** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 4.92%|
+| Tweeters with > 1000000 followers  | 0.3%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jackiegackie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **THELASTOFUSHBO**  |
-| second  | **EPISODE**  |
-| third  | **THELASTOFUS** |
-| fourth  | **LAST**  |
-| fifth  | **US**  |
+| first  | **JAMES**  |
+| second  | **GUNN**  |
+| third  | **@DISCUSSINGFILM:** |
+| fourth  | **DC**  |
+| fifth  | **DCU**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-30BIO.png)
+## Twitter Bio Analysis![image](assets/2023-01-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+![image](assets/2023-01-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @klarksbtch: #BILLANDFRANK: im begging god to let me pick this one time #TheLastOfUs #TheLastOfUsHBO https://t.co/cGwae2DUcL |
+|RT @DiscussingFilm: ‘THE BRAVE AND THE BOLD’ will introduce the Bat-Family to James Gunn’s DCU, beginning with a new actor as Batman and Da… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jackiegackie**  |
+| The most retweeted user is: **5E00N**  |
 | ------------- |
-| RT @BellaRamsey: We’re on the highway to hell 🤘🏻💥 #TheLastOfUsHBO https://t.co/PiWI3GVI82 |
+| RT @DiscussingFilm: James Gunn’s ‘Superman’ film will be titled ‘SUPERMAN: LEGACY’.The film releases on July 11, 2025 in theaters. https:… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
