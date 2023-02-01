@@ -1,38 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "James Gunn"**
+&#x1F34E; **TOPIC = "TAEKOOK"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-01-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-01-31TWEETS.png)
+![image](assets/2023-02-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| "I think he's a nice guy. I think he's been misled by a lot of people, including the old regime at this company. Bu… https://t.co/ZaD1kxhF7s |
-| RT @screenrant: James Gunn adressed Shazam star Zachary Levi's Twitter controversy that began over the weekend."I can’t be changing my pl… |
-| RT @IGN: James Gunn revealed that Shazam! 2 leads into The Flash, which "resets everything." It then goes into a mostly unrelated Blue Beet… |
+| RT @vminggukx: THE TAEKOOK INSTAGRAM LIVE https://t.co/F2xCDJ9GT9 |
+| RT @vanteficient: INTERACT WITH THIS IF YOU WERE A PART OF 900,000 PEOPLE WHO WATCHED TAEKOOK LIVE https://t.co/NCwaATT6Xf |
+| RT @dionysustkk: taekook can't stop talking about eachother in their lives AND I'M LOVING IT |
 
-The most popular user is: **5E00N**
-<div class="alert alert-block alert-danger"> RT @DiscussingFilm: James Gunn’s ‘Superman’ film will be titled ‘SUPERMAN: LEGACY’.
+The most popular user is: **Taekook_NadiaCr**
+<div class="alert alert-block alert-danger"> RT @bts_bighit: Me, Myself, and j-hope 
+‘All New Hope’
+Special 8 Photo-Folio
 
-The film releases on July 11, 2025 in theaters. https:…</div>
+Concept Image 1
+
+#BTS #Photo_Folio #jhope #제이홉 #AllNewHope ht…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DiscussingFilm** |
-| #2 Most tweeted to  | **DCComics** |
-| #3 Most tweeted to  | **IGN** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 4.92%|
-| Tweeters with > 1000000 followers  | 0.3%  |
+| #1 Most tweeted to  | **vanteficient** |
+| #2 Most tweeted to  | **vktaekoo** |
+| #3 Most tweeted to  | **mhereonlyforbts** |
+| NewProfiles (less than 10 days) | 0.04%  |
+| Tweeters with < 10 followers  | 9.44%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +45,28 @@ The film releases on July 11, 2025 in theaters. https:…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JAMES**  |
-| second  | **GUNN**  |
-| third  | **@DISCUSSINGFILM:** |
-| fourth  | **DC**  |
-| fifth  | **DCU**  |
+| first  | **TAEKOOK**  |
+| second  | **LIVE**  |
+| third  | **INSTAGRAM** |
+| fourth  | **PART**  |
+| fifth  | **WATCHED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-01-31BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-01-31sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2023-02-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DiscussingFilm: ‘THE BRAVE AND THE BOLD’ will introduce the Bat-Family to James Gunn’s DCU, beginning with a new actor as Batman and Da… |
+|RT @vktaekoo: my edit                           taekook irl https://t.co/c06eWrrPht |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **5E00N**  |
+| The most retweeted user is: **Taekook_NadiaCr**  |
 | ------------- |
-| RT @DiscussingFilm: James Gunn’s ‘Superman’ film will be titled ‘SUPERMAN: LEGACY’.The film releases on July 11, 2025 in theaters. https:… |
+| RT @bts_bighit: Me, Myself, and j-hope ‘All New Hope’Special 8 Photo-FolioConcept Image 1#BTS #Photo_Folio #jhope #제이홉 #AllNewHope ht… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
