@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TAEKOOK"**
+&#x1F34E; **TOPIC = "Kevin Durant"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-01TWEETS.png)
+![image](assets/2023-02-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @vminggukx: THE TAEKOOK INSTAGRAM LIVE https://t.co/F2xCDJ9GT9 |
-| RT @vanteficient: INTERACT WITH THIS IF YOU WERE A PART OF 900,000 PEOPLE WHO WATCHED TAEKOOK LIVE https://t.co/NCwaATT6Xf |
-| RT @dionysustkk: taekook can't stop talking about eachother in their lives AND I'M LOVING IT |
+| Kevin Durant wants to play for the kings |
+| RT @RossRead: Kevin Durant enjoying a peaceful Friday until Kyrie shows up.  https://t.co/GDMaS3621w |
+| RT @taylorcsnow: Jayson Tatum was +42 in the first half. That's the 2nd-best plus/minus for a player in any half in NBA history (Kevin Du… |
 
-The most popular user is: **Taekook_NadiaCr**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: Me, Myself, and j-hope 
-‘All New Hope’
-Special 8 Photo-Folio
-
-Concept Image 1
-
-#BTS #Photo_Folio #jhope #제이홉 #AllNewHope ht…</div>
+The most popular user is: **CR7THEG07T**
+<div class="alert alert-block alert-danger"> RT @KDTrey5: My next chapter https://t.co/DG2TJ5cnev https://t.co/zi94ss9NWI</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **vanteficient** |
-| #2 Most tweeted to  | **vktaekoo** |
-| #3 Most tweeted to  | **mhereonlyforbts** |
-| NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 9.44%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Alec_Sturm** |
+| #2 Most tweeted to  | **kirkgoldsberry** |
+| #3 Most tweeted to  | **LegionHoops** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.44%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -45,28 +39,28 @@ Concept Image 1
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TAEKOOK**  |
-| second  | **LIVE**  |
-| third  | **INSTAGRAM** |
-| fourth  | **PART**  |
-| fifth  | **WATCHED**  |
+| first  | **KEVIN**  |
+| second  | **DURANT**  |
+| third  | **KYRIE** |
+| fourth  | **IRVING**  |
+| fifth  | **NETS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-01BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @vktaekoo: my edit                           taekook irl https://t.co/c06eWrrPht |
+|That’s Kevin Durant https://t.co/4rNVULcvWw |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Taekook_NadiaCr**  |
+| The most retweeted user is: **CR7THEG07T**  |
 | ------------- |
-| RT @bts_bighit: Me, Myself, and j-hope ‘All New Hope’Special 8 Photo-FolioConcept Image 1#BTS #Photo_Folio #jhope #제이홉 #AllNewHope ht… |
+| RT @KDTrey5: My next chapter https://t.co/DG2TJ5cnev https://t.co/zi94ss9NWI |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
