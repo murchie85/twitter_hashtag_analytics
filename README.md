@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kevin Durant"**
+&#x1F34E; **TOPIC = "P-22"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-03TWEETS.png)
+![image](assets/2023-02-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Kevin Durant wants to play for the kings |
-| RT @RossRead: Kevin Durant enjoying a peaceful Friday until Kyrie shows up.  https://t.co/GDMaS3621w |
-| RT @taylorcsnow: Jayson Tatum was +42 in the first half. That's the 2nd-best plus/minus for a player in any half in NBA history (Kevin Du… |
+| RT @PRINCE0879: These are astounding numbers. In '22, 63,927  Indians sought asylum in the US, 2x the '21 number. Border authorities st… |
+| If you missed it Target dropped this morning! #ad 2023 Topps Series 1 blasters: https://t.co/XJ2ThRAdAp 2021-2… https://t.co/CG8eUWa9l4 |
+| RT @PRIMAGE14: #nft #art #NFTs #painting #comic #objkt #objktnft #tezos #xtz■objkt■P.22 A STRANGER IN THE GYM comic no line■20/20 eds… |
 
-The most popular user is: **CR7THEG07T**
-<div class="alert alert-block alert-danger"> RT @KDTrey5: My next chapter https://t.co/DG2TJ5cnev https://t.co/zi94ss9NWI</div>
+The most popular user is: **Free_Owl_22**
+<div class="alert alert-block alert-danger"> RT @HillaryClinton: The Iranian people have made themselves clear: They want freedom and democracy. Not dictatorship and theocracy.
+
+Join m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Alec_Sturm** |
-| #2 Most tweeted to  | **kirkgoldsberry** |
-| #3 Most tweeted to  | **LegionHoops** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 4.44%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **LoveLive_staff** |
+| #2 Most tweeted to  | **CollegeBoard** |
+| #3 Most tweeted to  | **charliebilello** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 4.24%|
+| Tweeters with > 1000000 followers  | 0.42%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **CR7THEG07T**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KEVIN**  |
-| second  | **DURANT**  |
-| third  | **KYRIE** |
-| fourth  | **IRVING**  |
-| fifth  | **NETS**  |
+| first  | **22**  |
+| second  | **FEB**  |
+| third  | **P-22** |
+| fourth  | **LIVE!**  |
+| fifth  | **START**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|That’s Kevin Durant https://t.co/4rNVULcvWw |
+|RT @jkubatko: Mason Plumlee last night:✅ 16 PTS✅ 11 REB✅ 5 AST✅ 7-7 FG✅ 2-2 FTThe only other player since the ABA-NBA merger to rec… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **CR7THEG07T**  |
+| The most retweeted user is: **Free_Owl_22**  |
 | ------------- |
-| RT @KDTrey5: My next chapter https://t.co/DG2TJ5cnev https://t.co/zi94ss9NWI |
+| RT @HillaryClinton: The Iranian people have made themselves clear: They want freedom and democracy. Not dictatorship and theocracy.Join m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
