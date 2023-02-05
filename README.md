@@ -1,38 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "P-22"**
+&#x1F34E; **TOPIC = "Grealish"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-04TWEETS.png)
+![image](assets/2023-02-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PRINCE0879: These are astounding numbers. In '22, 63,927  Indians sought asylum in the US, 2x the '21 number. Border authorities st… |
-| If you missed it Target dropped this morning! #ad 2023 Topps Series 1 blasters: https://t.co/XJ2ThRAdAp 2021-2… https://t.co/CG8eUWa9l4 |
-| RT @PRIMAGE14: #nft #art #NFTs #painting #comic #objkt #objktnft #tezos #xtz■objkt■P.22 A STRANGER IN THE GYM comic no line■20/20 eds… |
+| RT @City_Zone_: [🤔] Jack Grealish. Discuss. https://t.co/Ri0GP1smxW |
+| RT @waatitdobaby: Royal handcuffed grealish today |
+| Another crap performance at Tottenham. Slow, languid &amp; way too relaxed despite being behind. Alvarez especially was… https://t.co/nReuhhGq7s |
 
-The most popular user is: **Free_Owl_22**
-<div class="alert alert-block alert-danger"> RT @HillaryClinton: The Iranian people have made themselves clear: They want freedom and democracy. Not dictatorship and theocracy.
+The most popular user is: **LeftyRS_**
+<div class="alert alert-block alert-danger"> RT @TrollFootball: *Jack Grealish touches the ball.*
 
-Join m…</div>
+Tottenham players: 
+
+https://t.co/9ukPsEXgip</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LoveLive_staff** |
-| #2 Most tweeted to  | **CollegeBoard** |
-| #3 Most tweeted to  | **charliebilello** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 4.24%|
-| Tweeters with > 1000000 followers  | 0.42%  |
+| #1 Most tweeted to  | **TrollFootball** |
+| #2 Most tweeted to  | **TottenhamTiers** |
+| #3 Most tweeted to  | **Sjopinion10** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 5.98%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +43,28 @@ Join m…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **22**  |
-| second  | **FEB**  |
-| third  | **P-22** |
-| fourth  | **LIVE!**  |
-| fifth  | **START**  |
+| first  | **GREALISH**  |
+| second  | **TOUCHES**  |
+| third  | **TOTTENHAM** |
+| fourth  | **JACK**  |
+| fifth  | **BALL***  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-04BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-02-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jkubatko: Mason Plumlee last night:✅ 16 PTS✅ 11 REB✅ 5 AST✅ 7-7 FG✅ 2-2 FTThe only other player since the ABA-NBA merger to rec… |
+|Ake and Grealish absolutely unreal btw👍🏻👍🏻 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Free_Owl_22**  |
+| The most retweeted user is: **LeftyRS_**  |
 | ------------- |
-| RT @HillaryClinton: The Iranian people have made themselves clear: They want freedom and democracy. Not dictatorship and theocracy.Join m… |
+| RT @TrollFootball: *Jack Grealish touches the ball.*Tottenham players: https://t.co/9ukPsEXgip |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
