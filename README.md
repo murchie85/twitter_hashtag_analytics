@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UniversityChallengeKlaxon"**
+&#x1F34E; **TOPIC = "SOTU"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-06TWEETS.png)
+![image](assets/2023-02-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @andykeegan This week the Stevens’ are going for…Spanish💃Stevens Pertussis PercussionPurcellBonus - Persephon… https://t.co/p3unJ4qSY5 |
-| RT @andykeegan: Right then, you know how this works by now so let's just get on with it. Eyes and ears open, let me know if you spot a winn… |
-| @andykeegan Happy Monday again! Todays #universitychallengeklaxon1. Tibia2. Percy Jackson3. Accrington StanleyB… https://t.co/7Z9jQFdIAJ |
+| RT @ChadHartmanShow: Who would @AC830 bring as his guest to the State of the Union?Today's Ask Adam Anything features talk about the SOTU… |
+| RT @IAmPoliticsGirl: SOTU twill remind us how far we’ve come and, despite what you hear, how well America is doing. Want some positivity ea… |
+| RT @TeamTrump: FLASHBACK SOTU: President Trump honored Charles McGee, one of the last surviving Tuskegee Airmen, the nation’s first African… |
 
-The most popular user is: **LisaLewisWrites**
-<div class="alert alert-block alert-danger"> RT @andykeegan: What the slightly lighter evening?! Must be time for another round of #UniversityChallengeKlaxon ! This week's Predict-O-Si…</div>
+The most popular user is: **breckgirl4ever**
+<div class="alert alert-block alert-danger"> RT @RepMTG: The fence is back up around the Capitol for SOTU because Biden knows walls work on the ground.
+
+Joe Biden is more afraid of Ame…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **andykeegan** |
-| #2 Most tweeted to  | **_ccroberts** |
-| #3 Most tweeted to  | **JonPHawkins** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 3.57%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **POTUS** |
+| #2 Most tweeted to  | **7Veritas4** |
+| #3 Most tweeted to  | **krassenstein** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 3.6%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **LisaLewisWrites**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UNIVERSITYCHALLENGEKLAXON**  |
-| second  | **1**  |
-| third  | **2** |
-| fourth  | **3**  |
-| fifth  | **BONUS:**  |
+| first  | **SOTU**  |
+| second  | **BIDEN**  |
+| third  | **TONIGHT** |
+| fourth  | **LIES**  |
+| fifth  | **SPEECH**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (60.0%)
+![image](assets/2023-02-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@andykeegan Hey! Just in the nick of time! 1) Beans 2) Cello 3) BrittenBonus: KSI #UniversityChallengeKlaxon |
+|RT @PeterZampa: The Congressional Black Caucus is holding a press conference with families who have lost loved ones to “bad policing”. The… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LisaLewisWrites**  |
+| The most retweeted user is: **breckgirl4ever**  |
 | ------------- |
-| RT @andykeegan: What the slightly lighter evening?! Must be time for another round of #UniversityChallengeKlaxon ! This week's Predict-O-Si… |
+| RT @RepMTG: The fence is back up around the Capitol for SOTU because Biden knows walls work on the ground.Joe Biden is more afraid of Ame… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
