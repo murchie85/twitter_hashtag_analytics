@@ -1,38 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "SOTU"**
+&#x1F34E; **TOPIC = "Stollen"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-07TWEETS.png)
+![image](assets/2023-02-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChadHartmanShow: Who would @AC830 bring as his guest to the State of the Union?Today's Ask Adam Anything features talk about the SOTU… |
-| RT @IAmPoliticsGirl: SOTU twill remind us how far we’ve come and, despite what you hear, how well America is doing. Want some positivity ea… |
-| RT @TeamTrump: FLASHBACK SOTU: President Trump honored Charles McGee, one of the last surviving Tuskegee Airmen, the nation’s first African… |
+| @RonFilipkowski Isn’t stollen a cake/bread? |
+| @KellDA Isn't there a type of bread/dessert called a stollen? |
+| RT @3Dman44: @RepSwalwell He could take an "L" from his dad's "STOLLEN" and all will be well. |
 
-The most popular user is: **breckgirl4ever**
-<div class="alert alert-block alert-danger"> RT @RepMTG: The fence is back up around the Capitol for SOTU because Biden knows walls work on the ground.
-
-Joe Biden is more afraid of Ame…</div>
+The most popular user is: **_elmolina_**
+<div class="alert alert-block alert-danger"> RT @StephenKing: Trump writes that the election was stollen.
+😂</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **POTUS** |
-| #2 Most tweeted to  | **7Veritas4** |
-| #3 Most tweeted to  | **krassenstein** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 3.6%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **RonFilipkowski** |
+| #2 Most tweeted to  | **adgirlMM** |
+| #3 Most tweeted to  | **KellDA** |
+| NewProfiles (less than 10 days) | 0.84%  |
+| Tweeters with < 10 followers  | 8.81%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -41,28 +40,28 @@ Joe Biden is more afraid of Ame…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SOTU**  |
-| second  | **BIDEN**  |
-| third  | **TONIGHT** |
-| fourth  | **LIES**  |
-| fifth  | **SPEECH**  |
+| first  | **STOLLEN**  |
+| second  | **ELECTION**  |
+| third  | **SURE** |
+| fourth  | **LAW**  |
+| fifth  | **KEEP**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-07BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-02-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PeterZampa: The Congressional Black Caucus is holding a press conference with families who have lost loved ones to “bad policing”. The… |
+|RT @JKash000: No need to watch.  I know the State of the Union:  STOLLEN!!! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **breckgirl4ever**  |
+| The most retweeted user is: **_elmolina_**  |
 | ------------- |
-| RT @RepMTG: The fence is back up around the Capitol for SOTU because Biden knows walls work on the ground.Joe Biden is more afraid of Ame… |
+| RT @StephenKing: Trump writes that the election was stollen.😂 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
