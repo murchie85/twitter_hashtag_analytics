@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Stollen"**
+&#x1F34E; **TOPIC = "Ronaldo"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-08TWEETS.png)
+![image](assets/2023-02-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @RonFilipkowski Isn’t stollen a cake/bread? |
-| @KellDA Isn't there a type of bread/dessert called a stollen? |
-| RT @3Dman44: @RepSwalwell He could take an "L" from his dad's "STOLLEN" and all will be well. |
+| RT @goal: CRISTIANO RONALDO SCORES HIS FIRST HAT-TRICK FOR AL-NASSR 😤 https://t.co/yf7GsphTH9 |
+| @UberFacts Not Uber facts dignifying ronaldoLmao |
+| RT @goal: Cristiano Ronaldo has scored at least four goals in one game for the ELEVENTH time 🐐 https://t.co/s2EByCHpbq |
 
-The most popular user is: **_elmolina_**
-<div class="alert alert-block alert-danger"> RT @StephenKing: Trump writes that the election was stollen.
-😂</div>
+The most popular user is: **huntu97**
+<div class="alert alert-block alert-danger"> RT @ishowspeedsui: Ok I finally admit it. Messi is the 2nd best of all time after Ronaldo🐐</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RonFilipkowski** |
-| #2 Most tweeted to  | **adgirlMM** |
-| #3 Most tweeted to  | **KellDA** |
-| NewProfiles (less than 10 days) | 0.84%  |
-| Tweeters with < 10 followers  | 8.81%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **piersmorgan** |
+| #2 Most tweeted to  | **CristianoXtra_** |
+| #3 Most tweeted to  | **ESPNFC** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 4.34%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **_elmolina_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STOLLEN**  |
-| second  | **ELECTION**  |
-| third  | **SURE** |
-| fourth  | **LAW**  |
-| fifth  | **KEEP**  |
+| first  | **RONALDO**  |
+| second  | **CRISTIANO**  |
+| third  | **GOALS** |
+| fourth  | **LEAGUE**  |
+| fifth  | **SCORED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-08BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-08sentiment.png)
+![image](assets/2023-02-09sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @JKash000: No need to watch.  I know the State of the Union:  STOLLEN!!! |
+|RT @ghanayesu: If Cristiano Ronaldo is your Goat like This. ❤️ https://t.co/Hm08s1o9AV |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **_elmolina_**  |
+| The most retweeted user is: **huntu97**  |
 | ------------- |
-| RT @StephenKing: Trump writes that the election was stollen.😂 |
+| RT @ishowspeedsui: Ok I finally admit it. Messi is the 2nd best of all time after Ronaldo🐐 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
