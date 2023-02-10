@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ronaldo"**
+&#x1F34E; **TOPIC = "#LoveIsBlindAftertheAltar"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-09TWEETS.png)
+![image](assets/2023-02-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @goal: CRISTIANO RONALDO SCORES HIS FIRST HAT-TRICK FOR AL-NASSR 😤 https://t.co/yf7GsphTH9 |
-| @UberFacts Not Uber facts dignifying ronaldoLmao |
-| RT @goal: Cristiano Ronaldo has scored at least four goals in one game for the ELEVENTH time 🐐 https://t.co/s2EByCHpbq |
+| RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
+| i feel bad for cole. brennan is upset at a relationship that has nothin do wit him, all from he say she say. #LoveIsBlindAftertheAltar |
+| RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
 
-The most popular user is: **huntu97**
-<div class="alert alert-block alert-danger"> RT @ishowspeedsui: Ok I finally admit it. Messi is the 2nd best of all time after Ronaldo🐐</div>
+The most popular user is: **oftemgaze**
+<div class="alert alert-block alert-danger"> RT @FeyiMs_K9: So Brennon took the lies Zanab told his wife, without hearing Cole’s side and decided to have a one sided beef with Cole? Ov…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **piersmorgan** |
-| #2 Most tweeted to  | **CristianoXtra_** |
-| #3 Most tweeted to  | **ESPNFC** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 4.34%|
+| #1 Most tweeted to  | **FeyiMs_K9** |
+| #2 Most tweeted to  | **GangstaJoce** |
+| #3 Most tweeted to  | **CandiceNikole_** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 4.92%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **huntu97**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RONALDO**  |
-| second  | **CRISTIANO**  |
-| third  | **GOALS** |
-| fourth  | **LEAGUE**  |
-| fifth  | **SCORED**  |
+| first  | **COLE**  |
+| second  | **LOVEISBLINDAFTERTHEALTAR**  |
+| third  | **LOVEISBLINDAFTERTHEALTARRT** |
+| fourth  | **SK**  |
+| fifth  | **ZANAB**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-09BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ghanayesu: If Cristiano Ronaldo is your Goat like This. ❤️ https://t.co/Hm08s1o9AV |
+|RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **huntu97**  |
+| The most retweeted user is: **oftemgaze**  |
 | ------------- |
-| RT @ishowspeedsui: Ok I finally admit it. Messi is the 2nd best of all time after Ronaldo🐐 |
+| RT @FeyiMs_K9: So Brennon took the lies Zanab told his wife, without hearing Cole’s side and decided to have a one sided beef with Cole? Ov… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
