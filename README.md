@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#LoveIsBlindAftertheAltar"**
+&#x1F34E; **TOPIC = "Kentucky"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-10TWEETS.png)
+![image](assets/2023-02-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
-| i feel bad for cole. brennan is upset at a relationship that has nothin do wit him, all from he say she say. #LoveIsBlindAftertheAltar |
-| RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
+| RT @KyleTucker_ATH: Thanks to Covid (2020), a 9-16 season (2021) and Saint Peter's (2022), missing the dance this year would mean Kentucky… |
+| Kentucky sorry dawg and it’s painful to watch smfh |
+| @KySportsRadio I can't think of a more enjoyable time to be a Kentucky basketball fan! |
 
-The most popular user is: **oftemgaze**
-<div class="alert alert-block alert-danger"> RT @FeyiMs_K9: So Brennon took the lies Zanab told his wife, without hearing Cole’s side and decided to have a one sided beef with Cole? Ov…</div>
+The most popular user is: **Fak3221**
+<div class="alert alert-block alert-danger"> RT @Booker4KY: My name is Charles Booker and I am the Democratic nominee for United States Senate in Kentucky.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FeyiMs_K9** |
-| #2 Most tweeted to  | **GangstaJoce** |
-| #3 Most tweeted to  | **CandiceNikole_** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 4.92%|
+| #1 Most tweeted to  | **jamesmurtagh** |
+| #2 Most tweeted to  | **drewtoothpaste** |
+| #3 Most tweeted to  | **GoodmanHoops** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 3.92%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **oftemgaze**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COLE**  |
-| second  | **LOVEISBLINDAFTERTHEALTAR**  |
-| third  | **LOVEISBLINDAFTERTHEALTARRT** |
-| fourth  | **SK**  |
-| fifth  | **ZANAB**  |
+| first  | **KENTUCKY**  |
+| second  | **GEORGIA**  |
+| third  | **BASKETBALL** |
+| fourth  | **EXPECTED**  |
+| fifth  | **DEAD**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-10BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-02-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FeyiMs_K9: Alexa and the girls are spending too much time shtting on Cole for me and not Bartise who was the worst. #LoveisBlindS3 #lov… |
+|Kentucky and Providence early 👀👀 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **oftemgaze**  |
+| The most retweeted user is: **Fak3221**  |
 | ------------- |
-| RT @FeyiMs_K9: So Brennon took the lies Zanab told his wife, without hearing Cole’s side and decided to have a one sided beef with Cole? Ov… |
+| RT @Booker4KY: My name is Charles Booker and I am the Democratic nominee for United States Senate in Kentucky. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
