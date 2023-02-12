@@ -1,36 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kentucky"**
+&#x1F34E; **TOPIC = "Grealish"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-11TWEETS.png)
+![image](assets/2023-02-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KyleTucker_ATH: Thanks to Covid (2020), a 9-16 season (2021) and Saint Peter's (2022), missing the dance this year would mean Kentucky… |
-| Kentucky sorry dawg and it’s painful to watch smfh |
-| @KySportsRadio I can't think of a more enjoyable time to be a Kentucky basketball fan! |
+| RT @TheVillaPodcast: Jack Grealish has just dived against his boyhood club against a player from his boyhood club. When they were 2-0 up. R… |
+| RT @danbardell: The kind of pen that wouldn’t have been given if Grealish was wearing an #AVFC shirt btw. #MCIAVL |
+| Jack Grealish you diving bag of dicks #MCIAVL |
 
-The most popular user is: **Fak3221**
-<div class="alert alert-block alert-danger"> RT @Booker4KY: My name is Charles Booker and I am the Democratic nominee for United States Senate in Kentucky.</div>
+The most popular user is: **supsupasup**
+<div class="alert alert-block alert-danger"> RT @SuhailChowdhary: This Season…
+
+Alejandro Garnacho - Age 18
+£420k - 2 Goals, 4 Assists. Problem.
+
+Jack Grealish - Age 27
+£100m - 2 Goals…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **jamesmurtagh** |
-| #2 Most tweeted to  | **drewtoothpaste** |
-| #3 Most tweeted to  | **GoodmanHoops** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 3.92%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **SkySportsPL** |
+| #2 Most tweeted to  | **danbardell** |
+| #3 Most tweeted to  | **TheVillaPodcast** |
+| NewProfiles (less than 10 days) | 0.4%  |
+| Tweeters with < 10 followers  | 3.86%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +45,28 @@ The most popular user is: **Fak3221**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KENTUCKY**  |
-| second  | **GEORGIA**  |
-| third  | **BASKETBALL** |
-| fourth  | **EXPECTED**  |
-| fifth  | **DEAD**  |
+| first  | **GREALISH**  |
+| second  | **JACK**  |
+| third  | **AGAINST** |
+| fourth  | **VILLA**  |
+| fifth  | **DIVING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-11BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+![image](assets/2023-02-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Kentucky and Providence early 👀👀 |
+|They’re saying Jack Grealish was really clever and smart😂😂😂😂😂😂😂😂😂😭😂😂 fuck sake man it’s so blatant |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Fak3221**  |
+| The most retweeted user is: **supsupasup**  |
 | ------------- |
-| RT @Booker4KY: My name is Charles Booker and I am the Democratic nominee for United States Senate in Kentucky. |
+| RT @SuhailChowdhary: This Season…Alejandro Garnacho - Age 18£420k - 2 Goals, 4 Assists. Problem.Jack Grealish - Age 27£100m - 2 Goals… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
