@@ -1,42 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Grealish"**
+&#x1F34E; **TOPIC = "Darvel"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-12TWEETS.png)
+![image](assets/2023-02-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheVillaPodcast: Jack Grealish has just dived against his boyhood club against a player from his boyhood club. When they were 2-0 up. R… |
-| RT @danbardell: The kind of pen that wouldn’t have been given if Grealish was wearing an #AVFC shirt btw. #MCIAVL |
-| Jack Grealish you diving bag of dicks #MCIAVL |
+| @SPFLWatch @DGB_1991 Used to be £82,500 for each club shown in  TV game. Whittled down to equally distribute. Proba… https://t.co/mFZ4Jm5ZHX |
+| RT @SeafarerMichael: 📊Scottish Cup Fifth Round Attendances. Rangers - Partick | 44,636Celtic - St. Mirren | 37,728Hamilton - Hearts | 4… |
+| @maggotman95 @StCadocsSeniors @darvelfc @johndoyle10778 What happened with you? Arrived played a handful of games t… https://t.co/xMPVnEtRl1 |
 
-The most popular user is: **supsupasup**
-<div class="alert alert-block alert-danger"> RT @SuhailChowdhary: This Season…
-
-Alejandro Garnacho - Age 18
-£420k - 2 Goals, 4 Assists. Problem.
-
-Jack Grealish - Age 27
-£100m - 2 Goals…</div>
+The most popular user is: **Darvel_**
+<div class="alert alert-block alert-danger"> RT @wagonxburnerx: My uncle died from cancer last week. He worked for freedom mortgage and they denied him medical leave when the man was d…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SkySportsPL** |
-| #2 Most tweeted to  | **danbardell** |
-| #3 Most tweeted to  | **TheVillaPodcast** |
-| NewProfiles (less than 10 days) | 0.4%  |
-| Tweeters with < 10 followers  | 3.86%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **darvelfc** |
+| #2 Most tweeted to  | **ScottishCup** |
+| #3 Most tweeted to  | **FalkirkFC** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 3.49%|
+| Tweeters with > 1000000 followers  | 0.05%  |
 
 
 
@@ -45,28 +39,28 @@ Jack Grealish - Age 27
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GREALISH**  |
-| second  | **JACK**  |
-| third  | **AGAINST** |
-| fourth  | **VILLA**  |
-| fifth  | **DIVING**  |
+| first  | **DARVEL**  |
+| second  | **FALKIRK**  |
+| third  | **CUP** |
+| fourth  | **V**  |
+| fifth  | **SCOTTISH**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-12BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|They’re saying Jack Grealish was really clever and smart😂😂😂😂😂😂😂😂😂😭😂😂 fuck sake man it’s so blatant |
+|@1873Rickster Tomorrow night after darvel v Falkirk |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **supsupasup**  |
+| The most retweeted user is: **Darvel_**  |
 | ------------- |
-| RT @SuhailChowdhary: This Season…Alejandro Garnacho - Age 18£420k - 2 Goals, 4 Assists. Problem.Jack Grealish - Age 27£100m - 2 Goals… |
+| RT @wagonxburnerx: My uncle died from cancer last week. He worked for freedom mortgage and they denied him medical leave when the man was d… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
