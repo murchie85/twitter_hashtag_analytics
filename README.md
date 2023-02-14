@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Darvel"**
+&#x1F34E; **TOPIC = "Roses"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-13TWEETS.png)
+![image](assets/2023-02-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @SPFLWatch @DGB_1991 Used to be £82,500 for each club shown in  TV game. Whittled down to equally distribute. Proba… https://t.co/mFZ4Jm5ZHX |
-| RT @SeafarerMichael: 📊Scottish Cup Fifth Round Attendances. Rangers - Partick | 44,636Celtic - St. Mirren | 37,728Hamilton - Hearts | 4… |
-| @maggotman95 @StCadocsSeniors @darvelfc @johndoyle10778 What happened with you? Arrived played a handful of games t… https://t.co/xMPVnEtRl1 |
+| RT @PharmaFactz: Roses are red,Violets are blue, nausea and vomiting. |
+| RT @mrmorgandoing: arthur is having a picnic with charles. after they finish eating, arthur surprises him with roses and a ring and tells h… |
+| RT @artindetails: red roses https://t.co/UnFe2fsgbN |
 
-The most popular user is: **Darvel_**
-<div class="alert alert-block alert-danger"> RT @wagonxburnerx: My uncle died from cancer last week. He worked for freedom mortgage and they denied him medical leave when the man was d…</div>
+The most popular user is: **kpop_roses**
+<div class="alert alert-block alert-danger"> RT @btschartsdailys: [K-media] In a Interview with Lee Jungjae he mentioned how he met with Taehyung 
+
+"I went to a private meeting and met…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **darvelfc** |
-| #2 Most tweeted to  | **ScottishCup** |
-| #3 Most tweeted to  | **FalkirkFC** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 3.49%|
-| Tweeters with > 1000000 followers  | 0.05%  |
+| #1 Most tweeted to  | **artindetails** |
+| #2 Most tweeted to  | **tedcruz** |
+| #3 Most tweeted to  | **ecb** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 3.86%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Darvel_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DARVEL**  |
-| second  | **FALKIRK**  |
-| third  | **CUP** |
-| fourth  | **V**  |
-| fifth  | **SCOTTISH**  |
+| first  | **ROSES**  |
+| second  | **RED**  |
+| third  | **VIOLETS** |
+| fourth  | **BLUE**  |
+| fifth  | **DAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-13BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (33.33%)
+![image](assets/2023-02-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@1873Rickster Tomorrow night after darvel v Falkirk |
+|RT @NOAAClimate: Happy Valentine's Day! Here's a little climate poem.Roses are red,Violets are blue,Our planet is warming...Yes, it's… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Darvel_**  |
+| The most retweeted user is: **kpop_roses**  |
 | ------------- |
-| RT @wagonxburnerx: My uncle died from cancer last week. He worked for freedom mortgage and they denied him medical leave when the man was d… |
+| RT @btschartsdailys: [K-media] In a Interview with Lee Jungjae he mentioned how he met with Taehyung "I went to a private meeting and met… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
