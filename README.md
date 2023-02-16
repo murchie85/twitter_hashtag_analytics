@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Roses"**
+&#x1F34E; **TOPIC = "Greg Abbott"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-14TWEETS.png)
+![image](assets/2023-02-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PharmaFactz: Roses are red,Violets are blue, nausea and vomiting. |
-| RT @mrmorgandoing: arthur is having a picnic with charles. after they finish eating, arthur surprises him with roses and a ring and tells h… |
-| RT @artindetails: red roses https://t.co/UnFe2fsgbN |
+| RT @Forrest4Trees: Greg Abbott, who is thinking about running for president of the USA, is holding his State of the State address at a corp… |
+| RT @TurnTexas_Blue: Beto went straight to Uvalde after the school shooting. He fought for those families. Marched with them. Prayed with th… |
+| RT @Paultx890: This sick weak bastard is praying the shooter is an undocumented immigrant.  That is all he is doing.  Greg Abbott is useles… |
 
-The most popular user is: **kpop_roses**
-<div class="alert alert-block alert-danger"> RT @btschartsdailys: [K-media] In a Interview with Lee Jungjae he mentioned how he met with Taehyung 
-
-"I went to a private meeting and met…</div>
+The most popular user is: **DJCarmen323**
+<div class="alert alert-block alert-danger"> RT @davenewworld_2: People in Austin are taking food from the dumpster of a grocery store during the power outage. This is Greg Abbott's Te…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **artindetails** |
-| #2 Most tweeted to  | **tedcruz** |
-| #3 Most tweeted to  | **ecb** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 3.86%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **CalltoActivism** |
+| #2 Most tweeted to  | **Paultx890** |
+| #3 Most tweeted to  | **lindyli** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 1.84%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **kpop_roses**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROSES**  |
-| second  | **RED**  |
-| third  | **VIOLETS** |
-| fourth  | **BLUE**  |
-| fifth  | **DAY**  |
+| first  | **GREG**  |
+| second  | **ABBOTT**  |
+| third  | **TEXAS** |
+| fourth  | **SHOOTING**  |
+| fifth  | **PASO**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-14BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (26.67%)
+![image](assets/2023-02-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NOAAClimate: Happy Valentine's Day! Here's a little climate poem.Roses are red,Violets are blue,Our planet is warming...Yes, it's… |
+|RT @fwtoney: An African American man (Democrat) in Texas was arrested in 2021 for voting by accident on parole . Greg Abbott is bringing ch… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kpop_roses**  |
+| The most retweeted user is: **DJCarmen323**  |
 | ------------- |
-| RT @btschartsdailys: [K-media] In a Interview with Lee Jungjae he mentioned how he met with Taehyung "I went to a private meeting and met… |
+| RT @davenewworld_2: People in Austin are taking food from the dumpster of a grocery store during the power outage. This is Greg Abbott's Te… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
