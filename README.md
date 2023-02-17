@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Greg Abbott"**
+&#x1F34E; **TOPIC = "Doop"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-16TWEETS.png)
+![image](assets/2023-02-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Forrest4Trees: Greg Abbott, who is thinking about running for president of the USA, is holding his State of the State address at a corp… |
-| RT @TurnTexas_Blue: Beto went straight to Uvalde after the school shooting. He fought for those families. Marched with them. Prayed with th… |
-| RT @Paultx890: This sick weak bastard is praying the shooter is an undocumented immigrant.  That is all he is doing.  Greg Abbott is useles… |
+| RT @PhilaUnion: Win a piece from the 2023 Mitchell &amp; Ness For Philly Kit Collection!🔁 this tweet👣 follow us💬 tag a friend✅ entered!#… |
+| RT @PhilaUnion: Win a kit for you and a friend! 🐍🔁 this tweet👣 follow us💬 tag a friend✅ entered!#DOOP x @adidas x #ForPhilly https:/… |
+| RT @PhilaUnion: GOOD LUCK @Eagles, BRING IT HOME! #DOOP | #ItsAPhillyThing https://t.co/Z5zOxEDezl |
 
-The most popular user is: **DJCarmen323**
-<div class="alert alert-block alert-danger"> RT @davenewworld_2: People in Austin are taking food from the dumpster of a grocery store during the power outage. This is Greg Abbott's Te…</div>
+The most popular user is: **boop_doop_whoop**
+<div class="alert alert-block alert-danger"> RT @proyearner: the sluttiest thing a hero can do is show up at the villain’s doorstep, bloodied and bruised, and say “I didn’t know where…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **CalltoActivism** |
-| #2 Most tweeted to  | **Paultx890** |
-| #3 Most tweeted to  | **lindyli** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 1.84%|
+| #1 Most tweeted to  | **PhilaUnion** |
+| #2 Most tweeted to  | **adidas** |
+| #3 Most tweeted to  | **WDoopsies** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 6.16%|
 | Tweeters with > 1000000 followers  | 0.06%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DJCarmen323**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GREG**  |
-| second  | **ABBOTT**  |
-| third  | **TEXAS** |
-| fourth  | **SHOOTING**  |
-| fifth  | **PASO**  |
+| first  | **DOOP**  |
+| second  | **@PHILAUNION:**  |
+| third  | **X** |
+| fourth  | **KIT**  |
+| fifth  | **TAG**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-16BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2023-02-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @fwtoney: An African American man (Democrat) in Texas was arrested in 2021 for voting by accident on parole . Greg Abbott is bringing ch… |
+|RT @PhilaUnion: The 2023 For Philly kit is here 🐍👉 https://t.co/Ac74LkZYec #DOOP | #ForPhilly https://t.co/m5lmZn1zEN |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DJCarmen323**  |
+| The most retweeted user is: **boop_doop_whoop**  |
 | ------------- |
-| RT @davenewworld_2: People in Austin are taking food from the dumpster of a grocery store during the power outage. This is Greg Abbott's Te… |
+| RT @proyearner: the sluttiest thing a hero can do is show up at the villain’s doorstep, bloodied and bruised, and say “I didn’t know where… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
