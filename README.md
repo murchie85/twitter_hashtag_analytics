@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Doop"**
+&#x1F34E; **TOPIC = "Liverpool"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-17TWEETS.png)
+![image](assets/2023-02-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @PhilaUnion: Win a piece from the 2023 Mitchell &amp; Ness For Philly Kit Collection!🔁 this tweet👣 follow us💬 tag a friend✅ entered!#… |
-| RT @PhilaUnion: Win a kit for you and a friend! 🐍🔁 this tweet👣 follow us💬 tag a friend✅ entered!#DOOP x @adidas x #ForPhilly https:/… |
-| RT @PhilaUnion: GOOD LUCK @Eagles, BRING IT HOME! #DOOP | #ItsAPhillyThing https://t.co/Z5zOxEDezl |
+| RT @ESPNFC: Liverpool are the only team to beat Newcastle in the Premier League this season.They've done it twice 💪 https://t.co/cseb98Y6… |
+| RT @TheKop_com: Trent vs Newcastle today 💪 https://t.co/K4w9Za2bkt |
+| Newcastle United vs. Liverpool – Football Match Report – February 18, 2023 – ESPN https://t.co/MsULOmYqLK |
 
-The most popular user is: **boop_doop_whoop**
-<div class="alert alert-block alert-danger"> RT @proyearner: the sluttiest thing a hero can do is show up at the villain’s doorstep, bloodied and bruised, and say “I didn’t know where…</div>
+The most popular user is: **Evuslfc**
+<div class="alert alert-block alert-danger"> RT @TrentAA: Welcome to Liverpool! @Darwinn99 How may I assist you? 😜 https://t.co/YvuzVJBfvg</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **PhilaUnion** |
-| #2 Most tweeted to  | **adidas** |
-| #3 Most tweeted to  | **WDoopsies** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 6.16%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **premierleague** |
+| #2 Most tweeted to  | **brfootball** |
+| #3 Most tweeted to  | **SkySportsPL** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 3.84%|
+| Tweeters with > 1000000 followers  | 0.42%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **boop_doop_whoop**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DOOP**  |
-| second  | **@PHILAUNION:**  |
-| third  | **X** |
-| fourth  | **KIT**  |
-| fifth  | **TAG**  |
+| first  | **LIVERPOOL**  |
+| second  | **NEWCASTLE**  |
+| third  | **LEAGUE** |
+| fourth  | **PREMIER**  |
+| fifth  | **SEASON**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-17BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/2023-02-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PhilaUnion: The 2023 For Philly kit is here 🐍👉 https://t.co/Ac74LkZYec #DOOP | #ForPhilly https://t.co/m5lmZn1zEN |
+|RT @LivEchoLFC: Some interesting shouts #LFChttps://t.co/YNJzCNTWr1 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **boop_doop_whoop**  |
+| The most retweeted user is: **Evuslfc**  |
 | ------------- |
-| RT @proyearner: the sluttiest thing a hero can do is show up at the villain’s doorstep, bloodied and bruised, and say “I didn’t know where… |
+| RT @TrentAA: Welcome to Liverpool! @Darwinn99 How may I assist you? 😜 https://t.co/YvuzVJBfvg |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
