@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Liverpool"**
+&#x1F34E; **TOPIC = "Motte"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-18TWEETS.png)
+![image](assets/2023-02-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ESPNFC: Liverpool are the only team to beat Newcastle in the Premier League this season.They've done it twice 💪 https://t.co/cseb98Y6… |
-| RT @TheKop_com: Trent vs Newcastle today 💪 https://t.co/K4w9Za2bkt |
-| Newcastle United vs. Liverpool – Football Match Report – February 18, 2023 – ESPN https://t.co/MsULOmYqLK |
+| RT @MikeyCee24: Chris Drury after the Tarasenko and Motte trades #NYR https://t.co/eGTkrLqwdt |
+| RT @BlueshirtMac19: @FriedgeHNIC A 4th line of Motte-Goodrow-vesey would be incredible. |
+| RT @shyluffy: i think this is the longest i’ve seen mark speak in english ksjdjdkdkdk |
 
-The most popular user is: **Evuslfc**
-<div class="alert alert-block alert-danger"> RT @TrentAA: Welcome to Liverpool! @Darwinn99 How may I assist you? 😜 https://t.co/YvuzVJBfvg</div>
+The most popular user is: **Rodrigo_Motte_**
+<div class="alert alert-block alert-danger"> RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **premierleague** |
-| #2 Most tweeted to  | **brfootball** |
-| #3 Most tweeted to  | **SkySportsPL** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 3.84%|
-| Tweeters with > 1000000 followers  | 0.42%  |
+| #1 Most tweeted to  | **Senators** |
+| #2 Most tweeted to  | **FriedgeHNIC** |
+| #3 Most tweeted to  | **SunGarrioch** |
+| NewProfiles (less than 10 days) | 0.26%  |
+| Tweeters with < 10 followers  | 3.38%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Evuslfc**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LIVERPOOL**  |
-| second  | **NEWCASTLE**  |
-| third  | **LEAGUE** |
-| fourth  | **PREMIER**  |
-| fifth  | **SEASON**  |
+| first  | **MOTTE**  |
+| second  | **TYLER**  |
+| third  | **GAUTHIER** |
+| fourth  | **JULIEN**  |
+| fifth  | **CONDITIONAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-18BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-02-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LivEchoLFC: Some interesting shouts #LFChttps://t.co/YNJzCNTWr1 |
+|RT @SunGarrioch: Sources say Ottawa winger Tyler Motte will sit today for trade-related reasons. Got to the rink and was told to go home. N… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Evuslfc**  |
+| The most retweeted user is: **Rodrigo_Motte_**  |
 | ------------- |
-| RT @TrentAA: Welcome to Liverpool! @Darwinn99 How may I assist you? 😜 https://t.co/YvuzVJBfvg |
+| RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
