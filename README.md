@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Motte"**
+&#x1F34E; **TOPIC = "Clippers"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-19TWEETS.png)
+![image](assets/2023-02-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MikeyCee24: Chris Drury after the Tarasenko and Motte trades #NYR https://t.co/eGTkrLqwdt |
-| RT @BlueshirtMac19: @FriedgeHNIC A 4th line of Motte-Goodrow-vesey would be incredible. |
-| RT @shyluffy: i think this is the longest i’ve seen mark speak in english ksjdjdkdkdk |
+| Seeing the Clippers fail makes me laugh so fucking hard |
+| RT @Farbod_E: Taking Terance Mann out of the starting lineup and giving him less minutes is literally the worst decision the Clippers can m… |
+| RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
 
-The most popular user is: **Rodrigo_Motte_**
-<div class="alert alert-block alert-danger"> RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH</div>
+The most popular user is: **LilBrownz_**
+<div class="alert alert-block alert-danger"> RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Senators** |
-| #2 Most tweeted to  | **FriedgeHNIC** |
-| #3 Most tweeted to  | **SunGarrioch** |
-| NewProfiles (less than 10 days) | 0.26%  |
-| Tweeters with < 10 followers  | 3.38%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **LakeShowYo** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 4.82%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Rodrigo_Motte_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOTTE**  |
-| second  | **TYLER**  |
-| third  | **GAUTHIER** |
-| fourth  | **JULIEN**  |
-| fifth  | **CONDITIONAL**  |
+| first  | **CLIPPERS**  |
+| second  | **WESTBROOK**  |
+| third  | **RUSSELL** |
+| fourth  | **AFTER**  |
+| fifth  | **SIGN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-19BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2023-02-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SunGarrioch: Sources say Ottawa winger Tyler Motte will sit today for trade-related reasons. Got to the rink and was told to go home. N… |
+|RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Rodrigo_Motte_**  |
+| The most retweeted user is: **LilBrownz_**  |
 | ------------- |
-| RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH |
+| RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
