@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Clippers"**
+&#x1F34E; **TOPIC = "#MardiGras"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-20TWEETS.png)
+![image](assets/2023-02-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Seeing the Clippers fail makes me laugh so fucking hard |
-| RT @Farbod_E: Taking Terance Mann out of the starting lineup and giving him less minutes is literally the worst decision the Clippers can m… |
-| RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
+| RT @lamialaa55: The perfect gift for any Pitbull fan! 👇View this design on other products :🔗https://t.co/7gzQcvPgA6#BuschArmy #Jimin_FA… |
+| RT @CardSnacks: Happy #MardiGras from CardSnacks!🎭🥳How are you celebrating #FatTuesday?🎉🪩Retweet to be entered into our weekly drawing fo… |
+| We are at Disney’s Port Orleans for the Mardi Gras (pargo cart) Parade! This is our 12th year covering this fun eve… https://t.co/mPsNKvVqQ3 |
 
-The most popular user is: **LilBrownz_**
-<div class="alert alert-block alert-danger"> RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A…</div>
+The most popular user is: **mikebest**
+<div class="alert alert-block alert-danger"> RT @Saints: Everywhere Else, It's Just Tuesday 🎭
+
+#MardiGras https://t.co/U7frPgURJA</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **LakeShowYo** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 4.82%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Saints** |
+| #2 Most tweeted to  | **SenJohnKennedy** |
+| #3 Most tweeted to  | **DavidMora** |
+| NewProfiles (less than 10 days) | 0.62%  |
+| Tweeters with < 10 followers  | 5.3%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **LilBrownz_**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CLIPPERS**  |
-| second  | **WESTBROOK**  |
-| third  | **RUSSELL** |
-| fourth  | **AFTER**  |
-| fifth  | **SIGN**  |
+| first  | **MARDIGRAS**  |
+| second  | **MARDI**  |
+| third  | **HAPPY** |
+| fourth  | **GRAS**  |
+| fifth  | **TUESDAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-20BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (42.86%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
+|RT @Saints: Everywhere Else, It's Just Tuesday 🎭#MardiGras https://t.co/U7frPgURJA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **LilBrownz_**  |
+| The most retweeted user is: **mikebest**  |
 | ------------- |
-| RT @wojespn: After finalizing a contract buyout with the Utah Jazz, nine-time All-Star guard Russell Westbrook plans to sign with the Los A… |
+| RT @Saints: Everywhere Else, It's Just Tuesday 🎭#MardiGras https://t.co/U7frPgURJA |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
