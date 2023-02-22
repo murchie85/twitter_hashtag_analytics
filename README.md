@@ -1,38 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MardiGras"**
+&#x1F34E; **TOPIC = "Kane"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-21TWEETS.png)
+![image](assets/2023-02-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lamialaa55: The perfect gift for any Pitbull fan! 👇View this design on other products :🔗https://t.co/7gzQcvPgA6#BuschArmy #Jimin_FA… |
-| RT @CardSnacks: Happy #MardiGras from CardSnacks!🎭🥳How are you celebrating #FatTuesday?🎉🪩Retweet to be entered into our weekly drawing fo… |
-| We are at Disney’s Port Orleans for the Mardi Gras (pargo cart) Parade! This is our 12th year covering this fun eve… https://t.co/mPsNKvVqQ3 |
+| RT @JLazzy23: “So now Kane is recalibrating again. I believe he's asked to explore if going to the Rangers is still an option. It's not imp… |
+| RT @timandfriends: "Dog 💩 saves Stuey." First win in a month for Stuart Skinner but Evander Kane won't let him enjoy it 🤣 #LetsGoOilers @… |
+| OFFICIALS for tonight's contest vs Erie R - Mike Marley,  Brendan Kane, L - Justin Herrington, Nick Arcan, https://t.co/MbueweXB0I |
 
-The most popular user is: **mikebest**
-<div class="alert alert-block alert-danger"> RT @Saints: Everywhere Else, It's Just Tuesday 🎭
+The most popular user is: **kane_rep**
+<div class="alert alert-block alert-danger"> RT @IHayato: 🔥🔥🔥MASSIVE FREEMINT🔥🔥🔥
 
-#MardiGras https://t.co/U7frPgURJA</div>
+#CNP , No.1 project in Japan, will hold its largest-ever FREEMINT!
+
+☑ Follow @cnp_en @ihayato
+☑ Like a…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Saints** |
-| #2 Most tweeted to  | **SenJohnKennedy** |
-| #3 Most tweeted to  | **DavidMora** |
-| NewProfiles (less than 10 days) | 0.62%  |
-| Tweeters with < 10 followers  | 5.3%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **JLazzy23** |
+| #2 Most tweeted to  | **CBSSportsGolazo** |
+| #3 Most tweeted to  | **MicahRichards** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 7.44%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +44,28 @@ The most popular user is: **mikebest**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARDIGRAS**  |
-| second  | **MARDI**  |
-| third  | **HAPPY** |
-| fourth  | **GRAS**  |
-| fifth  | **TUESDAY**  |
+| first  | **KANE**  |
+| second  | **PATRICK**  |
+| third  | **HARRY** |
+| fourth  | **GOING**  |
+| fifth  | **REMEMBER**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-21BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (42.86%)
+![image](assets/2023-02-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Saints: Everywhere Else, It's Just Tuesday 🎭#MardiGras https://t.co/U7frPgURJA |
+|RT @emilymkaplan: Nine days until the NHL Trade Deadline.. Here’s the latest on what I’m hearing ⬇️https://t.co/jhdtGeNnll |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mikebest**  |
+| The most retweeted user is: **kane_rep**  |
 | ------------- |
-| RT @Saints: Everywhere Else, It's Just Tuesday 🎭#MardiGras https://t.co/U7frPgURJA |
+| RT @IHayato: 🔥🔥🔥MASSIVE FREEMINT🔥🔥🔥#CNP , No.1 project in Japan, will hold its largest-ever FREEMINT!☑ Follow @cnp_en @ihayato☑ Like a… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
