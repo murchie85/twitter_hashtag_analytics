@@ -1,41 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kane"**
+&#x1F34E; **TOPIC = "Di Maria"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-22TWEETS.png)
+![image](assets/2023-02-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @JLazzy23: “So now Kane is recalibrating again. I believe he's asked to explore if going to the Rangers is still an option. It's not imp… |
-| RT @timandfriends: "Dog 💩 saves Stuey." First win in a month for Stuart Skinner but Evander Kane won't let him enjoy it 🤣 #LetsGoOilers @… |
-| OFFICIALS for tonight's contest vs Erie R - Mike Marley,  Brendan Kane, L - Justin Herrington, Nick Arcan, https://t.co/MbueweXB0I |
+| RT @ESPNFC: ANGEL DI MARIA HAS HIS FIRST JUVENTUS HAT TRICK 👏🦓 https://t.co/r3ZGnx1p5G |
+| RT @ESPNFC: ANGEL DI MARIA HAS HIS FIRST JUVENTUS HAT TRICK 👏🦓 https://t.co/r3ZGnx1p5G |
+| RT @StoolFootball: Angel Di Maria needs to learn to behave himself.That is absolutely disgraceful. https://t.co/uNelzwbFI9 |
 
-The most popular user is: **kane_rep**
-<div class="alert alert-block alert-danger"> RT @IHayato: 🔥🔥🔥MASSIVE FREEMINT🔥🔥🔥
+The most popular user is: **BIG_Winning1**
+<div class="alert alert-block alert-danger"> RT @AlbicelesteTalk: Di Maria is unreal, crazy player.
 
-#CNP , No.1 project in Japan, will hold its largest-ever FREEMINT!
-
-☑ Follow @cnp_en @ihayato
-☑ Like a…</div>
+ https://t.co/4d2OHTnCqa</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JLazzy23** |
-| #2 Most tweeted to  | **CBSSportsGolazo** |
-| #3 Most tweeted to  | **MicahRichards** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 7.44%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **ESPNFC** |
+| #2 Most tweeted to  | **AlbicelesteTalk** |
+| #3 Most tweeted to  | **StoolFootball** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 3.72%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -44,28 +41,28 @@ The most popular user is: **kane_rep**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KANE**  |
-| second  | **PATRICK**  |
-| third  | **HARRY** |
-| fourth  | **GOING**  |
-| fifth  | **REMEMBER**  |
+| first  | **MARIA**  |
+| second  | **DI**  |
+| third  | **ANGEL** |
+| fourth  | **JUVENTUS**  |
+| fifth  | **HAT**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-22BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2023-02-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @emilymkaplan: Nine days until the NHL Trade Deadline.. Here’s the latest on what I’m hearing ⬇️https://t.co/jhdtGeNnll |
+|RT @AlbicelesteTalk: Di Maria HATTRICK!! ⚽️⚽️⚽️ |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kane_rep**  |
+| The most retweeted user is: **BIG_Winning1**  |
 | ------------- |
-| RT @IHayato: 🔥🔥🔥MASSIVE FREEMINT🔥🔥🔥#CNP , No.1 project in Japan, will hold its largest-ever FREEMINT!☑ Follow @cnp_en @ihayato☑ Like a… |
+| RT @AlbicelesteTalk: Di Maria is unreal, crazy player. https://t.co/4d2OHTnCqa |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
