@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Di Maria"**
+&#x1F34E; **TOPIC = "Sarabia"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-23TWEETS.png)
+![image](assets/2023-02-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ESPNFC: ANGEL DI MARIA HAS HIS FIRST JUVENTUS HAT TRICK 👏🦓 https://t.co/r3ZGnx1p5G |
-| RT @ESPNFC: ANGEL DI MARIA HAS HIS FIRST JUVENTUS HAT TRICK 👏🦓 https://t.co/r3ZGnx1p5G |
-| RT @StoolFootball: Angel Di Maria needs to learn to behave himself.That is absolutely disgraceful. https://t.co/uNelzwbFI9 |
+| @Greyhead19 Sarabia still has to play LIV |
+| @FootballForeca3 Where’s Sarabia 🧐 |
+| RT @StefanWolves90: Sarabia is a poor poor player |
 
-The most popular user is: **BIG_Winning1**
-<div class="alert alert-block alert-danger"> RT @AlbicelesteTalk: Di Maria is unreal, crazy player.
-
- https://t.co/4d2OHTnCqa</div>
+The most popular user is: **manuel_sarabia**
+<div class="alert alert-block alert-danger"> RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ESPNFC** |
-| #2 Most tweeted to  | **AlbicelesteTalk** |
-| #3 Most tweeted to  | **StoolFootball** |
-| NewProfiles (less than 10 days) | 0.32%  |
-| Tweeters with < 10 followers  | 3.72%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **premierleague** |
+| #2 Most tweeted to  | **Wolves** |
+| #3 Most tweeted to  | **FPLOlympian** |
+| NewProfiles (less than 10 days) | 0.47%  |
+| Tweeters with < 10 followers  | 7.04%|
+| Tweeters with > 1000000 followers  | 0.8%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **BIG_Winning1**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARIA**  |
-| second  | **DI**  |
-| third  | **ANGEL** |
-| fourth  | **JUVENTUS**  |
-| fifth  | **HAT**  |
+| first  | **SARABIA**  |
+| second  | **WOLVES**  |
+| third  | **PABLO** |
+| fourth  | **GOAL**  |
+| fifth  | **CUNHA**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-23BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2023-02-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AlbicelesteTalk: Di Maria HATTRICK!! ⚽️⚽️⚽️ |
+|@FPL__Raptor Mahrez minutes, looking at Sarabia for a hit so bit risky |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **BIG_Winning1**  |
+| The most retweeted user is: **manuel_sarabia**  |
 | ------------- |
-| RT @AlbicelesteTalk: Di Maria is unreal, crazy player. https://t.co/4d2OHTnCqa |
+| RT @elonmusk: The new CEO of Twitter is amazing https://t.co/yBqWFUDIQH |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
