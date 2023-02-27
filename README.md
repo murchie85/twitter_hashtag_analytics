@@ -1,43 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fran"**
+&#x1F34E; **TOPIC = "#DeadSpaceMarkerMerchSweeps"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-25TWEETS.png)
+![image](assets/2023-02-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @GoodmanHoops (the game would be over and Iowa would have won if Fran hadn't thrown a tantrum but anyway) |
-| RT @lissa_warren: Had to cancel last night's @vromans event for @TaraIsonWriter's AT THE HOUR B/W DOG AND WOLF due to flash flood warnings… |
-| @FranSparrowtree he lookin' more than just fine, wdym fran- pls don't bait like dis 👀😭 |
+| @deadspace Can this be...inserted? #DeadSpaceMarkerMerchSweeps |
+| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
+| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
 
-The most popular user is: **Fran_Vmin95**
-<div class="alert alert-block alert-danger"> RT @bts_bighit: Me, Myself, and SUGA
-‘Wholly or Whole me’
-Special 8 Photo-Folio
+The most popular user is: **StrangeArcadia**
+<div class="alert alert-block alert-danger"> RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:
 
-Pre-production Making Film
-https://t.co/umf2HKPsx4
-
-#BTS #…</div>
+1. Fo…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BarstoolBigCat** |
-| #2 Most tweeted to  | **itsAntWright** |
-| #3 Most tweeted to  | **ThoughtsOfFran** |
+| #1 Most tweeted to  | **deadspace** |
+| #2 Most tweeted to  | **RoberthGarzon4** |
+| #3 Most tweeted to  | **RETINA8719** |
 | NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 4.18%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| Tweeters with < 10 followers  | 16.95%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -46,28 +41,28 @@ https://t.co/umf2HKPsx4
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FRAN**  |
-| second  | **DOWN**  |
-| third  | **MCCAFFERY** |
-| fourth  | **STARE**  |
-| fifth  | **MCCAFFREY**  |
+| first  | **MARKER**  |
+| second  | **CHANCE**  |
+| third  | **1** |
+| fourth  | **DEADSPACE**  |
+| fifth  | **MONTH**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-25BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2023-02-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MBrownstein89: Jaylin Davis’ first major league HR was a walk-off blast for the San Francisco Giants in 2019.He became the first Gian… |
+|@deadspace Would absolutely love this, especially the USB light!Good luck to all! 😊#DeadSpaceMarkerMerchSweeps |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Fran_Vmin95**  |
+| The most retweeted user is: **StrangeArcadia**  |
 | ------------- |
-| RT @bts_bighit: Me, Myself, and SUGA‘Wholly or Whole me’Special 8 Photo-FolioPre-production Making Filmhttps://t.co/umf2HKPsx4#BTS #… |
+| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
