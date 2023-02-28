@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#DeadSpaceMarkerMerchSweeps"**
+&#x1F34E; **TOPIC = "Julie Su"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-02-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-27TWEETS.png)
+![image](assets/2023-02-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @deadspace Can this be...inserted? #DeadSpaceMarkerMerchSweeps |
-| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
-| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
+| Biden to nominate Julie Su as next US labor secretary https://t.co/GiWjjKMmOy |
+| RT @JenMolina46: “It is my honor to nominate Julie Su to be our country’s next Secretary of Labor. Julie has spent her life fighting to mak… |
+| RT @LaurenKGurley: Scoop: The White House is vetting flight attendant union president, Sara Nelson, for secretary of labor, in addition to… |
 
-The most popular user is: **StrangeArcadia**
-<div class="alert alert-block alert-danger"> RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:
-
-1. Fo…</div>
+The most popular user is: **Julie_Zymovych**
+<div class="alert alert-block alert-danger"> RT @KpsZSU: 🇺🇦Su-27 is waiting for help from F-16 https://t.co/R0VhFkYmm7</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **deadspace** |
-| #2 Most tweeted to  | **RoberthGarzon4** |
-| #3 Most tweeted to  | **RETINA8719** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 16.95%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **KevinKileyCA** |
+| #2 Most tweeted to  | **LaurenKGurley** |
+| #3 Most tweeted to  | **POTUS** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 1.95%|
+| Tweeters with > 1000000 followers  | 0.88%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **StrangeArcadia**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MARKER**  |
-| second  | **CHANCE**  |
-| third  | **1** |
-| fourth  | **DEADSPACE**  |
-| fifth  | **MONTH**  |
+| first  | **SU**  |
+| second  | **LABOR**  |
+| third  | **JULIE** |
+| fourth  | **SECRETARY**  |
+| fifth  | **BIDEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-27BIO.png)
+## Twitter Bio Analysis![image](assets/2023-02-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2023-02-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@deadspace Would absolutely love this, especially the USB light!Good luck to all! 😊#DeadSpaceMarkerMerchSweeps |
+|Early in her career, Julie Su represented 70 immigrant garment workers who were enslaved in Los Angeles. This is… https://t.co/JL3Zd52LOX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **StrangeArcadia**  |
+| The most retweeted user is: **Julie_Zymovych**  |
 | ------------- |
-| RT @deadspace: It's been one month since #DeadSpace launched! To celebrate, we’re giving away 5 Marker Bundles. For a chance to win:1. Fo… |
+| RT @KpsZSU: 🇺🇦Su-27 is waiting for help from F-16 https://t.co/R0VhFkYmm7 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
