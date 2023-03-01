@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Julie Su"**
+&#x1F34E; **TOPIC = "Ja Morant"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-02-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-02-28TWEETS.png)
+![image](assets/2023-03-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Biden to nominate Julie Su as next US labor secretary https://t.co/GiWjjKMmOy |
-| RT @JenMolina46: “It is my honor to nominate Julie Su to be our country’s next Secretary of Labor. Julie has spent her life fighting to mak… |
-| RT @LaurenKGurley: Scoop: The White House is vetting flight attendant union president, Sara Nelson, for secretary of labor, in addition to… |
+| RT @BleacherReport: Ja Morant was accused of punching a 17-year-old boy 12-13 times and flashing a gun at him during a pickup basketball ga… |
+| RT @TheNBACentral: Ja Morant has been accused of allegedly beating up a 17-year-old boy and pointing a gun at him, per @mollyhc“The teena… |
+| RT @TheNBACentral: Ja Morant has been accused of allegedly beating up a 17-year-old boy and pointing a gun at him, per @CandaceDBuckner“T… |
 
-The most popular user is: **Julie_Zymovych**
-<div class="alert alert-block alert-danger"> RT @KpsZSU: 🇺🇦Su-27 is waiting for help from F-16 https://t.co/R0VhFkYmm7</div>
+The most popular user is: **DarthSideeye**
+<div class="alert alert-block alert-danger"> RT @shannonsharpeee: Unc Shannon sharpe spittin facts about ja Morant &amp; his friends 💯💯💯 https://t.co/aa7ko50QGL</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KevinKileyCA** |
-| #2 Most tweeted to  | **LaurenKGurley** |
-| #3 Most tweeted to  | **POTUS** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 1.95%|
-| Tweeters with > 1000000 followers  | 0.88%  |
+| #1 Most tweeted to  | **TheNBACentral** |
+| #2 Most tweeted to  | **mollyhc** |
+| #3 Most tweeted to  | **big_business_** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 2.68%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Julie_Zymovych**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SU**  |
-| second  | **LABOR**  |
-| third  | **JULIE** |
-| fourth  | **SECRETARY**  |
-| fifth  | **BIDEN**  |
+| first  | **JA**  |
+| second  | **MORANT**  |
+| third  | **ACCUSED** |
+| fourth  | **BOY**  |
+| fifth  | **17-YEAR-OLD**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-02-28BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-02-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-03-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Early in her career, Julie Su represented 70 immigrant garment workers who were enslaved in Los Angeles. This is… https://t.co/JL3Zd52LOX |
+|RT @big_business_: So apparently Ja Morant's mother called him after having an argument with a Finish Line employee and he came to the mall… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Julie_Zymovych**  |
+| The most retweeted user is: **DarthSideeye**  |
 | ------------- |
-| RT @KpsZSU: 🇺🇦Su-27 is waiting for help from F-16 https://t.co/R0VhFkYmm7 |
+| RT @shannonsharpeee: Unc Shannon sharpe spittin facts about ja Morant &amp; his friends 💯💯💯 https://t.co/aa7ko50QGL |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
