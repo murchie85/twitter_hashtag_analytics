@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Ja Morant"**
+&#x1F34E; **TOPIC = "Fentanyl"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-01TWEETS.png)
+![image](assets/2023-03-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BleacherReport: Ja Morant was accused of punching a 17-year-old boy 12-13 times and flashing a gun at him during a pickup basketball ga… |
-| RT @TheNBACentral: Ja Morant has been accused of allegedly beating up a 17-year-old boy and pointing a gun at him, per @mollyhc“The teena… |
-| RT @TheNBACentral: Ja Morant has been accused of allegedly beating up a 17-year-old boy and pointing a gun at him, per @CandaceDBuckner“T… |
+| This should be a in person public apology to this mother.'How dare you': Mother of two sons who died from fentany… https://t.co/er4MpBr1Up |
+| RT @45LVNancy: Biden laughed and blamed Trump for the 2 boys killed due to Fentanyl.What about #KaylaHamilton, raped &amp; killed by MS13 .… |
+| RT @Acyn: Biden: A little bit more Marjorie Taylor Greene will have a lot of Republicans running our way. Is she amazing? She was saying t… |
 
-The most popular user is: **DarthSideeye**
-<div class="alert alert-block alert-danger"> RT @shannonsharpeee: Unc Shannon sharpe spittin facts about ja Morant &amp; his friends 💯💯💯 https://t.co/aa7ko50QGL</div>
+The most popular user is: **UFStemCell**
+<div class="alert alert-block alert-danger"> RT @elonmusk: @TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheNBACentral** |
-| #2 Most tweeted to  | **mollyhc** |
-| #3 Most tweeted to  | **big_business_** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 2.68%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **RNCResearch** |
+| #2 Most tweeted to  | **POTUS** |
+| #3 Most tweeted to  | **BasedMikeLee** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 5.78%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DarthSideeye**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JA**  |
-| second  | **MORANT**  |
-| third  | **ACCUSED** |
-| fourth  | **BOY**  |
-| fifth  | **17-YEAR-OLD**  |
+| first  | **FENTANYL**  |
+| second  | **BIDEN**  |
+| third  | **TWO** |
+| fourth  | **PRESIDENT**  |
+| fifth  | **SONS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-01BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-03-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @big_business_: So apparently Ja Morant's mother called him after having an argument with a Finish Line employee and he came to the mall… |
+|RT @BasedMikeLee: .@POTUS needs to apologize for this immediately. No person, let alone the president of the United States, laughs when spe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DarthSideeye**  |
+| The most retweeted user is: **UFStemCell**  |
 | ------------- |
-| RT @shannonsharpeee: Unc Shannon sharpe spittin facts about ja Morant &amp; his friends 💯💯💯 https://t.co/aa7ko50QGL |
+| RT @elonmusk: @TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
