@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Demon Slayer"**
+&#x1F34E; **TOPIC = "Greenway"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-03TWEETS.png)
+![image](assets/2023-03-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lazio1500: Demon Slayer draws 52,000 on its second day of release in Korea, surpassing 117,000 |
-| Demon Slayer in 4 hours https://t.co/hmZc7DMEqc |
-| 8 anime and manga to get to know me:Dragonball zNarutoOne pieceBlack cloverDemon SlayerBleach Jujutsu Kaise… https://t.co/UirsgeEeCZ |
+| Really nice work by #mnwild’s Guerin at the deadline: Klingberg, Johansson, Nyquist, Sunqvist, a 2 in ‘23, a 5 AND… https://t.co/Nc21NTSOia |
+| RT @SKORNorth: BREAKING: The #mnwild have traded Jordan Greenway to the Buffalo Sabres for a 2023 second-round pick and 2024 fifth-round pi… |
+| RT @LLysowski: Return for Greenway is a 2023 second-round pick and a 2024 fifth-rounder. Working to confirm which of the Sabres' seconds ar… |
 
-The most popular user is: **OthmaneZahra**
-<div class="alert alert-block alert-danger"> RT @DemonSlayerUSA: #NEWS Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village- World Tour coming in 2023 with premiere event in Los A…</div>
+The most popular user is: **steve_greenway**
+<div class="alert alert-block alert-danger"> RT @BladeoftheS: Jacob Rees-Mogg claims that nobody cares about #partygate anymore.
+
+Do you care?
+
+Feel free to RT to show that you do. htt…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KnYtweets** |
-| #2 Most tweeted to  | **Sirodue1** |
-| #3 Most tweeted to  | **DemonSlayerUSA** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 7.06%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **BuffaloSabres** |
+| #2 Most tweeted to  | **mnwild** |
+| #3 Most tweeted to  | **TheFourthPeriod** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 4.66%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **OthmaneZahra**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DEMON**  |
-| second  | **SLAYER**  |
-| third  | **ANIME** |
-| fourth  | **@KNYTWEETS:**  |
-| fifth  | **:**  |
+| first  | **GREENWAY**  |
+| second  | **JORDAN**  |
+| third  | **SABRES** |
+| fourth  | **PICK**  |
+| fifth  | **BUFFALO**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (14.29%) & **NEGATIVELY-SUBJECTIVE** (21.43%) **OBJECTIVE** (64.29%)
+![image](assets/2023-03-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@_PVRCinemas @_PVRCinemas please bring demon slayer swordsmith village arc in India it's a huge request from all an… https://t.co/G2bXwWvpYq |
+|RT @BuffaloSabres: We have acquired forward Jordan Greenway from the Minnesota Wild in exchange for a second-round pick in the 2023 NHL Dra… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **OthmaneZahra**  |
+| The most retweeted user is: **steve_greenway**  |
 | ------------- |
-| RT @DemonSlayerUSA: #NEWS Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village- World Tour coming in 2023 with premiere event in Los A… |
+| RT @BladeoftheS: Jacob Rees-Mogg claims that nobody cares about #partygate anymore.Do you care?Feel free to RT to show that you do. htt… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
