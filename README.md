@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Greenway"**
+&#x1F34E; **TOPIC = "Man U"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-04TWEETS.png)
+![image](assets/2023-03-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Really nice work by #mnwild’s Guerin at the deadline: Klingberg, Johansson, Nyquist, Sunqvist, a 2 in ‘23, a 5 AND… https://t.co/Nc21NTSOia |
-| RT @SKORNorth: BREAKING: The #mnwild have traded Jordan Greenway to the Buffalo Sabres for a 2023 second-round pick and 2024 fifth-round pi… |
-| RT @LLysowski: Return for Greenway is a 2023 second-round pick and a 2024 fifth-rounder. Working to confirm which of the Sabres' seconds ar… |
+| RT @MumfordAndPlums: shame at least Man U got drilled today. sbwl. |
+| @bukolaorenaiya @IkukuomaC @urchilla01 @chude__ @_weyimi @Spotlight_Abby @AfamDeluxo @EmodiMba @FS_Yusuf_… https://t.co/bSBIUi7Pwt |
+| @mrmacaronii Imagination wan kill Man u fans |
 
-The most popular user is: **steve_greenway**
-<div class="alert alert-block alert-danger"> RT @BladeoftheS: Jacob Rees-Mogg claims that nobody cares about #partygate anymore.
-
-Do you care?
-
-Feel free to RT to show that you do. htt…</div>
+The most popular user is: **lihle_toya**
+<div class="alert alert-block alert-danger"> RT @Goddess0shun: You know what’s hard to find now a days.. a man that makes more money than u</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BuffaloSabres** |
-| #2 Most tweeted to  | **mnwild** |
-| #3 Most tweeted to  | **TheFourthPeriod** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 4.66%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **the_smallie** |
+| #2 Most tweeted to  | **AnitahAmong** |
+| #3 Most tweeted to  | **AreaFada1** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 6.24%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -43,28 +39,28 @@ Feel free to RT to show that you do. htt…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GREENWAY**  |
-| second  | **JORDAN**  |
-| third  | **SABRES** |
-| fourth  | **PICK**  |
-| fifth  | **BUFFALO**  |
+| first  | **MAN**  |
+| second  | **U**  |
+| third  | **LIVERPOOL** |
+| fourth  | **GO**  |
+| fifth  | **DEY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-04BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-03-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BuffaloSabres: We have acquired forward Jordan Greenway from the Minnesota Wild in exchange for a second-round pick in the 2023 NHL Dra… |
+|RT @killerOdds_: 😂😂 Title contenders how far na? 😂😂😂😂Liverpool Man U De Gea Juicy Sabitzer Weghorst Ajax Comeback Mo Salah Trent The Butc… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **steve_greenway**  |
+| The most retweeted user is: **lihle_toya**  |
 | ------------- |
-| RT @BladeoftheS: Jacob Rees-Mogg claims that nobody cares about #partygate anymore.Do you care?Feel free to RT to show that you do. htt… |
+| RT @Goddess0shun: You know what’s hard to find now a days.. a man that makes more money than u |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
