@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Man U"**
+&#x1F34E; **TOPIC = "#RaiderNation"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-05TWEETS.png)
+![image](assets/2023-03-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MumfordAndPlums: shame at least Man U got drilled today. sbwl. |
-| @bukolaorenaiya @IkukuomaC @urchilla01 @chude__ @_weyimi @Spotlight_Abby @AfamDeluxo @EmodiMba @FS_Yusuf_… https://t.co/bSBIUi7Pwt |
-| @mrmacaronii Imagination wan kill Man u fans |
+| Free Agency Now Just Around the Corner For Ziegler, Raiders #RaiderNation #RaiderFamily #JustWinBaby #RN4L #Raiders https://t.co/ahB2PaGUUO |
+| I’m mad happy for them #KP #RaiderNation #plumdawg #Aces https://t.co/wY5KWQtP2G |
+| RT @CertifiedBoysss: Interesting headline out loud of Las Vegas this morning. Head Coach Josh McDaniels did not name a starting quarterback… |
 
-The most popular user is: **lihle_toya**
-<div class="alert alert-block alert-danger"> RT @Goddess0shun: You know what’s hard to find now a days.. a man that makes more money than u</div>
+The most popular user is: **kuangheungyin33**
+<div class="alert alert-block alert-danger"> RT @BoJackson: Proud of Carl Nassib on coming out yesterday. The #RaiderNation, the whole country, and I stand with you.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **the_smallie** |
-| #2 Most tweeted to  | **AnitahAmong** |
-| #3 Most tweeted to  | **AreaFada1** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 6.24%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **Raiders** |
+| #2 Most tweeted to  | **MitchellRenz365** |
+| #3 Most tweeted to  | **RaideretteDaily** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 3.28%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **lihle_toya**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MAN**  |
-| second  | **U**  |
-| third  | **LIVERPOOL** |
-| fourth  | **GO**  |
-| fifth  | **DEY**  |
+| first  | **RAIDERNATION**  |
+| second  | **RAIDERS**  |
+| third  | **@RAIDERS** |
+| fourth  | **@MITCHELLRENZ365:**  |
+| fifth  | **QB**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-05BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-03-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @killerOdds_: 😂😂 Title contenders how far na? 😂😂😂😂Liverpool Man U De Gea Juicy Sabitzer Weghorst Ajax Comeback Mo Salah Trent The Butc… |
+|RT @GraphkRaider: Who made this? 😂😂😂😂💀💀💀💀#RaiderNation https://t.co/JR8SeQfR3p |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lihle_toya**  |
+| The most retweeted user is: **kuangheungyin33**  |
 | ------------- |
-| RT @Goddess0shun: You know what’s hard to find now a days.. a man that makes more money than u |
+| RT @BoJackson: Proud of Carl Nassib on coming out yesterday. The #RaiderNation, the whole country, and I stand with you. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
