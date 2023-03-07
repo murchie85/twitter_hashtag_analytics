@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RaiderNation"**
+&#x1F34E; **TOPIC = "#TakeFlight"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-06TWEETS.png)
+![image](assets/2023-03-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Free Agency Now Just Around the Corner For Ziegler, Raiders #RaiderNation #RaiderFamily #JustWinBaby #RN4L #Raiders https://t.co/ahB2PaGUUO |
-| I’m mad happy for them #KP #RaiderNation #plumdawg #Aces https://t.co/wY5KWQtP2G |
-| RT @CertifiedBoysss: Interesting headline out loud of Las Vegas this morning. Head Coach Josh McDaniels did not name a starting quarterback… |
+| Titans releasing Bud DuPree #JetsDiscussion #JetsForum #JetsFans #TakeFlight #JetsFan https://t.co/SnmxSHRCzk |
+| @cfrelund Much ❤️ to this brilliant lady! She's right, too. 💚💚 #Jets #BryceHuff #JetsTwitter #TakeFlight… https://t.co/tkpGZb8N6r |
+| Former #flyboy @treysweeney3 in a spring training at bat for @Yankees #TakeFlight https://t.co/I5VAxZTRKj |
 
-The most popular user is: **kuangheungyin33**
-<div class="alert alert-block alert-danger"> RT @BoJackson: Proud of Carl Nassib on coming out yesterday. The #RaiderNation, the whole country, and I stand with you.</div>
+The most popular user is: **111Ran1031**
+<div class="alert alert-block alert-danger"> RT @LindseyStirling: What do you guys think of my video for #TakeFlight? #NewLindseyStirling #YTMA 
+
+https://t.co/MShqFnXtAq http://t.co/Ps…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Raiders** |
-| #2 Most tweeted to  | **MitchellRenz365** |
-| #3 Most tweeted to  | **RaideretteDaily** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 3.28%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BoyGreen25** |
+| #2 Most tweeted to  | **nyjets** |
+| #3 Most tweeted to  | **nyjetshistory** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 2.57%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **kuangheungyin33**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RAIDERNATION**  |
-| second  | **RAIDERS**  |
-| third  | **@RAIDERS** |
-| fourth  | **@MITCHELLRENZ365:**  |
-| fifth  | **QB**  |
+| first  | **JETS**  |
+| second  | **TAKEFLIGHT**  |
+| third  | **@BOYGREEN25:** |
+| fourth  | **RODGERS**  |
+| fifth  | **AARON**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (26.67%)
+![image](assets/2023-03-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @GraphkRaider: Who made this? 😂😂😂😂💀💀💀💀#RaiderNation https://t.co/JR8SeQfR3p |
+|RT @nyjetshistory: 9/25/1994Johnny Johnson w/ a 90 yard run which is the longest from scrimmage in @nyjets history. (Don't ask what happe… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kuangheungyin33**  |
+| The most retweeted user is: **111Ran1031**  |
 | ------------- |
-| RT @BoJackson: Proud of Carl Nassib on coming out yesterday. The #RaiderNation, the whole country, and I stand with you. |
+| RT @LindseyStirling: What do you guys think of my video for #TakeFlight? #NewLindseyStirling #YTMA https://t.co/MShqFnXtAq http://t.co/Ps… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
