@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Syracuse"**
+&#x1F34E; **TOPIC = "Turner"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-08TWEETS.png)
+![image](assets/2023-03-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Syracuse's last two seasons:16-17 overall, 10-12 ACC17-15 overall, 10-11 ACCHaven't finished in the top five o… https://t.co/1ona2FQFIw |
-| @George_Cloe @thesnkrsleaker Orange. Was looking to make something similar to the Syracuse dunks |
-| @CNYCentral That's RIDICULOUS..... WTF is Syracuse coming to? WTF is @BenWalsh44 thinking... Your just fueling thei… https://t.co/WMrOvFo7uR |
+| RT @BookPings: Good Read - Looking for a page-turner filled with military action, humor, and steamy romance? Check out the Providence Serie… |
+| Why does that presenter keep saying Ben turner instead of Matt turner 😂😂🤦🏽‍♂️ |
+| Someone give Matt Turner’s head a wobble |
 
-The most popular user is: **syracuse_blue**
-<div class="alert alert-block alert-danger"> RT @firstladyship: Sanwo-Olu auctioned a struggling boy’s bus. All appeals to show mercy, fell on deaf ear. The boy’s mom cried out her eye…</div>
+The most popular user is: **Goose_Turner**
+<div class="alert alert-block alert-danger"> RT @heavenbrat: happy womens day especially to every first born daughter</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **marcusadams21** |
-| #2 Most tweeted to  | **CBKReport** |
-| #3 Most tweeted to  | **LO_Syracuse** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 4.5%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **Arsenal** |
+| #2 Most tweeted to  | **EduardoHagn** |
+| #3 Most tweeted to  | **Orbinho** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 7.66%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **syracuse_blue**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SYRACUSE**  |
-| second  | **WAKE**  |
-| third  | **FOREST** |
-| fourth  | **ACC**  |
-| fifth  | **TOURNAMENT**  |
+| first  | **TURNER**  |
+| second  | **KIWIOR**  |
+| third  | **MATT** |
+| fourth  | **GOOD**  |
+| fifth  | **MAKES**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-08BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-03-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|After moving into my new house in august I felt I lost my lucky Syracuse socks. BUT GUESS WHAT! I found those baby’s today! We not losing! |
+|Turner and Kiwior were bad there.Kiwior been good this game as well |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **syracuse_blue**  |
+| The most retweeted user is: **Goose_Turner**  |
 | ------------- |
-| RT @firstladyship: Sanwo-Olu auctioned a struggling boy’s bus. All appeals to show mercy, fell on deaf ear. The boy’s mom cried out her eye… |
+| RT @heavenbrat: happy womens day especially to every first born daughter |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
