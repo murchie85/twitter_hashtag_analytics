@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Turner"**
+&#x1F34E; **TOPIC = "#Oscars"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-09TWEETS.png)
+![image](assets/2023-03-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BookPings: Good Read - Looking for a page-turner filled with military action, humor, and steamy romance? Check out the Providence Serie… |
-| Why does that presenter keep saying Ben turner instead of Matt turner 😂😂🤦🏽‍♂️ |
-| Someone give Matt Turner’s head a wobble |
+| RT @Hishighness999: We are seeing Almost Every day innocent h!ndu gals wer being k!lled brutally and packed in suite cases/ fridges.. No on… |
+| RT @sleepopolis: The #Oscars are right around the corner, and the stars are busy planning their evenings of dinner, fun, and for @jamieleec… |
+| RT @EluruNtrFans: #RRR star @tarak9999 will carry his "nation in [his] heart" as he walks the #Oscars    red carpet this Sundayhttps://t.c… |
 
-The most popular user is: **Goose_Turner**
-<div class="alert alert-block alert-danger"> RT @heavenbrat: happy womens day especially to every first born daughter</div>
+The most popular user is: **PranavsaiNTRMSD**
+<div class="alert alert-block alert-danger"> RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 
+
+Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Arsenal** |
-| #2 Most tweeted to  | **EduardoHagn** |
-| #3 Most tweeted to  | **Orbinho** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 7.66%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **AlwaysRamCharan** |
+| #2 Most tweeted to  | **IndiaToday** |
+| #3 Most tweeted to  | **tarak9999** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 5.04%|
+| Tweeters with > 1000000 followers  | 0.4%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Goose_Turner**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TURNER**  |
-| second  | **KIWIOR**  |
-| third  | **MATT** |
-| fourth  | **GOOD**  |
-| fifth  | **MAKES**  |
+| first  | **OSCARS**  |
+| second  | **STAR**  |
+| third  | **@ALWAYSRAMCHARAN** |
+| fourth  | **SPEAKING**  |
+| fifth  | **@INDIATODAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-09BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2023-03-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Turner and Kiwior were bad there.Kiwior been good this game as well |
+|RT @PopCrave: Madame Tussauds Hollywood unveils new wax figure of Lady Gaga from the 2019 #Oscars. https://t.co/KHfLBfhVeY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Goose_Turner**  |
+| The most retweeted user is: **PranavsaiNTRMSD**  |
 | ------------- |
-| RT @heavenbrat: happy womens day especially to every first born daughter |
+| RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
