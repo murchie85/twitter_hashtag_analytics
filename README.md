@@ -1,38 +1,37 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Oscars"**
+&#x1F34E; **TOPIC = "#Caturday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-10TWEETS.png)
+![image](assets/2023-03-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Hishighness999: We are seeing Almost Every day innocent h!ndu gals wer being k!lled brutally and packed in suite cases/ fridges.. No on… |
-| RT @sleepopolis: The #Oscars are right around the corner, and the stars are busy planning their evenings of dinner, fun, and for @jamieleec… |
-| RT @EluruNtrFans: #RRR star @tarak9999 will carry his "nation in [his] heart" as he walks the #Oscars    red carpet this Sundayhttps://t.c… |
+| RT @Number10cat: Happy #Caturdayhttps://t.co/rbKoRzeqJs |
+| RT @CincinnatiZoo: Sound on to hear Willow's beautiful purr. Cats can either roar or purr; they can't do both. #caturday https://t.co/gngtb… |
+| RT @Betty_Boo_Kat: Will I efur get to play out again?! ❄️😿❄️ #Caturday #snow #holmfirth ☃️ https://t.co/3ASFOKoE9p |
 
-The most popular user is: **PranavsaiNTRMSD**
-<div class="alert alert-block alert-danger"> RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 
-
-Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t…</div>
+The most popular user is: **Stoney89379247**
+<div class="alert alert-block alert-danger"> RT @Number10cat: Happy #Caturday
+https://t.co/UDOZTUDWTQ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AlwaysRamCharan** |
-| #2 Most tweeted to  | **IndiaToday** |
-| #3 Most tweeted to  | **tarak9999** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 5.04%|
-| Tweeters with > 1000000 followers  | 0.4%  |
+| #1 Most tweeted to  | **Number10cat** |
+| #2 Most tweeted to  | **_Cristian_Vlad_** |
+| #3 Most tweeted to  | **PenelopeRuzy** |
+| NewProfiles (less than 10 days) | 0.46%  |
+| Tweeters with < 10 followers  | 3.68%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +40,28 @@ Proud and privileged to share that #NaatuNaatu has been nominated for Best Origi
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSCARS**  |
-| second  | **STAR**  |
-| third  | **@ALWAYSRAMCHARAN** |
-| fourth  | **SPEAKING**  |
-| fifth  | **@INDIATODAY**  |
+| first  | **CATURDAY**  |
+| second  | **HAPPY**  |
+| third  | **@NUMBER10CAT:** |
+| fourth  | **CATS**  |
+| fifth  | **CATSOFTWITTER**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-10BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (73.33%)
+![image](assets/2023-03-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (35.71%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (64.29%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @PopCrave: Madame Tussauds Hollywood unveils new wax figure of Lady Gaga from the 2019 #Oscars. https://t.co/KHfLBfhVeY |
+|RT @noirgal17: Laird Cregar in HANGOVER SQUARE for #Caturday 📷Getty Images https://t.co/1xcpzYXe45 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PranavsaiNTRMSD**  |
+| The most retweeted user is: **Stoney89379247**  |
 | ------------- |
-| RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t… |
+| RT @Number10cat: Happy #Caturdayhttps://t.co/UDOZTUDWTQ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
