@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Oscars"**
+&#x1F34E; **TOPIC = "#Texans"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-12TWEETS.png)
+![image](assets/2023-03-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @gagadaily: Surprise! Lady Gaga is performing at the #Oscars tonight, Variety reports. https://t.co/oZGuSiLOtq |
-| RT @brielarson: Encouraging everyone who wins at the #Oscars tonight to play an intense staring contest with their statues ⭐️ https://t.co/… |
-| RT @CinemaTweets1: Nominated for 11 #OSCARS https://t.co/D6XnyI7qwh |
+| RT @Djbienaime: WR Phillip Dorsett, who spent the last two seasons with the #Texans, has received interest from the Raiders and Patriots so… |
+| RT @NFL_DovKleiman: Update: There could be a potential trade involving #Texans Pro Bowl LT Laremy Tunsil, per rumors shared by ESPN reporte… |
+| RT @NickSchwagerNFL: Jimmy Garoppolo only makes sense if the #Texans draft a QB like Anthony Richardson or Hendon Hooker. If they draft B… |
 
-The most popular user is: **NikhatFirdaus7**
-<div class="alert alert-block alert-danger"> RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 
+The most popular user is: **TheKardiac_Kid**
+<div class="alert alert-block alert-danger"> RT @RapSheet: Deshaun Watson plans to waive his no-trade clause to the #Browns, sources tell me and @TomPelissero. Yes, the Browns!!
 
-Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t…</div>
+Trade…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DiscussingFilm** |
-| #2 Most tweeted to  | **FilmUpdates** |
-| #3 Most tweeted to  | **tarak9999** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 5.46%|
-| Tweeters with > 1000000 followers  | 0.46%  |
+| #1 Most tweeted to  | **AaronWilson_NFL** |
+| #2 Most tweeted to  | **RapSheet** |
+| #3 Most tweeted to  | **NFL_DovKleiman** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 2.02%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +41,28 @@ Proud and privileged to share that #NaatuNaatu has been nominated for Best Origi
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **OSCARS**  |
-| second  | **TONIGHT**  |
-| third  | **BEST** |
-| fourth  | **GAGA**  |
-| fifth  | **LADY**  |
+| first  | **TEXANS**  |
+| second  | **PER**  |
+| third  | **SIGNING** |
+| fourth  | **FORMER**  |
+| fifth  | **TRADE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-12BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2023-03-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|With the #Oscars tonight (hopefully) ending the current awards season, here's the one thing I wrote about this year… https://t.co/TZpCIRQwip |
+|RT @jasrifootball: 𝙍𝙪𝙢𝙤𝙧𝙨 : There have been rumors about a trade involving #Texans pro bowl LT Laremy Tunsil, per @Djbienaime Houston tra… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **NikhatFirdaus7**  |
+| The most retweeted user is: **TheKardiac_Kid**  |
 | ------------- |
-| RT @RRRMovie: WE CREATED HISTORY!! 🇮🇳 Proud and privileged to share that #NaatuNaatu has been nominated for Best Original Song at the 95t… |
+| RT @RapSheet: Deshaun Watson plans to waive his no-trade clause to the #Browns, sources tell me and @TomPelissero. Yes, the Browns!!Trade… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
