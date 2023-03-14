@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Texans"**
+&#x1F34E; **TOPIC = "Corey Davis"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-13TWEETS.png)
+![image](assets/2023-03-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Djbienaime: WR Phillip Dorsett, who spent the last two seasons with the #Texans, has received interest from the Raiders and Patriots so… |
-| RT @NFL_DovKleiman: Update: There could be a potential trade involving #Texans Pro Bowl LT Laremy Tunsil, per rumors shared by ESPN reporte… |
-| RT @NickSchwagerNFL: Jimmy Garoppolo only makes sense if the #Texans draft a QB like Anthony Richardson or Hendon Hooker. If they draft B… |
+| Corey Davis and Garrett Wilson are already there. If we can go get Elijah Moore or Braxton Berrios, it may be the f… https://t.co/qOWaiMJo7n |
+| Bring Corey Davis home. https://t.co/MeQyrCkdEt |
+| RT @SpyroKush: I’d cut Corey Davis for him and not think twice tbh. We’d lose a little bit in blocking but the reliable and explosiveness w… |
 
-The most popular user is: **TheKardiac_Kid**
-<div class="alert alert-block alert-danger"> RT @RapSheet: Deshaun Watson plans to waive his no-trade clause to the #Browns, sources tell me and @TomPelissero. Yes, the Browns!!
-
-Trade…</div>
+The most popular user is: **corey_scottjr**
+<div class="alert alert-block alert-danger"> RT @HappyPunchPromo: Gervonta Davis and Ryan Garcia face off for the first time 👀 #DavisGarcia https://t.co/pJ4sgmTWeb</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AaronWilson_NFL** |
-| #2 Most tweeted to  | **RapSheet** |
-| #3 Most tweeted to  | **NFL_DovKleiman** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 2.02%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **Peter_Bukowski** |
+| #2 Most tweeted to  | **uSTADIUM** |
+| #3 Most tweeted to  | **BuffaloJetFan** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 7.23%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +39,28 @@ Trade…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TEXANS**  |
-| second  | **PER**  |
-| third  | **SIGNING** |
-| fourth  | **FORMER**  |
-| fifth  | **TRADE**  |
+| first  | **COREY**  |
+| second  | **DAVIS**  |
+| third  | **JETS** |
+| fourth  | **LAZARD**  |
+| fifth  | **MOORE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-13BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (40.0%)
+![image](assets/2023-03-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @jasrifootball: 𝙍𝙪𝙢𝙤𝙧𝙨 : There have been rumors about a trade involving #Texans pro bowl LT Laremy Tunsil, per @Djbienaime Houston tra… |
+|@MySportsUpdate Idk what he talking about bout Raiders can have Corey Davis and a 7th |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheKardiac_Kid**  |
+| The most retweeted user is: **corey_scottjr**  |
 | ------------- |
-| RT @RapSheet: Deshaun Watson plans to waive his no-trade clause to the #Browns, sources tell me and @TomPelissero. Yes, the Browns!!Trade… |
+| RT @HappyPunchPromo: Gervonta Davis and Ryan Garcia face off for the first time 👀 #DavisGarcia https://t.co/pJ4sgmTWeb |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
