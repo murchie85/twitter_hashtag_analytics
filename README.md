@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Corey Davis"**
+&#x1F34E; **TOPIC = "Aztecs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-14TWEETS.png)
+![image](assets/2023-03-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Corey Davis and Garrett Wilson are already there. If we can go get Elijah Moore or Braxton Berrios, it may be the f… https://t.co/qOWaiMJo7n |
-| Bring Corey Davis home. https://t.co/MeQyrCkdEt |
-| RT @SpyroKush: I’d cut Corey Davis for him and not think twice tbh. We’d lose a little bit in blocking but the reliable and explosiveness w… |
+| @BWattsSD92 @sdutzeigler I really like knowing about our competition. Especially since I've read and watched so much of our Aztecs. |
+| RT @Aztec_MBB: Mambo No. 5🖐The Aztecs are headed to Orlando! Hope to see you there, Aztec Nation.#TheTimeIsNow https://t.co/GjTbAgpj22 |
+| RT @MarchMadnessMBB: SAN DIEGO STATE TAKES THE MOUNTAIN WEST CHAMPIONSHIP 👏The Aztecs defeat Utah State to sweep the Mountain West regula… |
 
-The most popular user is: **corey_scottjr**
-<div class="alert alert-block alert-danger"> RT @HappyPunchPromo: Gervonta Davis and Ryan Garcia face off for the first time 👀 #DavisGarcia https://t.co/pJ4sgmTWeb</div>
+The most popular user is: **JoeCrofts**
+<div class="alert alert-block alert-danger"> RT @TheTweetOfGod: The Aztecs felt the same way.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Peter_Bukowski** |
-| #2 Most tweeted to  | **uSTADIUM** |
-| #3 Most tweeted to  | **BuffaloJetFan** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 7.23%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **Aztec_MBB** |
+| #2 Most tweeted to  | **MarchMadnessMBB** |
+| #3 Most tweeted to  | **ACSlater501** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 3.74%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **corey_scottjr**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COREY**  |
-| second  | **DAVIS**  |
-| third  | **JETS** |
-| fourth  | **LAZARD**  |
-| fifth  | **MOORE**  |
+| first  | **AZTECS**  |
+| second  | **STATE**  |
+| third  | **SAN** |
+| fourth  | **DIEGO**  |
+| fifth  | **MOUNTAIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-14BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
+![image](assets/2023-03-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@MySportsUpdate Idk what he talking about bout Raiders can have Corey Davis and a 7th |
+|RT @Aztec_MBB: Mambo No. 5🖐The Aztecs are headed to Orlando! Hope to see you there, Aztec Nation.#TheTimeIsNow https://t.co/GjTbAgpj22 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **corey_scottjr**  |
+| The most retweeted user is: **JoeCrofts**  |
 | ------------- |
-| RT @HappyPunchPromo: Gervonta Davis and Ryan Garcia face off for the first time 👀 #DavisGarcia https://t.co/pJ4sgmTWeb |
+| RT @TheTweetOfGod: The Aztecs felt the same way. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
