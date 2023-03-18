@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Trojans"**
+&#x1F34E; **TOPIC = "TAKE OUR NATION BACK"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-17TWEETS.png)
+![image](assets/2023-03-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ShotgunSpr: Vince Iwuchukwu took the floor separate from the rest of his team and is not going through layup lines with the rest of the… |
-| JB still pissed lmaooo |
-| The Defensive Player of the Week Crown stays with the Trojans for the fourth consecutive week 👑Congrats Alexis Ni… https://t.co/3gAcy1aZ7b |
+| RT @reuxmal: This is what yt ppl mean when they say things like ‘take our nation back.’ The Manhattan DA should proceed w/ arresting Trump… |
+| RT @JoyceWhiteVance: "Protest, take our nation back" I'm reminded of @RepAdamSchiff's impeachment argument: "He has compromised our elect… |
+| RT @Laurieluvsmolly: @itsJeffTiedrich @KAS22_KaaRinn_S I agree with the #MAGACult…TAKE OUR NATION BACK once and for all by holding the crim… |
 
-The most popular user is: **Trojans_23**
-<div class="alert alert-block alert-danger"> RT @BleacherReport: Steph turns 35 today, here's a look back at his accolades 👏
-
-▪️ 4x NBA Champ
-▪️ 2x NBA MVP
-▪️ 9x NBA All-Star
-▪️ NBA re…</div>
+The most popular user is: **ItsDasiaVu**
+<div class="alert alert-block alert-danger"> RT @joncoopertweets: Trump knows his cult followers. By calling for them to “Protest, take our nation back!” he’s implicitly urging them to…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DSU_Trojans** |
-| #2 Most tweeted to  | **Scott_Schrader** |
-| #3 Most tweeted to  | **USC_Hoops** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 2.82%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **JoyceWhiteVance** |
+| #2 Most tweeted to  | **RepAdamSchiff** |
+| #3 Most tweeted to  | **TonyHussein4** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 1.74%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -44,28 +39,28 @@ The most popular user is: **Trojans_23**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TROJANS**  |
-| second  | **USC**  |
-| third  | **STATE** |
-| fourth  | **GAME**  |
-| fifth  | **FIRST**  |
+| first  | **NATION**  |
+| second  | **TRUMP**  |
+| third  | **BACK"** |
+| fourth  | **ARRESTED**  |
+| fifth  | **"PROTEST**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-17BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (53.33%)
+![image](assets/2023-03-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ESPN1009: HALF: Saginaw 33, Hamady 29.Electric first half in the Regional final in Caro sees the Trojans head to the locker room with… |
+|@ChadPergram @EliseStefanik Will you be at next week's protest to "Take Our Nation Back?"https://t.co/6y9olvJm6Z |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Trojans_23**  |
+| The most retweeted user is: **ItsDasiaVu**  |
 | ------------- |
-| RT @BleacherReport: Steph turns 35 today, here's a look back at his accolades 👏▪️ 4x NBA Champ▪️ 2x NBA MVP▪️ 9x NBA All-Star▪️ NBA re… |
+| RT @joncoopertweets: Trump knows his cult followers. By calling for them to “Protest, take our nation back!” he’s implicitly urging them to… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
