@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TAKE OUR NATION BACK"**
+&#x1F34E; **TOPIC = "Kansas State"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-18TWEETS.png)
+![image](assets/2023-03-19TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @reuxmal: This is what yt ppl mean when they say things like ‘take our nation back.’ The Manhattan DA should proceed w/ arresting Trump… |
-| RT @JoyceWhiteVance: "Protest, take our nation back" I'm reminded of @RepAdamSchiff's impeachment argument: "He has compromised our elect… |
-| RT @Laurieluvsmolly: @itsJeffTiedrich @KAS22_KaaRinn_S I agree with the #MAGACult…TAKE OUR NATION BACK once and for all by holding the crim… |
+| Aye Kansas state point guard running the show! LOVE TO SEE IT! |
+| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
+| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
 
-The most popular user is: **ItsDasiaVu**
-<div class="alert alert-block alert-danger"> RT @joncoopertweets: Trump knows his cult followers. By calling for them to “Protest, take our nation back!” he’s implicitly urging them to…</div>
+The most popular user is: **Whitehomiebaby**
+<div class="alert alert-block alert-danger"> RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter  
+
+ https://t.co/96d…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JoyceWhiteVance** |
-| #2 Most tweeted to  | **RepAdamSchiff** |
-| #3 Most tweeted to  | **TonyHussein4** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 1.74%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **BenStinar** |
+| #2 Most tweeted to  | **KStateMBB** |
+| #3 Most tweeted to  | **MarchMadnessMBB** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.14%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ItsDasiaVu**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NATION**  |
-| second  | **TRUMP**  |
-| third  | **BACK"** |
-| fourth  | **ARRESTED**  |
-| fifth  | **"PROTEST**  |
+| first  | **STATE**  |
+| second  | **KANSAS**  |
+| third  | **KENTUCKY** |
+| fourth  | **DUDE**  |
+| fifth  | **REAL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-18BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-19BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (86.67%)
+![image](assets/2023-03-19sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@ChadPergram @EliseStefanik Will you be at next week's protest to "Take Our Nation Back?"https://t.co/6y9olvJm6Z |
+|Who’s covering in the Kentucky Kansas State game? |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ItsDasiaVu**  |
+| The most retweeted user is: **Whitehomiebaby**  |
 | ------------- |
-| RT @joncoopertweets: Trump knows his cult followers. By calling for them to “Protest, take our nation back!” he’s implicitly urging them to… |
+| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
