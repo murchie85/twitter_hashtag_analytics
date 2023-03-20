@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kansas State"**
+&#x1F34E; **TOPIC = "#BMShedComp"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-19TWEETS.png)
+![image](assets/2023-03-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Aye Kansas state point guard running the show! LOVE TO SEE IT! |
-| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
-| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
+| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
+| @bmstores #BMShedComp mine is falling down so this would be AMAZING!! |
+| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
 
-The most popular user is: **Whitehomiebaby**
-<div class="alert alert-block alert-danger"> RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter  
+The most popular user is: **UppaSpurs**
+<div class="alert alert-block alert-danger"> RT @bmstores: 🏡 #COMPETITION TIME 🏡
 
- https://t.co/96d…</div>
+Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BenStinar** |
-| #2 Most tweeted to  | **KStateMBB** |
-| #3 Most tweeted to  | **MarchMadnessMBB** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 2.8%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **bmstores** |
+| #2 Most tweeted to  | **McgFlo** |
+| #3 Most tweeted to  | **riccoess** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 7.72%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ The most popular user is: **Whitehomiebaby**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STATE**  |
-| second  | **KANSAS**  |
-| third  | **KENTUCKY** |
-| fourth  | **DUDE**  |
-| fifth  | **REAL**  |
+| first  | **🏡**  |
+| second  | **GARDEN**  |
+| third  | **WIN** |
+| fourth  | **AMAZING**  |
+| fifth  | **COMPETITION**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-19BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (40.0%)
+![image](assets/2023-03-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Who’s covering in the Kentucky Kansas State game? |
+|RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Whitehomiebaby**  |
+| The most retweeted user is: **UppaSpurs**  |
 | ------------- |
-| RT @BenStinar: All I remember about Michael Beasley at Kansas State is dude was a real life 99 overall bucket 🪣 getter   https://t.co/96d… |
+| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
