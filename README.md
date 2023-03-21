@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#BMShedComp"**
+&#x1F34E; **TOPIC = "Willis Reed"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-20TWEETS.png)
+![image](assets/2023-03-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
-| @bmstores #BMShedComp mine is falling down so this would be AMAZING!! |
-| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
+| RT @McCannSportsLaw: An incredible career for Willis Reed, RIP. He famously played through a ruptured a muscle in his thigh, using an anest… |
+| RT @LegionHoops: RIP Willis Reed 🙏 https://t.co/u46dLsZ45N |
+| RT @espn: Willis Reed, who won two NBA championships during his legendary career with the Knicks, has died, according to the National Baske… |
 
-The most popular user is: **UppaSpurs**
-<div class="alert alert-block alert-danger"> RT @bmstores: 🏡 #COMPETITION TIME 🏡
-
-Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,…</div>
+The most popular user is: **davidraider88**
+<div class="alert alert-block alert-danger"> RT @ShamsCharania: Hall of Famer Willis Reed has passed away at 80 years old. A Knicks legend, Reed is a two-time NBA champion, two-time Fi…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bmstores** |
-| #2 Most tweeted to  | **McgFlo** |
-| #3 Most tweeted to  | **riccoess** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 7.72%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **espn** |
+| #2 Most tweeted to  | **BleacherReport** |
+| #3 Most tweeted to  | **KnicksMuse** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 2.56%|
+| Tweeters with > 1000000 followers  | 0.42%  |
 
 
 
@@ -41,28 +39,28 @@ Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **🏡**  |
-| second  | **GARDEN**  |
-| third  | **WIN** |
-| fourth  | **AMAZING**  |
-| fifth  | **COMPETITION**  |
+| first  | **REED**  |
+| second  | **WILLIS**  |
+| third  | **KNICKS** |
+| fourth  | **NBA**  |
+| fifth  | **DIED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-20BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-03-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
+|RT @TheKnicksWall: RIP TO THE LEGEND WILLIS REED https://t.co/asKoe0d66s |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **UppaSpurs**  |
+| The most retweeted user is: **davidraider88**  |
 | ------------- |
-| RT @bmstores: 🏡 #COMPETITION TIME 🏡Get your garden nice and tidy for spring with a chance to #WIN this amazing 8 'x 6' Double Door shed,… |
+| RT @ShamsCharania: Hall of Famer Willis Reed has passed away at 80 years old. A Knicks legend, Reed is a two-time NBA champion, two-time Fi… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
