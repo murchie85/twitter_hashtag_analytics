@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Willis Reed"**
+&#x1F34E; **TOPIC = "Hardman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-21TWEETS.png)
+![image](assets/2023-03-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @McCannSportsLaw: An incredible career for Willis Reed, RIP. He famously played through a ruptured a muscle in his thigh, using an anest… |
-| RT @LegionHoops: RIP Willis Reed 🙏 https://t.co/u46dLsZ45N |
-| RT @espn: Willis Reed, who won two NBA championships during his legendary career with the Knicks, has died, according to the National Baske… |
+| The #Jets are signing former #Chiefs Wide Receiver Mecole Hardman#NFLFreeAgency #NFLNews #NFL https://t.co/EJyNVudvjU |
+| @NFL @TomPelissero Cause I don't see Wilson Lazard Moore Davis and Hardman being on the team next year one of them gotta be gone |
+| RT @Willpa11: Newest Jet Mecole Hardman https://t.co/dzQsqlcJNe |
 
-The most popular user is: **davidraider88**
-<div class="alert alert-block alert-danger"> RT @ShamsCharania: Hall of Famer Willis Reed has passed away at 80 years old. A Knicks legend, Reed is a two-time NBA champion, two-time Fi…</div>
+The most popular user is: **Pauline_Hardman**
+<div class="alert alert-block alert-danger"> RT @PippaCrerar: 👀Fascinating insight into how No 10 reacted to my initial query about Partygate - all in the bundle drop just released by…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **espn** |
-| #2 Most tweeted to  | **BleacherReport** |
-| #3 Most tweeted to  | **KnicksMuse** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 2.56%|
-| Tweeters with > 1000000 followers  | 0.42%  |
+| #1 Most tweeted to  | **TomPelissero** |
+| #2 Most tweeted to  | **NFL** |
+| #3 Most tweeted to  | **JFowlerESPN** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 3.18%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **davidraider88**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **REED**  |
-| second  | **WILLIS**  |
-| third  | **KNICKS** |
-| fourth  | **NBA**  |
-| fifth  | **DIED**  |
+| first  | **HARDMAN**  |
+| second  | **JETS**  |
+| third  | **MECOLE** |
+| fourth  | **WR**  |
+| fifth  | **SIGNING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-21BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (26.67%)
+![image](assets/2023-03-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheKnicksWall: RIP TO THE LEGEND WILLIS REED https://t.co/asKoe0d66s |
+|RT @NFL: Jets signing WR Mecole Hardman. (via @TomPelissero) https://t.co/QsPfMl4Ip6 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **davidraider88**  |
+| The most retweeted user is: **Pauline_Hardman**  |
 | ------------- |
-| RT @ShamsCharania: Hall of Famer Willis Reed has passed away at 80 years old. A Knicks legend, Reed is a two-time NBA champion, two-time Fi… |
+| RT @PippaCrerar: 👀Fascinating insight into how No 10 reacted to my initial query about Partygate - all in the bundle drop just released by… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
