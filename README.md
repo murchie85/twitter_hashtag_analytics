@@ -1,35 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Hardman"**
+&#x1F34E; **TOPIC = "TikTok"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-22TWEETS.png)
+![image](assets/2023-03-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| The #Jets are signing former #Chiefs Wide Receiver Mecole Hardman#NFLFreeAgency #NFLNews #NFL https://t.co/EJyNVudvjU |
-| @NFL @TomPelissero Cause I don't see Wilson Lazard Moore Davis and Hardman being on the team next year one of them gotta be gone |
-| RT @Willpa11: Newest Jet Mecole Hardman https://t.co/dzQsqlcJNe |
+| i made a new tiktok account and i think you should follow it :) https://t.co/6qr2SwPOl0 |
+| @nojumper Jarret Allen is going to crush the glass tonight.https://t.co/WRvpcQT96D |
+| RT @boblatta: I just pressed TikTok’s CEO about whether or not the Chinese Communist Party has access to U.S. user data. He ADMITTED Chin… |
 
-The most popular user is: **Pauline_Hardman**
-<div class="alert alert-block alert-danger"> RT @PippaCrerar: 👀Fascinating insight into how No 10 reacted to my initial query about Partygate - all in the bundle drop just released by…</div>
+The most popular user is: **JamesMahonn**
+<div class="alert alert-block alert-danger"> RT @d1rtydan: A guy on reddit reversed engineered #TikTok
+
+Here’s what he found on the data it collects on you
+
+It’s far worse than just st…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TomPelissero** |
-| #2 Most tweeted to  | **NFL** |
-| #3 Most tweeted to  | **JFowlerESPN** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 3.18%|
+| #1 Most tweeted to  | **lizzo** |
+| #2 Most tweeted to  | **Esqueer_** |
+| #3 Most tweeted to  | **lovedoveclarke** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 5.74%|
 | Tweeters with > 1000000 followers  | 0.18%  |
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Pauline_Hardman**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HARDMAN**  |
-| second  | **JETS**  |
-| third  | **MECOLE** |
-| fourth  | **WR**  |
-| fifth  | **SIGNING**  |
+| first  | **TIKTOK**  |
+| second  | **CEO**  |
+| third  | **BAN** |
+| fourth  | **CONGRESS**  |
+| fifth  | **US**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-22BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-03-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @NFL: Jets signing WR Mecole Hardman. (via @TomPelissero) https://t.co/QsPfMl4Ip6 |
+|RT @brandypapii: This is my favourite TikTok from last year https://t.co/WAZSq6rKsX |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Pauline_Hardman**  |
+| The most retweeted user is: **JamesMahonn**  |
 | ------------- |
-| RT @PippaCrerar: 👀Fascinating insight into how No 10 reacted to my initial query about Partygate - all in the bundle drop just released by… |
+| RT @d1rtydan: A guy on reddit reversed engineered #TikTokHere’s what he found on the data it collects on youIt’s far worse than just st… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
