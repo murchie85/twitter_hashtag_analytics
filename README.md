@@ -1,40 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "TikTok"**
+&#x1F34E; **TOPIC = "GAME DAY"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-23TWEETS.png)
+![image](assets/2023-03-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| i made a new tiktok account and i think you should follow it :) https://t.co/6qr2SwPOl0 |
-| @nojumper Jarret Allen is going to crush the glass tonight.https://t.co/WRvpcQT96D |
-| RT @boblatta: I just pressed TikTok’s CEO about whether or not the Chinese Communist Party has access to U.S. user data. He ADMITTED Chin… |
+| Fats game, Right as rain. Tinned spaghetti, Is good for brekky. Day bed, Rest head. Brown moth, Red sloth |
+| RT @odrhockeyheroes: Getting hype for day 2 with our booth at #PAXEast   !! Come by and play a game of shinny with us!🏒🚨 https://t.co/vUvi7… |
+| RT @RPGSite: The Last Remnant hit PC on this day in 2009. Hiroshi Takai's most recent game in the director's chair... until this June, when… |
 
-The most popular user is: **JamesMahonn**
-<div class="alert alert-block alert-danger"> RT @d1rtydan: A guy on reddit reversed engineered #TikTok
+The most popular user is: **t41_game**
+<div class="alert alert-block alert-danger"> RT @GenshinImpact: ✨Day 4✨
+Commemoration of Version 3.5 Update!
+#GenshinImpact Twitter Event - Set 4
 
-Here’s what he found on the data it collects on you
-
-It’s far worse than just st…</div>
+How to Participate:
+① Follow @Genshin…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lizzo** |
-| #2 Most tweeted to  | **Esqueer_** |
-| #3 Most tweeted to  | **lovedoveclarke** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 5.74%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **LakeShowYo** |
+| #2 Most tweeted to  | **Lakers** |
+| #3 Most tweeted to  | **Rangers** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 5.04%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -43,28 +44,28 @@ It’s far worse than just st…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TIKTOK**  |
-| second  | **CEO**  |
-| third  | **BAN** |
-| fourth  | **CONGRESS**  |
-| fifth  | **US**  |
+| first  | **GAME**  |
+| second  | **DAY**  |
+| third  | **DAY!** |
+| fourth  | **TIME**  |
+| fifth  | **FIRST**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-23BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/2023-03-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (66.67%) **OBJECTIVE** (13.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @brandypapii: This is my favourite TikTok from last year https://t.co/WAZSq6rKsX |
+|RT @LakeShowYo: GAME DAY! Lakers can finally crack .500 for the FIRST time this season 🔥 https://t.co/sm65QcFFNI |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JamesMahonn**  |
+| The most retweeted user is: **t41_game**  |
 | ------------- |
-| RT @d1rtydan: A guy on reddit reversed engineered #TikTokHere’s what he found on the data it collects on youIt’s far worse than just st… |
+| RT @GenshinImpact: ✨Day 4✨Commemoration of Version 3.5 Update!#GenshinImpact Twitter Event - Set 4How to Participate:① Follow @Genshin… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
