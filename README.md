@@ -1,41 +1,42 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "GAME DAY"**
+&#x1F34E; **TOPIC = "Fetterman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-24TWEETS.png)
+![image](assets/2023-03-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Fats game, Right as rain. Tinned spaghetti, Is good for brekky. Day bed, Rest head. Brown moth, Red sloth |
-| RT @odrhockeyheroes: Getting hype for day 2 with our booth at #PAXEast   !! Come by and play a game of shinny with us!🏒🚨 https://t.co/vUvi7… |
-| RT @RPGSite: The Last Remnant hit PC on this day in 2009. Hiroshi Takai's most recent game in the director's chair... until this June, when… |
+| RT @jayaltons: John Fetterman got the CIA doppelganger treatmenthttps://t.co/s98NuQPQBv |
+| RT @RealHickory: LOL, dumbass Democrat voters will believe these pics of Fetterman are of the same dude, like they believe Biden received 8… |
+| RT @ZeroDarkKitty: YeahThat is not Fetterman 😹🇺🇸 |
 
-The most popular user is: **t41_game**
-<div class="alert alert-block alert-danger"> RT @GenshinImpact: ✨Day 4✨
-Commemoration of Version 3.5 Update!
-#GenshinImpact Twitter Event - Set 4
+The most popular user is: **barrelsmasher**
+<div class="alert alert-block alert-danger"> RT @catturd2: Just so you know …
 
-How to Participate:
-① Follow @Genshin…</div>
+They’re lying about Dianne Feinstein’s health. 
+
+They’re lying about John Fetterman’s health. 
+
+They’re l…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LakeShowYo** |
-| #2 Most tweeted to  | **Lakers** |
-| #3 Most tweeted to  | **Rangers** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 5.04%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **catturd2** |
+| #2 Most tweeted to  | **ACTBrigitte** |
+| #3 Most tweeted to  | **CollinRugg** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 6.36%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -44,28 +45,28 @@ How to Participate:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GAME**  |
-| second  | **DAY**  |
-| third  | **DAY!** |
-| fourth  | **TIME**  |
-| fifth  | **FIRST**  |
+| first  | **FETTERMAN**  |
+| second  | **JOHN**  |
+| third  | **"WHERES"** |
+| fourth  | **@CATTURD2:**  |
+| fifth  | **FETTERMAN?**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-24BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (66.67%) **OBJECTIVE** (13.33%)
+![image](assets/2023-03-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @LakeShowYo: GAME DAY! Lakers can finally crack .500 for the FIRST time this season 🔥 https://t.co/sm65QcFFNI |
+|RT @FeistyLibLady: After a stroke John Fetterman is experiencing daily calls for more info about his health and demands from the GOP for hi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **t41_game**  |
+| The most retweeted user is: **barrelsmasher**  |
 | ------------- |
-| RT @GenshinImpact: ✨Day 4✨Commemoration of Version 3.5 Update!#GenshinImpact Twitter Event - Set 4How to Participate:① Follow @Genshin… |
+| RT @catturd2: Just so you know …They’re lying about Dianne Feinstein’s health. They’re lying about John Fetterman’s health. They’re l… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
