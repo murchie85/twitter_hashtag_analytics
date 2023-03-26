@@ -1,42 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fetterman"**
+&#x1F34E; **TOPIC = "Gerrard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-25TWEETS.png)
+![image](assets/2023-03-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @jayaltons: John Fetterman got the CIA doppelganger treatmenthttps://t.co/s98NuQPQBv |
-| RT @RealHickory: LOL, dumbass Democrat voters will believe these pics of Fetterman are of the same dude, like they believe Biden received 8… |
-| RT @ZeroDarkKitty: YeahThat is not Fetterman 😹🇺🇸 |
+| Gerrard brassing himself out in desperation to get Bellingham at the dippers is a total embarrassment. #ENGUKR #EnglandUkraine |
+| @TheHolte1874 Interesting that Smith, Gerrard and Emery never used him, especially when Emery was down to the bear… https://t.co/B4LXjPV0og |
+| @simonh89082386 @The_Gerrard_Era @UTDTrey Tell me what didn't Liverpool win. Uefa conference league? |
 
-The most popular user is: **barrelsmasher**
-<div class="alert alert-block alert-danger"> RT @catturd2: Just so you know …
+The most popular user is: **Vacbhirawit**
+<div class="alert alert-block alert-danger"> RT @RiserMusic: BRIGHT - My Ecstasy ft. D GERRARD 
+ 
+Official MV Out Now on Youtube Channel : RISER MUSIC
+https://t.co/GROxX0MA8d
 
-They’re lying about Dianne Feinstein’s health. 
-
-They’re lying about John Fetterman’s health. 
-
-They’re l…</div>
+Digital…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **catturd2** |
-| #2 Most tweeted to  | **ACTBrigitte** |
-| #3 Most tweeted to  | **CollinRugg** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 6.36%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **tee_lfc_** |
+| #2 Most tweeted to  | **The_Gerrard_Era** |
+| #3 Most tweeted to  | **316simsim** |
+| NewProfiles (less than 10 days) | 0.1%  |
+| Tweeters with < 10 followers  | 4.2%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -45,28 +44,28 @@ They’re l…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FETTERMAN**  |
-| second  | **JOHN**  |
-| third  | **"WHERES"** |
-| fourth  | **@CATTURD2:**  |
-| fifth  | **FETTERMAN?**  |
+| first  | **GERRARD**  |
+| second  | **STEVEN**  |
+| third  | **FANS** |
+| fourth  | **CELTIC**  |
+| fifth  | **LIVERPOOL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-25BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2023-03-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FeistyLibLady: After a stroke John Fetterman is experiencing daily calls for more info about his health and demands from the GOP for hi… |
+|@M__Gerrard Definitely my bro, to more wins 🥂 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **barrelsmasher**  |
+| The most retweeted user is: **Vacbhirawit**  |
 | ------------- |
-| RT @catturd2: Just so you know …They’re lying about Dianne Feinstein’s health. They’re lying about John Fetterman’s health. They’re l… |
+| RT @RiserMusic: BRIGHT - My Ecstasy ft. D GERRARD  Official MV Out Now on Youtube Channel : RISER MUSIChttps://t.co/GROxX0MA8dDigital… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
