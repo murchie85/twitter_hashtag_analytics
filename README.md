@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Gerrard"**
+&#x1F34E; **TOPIC = "Nashville"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-26TWEETS.png)
+![image](assets/2023-03-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Gerrard brassing himself out in desperation to get Bellingham at the dippers is a total embarrassment. #ENGUKR #EnglandUkraine |
-| @TheHolte1874 Interesting that Smith, Gerrard and Emery never used him, especially when Emery was down to the bear… https://t.co/B4LXjPV0og |
-| @simonh89082386 @The_Gerrard_Era @UTDTrey Tell me what didn't Liverpool win. Uefa conference league? |
+| RT @NoLieWithBTC: Woah. A mother in Nashville just took over a live stream on Fox News to call out Republicans’ opposition to gun reform. (… |
+| RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan… |
+| RT @thetrueshelby: Nashville was the 129th mass shooting so far this year. It’s March 27th. https://t.co/kh0IgJrMsc |
 
-The most popular user is: **Vacbhirawit**
-<div class="alert alert-block alert-danger"> RT @RiserMusic: BRIGHT - My Ecstasy ft. D GERRARD 
- 
-Official MV Out Now on Youtube Channel : RISER MUSIC
-https://t.co/GROxX0MA8d
-
-Digital…</div>
+The most popular user is: **jillyric**
+<div class="alert alert-block alert-danger"> RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **tee_lfc_** |
-| #2 Most tweeted to  | **The_Gerrard_Era** |
-| #3 Most tweeted to  | **316simsim** |
-| NewProfiles (less than 10 days) | 0.1%  |
-| Tweeters with < 10 followers  | 4.2%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **shannonrwatts** |
+| #2 Most tweeted to  | **NoLieWithBTC** |
+| #3 Most tweeted to  | **bennyjohnson** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 3.14%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -44,28 +39,28 @@ Digital…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GERRARD**  |
-| second  | **STEVEN**  |
-| third  | **FANS** |
-| fourth  | **CELTIC**  |
-| fifth  | **LIVERPOOL**  |
+| first  | **NASHVILLE**  |
+| second  | **SCHOOL**  |
+| third  | **SHOOTING** |
+| fourth  | **CHILDREN**  |
+| fifth  | **CHRISTIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-26BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2023-03-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@M__Gerrard Definitely my bro, to more wins 🥂 |
+|RT @TheTNHoller: ⚡️JUST NOW — NASHVILLE POLICE: “Shooter was FEMALE, in her teens… 2 assault rifles and a handgun… 7 dead total (3 kids) in… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Vacbhirawit**  |
+| The most retweeted user is: **jillyric**  |
 | ------------- |
-| RT @RiserMusic: BRIGHT - My Ecstasy ft. D GERRARD  Official MV Out Now on Youtube Channel : RISER MUSIChttps://t.co/GROxX0MA8dDigital… |
+| RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
