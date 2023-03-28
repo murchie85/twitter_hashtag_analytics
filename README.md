@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nashville"**
+&#x1F34E; **TOPIC = "Finance"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-27TWEETS.png)
+![image](assets/2023-03-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NoLieWithBTC: Woah. A mother in Nashville just took over a live stream on Fox News to call out Republicans’ opposition to gun reform. (… |
-| RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan… |
-| RT @thetrueshelby: Nashville was the 129th mass shooting so far this year. It’s March 27th. https://t.co/kh0IgJrMsc |
+| RT @MOBA1911: Mwirians well represented at the King’s  College Budo,Founders Day.MwirianOweki Robert Waggwa Nsibirwa 2nd Deputy Katik… |
+| RT @ArchbishopStua1: @BjCruickshank @ruth_wishart @MaureenPickeri5 @theSNP Disappointed Kate Forbes felt unable to take up a post, in parti… |
+| Personal Finance: As the cost of living remains high, 62% Americans now say they are living paycheck to paycheck, a… https://t.co/ffBsAqgwaZ |
 
-The most popular user is: **jillyric**
-<div class="alert alert-block alert-danger"> RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan…</div>
+The most popular user is: **kolababajide**
+<div class="alert alert-block alert-danger"> RT @Secured_Fi: Want to prove you're an early supporter of Secured Finance?
+
+Get your hands on the Genesis OAT - it might even bring you go…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **shannonrwatts** |
-| #2 Most tweeted to  | **NoLieWithBTC** |
-| #3 Most tweeted to  | **bennyjohnson** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 3.14%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **AITraderGlobal** |
+| #2 Most tweeted to  | **ruth_wishart** |
+| #3 Most tweeted to  | **HonMoses_Kuria** |
+| NewProfiles (less than 10 days) | 3.18%  |
+| Tweeters with < 10 followers  | 19.08%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jillyric**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NASHVILLE**  |
-| second  | **SCHOOL**  |
-| third  | **SHOOTING** |
-| fourth  | **CHILDREN**  |
-| fifth  | **CHRISTIAN**  |
+| first  | **FINANCE**  |
+| second  | **PER**  |
+| third  | **@AITRADERGLOBAL:** |
+| fourth  | **ORDER**  |
+| fifth  | **NETWORK**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-27BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (20.0%)
+![image](assets/2023-03-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheTNHoller: ⚡️JUST NOW — NASHVILLE POLICE: “Shooter was FEMALE, in her teens… 2 assault rifles and a handgun… 7 dead total (3 kids) in… |
+|RT @DonaldPretsell: @ruth_wishart @BurtyBird Finance was honestly impossible. She basically slagged off key policy areas (that a finance mi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jillyric**  |
+| The most retweeted user is: **kolababajide**  |
 | ------------- |
-| RT @shannonrwatts: THIS is last year's Christmas card from Tennessee Rep. Andy Ogles, a Republican who represents the district that Covenan… |
+| RT @Secured_Fi: Want to prove you're an early supporter of Secured Finance?Get your hands on the Genesis OAT - it might even bring you go… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
