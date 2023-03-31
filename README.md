@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#atmoscollectorsclub"**
+&#x1F34E; **TOPIC = "Lindsey"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-03-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-03-31hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-03-29TWEETS.png)
+![image](assets/2023-03-31TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @atmos_usa My Nike Air Trainer High SC Broken Bats x Bo Jackson is a home run from my collection. Size 10.5… https://t.co/KN5x6vdX3P |
-| @atmos_usa Gotta be my Jordan 3 reimagined, true classic!  Size 9.5M please 🙏#atmoscollectorsclub  #atmosweb |
-| Definitely a HOME RUN to all outfits.Men size 9.5#atmosweb #atmoscollectorsclub  @atmos_usa https://t.co/8o1XRJLCG5 |
+| @JesseKellyDC They are Lindsey Graham tough! |
+| @Jim_Jordan "If we nominate Trump, we will get destroyed ... and we will deserve it."  ~Lindsey Graham 2016 |
+| RT @DeanObeidallah: @LindseyGrahamSC Lindsey Graham calls for Trump to punch an NYPD officer.  Could GOP HATE police any more than they do?… |
 
-The most popular user is: **uscs04**
-<div class="alert alert-block alert-danger"> RT @atmos_usa: Opening Day is here - baseball season is back! 
-
-Home runs are a big deal - you're hitting it out the park. What pair of kic…</div>
+The most popular user is: **lindsey_karunga**
+<div class="alert alert-block alert-danger"> RT @luvinfuls: me after posting on instagram https://t.co/F6Rt3GylXe</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **atmos_usa** |
-| #2 Most tweeted to  | **RyanWellsOKC** |
-| #3 Most tweeted to  | **Tylersneaks** |
-| NewProfiles (less than 10 days) | 1.66%  |
-| Tweeters with < 10 followers  | 31.28%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **LindseyGrahamSC** |
+| #2 Most tweeted to  | **MeidasTouch** |
+| #3 Most tweeted to  | **mmpadellan** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 3.68%|
+| Tweeters with > 1000000 followers  | 0.1%  |
 
 
 
@@ -41,28 +39,28 @@ Home runs are a big deal - you're hitting it out the park. What pair of kic…</
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ATMOSCOLLECTORSCLUB**  |
-| second  | **SIZE**  |
-| third  | **ATMOSWEB** |
-| fourth  | **HOME**  |
-| fifth  | **PAIR**  |
+| first  | **LINDSEY**  |
+| second  | **GRAHAM**  |
+| third  | **TRUMP** |
+| fourth  | **SOME**  |
+| fifth  | **@LINDSEYGRAHAMSC**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-03-29BIO.png)
+## Twitter Bio Analysis![image](assets/2023-03-31BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-03-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-03-31sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (60.0%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@atmos_usa #atmoscollectorsclub #atmoswebSize 11.5 love my brave blue Kobe's. And ehat's more LA than Kobe wearing… https://t.co/98SdYIS8pj |
+|RT @mmpadellan: Lindsey Graham, United States Senator, suggesting a former President commit some felonies on the way to DA Bragg's office.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **uscs04**  |
+| The most retweeted user is: **lindsey_karunga**  |
 | ------------- |
-| RT @atmos_usa: Opening Day is here - baseball season is back! Home runs are a big deal - you're hitting it out the park. What pair of kic… |
+| RT @luvinfuls: me after posting on instagram https://t.co/F6Rt3GylXe |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
