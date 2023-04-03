@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Stanton"**
+&#x1F34E; **TOPIC = "Keith"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-02TWEETS.png)
+![image](assets/2023-04-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @would_it_dong: Giancarlo Stanton vs Ross Stripling#RepBXHome Run (2) 💣Exit velo: 117.8 mphLaunch angle: 25 degProj. distance: 48… |
-| Stanton might have hit the longest homer of this whole season in the 3rd game. |
-| RT @KariLake: WHOA: Rep. Greg Stanton (D-AZ) talks about 10 year old little boy changing his gender in bizarre, creepy rant. This man sho… |
+| RT @notcapnamerica: Black Twitter really came together like the Avengers at the end of Endgame to drag Keith Olbermann’s dumb ass https://t… |
+| @PeterWMurphy1 @abcnews Keith Wolohan demonstrated what is wrong with the liberal party, not comprehending, fixed b… https://t.co/g3kEy3EoSE |
+| RT @allurcat: early dating phase klance, they are in a date and it’s going so well and at one point they both stop and stare at eachother e… |
 
-The most popular user is: **J_P_Stanton**
-<div class="alert alert-block alert-danger"> RT @fasc1nate: Turkish garbage collectors open a library with all of the books citizens discard in their trash https://t.co/0E77iPhZ5g</div>
+The most popular user is: **Keith_Classik**
+<div class="alert alert-block alert-danger"> RT @_B___S: Friends forever ❤ https://t.co/8EJdsuzEKs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TalkinYanks** |
-| #2 Most tweeted to  | **would_it_dong** |
-| #3 Most tweeted to  | **KariLake** |
-| NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 4.72%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **KeithOlbermann** |
+| #2 Most tweeted to  | **TheNBACentral** |
+| #3 Most tweeted to  | **SamuelLJackson** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 3.66%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **J_P_Stanton**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STANTON**  |
-| second  | **GIANCARLO**  |
-| third  | **485** |
-| fourth  | **FOOT**  |
-| fifth  | **JUDGE**  |
+| first  | **KEITH**  |
+| second  | **OLBERMANN**  |
+| third  | **ANGEL** |
+| fourth  | **REESE**  |
+| fifth  | **TALKING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-02BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (80.0%)
+![image](assets/2023-04-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TalkinYanks: GIANCARLO STANTON 485 FOOT MOONSHOT https://t.co/BaOKPbHfvO |
+|RT @TheNBACentral: Jay Williams calls out David Portnoy and Keith Olbermann for attacking Angel Reese“Trash talking is okay… We see it wi… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **J_P_Stanton**  |
+| The most retweeted user is: **Keith_Classik**  |
 | ------------- |
-| RT @fasc1nate: Turkish garbage collectors open a library with all of the books citizens discard in their trash https://t.co/0E77iPhZ5g |
+| RT @_B___S: Friends forever ❤ https://t.co/8EJdsuzEKs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
