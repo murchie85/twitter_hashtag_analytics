@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Keith"**
+&#x1F34E; **TOPIC = "#pointless"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-03TWEETS.png)
+![image](assets/2023-04-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @notcapnamerica: Black Twitter really came together like the Avengers at the end of Endgame to drag Keith Olbermann’s dumb ass https://t… |
-| @PeterWMurphy1 @abcnews Keith Wolohan demonstrated what is wrong with the liberal party, not comprehending, fixed b… https://t.co/g3kEy3EoSE |
-| RT @allurcat: early dating phase klance, they are in a date and it’s going so well and at one point they both stop and stare at eachother e… |
+| Madness got 12?Only 12What is the country coming to?#pointless |
+| Paul Weller please#pointless |
+| Hello, I'm on holiday from #thechase #pointless |
 
-The most popular user is: **Keith_Classik**
-<div class="alert alert-block alert-danger"> RT @_B___S: Friends forever ❤ https://t.co/8EJdsuzEKs</div>
+The most popular user is: **animeshqueen**
+<div class="alert alert-block alert-danger"> RT @Tarquin_Helmet: Will Putin and Macron do face painting after? #Ukraine #pointless #lipservice https://t.co/hi9agrWzmZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **KeithOlbermann** |
-| #2 Most tweeted to  | **TheNBACentral** |
-| #3 Most tweeted to  | **SamuelLJackson** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 3.66%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **richardosman** |
+| #2 Most tweeted to  | **EdGambleComedy** |
+| #3 Most tweeted to  | **TVsPointless** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 3.94%|
+| Tweeters with > 1000000 followers  | 0.24%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **Keith_Classik**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KEITH**  |
-| second  | **OLBERMANN**  |
-| third  | **ANGEL** |
-| fourth  | **REESE**  |
-| fifth  | **TALKING**  |
+| first  | **POINTLESS**  |
+| second  | **POINTLESS!**  |
+| third  | **BROKEN** |
+| fourth  | **"SHOULDNT"**  |
+| fifth  | **WRITE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2023-04-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @TheNBACentral: Jay Williams calls out David Portnoy and Keith Olbermann for attacking Angel Reese“Trash talking is okay… We see it wi… |
+|RT @Serhatgedikcyp: Another #schoolshooting in U.S.A. yesterday. I don’t understand why they are still allowing public to buy guns as if th… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Keith_Classik**  |
+| The most retweeted user is: **animeshqueen**  |
 | ------------- |
-| RT @_B___S: Friends forever ❤ https://t.co/8EJdsuzEKs |
+| RT @Tarquin_Helmet: Will Putin and Macron do face painting after? #Ukraine #pointless #lipservice https://t.co/hi9agrWzmZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
