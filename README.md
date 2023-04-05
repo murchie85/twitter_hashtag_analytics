@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#pointless"**
+&#x1F34E; **TOPIC = "Lampard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-04TWEETS.png)
+![image](assets/2023-04-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Madness got 12?Only 12What is the country coming to?#pointless |
-| Paul Weller please#pointless |
-| Hello, I'm on holiday from #thechase #pointless |
+| RT @CFCPys: 🚨 Chelsea spoke to Nagelsmann and Enrique this afternoon - Nagelsmann is still the favourite but Chelsea want to take their tim… |
+| LAMPARD 😂😂😂😂 https://t.co/MGEofoqrnK |
+| RT @CarefreeLewisG: If Chelsea are gonna be 11th and ass. I'd rather be ass with Super Frankie Lampard in charge |
 
-The most popular user is: **animeshqueen**
-<div class="alert alert-block alert-danger"> RT @Tarquin_Helmet: Will Putin and Macron do face painting after? #Ukraine #pointless #lipservice https://t.co/hi9agrWzmZ</div>
+The most popular user is: **TheChelsTalks**
+<div class="alert alert-block alert-danger"> RT @ChelseaFC: Chelsea Football Club has today parted company with Head Coach Frank Lampard.</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **richardosman** |
-| #2 Most tweeted to  | **EdGambleComedy** |
-| #3 Most tweeted to  | **TVsPointless** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 3.94%|
-| Tweeters with > 1000000 followers  | 0.24%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **CFCPys** |
+| #3 Most tweeted to  | **CFCDUBois** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 3.48%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **animeshqueen**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POINTLESS**  |
-| second  | **POINTLESS!**  |
-| third  | **BROKEN** |
-| fourth  | **"SHOULDNT"**  |
-| fifth  | **WRITE**  |
+| first  | **LAMPARD**  |
+| second  | **CHELSEA**  |
+| third  | **FRANK** |
+| fourth  | **MANAGER**  |
+| fifth  | **UNTIL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-04BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-04-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Serhatgedikcyp: Another #schoolshooting in U.S.A. yesterday. I don’t understand why they are still allowing public to buy guns as if th… |
+|RT @FabrizioRomano: Chelsea are in concrete talks with Frank Lampard to become caretaker manager until the end of the season 🚨🔵 #CFCDiscu… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **animeshqueen**  |
+| The most retweeted user is: **TheChelsTalks**  |
 | ------------- |
-| RT @Tarquin_Helmet: Will Putin and Macron do face painting after? #Ukraine #pointless #lipservice https://t.co/hi9agrWzmZ |
+| RT @ChelseaFC: Chelsea Football Club has today parted company with Head Coach Frank Lampard. |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
