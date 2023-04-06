@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lampard"**
+&#x1F34E; **TOPIC = "5sos"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-05TWEETS.png)
+![image](assets/2023-04-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @CFCPys: 🚨 Chelsea spoke to Nagelsmann and Enrique this afternoon - Nagelsmann is still the favourite but Chelsea want to take their tim… |
-| LAMPARD 😂😂😂😂 https://t.co/MGEofoqrnK |
-| RT @CarefreeLewisG: If Chelsea are gonna be 11th and ass. I'd rather be ass with Super Frankie Lampard in charge |
+| A bit shocked that 5sos downsized the venue they’re playing on Portugal, compared to 8 year ago but also it’s been so long |
+| still so confused to why 5sos is doing such a small tour did they think it wouldn’t sell? |
+| RT @5SOS: Pre-save The Feeling of Falling Upwards – Live from The Royal Albert Hall 💙https://t.co/gErDbVouQy |
 
-The most popular user is: **TheChelsTalks**
-<div class="alert alert-block alert-danger"> RT @ChelseaFC: Chelsea Football Club has today parted company with Head Coach Frank Lampard.</div>
+The most popular user is: **abreeonaxlove**
+<div class="alert alert-block alert-danger"> RT @5SOS: Presenting: The 5 Seconds of Summer Show World Tour 2023!
+
+Can’t wait to spend time on tour with all you beautiful people. Presal…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **CFCPys** |
-| #3 Most tweeted to  | **CFCDUBois** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 3.48%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **5SOS** |
+| #2 Most tweeted to  | **highontwl** |
+| #3 Most tweeted to  | **Tha5SOSFamily** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 4.36%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **TheChelsTalks**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LAMPARD**  |
-| second  | **CHELSEA**  |
-| third  | **FRANK** |
-| fourth  | **MANAGER**  |
-| fifth  | **UNTIL**  |
+| first  | **TOUR**  |
+| second  | **5SOS**  |
+| third  | **SHOW** |
+| fourth  | **@5SOS:**  |
+| fifth  | **WORLD**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-05BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FabrizioRomano: Chelsea are in concrete talks with Frank Lampard to become caretaker manager until the end of the season 🚨🔵 #CFCDiscu… |
+|RT @morganalright: y’all already know you’ll see me and liz assed at riverbend, that place is our brand at this point 🥹 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheChelsTalks**  |
+| The most retweeted user is: **abreeonaxlove**  |
 | ------------- |
-| RT @ChelseaFC: Chelsea Football Club has today parted company with Head Coach Frank Lampard. |
+| RT @5SOS: Presenting: The 5 Seconds of Summer Show World Tour 2023!Can’t wait to spend time on tour with all you beautiful people. Presal… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
