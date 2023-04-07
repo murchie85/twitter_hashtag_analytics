@@ -1,38 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "5sos"**
+&#x1F34E; **TOPIC = "Dreamhack"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-06TWEETS.png)
+![image](assets/2023-04-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| A bit shocked that 5sos downsized the venue they’re playing on Portugal, compared to 8 year ago but also it’s been so long |
-| still so confused to why 5sos is doing such a small tour did they think it wouldn’t sell? |
-| RT @5SOS: Pre-save The Feeling of Falling Upwards – Live from The Royal Albert Hall 💙https://t.co/gErDbVouQy |
+| RT @lovesods: "hardbody" fortnite kids when its time for dreamhack 😭 https://t.co/K6vDegBQN5 |
+| @CliffOlliff @DreamHack @DreamHackFN fr was such a process lol |
+| @DreamHack @TyKatte still got ur chance bro |
 
-The most popular user is: **abreeonaxlove**
-<div class="alert alert-block alert-danger"> RT @5SOS: Presenting: The 5 Seconds of Summer Show World Tour 2023!
+The most popular user is: **DreamHack**
+<div class="alert alert-block alert-danger"> RT @ESLMobile: 📣 GIVEAWAY TIME 🤩!
 
-Can’t wait to spend time on tour with all you beautiful people. Presal…</div>
+Join the DHSAN Challenge Finals Giveaway for a chance to win: 
+
+7x Clash of Clans Merch Boxes
+7x Brawl S…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **5SOS** |
-| #2 Most tweeted to  | **highontwl** |
-| #3 Most tweeted to  | **Tha5SOSFamily** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 4.36%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **DreamHack** |
+| #2 Most tweeted to  | **Snapdragon** |
+| #3 Most tweeted to  | **DreamHackFN** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 2.5%|
+| Tweeters with > 1000000 followers  | 0.34%  |
 
 
 
@@ -41,28 +44,28 @@ Can’t wait to spend time on tour with all you beautiful people. Presal…</div
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TOUR**  |
-| second  | **5SOS**  |
-| third  | **SHOW** |
-| fourth  | **@5SOS:**  |
-| fifth  | **WORLD**  |
+| first  | **DREAMHACK**  |
+| second  | **@DREAMHACK**  |
+| third  | **SAN** |
+| fourth  | **DIEGO**  |
+| fifth  | **WEEKEND**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2023-04-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @morganalright: y’all already know you’ll see me and liz assed at riverbend, that place is our brand at this point 🥹 |
+|RT @Jebailey: I've raised a couple of the caps but this is final call to register for tournaments this weekend at #DHSanDiego. What you see… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **abreeonaxlove**  |
+| The most retweeted user is: **DreamHack**  |
 | ------------- |
-| RT @5SOS: Presenting: The 5 Seconds of Summer Show World Tour 2023!Can’t wait to spend time on tour with all you beautiful people. Presal… |
+| RT @ESLMobile: 📣 GIVEAWAY TIME 🤩!Join the DHSAN Challenge Finals Giveaway for a chance to win: 7x Clash of Clans Merch Boxes7x Brawl S… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
