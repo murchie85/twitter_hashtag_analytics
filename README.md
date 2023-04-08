@@ -1,41 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Dreamhack"**
+&#x1F34E; **TOPIC = "Happy Easter"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-07TWEETS.png)
+![image](assets/2023-04-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @lovesods: "hardbody" fortnite kids when its time for dreamhack 😭 https://t.co/K6vDegBQN5 |
-| @CliffOlliff @DreamHack @DreamHackFN fr was such a process lol |
-| @DreamHack @TyKatte still got ur chance bro |
+| RT @ImranKhanPTI: Wishing all our Christian citizens a very happy Easter. |
+| RT @ImranKhanPTI: Wishing all our Christian citizens a very happy Easter. |
+| RT @pinkyandrexa: #FF &amp; Happy Easter to Amazing Modern #Artist @MaryBroderson #stunning #watercolour #psychedelic #art #ModernArt  🐤🐤🐤 x x… |
 
-The most popular user is: **DreamHack**
-<div class="alert alert-block alert-danger"> RT @ESLMobile: 📣 GIVEAWAY TIME 🤩!
-
-Join the DHSAN Challenge Finals Giveaway for a chance to win: 
-
-7x Clash of Clans Merch Boxes
-7x Brawl S…</div>
+The most popular user is: **olamide_victory**
+<div class="alert alert-block alert-danger"> RT @PeterObi: On the occasion of Easter, the celebration of the risen Christ, l wish all Christians a happy celebration and pray that the m…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DreamHack** |
-| #2 Most tweeted to  | **Snapdragon** |
-| #3 Most tweeted to  | **DreamHackFN** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 2.5%|
-| Tweeters with > 1000000 followers  | 0.34%  |
+| #1 Most tweeted to  | **ImranKhanPTI** |
+| #2 Most tweeted to  | **PeterObi** |
+| #3 Most tweeted to  | **rabbit2023_** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 6.14%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -44,28 +39,28 @@ Join the DHSAN Challenge Finals Giveaway for a chance to win:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DREAMHACK**  |
-| second  | **@DREAMHACK**  |
-| third  | **SAN** |
-| fourth  | **DIEGO**  |
-| fifth  | **WEEKEND**  |
+| first  | **HAPPY**  |
+| second  | **EASTER**  |
+| third  | **VERY** |
+| fourth  | **WISHING**  |
+| fifth  | **CHRISTIAN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-07BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Jebailey: I've raised a couple of the caps but this is final call to register for tournaments this weekend at #DHSanDiego. What you see… |
+|RT @ImranKhanPTI: Wishing all our Christian citizens a very happy Easter. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DreamHack**  |
+| The most retweeted user is: **olamide_victory**  |
 | ------------- |
-| RT @ESLMobile: 📣 GIVEAWAY TIME 🤩!Join the DHSAN Challenge Finals Giveaway for a chance to win: 7x Clash of Clans Merch Boxes7x Brawl S… |
+| RT @PeterObi: On the occasion of Easter, the celebration of the risen Christ, l wish all Christians a happy celebration and pray that the m… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
