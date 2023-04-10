@@ -1,37 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Pasg Hapus"**
+&#x1F34E; **TOPIC = "#NationalSiblingsDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-09TWEETS.png)
+![image](assets/2023-04-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LouiseScott1377: Bore da pasg hapus Happy easter to my twitter faves 💗🐣@missAtkinson456 @Spyderhed1 @whitey2404 @LGalloway77 @gri… |
-| RT @FOR_Cardiff: #HappyEaster! Pasg Hapus 🐣 The Dino Discovery Trail in @StDavidsCardiff is closed today but will reopen tomorrow at 9:30am… |
-| Pasg Hapus / Happy Easter from the team at RNC to everyone celebrating. |
+| RT @CanesFootball: Family FIRST!!#NationalSiblingsDay https://t.co/3Gtv6f1rEN |
+| RT @calgaryzoo: It’s #NationalSiblingsDay! 💕 Seeing our red panda cubs together is always a welcome sight. Cuddling, exploring, and (of c… |
+| RT @ToddWieseTeam: Give a Shout Out to Your First Best Friends! Happy National Siblings Day!#ToddWieseTeam #NationalSiblingsDay #BestFrien… |
 
-The most popular user is: **snowdoneryri**
-<div class="alert alert-block alert-danger"> RT @JudyCorbett: Pasg hapus pawb. Have a peaceful Easter weekend everyone.
-Open/Ar agor 11am-4pm. https://t.co/bhJmJSV1LQ</div>
+The most popular user is: **CEOofPamonha**
+<div class="alert alert-block alert-danger"> RT @DevilMayCry: "Remember what we used to say?"
+
+#NationalSiblingsDay https://t.co/D5uKmg2OPf</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **JudyCorbett** |
-| #2 Most tweeted to  | **TheGreenParty** |
-| #3 Most tweeted to  | **YesBridgend** |
-| NewProfiles (less than 10 days) | 0.65%  |
-| Tweeters with < 10 followers  | 2.27%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **DevilMayCry** |
+| #2 Most tweeted to  | **sanrio** |
+| #3 Most tweeted to  | **AoTWiki** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 5.34%|
+| Tweeters with > 1000000 followers  | 0.38%  |
 
 
 
@@ -40,28 +41,28 @@ Open/Ar agor 11am-4pm. https://t.co/bhJmJSV1LQ</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAPUS**  |
-| second  | **EASTER**  |
-| third  | **PASG** |
-| fourth  | **HAPPY**  |
-| fifth  | **HAPUS!**  |
+| first  | **NATIONALSIBLINGSDAY**  |
+| second  | **HAPPY**  |
+| third  | **SIBLINGS** |
+| fourth  | **SISTERS**  |
+| fifth  | **USED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-09BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (61.54%)
+![image](assets/2023-04-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@liseymacd Morning! How glorious ❤️ Pasg hapus https://t.co/WitqvvQPYh |
+|RT @WCAnimated: Happy #NationalSiblingsDay from Spottedleaf and Redtail! Art by @koriyart #WCAnimated https://t.co/E5bu7w4q3R |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **snowdoneryri**  |
+| The most retweeted user is: **CEOofPamonha**  |
 | ------------- |
-| RT @JudyCorbett: Pasg hapus pawb. Have a peaceful Easter weekend everyone.Open/Ar agor 11am-4pm. https://t.co/bhJmJSV1LQ |
+| RT @DevilMayCry: "Remember what we used to say?"#NationalSiblingsDay https://t.co/D5uKmg2OPf |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
