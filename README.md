@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "DirecTV"**
+&#x1F34E; **TOPIC = "#FlokiCash"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-11TWEETS.png)
+![image](assets/2023-04-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ApstFortune: God bless her 🥰Pls follow: @ApstFortuneAirpeace   Section 77   Falz   Secret Invasion   Beastie Boys   DirecTV   RedZo… |
-| Sunday Ticket going to be much more on YouTube than DirecTV. But the four-game view is going to be possible. https://t.co/OszVDijRLj |
-| RT @Hourglass_Wait: 2/ "The Next Crypto Gem"  will be one of the new shows @bspoketv will premier on DIRECTV’s WOW TV Channel 234 channel t… |
+| Join the #FlokiCash hype and earn cash with TEMU! Download the app now and use my invitation code &lt;107641638&gt; to st… https://t.co/wNKzb0IlD7 |
+| RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.(approaching $100 million Cap). @R… |
+| RT @RealFlokiCash: We keep informing you of a big news coming soon, #FlokiCash will be listing on a major exchange soon! ✅ https://t.co/ElY… |
 
-The most popular user is: **JeffLar96922327**
-<div class="alert alert-block alert-danger"> RT @DC_Draino: Remember when DirecTV, which is 70% owned by AT&amp;T, cancelled OAN after Dem Reps. Eshoo &amp; McNerney threatened them w/investig…</div>
+The most popular user is: **jihin871**
+<div class="alert alert-block alert-danger"> RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.
+(approaching $100 million Cap). 
+@R…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DIRECTV** |
-| #2 Most tweeted to  | **MySportsUpdate** |
-| #3 Most tweeted to  | **BrettKollmann** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 10.9%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **RealFlokiCash** |
+| #2 Most tweeted to  | **BitMartExchange** |
+| #3 Most tweeted to  | **CryptoJPan** |
+| NewProfiles (less than 10 days) | 1.2%  |
+| Tweeters with < 10 followers  | 33.59%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **JeffLar96922327**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **DIRECTV**  |
-| second  | **SUNDAY**  |
-| third  | **TICKET** |
-| fourth  | **@DIRECTV**  |
-| fifth  | **YOUTUBE**  |
+| first  | **FLOKICASH**  |
+| second  | **@REALFLOKICASH:**  |
+| third  | **@REALFLOKICASH** |
+| fourth  | **NEXT**  |
+| fifth  | **LIST**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-11BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-04-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (92.31%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Can’t believe Directv Stream is one of the few ways I can watch Midwest baseball. Had to go up in price to see my c… https://t.co/oLXxAd5cOO |
+|RT @RealFlokiCash: #FlokiCash just set a new record, our #telegram hit 500 members, congratulations team, community. 🐕https://t.co/gAhSK3… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **JeffLar96922327**  |
+| The most retweeted user is: **jihin871**  |
 | ------------- |
-| RT @DC_Draino: Remember when DirecTV, which is 70% owned by AT&amp;T, cancelled OAN after Dem Reps. Eshoo &amp; McNerney threatened them w/investig… |
+| RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.(approaching $100 million Cap). @R… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
