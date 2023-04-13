@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FlokiCash"**
+&#x1F34E; **TOPIC = "Fetterman"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-12TWEETS.png)
+![image](assets/2023-04-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Join the #FlokiCash hype and earn cash with TEMU! Download the app now and use my invitation code &lt;107641638&gt; to st… https://t.co/wNKzb0IlD7 |
-| RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.(approaching $100 million Cap). @R… |
-| RT @RealFlokiCash: We keep informing you of a big news coming soon, #FlokiCash will be listing on a major exchange soon! ✅ https://t.co/ElY… |
+| RT @RonnyJacksonTX: Democrats are now calling for Feinstein to resign, but what about Fetterman? What about BIDEN? How much longer are we s… |
+| @AZ_Brittney 💙by  your side John  Fetterman💙 |
+| RT @krassenstein: BREAKING: Senator John Fetterman will be back next week after undergoing treatment for depression. He will chair his firs… |
 
-The most popular user is: **jihin871**
-<div class="alert alert-block alert-danger"> RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.
-(approaching $100 million Cap). 
-@R…</div>
+The most popular user is: **DavisBayou212**
+<div class="alert alert-block alert-danger"> RT @Chet_Cannon: Remember when John Fetterman thought he heard gunshots, hopped in his truck, came across a random, innocent black guy who…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RealFlokiCash** |
-| #2 Most tweeted to  | **BitMartExchange** |
-| #3 Most tweeted to  | **CryptoJPan** |
-| NewProfiles (less than 10 days) | 1.2%  |
-| Tweeters with < 10 followers  | 33.59%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AZ_Brittney** |
+| #2 Most tweeted to  | **TheRickyDavila** |
+| #3 Most tweeted to  | **RonnyJacksonTX** |
+| NewProfiles (less than 10 days) | 0.38%  |
+| Tweeters with < 10 followers  | 3.86%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **jihin871**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FLOKICASH**  |
-| second  | **@REALFLOKICASH:**  |
-| third  | **@REALFLOKICASH** |
-| fourth  | **NEXT**  |
-| fifth  | **LIST**  |
+| first  | **FETTERMAN**  |
+| second  | **JOHN**  |
+| third  | **SENATOR** |
+| fourth  | **DEPRESSION**  |
+| fifth  | **FEINSTEIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-12BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (7.69%) **OBJECTIVE** (92.31%)
+![image](assets/2023-04-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @RealFlokiCash: #FlokiCash just set a new record, our #telegram hit 500 members, congratulations team, community. 🐕https://t.co/gAhSK3… |
+|RT @AZ_Brittney: Senator John Fetterman is kicking depression in the ass and is ready to chair his first subcommittee hearing! Drop a 💙 a… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jihin871**  |
+| The most retweeted user is: **DavisBayou212**  |
 | ------------- |
-| RT @RealFlokiCash: #FlokiCash will list on @BitMartExchange, we have conquered 100x, next target 1000x.(approaching $100 million Cap). @R… |
+| RT @Chet_Cannon: Remember when John Fetterman thought he heard gunshots, hopped in his truck, came across a random, innocent black guy who… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
