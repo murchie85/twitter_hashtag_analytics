@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Fetterman"**
+&#x1F34E; **TOPIC = "Nicki"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-13TWEETS.png)
+![image](assets/2023-04-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RonnyJacksonTX: Democrats are now calling for Feinstein to resign, but what about Fetterman? What about BIDEN? How much longer are we s… |
-| @AZ_Brittney 💙by  your side John  Fetterman💙 |
-| RT @krassenstein: BREAKING: Senator John Fetterman will be back next week after undergoing treatment for depression. He will chair his firs… |
+| RT @nickisoicy: Stop scrolling it’s Nicki Minaj https://t.co/oMAolcF2CH |
+| Apple Music US  https://t.co/wId6Xz6gv5…#3 Princess Diana, @icespicee_ &amp; @NICKIMINAJ — (+24) *new peak* https://t.co/l5XkG4ZiQf |
+| RT @upblissed: watch yo tone when u speak to me nicki knows me🤦🏾‍♂️ |
 
-The most popular user is: **DavisBayou212**
-<div class="alert alert-block alert-danger"> RT @Chet_Cannon: Remember when John Fetterman thought he heard gunshots, hopped in his truck, came across a random, innocent black guy who…</div>
+The most popular user is: **nicki_t_daj**
+<div class="alert alert-block alert-danger"> RT @MorissaSchwartz: Imagine her playing fetch with her dogs 😆 https://t.co/fkKNxBw9B0</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AZ_Brittney** |
-| #2 Most tweeted to  | **TheRickyDavila** |
-| #3 Most tweeted to  | **RonnyJacksonTX** |
+| #1 Most tweeted to  | **NICKIMINAJ** |
+| #2 Most tweeted to  | **icespicee_** |
+| #3 Most tweeted to  | **PopCrave** |
 | NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 3.86%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| Tweeters with < 10 followers  | 3.7%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **DavisBayou212**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FETTERMAN**  |
-| second  | **JOHN**  |
-| third  | **SENATOR** |
-| fourth  | **DEPRESSION**  |
-| fifth  | **FEINSTEIN**  |
+| first  | **NICKI**  |
+| second  | **ICE**  |
+| third  | **SPICE** |
+| fourth  | **MINAJ**  |
+| fifth  | **PRINCESS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-13BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-04-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (42.86%) **OBJECTIVE** (28.57%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AZ_Brittney: Senator John Fetterman is kicking depression in the ass and is ready to chair his first subcommittee hearing! Drop a 💙 a… |
+|Princess Diana (feat. Nicki Minaj) - SingleIce SpiceApple Music https://t.co/Kn8ZMTmhw4 #ad https://t.co/1YKWIrFEmE |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **DavisBayou212**  |
+| The most retweeted user is: **nicki_t_daj**  |
 | ------------- |
-| RT @Chet_Cannon: Remember when John Fetterman thought he heard gunshots, hopped in his truck, came across a random, innocent black guy who… |
+| RT @MorissaSchwartz: Imagine her playing fetch with her dogs 😆 https://t.co/fkKNxBw9B0 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
