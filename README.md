@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Nicki"**
+&#x1F34E; **TOPIC = "#ISOJ2023"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-14TWEETS.png)
+![image](assets/2023-04-15TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @nickisoicy: Stop scrolling it’s Nicki Minaj https://t.co/oMAolcF2CH |
-| Apple Music US  https://t.co/wId6Xz6gv5…#3 Princess Diana, @icespicee_ &amp; @NICKIMINAJ — (+24) *new peak* https://t.co/l5XkG4ZiQf |
-| RT @upblissed: watch yo tone when u speak to me nicki knows me🤦🏾‍♂️ |
+| RT @Luortiz: Adefemi Akinsanya @femmefemi calls it like it is...journalism can die two possible and unavoidable deaths: a sudden or a very… |
+| .@milwaukeenns centers community voices in the reporting and looks at the systemic roots of community problems.… https://t.co/ROS1WOiYOd |
+| A bank’s message on the jet bridge to Texas and #ISOJ2023. A person on the flight is wearing full-on cowboy gear. I… https://t.co/P3QimfUHlD |
 
-The most popular user is: **nicki_t_daj**
-<div class="alert alert-block alert-danger"> RT @MorissaSchwartz: Imagine her playing fetch with her dogs 😆 https://t.co/fkKNxBw9B0</div>
+The most popular user is: **jlsiweck**
+<div class="alert alert-block alert-danger"> RT @jczamora: &gt;&gt; Journalist #JoseRubénZamora was arrested in #Guatemala on July 29, 2022. 259 days have passed since his unjust detention.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NICKIMINAJ** |
-| #2 Most tweeted to  | **icespicee_** |
-| #3 Most tweeted to  | **PopCrave** |
-| NewProfiles (less than 10 days) | 0.38%  |
-| Tweeters with < 10 followers  | 3.7%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **ISOJ2023** |
+| #2 Most tweeted to  | **jczamora** |
+| #3 Most tweeted to  | **Hermida** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 0.73%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **nicki_t_daj**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **NICKI**  |
-| second  | **ICE**  |
-| third  | **SPICE** |
-| fourth  | **MINAJ**  |
-| fifth  | **PRINCESS**  |
+| first  | **ISOJ2023**  |
+| second  | **JOURNALISM**  |
+| third  | **NEWS** |
+| fourth  | **@ISOJ2023:**  |
+| fifth  | **AI**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-14BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-15BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-14sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (28.57%) & **NEGATIVELY-SUBJECTIVE** (42.86%) **OBJECTIVE** (28.57%)
+![image](assets/2023-04-15sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Princess Diana (feat. Nicki Minaj) - SingleIce SpiceApple Music https://t.co/Kn8ZMTmhw4 #ad https://t.co/1YKWIrFEmE |
+|RT @Hermida: Interesting point on how @katiekings sees the distinction between news and opinion: News is presenting how the world is. O… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nicki_t_daj**  |
+| The most retweeted user is: **jlsiweck**  |
 | ------------- |
-| RT @MorissaSchwartz: Imagine her playing fetch with her dogs 😆 https://t.co/fkKNxBw9B0 |
+| RT @jczamora: &gt;&gt; Journalist #JoseRubénZamora was arrested in #Guatemala on July 29, 2022. 259 days have passed since his unjust detention.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
