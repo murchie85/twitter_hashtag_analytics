@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ISOJ2023"**
+&#x1F34E; **TOPIC = "E-40"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-15TWEETS.png)
+![image](assets/2023-04-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Luortiz: Adefemi Akinsanya @femmefemi calls it like it is...journalism can die two possible and unavoidable deaths: a sudden or a very… |
-| .@milwaukeenns centers community voices in the reporting and looks at the systemic roots of community problems.… https://t.co/ROS1WOiYOd |
-| A bank’s message on the jet bridge to Texas and #ISOJ2023. A person on the flight is wearing full-on cowboy gear. I… https://t.co/P3QimfUHlD |
+| 2010 -2015, E-40 used to show up to Sacramento Kings games and show support before the Warriors were good, we need to find those receipts 🧾🧾 |
+| RT @MorgBGreat: E-40 is right. Reading his statement and watching this video… this looks like the most entitled disrespectful racist white… |
+| RT @Complex: E-40 says 'racial bias' led to his ejection from Warriors-Kings game. https://t.co/CxEyMb9J6a |
 
-The most popular user is: **jlsiweck**
-<div class="alert alert-block alert-danger"> RT @jczamora: &gt;&gt; Journalist #JoseRubénZamora was arrested in #Guatemala on July 29, 2022. 259 days have passed since his unjust detention.…</div>
+The most popular user is: **mariano_e_caro**
+<div class="alert alert-block alert-danger"> RT @ErikSolheim: The British empire caused 165 million deaths in India in 40 years:
+
+A new study found that British colonialism caused appr…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ISOJ2023** |
-| #2 Most tweeted to  | **jczamora** |
-| #3 Most tweeted to  | **Hermida** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 0.73%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **ShamsCharania** |
+| #2 Most tweeted to  | **espn** |
+| #3 Most tweeted to  | **MarcJSpears** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.1%|
+| Tweeters with > 1000000 followers  | 0.26%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **jlsiweck**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ISOJ2023**  |
-| second  | **JOURNALISM**  |
-| third  | **NEWS** |
-| fourth  | **@ISOJ2023:**  |
-| fifth  | **AI**  |
+| first  | **E-40**  |
+| second  | **KICKED**  |
+| third  | **HIP-HOP** |
+| fourth  | **WARRIORS**  |
+| fifth  | **1**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-15BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Hermida: Interesting point on how @katiekings sees the distinction between news and opinion: News is presenting how the world is. O… |
+|RT @AbeFroman: This is symbolic. E-40 is one of the nicest dudes on the planet, and a regular around-the-way cat at Dubs games.What in th… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **jlsiweck**  |
+| The most retweeted user is: **mariano_e_caro**  |
 | ------------- |
-| RT @jczamora: &gt;&gt; Journalist #JoseRubénZamora was arrested in #Guatemala on July 29, 2022. 259 days have passed since his unjust detention.… |
+| RT @ErikSolheim: The British empire caused 165 million deaths in India in 40 years:A new study found that British colonialism caused appr… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
