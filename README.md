@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "E-40"**
+&#x1F34E; **TOPIC = "Eagles"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-16TWEETS.png)
+![image](assets/2023-04-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| 2010 -2015, E-40 used to show up to Sacramento Kings games and show support before the Warriors were good, we need to find those receipts 🧾🧾 |
-| RT @MorgBGreat: E-40 is right. Reading his statement and watching this video… this looks like the most entitled disrespectful racist white… |
-| RT @Complex: E-40 says 'racial bias' led to his ejection from Warriors-Kings game. https://t.co/CxEyMb9J6a |
+| RT @Schultz_Report: Jalen Hurts knew ALL along! 🎥: @Eagles https://t.co/p2kalAPQjz |
+| RT @RapSheet: 🚨 🚨 🚨 The #Eagles and Jalen Hurts agreed to terms on a 5-year, $255M contract extension that makes him the highest-paid pla… |
+| RT @DailyLoud: Jalen Hurts gets record-breaking $255 million contract extension from Eagles. Making him the highest-paid player in NFL hist… |
 
-The most popular user is: **mariano_e_caro**
-<div class="alert alert-block alert-danger"> RT @ErikSolheim: The British empire caused 165 million deaths in India in 40 years:
-
-A new study found that British colonialism caused appr…</div>
+The most popular user is: **TheRealPapaDoc**
+<div class="alert alert-block alert-danger"> RT @AdamSchefter: Eagles and Jalen Hurts reached agreement on a five-year, $255 million extension, including $179.304 million guaranteed, p…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ShamsCharania** |
-| #2 Most tweeted to  | **espn** |
-| #3 Most tweeted to  | **MarcJSpears** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 4.1%|
-| Tweeters with > 1000000 followers  | 0.26%  |
+| #1 Most tweeted to  | **Eagles** |
+| #2 Most tweeted to  | **AdamSchefter** |
+| #3 Most tweeted to  | **RapSheet** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 5.96%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -41,28 +39,28 @@ A new study found that British colonialism caused appr…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **E-40**  |
-| second  | **KICKED**  |
-| third  | **HIP-HOP** |
-| fourth  | **WARRIORS**  |
-| fifth  | **1**  |
+| first  | **EAGLES**  |
+| second  | **JALEN**  |
+| third  | **HURTS** |
+| fourth  | **EXTENSION**  |
+| fifth  | **MILLION**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-16BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-04-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AbeFroman: This is symbolic. E-40 is one of the nicest dudes on the planet, and a regular around-the-way cat at Dubs games.What in th… |
+|RT @IAMANITABAKER: 🎉Congrats @JalenHurts @Eagles |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mariano_e_caro**  |
+| The most retweeted user is: **TheRealPapaDoc**  |
 | ------------- |
-| RT @ErikSolheim: The British empire caused 165 million deaths in India in 40 years:A new study found that British colonialism caused appr… |
+| RT @AdamSchefter: Eagles and Jalen Hurts reached agreement on a five-year, $255 million extension, including $179.304 million guaranteed, p… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
