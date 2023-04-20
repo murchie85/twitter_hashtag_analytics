@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Kennedy"**
+&#x1F34E; **TOPIC = "Happy 420"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-19hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-19TWEETS.png)
+![image](assets/2023-04-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @KentaroPJJ: Leon KennedyResident Evil 4 https://t.co/Ez7JCo8hvs |
-| Current US state: How to keep wages low: make people jobless and homeless, then they would accept ANY job offer… https://t.co/wUueN5kOWf |
-| RT @OANN: Robert F. Kennedy Jr. announces presidential run https://t.co/hCyDz6BF0S  #OAN https://t.co/ohiGFzRowF |
+| RT @WeeklyTarot: ✨ Today's Vibes ✨♈ Aries: High♉ Taurus: High♊ Gemini: High♋ Cancer: High♌ Leo: High♍ Virgo: High♎ Libra: High♏ Sc… |
+| RT @davidhenrynobo1: happy 420, good day to reverse polarity and smoke the devils lettuce 🥬💨 https://t.co/V2YommTcuA |
+| RT @MileyNation13: Happy 420 https://t.co/R8z0cBoVTo |
 
-The most popular user is: **thats_kennedy**
-<div class="alert alert-block alert-danger"> RT @druski: StreetDudes be doing 1,000 Things in 1 day on Instagram 😂 https://t.co/ZdJOvyCb0A</div>
+The most popular user is: **uyuzolur**
+<div class="alert alert-block alert-danger"> RT @rihanna: Happy 420, look out for Needed Me TODAY at NOON EST. https://t.co/J5XYHQrout</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **krassenstein** |
-| #2 Most tweeted to  | **TheChiefNerd** |
-| #3 Most tweeted to  | **TexasLindsay_** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 2.74%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **MileyNation13** |
+| #2 Most tweeted to  | **guttergirl444** |
+| #3 Most tweeted to  | **tegridyfarms** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 3.46%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **thats_kennedy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **KENNEDY**  |
-| second  | **ROBERT**  |
-| third  | **JR** |
-| fourth  | **F**  |
-| fifth  | **ANNOUNCES**  |
+| first  | **HAPPY**  |
+| second  | **420**  |
+| third  | **@MILEYNATION13:** |
+| fourth  | **HTTPS://TCO/R8Z0CBOVTORT**  |
+| fifth  | **420!**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-19BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-19sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @FoxNews: HAT IN THE RING: @RobertKennedyJr officially launches his 2024 Democratic presidential primary challenge against Joe Biden as… |
+|RT @L3ON3L_9: GM Foggy Forest !#NewProfilePic by @KitaroNFT Glow Spicy Noods has been so good to me as a pfp, made some great connectio… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **thats_kennedy**  |
+| The most retweeted user is: **uyuzolur**  |
 | ------------- |
-| RT @druski: StreetDudes be doing 1,000 Things in 1 day on Instagram 😂 https://t.co/ZdJOvyCb0A |
+| RT @rihanna: Happy 420, look out for Needed Me TODAY at NOON EST. https://t.co/J5XYHQrout |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
