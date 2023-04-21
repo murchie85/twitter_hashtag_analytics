@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Happy 420"**
+&#x1F34E; **TOPIC = "Stunna"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-20TWEETS.png)
+![image](assets/2023-04-21TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @WeeklyTarot: ✨ Today's Vibes ✨♈ Aries: High♉ Taurus: High♊ Gemini: High♋ Cancer: High♌ Leo: High♍ Virgo: High♎ Libra: High♏ Sc… |
-| RT @davidhenrynobo1: happy 420, good day to reverse polarity and smoke the devils lettuce 🥬💨 https://t.co/V2YommTcuA |
-| RT @MileyNation13: Happy 420 https://t.co/R8z0cBoVTo |
+| @Eye_M_E exactly why ion like stunna weird ass. |
+| RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
+| RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
 
-The most popular user is: **uyuzolur**
-<div class="alert alert-block alert-danger"> RT @rihanna: Happy 420, look out for Needed Me TODAY at NOON EST. https://t.co/J5XYHQrout</div>
+The most popular user is: **stunna_ju**
+<div class="alert alert-block alert-danger"> RT @upblissed: nigga bout to meet T’Challa</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MileyNation13** |
-| #2 Most tweeted to  | **guttergirl444** |
-| #3 Most tweeted to  | **tegridyfarms** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 3.46%|
+| #1 Most tweeted to  | **bgcteainsta** |
+| #2 Most tweeted to  | **TheBaddiesSpace** |
+| #3 Most tweeted to  | **bgctea2020** |
+| NewProfiles (less than 10 days) | 0.5%  |
+| Tweeters with < 10 followers  | 8.34%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **uyuzolur**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAPPY**  |
-| second  | **420**  |
-| third  | **@MILEYNATION13:** |
-| fourth  | **HTTPS://TCO/R8Z0CBOVTORT**  |
-| fifth  | **420!**  |
+| first  | **STUNNA**  |
+| second  | **GIRL**  |
+| third  | **BIGGIE** |
+| fourth  | **RUNNING**  |
+| fifth  | **REUNION**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-20BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-21BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-20sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (100.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (0.0%)
+![image](assets/2023-04-21sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @L3ON3L_9: GM Foggy Forest !#NewProfilePic by @KitaroNFT Glow Spicy Noods has been so good to me as a pfp, made some great connectio… |
+|RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **uyuzolur**  |
+| The most retweeted user is: **stunna_ju**  |
 | ------------- |
-| RT @rihanna: Happy 420, look out for Needed Me TODAY at NOON EST. https://t.co/J5XYHQrout |
+| RT @upblissed: nigga bout to meet T’Challa |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
