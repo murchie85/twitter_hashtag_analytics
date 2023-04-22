@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Stunna"**
+&#x1F34E; **TOPIC = "#EarthDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-21hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-21TWEETS.png)
+![image](assets/2023-04-22TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Eye_M_E exactly why ion like stunna weird ass. |
-| RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
-| RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
+| RT @AECOM: What does it mean to deliver #SustainableLegacies? Watch our teams solve our clients’ most complex challenges and make a posit… |
+| Day 22 - Happy Earth Day !! Free Metro Rides all day LA #30DaysofBiking #EarthDay #Metro #Bicycle #Somafab… https://t.co/1XGdsEXEzf |
+| RT @jimmykimmel: This land is your land, this land is my land, this land belongs to horses too… protect and cherish it. #EarthDay https://t… |
 
-The most popular user is: **stunna_ju**
-<div class="alert alert-block alert-danger"> RT @upblissed: nigga bout to meet T’Challa</div>
+The most popular user is: **TheIanFunZone**
+<div class="alert alert-block alert-danger"> RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **bgcteainsta** |
-| #2 Most tweeted to  | **TheBaddiesSpace** |
-| #3 Most tweeted to  | **bgctea2020** |
-| NewProfiles (less than 10 days) | 0.5%  |
-| Tweeters with < 10 followers  | 8.34%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **NASAEarth** |
+| #2 Most tweeted to  | **LakotaMan1** |
+| #3 Most tweeted to  | **CaptMarkKelly** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 5.36%|
+| Tweeters with > 1000000 followers  | 0.22%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **stunna_ju**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **STUNNA**  |
-| second  | **GIRL**  |
-| third  | **BIGGIE** |
-| fourth  | **RUNNING**  |
-| fifth  | **REUNION**  |
+| first  | **EARTHDAY**  |
+| second  | **HAPPY**  |
+| third  | **EARTH** |
+| fourth  | **PLANET**  |
+| fifth  | **DAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-21BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-22BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-21sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-22sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @bgcteainsta: STUNNA GIRL HAD BIGGIE RUNNING AFTER THE REUNION 😩😩😩 https://t.co/FcoR2fPQlY |
+|RT @DrRonHolt: Hate has no home on #EarthDay or any day. Only love. RT if you agree. Spread the love. #lgbt+ #trans https://t.co/dVBIcw… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **stunna_ju**  |
+| The most retweeted user is: **TheIanFunZone**  |
 | ------------- |
-| RT @upblissed: nigga bout to meet T’Challa |
+| RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
