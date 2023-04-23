@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#EarthDay"**
+&#x1F34E; **TOPIC = "#FACup"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-22TWEETS.png)
+![image](assets/2023-04-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @AECOM: What does it mean to deliver #SustainableLegacies? Watch our teams solve our clients’ most complex challenges and make a posit… |
-| Day 22 - Happy Earth Day !! Free Metro Rides all day LA #30DaysofBiking #EarthDay #Metro #Bicycle #Somafab… https://t.co/1XGdsEXEzf |
-| RT @jimmykimmel: This land is your land, this land is my land, this land belongs to horses too… protect and cherish it. #EarthDay https://t… |
+| RT @ManUtd: LINDELOF WINS IT FOR UNITED! 🤩Brighton: ✅✅✅✅✅✅❌United: ✅✅✅✅✅✅✅#MUFC || #FACup |
+| RT @ManUtd: BUZZING. #MUFC || #FACup https://t.co/PgZRtYyXn7 |
+| RT @ManUtd: 🥶 Iceman by name, Iceman by nature. #MUFC || #FACup https://t.co/OE5zVlhrZY |
 
-The most popular user is: **TheIanFunZone**
-<div class="alert alert-block alert-danger"> RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy</div>
+The most popular user is: **nife__simi**
+<div class="alert alert-block alert-danger"> RT @ManUtd: See you in June, @WembleyStadium 👋
+
+#MUFC || #FACup https://t.co/n5sdIora0V</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NASAEarth** |
-| #2 Most tweeted to  | **LakotaMan1** |
-| #3 Most tweeted to  | **CaptMarkKelly** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 5.36%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **ManUtd** |
+| #2 Most tweeted to  | **wembleystadium** |
+| #3 Most tweeted to  | **BSchweinsteiger** |
+| NewProfiles (less than 10 days) | 0.18%  |
+| Tweeters with < 10 followers  | 12.78%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **TheIanFunZone**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **EARTHDAY**  |
-| second  | **HAPPY**  |
-| third  | **EARTH** |
-| fourth  | **PLANET**  |
-| fifth  | **DAY**  |
+| first  | **FACUP**  |
+| second  | **MUFC**  |
+| third  | **@MANUTD:** |
+| fourth  | **||**  |
+| fifth  | **ICEMAN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-22BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (40.0%)
+![image](assets/2023-04-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @DrRonHolt: Hate has no home on #EarthDay or any day. Only love. RT if you agree. Spread the love. #lgbt+ #trans https://t.co/dVBIcw… |
+|RT @ManUtd: Who are your first five penalty takers? 💭 #MUFC || #FACup https://t.co/oLUDefmvq4 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TheIanFunZone**  |
+| The most retweeted user is: **nife__simi**  |
 | ------------- |
-| RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy |
+| RT @ManUtd: See you in June, @WembleyStadium 👋#MUFC || #FACup https://t.co/n5sdIora0V |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
