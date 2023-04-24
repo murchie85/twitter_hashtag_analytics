@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FACup"**
+&#x1F34E; **TOPIC = "Tucker"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-23TWEETS.png)
+![image](assets/2023-04-24TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ManUtd: LINDELOF WINS IT FOR UNITED! 🤩Brighton: ✅✅✅✅✅✅❌United: ✅✅✅✅✅✅✅#MUFC || #FACup |
-| RT @ManUtd: BUZZING. #MUFC || #FACup https://t.co/PgZRtYyXn7 |
-| RT @ManUtd: 🥶 Iceman by name, Iceman by nature. #MUFC || #FACup https://t.co/OE5zVlhrZY |
+| RT @stclairashley: Now that Tucker Carlson is gone, there is absolutely zero reason to watch Fox News anymore |
+| RT @RepMTG: Cable news is about to be taught a powerful lesson after Fox News caved to the woke mob and fired Tucker Carlson. Americans n… |
+| Pity ... Tucker Carlson is out at Fox News after Dominion lawsuit disclosures https://t.co/OyJAXI45J4 |
 
-The most popular user is: **nife__simi**
-<div class="alert alert-block alert-danger"> RT @ManUtd: See you in June, @WembleyStadium 👋
-
-#MUFC || #FACup https://t.co/n5sdIora0V</div>
+The most popular user is: **PackofRhinos**
+<div class="alert alert-block alert-danger"> RT @nowthisnews: Watch Fox News host Tucker Carlson call one of his guests a 'tiny brain...moron' during an interview. NowThis has obtained…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ManUtd** |
-| #2 Most tweeted to  | **wembleystadium** |
-| #3 Most tweeted to  | **BSchweinsteiger** |
-| NewProfiles (less than 10 days) | 0.18%  |
-| Tweeters with < 10 followers  | 12.78%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **TuckerCarlson** |
+| #2 Most tweeted to  | **RobertKennedyJr** |
+| #3 Most tweeted to  | **TexasLindsay_** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 4.38%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -41,28 +39,28 @@ The most popular user is: **nife__simi**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FACUP**  |
-| second  | **MUFC**  |
-| third  | **@MANUTD:** |
-| fourth  | **||**  |
-| fifth  | **ICEMAN**  |
+| first  | **TUCKER**  |
+| second  | **CARLSON**  |
+| third  | **FOX** |
+| fourth  | **NEWS**  |
+| fifth  | **FIRED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-23BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-24BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-23sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
+![image](assets/2023-04-24sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @ManUtd: Who are your first five penalty takers? 💭 #MUFC || #FACup https://t.co/oLUDefmvq4 |
+|RT @MiracleonIce112: James O'Keefe &amp; Tucker Carlson create your own platform, produce it on TV &amp; become the biggest news org on Earth.... |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **nife__simi**  |
+| The most retweeted user is: **PackofRhinos**  |
 | ------------- |
-| RT @ManUtd: See you in June, @WembleyStadium 👋#MUFC || #FACup https://t.co/n5sdIora0V |
+| RT @nowthisnews: Watch Fox News host Tucker Carlson call one of his guests a 'tiny brain...moron' during an interview. NowThis has obtained… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
