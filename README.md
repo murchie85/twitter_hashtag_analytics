@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Tucker"**
+&#x1F34E; **TOPIC = "Chacun Pour Soi"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-24TWEETS.png)
+![image](assets/2023-04-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @stclairashley: Now that Tucker Carlson is gone, there is absolutely zero reason to watch Fox News anymore |
-| RT @RepMTG: Cable news is about to be taught a powerful lesson after Fox News caved to the woke mob and fired Tucker Carlson. Americans n… |
-| Pity ... Tucker Carlson is out at Fox News after Dominion lawsuit disclosures https://t.co/OyJAXI45J4 |
+| RT @RacingTV: Thriller! Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch… |
+| What a race! 👏Back-to-back wins in the Grade 1 @WilliamHill Champion Chase for Energumene but only after pulling… https://t.co/JLXzCDxBMb |
+| Energumene just holds off the gallant Chacun Pour Soi! A messy round of jumping from the winner 🏆 but his brilliance sees him winning . |
 
-The most popular user is: **PackofRhinos**
-<div class="alert alert-block alert-danger"> RT @nowthisnews: Watch Fox News host Tucker Carlson call one of his guests a 'tiny brain...moron' during an interview. NowThis has obtained…</div>
+The most popular user is: **1875Invictus**
+<div class="alert alert-block alert-danger"> RT @RacingTV: Thriller! 
+
+Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TuckerCarlson** |
-| #2 Most tweeted to  | **RobertKennedyJr** |
-| #3 Most tweeted to  | **TexasLindsay_** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.38%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **RacingTV** |
+| #2 Most tweeted to  | **dan2231** |
+| #3 Most tweeted to  | **racingblogger** |
+| NewProfiles (less than 10 days) | 0.45%  |
+| Tweeters with < 10 followers  | 2.26%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **PackofRhinos**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TUCKER**  |
-| second  | **CARLSON**  |
-| third  | **FOX** |
-| fourth  | **NEWS**  |
-| fifth  | **FIRED**  |
+| first  | **POUR**  |
+| second  | **CHACUN**  |
+| third  | **ENERGUMENE** |
+| fourth  | **SOI**  |
+| fifth  | **CHAMPION**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-24BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
+![image](assets/2023-04-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @MiracleonIce112: James O'Keefe &amp; Tucker Carlson create your own platform, produce it on TV &amp; become the biggest news org on Earth.... |
+|Chacun Pour Soi, what a horse he's been! |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **PackofRhinos**  |
+| The most retweeted user is: **1875Invictus**  |
 | ------------- |
-| RT @nowthisnews: Watch Fox News host Tucker Carlson call one of his guests a 'tiny brain...moron' during an interview. NowThis has obtained… |
+| RT @RacingTV: Thriller! Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
