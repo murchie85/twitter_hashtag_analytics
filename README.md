@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Chacun Pour Soi"**
+&#x1F34E; **TOPIC = "Haaland"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-25TWEETS.png)
+![image](assets/2023-04-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @RacingTV: Thriller! Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch… |
-| What a race! 👏Back-to-back wins in the Grade 1 @WilliamHill Champion Chase for Energumene but only after pulling… https://t.co/JLXzCDxBMb |
-| Energumene just holds off the gallant Chacun Pour Soi! A messy round of jumping from the winner 🏆 but his brilliance sees him winning . |
+| We’ve actually done pretty well to limit City’s usual threat through their wide men. Can see why they wanted Haal… https://t.co/8DCkVESDNf |
+| RT @haalandio: HAALAND ALMOST KVLLED KDB IM CRYING https://t.co/SF47PFHo6J |
+| RT @vowethepimp: get big 1xbet bonus with this 💸 👇Use" BOO1XB "promocode..get 300% of your initial deposit and free codes 💯🔥Register her… |
 
-The most popular user is: **1875Invictus**
-<div class="alert alert-block alert-danger"> RT @RacingTV: Thriller! 
+The most popular user is: **KinjalS01891879**
+<div class="alert alert-block alert-danger"> RT @TrollFootball: Her: I bet he's thinking about other women.
 
-Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch…</div>
+Him: It's Holding vs Haaland tonight. https://t.co/AEnVF4lH25</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RacingTV** |
-| #2 Most tweeted to  | **dan2231** |
-| #3 Most tweeted to  | **racingblogger** |
-| NewProfiles (less than 10 days) | 0.45%  |
-| Tweeters with < 10 followers  | 2.26%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **FabrizioRomano** |
+| #2 Most tweeted to  | **TrollFootball** |
+| #3 Most tweeted to  | **City_Xtra** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.34%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -41,28 +41,28 @@ Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Cham
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **POUR**  |
-| second  | **CHACUN**  |
-| third  | **ENERGUMENE** |
-| fourth  | **SOI**  |
-| fifth  | **CHAMPION**  |
+| first  | **HAALAND**  |
+| second  | **SCORED**  |
+| third  | **ARSENAL** |
+| fourth  | **DE**  |
+| fifth  | **BRUYNE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-25BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (53.33%)
+![image](assets/2023-04-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Chacun Pour Soi, what a horse he's been! |
+|RT @Aboa_Banku1: They thought Haaland will be scoring but today he is assisting Kevin De Bruyne 🤣🤣🤣🤣 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **1875Invictus**  |
+| The most retweeted user is: **KinjalS01891879**  |
 | ------------- |
-| RT @RacingTV: Thriller! Energumene lands a sixth Grade 1 victory and repeat wins in the Punchestown Champion Chase but what a run from Ch… |
+| RT @TrollFootball: Her: I bet he's thinking about other women.Him: It's Holding vs Haaland tonight. https://t.co/AEnVF4lH25 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
