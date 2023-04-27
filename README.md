@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Haaland"**
+&#x1F34E; **TOPIC = "Targett"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-26TWEETS.png)
+![image](assets/2023-04-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| We’ve actually done pretty well to limit City’s usual threat through their wide men. Can see why they wanted Haal… https://t.co/8DCkVESDNf |
-| RT @haalandio: HAALAND ALMOST KVLLED KDB IM CRYING https://t.co/SF47PFHo6J |
-| RT @vowethepimp: get big 1xbet bonus with this 💸 👇Use" BOO1XB "promocode..get 300% of your initial deposit and free codes 💯🔥Register her… |
+| @JInufc18 targett is sexy |
+| #BBCFootball very surprised to see Dan Burn retaining his place, given (a) how badly he played against Villa and (b… https://t.co/eVVHxQWqhS |
+| @Edit_Kev @heycallumwilson a relationship that existed and performed very well best part of last season. I’m sure b… https://t.co/bACCIeojB8 |
 
-The most popular user is: **KinjalS01891879**
-<div class="alert alert-block alert-danger"> RT @TrollFootball: Her: I bet he's thinking about other women.
-
-Him: It's Holding vs Haaland tonight. https://t.co/AEnVF4lH25</div>
+The most popular user is: **targett_deb**
+<div class="alert alert-block alert-danger"> RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **FabrizioRomano** |
-| #2 Most tweeted to  | **TrollFootball** |
-| #3 Most tweeted to  | **City_Xtra** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 4.34%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **NUFC** |
+| #2 Most tweeted to  | **targett_daniel** |
+| #3 Most tweeted to  | **KimTurn13719507** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 2.92%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +39,28 @@ Him: It's Holding vs Haaland tonight. https://t.co/AEnVF4lH25</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAALAND**  |
-| second  | **SCORED**  |
-| third  | **ARSENAL** |
-| fourth  | **DE**  |
-| fifth  | **BRUYNE**  |
+| first  | **TARGETT**  |
+| second  | **BURN**  |
+| third  | **MATT** |
+| fourth  | **BACK**  |
+| fifth  | **SEASON:**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-26BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (46.67%)
+![image](assets/2023-04-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Aboa_Banku1: They thought Haaland will be scoring but today he is assisting Kevin De Bruyne 🤣🤣🤣🤣 |
+|#NUFC line-up to face Spurs: Pope; Trippier, Schar, Botman, Burn; Guimaraes, Longstaff, Willock; Murphy, Joelinton,… https://t.co/wwcABgsUUA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **KinjalS01891879**  |
+| The most retweeted user is: **targett_deb**  |
 | ------------- |
-| RT @TrollFootball: Her: I bet he's thinking about other women.Him: It's Holding vs Haaland tonight. https://t.co/AEnVF4lH25 |
+| RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
