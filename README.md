@@ -1,36 +1,39 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Targett"**
+&#x1F34E; **TOPIC = "#XboxFreeCodeFriday"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-04-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-27TWEETS.png)
+![image](assets/2023-04-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @JInufc18 targett is sexy |
-| #BBCFootball very surprised to see Dan Burn retaining his place, given (a) how badly he played against Villa and (b… https://t.co/eVVHxQWqhS |
-| @Edit_Kev @heycallumwilson a relationship that existed and performed very well best part of last season. I’m sure b… https://t.co/bACCIeojB8 |
+| @majornelson Favorite character is the guy from Soul, I just love his vibe!Combat kart racing against Hercules and… https://t.co/R7z5h6FhLp |
+| RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win a code for  #DeadIsland2 Gold Edition on Xbox One - Xbox Series X|S.… |
+| @majornelson I'd grab a gun and run away against the zombies #XboxFreeCodeFriday |
 
-The most popular user is: **targett_deb**
-<div class="alert alert-block alert-danger"> RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy</div>
+The most popular user is: **Its_Daa_vid**
+<div class="alert alert-block alert-danger"> RT @playaonegaming: As a special #xboxfreecodefriday we decided to do the platform instead . Thank you @Target 
+
+#XboxseriesX Giveaway. 
+(#…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **NUFC** |
-| #2 Most tweeted to  | **targett_daniel** |
-| #3 Most tweeted to  | **KimTurn13719507** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 2.92%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **majornelson** |
+| #2 Most tweeted to  | **PlayStation** |
+| #3 Most tweeted to  | **Xbox** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 18.06%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +42,28 @@ The most popular user is: **targett_deb**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TARGETT**  |
-| second  | **BURN**  |
-| third  | **MATT** |
-| fourth  | **BACK**  |
-| fifth  | **SEASON:**  |
+| first  | **XBOXFREECODEFRIDAY**  |
+| second  | **XBOXFREECODEFRIDAY@MAJORNELSON**  |
+| third  | **XBOX** |
+| fourth  | **GO**  |
+| fifth  | **@MAJORNELSON:**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-27BIO.png)
+## Twitter Bio Analysis![image](assets/2023-04-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2023-04-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|#NUFC line-up to face Spurs: Pope; Trippier, Schar, Botman, Burn; Guimaraes, Longstaff, Willock; Murphy, Joelinton,… https://t.co/wwcABgsUUA |
+|RT @majornelson: #XboxFreeCodeFriday time. Read this and you could win a code for  #DeadIsland2 Gold Edition on Xbox One - Xbox Series X|S.… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **targett_deb**  |
+| The most retweeted user is: **Its_Daa_vid**  |
 | ------------- |
-| RT @NASAEarth: Share if you love Earth. 💚 #EarthDay https://t.co/OptY8Qj3zy |
+| RT @playaonegaming: As a special #xboxfreecodefriday we decided to do the platform instead . Thank you @Target #XboxseriesX Giveaway. (#… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
