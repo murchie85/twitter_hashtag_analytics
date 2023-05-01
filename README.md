@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#FullCircle"**
+&#x1F34E; **TOPIC = "May Day"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-04-30hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-04-30TWEETS.png)
+![image](assets/2023-05-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DCFUnited: [4K] [IMAX] God versus man:  Son of Krypton versus Bat of Gotham! #FullCircle https://t.co/NOOXaeG3Zt |
-| RT @verotruesocial: Reply with your favorite ZSJL moment#AFSP #SnyderVerse #ZackSnydersJusticeLeague #FullCircle |
-| RT @amexia15: #GalGadot Wonder Woman, BvS, best entry ever!!! 🔥🔥❤️❤️ love the scene!#fullcircle#SellSnyderVerseToNetflix |
+| RT @mscurlyCoop: Indian Arrival day is May 30th (Tuesday) go apply for the Monday now. |
+| RT @IOCP_Chiropody: An amazing lineup of speakers at our IoCP Ireland Conference and AGM on 13th May. For more details visit https://t.co/v… |
+| RT @Wonder_of_Light: #CelebratingMoms this May with a free book when you sign up for the Author's newsletter at #Bookfunnel66 free books b… |
 
-The most popular user is: **malaguista_57**
-<div class="alert alert-block alert-danger"> RT @DaisyWo62695811: #writingcommmunity #BookBoost #FullCircle available on #Amazon #paperback #Kindle https://t.co/P4RezXA3TR also on othe…</div>
+The most popular user is: **Afsheen97117845**
+<div class="alert alert-block alert-danger"> RT @ImranKhanPTI: Massive response from Lahore for our May Day rally - &amp; this was at the start. Rally gaining even more momentum now. Let t…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **ZackSnyder** |
-| #2 Most tweeted to  | **SnyderQueen_** |
-| #3 Most tweeted to  | **verotruesocial** |
-| NewProfiles (less than 10 days) | 0.02%  |
-| Tweeters with < 10 followers  | 4.66%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **vxytri** |
+| #2 Most tweeted to  | **BernieSpofforth** |
+| #3 Most tweeted to  | **ImranKhanPTI** |
+| NewProfiles (less than 10 days) | 0.34%  |
+| Tweeters with < 10 followers  | 4.44%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **malaguista_57**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **FULLCIRCLE**  |
-| second  | **ZACK**  |
-| third  | **SNYDER** |
-| fourth  | **@ZACKSNYDER**  |
-| fifth  | **@SNYDERQUEEN_:**  |
+| first  | **MAY**  |
+| second  | **DAY**  |
+| third  | **HAPPY** |
+| fourth  | **WORKERS**  |
+| fifth  | **FIRST**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-04-30BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-04-30sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (60.0%)
+![image](assets/2023-05-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @SymphonyCarmen: @verotruesocial Fly son. It's time.#FullCircle #ZackSnydersJusticeLeague #AFSP #SnyderVerse #RestoreTheSnyderVerse htt… |
+|RT @BernieSpofforth: FRANCE - Paris! Where Firemen lead the May Day protests.Together they stand against one man, in the name of democrac… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **malaguista_57**  |
+| The most retweeted user is: **Afsheen97117845**  |
 | ------------- |
-| RT @DaisyWo62695811: #writingcommmunity #BookBoost #FullCircle available on #Amazon #paperback #Kindle https://t.co/P4RezXA3TR also on othe… |
+| RT @ImranKhanPTI: Massive response from Lahore for our May Day rally - &amp; this was at the start. Rally gaining even more momentum now. Let t… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
