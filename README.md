@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "May Day"**
+&#x1F34E; **TOPIC = "Meech"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-01TWEETS.png)
+![image](assets/2023-05-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mscurlyCoop: Indian Arrival day is May 30th (Tuesday) go apply for the Monday now. |
-| RT @IOCP_Chiropody: An amazing lineup of speakers at our IoCP Ireland Conference and AGM on 13th May. For more details visit https://t.co/v… |
-| RT @Wonder_of_Light: #CelebratingMoms this May with a free book when you sign up for the Author's newsletter at #Bookfunnel66 free books b… |
+| RT @DailyLoud: Celina Powell post a pic in Lil Meech’s BMF chain and drops a sex tape… just one day after Lil Meech and Summer Walker go pu… |
+| Lil Meech rollout is crazy |
+| Okay celina must be gassing cause how nobody on Twitter posted the video of meech |
 
-The most popular user is: **Afsheen97117845**
-<div class="alert alert-block alert-danger"> RT @ImranKhanPTI: Massive response from Lahore for our May Day rally - &amp; this was at the start. Rally gaining even more momentum now. Let t…</div>
+The most popular user is: **meech_huncho**
+<div class="alert alert-block alert-danger"> RT @Cobratate: Not many people know, that I actually did my own documentary on Vice.
+
+Everybody knows about the hitpiece they did on me...…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **vxytri** |
-| #2 Most tweeted to  | **BernieSpofforth** |
-| #3 Most tweeted to  | **ImranKhanPTI** |
-| NewProfiles (less than 10 days) | 0.34%  |
-| Tweeters with < 10 followers  | 4.44%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **DailyLoud** |
+| #2 Most tweeted to  | **anthonymaruwa** |
+| #3 Most tweeted to  | **celinapowellduh** |
+| NewProfiles (less than 10 days) | 0.7%  |
+| Tweeters with < 10 followers  | 6.02%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **Afsheen97117845**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MAY**  |
-| second  | **DAY**  |
-| third  | **HAPPY** |
-| fourth  | **WORKERS**  |
-| fifth  | **FIRST**  |
+| first  | **MEECH**  |
+| second  | **LIL**  |
+| third  | **CELINA** |
+| fourth  | **SUMMER**  |
+| fifth  | **POWELL**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-01BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (60.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-05-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (36.36%) & **NEGATIVELY-SUBJECTIVE** (18.18%) **OBJECTIVE** (45.45%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BernieSpofforth: FRANCE - Paris! Where Firemen lead the May Day protests.Together they stand against one man, in the name of democrac… |
+|RT @anthonymaruwa: Crying at Lil Meech getting head from Celina Powell in a public disabled bathroom with his cheeks out. I know Big Meech… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Afsheen97117845**  |
+| The most retweeted user is: **meech_huncho**  |
 | ------------- |
-| RT @ImranKhanPTI: Massive response from Lahore for our May Day rally - &amp; this was at the start. Rally gaining even more momentum now. Let t… |
+| RT @Cobratate: Not many people know, that I actually did my own documentary on Vice.Everybody knows about the hitpiece they did on me...… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
