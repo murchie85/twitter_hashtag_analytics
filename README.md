@@ -1,38 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Meech"**
+&#x1F34E; **TOPIC = "Haney"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-02TWEETS.png)
+![image](assets/2023-05-03TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DailyLoud: Celina Powell post a pic in Lil Meech’s BMF chain and drops a sex tape… just one day after Lil Meech and Summer Walker go pu… |
-| Lil Meech rollout is crazy |
-| Okay celina must be gassing cause how nobody on Twitter posted the video of meech |
+| RT @The1stWright: Devin Haney going to tap that jaw and he going to FOLD. His chin isn’t condition to take any damage. Y’all need to stop… |
+| @sharifahfahani Haney you pretty, the world is ugly. |
+| Never a doubt Tank would beat Garcia. Haney vs Tank is the real fight we’ve been waiting for. https://t.co/TMhCSp8cmj |
 
-The most popular user is: **meech_huncho**
-<div class="alert alert-block alert-danger"> RT @Cobratate: Not many people know, that I actually did my own documentary on Vice.
+The most popular user is: **haney_gil**
+<div class="alert alert-block alert-danger"> RT @investmattallen: Congresswoman Lois Frankel sold First Republic Bank in March before the stock dropped 80% 
 
-Everybody knows about the hitpiece they did on me...…</div>
+After she sold First Repub…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DailyLoud** |
-| #2 Most tweeted to  | **anthonymaruwa** |
-| #3 Most tweeted to  | **celinapowellduh** |
-| NewProfiles (less than 10 days) | 0.7%  |
-| Tweeters with < 10 followers  | 6.02%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **The1stWright** |
+| #2 Most tweeted to  | **shannonsharpeee** |
+| #3 Most tweeted to  | **warnabilla** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 3.24%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +41,28 @@ Everybody knows about the hitpiece they did on me...…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MEECH**  |
-| second  | **LIL**  |
-| third  | **CELINA** |
-| fourth  | **SUMMER**  |
-| fifth  | **POWELL**  |
+| first  | **HANEY**  |
+| second  | **GOING**  |
+| third  | **DEVIN** |
+| fourth  | **NEED**  |
+| fifth  | **ISN’T**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-02BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-03BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-02sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (36.36%) & **NEGATIVELY-SUBJECTIVE** (18.18%) **OBJECTIVE** (45.45%)
+![image](assets/2023-05-03sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @anthonymaruwa: Crying at Lil Meech getting head from Celina Powell in a public disabled bathroom with his cheeks out. I know Big Meech… |
+|What most people don’t know is it only takes around 600lbs of PSI to KO the average adult male. Haney hitting much… https://t.co/nhSJziyueB |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **meech_huncho**  |
+| The most retweeted user is: **haney_gil**  |
 | ------------- |
-| RT @Cobratate: Not many people know, that I actually did my own documentary on Vice.Everybody knows about the hitpiece they did on me...… |
+| RT @investmattallen: Congresswoman Lois Frankel sold First Republic Bank in March before the stock dropped 80% After she sold First Repub… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
