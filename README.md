@@ -1,37 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Haney"**
+&#x1F34E; **TOPIC = "#ZoholicsAustin23"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-03TWEETS.png)
+![image](assets/2023-05-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @The1stWright: Devin Haney going to tap that jaw and he going to FOLD. His chin isn’t condition to take any damage. Y’all need to stop… |
-| @sharifahfahani Haney you pretty, the world is ugly. |
-| Never a doubt Tank would beat Garcia. Haney vs Tank is the real fight we’ve been waiting for. https://t.co/TMhCSp8cmj |
+| @tcrawford @rajuv It's always about value. Or even better outcomes. #ZoholicsAustin23 |
+| #ZoholicsAustin23 @Zoho’s new offerings for SMB mkt includes Zoho Tables, a no code/low code product to help their… https://t.co/2GMBlcdWZT |
+| RT @sandraklo: Thanks for coming to your first @Zoho event, @EvanKirstel! #ZoholicsAustin23 |
 
-The most popular user is: **haney_gil**
-<div class="alert alert-block alert-danger"> RT @investmattallen: Congresswoman Lois Frankel sold First Republic Bank in March before the stock dropped 80% 
-
-After she sold First Repub…</div>
+The most popular user is: **ColderICE**
+<div class="alert alert-block alert-danger"> RT @EvanKirstel: 😝 How many analysts can you fit in a room!? #CaptionThis  #ZoholicsAustin23 @zoho https://t.co/ZpPsuC5Ywr</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **The1stWright** |
-| #2 Most tweeted to  | **shannonsharpeee** |
-| #3 Most tweeted to  | **warnabilla** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 3.24%|
+| #1 Most tweeted to  | **Zoho** |
+| #2 Most tweeted to  | **sandraklo** |
+| #3 Most tweeted to  | **EvanKirstel** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 1.1%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -41,28 +39,28 @@ After she sold First Repub…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HANEY**  |
-| second  | **GOING**  |
-| third  | **DEVIN** |
-| fourth  | **NEED**  |
-| fifth  | **ISN’T**  |
+| first  | **ZOHOLICSAUSTIN23**  |
+| second  | **@ZOHO**  |
+| third  | **ZOHO** |
+| fourth  | **ULAA**  |
+| fifth  | **@EVANKIRSTEL:**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (20.0%) **OBJECTIVE** (66.67%)
+![image](assets/2023-05-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|What most people don’t know is it only takes around 600lbs of PSI to KO the average adult male. Haney hitting much… https://t.co/nhSJziyueB |
+|RT @EvanKirstel: Hilarious! #ZoholicsAustin23 #ChatGPT #Marketing |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **haney_gil**  |
+| The most retweeted user is: **ColderICE**  |
 | ------------- |
-| RT @investmattallen: Congresswoman Lois Frankel sold First Republic Bank in March before the stock dropped 80% After she sold First Repub… |
+| RT @EvanKirstel: 😝 How many analysts can you fit in a room!? #CaptionThis  #ZoholicsAustin23 @zoho https://t.co/ZpPsuC5Ywr |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
