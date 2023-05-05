@@ -1,35 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#ZoholicsAustin23"**
+&#x1F34E; **TOPIC = "#pepecoin"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-04TWEETS.png)
+![image](assets/2023-05-05TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @tcrawford @rajuv It's always about value. Or even better outcomes. #ZoholicsAustin23 |
-| #ZoholicsAustin23 @Zoho’s new offerings for SMB mkt includes Zoho Tables, a no code/low code product to help their… https://t.co/2GMBlcdWZT |
-| RT @sandraklo: Thanks for coming to your first @Zoho event, @EvanKirstel! #ZoholicsAustin23 |
+| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
+| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
+| RT @pjskendric: I think Pepe messed up and made their new website available, u can already claim their airdrop!Check if you are eligible… |
 
-The most popular user is: **ColderICE**
-<div class="alert alert-block alert-danger"> RT @EvanKirstel: 😝 How many analysts can you fit in a room!? #CaptionThis  #ZoholicsAustin23 @zoho https://t.co/ZpPsuC5Ywr</div>
+The most popular user is: **ricxcell**
+<div class="alert alert-block alert-danger"> RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸
+
+Check if you're eligible &amp; claim $PEPE on our official website:
+🔗https://t.co/oms42yPrM4…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Zoho** |
-| #2 Most tweeted to  | **sandraklo** |
-| #3 Most tweeted to  | **EvanKirstel** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 1.1%|
+| #1 Most tweeted to  | **pepe_coin_vip** |
+| #2 Most tweeted to  | **pjskendric** |
+| #3 Most tweeted to  | **hanwe_eth** |
+| NewProfiles (less than 10 days) | 0.36%  |
+| Tweeters with < 10 followers  | 48.83%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +42,28 @@ The most popular user is: **ColderICE**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ZOHOLICSAUSTIN23**  |
-| second  | **@ZOHO**  |
-| third  | **ZOHO** |
-| fourth  | **ULAA**  |
-| fifth  | **@EVANKIRSTEL:**  |
+| first  | **$PEPE**  |
+| second  | **CHECK**  |
+| third  | **CLAIM** |
+| fourth  | **"YOURE"**  |
+| fifth  | **AIRDROP**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-04BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-05BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-04sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2023-05-05sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @EvanKirstel: Hilarious! #ZoholicsAustin23 #ChatGPT #Marketing |
+|RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ColderICE**  |
+| The most retweeted user is: **ricxcell**  |
 | ------------- |
-| RT @EvanKirstel: 😝 How many analysts can you fit in a room!? #CaptionThis  #ZoholicsAustin23 @zoho https://t.co/ZpPsuC5Ywr |
+| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
