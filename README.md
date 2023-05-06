@@ -1,39 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#pepecoin"**
+&#x1F34E; **TOPIC = "Charles"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-05TWEETS.png)
+![image](assets/2023-05-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
-| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
-| RT @pjskendric: I think Pepe messed up and made their new website available, u can already claim their airdrop!Check if you are eligible… |
+| RT @EmbSpainUK: 🇬🇧🇪🇸King Felipe and Queen Letizia leaving the Embassy to the #Coronation  of King Charles and Queen Consort Camila  https… |
+| Canada announces plans to place King Charles on $20 bill, coins https://t.co/A1oVxJm4lh https://t.co/ENDn5RjVqg |
+| RT @fofenthusiast: WHO CARES ABOUT KING CHARLES THE REAL KING CONAN GRAY IS COMING https://t.co/QNjr6ePsEP |
 
-The most popular user is: **ricxcell**
-<div class="alert alert-block alert-danger"> RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸
-
-Check if you're eligible &amp; claim $PEPE on our official website:
-🔗https://t.co/oms42yPrM4…</div>
+The most popular user is: **abu_xales**
+<div class="alert alert-block alert-danger"> RT @Lowkey0nline: "I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see..…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **pepe_coin_vip** |
-| #2 Most tweeted to  | **pjskendric** |
-| #3 Most tweeted to  | **hanwe_eth** |
-| NewProfiles (less than 10 days) | 0.36%  |
-| Tweeters with < 10 followers  | 48.83%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **RoyalFamily** |
+| #2 Most tweeted to  | **Spriter99880** |
+| #3 Most tweeted to  | **nytimes** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 4.52%|
+| Tweeters with > 1000000 followers  | 0.44%  |
 
 
 
@@ -42,28 +39,28 @@ Check if you're eligible &amp; claim $PEPE on our official website:
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **$PEPE**  |
-| second  | **CHECK**  |
-| third  | **CLAIM** |
-| fourth  | **"YOURE"**  |
-| fifth  | **AIRDROP**  |
+| first  | **CHARLES**  |
+| second  | **KING**  |
+| third  | **CORONATION** |
+| fourth  | **III**  |
+| fifth  | **QUEEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-05BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
+![image](assets/2023-05-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
+|RT @nytimes: "Not my king!"Anti-monarchy protesters chanted and booed as King Charles III's procession passed Trafalgar Square in London… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ricxcell**  |
+| The most retweeted user is: **abu_xales**  |
 | ------------- |
-| RT @pepe_coin_vip: The $pepe Airdrop is live! 🐸Check if you're eligible &amp; claim $PEPE on our official website:🔗https://t.co/oms42yPrM4… |
+| RT @Lowkey0nline: "I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see..… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
