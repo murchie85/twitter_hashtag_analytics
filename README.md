@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Charles"**
+&#x1F34E; **TOPIC = "#GunReformNOW"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-06TWEETS.png)
+![image](assets/2023-05-07TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @EmbSpainUK: 🇬🇧🇪🇸King Felipe and Queen Letizia leaving the Embassy to the #Coronation  of King Charles and Queen Consort Camila  https… |
-| Canada announces plans to place King Charles on $20 bill, coins https://t.co/A1oVxJm4lh https://t.co/ENDn5RjVqg |
-| RT @fofenthusiast: WHO CARES ABOUT KING CHARLES THE REAL KING CONAN GRAY IS COMING https://t.co/QNjr6ePsEP |
+| RT @DerrickNAACP: Since the tragic shooting @ Robb Elementary last year, there have been 7 mass shootings throughout the state of Texas.… |
+| @1stApnMtnRegt You are upset, but there is nothing you can do about it.🇺🇦#UkraineWillWin🇺🇦🇺🇸#GunReformNow🇺🇸… https://t.co/F6QMhJ2UOT |
+| Texas mass murders on Gov Greg Abbott's watch #GunReformNOW https://t.co/zO3TUhcI5o |
 
-The most popular user is: **abu_xales**
-<div class="alert alert-block alert-danger"> RT @Lowkey0nline: "I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see..…</div>
+The most popular user is: **TeamJakeAbbey**
+<div class="alert alert-block alert-danger"> RT @grantstern: Fox just accidentally broadcast this IMPASSIONED plea from a mass shooting victim asking why we can’t have #GunReformNow.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **RoyalFamily** |
-| #2 Most tweeted to  | **Spriter99880** |
-| #3 Most tweeted to  | **nytimes** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 4.52%|
-| Tweeters with > 1000000 followers  | 0.44%  |
+| #1 Most tweeted to  | **lance_cotten** |
+| #2 Most tweeted to  | **kangaroos991** |
+| #3 Most tweeted to  | **RogueCitizenOne** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 2.02%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **abu_xales**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CHARLES**  |
-| second  | **KING**  |
-| third  | **CORONATION** |
-| fourth  | **III**  |
-| fifth  | **QUEEN**  |
+| first  | **GUNREFORMNOW**  |
+| second  | **MASS**  |
+| third  | **GUN** |
+| fourth  | **SHOOTING**  |
+| fifth  | **SUNDAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-07BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (66.67%)
+![image](assets/2023-05-07sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @nytimes: "Not my king!"Anti-monarchy protesters chanted and booed as King Charles III's procession passed Trafalgar Square in London… |
+|RT @allanjohnsonmn1: Waking up to another mass shooting makes me sick!  How can this be ok with so many people in the United States? ☹️😠😕… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **abu_xales**  |
+| The most retweeted user is: **TeamJakeAbbey**  |
 | ------------- |
-| RT @Lowkey0nline: "I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see..… |
+| RT @grantstern: Fox just accidentally broadcast this IMPASSIONED plea from a mass shooting victim asking why we can’t have #GunReformNow.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
