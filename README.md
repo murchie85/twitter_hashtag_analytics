@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#GunReformNOW"**
+&#x1F34E; **TOPIC = "#AmericanDrag"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-07hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-07TWEETS.png)
+![image](assets/2023-05-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @DerrickNAACP: Since the tragic shooting @ Robb Elementary last year, there have been 7 mass shootings throughout the state of Texas.… |
-| @1stApnMtnRegt You are upset, but there is nothing you can do about it.🇺🇦#UkraineWillWin🇺🇦🇺🇸#GunReformNow🇺🇸… https://t.co/F6QMhJ2UOT |
-| Texas mass murders on Gov Greg Abbott's watch #GunReformNOW https://t.co/zO3TUhcI5o |
+| RT @EstLuma: Stan Roger Smith #AmericanDraghttps://t.co/z4Bqx6hLoh |
+| This is amazing! #americandrag https://t.co/S6T8yHVwWB |
+| RT @AmericanDadTBS: To mark the 350th episode of American Dad, Roger is finally being honored as a drag icon! Help us celebrate drag hersto… |
 
-The most popular user is: **TeamJakeAbbey**
-<div class="alert alert-block alert-danger"> RT @grantstern: Fox just accidentally broadcast this IMPASSIONED plea from a mass shooting victim asking why we can’t have #GunReformNow.…</div>
+The most popular user is: **LeonardoJoshu17**
+<div class="alert alert-block alert-danger"> RT @AmericanDadTBS: To mark the 350th episode of American Dad, Roger is finally being honored as a drag icon! Help us celebrate drag hersto…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **lance_cotten** |
-| #2 Most tweeted to  | **kangaroos991** |
-| #3 Most tweeted to  | **RogueCitizenOne** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 2.02%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AmericanDadTBS** |
+| #2 Most tweeted to  | **TrevorProject** |
+| #3 Most tweeted to  | **jaidynnfierce** |
+| NewProfiles (less than 10 days) | 0.25%  |
+| Tweeters with < 10 followers  | 3.29%|
+| Tweeters with > 1000000 followers  | 0.25%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **TeamJakeAbbey**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GUNREFORMNOW**  |
-| second  | **MASS**  |
-| third  | **GUN** |
-| fourth  | **SHOOTING**  |
-| fifth  | **SUNDAY**  |
+| first  | **DRAG**  |
+| second  | **ROGER**  |
+| third  | **AMERICAN** |
+| fourth  | **DAD**  |
+| fifth  | **HELP**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-07BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-07sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (66.67%)
+![image](assets/2023-05-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (53.33%) **OBJECTIVE** (26.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @allanjohnsonmn1: Waking up to another mass shooting makes me sick!  How can this be ok with so many people in the United States? ☹️😠😕… |
+|RT @AmericanDadTBS: To mark the 350th episode of American Dad, Roger is finally being honored as a drag icon! Help us celebrate drag hersto… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **TeamJakeAbbey**  |
+| The most retweeted user is: **LeonardoJoshu17**  |
 | ------------- |
-| RT @grantstern: Fox just accidentally broadcast this IMPASSIONED plea from a mass shooting victim asking why we can’t have #GunReformNow.… |
+| RT @AmericanDadTBS: To mark the 350th episode of American Dad, Roger is finally being honored as a drag icon! Help us celebrate drag hersto… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
