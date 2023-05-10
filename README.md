@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "No AD"**
+&#x1F34E; **TOPIC = "#RenaissanceWorldTour"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-09TWEETS.png)
+![image](assets/2023-05-10TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| no giannis no AD 😃 https://t.co/BVvxeQVVRD |
-| WHATTTT??? WHAT JIMIN WHAT???? NO FVVKING WAYYY???? OMGGGH JIMINNNNN https://t.co/mYSZhNP3lB |
-| RT @NasserMohammedI: #AcceptWhomAllaahHasChosenSignificant Statement for all the Nations of the Dominion of the World..Statement No. 58I… |
+| RT @beyoncegarden: DO Y’ALL HEAR HER??? BEYONCÉ THE VOCAL LEGEND YOU ARE😭😭😭😭😭 #RenaissanceWorldTour https://t.co/oCXzfmYvQ1 |
+| The live keep pausing … #RenaissanceWorldTour https://t.co/SWgaThZF9v |
+| RT @Glock_Topickz: The #RenaissanceWorldTour has officially kicked off in Stockholm, Sweden https://t.co/OpaP76yStD |
 
-The most popular user is: **ba_xus**
-<div class="alert alert-block alert-danger"> RT @BamBam1A: Your nudes are safe with me.
-I’m wearing YSL The Slim Velvet Radical No. 317 💄  
-#นู้ดนี้ใครก็carryได้ @yslbeauty #yslbeautyt…</div>
+The most popular user is: **4lifeManibear**
+<div class="alert alert-block alert-danger"> RT @__Onixivy_: this is BLACK EXCELLENCE #RenaissanceWorldTour https://t.co/AnXVYaXN6b</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **fanplus_app** |
-| #2 Most tweeted to  | **bballbreakdown** |
-| #3 Most tweeted to  | **haefliower** |
-| NewProfiles (less than 10 days) | 0.72%  |
-| Tweeters with < 10 followers  | 6.18%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **BeyLegion** |
+| #2 Most tweeted to  | **beyhivecombr** |
+| #3 Most tweeted to  | **beyonceaccess** |
+| NewProfiles (less than 10 days) | 0.06%  |
+| Tweeters with < 10 followers  | 2.8%|
+| Tweeters with > 1000000 followers  | 0.04%  |
 
 
 
@@ -41,28 +39,28 @@ I’m wearing YSL The Slim Velvet Radical No. 317 💄
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AD**  |
-| second  | **@FANPLUS_APP**  |
-| third  | **LEBRON** |
-| fourth  | **WHERE**  |
-| fifth  | **WARRIORS**  |
+| first  | **RENAISSANCEWORLDTOUR**  |
+| second  | **BEYONCÉ**  |
+| third  | **\U0001faa9** |
+| fourth  | **RWT2023**  |
+| fifth  | **@BEYLEGION:**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-09BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-10BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-09sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2023-05-10sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @BooNon_98: No way!!!I got "F*ck My Life" MV ads!!!It's no no skip ad.So carats, did you get this mv ads? https://t.co/RU9GpPkGxO |
+|RT @hiveisforyonce: #RENAISSANCEWorldTour SHE IS HEREEEEE https://t.co/DlviqWwCw0 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ba_xus**  |
+| The most retweeted user is: **4lifeManibear**  |
 | ------------- |
-| RT @BamBam1A: Your nudes are safe with me.I’m wearing YSL The Slim Velvet Radical No. 317 💄  #นู้ดนี้ใครก็carryได้ @yslbeauty #yslbeautyt… |
+| RT @__Onixivy_: this is BLACK EXCELLENCE #RenaissanceWorldTour https://t.co/AnXVYaXN6b |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
