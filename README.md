@@ -1,35 +1,35 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#RenaissanceWorldTour"**
+&#x1F34E; **TOPIC = "#UnderdogFantasy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-10TWEETS.png)
+![image](assets/2023-05-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @beyoncegarden: DO Y’ALL HEAR HER??? BEYONCÉ THE VOCAL LEGEND YOU ARE😭😭😭😭😭 #RenaissanceWorldTour https://t.co/oCXzfmYvQ1 |
-| The live keep pausing … #RenaissanceWorldTour https://t.co/SWgaThZF9v |
-| RT @Glock_Topickz: The #RenaissanceWorldTour has officially kicked off in Stockholm, Sweden https://t.co/OpaP76yStD |
+| Luckily the MVP is one of the biggest floppers in the nba! Let’s go Embiid! Username is DEREKANTHONY… https://t.co/ihSH8BIk4i |
+| Underdog free square cash ✅✅#prizepicks #prizepicksnba #nba #playerprops #underdogfantasy https://t.co/nCwX1PsWXz |
+| TGIF with #filth @ https://t.co/Skyt5gND43 What should i play tonight? officially sponsored by #elonamobile… https://t.co/RgAiSLddvn |
 
-The most popular user is: **4lifeManibear**
-<div class="alert alert-block alert-danger"> RT @__Onixivy_: this is BLACK EXCELLENCE #RenaissanceWorldTour https://t.co/AnXVYaXN6b</div>
+The most popular user is: **ELISSAELKINS6**
+<div class="alert alert-block alert-danger"> RT @UnderdogFantasy: Every time Joel Embiid falls on the floor tonight, we will give away $1,000 to a random entrant who quote tweets this…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BeyLegion** |
-| #2 Most tweeted to  | **beyhivecombr** |
-| #3 Most tweeted to  | **beyonceaccess** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 2.8%|
+| #1 Most tweeted to  | **UnderdogFantasy** |
+| #2 Most tweeted to  | **PrizePicksValue** |
+| #3 Most tweeted to  | **propsdotcash** |
+| NewProfiles (less than 10 days) | 0.6%  |
+| Tweeters with < 10 followers  | 12.43%|
 | Tweeters with > 1000000 followers  | 0.04%  |
 
 
@@ -39,28 +39,28 @@ The most popular user is: **4lifeManibear**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RENAISSANCEWORLDTOUR**  |
-| second  | **BEYONCÉ**  |
-| third  | **\U0001faa9** |
-| fourth  | **RWT2023**  |
-| fifth  | **@BEYLEGION:**  |
+| first  | **UNDERDOGFANTASY**  |
+| second  | **PRIZEPICKS**  |
+| third  | **GAMBLINGTWITTER** |
+| fourth  | **JOIN**  |
+| fifth  | **NBA**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-10BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (60.0%)
+![image](assets/2023-05-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @hiveisforyonce: #RENAISSANCEWorldTour SHE IS HEREEEEE https://t.co/DlviqWwCw0 |
+|2 Picks #UnderDogFantasy #PrizePicks https://t.co/SZsTRcsQ2s |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **4lifeManibear**  |
+| The most retweeted user is: **ELISSAELKINS6**  |
 | ------------- |
-| RT @__Onixivy_: this is BLACK EXCELLENCE #RenaissanceWorldTour https://t.co/AnXVYaXN6b |
+| RT @UnderdogFantasy: Every time Joel Embiid falls on the floor tonight, we will give away $1,000 to a random entrant who quote tweets this… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
