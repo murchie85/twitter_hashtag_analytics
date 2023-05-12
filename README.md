@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#UnderdogFantasy"**
+&#x1F34E; **TOPIC = "Breath of the Wild"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-11TWEETS.png)
+![image](assets/2023-05-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| Luckily the MVP is one of the biggest floppers in the nba! Let’s go Embiid! Username is DEREKANTHONY… https://t.co/ihSH8BIk4i |
-| Underdog free square cash ✅✅#prizepicks #prizepicksnba #nba #playerprops #underdogfantasy https://t.co/nCwX1PsWXz |
-| TGIF with #filth @ https://t.co/Skyt5gND43 What should i play tonight? officially sponsored by #elonamobile… https://t.co/RgAiSLddvn |
+| RT @HEYimHeroic: Just like in Breath of the Wild, the human NPCs in The Legend of Zelda: Tears of the Kingdom use an advanced version of Mi… |
+| RT @evergreenqveen: Breath of the Wild Polly Pocket ✨ https://t.co/hFOwHN24kP |
+| @HagenDerek Breath of the wild have a price increase in the last couple of years.a SALE for tears? I'm interested to see that now! |
 
-The most popular user is: **ELISSAELKINS6**
-<div class="alert alert-block alert-danger"> RT @UnderdogFantasy: Every time Joel Embiid falls on the floor tonight, we will give away $1,000 to a random entrant who quote tweets this…</div>
+The most popular user is: **joelper20131274**
+<div class="alert alert-block alert-danger"> RT @EtikaMemories: The last reaction Etika had was the reveal for the sequel to Zelda Breath of the Wild.
+
+The Legend of Zelda Tears of the…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **UnderdogFantasy** |
-| #2 Most tweeted to  | **PrizePicksValue** |
-| #3 Most tweeted to  | **propsdotcash** |
-| NewProfiles (less than 10 days) | 0.6%  |
-| Tweeters with < 10 followers  | 12.43%|
-| Tweeters with > 1000000 followers  | 0.04%  |
+| #1 Most tweeted to  | **evergreenqveen** |
+| #2 Most tweeted to  | **pixeljess** |
+| #3 Most tweeted to  | **HEYimHeroic** |
+| NewProfiles (less than 10 days) | 0.3%  |
+| Tweeters with < 10 followers  | 5.0%|
+| Tweeters with > 1000000 followers  | 0.18%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **ELISSAELKINS6**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UNDERDOGFANTASY**  |
-| second  | **PRIZEPICKS**  |
-| third  | **GAMBLINGTWITTER** |
-| fourth  | **JOIN**  |
-| fifth  | **NBA**  |
+| first  | **BREATH**  |
+| second  | **WILD**  |
+| third  | **TEARS** |
+| fourth  | **KINGDOM**  |
+| fifth  | **ZELDA**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-11BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-11sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (13.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (80.0%)
+![image](assets/2023-05-12sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|2 Picks #UnderDogFantasy #PrizePicks https://t.co/SZsTRcsQ2s |
+|RT @pixeljess: Satori Mountain - Zelda Breath of the Wild https://t.co/Y2GvGZ254k |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **ELISSAELKINS6**  |
+| The most retweeted user is: **joelper20131274**  |
 | ------------- |
-| RT @UnderdogFantasy: Every time Joel Embiid falls on the floor tonight, we will give away $1,000 to a random entrant who quote tweets this… |
+| RT @EtikaMemories: The last reaction Etika had was the reveal for the sequel to Zelda Breath of the Wild.The Legend of Zelda Tears of the… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
