@@ -1,38 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Breath of the Wild"**
+&#x1F34E; **TOPIC = "Spurs"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-12TWEETS.png)
+![image](assets/2023-05-13TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @HEYimHeroic: Just like in Breath of the Wild, the human NPCs in The Legend of Zelda: Tears of the Kingdom use an advanced version of Mi… |
-| RT @evergreenqveen: Breath of the Wild Polly Pocket ✨ https://t.co/hFOwHN24kP |
-| @HagenDerek Breath of the wild have a price increase in the last couple of years.a SALE for tears? I'm interested to see that now! |
+| RT @BronToAD: @LakersDailyCom Pistons in 2007Celtics in 2012Spurs in 2013Warriors in 2023Call him the dynasty killer |
+| RT @OP4C: Bet Emi Martinez can’t wait for his cut price move to spurs now |
+| RT @JoshCheetham91: Guess Spurs' next away game. Go on, guess |
 
-The most popular user is: **joelper20131274**
-<div class="alert alert-block alert-danger"> RT @EtikaMemories: The last reaction Etika had was the reveal for the sequel to Zelda Breath of the Wild.
-
-The Legend of Zelda Tears of the…</div>
+The most popular user is: **USMerWhoLockian**
+<div class="alert alert-block alert-danger"> RT @FabrizioRomano: It's over between Tottenham and Julian Nagelsmann. No way to continue negotiations as club won't change current stance;…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **evergreenqveen** |
-| #2 Most tweeted to  | **pixeljess** |
-| #3 Most tweeted to  | **HEYimHeroic** |
-| NewProfiles (less than 10 days) | 0.3%  |
-| Tweeters with < 10 followers  | 5.0%|
-| Tweeters with > 1000000 followers  | 0.18%  |
+| #1 Most tweeted to  | **brfootball** |
+| #2 Most tweeted to  | **UTDTrey** |
+| #3 Most tweeted to  | **433** |
+| NewProfiles (less than 10 days) | 0.22%  |
+| Tweeters with < 10 followers  | 4.0%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -41,28 +39,28 @@ The Legend of Zelda Tears of the…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **BREATH**  |
-| second  | **WILD**  |
-| third  | **TEARS** |
-| fourth  | **KINGDOM**  |
-| fifth  | **ZELDA**  |
+| first  | **SPURS**  |
+| second  | **LEAGUE**  |
+| third  | **FOOTBALL** |
+| fourth  | **CHAMPIONS**  |
+| fifth  | **NEXT**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-12BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-13BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-12sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (93.33%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (0.0%)
+![image](assets/2023-05-13sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @pixeljess: Satori Mountain - Zelda Breath of the Wild https://t.co/Y2GvGZ254k |
+|RT @Orbinho: Today's results confirm that Spurs won't be in the Champions League next season. |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **joelper20131274**  |
+| The most retweeted user is: **USMerWhoLockian**  |
 | ------------- |
-| RT @EtikaMemories: The last reaction Etika had was the reveal for the sequel to Zelda Breath of the Wild.The Legend of Zelda Tears of the… |
+| RT @FabrizioRomano: It's over between Tottenham and Julian Nagelsmann. No way to continue negotiations as club won't change current stance;… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
