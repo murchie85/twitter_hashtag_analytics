@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Spurs"**
+&#x1F34E; **TOPIC = "Moms"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-13hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-14hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-13TWEETS.png)
+![image](assets/2023-05-14TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @BronToAD: @LakersDailyCom Pistons in 2007Celtics in 2012Spurs in 2013Warriors in 2023Call him the dynasty killer |
-| RT @OP4C: Bet Emi Martinez can’t wait for his cut price move to spurs now |
-| RT @JoshCheetham91: Guess Spurs' next away game. Go on, guess |
+| RT @jojo_games: It's #MothersDay! Let's give a round of applause to all the moms out there and one of our favorite JoJo moms, Lisa Lisa!… |
+| RT @Ikennect: To all the military moms out there🥰 https://t.co/Ooe1fKkfnd |
+| Some women aren't just #heroes, they're #superheroes.#HappyMothersDay to all the moms out there. Especially those… https://t.co/nude3r4Fhj |
 
-The most popular user is: **USMerWhoLockian**
-<div class="alert alert-block alert-danger"> RT @FabrizioRomano: It's over between Tottenham and Julian Nagelsmann. No way to continue negotiations as club won't change current stance;…</div>
+The most popular user is: **scross1141**
+<div class="alert alert-block alert-danger"> RT @BarackObama: Happy Mother’s Day! I hope you take a moment to appreciate all the moms and mother-figures in your life – and be there for…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **brfootball** |
-| #2 Most tweeted to  | **UTDTrey** |
-| #3 Most tweeted to  | **433** |
-| NewProfiles (less than 10 days) | 0.22%  |
-| Tweeters with < 10 followers  | 4.0%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **BarackObama** |
+| #2 Most tweeted to  | **NBAHistory** |
+| #3 Most tweeted to  | **Yankees** |
+| NewProfiles (less than 10 days) | 0.28%  |
+| Tweeters with < 10 followers  | 4.42%|
+| Tweeters with > 1000000 followers  | 0.16%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **USMerWhoLockian**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SPURS**  |
-| second  | **LEAGUE**  |
-| third  | **FOOTBALL** |
-| fourth  | **CHAMPIONS**  |
-| fifth  | **NEXT**  |
+| first  | **MOMS**  |
+| second  | **DAY**  |
+| third  | **HAPPY** |
+| fourth  | **MOTHER’S**  |
+| fifth  | **"MOTHERS"**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-13BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-14BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-13sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
+![image](assets/2023-05-14sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @Orbinho: Today's results confirm that Spurs won't be in the Champions League next season. |
+|@hyphy_republic Excuse you it’s for THE MOMS on MOMS DAY everyone knows they love loud noises early in the morning |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **USMerWhoLockian**  |
+| The most retweeted user is: **scross1141**  |
 | ------------- |
-| RT @FabrizioRomano: It's over between Tottenham and Julian Nagelsmann. No way to continue negotiations as club won't change current stance;… |
+| RT @BarackObama: Happy Mother’s Day! I hope you take a moment to appreciate all the moms and mother-figures in your life – and be there for… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
