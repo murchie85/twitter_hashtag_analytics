@@ -1,38 +1,43 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "got7"**
+&#x1F34E; **TOPIC = "#jewpepe"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-15hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-15TWEETS.png)
+![image](assets/2023-05-16TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @Alondra_kpop7 I find this so funny when Jungkook also has the truth tattoo and the same Bull with the XCVII undern… https://t.co/mzevwiVJ0A |
-| RT @the_popbase: #BTS "7" themed Friendship tattoo, now becomes  #GOT7's inspiration? Got7 members shows off their "7" matching tattoo! h… |
-| RT @with_CYJ333: [📸] 230515 Coco Instagram Post“Guyws, cwome to my bwackpack 🎒🐝”🔗 https://t.co/rZsKWS1tVk#Youngjae #Coco #GOT7 #영재 #쿄… |
+| RT @TheVladsven: All hail clown dictators and wenches of Newsmax #jewpepe https://t.co/XsHz31hMxU |
+| #jewpepe in Bowser basically made Ganon aka Ganondorf  * thats  basically what this reboot of #SuperMarioMovie… https://t.co/xaEGBnnqO8 |
+| RT @TheVladsven: NEWS:  Clown dictators of Newsmax have lunch and discuss Ukraine #jewpepe #protect340B #ukrainecounteroffensive https://t.… |
 
-The most popular user is: **GOT7_DefSon**
-<div class="alert alert-block alert-danger"> RT @BamBam1A: @JAYBDEF___ 
-you big~ i know
-but where is the CUT!!!!!!!!???</div>
+The most popular user is: **Kriptoozzyy**
+<div class="alert alert-block alert-danger"> RT @listingntm: New Listing! 🔥
+Jewpepe | #Jewpepe
+
+💎 #Today's Trend Now  | @JewPepeBsc
+
+https://t.co/s5nC09X865
+
+#BNB #BSC #PEPE #ETH</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **marktuan** |
-| #2 Most tweeted to  | **BamBam1A** |
-| #3 Most tweeted to  | **GOT7** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 8.38%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **TheVladsven** |
+| #2 Most tweeted to  | **JewPepeBsc** |
+| #3 Most tweeted to  | **MsHannahMurphy** |
+| NewProfiles (less than 10 days) | 0.0%  |
+| Tweeters with < 10 followers  | 19.32%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -41,28 +46,28 @@ but where is the CUT!!!!!!!!???</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **GOT7**  |
-| second  | **@MARKTUAN**  |
-| third  | **230516** |
-| fourth  | **IG**  |
-| fifth  | **MARKTUAN**  |
+| first  | **JEWPEPE**  |
+| second  | **NEWSMAX**  |
+| third  | **CLOWN** |
+| fourth  | **DICTATOR**  |
+| fifth  | **PROTECT340B**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-15BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-16BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-15sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (26.67%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (46.67%)
+![image](assets/2023-05-16sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|armys are literally crazy… the amount of seven references got7 have got through all their careers .. 7 or never 7 o… https://t.co/ClbSXERcns |
+|Thick-It Original Food &amp; Beverage Thickener, 36 oz Canister - PACK OF 2Buying link  https://t.co/gUdFr1fzuS via… https://t.co/pn7nSaPUN7 |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **GOT7_DefSon**  |
+| The most retweeted user is: **Kriptoozzyy**  |
 | ------------- |
-| RT @BamBam1A: @JAYBDEF___ you big~ i knowbut where is the CUT!!!!!!!!??? |
+| RT @listingntm: New Listing! 🔥Jewpepe | #Jewpepe💎 #Today's Trend Now  | @JewPepeBschttps://t.co/s5nC09X865#BNB #BSC #PEPE #ETH |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
