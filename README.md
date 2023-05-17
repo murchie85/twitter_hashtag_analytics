@@ -1,43 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#jewpepe"**
+&#x1F34E; **TOPIC = "#AEWCollision"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-16hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-16TWEETS.png)
+![image](assets/2023-05-17TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @TheVladsven: All hail clown dictators and wenches of Newsmax #jewpepe https://t.co/XsHz31hMxU |
-| #jewpepe in Bowser basically made Ganon aka Ganondorf  * thats  basically what this reboot of #SuperMarioMovie… https://t.co/xaEGBnnqO8 |
-| RT @TheVladsven: NEWS:  Clown dictators of Newsmax have lunch and discuss Ukraine #jewpepe #protect340B #ukrainecounteroffensive https://t.… |
+| DO YOU NEED YouTube VIDEO PROMOTION?  https://t.co/uPHfRDGzcY #promo #promoter #SEO #Youtubeseo #Promotion… https://t.co/BM1l6nHoUZ |
+| RT @IRISHWRESTLING8: Inspired by @AndrewZarian #AEWCollision #wcwnitro https://t.co/Pmkt4KJKqV |
+| RT @tntdrama: The weekend just got better. 2-hours of live @AEW wrestling is coming to Saturday nights! #AEWCollision premieres June 17th… |
 
-The most popular user is: **Kriptoozzyy**
-<div class="alert alert-block alert-danger"> RT @listingntm: New Listing! 🔥
-Jewpepe | #Jewpepe
-
-💎 #Today's Trend Now  | @JewPepeBsc
-
-https://t.co/s5nC09X865
-
-#BNB #BSC #PEPE #ETH</div>
+The most popular user is: **walkerspo3**
+<div class="alert alert-block alert-danger"> RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **TheVladsven** |
-| #2 Most tweeted to  | **JewPepeBsc** |
-| #3 Most tweeted to  | **MsHannahMurphy** |
-| NewProfiles (less than 10 days) | 0.0%  |
-| Tweeters with < 10 followers  | 19.32%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **AEW** |
+| #2 Most tweeted to  | **tntdrama** |
+| #3 Most tweeted to  | **TonyKhan** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 4.04%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -46,28 +39,28 @@ https://t.co/s5nC09X865
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JEWPEPE**  |
-| second  | **NEWSMAX**  |
-| third  | **CLOWN** |
-| fourth  | **DICTATOR**  |
-| fifth  | **PROTECT340B**  |
+| first  | **AEWCOLLISION**  |
+| second  | **WRESTLING**  |
+| third  | **NIGHT** |
+| fourth  | **TNT**  |
+| fifth  | **BROS**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-16BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-17BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-16sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2023-05-17sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Thick-It Original Food &amp; Beverage Thickener, 36 oz Canister - PACK OF 2Buying link  https://t.co/gUdFr1fzuS via… https://t.co/pn7nSaPUN7 |
+|RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Kriptoozzyy**  |
+| The most retweeted user is: **walkerspo3**  |
 | ------------- |
-| RT @listingntm: New Listing! 🔥Jewpepe | #Jewpepe💎 #Today's Trend Now  | @JewPepeBschttps://t.co/s5nC09X865#BNB #BSC #PEPE #ETH |
+| RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
