@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#AEWCollision"**
+&#x1F34E; **TOPIC = "Jimmy Butler"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-17hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-17TWEETS.png)
+![image](assets/2023-05-18TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| DO YOU NEED YouTube VIDEO PROMOTION?  https://t.co/uPHfRDGzcY #promo #promoter #SEO #Youtubeseo #Promotion… https://t.co/BM1l6nHoUZ |
-| RT @IRISHWRESTLING8: Inspired by @AndrewZarian #AEWCollision #wcwnitro https://t.co/Pmkt4KJKqV |
-| RT @tntdrama: The weekend just got better. 2-hours of live @AEW wrestling is coming to Saturday nights! #AEWCollision premieres June 17th… |
+| RT @NBA: "That's what anybody wants out of life...to be wanted, be appreciated..."Jimmy Butler thanks his teammates, coaches, and the @Mi… |
+| RT @SportsCenter: Jimmy Butler's mentality 📈 https://t.co/k7NKqKWV21 |
+| RT @StoolGreenie: Jimmy Butler vs Celtics defenders:vs Jayson Tatum: 22 possessions / 0 points / 0-2vs Al Horford: 18 possessions / 5 p… |
 
-The most popular user is: **walkerspo3**
-<div class="alert alert-block alert-danger"> RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli…</div>
+The most popular user is: **Martin2302**
+<div class="alert alert-block alert-danger"> RT @Brendan_Tobin: What sets you apart from the typical 8-seed
+Jimmy Butler: we got Kyle Lowry 
+Kyle Lowry: STFU 😂😂😂 https://t.co/AVWUY4PnOZ</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AEW** |
-| #2 Most tweeted to  | **tntdrama** |
-| #3 Most tweeted to  | **TonyKhan** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 4.04%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **mevvybear** |
+| #2 Most tweeted to  | **BenStinar** |
+| #3 Most tweeted to  | **ClutchPointsApp** |
+| NewProfiles (less than 10 days) | 0.16%  |
+| Tweeters with < 10 followers  | 4.3%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **walkerspo3**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **AEWCOLLISION**  |
-| second  | **WRESTLING**  |
-| third  | **NIGHT** |
-| fourth  | **TNT**  |
-| fifth  | **BROS**  |
+| first  | **JIMMY**  |
+| second  | **BUTLER**  |
+| third  | **NEVER** |
+| fourth  | **NBA**  |
+| fifth  | **GAME**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-17BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-18BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-17sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
+![image](assets/2023-05-18sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli… |
+|RT @taylorcsnow: Jimmy Butler on Marcus Smart: "He was making all the right plays ... He defended incredibly well. Made shots, too. I think… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **walkerspo3**  |
+| The most retweeted user is: **Martin2302**  |
 | ------------- |
-| RT @AEW: As announced at the Warner Bros. Discovery 2023 Upfront presentation today, TNT will launch a second night of professional wrestli… |
+| RT @Brendan_Tobin: What sets you apart from the typical 8-seedJimmy Butler: we got Kyle Lowry Kyle Lowry: STFU 😂😂😂 https://t.co/AVWUY4PnOZ |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
