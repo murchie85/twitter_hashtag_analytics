@@ -1,38 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Jimmy Butler"**
+&#x1F34E; **TOPIC = "#StreamingDay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-18hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-05-20hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-18TWEETS.png)
+![image](assets/2023-05-20TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @NBA: "That's what anybody wants out of life...to be wanted, be appreciated..."Jimmy Butler thanks his teammates, coaches, and the @Mi… |
-| RT @SportsCenter: Jimmy Butler's mentality 📈 https://t.co/k7NKqKWV21 |
-| RT @StoolGreenie: Jimmy Butler vs Celtics defenders:vs Jayson Tatum: 22 possessions / 0 points / 0-2vs Al Horford: 18 possessions / 5 p… |
+| @Roku Games of throne #StreamingDay |
+| @Roku #StreamingDay. John Wick 4 |
+| RT @ABCNetwork: Happy National Streaming Day! To celebrate, Hulu has a special streaming deal: $2/month for 3 months for Hulu (With Ads)! C… |
 
-The most popular user is: **Martin2302**
-<div class="alert alert-block alert-danger"> RT @Brendan_Tobin: What sets you apart from the typical 8-seed
-Jimmy Butler: we got Kyle Lowry 
-Kyle Lowry: STFU 😂😂😂 https://t.co/AVWUY4PnOZ</div>
+The most popular user is: **williamsgwynfa**
+<div class="alert alert-block alert-danger"> RT @Roku: 🚨 SWEEPSTAKES ALERT 🚨
+
+Celebrate Streaming Day in style with your very own, brand-new:
+
+🆕 Roku 55" Select Series 4K HDR Roku TV…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **mevvybear** |
-| #2 Most tweeted to  | **BenStinar** |
-| #3 Most tweeted to  | **ClutchPointsApp** |
-| NewProfiles (less than 10 days) | 0.16%  |
-| Tweeters with < 10 followers  | 4.3%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| #1 Most tweeted to  | **Roku** |
+| #2 Most tweeted to  | **DisneyPlus** |
+| #3 Most tweeted to  | **hulu** |
+| NewProfiles (less than 10 days) | 0.37%  |
+| Tweeters with < 10 followers  | 4.9%|
+| Tweeters with > 1000000 followers  | 1.9%  |
 
 
 
@@ -41,28 +43,28 @@ Kyle Lowry: STFU 😂😂😂 https://t.co/AVWUY4PnOZ</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **JIMMY**  |
-| second  | **BUTLER**  |
-| third  | **NEVER** |
-| fourth  | **NBA**  |
-| fifth  | **GAME**  |
+| first  | **STREAMINGDAY**  |
+| second  | **NATIONAL**  |
+| third  | **ROKU** |
+| fourth  | **🚨**  |
+| fifth  | **CELEBRATE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-18BIO.png)
+## Twitter Bio Analysis![image](assets/2023-05-20BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-18sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2023-05-20sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @taylorcsnow: Jimmy Butler on Marcus Smart: "He was making all the right plays ... He defended incredibly well. Made shots, too. I think… |
+|@Roku Independence Day #StreamingDay |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Martin2302**  |
+| The most retweeted user is: **williamsgwynfa**  |
 | ------------- |
-| RT @Brendan_Tobin: What sets you apart from the typical 8-seedJimmy Butler: we got Kyle Lowry Kyle Lowry: STFU 😂😂😂 https://t.co/AVWUY4PnOZ |
+| RT @Roku: 🚨 SWEEPSTAKES ALERT 🚨Celebrate Streaming Day in style with your very own, brand-new:🆕 Roku 55" Select Series 4K HDR Roku TV… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
