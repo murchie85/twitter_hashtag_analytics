@@ -1,43 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Uvalde"**
+&#x1F34E; **TOPIC = "The Navy"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-05-22hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-23hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-05-22TWEETS.png)
+![image](assets/2023-06-23TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ChangeTheSyst14: A #Uvalde survivor’s mom wanted to see what her daughter suffered that tragic day. CNN showed her https://t.co/rj44fzY… |
-| RT @TristanSnell: Uvalde: AR-15Buffalo: AR-15Boulder: AR-15Orlando: AR-15Parkland: AR-15Las Vegas: AR-15Aurora, CO: AR-15Sandy Hook:… |
-| RT @ShimonPro: This is one of the major untold stories in #Uvalde . The medics/emts. Their bosses won’t allow them to speak publicly. So we… |
+| RT @votevets: 🔥🔥 In 90 seconds, U.S. Navy Veteran @RepSherrill, who qualified as an expert in the M-16, Colt 45, and 9mm Beretta, CALLS OUT… |
+| RT @votevets: 🔥🔥 In 90 seconds, U.S. Navy Veteran @RepSherrill, who qualified as an expert in the M-16, Colt 45, and 9mm Beretta, CALLS OUT… |
+| @benshapiro So say your wife or child was on that sub…Would you be okay if the Navy and Coast Guard did nothing bec… https://t.co/SnpGJinNyu |
 
-The most popular user is: **alexusparenteau**
-<div class="alert alert-block alert-danger"> RT @TristanSnell: Uvalde: AR-15
-Buffalo: AR-15
-Boulder: AR-15
-Orlando: AR-15
-Parkland: AR-15
-Las Vegas: AR-15
-Aurora, CO: AR-15
-Sandy Hook:…</div>
+The most popular user is: **ppranger18**
+<div class="alert alert-block alert-danger"> RT @JackPosobiec: HOLY SHLIT
+
+The WSJ is reporting the US Navy detected the Titan implosion on Sunday but Biden held the news until today's…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BerniceKing** |
-| #2 Most tweeted to  | **ChangeTheSyst14** |
-| #3 Most tweeted to  | **ShimonPro** |
-| NewProfiles (less than 10 days) | 0.06%  |
-| Tweeters with < 10 followers  | 1.8%|
-| Tweeters with > 1000000 followers  | 0.16%  |
+| #1 Most tweeted to  | **nicksortor** |
+| #2 Most tweeted to  | **RepSherrill** |
+| #3 Most tweeted to  | **shipwreckshow** |
+| NewProfiles (less than 10 days) | 0.14%  |
+| Tweeters with < 10 followers  | 3.34%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -46,28 +41,28 @@ Sandy Hook:…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **UVALDE**  |
-| second  | **SHOOTING**  |
-| third  | **YEAR** |
-| fourth  | **▪️**  |
-| fifth  | **STORIES**  |
+| first  | **NAVY**  |
+| second  | **US**  |
+| third  | **TITAN** |
+| fourth  | **KNEW**  |
+| fifth  | **SUNDAY**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-05-22BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-23BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-05-22sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (33.33%) **OBJECTIVE** (13.33%)
+![image](assets/2023-06-23sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (46.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @johnpavlovitz: A year after #Uvalde I am going to spend today mourning that it wasn't enough to move you; that Charleston wasn't, Color… |
+|RT @shipwreckshow: US Navy knew the Titan was destroyed since last Sunday.. but let the story clog news feed all week taking away from •… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **alexusparenteau**  |
+| The most retweeted user is: **ppranger18**  |
 | ------------- |
-| RT @TristanSnell: Uvalde: AR-15Buffalo: AR-15Boulder: AR-15Orlando: AR-15Parkland: AR-15Las Vegas: AR-15Aurora, CO: AR-15Sandy Hook:… |
+| RT @JackPosobiec: HOLY SHLITThe WSJ is reporting the US Navy detected the Titan implosion on Sunday but Biden held the news until today's… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
