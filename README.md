@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Moscow"**
+&#x1F34E; **TOPIC = "Lance Armstrong"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-24hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-24TWEETS.png)
+![image](assets/2023-06-25TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mfa_russia: ⭐️ #OTD in 1945, a historic parade was held in Moscow to mark the USSR’s triumph over Nazi Germany in the Great Patriotic W… |
-| RT @ABarbashin: One takeaway - if you have an army you can nearly reach Moscow in less than 24 hours from the border of Ukraine. |
-| RT @visegrad24: Crazy to think we were just 200km short from getting to live tweet the Battle of Moscow 2023. |
+| RT @mikurubaeahina: Lance Armstrong is so banned from sports that the IOC can legally call in an airstrike on his location if he joins a ga… |
+| RT @mikurubaeahina: Lance Armstrong is so banned from sports that the IOC can legally call in an airstrike on his location if he joins a ga… |
+| RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
 
-The most popular user is: **Arroyo523751942**
-<div class="alert alert-block alert-danger"> RT @pauldarketh: help finish it, just connect and verify your wallet. 👇
-
-🔗 https://t.co/gKgBPSUhnJ
-
-#Putin #KiaraAdvani #UFCJacksonville #W…</div>
+The most popular user is: **kosherbuddha**
+<div class="alert alert-block alert-danger"> RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **DefenceU** |
-| #2 Most tweeted to  | **visegrad24** |
-| #3 Most tweeted to  | **Osinttechnical** |
-| NewProfiles (less than 10 days) | 0.14%  |
-| Tweeters with < 10 followers  | 3.2%|
-| Tweeters with > 1000000 followers  | 0.1%  |
+| #1 Most tweeted to  | **MikeDrucker** |
+| #2 Most tweeted to  | **matthewjdowd** |
+| #3 Most tweeted to  | **mikurubaeahina** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 1.68%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **Arroyo523751942**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MOSCOW**  |
-| second  | **WAGNER**  |
-| third  | **PRIGOZHIN** |
-| fourth  | **PUTIN**  |
-| fifth  | **RUSSIAN**  |
+| first  | **ARMSTRONG**  |
+| second  | **LANCE**  |
+| third  | **PEOPLE** |
+| fourth  | **SPORTS**  |
+| fifth  | **LECTURING**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-24BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-25BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-24sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-06-25sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @amuse: PEACE: Looks like the coup in Russia is over. The CIA's operation seems to have failed. Wagner leader Prigozhin ‘agrees to STAND… |
+|RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Arroyo523751942**  |
+| The most retweeted user is: **kosherbuddha**  |
 | ------------- |
-| RT @pauldarketh: help finish it, just connect and verify your wallet. 👇🔗 https://t.co/gKgBPSUhnJ#Putin #KiaraAdvani #UFCJacksonville #W… |
+| RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
