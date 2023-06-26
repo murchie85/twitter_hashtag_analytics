@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Lance Armstrong"**
+&#x1F34E; **TOPIC = "John Collins"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-25hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-25TWEETS.png)
+![image](assets/2023-06-26TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @mikurubaeahina: Lance Armstrong is so banned from sports that the IOC can legally call in an airstrike on his location if he joins a ga… |
-| RT @mikurubaeahina: Lance Armstrong is so banned from sports that the IOC can legally call in an airstrike on his location if he joins a ga… |
-| RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
+| RT @szn_holiday: The Pacers got more for moving back 1 spot in the draft than the Hawks did for John Collins https://t.co/TrOrxwmXZh |
+| Suns fans… WE’RE FINALLY FREE OF THE JOHN COLLINS TRADE RUMORS |
+| RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic… |
 
-The most popular user is: **kosherbuddha**
-<div class="alert alert-block alert-danger"> RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou…</div>
+The most popular user is: **og_LT14**
+<div class="alert alert-block alert-danger"> RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **MikeDrucker** |
-| #2 Most tweeted to  | **matthewjdowd** |
-| #3 Most tweeted to  | **mikurubaeahina** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 1.68%|
-| Tweeters with > 1000000 followers  | 0.06%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **big_business_** |
+| #3 Most tweeted to  | **KevinOConnorNBA** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 2.76%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **kosherbuddha**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARMSTRONG**  |
-| second  | **LANCE**  |
-| third  | **PEOPLE** |
-| fourth  | **SPORTS**  |
-| fifth  | **LECTURING**  |
+| first  | **COLLINS**  |
+| second  | **JOHN**  |
+| third  | **JAZZ** |
+| fourth  | **HAWKS**  |
+| fifth  | **TRADE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-25BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-26BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-25sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (46.67%) **OBJECTIVE** (33.33%)
+![image](assets/2023-06-26sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
+|RT @esidery: After the Jazz acquired John Collins, only six teams currently project to have $30+ million in cap space for free agency:Roc… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **kosherbuddha**  |
+| The most retweeted user is: **og_LT14**  |
 | ------------- |
-| RT @matthewjdowd: In the last 24 hours, we have Lance Armstrong lecturing people about sports fairness, Meghan McCain lecturing people abou… |
+| RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
