@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "John Collins"**
+&#x1F34E; **TOPIC = "#Havoc"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-26hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-26TWEETS.png)
+![image](assets/2023-06-27TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @szn_holiday: The Pacers got more for moving back 1 spot in the draft than the Hawks did for John Collins https://t.co/TrOrxwmXZh |
-| Suns fans… WE’RE FINALLY FREE OF THE JOHN COLLINS TRADE RUMORS |
-| RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic… |
+| RT @havoc_rip: Stay safe out there!Even if you don’t plan on using our platform as a sniper. Our #AntiRug may be able to save you from ho… |
+| (Unverified) Havoc FoundC2: 167[.]56[.]112[.]216:443Country: Uruguay (AS6057)ASN: Administracion Nacio...#c2 #Havoc #unverified |
+| RT @Beefeater_Fella: They have arrived in Europe..Next step - Ukraine#A10 #Havoc #SlavaUkrainii https://t.co/OVtUDYUkOJ |
 
-The most popular user is: **og_LT14**
-<div class="alert alert-block alert-danger"> RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic…</div>
+The most popular user is: **lanree14**
+<div class="alert alert-block alert-danger"> RT @hiphopsince76: When it comes to producers, I NEVER hear this dude mentioned here. He crafted that grimy #MobbDeep sound. He's also prod…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **big_business_** |
-| #3 Most tweeted to  | **KevinOConnorNBA** |
-| NewProfiles (less than 10 days) | 0.2%  |
-| Tweeters with < 10 followers  | 2.76%|
-| Tweeters with > 1000000 followers  | 0.12%  |
+| #1 Most tweeted to  | **Beefeater_Fella** |
+| #2 Most tweeted to  | **havoc_rip** |
+| #3 Most tweeted to  | **BenCryptoShow** |
+| NewProfiles (less than 10 days) | 0.64%  |
+| Tweeters with < 10 followers  | 5.11%|
+| Tweeters with > 1000000 followers  | 0.0%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **og_LT14**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **COLLINS**  |
-| second  | **JOHN**  |
-| third  | **JAZZ** |
-| fourth  | **HAWKS**  |
-| fifth  | **TRADE**  |
+| first  | **HAVOC**  |
+| second  | **NEXT**  |
+| third  | **ARRIVED** |
+| fourth  | **EUROPE**  |
+| fifth  | **STEP**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-26BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-27BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-26sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (53.33%)
+![image](assets/2023-06-27sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @esidery: After the Jazz acquired John Collins, only six teams currently project to have $30+ million in cap space for free agency:Roc… |
+|Mobb Deep - Survival of the Fittest (Official Video) [Explicit] https://t.co/VpEIBxx28Z via @YouTube #WDMV362RADIO… https://t.co/WafGCGCNFh |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **og_LT14**  |
+| The most retweeted user is: **lanree14**  |
 | ------------- |
-| RT @wojespn: ESPN Sources: The Hawks are finalizing a trade to send F/C John Collins to the Jazz for Rudy Gay and a future second-round pic… |
+| RT @hiphopsince76: When it comes to producers, I NEVER hear this dude mentioned here. He crafted that grimy #MobbDeep sound. He's also prod… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
