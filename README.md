@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Havoc"**
+&#x1F34E; **TOPIC = "Carr"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-27hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-27TWEETS.png)
+![image](assets/2023-06-28TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @havoc_rip: Stay safe out there!Even if you don’t plan on using our platform as a sniper. Our #AntiRug may be able to save you from ho… |
-| (Unverified) Havoc FoundC2: 167[.]56[.]112[.]216:443Country: Uruguay (AS6057)ASN: Administracion Nacio...#c2 #Havoc #unverified |
-| RT @Beefeater_Fella: They have arrived in Europe..Next step - Ukraine#A10 #Havoc #SlavaUkrainii https://t.co/OVtUDYUkOJ |
+| @alexvnews @SanBernardinoPD @SBPD_CHIEF @SBPDCapt_Carr Damn that six inch shell.... she go big booooom |
+| @NFLbeatster @ESPNNFL Petty carr |
+| @Iromg Why is Jimmy Carr running around in bad drag? |
 
-The most popular user is: **lanree14**
-<div class="alert alert-block alert-danger"> RT @hiphopsince76: When it comes to producers, I NEVER hear this dude mentioned here. He crafted that grimy #MobbDeep sound. He's also prod…</div>
+The most popular user is: **immr_carr**
+<div class="alert alert-block alert-danger"> RT @ygent_official: #TREASURE 'MOVE (T5)' M/V
+
+▶️https://t.co/Oh0Aldiipc 
+
+#트레저 #T5 #T5_MOVE #MOVE #20230628_6PM #OUTNOW #2ndFULLALBUM #REB…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **Beefeater_Fella** |
-| #2 Most tweeted to  | **havoc_rip** |
-| #3 Most tweeted to  | **BenCryptoShow** |
-| NewProfiles (less than 10 days) | 0.64%  |
-| Tweeters with < 10 followers  | 5.11%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **BleacherReport** |
+| #2 Most tweeted to  | **NFL_DovKleiman** |
+| #3 Most tweeted to  | **ESPNNFL** |
+| NewProfiles (less than 10 days) | 2.08%  |
+| Tweeters with < 10 followers  | 8.5%|
+| Tweeters with > 1000000 followers  | 0.2%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **lanree14**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HAVOC**  |
-| second  | **NEXT**  |
-| third  | **ARRIVED** |
-| fourth  | **EUROPE**  |
-| fifth  | **STEP**  |
+| first  | **CARR**  |
+| second  | **DEREK**  |
+| third  | **RAIDERS** |
+| fourth  | **LAST**  |
+| fifth  | **MADE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-27BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-28BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-27sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (6.67%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (93.33%)
+![image](assets/2023-06-28sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Mobb Deep - Survival of the Fittest (Official Video) [Explicit] https://t.co/VpEIBxx28Z via @YouTube #WDMV362RADIO… https://t.co/WafGCGCNFh |
+|RT @larryhuynh: 👏CONGRATS @SenTuberville! You just joined the elite club of MAGA sociopaths who take credit for bills they vote AGAINST!🧵… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **lanree14**  |
+| The most retweeted user is: **immr_carr**  |
 | ------------- |
-| RT @hiphopsince76: When it comes to producers, I NEVER hear this dude mentioned here. He crafted that grimy #MobbDeep sound. He's also prod… |
+| RT @ygent_official: #TREASURE 'MOVE (T5)' M/V▶️https://t.co/Oh0Aldiipc #트레저 #T5 #T5_MOVE #MOVE #20230628_6PM #OUTNOW #2ndFULLALBUM #REB… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
