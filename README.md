@@ -1,40 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Carr"**
+&#x1F34E; **TOPIC = "Harvard"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-28hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-06-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-28TWEETS.png)
+![image](assets/2023-06-29TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| @alexvnews @SanBernardinoPD @SBPD_CHIEF @SBPDCapt_Carr Damn that six inch shell.... she go big booooom |
-| @NFLbeatster @ESPNNFL Petty carr |
-| @Iromg Why is Jimmy Carr running around in bad drag? |
+| RT @charliekirk11: BREAKING: Along with giving Harvard a bloody nose, the Supreme Court has also unanimously strengthened the right of Chri… |
+| RT @BettyBowers: The people against affirmative action had no problem with Jared Kushner's felonious daddy getting dim-bulb Jared into Harv… |
+| RT @JoeyMannarinoUS: Barack Obama just claimed that Black people were “systematically excluded from most of America’s key institutions.”… |
 
-The most popular user is: **immr_carr**
-<div class="alert alert-block alert-danger"> RT @ygent_official: #TREASURE 'MOVE (T5)' M/V
-
-▶️https://t.co/Oh0Aldiipc 
-
-#트레저 #T5 #T5_MOVE #MOVE #20230628_6PM #OUTNOW #2ndFULLALBUM #REB…</div>
+The most popular user is: **mudlock**
+<div class="alert alert-block alert-danger"> RT @samswey: Reminder: Harvard admits more white students with legacy preferences than the total number of black students admitted each yea…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **BleacherReport** |
-| #2 Most tweeted to  | **NFL_DovKleiman** |
-| #3 Most tweeted to  | **ESPNNFL** |
-| NewProfiles (less than 10 days) | 2.08%  |
-| Tweeters with < 10 followers  | 8.5%|
-| Tweeters with > 1000000 followers  | 0.2%  |
+| #1 Most tweeted to  | **AOC** |
+| #2 Most tweeted to  | **JoeyMannarinoUS** |
+| #3 Most tweeted to  | **CalltoActivism** |
+| NewProfiles (less than 10 days) | 0.12%  |
+| Tweeters with < 10 followers  | 3.02%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -43,28 +39,28 @@ The most popular user is: **immr_carr**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **CARR**  |
-| second  | **DEREK**  |
-| third  | **RAIDERS** |
-| fourth  | **LAST**  |
-| fifth  | **MADE**  |
+| first  | **HARVARD**  |
+| second  | **ADMISSIONS**  |
+| third  | **SUPREME** |
+| fourth  | **AFFIRMATIVE**  |
+| fifth  | **ACTION**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-28BIO.png)
+## Twitter Bio Analysis![image](assets/2023-06-29BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-28sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (50.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (50.0%)
+![image](assets/2023-06-29sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @larryhuynh: 👏CONGRATS @SenTuberville! You just joined the elite club of MAGA sociopaths who take credit for bills they vote AGAINST!🧵… |
+|@Nextd00rNeighbO @nhannahjones So study hard, get good grades, high scores on the SATs, and get into top schools on… https://t.co/ZDpoYWPOlO |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **immr_carr**  |
+| The most retweeted user is: **mudlock**  |
 | ------------- |
-| RT @ygent_official: #TREASURE 'MOVE (T5)' M/V▶️https://t.co/Oh0Aldiipc #트레저 #T5 #T5_MOVE #MOVE #20230628_6PM #OUTNOW #2ndFULLALBUM #REB… |
+| RT @samswey: Reminder: Harvard admits more white students with legacy preferences than the total number of black students admitted each yea… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
