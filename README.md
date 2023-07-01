@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Harvard"**
+&#x1F34E; **TOPIC = "Rob Pelinka"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-06-29hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-06-29TWEETS.png)
+![image](assets/2023-07-01TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @charliekirk11: BREAKING: Along with giving Harvard a bloody nose, the Supreme Court has also unanimously strengthened the right of Chri… |
-| RT @BettyBowers: The people against affirmative action had no problem with Jared Kushner's felonious daddy getting dim-bulb Jared into Harv… |
-| RT @JoeyMannarinoUS: Barack Obama just claimed that Black people were “systematically excluded from most of America’s key institutions.”… |
+| RT @LakersLead: Lakers updated depth chartPG: D’Angelo Russell, Gabe Vincent, Jalen Hood-SchifinoSG: Austin Reaves*, Max ChristieSF: Le… |
+| RT @LakersLead: Lakers updated depth chartPG: Gabe Vincent, Jalen Hood-SchifinoSG: Austin Reaves*, Max ChristieSF: LeBron James, Cam Re… |
+| RT @RealSkipBayless: Rob Pelinka just keeps WINNING, making big little moves. Hachimura, done. Love Gabe Vincent's swagger, 20-pt-game pote… |
 
-The most popular user is: **mudlock**
-<div class="alert alert-block alert-danger"> RT @samswey: Reminder: Harvard admits more white students with legacy preferences than the total number of black students admitted each yea…</div>
+The most popular user is: **Sanco_Cousteau**
+<div class="alert alert-block alert-danger"> RT @KendrickPerkins: Rob Pelinka needs to be ashamed of himself for this roster he put together doing the off-season. God Bless America!</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **AOC** |
-| #2 Most tweeted to  | **JoeyMannarinoUS** |
-| #3 Most tweeted to  | **CalltoActivism** |
+| #1 Most tweeted to  | **LakersLead** |
+| #2 Most tweeted to  | **LakeShowYo** |
+| #3 Most tweeted to  | **RealSkipBayless** |
 | NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 3.02%|
-| Tweeters with > 1000000 followers  | 0.08%  |
+| Tweeters with < 10 followers  | 3.54%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **mudlock**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **HARVARD**  |
-| second  | **ADMISSIONS**  |
-| third  | **SUPREME** |
-| fourth  | **AFFIRMATIVE**  |
-| fifth  | **ACTION**  |
+| first  | **ROB**  |
+| second  | **PELINKA**  |
+| third  | **GABE** |
+| fourth  | **VINCENT**  |
+| fifth  | **AUSTIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-06-29BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-01BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-06-29sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (53.33%) & **NEGATIVELY-SUBJECTIVE** (40.0%) **OBJECTIVE** (6.67%)
+![image](assets/2023-07-01sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Nextd00rNeighbO @nhannahjones So study hard, get good grades, high scores on the SATs, and get into top schools on… https://t.co/ZDpoYWPOlO |
+|@_Bravooooo Rob Pelinka Masterclass |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **mudlock**  |
+| The most retweeted user is: **Sanco_Cousteau**  |
 | ------------- |
-| RT @samswey: Reminder: Harvard admits more white students with legacy preferences than the total number of black students admitted each yea… |
+| RT @KendrickPerkins: Rob Pelinka needs to be ashamed of himself for this roster he put together doing the off-season. God Bless America! |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
