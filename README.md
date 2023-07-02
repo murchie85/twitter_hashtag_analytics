@@ -1,36 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rob Pelinka"**
+&#x1F34E; **TOPIC = "Brooks"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-01hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-02hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-01TWEETS.png)
+![image](assets/2023-07-02TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @LakersLead: Lakers updated depth chartPG: D’Angelo Russell, Gabe Vincent, Jalen Hood-SchifinoSG: Austin Reaves*, Max ChristieSF: Le… |
-| RT @LakersLead: Lakers updated depth chartPG: Gabe Vincent, Jalen Hood-SchifinoSG: Austin Reaves*, Max ChristieSF: LeBron James, Cam Re… |
-| RT @RealSkipBayless: Rob Pelinka just keeps WINNING, making big little moves. Hachimura, done. Love Gabe Vincent's swagger, 20-pt-game pote… |
+| RT @dangercart: Imagine waking up in the morning owing Fred VanVleet and Dillon Brooks over $200 million |
+| Congrats to @TalorGooch. Guy is absolutely ridiculous. Gotta feel for Bryson there, seems like he’s been working so… https://t.co/gKogFG4842 |
+| RT @TheNBACentel: “I took Ja Morant’s gun with me to the negotiation.”- Dillon Brooks on his 4-year, $80M deal https://t.co/5wJ0EKEWbA |
 
-The most popular user is: **Sanco_Cousteau**
-<div class="alert alert-block alert-danger"> RT @KendrickPerkins: Rob Pelinka needs to be ashamed of himself for this roster he put together doing the off-season. God Bless America!</div>
+The most popular user is: **brooks_ron**
+<div class="alert alert-block alert-danger"> RT @Faa111faaeth: THE $CHAIN AIRDROP IS LIVE! 👁
+
+🔗 https://t.co/tV1u9KRiuB
+
+#bnb #airdrop #xpr #CoinMarketCap #musk #elon #twt #wallet #col…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **LakersLead** |
-| #2 Most tweeted to  | **LakeShowYo** |
-| #3 Most tweeted to  | **RealSkipBayless** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 3.54%|
-| Tweeters with > 1000000 followers  | 0.02%  |
+| #1 Most tweeted to  | **LakeShowYo** |
+| #2 Most tweeted to  | **NBAMemes** |
+| #3 Most tweeted to  | **wojespn** |
+| NewProfiles (less than 10 days) | 0.56%  |
+| Tweeters with < 10 followers  | 5.96%|
+| Tweeters with > 1000000 followers  | 0.06%  |
 
 
 
@@ -39,28 +43,28 @@ The most popular user is: **Sanco_Cousteau**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ROB**  |
-| second  | **PELINKA**  |
-| third  | **GABE** |
-| fourth  | **VINCENT**  |
-| fifth  | **AUSTIN**  |
+| first  | **BROOKS**  |
+| second  | **DILLON**  |
+| third  | **ROCKETS** |
+| fourth  | **@LAKESHOWYO:**  |
+| fifth  | **FRED**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-01BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-02BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-01sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (80.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (20.0%)
+![image](assets/2023-07-02sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (20.0%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (73.33%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@_Bravooooo Rob Pelinka Masterclass |
+|RT @TheNBACentel: “I took Ja Morant’s gun with me to the negotiation.”- Dillon Brooks on his 4-year, $80M deal https://t.co/5wJ0EKEWbA |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Sanco_Cousteau**  |
+| The most retweeted user is: **brooks_ron**  |
 | ------------- |
-| RT @KendrickPerkins: Rob Pelinka needs to be ashamed of himself for this roster he put together doing the off-season. God Bless America! |
+| RT @Faa111faaeth: THE $CHAIN AIRDROP IS LIVE! 👁🔗 https://t.co/tV1u9KRiuB#bnb #airdrop #xpr #CoinMarketCap #musk #elon #twt #wallet #col… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
