@@ -1,36 +1,38 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Arlington"**
+&#x1F34E; **TOPIC = "Honda"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-03hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-04hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-03TWEETS.png)
+![image](assets/2023-07-04TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @SbrtSean: Butterfly Bush in Arlington, Virginia! https://t.co/pXrKcOLRRC |
-| Air and Space, American History, Natural History, Holocaust, Art, Archives…these are just a few of the places our g… https://t.co/tRo7ThfkYE |
-| An Arlington restaurant that underwent a makeover in 2020 is one of the top 50 pizzerias in the U.S., according to… https://t.co/SmrhHAJH08 |
+| @whitestwhitekid @presser_w @d7research @TopDogLaw You have no idea how Honda was driving prior to clip starting.H… https://t.co/qKCyL47Y1v |
+| @TopDogLaw I don't see where the Honda hit the brakes look like he swerved because he watches too many Fast and Furious movies, |
+| Nope. Dumb ass Honda need to slow down and relax https://t.co/eJz7keJWfx |
 
-The most popular user is: **xteuod118138**
-<div class="alert alert-block alert-danger"> RT @taylorswift13: Just had the wildest three nights in Arlington, TX. So proud to be the first artist to play 3 nights at AT&amp;T Stadium &amp; b…</div>
+The most popular user is: **HONDA_S2000_99**
+<div class="alert alert-block alert-danger"> RT @Anonamos_701: "Connect the World"
+
+#holoENConnect #galaxillust https://t.co/b7aRvSYC8Q</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **volleyballworld** |
-| #2 Most tweeted to  | **SB19Official** |
-| #3 Most tweeted to  | **brianmctaggart** |
-| NewProfiles (less than 10 days) | 0.28%  |
-| Tweeters with < 10 followers  | 5.64%|
-| Tweeters with > 1000000 followers  | 0.14%  |
+| #1 Most tweeted to  | **TopDogLaw** |
+| #2 Most tweeted to  | **therealdonjibo** |
+| #3 Most tweeted to  | **USMC_NASCARFire** |
+| NewProfiles (less than 10 days) | 0.32%  |
+| Tweeters with < 10 followers  | 11.54%|
+| Tweeters with > 1000000 followers  | 0.08%  |
 
 
 
@@ -39,28 +41,28 @@ The most popular user is: **xteuod118138**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **ARLINGTON**  |
-| second  | **JULY**  |
-| third  | **@VOLLEYBALLWORLD:** |
-| fourth  | **TEXAS**  |
-| fifth  | **NEXT**  |
+| first  | **HONDA**  |
+| second  | **TESLA**  |
+| third  | **@TOPDOGLAW** |
+| fourth  | **DRIVER**  |
+| fifth  | **ACCORD**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-03BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-04BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-03sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2023-07-04sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (26.67%) **OBJECTIVE** (40.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@tkradio Yes!! Three bedroom two bath with an unfinished basement in West Virginia less than half of my condo in Arlington |
+|@raefneerg @Lee_Vertisce @TopDogLaw Oh shit i did not notice the Tesla squatting, you're right. Maybe not intention… https://t.co/0pSTXgg6fn |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **xteuod118138**  |
+| The most retweeted user is: **HONDA_S2000_99**  |
 | ------------- |
-| RT @taylorswift13: Just had the wildest three nights in Arlington, TX. So proud to be the first artist to play 3 nights at AT&amp;T Stadium &amp; b… |
+| RT @Anonamos_701: "Connect the World"#holoENConnect #galaxillust https://t.co/b7aRvSYC8Q |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
