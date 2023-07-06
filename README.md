@@ -1,35 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Scott Baio"**
+&#x1F34E; **TOPIC = "#MortalKombat1"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-05hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-05TWEETS.png)
+![image](assets/2023-07-06TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @ScuderiaAsino: Scott Baio blames his support for Trump as limiting his opportunities.  Did Trump take office in 1990? https://t.co/XkXr… |
-| RT @Declansayshi: @billdubs @bennyjohnson @GavinNewsom California is the fifth largest economy in the world and is the economic engine of t… |
-| @GaryPetersonUSA That’s Scott Baio |
+| RT @MK_habit_addict: OMFG This New MK1 Trailer Is Awesome! Human Smoke! Cyrax! Sektor! Frost! &amp; Rain all revealed! 🐉🩸#MortalKombat1 https:/… |
+| RT @MK_habit_addict: Smoke Wins! 💨🩸#MortalKombat1 #Fatality https://t.co/ihlNtSqfUU |
+| RT @noobde: Tune in to the Kombat Kast today (10am PT) for a ton of new information about #MortalKombat1 including a new game-play trailer!… |
 
-The most popular user is: **FeenetDebbie**
-<div class="alert alert-block alert-danger"> RT @KuckelmanAshley: They have Scott Baio, Dean Cain and Kid Rock. We have Lady Gaga! https://t.co/q3rcBZas8T</div>
+The most popular user is: **AbdallaMardey**
+<div class="alert alert-block alert-danger"> RT @noobde: We got another great game-play trailer koming soon with more MAIN &amp; KAMEO fighter reveals 🐉 
+#MortalKombat1</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **middleageriot** |
-| #2 Most tweeted to  | **bennyjohnson** |
-| #3 Most tweeted to  | **GaryPetersonUSA** |
-| NewProfiles (less than 10 days) | 0.09%  |
-| Tweeters with < 10 followers  | 1.84%|
+| #1 Most tweeted to  | **thethiny** |
+| #2 Most tweeted to  | **MK_habit_addict** |
+| #3 Most tweeted to  | **noobde** |
+| NewProfiles (less than 10 days) | 0.24%  |
+| Tweeters with < 10 followers  | 4.1%|
 | Tweeters with > 1000000 followers  | 0.0%  |
 
 
@@ -39,28 +40,28 @@ The most popular user is: **FeenetDebbie**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **SCOTT**  |
-| second  | **BAIO**  |
-| third  | **KID** |
-| fourth  | **ROCK**  |
-| fifth  | **TED**  |
+| first  | **MORTALKOMBAT1**  |
+| second  | **MK1**  |
+| third  | **NEW** |
+| fourth  | **KOMBAT**  |
+| fifth  | **SMOKE**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-05BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-06BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-05sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (66.67%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (20.0%)
+![image](assets/2023-07-06sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @StephenSilver: What reason would Scott Baio have to still live in California? It's not like he's worked much since the turn of the mill… |
+|RT @planetfrosts: the elemental kings are back😭🫶🏽 #MortalKombat1 https://t.co/URY6HvJSIY |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **FeenetDebbie**  |
+| The most retweeted user is: **AbdallaMardey**  |
 | ------------- |
-| RT @KuckelmanAshley: They have Scott Baio, Dean Cain and Kid Rock. We have Lady Gaga! https://t.co/q3rcBZas8T |
+| RT @noobde: We got another great game-play trailer koming soon with more MAIN &amp; KAMEO fighter reveals 🐉 #MortalKombat1 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
