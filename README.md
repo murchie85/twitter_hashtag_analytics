@@ -1,37 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#MortalKombat1"**
+&#x1F34E; **TOPIC = "Rudy Gay"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-06hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-06TWEETS.png)
+![image](assets/2023-07-08TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @MK_habit_addict: OMFG This New MK1 Trailer Is Awesome! Human Smoke! Cyrax! Sektor! Frost! &amp; Rain all revealed! 🐉🩸#MortalKombat1 https:/… |
-| RT @MK_habit_addict: Smoke Wins! 💨🩸#MortalKombat1 #Fatality https://t.co/ihlNtSqfUU |
-| RT @noobde: Tune in to the Kombat Kast today (10am PT) for a ton of new information about #MortalKombat1 including a new game-play trailer!… |
+| RT @wojespn: The Atlanta Hawks are trading TyTy Washington, Usman Garuba,  Rudy Gay and a second-round pick to the Oklahoma City Thunder fo… |
+| @wojespn @FredKatz exciting times. Rudy Gay finally makes his way to OKC. 6 years too late |
+| In: Taylor Hendricks, John Collins, Taylor Hendricks, Keyonte George, Brice Sensabaugh, Joey HauserOut: Udoka Azu… https://t.co/i2gVQq0DuJ |
 
-The most popular user is: **AbdallaMardey**
-<div class="alert alert-block alert-danger"> RT @noobde: We got another great game-play trailer koming soon with more MAIN &amp; KAMEO fighter reveals 🐉 
-#MortalKombat1</div>
+The most popular user is: **carreon_rudy**
+<div class="alert alert-block alert-danger"> RT @YaBoyBr3tt: Rev up those printers and start putting no straights allowed at the gay clubs</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **thethiny** |
-| #2 Most tweeted to  | **MK_habit_addict** |
-| #3 Most tweeted to  | **noobde** |
-| NewProfiles (less than 10 days) | 0.24%  |
-| Tweeters with < 10 followers  | 4.1%|
-| Tweeters with > 1000000 followers  | 0.0%  |
+| #1 Most tweeted to  | **wojespn** |
+| #2 Most tweeted to  | **LegionHoops** |
+| #3 Most tweeted to  | **TheHoopCentral** |
+| NewProfiles (less than 10 days) | 0.08%  |
+| Tweeters with < 10 followers  | 2.96%|
+| Tweeters with > 1000000 followers  | 0.23%  |
 
 
 
@@ -40,28 +39,28 @@ The most popular user is: **AbdallaMardey**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **MORTALKOMBAT1**  |
-| second  | **MK1**  |
-| third  | **NEW** |
-| fourth  | **KOMBAT**  |
-| fifth  | **SMOKE**  |
+| first  | **RUDY**  |
+| second  | **GAY**  |
+| third  | **TYTY** |
+| fourth  | **WASHINGTON**  |
+| fifth  | **USMAN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-06BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-08BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-06sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (40.0%) & **NEGATIVELY-SUBJECTIVE** (13.33%) **OBJECTIVE** (46.67%)
+![image](assets/2023-07-08sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|RT @planetfrosts: the elemental kings are back😭🫶🏽 #MortalKombat1 https://t.co/URY6HvJSIY |
+|Rudy gay def bout to get a buyout |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **AbdallaMardey**  |
+| The most retweeted user is: **carreon_rudy**  |
 | ------------- |
-| RT @noobde: We got another great game-play trailer koming soon with more MAIN &amp; KAMEO fighter reveals 🐉 #MortalKombat1 |
+| RT @YaBoyBr3tt: Rev up those printers and start putting no straights allowed at the gay clubs |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
