@@ -1,36 +1,36 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Rudy Gay"**
+&#x1F34E; **TOPIC = "Aaron Nola"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-08hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-09hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-08TWEETS.png)
+![image](assets/2023-07-09TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @wojespn: The Atlanta Hawks are trading TyTy Washington, Usman Garuba,  Rudy Gay and a second-round pick to the Oklahoma City Thunder fo… |
-| @wojespn @FredKatz exciting times. Rudy Gay finally makes his way to OKC. 6 years too late |
-| In: Taylor Hendricks, John Collins, Taylor Hendricks, Keyonte George, Brice Sensabaugh, Joey HauserOut: Udoka Azu… https://t.co/i2gVQq0DuJ |
+| RT @MattGelb: Aaron Nola has allowed 20 homers this season, one more than all of last season. Of those 20, 11 are solo homers. |
+| RT @MarcFarzetta: Aaron Nola+Phillies out-duel Zach Eflin | Don't know what the 76ers are doing? Neither do they https://t.co/jZ5jEn8duo |
+| Is Aaron Nola the best MLB player of all time? He cashed the taco by himself 😂 https://t.co/ROqU2Rrail |
 
-The most popular user is: **carreon_rudy**
-<div class="alert alert-block alert-danger"> RT @YaBoyBr3tt: Rev up those printers and start putting no straights allowed at the gay clubs</div>
+The most popular user is: **Mr_Aaron_Jordan**
+<div class="alert alert-block alert-danger"> RT @KryssyLaReina: Van Van in the NOLA baby!  https://t.co/6NiKCruhA6</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **wojespn** |
-| #2 Most tweeted to  | **LegionHoops** |
-| #3 Most tweeted to  | **TheHoopCentral** |
-| NewProfiles (less than 10 days) | 0.08%  |
-| Tweeters with < 10 followers  | 2.96%|
-| Tweeters with > 1000000 followers  | 0.23%  |
+| #1 Most tweeted to  | **Phillies_Muse** |
+| #2 Most tweeted to  | **Phillies** |
+| #3 Most tweeted to  | **TalkinBaseball_** |
+| NewProfiles (less than 10 days) | 0.2%  |
+| Tweeters with < 10 followers  | 2.76%|
+| Tweeters with > 1000000 followers  | 0.12%  |
 
 
 
@@ -39,28 +39,28 @@ The most popular user is: **carreon_rudy**
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **RUDY**  |
-| second  | **GAY**  |
-| third  | **TYTY** |
-| fourth  | **WASHINGTON**  |
-| fifth  | **USMAN**  |
+| first  | **NOLA**  |
+| second  | **AARON**  |
+| third  | **PHILLIES** |
+| fourth  | **1**  |
+| fifth  | **EFLIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-08BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-09BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-08sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (86.67%) & **NEGATIVELY-SUBJECTIVE** (6.67%) **OBJECTIVE** (6.67%)
+![image](assets/2023-07-09sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (33.33%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (66.67%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|Rudy gay def bout to get a buyout |
+|RT @PhilliesNotes: With his 30th career double-digit strikeout game, Aaron Nola moved into sole possession of third place in Phillies franc… |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **carreon_rudy**  |
+| The most retweeted user is: **Mr_Aaron_Jordan**  |
 | ------------- |
-| RT @YaBoyBr3tt: Rev up those printers and start putting no straights allowed at the gay clubs |
+| RT @KryssyLaReina: Van Van in the NOLA baby!  https://t.co/6NiKCruhA6 |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
