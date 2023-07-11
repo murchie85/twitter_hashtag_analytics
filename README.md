@@ -1,39 +1,40 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "Turkey"**
+&#x1F34E; **TOPIC = "#Optimism"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-10hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-10TWEETS.png)
+![image](assets/2023-07-11TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @Sticht_Sobibor: 09.07.1943 | #OTD Toni Laqueur, born in Wrocław (Pl) (Breslau), is murdered along with her 2nd husband Bernard Lelyveld… |
-| RT @lenaargiri: .@StateDept we do not believe Turkey’s EU aspirations should be an impediment to Sweden’s NATO accession/these two are sepa… |
-| @BBCWorld Turkey isn't Europe! |
+| RT @FUNCTIONX_IO: 🚀 f(x)Wallet v3.1 is now available for download on App Store 🍎 and Google Play 🤖 🔥What's new ✅️ f(x)Bridge now suppor… |
+| Otherside $BTC $azuki #USDT #Ethereum #BAYC #NFT #bitcoin $ARB $XRP #ETH #Binance Tether #Shiba Matic #AVAX #crypto… https://t.co/psKUs7E8w1 |
+| RT @SaraiETH89: Did you know that you can check your eligibility for the upcoming LayerZero airdrop?A thread 1/3 🧵#LayerZero $ZRO #ZRO… |
 
-The most popular user is: **moose_turkey**
-<div class="alert alert-block alert-danger"> RT @Mosesdegen: How i made $132,323 from the recent Scroll $SCR airdrop!
+The most popular user is: **Anksi5**
+<div class="alert alert-block alert-danger"> RT @opnamesorg: Hey #ONS-Fans 
 
-A thread
-1/3 🧵 https://t.co/zrldIjzDL1</div>
+Introducing .op Domain Name Service, a #Web3 Domain identifier built on @optimismFND.
+
+Learn more about wha…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **nexta_tv** |
-| #2 Most tweeted to  | **dom_lucre** |
-| #3 Most tweeted to  | **KulganofCrydee** |
-| NewProfiles (less than 10 days) | 0.12%  |
-| Tweeters with < 10 followers  | 7.72%|
-| Tweeters with > 1000000 followers  | 0.22%  |
+| #1 Most tweeted to  | **SaraiETH89** |
+| #2 Most tweeted to  | **CutiePieETH** |
+| #3 Most tweeted to  | **optimismFND** |
+| NewProfiles (less than 10 days) | 0.04%  |
+| Tweeters with < 10 followers  | 64.48%|
+| Tweeters with > 1000000 followers  | 0.02%  |
 
 
 
@@ -42,28 +43,28 @@ A thread
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **TURKEY**  |
-| second  | **NATO**  |
-| third  | **EU** |
-| fourth  | **ERDOGAN**  |
-| fifth  | **CONTINUE**  |
+| first  | **LAYERZERO**  |
+| second  | **ETHEREUM**  |
+| third  | **NFT** |
+| fourth  | **ETH**  |
+| fifth  | **BITCOIN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-10BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-11BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-10sentiment.png)
-VIEWS WERE : **SUBJECTIVE**  (30.77%) & **NEGATIVELY-SUBJECTIVE** (15.38%) **OBJECTIVE** (53.85%)
+![image](assets/2023-07-11sentiment.png)
+VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|@Y70366313 @clashreport Ur geography sucks. There’s no way that Russia can attack Sweden except through a narrow co… https://t.co/kjrBmDplLi |
+|🔥 TRENDING 🔥🚀 PRICE TOPPED: LTC-USDTMight be good time to sell.⚡ Free Limit order &amp; Market order at… https://t.co/CmY7aVO9pI |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **moose_turkey**  |
+| The most retweeted user is: **Anksi5**  |
 | ------------- |
-| RT @Mosesdegen: How i made $132,323 from the recent Scroll $SCR airdrop!A thread1/3 🧵 https://t.co/zrldIjzDL1 |
+| RT @opnamesorg: Hey #ONS-Fans Introducing .op Domain Name Service, a #Web3 Domain identifier built on @optimismFND.Learn more about wha… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
