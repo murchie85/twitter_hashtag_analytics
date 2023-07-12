@@ -1,39 +1,41 @@
 # MURCHIE85 TWITTER PROCESSING 
-&#x1F34E; **TOPIC = "#Optimism"**
+&#x1F34E; **TOPIC = "Sini"**
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](assets/2023-07-11hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
+![image](assets/2023-07-12hashtagImage.png)*note: Image pulled from web automatically, not connected to author.
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
 
 
-![image](assets/2023-07-11TWEETS.png)
+![image](assets/2023-07-12TWEETS.png)
 
 
 
 |                **Sample-Tweets**        |
 | :-------------: |
-| RT @FUNCTIONX_IO: 🚀 f(x)Wallet v3.1 is now available for download on App Store 🍎 and Google Play 🤖 🔥What's new ✅️ f(x)Bridge now suppor… |
-| Otherside $BTC $azuki #USDT #Ethereum #BAYC #NFT #bitcoin $ARB $XRP #ETH #Binance Tether #Shiba Matic #AVAX #crypto… https://t.co/psKUs7E8w1 |
-| RT @SaraiETH89: Did you know that you can check your eligibility for the upcoming LayerZero airdrop?A thread 1/3 🧵#LayerZero $ZRO #ZRO… |
+| i might need to kill sukuna myself lah sini jo gue bantuin dah lu😭😭😭😭😭😭 |
+| @lapakZB1 https://t.co/YpRGmC65Uu sini nder jump up ya bisa qris / spay laterr |
+| @zheraze_ Yuk join sini, kak @dear_flwr lagi open reseller (opress)✓ Twitter Blue✓ Sosmed Needs ✓ Unlock Docs✓… https://t.co/NFL1TmvrCe |
 
-The most popular user is: **Anksi5**
-<div class="alert alert-block alert-danger"> RT @opnamesorg: Hey #ONS-Fans 
+The most popular user is: **sini_pin**
+<div class="alert alert-block alert-danger"> RT @BamBam1A: 2023-2024 BamBam THE 1ST WORLD TOUR [AREA 52]
 
-Introducing .op Domain Name Service, a #Web3 Domain identifier built on @optimismFND.
-
-Learn more about wha…</div>
+23.09.16. SEOUL
+23.09.22. MANILA
+23.09.30. MACAU
+23.10.15. KUALA LUMPUR
+23.10.…</div>
 
 ## RELATED METRICS<br>
 | Metric | Value |
 | ------------- | ------------- |
-| #1 Most tweeted to  | **SaraiETH89** |
-| #2 Most tweeted to  | **CutiePieETH** |
-| #3 Most tweeted to  | **optimismFND** |
-| NewProfiles (less than 10 days) | 0.04%  |
-| Tweeters with < 10 followers  | 64.48%|
+| #1 Most tweeted to  | **jeffrazi** |
+| #2 Most tweeted to  | **7btsupdates** |
+| #3 Most tweeted to  | **BanyuSadewa** |
+| NewProfiles (less than 10 days) | 1.26%  |
+| Tweeters with < 10 followers  | 7.16%|
 | Tweeters with > 1000000 followers  | 0.02%  |
 
 
@@ -43,28 +45,28 @@ Learn more about wha…</div>
 
 | Popularity Rank  | Term |
 | ------------- | ------------- |
-| first  | **LAYERZERO**  |
-| second  | **ETHEREUM**  |
-| third  | **NFT** |
-| fourth  | **ETH**  |
-| fifth  | **BITCOIN**  |
+| first  | **SINI**  |
+| second  | **JUNGKOOK**  |
+| third  | **1** |
+| fourth  | **DI**  |
+| fifth  | **SEVEN**  |
 
 
-## Twitter Bio Analysis![image](assets/2023-07-11BIO.png)
+## Twitter Bio Analysis![image](assets/2023-07-12BIO.png)
 ### SENTIMENT ANALYSIS
-![image](assets/2023-07-11sentiment.png)
+![image](assets/2023-07-12sentiment.png)
 VIEWS WERE : **SUBJECTIVE**  (0.0%) & **NEGATIVELY-SUBJECTIVE** (0.0%) **OBJECTIVE** (100.0%)
 
 ### TWEET SAMPLE 
 | Random value picked from array |
 | ------------- |
-|🔥 TRENDING 🔥🚀 PRICE TOPPED: LTC-USDTMight be good time to sell.⚡ Free Limit order &amp; Market order at… https://t.co/CmY7aVO9pI |
+|@vaancxme get 900k sung cair / get 920 reg cair soreee kaaa sini 🤗 https://t.co/Bs6Chzvw4G |
 
 ### MOST RETWEETED 
 
-| The most retweeted user is: **Anksi5**  |
+| The most retweeted user is: **sini_pin**  |
 | ------------- |
-| RT @opnamesorg: Hey #ONS-Fans Introducing .op Domain Name Service, a #Web3 Domain identifier built on @optimismFND.Learn more about wha… |
+| RT @BamBam1A: 2023-2024 BamBam THE 1ST WORLD TOUR [AREA 52]23.09.16. SEOUL23.09.22. MANILA23.09.30. MACAU23.10.15. KUALA LUMPUR23.10.… |
 
 ### CONCLUSION & EXTERNAL ANALYSIS
 
